@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hyperlien — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XldgYwpAMM4AASof6OgAAADJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hyperlien","wgTitle":"Hyperlien","wgCurRevisionId":166375610,"wgRevisionId":166375610,"wgArticleId":67287,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Portail:Informatique/Articles liés","Portail:Technologies/Articles liés","Portail:Sciences/Articles liés","Portail:Internet/Articles liés","Portail:Médias/Articles liés",
+"Portail:Web sémantique/Articles liés","World Wide Web","Hypertexte","Outil du livre"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Hyperlien","wgRelevantArticleId":67287,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q102014","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.pygments":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.pygments%2CwikimediaBadges%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyperlink-Wikipedia.svg/1200px-Hyperlink-Wikipedia.svg.png"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Hyperlien&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Hyperlien&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Hyperlien"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hyperlien rootpage-Hyperlien skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Hyperlien</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="homonymie"><a href="/wiki/Aide:Homonymie" title="Aide:Homonymie"><img alt="Page d’aide sur l’homonymie" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/20px-Disambig_colour.svg.png" decoding="async" width="20" height="15" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/30px-Disambig_colour.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disambig_colour.svg/40px-Disambig_colour.svg.png 2x" data-file-width="272" data-file-height="200" /></a> Pour les articles homonymes, voir <a href="/wiki/Lien" class="mw-disambig" title="Lien">Lien</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Hyperlink-Wikipedia.svg" class="image"><img alt="Hyperlien wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyperlink-Wikipedia.svg/220px-Hyperlink-Wikipedia.svg.png" decoding="async" width="220" height="98" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyperlink-Wikipedia.svg/330px-Hyperlink-Wikipedia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hyperlink-Wikipedia.svg/440px-Hyperlink-Wikipedia.svg.png 2x" data-file-width="90" data-file-height="40" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Hyperlink-Wikipedia.svg" class="internal" title="Agrandir"></a></div><a href="/wiki/Souris_(informatique)" title="Souris (informatique)">Pointeur de souris</a> en forme de main au-dessus d'un hyperlien <a href="/wiki/Wikip%C3%A9dia" title="Wikipédia">Wikipédia</a>.</div></div></div>
+<p>Un <b>hyperlien</b> ou <b>lien hypertexte</b>, est une référence dans un système <a href="/wiki/Hypertexte" title="Hypertexte">hypertexte</a> permettant de passer automatiquement d'un document consulté à un autre document. Il a été inventé par <a href="/wiki/Ted_Nelson" title="Ted Nelson">Ted Nelson</a> en <a href="/wiki/1965" title="1965">1965</a> dans le cadre du <a href="/wiki/Projet_Xanadu" title="Projet Xanadu">projet Xanadu</a>. Depuis les <a href="/wiki/Ann%C3%A9es_1990" title="Années 1990">années 1990</a>, les hyperliens sont notamment utilisés dans le <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> pour permettre le passage d'une <a href="/wiki/Page_web" title="Page web">page web</a> à une autre.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2 id="mw-toc-heading">Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Histoire"><span class="tocnumber">1</span> <span class="toctext">Histoire</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Types_de_liens"><span class="tocnumber">2</span> <span class="toctext">Types de liens</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Source_et_destination"><span class="tocnumber">3</span> <span class="toctext">Source et destination</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Technologies"><span class="tocnumber">4</span> <span class="toctext">Technologies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#World_Wide_Web"><span class="tocnumber">4.1</span> <span class="toctext">World Wide Web</span></a>
+<ul>
+<li class="toclevel-3 tocsection-6"><a href="#Détails_techniques"><span class="tocnumber">4.1.1</span> <span class="toctext">Détails techniques</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#XML"><span class="tocnumber">4.2</span> <span class="toctext">XML</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Wiki"><span class="tocnumber">4.3</span> <span class="toctext">Wiki</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Autres_technologies"><span class="tocnumber">4.4</span> <span class="toctext">Autres technologies</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Outil_de_militantisme_en_ligne"><span class="tocnumber">5</span> <span class="toctext">Outil de militantisme en ligne</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_et_références"><span class="tocnumber">6</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Voir_aussi"><span class="tocnumber">7</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Articles_connexes"><span class="tocnumber">7.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Liens_externes"><span class="tocnumber">7.2</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Histoire">Histoire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Histoire">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=1" title="Modifier la section : Histoire">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Le terme «&#160;hyperlien&#160;» a été inventé en <a href="/wiki/1965" title="1965">1965</a> (ou possiblement en <a href="/wiki/1964" title="1964">1964</a>) par <a href="/wiki/Ted_Nelson" title="Ted Nelson">Ted Nelson</a> au début du projet <a href="/wiki/Projet_Xanadu" title="Projet Xanadu">projet Xanadu</a>. Nelson avait été inspiré par un essai populaire (<i>As We May Think</i>) écrit par <a href="/wiki/Vannevar_Bush" title="Vannevar Bush">Vannevar Bush</a> en <a href="/wiki/1945" title="1945">1945</a>. Nelson a réussi à transposer le concept de recoupement automatisé de Bush et l'a rendu applicable dans le contexte <a href="/wiki/Informatique" title="Informatique">informatique</a>, cela s'appliquait à des chaînes de caractères spécifiques plutôt qu'à des pages entières.
+</p><p>Pendant ce temps, une équipe dirigée par <a href="/wiki/Douglas_Engelbart" title="Douglas Engelbart">Douglas Engelbart</a> (avec <a href="/w/index.php?title=Jeff_Rulifson&amp;action=edit&amp;redlink=1" class="new" title="Jeff Rulifson (page inexistante)">Jeff Rulifson</a> comme <a href="/wiki/D%C3%A9veloppeur" title="Développeur">programmeur</a> en chef) travaillait indépendamment.
+Cette équipe a été la première à mettre en place le concept d'hyperlien pour le défilement d'un seul document (<a href="/wiki/1966" title="1966">1966</a>), peu de temps après pour la connexion entre des paragraphes dans des documents séparés (<a href="/wiki/1968" title="1968">1968</a>).
+</p><p>En <a href="/wiki/1983" title="1983">1983</a> avec le <a href="/wiki/NLS" class="mw-disambig" title="NLS">NLS</a>, <a href="/wiki/Ben_Shneiderman" title="Ben Shneiderman">Ben Shneiderman</a> et un étudiant diplômé, Dan Ostroff,
+mettent en place les liens surlignés (ou mis en évidence) dans le système <a href="/w/index.php?title=HyperTIES&amp;action=edit&amp;redlink=1" class="new" title="HyperTIES (page inexistante)">HyperTIES</a>. Ce système a été utilisé pour produire le premier journal électronique au monde&#160;; en <a href="/wiki/1988" title="1988">1988</a>, <a href="/wiki/Ben_Shneiderman" title="Ben Shneiderman">Ben Shneiderman</a> et <a href="/w/index.php?title=Greg_Kearsley&amp;action=edit&amp;redlink=1" class="new" title="Greg Kearsley (page inexistante)">Greg Kearsley</a> ont publié grâce à leur système le premier <a href="/wiki/Livre_num%C3%A9rique" title="Livre numérique">livre électronique</a> au monde <i>(Hypertext Hands-On!)</i>.
+</p><p>Un programme de base de données <a href="/wiki/HyperCard" title="HyperCard">HyperCard</a> a été réalisé pour le <a href="/wiki/Macintosh" title="Macintosh">Macintosh</a> de <a href="/wiki/Apple" title="Apple">Apple</a>, ce programme a permis le "hyperlinkage" entre différentes pages d'un document. En <a href="/wiki/1990" title="1990">1990</a>, <a href="/wiki/WinHelp" class="mw-redirect" title="WinHelp">Windows Help</a> propose avec <a href="/wiki/Windows_3.0" title="Windows 3.0">Microsoft Windows 3.0</a> une utilisation générale des hyperliens pour lier différentes pages dans un seul fichier d'aide&#160;; il avait un type d'hyperlien un peu différent, car lorsque l'on  cliquait sur l'hyperlien un message d'aide (ou <a href="/wiki/Popup" class="mw-redirect" title="Popup">popup</a>) apparaissait pour donner généralement des définitions des termes introduits sur la page d'aide. En <a href="/wiki/1991" title="1991">1991</a>, le protocole <a href="/wiki/Gopher" title="Gopher">Gopher</a> est le tout premier protocole public qui comprenait les hyperliens de n'importe quel site Internet à un autre. Il a été cependant mis de côté assez vite par le <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> avec la sortie du navigateur <a href="/wiki/NCSA_Mosaic" title="NCSA Mosaic">Mosaic</a> en <a href="/wiki/1993" title="1993">1993</a>. Ce navigateur pouvait gérer des liens <a href="/wiki/Gopher" title="Gopher">Gopher</a> ainsi que des liens des documents <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a>. Le principal avantage des documents HTML était de pouvoir mixer le graphique, le texte et les hyperliens, contrairement à <a href="/wiki/Gopher" title="Gopher">Gopher</a>.
+</p>
+<h2><span class="mw-headline" id="Types_de_liens">Types de liens</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Types de liens">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=2" title="Modifier la section : Types de liens">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Le lien intégré (<span class="lang-en" lang="en"><i>inline link</i></span>) affiche du contenu distant sans qu'il soit nécessaire d'intégrer le contenu à la page.</li>
+<li class="mw-empty-elt"></li>
+<li>Le lien ancré (<span class="lang-en" lang="en"><i>anchor text</i></span>) fait référence à du contenu dans la page, cela est généralement du texte mais on peut également lui référencer une image.</li>
+<li class="mw-empty-elt"></li>
+<li>Le <a href="/wiki/Lien_%C3%A9pais" title="Lien épais">lien épais</a> (<span class="lang-en" lang="en"><i>fat link</i></span>) est un hyperlien qui mène à plusieurs points terminaux.</li></ul>
+<h2><span class="mw-headline" id="Source_et_destination">Source et destination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Source et destination">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=3" title="Modifier la section : Source et destination">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Un lien hypertexte ou hyperlien permet en cliquant dessus d'atteindre un autre endroit de la page, une autre page ou un autre site évalué comme pertinent par l'auteur. C'est un mode d'organisation d'un document. 
+Il a une source (ou origine) et une destination (ou cible). L'activation de l'élément source d'un hyperlien permet de passer automatiquement à sa destination.
+</p><p>La source d'un hyperlien est généralement un élément (mots, phrases, images) d'un document hypertexte. La destination peut être un autre élément du même document, il s'agit alors d'un hyperlien interne au document. La destination peut également être un autre document, voire un élément précis d'un autre document. Certains systèmes hypertextes ne garantissent pas que la destination existe&#160;: dans ce cas on risque de suivre des hyperliens dits brisés, cassés ou morts.
+</p><p>Un hyperlien est bidirectionnel si sa destination est aussi la source réciproque du même lien. Sinon un lien est unidirectionnel et rien ne distingue un élément destination d'un quelconque autre élément. La destination d'un hyperlien n'est pas forcément un document hypertexte. Le cas échéant, le lien sera forcément unidirectionnel.
+</p>
+<h2><span class="mw-headline" id="Technologies">Technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Technologies">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=4" title="Modifier la section : Technologies">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="World_Wide_Web">World Wide Web</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : World Wide Web">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=5" title="Modifier la section : World Wide Web">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Les hyperliens du <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> se trouvent dans les <a href="/wiki/Page_web" title="Page web">pages web</a>, plus précisément dans des documents écrits en <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a> (<i><span class="lang-en" lang="en">Hypertext Markup Language</span></i>). Les pages web utilisent la notation des <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">URI</a> (<i>Uniform Resource Identifier</i>) pour identifier les documents référencés.
+</p><p>Conventionnellement, les <a href="/wiki/Navigateurs_Web" class="mw-redirect" title="Navigateurs Web">navigateurs Web</a> affichent les hyperliens <a href="/wiki/Soulignement" title="Soulignement">soulignés</a> et en <a href="/wiki/Bleu" title="Bleu">bleu</a>, et en <a href="/wiki/Violet" title="Violet">violet</a> pour les hyperliens déjà consultés. Mais l'apparence des liens est généralement modifiée par chaque concepteur de site Web pour s'intégrer dans sa <a href="/wiki/Charte_graphique" title="Charte graphique">charte graphique</a>. Dans les <a href="/wiki/Interfaces_graphiques" class="mw-redirect" title="Interfaces graphiques">interfaces graphiques</a> fonctionnant par <a href="/wiki/Pointer_et_cliquer" class="mw-redirect" title="Pointer et cliquer">pointer et cliquer</a>, l'apparence du <a href="/wiki/Curseur_(interface)" title="Curseur (interface)">curseur</a> de la souris peut changer en un motif de main pour indiquer un lien.
+</p><p>Les hyperliens du web sont unidirectionnels. Ceci a deux avantages pour le Web. Premièrement cela permet d'utiliser des documents non hypertextes (notamment des sons, des images, des documents à imprimer) comme destination. Deuxièmement cela permet d'établir des hyperliens vers toutes les ressources accessibles d'<a href="/wiki/Internet" title="Internet">Internet</a>, sans coordination avec le responsable du document de destination. Ce dernier n'a aucun contrôle sur les sources d'hyperliens pointant vers son document. Le défaut de cette non coordination est que les changements du document de destination risquent de rendre le lien obsolète sans que le responsable de la source ni de la destination ne s'en rendent compte. Le problème le plus visible apparaît lorsque le document de destination est supprimé&#160;: le lien est alors «&#160;brisé&#160;» ou «&#160;mort&#160;», il fait référence à un document disparu (<a href="/wiki/Erreur_HTTP_404" title="Erreur HTTP 404">erreur 404</a>). 
+</p><p>Le problème du changement d'adresse d'une ressource peut être résolu par diverses approches. Les <a href="/wiki/Blog" title="Blog">blogs</a> utilisent le système du <a href="/wiki/Permalien" title="Permalien">permalien</a>. Les milieux documentaires utilisent la notion d'identifiant pérenne, pour lequel il existe différentes normes&#160;; par exemple la <a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">Bibliothèque Nationale de France</a> utilise le système <a href="/wiki/Archival_Resource_Key_(ARK)" class="mw-redirect" title="Archival Resource Key (ARK)">ARK</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>.
+</p><p>La technique à la base des hyperliens du web est également utilisée pour inclure des images ou des sous-pages dans les pages Web. Une terminologie s'est développée pour différencier ces diverses applications de la technologie du web&#160;:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th colspan="2">Hyperlien
+</th>
+<th>activable
+</th>
+<th>automatique
+</th></tr>
+<tr>
+<th colspan="2">interne
+</th>
+<td>vers une page du même <a href="/wiki/Site_web" title="Site web">site web</a>
+</td>
+<td>image, son, <a href="/wiki/Feuilles_de_style_en_cascade" title="Feuilles de style en cascade">style</a>, etc., intégré à une page&#160;;<br />inclusion de sous-page
+</td></tr>
+<tr>
+<th rowspan="2">externe
+</th>
+<th>—
+</th>
+<td>vers la <a href="/wiki/Page_d%27accueil" title="Page d&#39;accueil">page d'accueil</a> d'un autre <a href="/wiki/Site_web" title="Site web">site web</a>
+</td>
+<td rowspan="2">c'est le <a href="/wiki/Hotlinking" title="Hotlinking">hotlinking</a>*
+</td></tr>
+<tr>
+<th><a href="/wiki/Lien_profond" title="Lien profond">profond</a>*
+</th>
+<td>vers une page quelconque d'un autre <a href="/wiki/Site_web" title="Site web">site web</a>
+</td></tr></tbody></table>
+<p><small>* Ces deux pratiques sont juridiquement délicates.</small>
+</p>
+<h4><span id="D.C3.A9tails_techniques"></span><span class="mw-headline" id="Détails_techniques">Détails techniques</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Détails techniques">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=6" title="Modifier la section : Détails techniques">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Généralement, suivre un lien affiche le document pointé à la place du document contenant le lien. Mais un lien peut être paramétré pour afficher le document pointé dans un nouvel <a href="/wiki/Onglet_(informatique)" title="Onglet (informatique)">onglet</a> ou une nouvelle <a href="/wiki/Fen%C3%AAtre_(informatique)" title="Fenêtre (informatique)">fenêtre</a>. Il est même possible de concevoir un site s'affichant dans plusieurs onglets ou fenêtres avec des liens interagissant entre eux.
+</p><p>Les principales caractéristiques des hyperliens en <a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a> sont&#160;:
+</p>
+<ul><li>la cible du lien, donnée par l'attribut HTML <code>href</code> et une <a href="/wiki/URL" class="mw-redirect" title="URL">URL</a>&#160;;</li>
+<li>l'onglet ou la fenêtre où afficher la cible, donné par l'attribut HTML <code>target</code>&#160;;</li>
+<li>un titre, donné par l'attribut HTML <code>title</code>&#160;;</li>
+<li>enfin le texte, voire l'image, représentant le lien.</li></ul>
+<p>Voici un exemple écrit en HTML, le lien étant représenté par une icône et un texte (<code>&lt;img src=icone-ouvrir.png alt=ouvrir&gt; Wikipédia</code>), la cible étant Wikipédia en français (<code>href="<a class="external free" href="https://fr.wikipedia.org">https://fr.wikipedia.org</a>"</code>), l'affichage se faisant dans une nouvelle fenêtre (<code>target=_blank</code>), le titre étant <i>Wikipédia</i> (<code>title="Wikipédia"</code>)&#160;:
+</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="p">&lt;</span><span class="nt">a</span> <span class="na">href</span><span class="o">=</span><span class="s">&quot;https://fr.wikipedia.org&quot;</span> <span class="na">target</span><span class="o">=</span><span class="s">_blank</span> <span class="na">title</span><span class="o">=</span><span class="s">&quot;Wikipédia&quot;</span><span class="p">&gt;</span>
+  <span class="p">&lt;</span><span class="nt">img</span> <span class="na">src</span><span class="o">=</span><span class="s">icone-ouvrir.png</span> <span class="na">alt</span><span class="o">=</span><span class="s">ouvrir</span><span class="p">&gt;</span> Wikipédia
+<span class="p">&lt;/</span><span class="nt">a</span><span class="p">&gt;</span>
+</pre></div>
+<h3><span class="mw-headline" id="XML">XML</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : XML">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=7" title="Modifier la section : XML">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La norme <a href="/wiki/XLink" title="XLink">XLink</a> spécifie l'écriture d'hyperliens dans les langages basés sur <a href="/wiki/XML" class="mw-redirect" title="XML">XML</a>. XLink permet d'établir des liens entre plus de deux ressources, d'associer des métadonnées aux liens, et de créer des liens hors des ressources liées. Toutefois seules les liens simples, dans certaines applications de XML comme <a href="/wiki/SVG" class="mw-redirect" title="SVG">SVG</a> et <a href="/wiki/MathML" title="MathML">MathML</a>, sont pris en charge par les navigateurs web comme <a href="/wiki/Mozilla_Firefox" title="Mozilla Firefox">Mozilla Firefox</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>.
+</p>
+<h3><span class="mw-headline" id="Wiki">Wiki</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : Wiki">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=8" title="Modifier la section : Wiki">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Il existe un ensemble de langages de balisage légers spécifiquement pour les <a href="/wiki/Wiki" title="Wiki">wikis</a> avec une syntaxe très simplifié pour les pages. Cela permet de créer des wikiliens. Les wikiliens sont différents des autres textes, si un wikilien conduit à une page qui n’existe pas encore, il a généralement une apparence visuelle spécifique différente (sur <a href="/wiki/Wikip%C3%A9dia" title="Wikipédia">Wikipédia</a> en rouge).
+</p>
+<h3><span class="mw-headline" id="Autres_technologies">Autres technologies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : Autres technologies">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=9" title="Modifier la section : Autres technologies">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Les hyperliens sont ou ont été utilisés dans le protocole <a href="/wiki/Gopher" title="Gopher">Gopher</a>, les documents <a href="/wiki/PDF" class="mw-redirect" title="PDF">PDF</a>, les systèmes d’aide comme <a href="/wiki/Microsoft_WinHelp" title="Microsoft WinHelp">Microsoft WinHelp</a>, les documents de traitement de texte, les feuilles de calcul, <a href="/wiki/HyperCard" title="HyperCard">HyperCard</a> d’<a href="/wiki/Apple" title="Apple">Apple</a>, des environnements informatiques simulés (notamment avec <a href="/wiki/OpenSimulator" title="OpenSimulator">OpenSimulator</a> et <a href="/w/index.php?title=Open_Cobalt&amp;action=edit&amp;redlink=1" class="new" title="Open Cobalt (page inexistante)">Open Cobalt</a>), et de nombreux autres produits et projets liés au code.
+</p>
+<h2><span class="mw-headline" id="Outil_de_militantisme_en_ligne">Outil de militantisme en ligne</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : Outil de militantisme en ligne">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=10" title="Modifier la section : Outil de militantisme en ligne">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>L’hyperlien permet de naviguer dans le World Wide Web et dans ce cadre-là, il est utilisé pour impliquer des utilisateurs dans une stratégie collective autour d’une cause<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>. La consultation européenne en ligne de 2009 qui avait pour objet d’interroger les citoyens et leur permettre de débattre autour du projet européen et de recueillir leur avis sur les politiques publiques<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup> à mettre en place a finalement été un moyen pour les réseaux activistes de défendre leurs positions via des pétitions. La plus consultée, «&#160;Sortir du nucléaire et favoriser les énergies d’avenir&#160;» a recueilli le plus de signature en France<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup>. Son URL a été partagé sur 21 sites écologistes et antinucléaires. De plus, les statistiques de la page dévoilent que 34,1&#160;% des entrées se faisaient depuis des boites mail<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup>. Ces chiffres démontrent l’impact de l’usage des liens hypertextes en tant que moyen de réunir une somme d’individualité autour d’un projet collectif. Ils composent donc ce que Romain Badouard, chercheur en sciences de l’information et de la communication appelle «&#160;un répertoire d’action en ligne&#160;», favorisant non seulement la communication et la circulation des informations dans le web, mais aussi les actions et mobilisations en ligne. 
+</p>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=11" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style=""><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink noprint"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="http://bibnum.bnf.fr/identifiants/index.html">Les identifiants pérennes à la Bibliothèque nationale de France</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink noprint"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/Glossary/XLink">XLink - MDN Web Docs Glossary: Definition of Web-related terms</a>, consulté le 7 novembre 2019.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink noprint"><a href="#cite_ref-3">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Badouard2013"><span class="ouvrage" id="Roamin_Badouard2013">Roamin Badouard, «&#160;<cite style="font-style:normal;">Les mobilisations de clavier. Le lien hypertexte comme ressource des actions collectives en ligne</cite>&#160;», <i>Réseaux</i>,&#8206; <time>2013</time>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;87-117 <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="https://www.cairn.info/revue-reseaux-2013-5-page-87.htm">lire en ligne</a>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Les+mobilisations+de+clavier.+Le+lien+hypertexte+comme+ressource+des+actions+collectives+en+ligne&amp;rft.jtitle=R%C3%A9seaux&amp;rft.aulast=Badouard&amp;rft.aufirst=Roamin&amp;rft.date=2013&amp;rft.pages=87-117&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AHyperlien" id="COinS_31027"></span></span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink noprint"><a href="#cite_ref-4">↑</a> </span><span class="reference-text"><span class="ouvrage"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090302071909/http://www.consultations-europeennes-des-citoyens.eu:80/fr/">«&#160;<cite style="font-style: normal;">Consultation européenne des citoyens</cite>&#160;»</a></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink noprint"><a href="#cite_ref-5">↑</a> </span><span class="reference-text"><span class="ouvrage" id="2010"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100503065730/http://www.consultations-europeennes-des-citoyens.eu:80/fr/proposal/2433">«&#160;<cite style="font-style: normal;">European Citizens' Consultations</cite>&#160;»</a>, <time class="nowrap" datetime="2010-05-03" data-sort-value="2010-05-03">3 mai 2010</time> <small style="line-height:1em;">(consulté le <span class="nowrap">13 octobre 2018</span>)</small></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink noprint"><a href="#cite_ref-6">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Badouard2013"><span class="ouvrage" id="Romain_Badouard2013">Romain <span class="nom_auteur">Badouard</span>, «&#160;<cite style="font-style:normal;">Les mobilisations de clavier</cite>&#160;», <i>Réseaux</i>, <abbr class="abbr" title="volume">vol.</abbr>&#160;181, <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;5,&#8206; <time>2013</time>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;87 <small style="line-height:1em;">(<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="http://worldcat.org/issn/0751-7971&amp;lang=fr">0751-7971</a></span> et <span class="plainlinks noarchive"><a rel="nofollow" class="external text" href="http://worldcat.org/issn/1777-5809&amp;lang=fr">1777-5809</a></span>, <a href="/wiki/Digital_Object_Identifier" title="Digital Object Identifier">DOI</a>&#160;<span class="plainlinks noarchive nowrap"><a rel="nofollow" class="external text" href="https://dx.doi.org/10.3917%2Fres.181.0087">10.3917/res.181.0087</a></span>, <a rel="nofollow" class="external text" href="https://dx.doi.org/10.3917/res.181.0087">lire en ligne</a>, consulté le <span class="nowrap">13 octobre 2018</span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Les+mobilisations+de+clavier&amp;rft.jtitle=R%C3%A9seaux&amp;rft.issue=5&amp;rft.aulast=Badouard&amp;rft.aufirst=Romain&amp;rft.date=2013&amp;rft.volume=181&amp;rft.pages=87&amp;rft.issn=0751-7971&amp;rft_id=info%3Adoi%2F10.3917%2Fres.181.0087&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3AHyperlien" id="COinS_30988"></span></span></span></span>
+</li>
+</ol></div>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=12" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r151529982">.mw-parser-output .autres-projets ul{margin:0;padding:0}.mw-parser-output .autres-projets li{list-style-type:none;list-style-image:none;margin:0.2em 0;text-indent:0;padding-left:24px;min-height:20px;text-align:left}.mw-parser-output .autres-projets .titre{text-align:center;margin:0.2em 0}.mw-parser-output .autres-projets li a{font-style:italic}</style><div class="autres-projets boite-grise boite-a-droite noprint js-interprojets">
+<p class="titre">Sur les autres projets Wikimedia&#160;:</p>
+<ul class="noarchive plainlinks">
+<li class="wiktionary"><a href="https://fr.wiktionary.org/wiki/hyperlien" class="extiw" title="wikt:hyperlien">hyperlien</a>, <span class="nowrap">sur le <span class="project">Wiktionnaire</span></span></li>
+</ul>
+</div>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Articles connexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=13" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Hypertext_Markup_Language" title="Hypertext Markup Language">HTML</a></li>
+<li><a href="/wiki/Hypertexte" title="Hypertexte">Hypertexte</a></li>
+<li><a href="/wiki/Identificateur_de_fragment" title="Identificateur de fragment">Identificateur de fragment</a></li>
+<li><a href="/wiki/Lien_interne" title="Lien interne">Lien interne</a></li>
+<li><a href="/wiki/Lien_rompu" title="Lien rompu">Lien rompu</a></li>
+<li><a href="/wiki/Lien_%C3%A9pais" title="Lien épais">Lien épais</a></li>
+<li><a href="/wiki/Site_web" title="Site web">Site web</a></li>
+<li><a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">URI</a>, <a href="/wiki/URL" class="mw-redirect" title="URL">URL</a></li>
+<li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li></ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyperlien&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Liens externes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Hyperlien&amp;action=edit&amp;section=14" title="Modifier la section : Liens externes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><abbr class="abbr indicateur-langue" title="Langue&#32;: français">(fr)</abbr> <a rel="nofollow" class="external text" href="http://www.affaires.jurispilote.fr/2012/01/hyperliens-nature-contexte-et-usage.html"><i>Hyperliens&#160;: nature, contexte et usage</i></a>, point de vue de Fabien Gandrille.</li>
+<li><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> <i><a rel="nofollow" class="external text" href="http://www.w3.org/DesignIssues/LinkLaw">Links and Law</a></i> et <i><a rel="nofollow" class="external text" href="http://www.w3.org/DesignIssues/LinkMyths.html">Links and Law: Myths</a></i>, point de vue de <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> sur les hyperliens du <a href="/wiki/Web" class="mw-redirect" title="Web">Web</a>.</li></ul>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Informatique" title="Portail de l’informatique"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/24px-Circle-icons-computer.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/36px-Circle-icons-computer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/48px-Circle-icons-computer.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Informatique" title="Portail:Informatique">Portail de l’informatique</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Internet" title="Portail d’Internet"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Circle-icons-email.svg/24px-Circle-icons-email.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Circle-icons-email.svg/36px-Circle-icons-email.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Circle-icons-email.svg/48px-Circle-icons-email.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Internet" title="Portail:Internet">Portail d’Internet</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Web_s%C3%A9mantique" title="Portail du Web sémantique"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/24px-Logo_Semantic_Web.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/36px-Logo_Semantic_Web.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_Semantic_Web.svg/48px-Logo_Semantic_Web.svg.png 2x" data-file-width="94" data-file-height="94" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Web_s%C3%A9mantique" title="Portail:Web sémantique">Portail du Web sémantique</a></span> </span></li>                  </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20200226044910
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.264 seconds
+Real time usage: 0.608 seconds
+Preprocessor visited node count: 1041/1000000
+Post‐expand include size: 14972/2097152 bytes
+Template argument size: 749/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7152/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 3.23 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  541.712      1 -total
+ 14.10%   76.370      1 Modèle:Portail
+ 13.96%   75.635      1 Modèle:Références
+  9.82%   53.199      2 Modèle:Article
+  7.05%   38.215      1 Modèle:Voir_homonymes
+  6.64%   35.953      4 Modèle:Lang
+  6.44%   34.897      1 Modèle:Méta_bandeau_de_note
+  6.04%   32.709      1 Modèle:Autres_projets
+  5.83%   31.590      1 Modèle:Trim
+  5.33%   28.883      1 Modèle:Multiparamètres-Lien
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:67287-0!canonical and timestamp 20200226044909 and revision id 166375610
+ -->
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Hyperlien&amp;oldid=166375610">https://fr.wikipedia.org/w/index.php?title=Hyperlien&amp;oldid=166375610</a>&#160;».</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:World_Wide_Web" title="Catégorie:World Wide Web">World Wide Web</a></li><li><a href="/wiki/Cat%C3%A9gorie:Hypertexte" title="Catégorie:Hypertexte">Hypertexte</a></li><li><a href="/wiki/Cat%C3%A9gorie:Outil_du_livre" title="Catégorie:Outil du livre">Outil du livre</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Technologies/Articles_li%C3%A9s" title="Catégorie:Portail:Technologies/Articles liés">Portail:Technologies/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences/Articles liés">Portail:Sciences/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Internet/Articles_li%C3%A9s" title="Catégorie:Portail:Internet/Articles liés">Portail:Internet/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:M%C3%A9dias/Articles_li%C3%A9s" title="Catégorie:Portail:Médias/Articles liés">Portail:Médias/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Web_s%C3%A9mantique/Articles_li%C3%A9s" title="Catégorie:Portail:Web sémantique/Articles liés">Portail:Web sémantique/Articles liés</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Hyperlien" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Hyperlien" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Hyperlien" title="Voir le contenu de la page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Discussion:Hyperlien" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Hyperlien">Lire</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Hyperlien&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Hyperlien&amp;action=edit" title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Hyperlien&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Hyperlien" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Hyperlien" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Hyperlien&amp;oldid=166375610" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Hyperlien&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q102014" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Hyperlien&amp;id=166375610" title="Informations sur la manière de citer cette page">Citer cette page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Hyperlien">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Hyperlien&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hyperlien&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Skakel" title="Skakel — afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D8%A7%D8%A8%D8%B7_%D8%AA%D8%B4%D8%B9%D8%A8%D9%8A" title="رابط تشعبي — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Link" title="Link — bavarois" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BF%D0%B5%D1%80%D0%B2%D1%80%D1%8A%D0%B7%D0%BA%D0%B0" title="Хипервръзка — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A4%B0%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95" title="हाइपरलिंक — Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%82%E0%A6%95" title="হাইপারলিংক — bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Gourliamm" title="Gourliamm — breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Link" title="Link — bosniaque" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Enlla%C3%A7_(inform%C3%A0tica)" title="Enllaç (informàtica) — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%BE%D8%A7%DB%8C%D9%BE%DB%95%D8%B1%D9%84%DB%8C%D9%86%DA%A9" title="ھایپەرلینک — sorani" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hyperlink" title="Hyperlink — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/L%C3%ABnk" title="Lënk — kachoube" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hyperlink" title="Hyperlink — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hyperlink" title="Hyperlink — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%8D%CE%BD%CE%B4%CE%B5%CF%83%CE%BC%CE%BF%CF%82_(%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AE)" title="Σύνδεσμος (πληροφορική) — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Hyperlink" title="Hyperlink — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Hiperligilo" title="Hiperligilo — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hiperenlace" title="Hiperenlace — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/H%C3%BCperlink" title="Hüperlink — estonien" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Hiperesteka" title="Hiperesteka — basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D8%B1%D9%BE%DB%8C%D9%88%D9%86%D8%AF" title="ابرپیوند — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Hyperlinkki" title="Hyperlinkki — finnois" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Hipearnasc" title="Hipearnasc — irlandais" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Hiperligaz%C3%B3n" title="Hiperligazón — galicien" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A9%D7%95%D7%A8" title="קישור — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A4%B0%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95" title="हाइपरलिंक — hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Poveznica" title="Poveznica — croate" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Hiperhivatkoz%C3%A1s" title="Hiperhivatkozás — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%AB%D5%BA%D5%A5%D6%80%D5%B0%D5%B2%D5%B8%D6%82%D5%B4" title="Հիպերհղում — arménien" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Pranala" title="Pranala — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Collegamento_ipertestuale" title="Collegamento ipertestuale — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AF" title="ハイパーリンク — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Pranala" title="Pranala — javanais" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%95%D1%80%D0%B5%D0%BD%D1%81%D1%96%D0%BB%D1%82%D0%B5%D0%BC%D0%B5" title="Еренсілтеме — kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A7%81%ED%81%AC" title="하이퍼링크 — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%88%D0%B8%D0%BB%D1%82%D0%B5%D0%BC%D0%B5" title="Гипершилтеме — kirghize" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Nexus" title="Nexus — latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Hyperlink" title="Hyperlink — luxembourgeois" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Hipersaite" title="Hipersaite — letton" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%83%D1%88%D1%8B%D0%BA" title="Гиперушык — Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BF%D0%B5%D1%80%D0%B2%D1%80%D1%81%D0%BA%D0%B0" title="Хиперврска — macédonien" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B5%88%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%BC%E0%B4%B2%E0%B4%BF%E0%B4%99%E0%B5%8D%E0%B4%95%E0%B5%8D" title="ഹൈപ്പർലിങ്ക് — malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%AA%E0%A4%B0%E0%A4%B2%E0%A4%BF%E0%A4%82%E0%A4%95" title="हायपरलिंक — marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Hiperpautan" title="Hiperpautan — malais" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Link" title="Link — bas-allemand" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Internetverwiezing" title="Internetverwiezing — bas-saxon néerlandais" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hyperlink" title="Hyperlink — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hyperkopling" title="Hyperkopling — norvégien nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hyperlenke" title="Hyperlenke — norvégien bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Hiper%C5%82%C4%85cze" title="Hiperłącze — polonais" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hiperliga%C3%A7%C3%A3o" title="Hiperligação — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Hiperlink" title="Hiperlink — roumain" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0" title="Гиперссылка — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D0%BE%D0%B4%D0%BA%D0%B0%D0%B7" title="Гиперодказ — ruthène" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Ipirculligamentu" title="Ipirculligamentu — sicilien" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Hiperlink" title="Hiperlink — serbo-croate" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Link" title="Link — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Hyperlink" title="Hyperlink — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Hiperpovezava" title="Hiperpovezava — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tejlidhje" title="Tejlidhje — albanais" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BF%D0%B5%D1%80%D0%B2%D0%B5%D0%B7%D0%B0" title="Хипервеза — serbe" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hyperl%C3%A4nk" title="Hyperlänk — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%80%E0%AE%AF%E0%AE%BF%E0%AE%A3%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="மீயிணைப்பு — tamoul" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B9%E0%B1%88%E0%B0%AA%E0%B0%B0%E0%B1%8D_%E0%B0%B2%E0%B0%BF%E0%B0%82%E0%B0%95%E0%B1%8D" title="హైపర్ లింక్ — télougou" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%84%E0%B8%AE%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A5%E0%B8%B4%E0%B8%87%E0%B8%81%E0%B9%8C" title="ไฮเปอร์ลิงก์ — thaï" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hyperlink" title="Hyperlink — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%B5%D1%80%D1%81%D1%8B%D0%BB%D1%82%D0%B0%D0%BC%D0%B0" title="Гиперсылтама — tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%BF%D0%B5%D1%80%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F" title="Гіперпосилання — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DB%81%D8%A7%D8%A6%D9%BE%D8%B1%D9%84%D9%86%DA%A9" title="ہائپرلنک — ourdou" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Hipermurojaat" title="Hipermurojaat — ouzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Si%C3%AAu_li%C3%AAn_k%E1%BA%BFt" title="Siêu liên kết — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/H%C3%A5rd%C3%AAye_(Daegntoele)" title="Hårdêye (Daegntoele) — wallon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/L%C3%ABkkalekaay" title="Lëkkalekaay — wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%B6%85%E9%93%BE%E6%8E%A5" title="超链接 — wu" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%B6%85%E9%80%A3%E7%B5%90" title="超連結 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%B6%85%E9%80%A3%E7%B5%90" title="超連結 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q102014#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 15 janvier 2020 à 03:56.</li>
+		<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Hyperlien" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Hyperlien&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.608","ppvisitednodes":{"value":1041,"limit":1000000},"postexpandincludesize":{"value":14972,"limit":2097152},"templateargumentsize":{"value":749,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7152,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  541.712      1 -total"," 14.10%   76.370      1 Modèle:Portail"," 13.96%   75.635      1 Modèle:Références","  9.82%   53.199      2 Modèle:Article","  7.05%   38.215      1 Modèle:Voir_homonymes","  6.64%   35.953      4 Modèle:Lang","  6.44%   34.897      1 Modèle:Méta_bandeau_de_note","  6.04%   32.709      1 Modèle:Autres_projets","  5.83%   31.590      1 Modèle:Trim","  5.33%   28.883      1 Modèle:Multiparamètres-Lien"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":3391099,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20200226044910","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hyperlien","url":"https:\/\/fr.wikipedia.org\/wiki\/Hyperlien","sameAs":"http:\/\/www.wikidata.org\/entity\/Q102014","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q102014","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-12T12:10:36Z","dateModified":"2020-01-15T02:56:56Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Hyperlink-Wikipedia.svg","headline":"R\u00e9f\u00e9rence dans un syst\u00e8me hypertexte pour acc\u00e9der \u00e0 un site web"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1364"});});</script></body></html>

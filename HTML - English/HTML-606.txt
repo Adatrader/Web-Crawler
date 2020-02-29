@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>toit - Wiktionary</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlghrwpAIC8AABaW6TAAAABV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"toit","wgTitle":"toit","wgCurRevisionId":54513048,"wgRevisionId":54513048,"wgArticleId":44838,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Requests for etymologies in Irish entries","Requests for etymologies in Scottish Gaelic entries","gd-noun 2","English lemmas","English nouns","English countable nouns","British English","English dialectal terms",
+"Bourguignon terms inherited from Latin","Bourguignon terms derived from Latin","Bourguignon lemmas","Bourguignon nouns","Estonian terms with IPA pronunciation","Estonian lemmas","Estonian nouns","Estonian riik-type nominals","Finnish non-lemma forms","Finnish verb forms","French terms inherited from Old French","French terms derived from Old French","French terms inherited from Latin","French terms derived from Latin","French 1-syllable words","French terms with IPA pronunciation","French terms with audio links","French terms with homophones","French lemmas","French nouns","French masculine nouns","French countable nouns","Irish lemmas","Irish nouns","Irish terms with usage examples","Irish familiar terms","Irish second-declension nouns","Old French terms inherited from Latin","Old French terms derived from Latin","Old French terms with IPA pronunciation","Old French lemmas","Old French nouns","Old French masculine nouns","Scottish Gaelic terms with IPA pronunciation",
+"Scottish Gaelic lemmas","Scottish Gaelic nouns"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"toit","wgRelevantArticleId":44838,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.column-hacks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.tmh.thumbnail.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.column-hacks&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=toit&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=toit&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/toit"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-toit rootpage-toit skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">toit</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#English"><span class="tocnumber">1</span> <span class="toctext">English</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Noun"><span class="tocnumber">1.1</span> <span class="toctext">Noun</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Anagrams"><span class="tocnumber">1.2</span> <span class="toctext">Anagrams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Bourguignon"><span class="tocnumber">2</span> <span class="toctext">Bourguignon</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Etymology"><span class="tocnumber">2.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Noun_2"><span class="tocnumber">2.2</span> <span class="toctext">Noun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Estonian"><span class="tocnumber">3</span> <span class="toctext">Estonian</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Etymology_2"><span class="tocnumber">3.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Pronunciation"><span class="tocnumber">3.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Noun_3"><span class="tocnumber">3.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Declension"><span class="tocnumber">3.3.1</span> <span class="toctext">Declension</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Derived_terms"><span class="tocnumber">3.3.2</span> <span class="toctext">Derived terms</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Finnish"><span class="tocnumber">4</span> <span class="toctext">Finnish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Verb"><span class="tocnumber">4.1</span> <span class="toctext">Verb</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Anagrams_2"><span class="tocnumber">4.2</span> <span class="toctext">Anagrams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#French"><span class="tocnumber">5</span> <span class="toctext">French</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Etymology_3"><span class="tocnumber">5.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Pronunciation_2"><span class="tocnumber">5.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Noun_4"><span class="tocnumber">5.3</span> <span class="toctext">Noun</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Further_reading"><span class="tocnumber">5.4</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Irish"><span class="tocnumber">6</span> <span class="toctext">Irish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Etymology_4"><span class="tocnumber">6.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Noun_5"><span class="tocnumber">6.2</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Declension_2"><span class="tocnumber">6.2.1</span> <span class="toctext">Declension</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Derived_terms_2"><span class="tocnumber">6.2.2</span> <span class="toctext">Derived terms</span></a></li>
+<li class="toclevel-3 tocsection-26"><a href="#Related_terms"><span class="tocnumber">6.2.3</span> <span class="toctext">Related terms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#Mutation"><span class="tocnumber">6.3</span> <span class="toctext">Mutation</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#References"><span class="tocnumber">6.4</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Old_French"><span class="tocnumber">7</span> <span class="toctext">Old French</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#Etymology_5"><span class="tocnumber">7.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Pronunciation_3"><span class="tocnumber">7.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Noun_6"><span class="tocnumber">7.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Descendants"><span class="tocnumber">7.3.1</span> <span class="toctext">Descendants</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-34"><a href="#Scottish_Gaelic"><span class="tocnumber">8</span> <span class="toctext">Scottish Gaelic</span></a>
+<ul>
+<li class="toclevel-2 tocsection-35"><a href="#Etymology_6"><span class="tocnumber">8.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Pronunciation_4"><span class="tocnumber">8.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Noun_7"><span class="tocnumber">8.3</span> <span class="toctext">Noun</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Mutation_2"><span class="tocnumber">8.4</span> <span class="toctext">Mutation</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="English">English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=1" title="Edit section: English">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Noun">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=2" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="en">toit</strong> (<i>plural</i> <b class="Latn form-of lang-en p-form-of" lang="en"><a href="/wiki/toits#English" title="toits">toits</a></b>)
+</p>
+<ol><li><span class="ib-brac">(</span><span class="ib-content"><a href="https://en.wikipedia.org/wiki/Great_Britain" class="extiw" title="w:Great Britain">Britain</a><span class="ib-comma">,</span>&#32;<a href="/wiki/Appendix:Glossary#dialectal" title="Appendix:Glossary">dialect</a></span><span class="ib-brac">)</span> A <span class="Latn" lang="en"><a href="/wiki/cushion#English" title="cushion">cushion</a></span>.</li></ol>
+<h3><span class="mw-headline" id="Anagrams">Anagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=3" title="Edit section: Anagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="Latn" lang="en"><a href="/wiki/Tito#English" title="Tito">Tito</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Bourguignon">Bourguignon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=4" title="Edit section: Bourguignon">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=5" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/tectum#Latin" title="tectum">tectum</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun_2">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=6" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="roa-brg">toit</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>plural</i> <b class="Latn" lang="roa-brg"><a href="/wiki/toits#Bourguignon" title="toits">toits</a></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/roof#English" title="roof">roof</a></span></li></ol>
+<hr />
+<h2><span class="mw-headline" id="Estonian">Estonian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=7" title="Edit section: Estonian">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_2">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=8" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Derived from <i class="Latn mention" lang="et"><a href="/wiki/toitma#Estonian" title="toitma">toitma</a></i>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=9" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="https://en.wikipedia.org/wiki/Estonian_phonology" class="extiw" title="wikipedia:Estonian phonology">key</a>)</sup>:&#32;<span class="IPA">/tˈoi̯t/</span></li></ul>
+<h3><span class="mw-headline" id="Noun_3">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=10" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="et">toit</strong> (<i>genitive</i> <b class="Latn" lang="et"><a href="/wiki/toidu#Estonian" title="toidu">toidu</a></b>, <i>partitive</i> <b class="Latn" lang="et"><a href="/wiki/toitu#Estonian" title="toitu">toitu</a></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/food#English" title="food">food</a></span></li></ol>
+<h4><span class="mw-headline" id="Declension">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=11" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="NavFrame" style="width: 40%">
+<div class="NavHead" style="background:rgb(80%,80%,100%);">Declension of toit (type <a href="/wiki/Appendix:Estonian_declension" class="mw-redirect" title="Appendix:Estonian declension">riik</a>)</div>
+<div class="NavContent">
+<table class="inflection-table" style="width:100%; color:rgb(0%,0%,30%); border:solid 1px rgb(80%,80%,100%); text-align:left;" cellspacing="1" cellpadding="2">
+
+<tbody><tr style="background:rgb(80%,80%,100%);vertical-align:top;">
+<th style="width: 30%;">
+</th>
+<th style="width: 35%;">singular
+</th>
+<th style="width: 35%;">plural
+</th></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">nominative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toit#Estonian" title="toit">toit</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toidud#Estonian" title="toidud">toidud</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">genitive
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toidu#Estonian" title="toidu">toidu</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitude#Estonian" title="toitude">toitude</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">partitive
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toitu#Estonian" title="toitu">toitu</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toite#Estonian" title="toite">toite</a></span>&#160;/&#160;<span class="Latn" lang="et"><a href="/wiki/toitusid#Estonian" title="toitusid">toitusid</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">illative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toitu#Estonian" title="toitu">toitu</a></span>&#160;/&#160;<span class="Latn" lang="et"><a href="/wiki/toidusse#Estonian" title="toidusse">toidusse</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudesse#Estonian" title="toitudesse">toitudesse</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">inessive
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toidus#Estonian" title="toidus">toidus</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudes#Estonian" title="toitudes">toitudes</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">elative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toidust#Estonian" title="toidust">toidust</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudest#Estonian" title="toitudest">toitudest</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">allative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toidule#Estonian" title="toidule">toidule</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudele#Estonian" title="toitudele">toitudele</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">adessive
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toidul#Estonian" title="toidul">toidul</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudel#Estonian" title="toitudel">toitudel</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">ablative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toidult#Estonian" title="toidult">toidult</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudelt#Estonian" title="toitudelt">toitudelt</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">translative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toiduks#Estonian" title="toiduks">toiduks</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudeks#Estonian" title="toitudeks">toitudeks</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">terminative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toiduni#Estonian" title="toiduni">toiduni</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudeni#Estonian" title="toitudeni">toitudeni</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">essive
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toiduna#Estonian" title="toiduna">toiduna</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudena#Estonian" title="toitudena">toitudena</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">abessive
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toiduta#Estonian" title="toiduta">toiduta</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudeta#Estonian" title="toitudeta">toitudeta</a></span>
+</td></tr>
+<tr style="background:rgb(95%,95%,100%);vertical-align:top;">
+<th style="background:rgb(80%,80%,100%);">comitative
+</th>
+<td><span class="Latn" lang="et"><a href="/wiki/toiduga#Estonian" title="toiduga">toiduga</a></span>
+</td>
+<td><span class="Latn" lang="et"><a href="/wiki/toitudega#Estonian" title="toitudega">toitudega</a></span>
+</td></tr></tbody></table>
+</div>
+</div>
+<h4><span class="mw-headline" id="Derived_terms">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=12" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="et"><a href="/wiki/toitma#Estonian" title="toitma">toitma</a></span></li>
+<li><span class="Latn" lang="et"><a href="/w/index.php?title=toituma&amp;action=edit&amp;redlink=1" class="new" title="toituma (page does not exist)">toituma</a></span></li>
+<li><span class="Latn" lang="et"><a href="/wiki/toitaine#Estonian" title="toitaine">toitaine</a></span></li>
+<li><span class="Latn" lang="et"><a href="/wiki/koeratoit#Estonian" title="koeratoit">koeratoit</a></span></li>
+<li><span class="Latn" lang="et"><a href="/wiki/magustoit#Estonian" title="magustoit">magustoit</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Finnish">Finnish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=13" title="Edit section: Finnish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Verb">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=14" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fi">toit</strong>
+</p>
+<ol><li><span class="use-with-mention">Second-person singular indicative past form of <i class="Latn mention" lang="fi"><a href="/wiki/tuoda#Finnish" title="tuoda">tuoda</a></i>.</span></li></ol>
+<h3><span class="mw-headline" id="Anagrams_2">Anagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=15" title="Edit section: Anagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="Latn" lang="fi"><a href="/wiki/otit#Finnish" title="otit">otit</a></span>, <span class="Latn" lang="fi"><a href="/wiki/otti#Finnish" title="otti">otti</a></span>, <span class="Latn" lang="fi"><a href="/wiki/toti#Finnish" title="toti">toti</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="French">French</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=16" title="Edit section: French">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_3">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=17" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>(Oblique form of) <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_French" class="extiw" title="w:Old French">Old French</a></span> <i class="Latn mention" lang="fro"><a href="/wiki/toit#Old_French" title="toit">toit</a></i>, earlier <i class="Latn mention" lang="fro"><a href="/w/index.php?title=teits&amp;action=edit&amp;redlink=1" class="new" title="teits (page does not exist)">teits</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/tectum#Latin" title="tectum">tēctum</a></i>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_2">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=18" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:French_pronunciation" title="Appendix:French pronunciation">key</a>)</sup>:&#32;<span class="IPA">/twa/</span></li>
+<li><style data-mw-deduplicate="TemplateStyles:r50165410">.mw-parser-output .k-player .k-attribution{visibility:hidden}</style><table class="audiotable" style="vertical-align: bottom; display:inline-block; list-style:none;line-height: 1em; border-collapse:collapse;"><tbody><tr><td class="unicode audiolink" style="padding-right:5px; padding-left: 0;">audio</td><td class="audiofile"><div class="mediaContainer" style="width:175px"><audio id="mwe_player_0" controls="" preload="none" style="width:175px" class="kskin" data-durationhint="1.05" data-startoffset="0" data-mwtitle="Fr-toit.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/e/e8/Fr-toit.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (107 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="106690" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/Fr-toit.ogg/Fr-toit.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="147336" /></audio></div></td><td class="audiometa" style="font-size: 80%;">(<a href="/wiki/File:Fr-toit.ogg" title="File:Fr-toit.ogg">file</a>)</td></tr></tbody></table></li>
+<li><span class="homophones"><a href="/wiki/Appendix:Glossary#homophone" title="Appendix:Glossary">Homophones</a>: <span class="Latn" lang="fr"><a href="/wiki/toi#French" title="toi">toi</a></span>, <span class="Latn" lang="fr"><a href="/wiki/toits#French" title="toits">toits</a></span>, <span class="Latn" lang="fr"><a href="/w/index.php?title=toua&amp;action=edit&amp;redlink=1" class="new" title="toua (page does not exist)">toua</a></span>, <span class="Latn" lang="fr"><a href="/w/index.php?title=touas&amp;action=edit&amp;redlink=1" class="new" title="touas (page does not exist)">touas</a></span>, <span class="Latn" lang="fr"><a href="/w/index.php?title=tou%C3%A2t&amp;action=edit&amp;redlink=1" class="new" title="touât (page does not exist)">touât</a></span></span></li></ul>
+<h3><span class="mw-headline" id="Noun_4">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=19" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fr">toit</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>plural</i> <b class="Latn form-of lang-fr p-form-of" lang="fr"><a href="/wiki/toits#French" title="toits">toits</a></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/roof#English" title="roof">roof</a></span></li></ol>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>“<a rel="nofollow" class="external text" href="http://www.cnrtl.fr/definition/toit">toit</a>” in <i><span class="Latn" lang="fr"><a href="https://en.wikipedia.org/wiki/fr:Tr%C3%A9sor_de_la_langue_fran%C3%A7aise_informatis%C3%A9" class="extiw" title="w:fr:Trésor de la langue française informatisé">le Trésor de la langue française informatisé</a></span></i> (<i>The Digitized Treasury of the French Language</i>).</li></ul>
+<hr />
+<h2><span class="mw-headline" id="Irish">Irish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=21" title="Edit section: Irish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_4">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=22" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="maintenance-line" style="color: #777777;">(This <a href="/wiki/Wiktionary:Etymology" title="Wiktionary:Etymology">etymology</a> is missing or incomplete. Please add to it, or discuss it at the <a href="/wiki/Wiktionary:Etymology_scriptorium" title="Wiktionary:Etymology scriptorium">Etymology scriptorium</a>.)</span>
+Compare <span class="etyl"><a href="https://en.wikipedia.org/wiki/Scottish_Gaelic" class="extiw" title="w:Scottish Gaelic">Scottish Gaelic</a></span> <i class="Latn mention" lang="gd"><a href="/wiki/toit#Scottish_Gaelic" title="toit">toit</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun_5">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=23" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="ga">toit</strong>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> (<i>genitive singular</i> <b class="Latn" lang="ga"><a href="/wiki/toite#Irish" title="toite">toite</a></b>, <i>nominative plural</i> <b class="Latn" lang="ga"><a href="/wiki/toiteanna#Irish" title="toiteanna">toiteanna</a></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/smoke#English" title="smoke">smoke</a></span>
+<dl><dd>Proverb: <div class="h-usage-example"><i class="Latn mention e-example" lang="ga">An áit a mbíonn <b>toit</b> bíonn tine.</i> ― <span class="e-translation">Where there's <b>smoke</b>, there's fire.</span></div></dd>
+<dd><div class="h-usage-example"><i class="Latn mention e-example" lang="ga">Níl sa saol ach gaoth agus <b>toit</b>.</i> ― <span class="e-translation">The world is only wind and <b>smoke</b>.</span></div></dd></dl>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/vapour#English" title="vapour">vapour</a></span>, <span class="Latn" lang="en"><a href="/wiki/steam#English" title="steam">steam</a></span>
+<dl><dd>Proverb: <div class="h-usage-example"><i class="Latn mention e-example" lang="ga">Níl sa saol ach gaoth is <b>toit</b>.</i> ― <span class="e-translation">Life is only wind and <b>vapour</b>.</span></div></dd></dl></li></ol></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#familiar" title="Appendix:Glossary">familiar</a></span><span class="ib-brac">)</span> <span class="Latn" lang="en"><a href="/wiki/batch#English" title="batch">batch</a></span> of <span class="Latn" lang="en"><a href="/wiki/shellfish#English" title="shellfish">shellfish</a></span>, piece of <span class="Latn" lang="en"><a href="/wiki/meat#English" title="meat">meat</a></span>, etc., roasted on embers</li></ol>
+<h4><span class="mw-headline" id="Declension_2">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=24" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="NavFrame" style="">
+<div class="NavHead" style="">Declension of <i>toit</i></div>
+<div class="NavContent">
+<p><b><a href="/wiki/Appendix:Irish_second-declension_nouns" title="Appendix:Irish second-declension nouns">Second declension</a></b>
+</p>
+<table cellspacing="0" cellpadding="0" style="background-color: transparent; width: 95%" class="inflection-table">
+<tbody><tr>
+<td width="50%" style="text-align:left;vertical-align:top;">
+<p>Bare forms
+</p>
+<table border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #7f7f7f; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; font-size: 95%;">
+<tbody><tr>
+<th>Case
+</th>
+<th>Singular
+</th>
+<th>Plural
+</th></tr>
+<tr>
+<td><a href="/wiki/nominative" title="nominative">Nominative</a>
+</td>
+<td><span class="Latn" lang="ga"><strong class="selflink">toit</strong></span>
+</td>
+<td><span class="Latn" lang="ga"><a href="/wiki/toiteanna#Irish" title="toiteanna">toiteanna</a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/vocative" title="vocative">Vocative</a>
+</td>
+<td>a <span class="Latn" lang="ga"><a href="/wiki/thoit#Irish" title="thoit">thoit</a></span>
+</td>
+<td>a <span class="Latn" lang="ga"><a href="/wiki/thoiteanna#Irish" title="thoiteanna">thoiteanna</a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/genitive" title="genitive">Genitive</a>
+</td>
+<td><span class="Latn" lang="ga"><a href="/wiki/toite#Irish" title="toite">toite</a></span>
+</td>
+<td><span class="Latn" lang="ga"><a href="/wiki/toiteanna#Irish" title="toiteanna">toiteanna</a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/dative" title="dative">Dative</a>
+</td>
+<td><span class="Latn" lang="ga"><strong class="selflink">toit</strong></span>
+</td>
+<td><span class="Latn" lang="ga"><a href="/wiki/toiteanna#Irish" title="toiteanna">toiteanna</a></span>
+</td></tr></tbody></table>
+</td>
+<td width="50%" style="text-align:left;vertical-align:top;">
+<p>Forms with the <a href="/wiki/definite_article" title="definite article">definite article</a>
+</p>
+<table border="1" cellpadding="4" cellspacing="0" class="toccolours" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #7f7f7f; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; font-size: 95%;">
+<tbody><tr>
+<th>Case
+</th>
+<th>Singular
+</th>
+<th>Plural
+</th></tr>
+<tr>
+<td><a href="/wiki/nominative" title="nominative">Nominative</a>
+</td>
+<td>an <span class="Latn" lang="ga"><strong class="selflink">toit</strong></span>
+</td>
+<td>na <span class="Latn" lang="ga"><a href="/wiki/toiteanna#Irish" title="toiteanna">toiteanna</a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/genitive" title="genitive">Genitive</a>
+</td>
+<td>na <span class="Latn" lang="ga"><a href="/wiki/toite#Irish" title="toite">toite</a></span>
+</td>
+<td>na <span class="Latn" lang="ga"><a href="/wiki/dtoiteanna#Irish" title="dtoiteanna">dtoiteanna</a></span>
+</td></tr>
+<tr>
+<td><a href="/wiki/dative" title="dative">Dative</a>
+</td>
+<td>leis an <span class="Latn" lang="ga"><strong class="selflink">toit</strong></span><br />
+<p>don <span class="Latn" lang="ga"><strong class="selflink">toit</strong></span>
+</p>
+</td>
+<td>leis na <span class="Latn" lang="ga"><a href="/wiki/toiteanna#Irish" title="toiteanna">toiteanna</a></span>
+</td></tr></tbody></table>
+</td></tr></tbody></table></div></div>
+<h4><span class="mw-headline" id="Derived_terms_2">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=25" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="list-switcher" data-toggle-category="derived terms"><div class="derivedterms term-list ul-column-count" data-column-count="4" style="background-color: #F8F8FF;">
+<ul><li><span class="Latn" lang="ga"><a href="/w/index.php?title=dubh_le_toit&amp;action=edit&amp;redlink=1" class="new" title="dubh le toit (page does not exist)">dubh le toit</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">smoke-begrimed</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/w/index.php?title=toit_a_chaitheamh&amp;action=edit&amp;redlink=1" class="new" title="toit a chaitheamh (page does not exist)">toit a chaitheamh</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">to have a smoke</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/wiki/toitcheo#Irish" title="toitcheo">toitcheo</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">smog</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/wiki/toiteach#Irish" title="toiteach">toiteach</a></span>, <span class="Latn" lang="ga"><a href="/wiki/toiti%C3%BAil#Irish" title="toitiúil">toitiúil</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">smoky</span><span class="mention-gloss-double-quote">”</span>, <span class="ann-pos">adjective</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/w/index.php?title=toitghinteach&amp;action=edit&amp;redlink=1" class="new" title="toitghinteach (page does not exist)">toitghinteach</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">smoke-producing</span><span class="mention-gloss-double-quote">”</span>, <span class="ann-pos">adjective</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/wiki/toit%C3%ADn#Irish" title="toitín">toitín</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">cigarette</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/w/index.php?title=toit_is_torm%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="toit is tormán (page does not exist)">toit is tormán</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">sound and fury</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li></ul></div><div class="list-switcher-element" data-showtext="&#160;show more ▼&#160;" data-hidetext="&#160;show less ▲&#160;" style="display: none;">&#160;</div></div>
+<h4><span class="mw-headline" id="Related_terms">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=26" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="ga"><a href="/wiki/toiteach%C3%A1n#Irish" title="toiteachán">toiteachán</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">smoke-hole, chimney</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="ga"><a href="/w/index.php?title=toitrigh&amp;action=edit&amp;redlink=1" class="new" title="toitrigh (page does not exist)">toitrigh</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">smoke, fumigate</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li></ul>
+<h3><span class="mw-headline" id="Mutation">Mutation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=27" title="Edit section: Mutation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" cellpadding="4" cellspacing="0" class="inflection-table" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #7f7f7f; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; background-color: #F8F8F8; font-size: 95%;">
+
+<tbody><tr>
+<th colspan="3"><a href="/wiki/Appendix:Irish_mutations" title="Appendix:Irish mutations">Irish mutation</a>
+</th></tr>
+<tr>
+<th>Radical
+</th>
+<th>Lenition
+</th>
+<th>Eclipsis
+</th></tr>
+<tr>
+<td><span class="Latn" lang="ga"><strong class="selflink">toit</strong></span>
+</td>
+<td><span class="Latn" lang="ga"><a href="/wiki/thoit#Irish" title="thoit">thoit</a></span>
+</td>
+<td><span class="Latn" lang="ga"><a href="/w/index.php?title=dtoit&amp;action=edit&amp;redlink=1" class="new" title="dtoit (page does not exist)">dtoit</a></span>
+</td></tr>
+<tr>
+<td colspan="3"><small style="font-size:85%;"><i>Note:</i> Some of these forms may be hypothetical. Not every possible mutated form of every word actually occurs.</small>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=28" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>"<a rel="nofollow" class="external text" href="http://www.teanglann.ie/en/fgb/toit">toit</a>" in <i>Foclóir Gaeilge-Béarla</i>, An Gúm, 1977, by <a href="https://en.wikipedia.org/wiki/Niall_%C3%93_D%C3%B3naill" class="extiw" title="wikipedia:Niall Ó Dónaill">Niall Ó Dónaill</a>.</li></ul>
+<hr />
+<h2><span class="mw-headline" id="Old_French">Old French</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=29" title="Edit section: Old French">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_5">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=30" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Earlier <i class="Latn mention" lang="fro"><a href="/wiki/teit#Old_French" title="teit">teit</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/tectum#Latin" title="tectum">tēctum</a></i>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_3">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=31" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="https://en.wikipedia.org/wiki/Old_French_phonology" class="extiw" title="wikipedia:Old French phonology">key</a>)</sup>:&#32;<span class="IPA">/tojt/</span></li></ul>
+<h3><span class="mw-headline" id="Noun_6">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=32" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fro">toit</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>oblique plural</i> <b class="Latn" lang="fro"><a href="/w/index.php?title=toiz&amp;action=edit&amp;redlink=1" class="new" title="toiz (page does not exist)">toiz</a></b> <i>or</i> <b class="Latn" lang="fro"><a href="/w/index.php?title=toitz&amp;action=edit&amp;redlink=1" class="new" title="toitz (page does not exist)">toitz</a></b>, <i>nominative singular</i> <b class="Latn" lang="fro"><a href="/w/index.php?title=toiz&amp;action=edit&amp;redlink=1" class="new" title="toiz (page does not exist)">toiz</a></b> <i>or</i> <b class="Latn" lang="fro"><a href="/w/index.php?title=toitz&amp;action=edit&amp;redlink=1" class="new" title="toitz (page does not exist)">toitz</a></b>, <i>nominative plural</i> <b class="Latn" lang="fro"><strong class="selflink">toit</strong></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/roof#English" title="roof">roof</a></span></li></ol>
+<h4><span class="mw-headline" id="Descendants">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=33" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>French: <span class="Latn" lang="fr"><a href="/wiki/toit#French" title="toit">toit</a></span><style data-mw-deduplicate="TemplateStyles:r54857417">.mw-parser-output .desc-arr[title]{cursor:help}.mw-parser-output .desc-arr[title="uncertain"]{font-size:.7em;vertical-align:super}</style></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Scottish_Gaelic">Scottish Gaelic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=34" title="Edit section: Scottish Gaelic">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_6">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=35" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="maintenance-line" style="color: #777777;">(This <a href="/wiki/Wiktionary:Etymology" title="Wiktionary:Etymology">etymology</a> is missing or incomplete. Please add to it, or discuss it at the <a href="/wiki/Wiktionary:Etymology_scriptorium" title="Wiktionary:Etymology scriptorium">Etymology scriptorium</a>.)</span>
+Compare <span class="etyl"><a href="https://en.wikipedia.org/wiki/Irish_language" class="extiw" title="w:Irish language">Irish</a></span> <i class="Latn mention" lang="ga"><a href="/wiki/toit#Irish" title="toit">toit</a></i>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_4">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=36" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Scottish_Gaelic_pronunciation" title="Appendix:Scottish Gaelic pronunciation">key</a>)</sup>:&#32;<span class="IPA">[t̪ɔʰtʲ]</span></li></ul>
+<h3><span class="mw-headline" id="Noun_7">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=37" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="gd">toit</strong>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> (<i>genitive singular</i> <b class="Latn" lang="gd"><a href="/wiki/toite#Scottish_Gaelic" title="toite">toite</a></b>, <i>plural</i> <b class="Latn" lang="gd"><a href="/wiki/toitean#Scottish_Gaelic" title="toitean">toitean</a></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/steam#English" title="steam">steam</a></span></li>
+<li><span class="Latn" lang="en"><a href="/wiki/smoke#English" title="smoke">smoke</a></span></li>
+<li><span class="Latn" lang="en"><a href="/wiki/cloud#English" title="cloud">cloud</a></span> <span class="gloss-brac">(</span><span class="gloss-content">of smoke</span><span class="gloss-brac">)</span></li></ol>
+<h3><span class="mw-headline" id="Mutation_2">Mutation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=toit&amp;action=edit&amp;section=38" title="Edit section: Mutation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" cellpadding="4" cellspacing="0" class="inflection-table" style="align: left; margin: 0.5em 0 0 0; border-style: solid; border: 1px solid #7f7f7f; border-right-width: 2px; border-bottom-width: 2px; border-collapse: collapse; background-color: #F8F8F8; font-size: 95%;">
+
+<tbody><tr>
+<th colspan="2">Scottish Gaelic mutation
+</th></tr>
+<tr>
+<th>Radical</th>
+<th>Lenition
+</th></tr>
+<tr>
+<td><span class="Latn" lang="gd"><strong class="selflink">toit</strong></span></td>
+<td><span class="Latn" lang="gd"><a href="/wiki/thoit#Scottish_Gaelic" title="thoit">thoit</a></span>
+</td></tr>
+<tr>
+<td colspan="2"><span style="font-size:85%;"><i>Note:</i> Some of these forms may be hypothetical. Not every<br />possible mutated form of every word actually occurs.</span>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1337
+Cached time: 20200226224028
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.752 seconds
+Real time usage: 1.003 seconds
+Preprocessor visited node count: 14453/1000000
+Post‐expand include size: 77299/2097152 bytes
+Template argument size: 13713/2097152 bytes
+Highest expansion depth: 28/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 399/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.357/10.000 seconds
+Lua memory usage: 12.69 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  900.482      1 -total
+ 20.24%  182.222     59 Template:l
+ 13.35%  120.187      1 Template:et-decl-riik
+ 12.90%  116.180      1 Template:et-decl
+ 12.73%  114.632      1 Template:en-noun
+ 12.17%  109.631      7 Template:check_deprecated_lang_param_usage
+ 11.77%  106.022      7 Template:deprecated_code
+ 10.96%   98.652     63 Template:redlink_category
+  9.50%   85.556      1 Template:et-decl-table
+  7.15%   64.396      4 Template:inh
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:44838-0!canonical and timestamp 20200226224028 and revision id 54513048
+ -->
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=toit&amp;oldid=54513048">https://en.wiktionary.org/w/index.php?title=toit&amp;oldid=54513048</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:English_lemmas" title="Category:English lemmas">English lemmas</a></li><li><a href="/wiki/Category:English_nouns" title="Category:English nouns">English nouns</a></li><li><a href="/wiki/Category:English_countable_nouns" title="Category:English countable nouns">English countable nouns</a></li><li><a href="/wiki/Category:British_English" title="Category:British English">British English</a></li><li><a href="/wiki/Category:English_dialectal_terms" title="Category:English dialectal terms">English dialectal terms</a></li><li><a href="/wiki/Category:Bourguignon_terms_inherited_from_Latin" title="Category:Bourguignon terms inherited from Latin">Bourguignon terms inherited from Latin</a></li><li><a href="/wiki/Category:Bourguignon_terms_derived_from_Latin" title="Category:Bourguignon terms derived from Latin">Bourguignon terms derived from Latin</a></li><li><a href="/wiki/Category:Bourguignon_lemmas" title="Category:Bourguignon lemmas">Bourguignon lemmas</a></li><li><a href="/wiki/Category:Bourguignon_nouns" title="Category:Bourguignon nouns">Bourguignon nouns</a></li><li><a href="/wiki/Category:Estonian_terms_with_IPA_pronunciation" title="Category:Estonian terms with IPA pronunciation">Estonian terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Estonian_lemmas" title="Category:Estonian lemmas">Estonian lemmas</a></li><li><a href="/wiki/Category:Estonian_nouns" title="Category:Estonian nouns">Estonian nouns</a></li><li><a href="/wiki/Category:Estonian_riik-type_nominals" title="Category:Estonian riik-type nominals">Estonian riik-type nominals</a></li><li><a href="/wiki/Category:Finnish_non-lemma_forms" title="Category:Finnish non-lemma forms">Finnish non-lemma forms</a></li><li><a href="/wiki/Category:Finnish_verb_forms" title="Category:Finnish verb forms">Finnish verb forms</a></li><li><a href="/wiki/Category:French_terms_inherited_from_Old_French" title="Category:French terms inherited from Old French">French terms inherited from Old French</a></li><li><a href="/wiki/Category:French_terms_derived_from_Old_French" title="Category:French terms derived from Old French">French terms derived from Old French</a></li><li><a href="/wiki/Category:French_terms_inherited_from_Latin" title="Category:French terms inherited from Latin">French terms inherited from Latin</a></li><li><a href="/wiki/Category:French_terms_derived_from_Latin" title="Category:French terms derived from Latin">French terms derived from Latin</a></li><li><a href="/wiki/Category:French_1-syllable_words" title="Category:French 1-syllable words">French 1-syllable words</a></li><li><a href="/wiki/Category:French_terms_with_IPA_pronunciation" title="Category:French terms with IPA pronunciation">French terms with IPA pronunciation</a></li><li><a href="/wiki/Category:French_terms_with_audio_links" title="Category:French terms with audio links">French terms with audio links</a></li><li><a href="/wiki/Category:French_terms_with_homophones" title="Category:French terms with homophones">French terms with homophones</a></li><li><a href="/wiki/Category:French_lemmas" title="Category:French lemmas">French lemmas</a></li><li><a href="/wiki/Category:French_nouns" title="Category:French nouns">French nouns</a></li><li><a href="/wiki/Category:French_masculine_nouns" title="Category:French masculine nouns">French masculine nouns</a></li><li><a href="/wiki/Category:French_countable_nouns" title="Category:French countable nouns">French countable nouns</a></li><li><a href="/wiki/Category:Irish_lemmas" title="Category:Irish lemmas">Irish lemmas</a></li><li><a href="/wiki/Category:Irish_nouns" title="Category:Irish nouns">Irish nouns</a></li><li><a href="/wiki/Category:Irish_terms_with_usage_examples" title="Category:Irish terms with usage examples">Irish terms with usage examples</a></li><li><a href="/wiki/Category:Irish_familiar_terms" title="Category:Irish familiar terms">Irish familiar terms</a></li><li><a href="/wiki/Category:Irish_second-declension_nouns" title="Category:Irish second-declension nouns">Irish second-declension nouns</a></li><li><a href="/wiki/Category:Old_French_terms_inherited_from_Latin" title="Category:Old French terms inherited from Latin">Old French terms inherited from Latin</a></li><li><a href="/wiki/Category:Old_French_terms_derived_from_Latin" title="Category:Old French terms derived from Latin">Old French terms derived from Latin</a></li><li><a href="/wiki/Category:Old_French_terms_with_IPA_pronunciation" title="Category:Old French terms with IPA pronunciation">Old French terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Old_French_lemmas" title="Category:Old French lemmas">Old French lemmas</a></li><li><a href="/wiki/Category:Old_French_nouns" title="Category:Old French nouns">Old French nouns</a></li><li><a href="/wiki/Category:Old_French_masculine_nouns" title="Category:Old French masculine nouns">Old French masculine nouns</a></li><li><a href="/wiki/Category:Scottish_Gaelic_terms_with_IPA_pronunciation" title="Category:Scottish Gaelic terms with IPA pronunciation">Scottish Gaelic terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Scottish_Gaelic_lemmas" title="Category:Scottish Gaelic lemmas">Scottish Gaelic lemmas</a></li><li><a href="/wiki/Category:Scottish_Gaelic_nouns" title="Category:Scottish Gaelic nouns">Scottish Gaelic nouns</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Requests_for_etymologies_in_Irish_entries" title="Category:Requests for etymologies in Irish entries">Requests for etymologies in Irish entries</a></li><li><a href="/wiki/Category:Requests_for_etymologies_in_Scottish_Gaelic_entries" title="Category:Requests for etymologies in Scottish Gaelic entries">Requests for etymologies in Scottish Gaelic entries</a></li><li><a href="/wiki/Category:gd-noun_2" title="Category:gd-noun 2">gd-noun 2</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=toit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=toit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/toit" title="View the content page [c]" accesskey="c">Entry</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:toit&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/toit">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=toit&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=toit&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/toit" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/toit" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=toit&amp;oldid=54513048" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=toit&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=toit&amp;id=54513048" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-az"><a href="https://az.wiktionary.org/wiki/toit" title="toit – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wiktionary.org/wiki/toit" title="toit – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wiktionary.org/wiki/toit" title="toit – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wiktionary.org/wiki/toit" title="toit – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wiktionary.org/wiki/toit" title="toit – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wiktionary.org/wiki/toit" title="toit – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wiktionary.org/wiki/toit" title="toit – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wiktionary.org/wiki/toit" title="toit – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wiktionary.org/wiki/toit" title="toit – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wiktionary.org/wiki/toit" title="toit – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/toit" title="toit – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wiktionary.org/wiki/toit" title="toit – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wiktionary.org/wiki/toit" title="toit – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/toit" title="toit – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wiktionary.org/wiki/toit" title="toit – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wiktionary.org/wiki/toit" title="toit – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wiktionary.org/wiki/toit" title="toit – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wiktionary.org/wiki/toit" title="toit – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wiktionary.org/wiki/toit" title="toit – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wiktionary.org/wiki/toit" title="toit – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wiktionary.org/wiki/toit" title="toit – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wiktionary.org/wiki/toit" title="toit – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wiktionary.org/wiki/toit" title="toit – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/toit" title="toit – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wiktionary.org/wiki/toit" title="toit – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wiktionary.org/wiki/toit" title="toit – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wiktionary.org/wiki/toit" title="toit – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/toit" title="toit – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wiktionary.org/wiki/toit" title="toit – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wiktionary.org/wiki/toit" title="toit – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wiktionary.org/wiki/toit" title="toit – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wiktionary.org/wiki/toit" title="toit – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wiktionary.org/wiki/toit" title="toit – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wiktionary.org/wiki/toit" title="toit – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wiktionary.org/wiki/toit" title="toit – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-chr"><a href="https://chr.wiktionary.org/wiki/toit" title="toit – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/toit" title="toit – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wiktionary.org/wiki/toit" title="toit – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wiktionary.org/wiki/toit" title="toit – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/toit" title="toit – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=toit">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=toit&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=toit&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 1 October 2019, at 10:40.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=toit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.752","walltime":"1.003","ppvisitednodes":{"value":14453,"limit":1000000},"postexpandincludesize":{"value":77299,"limit":2097152},"templateargumentsize":{"value":13713,"limit":2097152},"expansiondepth":{"value":28,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":399,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  900.482      1 -total"," 20.24%  182.222     59 Template:l"," 13.35%  120.187      1 Template:et-decl-riik"," 12.90%  116.180      1 Template:et-decl"," 12.73%  114.632      1 Template:en-noun"," 12.17%  109.631      7 Template:check_deprecated_lang_param_usage"," 11.77%  106.022      7 Template:deprecated_code"," 10.96%   98.652     63 Template:redlink_category","  9.50%   85.556      1 Template:et-decl-table","  7.15%   64.396      4 Template:inh"]},"scribunto":{"limitreport-timeusage":{"value":"0.357","limit":"10.000"},"limitreport-memusage":{"value":13310921,"limit":52428800}},"cachereport":{"origin":"mw1337","timestamp":"20200226224028","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1326"});});</script></body></html>

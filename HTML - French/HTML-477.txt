@@ -1,0 +1,869 @@
+<!doctype html><html prefix="og: http://ogp.me/ns#" lang="fr"><head><meta charset="UTF-8"><meta name="msvalidate.01" content="36879475773792950F4872586A371571" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Politique de confidentialité &mdash; RT en français</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.ico" type="image/x-icon" /><meta name="description" content=""/><meta name="apple-itunes-app" content="app-id=649316948, app-argument=frenchrtnews" /><!-- rev-hash --><link rel="stylesheet" href="/static/css/template.min.css?v=466e7b7gb71fepi12orfe7dasj874320oipopi1h4l67d8xc4wr4w342wrwe4r234wrw3dsadsadsadadsa5sads6dasda123wqswaqwrfdf4fd54fsasdwrerc56yg3"/><!-- end --><meta property="og:site_name" content="RT en Français"><meta property="og:locale" content="fr_FR"><meta property="og:title" content="Politique de confidentialité &mdash; RT en Français" /><meta property="og:type" content="website" /><meta property="og:url" content="https://francais.rt.com" ><meta property="og:description" content="" /><meta name='publish-date' content="Sat, 13 Dec 2014 20:22:29 +0100" /><meta property="og:image" content="https://francais.rt.com/static/blocks/logo/fb.jpg" /><meta property="fb:pages" content="1536715766560953" /><meta name="twitter:site" content="@RTenfrancais" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Politique de confidentialité" /><script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script><script type="text/javascript" src="//pp.lp4.io/app/59/4b/a9/594ba919e45a1d4b4ab1e468.js" async="async"></script><script>
+                    var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+                        ['mark', 'firstbyte', (new Date()).getTime()]];
+                    (function() {
+                        var s = document.getElementsByTagName('script')[0]
+                            , p = document.createElement('script');
+                        p.async = 'async';
+                        p.src = '//rum-static.pingdom.net/prum.min.js';
+                        s.parentNode.insertBefore(p, s);
+                    })();
+                </script><script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script><!-- Begin comScore Tag --><script>
+                    var _comscore = _comscore || [];
+                    _comscore.push({ c1: "2", c2: "17935924" });
+                    (function() {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    })();
+                </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!--googleAnalitics--><script>
+                /* значение true отключает установку кук для Google Analytics и Yandex Metrika */
+                function hasAnalitics(){
+                    if(localStorage.getItem('rt-cb-analitics') === 'false') return true;
+                    return document.cookie.indexOf('rt-cb-analitics') > -1
+                };
+
+                window['ga-disable-UA-58795326-1'] = hasAnalitics();
+                window['disableYaCounter29473250'] = hasAnalitics();
+
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                if(window['ga-disable-UA-58795326-1']){
+                    ga('create', 'UA-58795326-1', {
+                        'storage': 'none',
+                        'storeGac': false,
+                    });
+                }else{
+                    ga('create', 'UA-58795326-1', 'auto');
+                }
+
+                                ga('set', 'dimension1', '13 déc., 2014');
+                                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+            </script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script><script>
+            googletag.cmd.push(function() {
+                var mappingBox = googletag.sizeMapping().
+                addSize([1000, 0], [[250, 250], [300, 250]]).
+                addSize([768, 0], [[250, 250], [300, 250]]).
+                addSize([0, 0], [300, 250]).
+                build();
+
+                googletag.defineSlot('/144751494/FR_RT_ROS', [[250, 250], [300, 250]], 'div-gpt-ad-1474381244838-1').defineSizeMapping(mappingBox).addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+            });
+        </script><script>
+            function isJqueryInit(callback) {
+                if (window.$ && window.jQBrowser) {
+                    callback();
+                } else {
+                    setTimeout(function() {
+                        isJqueryInit(callback)
+                    }, 500);
+                }
+            }
+        </script><link rel="canonical" href="https://francais.rt.com/politique-de-confidentialite"/><style>
+            /*.offers ~ .layout__header .header__notification-icon {*/
+            /*    top: 0;*/
+            /*}*/
+        </style></head><body><script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://francais.rt.com",
+            "logo": "https://francais.rt.com/static/img/logo112x112.png",
+            "name": "RT en Français",
+            "legalName": "Organisation autonome à but non lucratif \"TV-Novosti\"",
+            "sameAs": [
+                "https://www.facebook.com/RTFrance/",
+                "https://twitter.com/RTenfrancais",
+                "https://www.youtube.com/user/rtenfrancais",
+                "https://www.instagram.com/rtfrance/",
+                "https://francais.rt.com/rss"
+            ],
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://francais.rt.com/recherche?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script><div class="layout"><div class="layout__wrapper"><div class="offers" id="offers"></div><div class="layout__header"><div class="header" id="header"><div class="header__section header__section_gray"><div class="header__content header__content_floats"><div class="header__social"><ul class="socials "><li class="socials__item"><a href="https://www.instagram.com/rtfrance/" target="_blank" rel="nofollow" class="socials__link socials__link_instagram " style="background-size: contain;">
+                        Instagram
+                    </a></li><li class="socials__item"><a href="https://www.facebook.com/pages/RT-France/1536715766560953?fref=ts" target="_blank" rel="nofollow" class="socials__link socials__link_facebook " style="background-size: contain;">
+                        Facebook
+                    </a></li><li class="socials__item"><a href="http://www.youtube.com/user/rtenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_youtube " style="background-size: contain;">
+                        Youtube
+                    </a></li><li class="socials__item"><a href="https://twitter.com/RTenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_twitter " style="background-size: contain;">
+                        Twitter
+                    </a></li><li class="socials__item"><a href="/rss" target="_blank" rel="nofollow" class="socials__link socials__link_rss " style="background-size: contain;">
+                        RSS
+                    </a></li></ul></div><div class="header__applications"><a href="/applications" class="link">Applications</a></div><div class="header__langs"><ul class="langs"><li class="langs__item"><a href="//www.rt.com/" title="RT ENG" class="langs__link" target="_blank" ><span class="langs__full">
+                    ENG
+                </span></a></li><li class="langs__item"><a href="//arabic.rt.com/" title="RT العربية" class="langs__link" target="_blank" ><span class="langs__full">
+                    العربية
+                </span></a></li><li class="langs__item"><a href="//actualidad.rt.com/" title="RT ESP" class="langs__link" target="_blank" ><span class="langs__full">
+                    ESP
+                </span></a></li><li class="langs__item"><a href="//russian.rt.com/" title="RT РУС" class="langs__link" target="_blank" ><span class="langs__full">
+                    РУС
+                </span></a></li><li class="langs__item"><a href="//deutsch.rt.com/" title="RT DE" class="langs__link" target="_blank" ><span class="langs__full">
+                    DE
+                </span></a></li></ul></div></div></div><div class="header__section header__section_middle header__section_border-bottom header__section_border-bottom_gray"><div class="header__content header__content_floats header__content_main"><div class="header__logo"><a class="logo logo_head" href="/"><span class="logo__image">RT</span><span class="logo__text">Francias</span></a></div><div class="header__live-btn"><a class="btn btn_red" href="/en-direct">EN DIRECT</a></div></div></div><div class="header__nav" id="header-nav"><div class="header__content"><div class="header__search js-header__search" id="header-search-form"><form method="get" action="/recherche" id="cse" class="search header__search-form"><input type="text" name="q" value="" class="search__input header__search-input" maxlength="100"><input type="submit" title="search" class="search__submit header__search-button"></form><div class="header__date"><span class="date  date_header" id="date_header"><script>
+                                var RT = RT || {};
+                                RT.headerDate =  RT.headerDate || {};
+                                RT.headerDate.time = Date.parse('2020/02/29 06:25:25');
+                            </script></span></div></div><span class="header__notification-icon" id="header-notification"></span><a class="header__search-icon" id="header-search-icon"></a><a class="header__menu-icon" id="header-menu-icon"></a><div class="header__float-block"><a class="logo logo_float" href="/"><span class="logo__image">RT</span><span class="logo__text">Francias</span></a><div class="addthis"><div class="addthis_sharing_toolbox"></div></div></div><div class="header__live-btn_mobile"><a class="btn btn_red" href="/en-direct">EN DIRECT</a></div><div class="nav nav_header-menu header__menu"><a href="/actualite" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Actualité
+            </a><a href="/france" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                France
+            </a><a href="/international" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                International
+            </a><a href="/economie" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Economie
+            </a><a href="/opinions" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Opinions
+            </a><a href="/magazines/interdit-d-interdire" class="nav__link  nav__link_header-menu-link header__menu-link
+                                   interdit-link
+                
+                "><img class="program_interdit" src="/static/img/widget_interdit.png" />
+                
+                Interdit d'interdire
+            </a><a href="/magazines" class="nav__link nav__link_herbal nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Magazines
+            </a><a href="/documentaires" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Documentaires
+            </a><a href="/videos" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Vidéos
+            </a><a href="/360" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                RT360
+            </a><a href="/podcasts" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Podcasts
+            </a></div></div></div></div></div><div class="layout__actualtrends"></div><div class="layout__breaking"></div><div class="layout__tags"></div><div class="layout__content "><div class="layout__grid"><div class="columns"><div class="columns__column columns__column_type_main"><div class="columns__content"><div class="article"><h1 class="article__heading article__heading_static">
+                            Politique de confidentialité
+                        </h1><div class="article__text"><div class="text"><style>
+        .underline {
+                    text-decoration: underline;
+                }
+                img{
+                    width: 100%;
+                }
+    </style><p>
+        La Politique de confidentialité suivante s'applique à l'utilisation du site Web <a href="https://francais.rt.com/" target="_blank">https://francais.rt.com/</a> et à l’application « RT NEWS ». La Politique de confidentialité est destinée à vous informer
+        de la nature, de la portée et du but de la collecte et de l'utilisation de vos données à caractère personnel à l’occasion de votre utilisation du Site Web et de l’Application.
+    </p><h2>Préambule</h2><p>
+        La société éditrice RT France SAS attache une grande importance au respect de votre vie privée. Il en est de même de l’Hébergeur du Site Web et de l’Application qu’est la société ANO TV- Novosti.
+    </p><p>
+        La collecte et le traitement de vos données personnelles se font conformément aux réglementations européennes et françaises en vigueur, notamment au Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des
+        personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (<a href="https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679&from=FR" target="_blank">https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016R0679&from=FR</a>,
+        et à la Loi françaisen°78-17 du 6 janvier 1978 dite loi « Informatique et Libertés de 1978 » (<a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460" target="_blank">https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460</a>)
+        ainsi qu’ aux recommandations de la Commission Nationale de l’Informatique et des Libertés (CNIL).
+    </p><h2>Définitions</h2><p><strong>« Hébergeur »</strong> ou <strong>« ANO TV Novosti »</strong> : ANO TV-Novosti, Organisme autonome à but non lucratif (OSBL), dont le siège social est situé Bldg 1,3 Borovaya St – 111020 MOSCOU- RUSSIE. Hébergeur du Site Web et de l’Application.
+    </p><p><strong>« Application »</strong> : désigne le service de communication au public en ligne « RT NEWS », édité par la Société RT France SAS, accessible via l’interface préalablement téléchargée sur le Play Store® d’Android et/ou l’App Store® d’Apple.
+    </p><p><strong>« Cookie(s) »</strong> : couvre l’ensemble des fichiers texte non exécutables, traceurs, balises web et autres technologies, telles que les GIFs transparents, GIFs clairs ou web-bug, déposés sur le navigateur du terminal (ordinateur, tablette,
+        smartphone, etc.) par l’Hébergeur ou par les Editeurs tiers via le Site et/ou Application.
+    </p><p><strong>« Donnée(s) de Navigation »</strong> : désigne toutes les données qui se rapportent à un terminal à un instant donné. Au titre des Donnée(s) de Navigation collectée(s), les données suivantes peuvent être notamment collectées :
+    </p><ul style="list-style: none"><li> - L’identification et le contenu d’un fichier cookie stocké par l’Hébergeur et/ou par les Editeurs tiers dans le terminal concerné;</li><li> - L’adresse IP du terminal connecté au Site Web ou à l’Application;</li><li> - La date et l’heure et la durée de connexion d’un terminal à un élément du Site Web ou à l’Application;</li><li> - L’adresse Internet de la page de provenance du terminal accédant au Site Web ou à l’Application;</li><li> - Le type de système d’exploitation du terminal (ex : Windows, MacOs, Linux, Unix, BeOS, etc.);</li><li> - Le type et la version du logiciel de navigation utilisé par le terminal (Internet Explorer, Firefox, Safari, Chrome, Opera, etc.).</li></ul><p><strong>« Donnée(s) Personnelle(s) »</strong> : désigne toute information se rapportant à une personne physique identifiée ou identifiable, directement ou indirectement, notamment par référence à un identifiant, tel qu’un nom, un numéro d’identification,
+        un identifiant en ligne, etc.
+    </p><p><strong>« Editeurs tiers »</strong> : désigne les sociétés tierces éditant des Cookies.).
+    </p><p><strong>« Politique de confidentialité »</strong> : désigne la présente politique de confidentialité.
+    </p><p><strong>« Société Editrice »</strong> ou <strong>« RT France »</strong> : désigne RT France, SAS, dont le siège social est au 18-20 quai du Point du Jour – 92100 BOULOGNE BILLANCOURT- France.
+    </p><p><strong>« Site Web »</strong> ou <strong>« Site »</strong> : désigne le service de communication au public en ligne, accessible à l’adresse URL suivant <a href="https://francais.rt.com/" target="_blank">https://francais.rt.com/</a></p><h2>Responsables de traitement</h2><p>Selon les cas les responsables de traitement peuvent être les entités suivantes :</p><ul><li>la Société éditrice;</li><li>l'Hébergeur;</li><li>Les Editeurs tiers.</li></ul><h2>Finalités, données traitées, destinataires, durées de conservation et bases juridique des traitements </h2><p>
+        Plusieurs traitements de données à caractère personnel sont réalisés par la Société Editrice et l’Hébergeur pour les finalités suivantes :
+    </p><ul><li><strong>
+                Réponse à une demande de contact ou à vos questions et vos demandes relatives au contenu éditorial ou encore au droit de réponse;
+                </strong></li></ul><p><span class="underline">Données traitées</span> : Nom, prénom, heure et date du message, adresse email, contenu du message, pièce(s) jointe(s). Le cas échéant, une pièce d’identité avec la signature du titulaire peut vous être demandée pour accéder
+        à votre demande.
+    </p><p><span class="underline">Base juridique</span> : en envoyant un email à RT France, vous consentez au traitement de vos données à caractère personnel. Le cas échéant, sur la base de leurs intérêts légitimes, La Société Editrice et l’Hébergeur peuvent
+        conserver les échanges d’email à titre probatoire pour la constatation, l’exercice et la défense de leurs droits en justice.
+    </p><p><span class="underline">Destinataires</span> : Service éditorial de RT France, le service juridique, les Sous-traitants techniques (hébergement, logiciels à distance etc.). Le cas échéant, le service d’audit interne de l’Hébergeur.
+    </p><p><span class="underline">Durées de conservation</span> : 3 ans à compter de la dernière prise de contact allongées des durées de prescriptions administratives, civiles, commerciales et pénales.
+    </p><p>
+        Veuillez noter que la confidentialité d’un courrier électronique non-chiffré envoyé par Internet n'est pas garantie. Nous vous invitons à prendre les mesures techniques appropriées pour chiffrer vos communications.
+    </p><ul><li><strong>
+                Transmission de notifications « push » :  
+                </strong></li></ul><p><span class="underline">Données traitées</span> : données de navigation, données statistiques sur le trafic web, données d’identification du terminal, adresse IP, le moment et la fréquence de démarrage de l’Application et de fermeture de l'Application
+    </p><p><span class="underline">Base juridique</span> : Consentement
+    </p><p>
+        Lorsque vous visitez notre Site Web, nous vous offrons la possibilité de vous inscrire aux notifications push du navigateur. Pour ce faire, nous affichons une bannière contenant les boutons “ Autoriser les Notifications ”, “Pas maintenant” ou “ Ne jamais
+        autoriser”. En cliquant sur” Autoriser les Notifications", vous consentez à recevoir des notifications du navigateur. Dans ce cas, nous traitons vos données personnelles.
+    </p><p>
+        Si vous ne cliquez pas sur “Autoriser Notifications” ou si vous cliquez sur “Pas maintenant” ou “Ne jamais autoriser”, nous ne vous enverrons aucune notification push. Vous n'êtes pas obligé de donner votre consentement pour l'envoi de notifications push.
+        Si vous ne consentez pas, vous ne recevrez pas les notifications push, il n'y aura pas d'autres conséquences. Vous pouvez révoquer votre consentement pour un traitement futur à tout moment, veuillez-vous référer à l'information de votre navigateur
+        pour des renseignement sur la façon de révoquer votre consentement via les réglages des paramètres du navigateur :
+    </p><ul><li>Apple Safari: <a href="https://support.apple.com/en-gb/guide/safari/sfri40734/mac" target="_blank">https://support.apple.com/en-gb/guide/safari/sfri40734/mac</a></li><li>Google Chrome: <a href="https://support.google.com/chrome/answer/3220216?" target="_blank">https://support.google.com/chrome/answer/3220216?co=GENIE.Platform%3DDeskt op&hl=en</a></li><li>Microsoft Edge: <a href="https://answers.microsoft.com/en-us/edge/forum/edge_other- " target="_blank">https://answers.microsoft.com/en-us/edge/forum/edge_other- edge_win10/disable-web-notifications-in-microsoft-edge/cb0c21e6-c40b-4657-ba8e- 8b51e3c71080</a></li><li>Mozilla Firefox: <a href="https://support.mozilla.org/en-US/kb/push-notifications-firefox" target="_blank">https://support.mozilla.org/en-US/kb/push-notifications-firefox</a></li></ul><p><span class="underline">Destinataires</span> : L’Hébergeur, les sous-traitants techniques (hébergement, logiciels à distance etc.)
+    </p><p><span class="underline">Durées de conservation</span> : Le temps de votre abonnement aux notifications push.
+    </p><ul><li><strong>
+                Les traitements de modération des contributions : 
+                </strong></li></ul><p><span class="underline">Sources de données</span> : Spot.IM, l’Hébergeur</p><p><span class="underline">Données traitées</span> : Pour chaque commentaire écrit via Spot.IM, l’Hébergeur recevra les informations suivantes de l’utilisateur : adresse électronique spécifiée ou médias sociaux et votre adresse IP fournie par votre fournisseur
+        au moment où vous avez soumis votre commentaire. La transmission d’adresses IP sert à prévenir toute utilisation abusive de la fonction de commentaire. </p><p><span class="underline">Base juridique</span> : En postant un commentaire via Spot.IM, vous consentez à la collecte et à l’utilisation de vos données par la Société Editrice et l’Hébergeur. Ces derniers disposent d’un intérêt légitime à conserver les
+        données à titre probatoire pour la constatation, l’exercice et la défense de leurs droits en justice. </p><p><span class="underline">Destinataires</span> : L’Hébergeur, et les Editeurs tiers.</p><p><span class="underline">Durées de conservation</span> : Le temps du traitement de la modération allongée des durées de prescriptions administratives, civiles, commerciales et pénales.</p><ul><li><strong>
+                Les traitements aux moyens de Cookies sur le Site Web ou l’Application 
+                </strong></li></ul><p>
+        Pour en savoir plus sur notre utilisation des cookies et les moyens de vous opposer aux cookies, nous vous invitons à vous reporter à la sections « Cookies » qui détaille les cookies utilisés ou déposés.
+    </p><p class="underline">
+        Les finalités peuvent notamment être les suivantes :
+    </p><ul style="list-style: none"><li>
+            - Des cookies d’usage du site (non soumis au consentement) dont des cookies :
+            <ul style="list-style: circle"><li>d'« identifiants de session »;</li><li>d’authentification;</li><li>de session créés par un lecteur multimédia;</li><li>de session d’équilibrage de charge;</li><li>de mesures d’audience;</li><li>de personnalisation de l’interface utilisateur (langue, ou présentation par exemple);</li><li>de session nécessaire à la sécurité.</li></ul></li><li> - Des cookies publicitaires afin de vous proposer de la publicité centrée sur vos intérêts ;</li><li> - Des cookies d’analyse d’audience ;</li><li> - Des cookies relatifs aux réseaux sociaux afin de permettre de créer un lien vers ou de partager des liens rapidement sur les réseaux sociaux ;</li><li> - Des cookies afin de faire des liens vers des services de partage de vidéo ;</li><li> - Des cookies afin de faire le lien vers des sections commentaires. </li></ul><p><span class="underline">Source des données</span> : L’Hébergeur ou les Editeurs tiers de cookies.
+    </p><p><span class="underline">Données traitées</span> : données de navigation, données statistiques sur le trafic web, données d’identification du terminal, adresse IP, le moment et la fréquence de démarrage de l’Application et de fermeture de l'Application.
+    </p><p><span class="underline">Base juridique relative au traitement des données personnelles</span> :
+    </p><ul style="list-style: none"><li>
+            - Notre intérêt légitime à fournir notre site Web pour le déploiement de cookies de catégorie 1;
+        </li><li>
+            - Votre consentement pour le déploiement des cookies de catégorie 2 à 4 et le suivi web.
+        </li></ul><p>
+        Lorsque vous visitez notre site Web pour la première fois ou lorsque cela est nécessaire une nouvelle fois, nous vous informerons de l'utilisation des cookies de catégorie 1 à 4 et du suivi du site Web.
+    </p><p><span class="underline">Destinataires</span> : L’Hébergeur, et les Editeurs tiers.
+    </p><p><span class="underline">Durées de conservation</span> : Les informations collectées par le biais des cookies sont conservées par la Société Editrice et l’Hébergeur pour une durée de 13 mois.
+    </p><ul><li><strong>
+                Réponse aux demandes relatives à vos droits « informatique et libertés » ;
+                </strong></li></ul><p><span class="underline">Données traitées</span> : Nom, prénom, heure et date du message, adresse email, contenu du message, pièce(s) jointe(s), droit(s) exercé(s). Le cas échéant, une pièce d’identité avec la signature du titulaire peut vous être
+        demandée pour accéder à votre demande.
+    </p><p><span class="underline">Base juridique</span> : En envoyant un email à RT France, vous consentez au traitement de vos données à caractère personnel. Dans le cadre du RGPD, la Société Editrice a une obligation de prouver sa conformité dont notamment
+        les réponses apportées aux personnes concernées. La Société Editrice dispose également d’un intérêt légitime pour la constatation, l’exercice et la défense de ses droits en justice.
+    </p><p><span class="underline">Destinataires</span> : Le service conformité de RT France, les Sous-traitants techniques (hébergement, logiciels à distance etc.). Le cas échéant, le service juridique de la Société Editrice et le service d’audit interne de
+        l’Hébergeur.
+    </p><p><span class="underline">Durées de conservation</span> : durées de prescriptions administratives, civiles, commerciales et pénales.
+    </p><p>
+        Veuillez noter que la confidentialité d’un courrier électronique non-chiffré envoyé par Internet n'est pas garantie. Nous vous invitons à prendre les mesures techniques appropriées pour chiffrer vos communications.
+    </p><h2>
+        Vos Droits
+    </h2><p>
+        Vous disposez d’un droit de retirer votre consentement à tout moment, d’un droit à la portabilité de vos données, ainsi que de droits d’accès, de rectification, d’effacement, de limitation, d’opposition et du droit de définir des directives relatives
+        au sort de vos données en cas de décès.
+    </p><h2>
+        Contact
+    </h2><p>
+        Vous pouvez exercer vos droits :
+    </p><ul style="list-style: none"><li>
+            - En écrivant à l’adresse email : <a href="mailto:data.protection@rttv.fr">data.protection@rttv.fr</a>; ou
+        </li><li>
+            - En écrivant à l’adresse postale : Service Juridique, RT France SAS ,18-20 quai du Point du Jour – 92100 BOULOGNE BILLANCOURT- France
+        </li></ul><h2>
+        Documents justificatifs et délai de réponse
+    </h2><p>
+        En application du décret n°2005-1309 du 20 octobre 2005 modifié pris pour l’application de la loi modifiée n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, il peut être exigé que votre demande d’exercice de l’un de vos
+        droits soit accompagnée de la photocopie d’un titre d’identité portant la signature du titulaire. Votre demande devra également préciser l’adresse à laquelle la réponse devra parvenir.
+    </p><p>
+        Afin de pouvoir vous identifier, nous vous invitons à nous indiquer l’adresse email, ou les identifiants numériques (pseudonyme par exemple) que vous avez utilisés.
+    </p><p>
+        Nous disposerons alors d’un délai d’un (1) mois suivant réception de la demande pour vous répondre. Ce délai peut être prolongé de deux (2) mois compte tenu de la complexité et du nombre de demandes.
+    </p><p>
+        Ces droits ne sont pas absolus : vous pouvez les exercer dans le cadre légal prévu et dans les limites de ces droits. Dans certains cas, nous ne pourrons pas répondre favorablement à votre demande (obligation légale, respect de nos engagements envers
+        vous, ...). Si c’est le cas, nous vous communiquerons la ou les raisons de ce refus.
+    </p><h2>
+        Droits d’accès, de rectification ou d’effacement
+    </h2><p>
+        Vous pouvez accéder aux Données Personnelles que nous avons collectées directement auprès de vous afin de les rectifier, de les compléter ou d’effacer toute information inexacte en vous adressant à l’adresse figurant dans la section « Contact ».
+    </p><p>
+        Vous disposez d’un droit à l’effacement de vos Données Personnelles, lorsque :
+    </p><ul style="list-style: circle"><li>
+            Celles-ci ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées ; ou
+        </li><li>
+            Vous avez retiré votre consentement pour ce traitement de Données Personnelles et il n’existe aucun autre fondement juridique au traitement ; ou
+        </li><li>
+            Vous vous êtes opposé à ce traitement et il n’existe aucun motif légitime impérieux justifiant ce traitement ; ou
+        </li><li>
+            Vos Données Personnelles ont fait l’objet d’un traitement illicite.
+    
+        </li><li>
+            Vos Données Personnelles doivent être effacées pour respecter une obligation légale, prévue par la législation de l’Union ou des Etats membres et à laquelle la Société Editrice et l’Hébergeur sont soumis.
+    
+        </li><li>
+            Les données ont été collectées dans le cadre de l’offre de services de la société de l’information.
+    
+        </li></ul><h2>
+        Droit à la limitation du traitement
+    </h2><p>
+        Vous disposez d’un droit d’obtenir la limitation du traitement lorsque l’une des conditions suivantes s’applique :
+    
+    </p><ul style="list-style: none"><li>
+            - Vous contestez l’exactitude des Données Personnelles. La limitation aura lieu le temps de la vérification ; ou
+        </li><li>
+            - Le traitement est illicite et vous vous opposez à l’effacement de vos Données Personnelles et demandez plutôt la limitation de leur utilisation ; ou
+    
+        </li><li>
+            La Société Editrice et/ou l’Hébergeur n’a plus besoin des Données Personnelles aux fins du traitement, mais elles sont requises par vous pour l’établissement, l’exercice ou la défense de vos droits ; ou
+    
+        </li><li>
+            Vous vous êtes opposés au traitement et une vérification doit être effectuée afin de savoir si les motifs légitimes de la Société Editrice et/ou l’Hébergeur prévalent sur les vôtres.
+    
+        </li></ul><h2>
+        Droit de retirer votre consentement à tout moment
+    
+    </h2><p>
+        Vous pouvez retirer votre consentement, à tout moment, au traitement de vos Données Personnelles, sans porter atteinte à la licéité du traitement avant son retrait.
+    
+    </p><h2>
+        Cookies
+    </h2><p>
+        Lors de votre navigation sur notre Site et/ou Application, la Société Editrice et l’Hébergeur sont susceptibles de recueillir, conformément à la législation applicable en vigueur et avec votre consentement, des Données de Navigation. Pour recueillir ces
+        informations, nous avons recours aux Cookies.
+    </p><p>
+        Lorsque vous visitez le Site Web, des informations sous forme de cookies peuvent être stockées sur votre appareil. Un Cookie est un petit fichier texte envoyé par un serveur web à votre navigateur et stocké sur votre appareil. Lorsque vous visitez notre
+        Site Web, les informations sur les cookies sont à nouveau transférées sur serveur web de l’Hébergeur.
+    </p><p>
+        Il existe plusieurs catégories de cookies :
+    </p><table style="margin-left: 5px; text-align: left; border-spacing: 0; border-collapse: collapse" border="1px" cellspacing="0"><style>
+            th,td{
+                        padding: 5px;
+                    }
+        </style><tbody><tr><th>
+                    Type:
+                </th><th>
+                    Description:
+                </th></tr><tr><td>
+                    Catégorie 1:<br> Cookies techniques nécessaires au Site
+                </td><td>
+                    Ces cookies sont techniquement nécessaires pour fournir les fonctionnalités du site Web. Nous ne pouvons pas fournir l’intégralité des services du site Web sans déployer de tels cookies..
+                </td></tr><tr><td>
+                    Catégorie 2:<br> Cookies fonctionnels
+                </td><td>
+    
+                    Ces cookies permettent de créer l'expérience de navigation la plus agréable possible sur notre site Web, avec un maximum de conformité d'usage individuel (par exemple, permettre une connexion à travers des sessions, une vitesse de navigation élevée grâce
+                    aux suggestions de recherche ou le stockage de paramètres de page individuels tels que la langue ou la taille du texte. , etc.).
+    
+                </td></tr><tr><td>
+    
+                    Catégorie 3:<br> Cookies de performance
+    
+                </td><td>
+    
+                    Ces cookies servent à optimiser en permanence notre site Web et à améliorer continuellement l'expérience de navigation (par exemple en évaluant l'utilisation des fonctions du site Web proposées, en signalant des erreurs d'affichage, etc.).
+    
+                </td></tr><tr><td>
+                    Catégorie 4:<br> Réseaux sociaux et cookies publicitaires
+    
+                </td><td>
+    
+                    Certains de ces cookies vous permettent de vous connecter à vos réseaux sociaux et de partager le contenu publié sur notre site Web. D'autres aident à mieux personnaliser la publicité en s'adaptant à vos intérêts.
+    
+                </td></tr></tbody></table><p>
+        Les cookies de catégorie 2 à 4 peuvent être déployés dans le cadre du suivi web. Dans ce cas, le cookie aide à analyser le trafic web. Il peut être combiné avec d'autres informations relatives à vos activités sur notre site web et est traité dans des
+        profils d'utilisation pseudonymes. Cela nous aide à analyser les informations sur le trafic web et à améliorer notre site afin de l'adapter aux besoins des utilisateurs. Nous n'utilisons ces informations pour l'analyse statistique. En plus du suivi
+        web basé sur les cookies, un suivi web non basé sur les cookies est réalisé en utilisant d'autres moyens tels que vos paramètres d'appareil individuels pour vous reconnaître lors de la visite de notre site web.
+    
+    </p><p>
+        Lorsque vous visitez notre site web pour la première fois, nous vous informerons de l'utilisation des cookies de catégorie 2 à 4 et du suivi du site web et nous vous demanderons votre consentement. Pour demander votre consentement, nous affichons une
+        bannière.
+    
+    </p><p>
+        Si vous cliquez sur “Accepter” ou “OK”, vous exprimez votre consentement. Vous pouvez restreindre votre consentement au déploiement de cookies en tout ou en partie en configurant les paramètres de votre navigateur et en désactivant les cookies en tout
+        ou en partie. En outre, vous pouvez installer une extension/plugin de navigateur. Les extensions/plugins offrent la possibilité d'empêcher les analyses web.
+    
+    </p><p>
+        Parmi d’autres, ces extensions répondent à ces besoins (nous vous invitons à vous référer aux informations de protection des données du fournisseur de plugin respectif). :
+    
+    </p><ul><li>
+            AdBlock,
+        </li><li>
+            Ghostery,
+        </li><li>
+            NoScript,
+        </li><li>
+            uBlock Origin
+        </li></ul><p>
+        De plus, certains fournisseurs de services d'analyse web sont membres d'associations industrielles dont les sites web permettent d'empêcher de façon centralisée l'utilisation du suivi web. Veuillez trouver ci-dessous la référence aux sites web de ces
+        associations pour exprimer vos choix en ce qui concerne le suivi web et le traitement des données dans des profils pseudonymes.
+    
+    </p><p>
+        "European Interactive Digital Advertising Alliance" (EDAA):
+    </p><ul><li><a href="http://www.youronlinechoices.com/de/praferenzmanagement/" target="_blank">
+                        http://www.youronlinechoices.com/de/praferenzmanagement/
+                    </a></li></ul><p>
+        "Digital Advertising Alliance" (DAA):
+    </p><ul><li><a href="www.aboutads.info/choices/" target="_blank">
+                            www.aboutads.info/choices/
+                        </a></li></ul><p>
+        “Network Advertising Initiative " (Nai):
+    </p><ul><li><a href="http://www.networkadvertising.org/choices/" target="_blank">
+                            http://www.networkadvertising.org/choices/
+                        </a></li></ul><p>
+        Veuillez-vous référer au tableau ci-dessous pour des informations détaillées concernant les services de suivi web utilisés sur notre site web et les Editeurs tiers associés. En outre, des liens vers la politique de confidentialité de l’Editeur tiers et
+        une explication sur la façon dont vous pouvez empêcher le suivi web sont intégrés. Généralement, dans de tels cas, un “cookie anti- pistage” est stocké sur votre appareil empêchant la collecte de données d'utilisation à partir de votre appareil par
+        l’Editeur tiers respectif.
+    
+    </p><table style="margin-left: 5px; text-align: left; border-spacing: 0; border-collapse: collapse" border="1px" cellspacing="0"><style>
+            th,td{
+                            padding: 5px;
+                        }
+        </style><tbody><tr><th>
+    
+                    Outil / fournisseur
+    
+                </th><th>
+                    Finalité
+                </th><th>
+    
+                    Lien vers la politique de confidentialité du fournisseur / désactivation
+    
+                </th></tr><tr><td><strong>Addform:</strong> Wildersgade 10B, 1, 1408 Copenhague, Danemark
+    
+                </td><td>
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+                </td><td><a href="https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/" target="_blank">https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/ </a><br><br> Empêcher le traitement: <a href="https://site.adform.com/privacy-center/platform-privacy/opt-en dehors/" target="_blank">https://site.adform.com/privacy-center/platform-privacy/opt-en dehors/</a></td></tr><tr><td><strong>AppNexus:</strong> AppNexus Inc. 28 West 23rd Street Étage 4 New York, NY 10010 États-Unis
+                </td><td>
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+                </td><td><a href="https://www.appnexus.com/corporate-privacy-policy" target="_blank">https://www.appnexus.com/corporate-privacy-policy</a><br><br> Empêcher le traitement:
+                    <a href="https://www.appnexus.com/platform-privacy-policy#choices" target="_blank">https://www.appnexus.com/platform-privacy-policy#choices</a></td></tr><tr><td><strong>BidSwitch:</strong> BIDSWITCH GmbH, Münzstrasse 19 1. Hinterhaus, 4. OG Berlin, 10178 Allemagne
+                </td><td>
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+                </td><td><a href="https://www.bidswitch.com/cookie-statement/" target="_blank">https://www.bidswitch.com/cookie-statement/</a><br><br> Empêcher le traitement:
+                    <a href="https://www.bidswitch.com/cookie-statement/" target="_blank">https://www.bidswitch.com/cookie-statement/</a></td></tr><tr><td><strong>Cloudflare, Inc:</strong> 101 Townsend St San Francisco, Californie 94107
+                </td><td>
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+                </td><td><a href="https://www.cloudflare.com/cookie-policy/" target="_blank">https://www.cloudflare.com/cookie-policy/</a></td></tr><tr><td><strong>Google Analytics:</strong> Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis
+                </td><td>
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+                </td><td><a href="https://www.google.de/intl/de/policies/" target="_blank">https://www.google.de/intl/de/policies/</a></td></tr><tr><td><strong>Tag Google Publisher:</strong> Google LLC., 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis
+                </td><td>
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+                </td><td><a href="https://www.google.de/intl/de/policies/" target="_blank">https://www.google.de/intl/de/policies/</a></td></tr><tr><td><strong>Linkpulse:</strong> Solutions sur site AS, Rosenholmveien 25, Trollåsen, 1414
+                </td><td>
+    
+    
+                    Analytique/Mesure
+    
+                </td><td><a href="http://www.linkpulse.com/privacy" target="_blank">http://www.linkpulse.com/privacy</a></td></tr><tr><td><strong>MediaMath Inc.:</strong> 4 World Trade Center 150, rue Greenwich, 45e étage, New York, NY 10007
+                </td><td>
+    
+    
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+    
+                </td><td><a href="http://www.mediamath.com/cookie-notice/" target="_blank">http://www.mediamath.com/cookie-notice/</a><br><br> Empêcher le traitement:
+                    <a href="http://www.mediamath.com/ad-choices-opt-out/" target="_blank">http://www.mediamath.com/ad-choices-opt-out/</a></td></tr><tr><td><strong>Score Card Research Beacon:</strong>Full Circle Studies, Inc. À l'attention du Bureau de la protection de la vie privée 11950 Democracy Drive,, Reston, VA, 20190
+    
+                </td><td>
+    
+    
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+    
+                </td><td><a href="http://www.fullcirclestudies.com/privacy.aspx" target="_blank">http://www.fullcirclestudies.com/privacy.aspx</a></td></tr><tr><td><strong>OpenX:</strong>OpenX Technologies Inc. (Confidentialité: OpenX Technologies, Inc., à l'attention du service juridique, 888 East Walnut Street, 2e étage, 91101 Pasadena / CA, États-Unis)
+    
+                </td><td>
+    
+    
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+    
+                </td><td><a href="http://openx.com/legal/privacypolicy/" target="_blank">http://openx.com/legal/privacypolicy/</a></td></tr><tr><td><strong>Pingdom:</strong>Pingdom AB Kopparbergsvagen 8,, Vasteras, 722 13
+                </td><td>
+    
+    
+    
+    
+                    Analyse Web
+    
+    
+    
+                </td><td><a href="https://www.pingdom.com/legal/privacy-policy/" target="_blank">https://www.pingdom.com/legal/privacy-policy/</a></td></tr><tr><td><strong>Quantcast:</strong> Quantcast Corp. 795, rue Folsom San Francisco, CA 94107
+                </td><td>
+    
+    
+    
+    
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+    
+    
+    
+                </td><td><a href="https://www.quantcast.com/privacy/" target="_blank">https://www.quantcast.com/privacy/</a></td></tr><tr><td><strong>Rocket Fuel:</strong> Rocket Fuel Inc 2000, boul. Seaport, centre de Pacific Shores à Redwood City, Californie 94063 USA
+                </td><td>
+    
+    
+    
+    
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+    
+    
+    
+                </td><td><a href="https://rocketfuel.com/privacy/" target="_blank">https://rocketfuel.com/privacy/</a></td></tr><tr><td><strong>Le projet Rubicon:</strong> Le projet Rubicon, Inc.
+                </td><td>
+    
+    
+    
+    
+    
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+    
+    
+    
+    
+                </td><td><a href="https://rubiconproject.com/privacy-policy/website-cookie-statement/" target="_blank">https://rubiconproject.com/privacy-policy/website-cookie-statement/</a></td></tr><tr><td><strong>Tableau de bord de la recherche:</strong> Full Circle Studies, Inc., 11950 Democracy Drive Suite 600 Reston, VA 20190, États-Unis
+                </td><td>
+    
+    
+    
+    
+    
+                    Analytique/Mesure
+    
+    
+    
+    
+                </td><td><a href="https://www.scorecardresearch.com/preferences.aspx?newlanguage=1" target="_blank">https://www.scorecardresearch.com/preferences.aspx?newlanguage=1</a></td></tr><tr><td><strong>Simpli.fi:</strong> Simpli.fi Holdings, Inc. 1407 Texas St # 202 Fort Worth, TX 76102 États-Unis
+                </td><td>
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+                </td><td><a href="https://www.simpli.fi/simpli-fi-cookie-policy/" target="_blank">https://www.simpli.fi/simpli-fi-cookie-policy/</a></td></tr><tr><td><strong>Yandex:</strong> Yandex, Ulitsa Lva Tolstogo 16, Moscou 119021
+                </td><td>
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+                </td><td><a href="https://yandex.com/legal/privacy/" target="_blank">https://yandex.com/legal/privacy/</a><br><br><a href="https://yandex.com/support/metrica/general/opt-out.html" target="_blank">https://yandex.com/support/metrica/general/opt-out.html</a></td></tr><tr><td><strong>Rubicon Project:</strong> 12181, promenade Bluff Creek, Playa Vista, Californie 90094
+                </td><td>
+                    Serveur publicitaire, Ciblage publicitaire, Analytique/Mesure
+                </td><td><a href="https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/platform-cookie-statement/" target="_blank">https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/platform-cookie-statement/</a></td></tr></tbody></table><p>
+        Enfin, vous pouvez paramétrer le navigateur de votre terminal afin que celui-indique aux sites internet que vous ne souhaitez pas être suivi. Cette option est communément appelée « Do Not Track ».
+    </p><ul style="list-style: none;"><li>
+            - Pour Internet Explorer : <a href="http://windows.microsoft.com/fr-fr/internet-explorer/use- tracking-protection#ie=ie-11" target="_blank">http://windows.microsoft.com/fr-fr/internet-explorer/use- tracking-protection#ie=ie-11</a></li><li>
+            - Pour Safari : <a href="http://support.apple.com/kb/PH11952" target="_blank">http://support.apple.com/kb/PH11952</a></li><li>
+            - Pour Chrome : <a href="https://support.google.com/chrome/answer/114836" target="_blank">https://support.google.com/chrome/answer/114836</a></li><li>
+            - Pour Firefox : <a href="https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-%20pister" target="_blank">https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-%20pister</a></li><li>
+            - Pour Opera : <a href="http://help.opera.com/Windows/12.10/fr/notrack.html " target="_blank">http://help.opera.com/Windows/12.10/fr/notrack.html </a></li></ul><p>
+        Cette configuration diffère sur votre terminal mobile ou tablette.
+    </p><ul style="list-style: none;"><li>
+            - Pour iOS : <a href="https://support.apple.com/fr-fr/HT201265" target="_blank">https://support.apple.com/fr-fr/HT201265</a></li><li>
+            - Pour Android : <a href="http://www.wikihow.com/Disable-Cookies#Android_Devices" target="_blank">http://www.wikihow.com/Disable-Cookies#Android_Devices</a></li><li>
+            - Pour Blackberry : <a href="http://global.blackberry.com/fr/legal/privacy-policy.html#types-info-d" target="_blank">http://global.blackberry.com/fr/legal/privacy-policy.html#types-info-d
+            </a></li><li>
+            - Pour Windows Phone : <a href="https://support.microsoft.com/fr-fr/help/17442/windows- internet-explorer-delete-manage-cookies" target="_blank">https://support.microsoft.com/fr-fr/help/17442/windows- internet-explorer-delete-manage-cookies</a></li></ul><p>
+        Pour vous informer au mieux, nous vous invitons à consulter la rubrique « Cookies : les outils pour les maîtriser » de la CNIL qui donne des outils et astuces pour limiter les traces de sa navigation web sur les navigateurs Chrome, Firefox et Internet
+        Explorer :
+    
+    </p><ul><li><a href="https://www.cnil.fr/cookies-les-outils-pour-les-maitriser/#5554" target="_blank">https://www.cnil.fr/cookies-les-outils-pour-les-maitriser/#5554</a></li></ul><p>
+        La CNIL a également réalisé une vidéo explicative « Comment j’ai attrapé un cookie ? » accessible à l’adresse suivante :
+    
+    </p><ul><li><a href="https://www.dailymotion.com/video/x16lt53_tutoriel-qu-est-ce-qu-un-cookie_tech" target="_blank">https://www.dailymotion.com/video/x16lt53_tutoriel-qu-est-ce-qu-un-cookie_tech
+            </a></li></ul><h2>
+        Analyse du site
+    
+    </h2><p>
+        Notre site Web utilise Google Analytics, un service d'analyse de site internet fourni par Google Inc., 1600 Amphiteatre Parkway, Mountain View, CA 94043, USA ("Google"). Google Analytics utilise des "cookies", des fichiers texte stockés sur votre ordinateur
+        permettant d'analyser votre utilisation du Site et/ou de l’Application. Les informations générées par le cookie sur l'utilisation du Site Web par les utilisateurs sont généralement transmises à un serveur de Google aux États-Unis et y sont stockées.
+    
+    </p><p>
+        L'anonymisation IP est activée sur le Site. En conséquence, votre adresse IP sera préalablement raccourcie par Google dans les États membres de l'Union européenne ou dans d'autres États contractants de l'Accord sur l'Espace économique européen. Dans des
+        cas exceptionnels, l’adresse IP complète est envoyée à un serveur de Google aux États-Unis et sera abrégée. En notre nom, Google utilisera ces informations pour évaluer l'utilisation du Site par les utilisateurs, compiler des rapports sur l'activité
+        du Site.
+    
+    </p><p>
+        L'adresse IP fournie par Google Analytics dans le cadre de Google Analytics ne sera pas fusionnée avec d'autres informations de Google. Vous pouvez empêcher le stockage de cookies en configurant votre logiciel de navigation en conséquence. Nous signalons
+        toutefois que dans ce cas, il se peut que vous ne puissiez pas utiliser toutes les fonctions de ce site Web.
+    
+    </p><p>
+        Vous pouvez également empêcher la collecte par Google des données générées par le cookie et liées à votre utilisation du Site Web (y compris votre adresse IP), ainsi que le traitement de ces données par Google en utilisant le module complémentaire pour
+        navigateur disponible à l'adresse suivante :
+    
+    </p><ul><li><a href="http://tools.google.com/dlpage/gaoptout?hl=fr" target="_blank">http://tools.google.com/dlpage/gaoptout?hl=fr</a></li><li>
+            Voici plus d'informations sur l'utilisation des données par Google Inc.: <a href="https://policies.google.com/privacy/partners?hl=fr" target="_blank">https://policies.google.com/privacy/partners?hl=fr</a> (données collectées par les partenaires
+            Google)
+        </li><li><a href="https://adssettings.google.com/authenticated" target="_blank">https://adssettings.google.com/authenticated</a> (paramètres relatifs aux annonces que vous voyez)
+        </li><li><a href="https://policies.google.com/technologies/ads?hl=fr" target="_blank">https://policies.google.com/technologies/ads?hl=fr</a> (Utilisation de cookies dans les annonces)
+        </li></ul><p>
+        Google LLC est conforme à la loi européenne sur la protection des données et est certifié conforme aux dispositions du contrat Privacy Shield:
+    </p><ul><li><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active" target="_blank">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active</a></li></ul><h2>
+        Google Analytics
+    
+    </h2><p>
+        Google Analytics est utilisé pour évaluer les données des services Google AdWords et DoubleClick à des fins statistiques. Afin d'améliorer nos offres, nous pouvons analyser ce qui se produit lorsqu'un utilisateur clique sur notre annonce publicitaire,
+        par exemple s'il a acheté notre produit ou s'il a accédé à l'annonce à partir d'un téléphone mobile.
+    
+    </p><p>
+        Si vous ne souhaitez pas les analyses des données vous concertantes, vous pouvez vous apposer à l'aide du gestionnaire de préférences pour les annonces de Google :
+    </p><ul><li><a href="http://www.google.com/settings/ads/onweb/?hl=fr" target="_blank">http://www.google.com/settings/ads/onweb/?hl=fr</a></li></ul><h2>
+        DoubleClick
+    </h2><p>
+        DoubleClick installe un cookie sur votre ordinateur pour enregistrer votre comportement de navigation sur divers sites Web et pour ensuite diffuser des publicités liées à vos centres d'intérêt. Si vous ne souhaitez pas que cela se produise de manière
+        permanente, vous pouvez télécharger un plug-in à partir du lien suivant pour empêcher le cookie DoubleClick:
+    
+    </p><ul><li><a href="https://www.google.com/settings/u/0/ads/plugin?hl=fr" target="_blank">https://www.google.com/settings/u/0/ads/plugin?hl=fr</a></li></ul><h2>
+        Google Tag Manager
+    
+    </h2><p>
+        Ce site utilise Google Tag Manager pour gérer les tags du site. Un tag est un extrait de code JavaScript utilisé pour envoyer des informations d'un site Web à des destinataires, en particulier dans le contexte du suivi Web. L'outil Google Tag Manager
+        lui-même ne collecte aucune donnée personnelle. L'outil déclenche d'autres tags susceptibles de collecter des données (par exemple, le tag de Google Analytics). Google Tag Manager n'accède pas à ces données. Si la désactivation a été effectuée au
+        niveau du domaine ou du cookie, elle restera en vigueur pour toutes les tags de suivi implémentées avec Google Tag Manager. Cela facilite la mise en œuvre efficace de votre besoin par rapport aux procédures de suivi.
+    
+    </p><p>
+        Pour plus d’information, vous pouvez consulter le lien suivant sur la protection des données.
+    </p><ul><li><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active" target="_blank">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active</a></li></ul><h2>
+        Google Fonts
+    </h2><p>
+        Notre site Web utilise les " Google Fonts" de Google pour afficher les polices uniformément. Lorsque vous visitez un site Web, votre navigateur charge les polices requises dans la mémoire cache de votre navigateur pour afficher correctement les textes
+        et les polices. Votre adresse IP est transférée aux serveurs de Google. Si votre navigateur ne prend pas en charge les polices Google, les polices standard sont utilisées.
+    </p><p>
+        Pour plus d'informations sur Google Fonts, consultez les pages suivantes :
+    </p><ul><li><a href="https://developers.google.com/fonts/faq" target="_blank">https://developers.google.com/fonts/faq</a></li><li><a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active" target="_blank">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active</a></li></ul><h2>
+        Services Internet et intégrations de réseaux sociaux
+    </h2><p>
+        La Société Editrice partage ses offres sur des réseaux sociaux tels que Facebook, Twitter, Instagram et YouTube afin de soutenir une distribution de contenu conviviale et actualisée sur Internet. Celles-ci vous permettent, en tant qu'utilisateur de partager
+        le contenu sur les réseaux sociaux.
+    </p><img src="http://backend.test-fr.french.gsdavletkildin.dev.rt.com/french/images/2019.03/original/5c88c0cbe8f9061c178b4567.jpg" alt="sociaux"><p>
+        Vous pouvez également partager le contenu publié sur notre Site Web via votre adresse mail, WhatsApp et Telegram.
+    </p><img src="http://backend.test-fr.french.gsdavletkildin.dev.rt.com/french/images/2019.03/original/5c88c0d5e8f906cb168b4569.jpg" alt="telegram"><p>
+        Pour plus d'informations sur l'utilisation des données et l'exercice de vos droits, veuillez consulter les informations fournies par :
+    </p><p>
+        Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA
+    </p><ul><li><a href="https://www.facebook.com/legal/terms/information_about_page_insights_data" target="_blank">https://www.facebook.com/legal/terms/information_about_page_insights_data</a></li><li><a href="https://www.facebook.com/legal/terms/page_controller_addendum" target="_blank">https://www.facebook.com/legal/terms/page_controller_addendum</a></li><li><a href="https://www.facebook.com/policies/cookies/" target="_blank">https://www.facebook.com/policies/cookies/</a></li><li><a href="https://www.facebook.com/privacy/explanation" target="_blank">https://www.facebook.com/privacy/explanation</a></li></ul><p>
+        Instagram LLC, 1601 Willow Rd, Menlo Park CA 94025, USA
+    </p><ul><li><a href="https://help.instagram.com/155833707900388" target="_blank">https://help.instagram.com/155833707900388</a></li></ul><p>
+        Twitter, Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA
+    
+    </p><ul><li><a href="https://help.twitter.com/fr/rules-and-policies/twitter-cookies" target="_blank">https://help.twitter.com/fr/rules-and-policies/twitter-cookies</a></li><li><a href="https://twitter.com/fr/privacy" target="_blank">https://twitter.com/fr/privacy</a></li></ul><p>
+        YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA
+    
+    </p><ul><li><a href="https://policies.google.com/privacy?hl=de&gl=de" target="_blank">https://policies.google.com/privacy?hl=de&gl=de</a></li></ul><p>
+        Telegram
+    
+    </p><ul><li><a href="https://telegram.org/privacy" target="_blank">https://telegram.org/privacy</a></li></ul><p>
+        Whatsapp
+    
+    </p><ul><li><a href="https://www.whatsapp.com/legal/?eea=1#privacy-policy" target="_blank">https://www.whatsapp.com/legal/?eea=1#privacy-policy</a></li></ul><h2>
+        Spot.IM
+    
+    </h2><p>
+        Sur notre Site Web vous pouvez utiliser un système de commentaires. Ce service est fourni par la société Spot.IM Ltd., 94 Yigal Alon Street, Tel Aviv, Israel 678915
+    </p><img src="http://backend.test-fr.french.gsdavletkildin.dev.rt.com/french/images/2019.03/original/5c88c0dee8f906a9168b4569.jpg" alt="connecter"><p>
+        Notre système de commentaires offre diverses options de connexion. Soit via votre propre compte de messagerie ou via les comptes de réseaux sociaux existants sur Facebook, Twitter et Google+. Si vous vous inscrivez avec un compte de média social, ces
+        fournisseurs de services collecteront et traiteront également des informations relatives à votre utilisation des fonctionnalités. Pour plus d'informations, veuillez consulter la politique de confidentialité du fournisseur respectif.
+    
+    </p><p>
+        Pour chaque commentaire écrit via Spot.IM, l’Hébergeur recevra les informations suivantes de l’utilisateur : adresse électronique spécifiée ou médias sociaux et votre adresse IP fournie par votre fournisseur au moment où vous avez soumis votre commentaire.
+        La transmission d’adresses IP sert à prévenir toute utilisation abusive de la fonction de commentaire.
+    
+    </p><p>
+        Vous pouvez trouver les informations de confidentialité de Spot.IM sur le lien ci-dessous :
+    </p><ul><li><a href="https://www.spot.im/privacy-fr/" target="_blank">https://www.spot.im/privacy-fr/</a></li></ul><p>
+        Si vous laissez un message ou un commentaire sur notre Site Web, votre adresse IP sera sauvegardée. Cela se fait sur la base de nos intérêts légitimes au sens de l'article 6, paragraphe 1, point f, du RGPD
+    
+    </p><ul><li><a href="https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article6" target="_blank">https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article6</a></li></ul><h2>
+        Application mobile « RT NEWS »
+    </h2><p>
+        Pour l'évaluation statistique de l'utilisation, des informations sont collectées sur le moment et la fréquence de démarrage, d'application et de fermeture de l'application. Ces informations sont collectées uniquement en tant qu'événements non personnels
+        autonomes et non liés. Les adresses IP des appareils qui utilisent l'application sont collectés sous forme anonyme.
+    
+    </p><p>
+        Cependant, la Société Editrice et/ou l’Hébergeur n’ont d’influence ni sur les données collectées et stockées par les fournisseurs de réseau et les fabricants de systèmes d’exploitation lors de l’utilisation de leur application, ni sur la manière dont
+        elles sont utilisées. Pour avoir plus d’information, vous pouvez consulter les liens suivants :
+    </p><p>
+        Google Play Store (Android): Google LLC., 1600 Amphitheater Parkway, Mountainview, California 94043, USA
+    </p><ul><li><a href="https://policies.google.com/privacy?hl=en&gl=de" target="_blank">https://policies.google.com/privacy?hl=en&gl=de</a></li></ul><p>
+        App Store (iOS): Apple Inc., One Apple Park Way, Cupertino, California, USA, 95014
+    </p><ul><li><a href="https://www.apple.com/legal/privacy/" target="_blank">https://www.apple.com/legal/privacy/
+            </a></li></ul></div></div></div></div></div><div class="columns__column"><div class="columns__content"><div class="news-block "><div class="heading">
+        A la une    </div><ul class="news-block__cards"><li class="news-block__card"><div class="card  "><div class="    card__media 
+                                                   "><a href="/international/71689-ankara-neuf-soldats-turcs-tues-attaque-armee-syrienne"><div class="media "><div class="media__image  "><img class="media__item " data-src="https://cdni.rt.com/french/images/2020.02/thumbnail/5e583c516f7ccc52877d8687.JPG" src="/static/img/pixel.gif" alt="Syrie : escalade militaire autour d&#039;Idleb, plusieurs dizaines de soldats turcs tués dans des frappes"></div></div></a></div><div class="card__description      "><div class="card__title card__title_font-weight_normal  "><a class="card__underline" href="/international/71689-ankara-neuf-soldats-turcs-tues-attaque-armee-syrienne">
+                            Syrie : escalade militaire autour d'Idleb, plusieurs dizaines de soldats turcs tués dans des frappes
+                        </a></div><p class="card__date  "><time class="date
+                    ">
+    27 févr. 2020
+    </time></p></div></div></li><li class="news-block__card"><div class="card  "><div class="    card__media 
+                   card__media_side                    card__media_small                  "><a href="/france/71751-paris-incendie-abords-gare-lyon"><div class="media "><div class="media__image  media__image_type_video "><img class="media__item " data-src="https://cdni.rt.com/french/images/2020.02/thumbnail/5e5953ec6f7ccc56832bd031.JPG" src="/static/img/pixel.gif" alt="Paris : heurts en marge du concert du chanteur congolais Fally Ipupa, l&#039;incendie maîtrisé"></div></div></a></div><div class="card__description     card__description_with-side-media    card__description_with-small-media   "><div class="card__title card__title_font-weight_normal   card__title_size_small  "><a class="card__underline" href="/france/71751-paris-incendie-abords-gare-lyon">
+                            Paris : heurts en marge du concert du chanteur congolais Fally Ipupa, l'incendie maîtrisé
+                        </a></div><p class="card__date  "><time class="date
+                    ">
+    28 févr. 2020
+    </time></p></div></div></li><li class="news-block__card"><div class="card  "><div class="    card__media 
+                   card__media_side                    card__media_small                  "><a href="/international/71692-lesbos-grecs-manifestent-contre-afflux-croissant-migrants-provenance-turquie-erdogan"><div class="media "><div class="media__image  "><img class="media__item " data-src="https://cdni.rt.com/french/images/2020.02/thumbnail/5e58d71387f3ec672526b025.jpg" src="/static/img/pixel.gif" alt="Lesbos : les Grecs manifestent contre de nouveaux camps de migrants, crainte d&#039;un afflux de Turquie"></div></div></a></div><div class="card__description     card__description_with-side-media    card__description_with-small-media   "><div class="card__title card__title_font-weight_normal   card__title_size_small  "><a class="card__underline" href="/international/71692-lesbos-grecs-manifestent-contre-afflux-croissant-migrants-provenance-turquie-erdogan">
+                            Lesbos : les Grecs manifestent contre de nouveaux camps de migrants, crainte d'un afflux de Turquie
+                        </a></div><p class="card__date  "><time class="date
+                    ">
+    28 févr. 2020
+    </time></p></div></div></li></ul></div></div></div></div></div></div></div><div class="layout__footer"><div class="footer"><div class="footer__control-width"><div class="footer__top"><div class="nav nav_footer-menu"><a href="/actualite" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Actualité
+            </a><a href="/france" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                France
+            </a><a href="/international" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                International
+            </a><a href="/economie" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Economie
+            </a><a href="/opinions" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Opinions
+            </a><a href="/magazines/interdit-d-interdire" class="nav__link  nav__link_footer-menu-link
+                                   interdit-link
+                
+                "><img class="program_interdit" src="/static/img/widget_interdit.png" />
+                
+                Interdit d'interdire
+            </a><a href="/magazines" class="nav__link nav__link_herbal nav__link_footer-menu-link
+               
+                ">
+                
+                Magazines
+            </a><a href="/documentaires" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Documentaires
+            </a><a href="/videos" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Vidéos
+            </a><a href="/360" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                RT360
+            </a><a href="/podcasts" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Podcasts
+            </a></div><div class="footer__social"><ul class="socials socials_footer"><li class="socials__item"><a href="https://www.instagram.com/rtfrance/" target="_blank" rel="nofollow" class="socials__link socials__link_instagram " style="background-size: contain;">
+                        Instagram
+                    </a></li><li class="socials__item"><a href="https://www.facebook.com/pages/RT-France/1536715766560953?fref=ts" target="_blank" rel="nofollow" class="socials__link socials__link_facebook " style="background-size: contain;">
+                        Facebook
+                    </a></li><li class="socials__item"><a href="http://www.youtube.com/user/rtenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_youtube " style="background-size: contain;">
+                        Youtube
+                    </a></li><li class="socials__item"><a href="https://twitter.com/RTenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_twitter " style="background-size: contain;">
+                        Twitter
+                    </a></li><li class="socials__item"><a href="/rss" target="_blank" rel="nofollow" class="socials__link socials__link_rss " style="background-size: contain;">
+                        RSS
+                    </a></li></ul></div></div><div class="footer__content"><div class=" footer__langs"><ul class="langs langs_footer"><li class="langs__item"><a href="//www.rt.com/" title="RT ENG" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    ENG
+                </span></a></li><li class="langs__item"><a href="//arabic.rt.com/" title="RT العربية" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    العربية
+                </span></a></li><li class="langs__item"><a href="//actualidad.rt.com/" title="RT ESP" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    ESP
+                </span></a></li><li class="langs__item"><a href="//russian.rt.com/" title="RT РУС" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    РУС
+                </span></a></li><li class="langs__item"><a href="//deutsch.rt.com/" title="RT DE" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    DE
+                </span></a></li></ul><div id="footer-subscribe" class="footer__subscribe"><a class="subscribe-btn">S'abonner</a></div></div><div class="footer__navs"><ul class="footer__nav"><li class="footer__nav-item"><a href="/a-propos-de-rt" class="footer__nav-link">
+                                    A propos de RT
+                                </a></li><li class="footer__nav-item"><a href="/communiques-de-presse" class="footer__nav-link">
+                                    Communiqués de presse
+                                </a></li><li class="footer__nav-item"><a href="/mentions-legales" class="footer__nav-link">
+                                    Mentions légales
+                                </a></li><li class="footer__nav-item"><a href="/conditions-generales-d-utilisation" class="footer__nav-link">
+                                    Conditions générales d'utilisation
+                                </a></li><li class="footer__nav-item"><a href="/politique-de-confidentialite" class="footer__nav-link">
+                                    Politique de confidentialité
+                                </a></li><li class="footer__nav-item"><a href="/conditions-de-moderation" class="footer__nav-link">
+                                    Conditions de modération
+                                </a></li><li class="footer__nav-item"><a href="/contact" class="footer__nav-link">
+                                    Contact
+                                </a></li><li class="footer__nav-item"><a href="/applications" class="footer__nav-link">
+                                    Applications mobiles
+                                </a></li><li class="footer__nav-item"><a href="/recrutement" class="footer__nav-link">
+                                    Offres d'emploi
+                                </a></li></ul></div><div class="footer__navs"><ul class="footer__nav"><li class="footer__nav-item"><a href="//russian.rt.com/inotv" class="footer__nav-link">
+                                    ИНОТВ
+                                </a></li><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link">
+                                    RTД
+                                </a></li><li class="footer__nav-item"><a href="//ruptly.tv/" class="footer__nav-link">
+                                    RUPTLY
+                                </a></li></ul></div></div><div class="footer__copyright"><div class="copyright"><div class="copyright__logo"><a class="logo logo_copyright" href="/"><span class="logo__image">RT</span></a></div><small class="copyright__text">
+            RT France, SAS. 2005&ndash;2020. <br /> Tous droits réservés.
+        </small></div></div></div></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-settings" style = " max-height: calc(100vh - 200px);"><div class ="cookies__banner-settings_description">
+                En cliquant sur chaque option, vous pouvez contrôler l'activation ou la désactivation du dépôt des cookies et de la création des profils : le bandeau de couleur indique si le dépôt de cookies et la création de profils sont autorisés (vert) ou refusés (rouge). Les cookies techniques (cookies de session, d'authentification et de sécurité) sont indispensables au bon fonctionnement de nos services et ne peuvent être désactivés.
+            </div><input type="checkbox" class="cookies__banner-settings_checkbox" id="cookies__checkbox_1"><label class="cookies__banner-settings_checkbox-text" for="cookies__checkbox_1"><div class="cookies__label_inside-wrapper"><div class="checkbox__title">
+                        Mesure d’audience
+                    </div><div class="checkbox__content">
+                        Désactiver cette option nous empêchera de mesurer l’audience, de faire des statistiques et d’améliorer la qualité de nos services.
+                    </div></div></label><input type="checkbox" class="cookies__banner-settings_checkbox" id="cookies__checkbox_2"><label class="cookies__banner-settings_checkbox-text" for="cookies__checkbox_2"><div class="cookies__label_inside-wrapper"><div class="checkbox__title">
+                        Réseaux sociaux
+                    </div><div class="checkbox__content">
+                        Désactiver cette option empêchera les réseaux sociaux de suivre votre navigation sur notre site.
+                    </div></div></label><input type="checkbox" class="cookies__banner-settings_checkbox" id="cookies__checkbox_3"><label class="cookies__banner-settings_checkbox-text" for="cookies__checkbox_3"><div class="cookies__label_inside-wrapper"><div class="checkbox__title">
+                        Publicité ciblée
+                    </div><div class="checkbox__content last_content">
+                        Nous diffusons des publicités afin de pouvoir proposer nos services gratuitement à tous les utilisateurs. Les cookies et les profils permettent de vous proposer des publicités plus pertinentes car adaptées à vos centres d’intérêt, et de mesurer l’efficacité des compagnes publicitaires. Désactiver cette option empêchera de suivre votre navigation et de réaliser des profits, afin de vous proposer des publicités adaptées. Vous ne recevrez pas moins de publicités, mais des publicités ne correspondant pas nécessairement à vos centres d’intérêt.
+                    </div></div></label><span class="settings__button">
+                OK
+            </span></div><div class="cookies__banner-wrapper"><span class="cookies__banner-text"><p>Ce site utilise des cookies.</p><p class="small">En poursuivant votre  navigation, vous acceptez l'utilisation, de la part de RT France et de tiers, de cookies et autres traceurs à des fins de mesure d'audience, partage avec les réseaux sociaux, personnalisation des contenus, profilage et publicité ciblée. <span class="second_sentence">Pour paramétrer l’utilisation des cookies veuillez accéder dans la rubrique <span class="text_decoration settings-cookies-button-1">«Paramétrer vos choix»</span> et pour plus d’informations, nous vous invitons à consulter la rubrique <a class="policy-cookies-button text_decoration" href="https://francais.rt.com/politique-de-confidentialite" target="_blank">«Politique de Confidentialité»</a></span></p></span></div><div class = "cookies-buttons"><span class="cookies-buttons_wrap"><span class="links"><a class="policy-cookies-button" href="https://francais.rt.com/politique-de-confidentialite" target="_blank">Politique de Confidentialité</a><a class="settings-cookies-button-2">Paramétrer vos choix</a></span><span class="cookies__banner-accepter js-cookies-button">Accepter</span></span></div></div></div><script defer="defer" async data-main="/static/js/main.min.js?v=466e7b7gb71feasd034234234qdalas3f4ea110985543456t38asd"  src="/static/js/libs/require.js?v=466e7b7gb71feasd034234234ada234c34ea110985t43456t3asd8"></script><script src="/static/js/pushes/firebase.js?v=15"></script><script src="/static/js/pushes/notification.js?v=58"></script><script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29473250 = new Ya.Metrika({
+                    id:29473250,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><noscript><div><img src="//mc.yandex.ru/watch/29473250" style="position:absolute; left:-9999px;" alt="" /></div></noscript></body></html>

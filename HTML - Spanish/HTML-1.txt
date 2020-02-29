@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljHngpAMNcAA-aqPiEAAADR","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=I"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"I","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='I' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Huilcopan" title="Especial:Todas">Página anterior (Huilcopan)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Iguera" title="Especial:Todas">Página siguiente (Iguera)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/I" title="I">I</a></li>
+<li><a href="/wiki/I%27d" title="I&#039;d">I&#039;d</a></li>
+<li><a href="/wiki/I%27l" title="I&#039;l">I&#039;l</a></li>
+<li><a href="/wiki/I%27ll" title="I&#039;ll">I&#039;ll</a></li>
+<li><a href="/wiki/I%27m" title="I&#039;m">I&#039;m</a></li>
+<li><a href="/wiki/I%27ve" title="I&#039;ve">I&#039;ve</a></li>
+<li><a href="/wiki/IATA" title="IATA">IATA</a></li>
+<li><a href="/wiki/IBM" title="IBM">IBM</a></li>
+<li><a href="/wiki/IES" title="IES">IES</a></li>
+<li><a href="/wiki/IFR" title="IFR">IFR</a></li>
+<li><a href="/wiki/IGN" title="IGN">IGN</a></li>
+<li><a href="/wiki/IIII" title="IIII">IIII</a></li>
+<li><a href="/wiki/IJsland" title="IJsland">IJsland</a></li>
+<li><a href="/wiki/IMC" title="IMC">IMC</a></li>
+<li><a href="/wiki/IMEI" title="IMEI">IMEI</a></li>
+<li><a href="/wiki/IMHO" title="IMHO">IMHO</a></li>
+<li><a href="/wiki/IMO" title="IMO">IMO</a></li>
+<li><a href="/wiki/IMS" title="IMS">IMS</a></li>
+<li><a href="/wiki/INDO" title="INDO">INDO</a></li>
+<li><a href="/wiki/INSALUD" title="INSALUD">INSALUD</a></li>
+<li><a href="/wiki/IPv6" title="IPv6">IPv6</a></li>
+<li><a href="/wiki/IRPF" title="IRPF">IRPF</a></li>
+<li><a href="/wiki/ISBN" title="ISBN">ISBN</a></li>
+<li><a href="/wiki/ISSN" title="ISSN">ISSN</a></li>
+<li><a href="/wiki/IV" title="IV">IV</a></li>
+<li><a href="/wiki/IVA" title="IVA">IVA</a></li>
+<li><a href="/wiki/IVF" title="IVF">IVF</a></li>
+<li><a href="/wiki/IX" title="IX">IX</a></li>
+<li><a href="/wiki/Iabarra" title="Iabarra">Iabarra</a></li>
+<li><a href="/wiki/Iaben" title="Iaben">Iaben</a></li>
+<li><a href="/wiki/Iacachury" title="Iacachury">Iacachury</a></li>
+<li><a href="/wiki/Iacopo" title="Iacopo">Iacopo</a></li>
+<li><a href="/wiki/Ian" title="Ian">Ian</a></li>
+<li><a href="/wiki/Ianatan" title="Ianatan">Ianatan</a></li>
+<li><a href="/wiki/Iannone" title="Iannone">Iannone</a></li>
+<li><a href="/wiki/Iaponia" title="Iaponia">Iaponia</a></li>
+<li><a href="/wiki/Iarce" title="Iarce">Iarce</a></li>
+<li><a href="/wiki/Iarnoz" title="Iarnoz">Iarnoz</a></li>
+<li><a href="/wiki/Iarritu" title="Iarritu">Iarritu</a></li>
+<li><a href="/wiki/Iarza" title="Iarza">Iarza</a></li>
+<li><a href="/wiki/Iarzabal" title="Iarzabal">Iarzabal</a></li>
+<li><a href="/wiki/Iasi" title="Iasi">Iasi</a></li>
+<li><a href="/wiki/Iasua" title="Iasua">Iasua</a></li>
+<li><a href="/wiki/Iasuralde" title="Iasuralde">Iasuralde</a></li>
+<li><a href="/wiki/Iauna" title="Iauna">Iauna</a></li>
+<li><a href="/wiki/Ia%C3%B1ez" title="Iañez">Iañez</a></li>
+<li class="allpagesredirect"><a href="/wiki/Ia%C5%9Fi" class="mw-redirect" title="Iaşi">Iaşi</a></li>
+<li><a href="/wiki/Ia%C8%99i" title="Iași">Iași</a></li>
+<li><a href="/wiki/Ibabe" title="Ibabe">Ibabe</a></li>
+<li><a href="/wiki/Ibaberry" title="Ibaberry">Ibaberry</a></li>
+<li><a href="/wiki/Ibacache" title="Ibacache">Ibacache</a></li>
+<li><a href="/wiki/Ibaceta" title="Ibaceta">Ibaceta</a></li>
+<li><a href="/wiki/Ibacozabal" title="Ibacozabal">Ibacozabal</a></li>
+<li><a href="/wiki/Ibadan" title="Ibadan">Ibadan</a></li>
+<li><a href="/wiki/Ibaeta" title="Ibaeta">Ibaeta</a></li>
+<li><a href="/wiki/Ibagaza" title="Ibagaza">Ibagaza</a></li>
+<li><a href="/wiki/Ibagu%C3%A9" title="Ibagué">Ibagué</a></li>
+<li><a href="/wiki/Ibaibarriaga" title="Ibaibarriaga">Ibaibarriaga</a></li>
+<li><a href="/wiki/Ibaigane" title="Ibaigane">Ibaigane</a></li>
+<li><a href="/wiki/Ibaitua" title="Ibaitua">Ibaitua</a></li>
+<li><a href="/wiki/Ibaiz" title="Ibaiz">Ibaiz</a></li>
+<li><a href="/wiki/Ibaizabal" title="Ibaizabal">Ibaizabal</a></li>
+<li><a href="/wiki/Ibalborde" title="Ibalborde">Ibalborde</a></li>
+<li><a href="/wiki/Ibalde" title="Ibalde">Ibalde</a></li>
+<li><a href="/wiki/Ibaldi" title="Ibaldi">Ibaldi</a></li>
+<li><a href="/wiki/Ibaldo" title="Ibaldo">Ibaldo</a></li>
+<li><a href="/wiki/Iban" title="Iban">Iban</a></li>
+<li><a href="/wiki/Ibanueta" title="Ibanueta">Ibanueta</a></li>
+<li><a href="/wiki/Ibar" title="Ibar">Ibar</a></li>
+<li><a href="/wiki/Ibaraki" title="Ibaraki">Ibaraki</a></li>
+<li><a href="/wiki/Ibarbagoitia" title="Ibarbagoitia">Ibarbagoitia</a></li>
+<li><a href="/wiki/Ibarbalz" title="Ibarbalz">Ibarbalz</a></li>
+<li><a href="/wiki/Ibarbarria" title="Ibarbarria">Ibarbarria</a></li>
+<li><a href="/wiki/Ibarbe" title="Ibarbe">Ibarbe</a></li>
+<li><a href="/wiki/Ibarbengoechea" title="Ibarbengoechea">Ibarbengoechea</a></li>
+<li><a href="/wiki/Ibarbia" title="Ibarbia">Ibarbia</a></li>
+<li><a href="/wiki/Ibarbide" title="Ibarbide">Ibarbide</a></li>
+<li><a href="/wiki/Ibarbien" title="Ibarbien">Ibarbien</a></li>
+<li><a href="/wiki/Ibarborde" title="Ibarborde">Ibarborde</a></li>
+<li><a href="/wiki/Ibarborgoitia" title="Ibarborgoitia">Ibarborgoitia</a></li>
+<li><a href="/wiki/Ibarboure" title="Ibarboure">Ibarboure</a></li>
+<li><a href="/wiki/Ibarbuela" title="Ibarbuela">Ibarbuela</a></li>
+<li><a href="/wiki/Ibarburen" title="Ibarburen">Ibarburen</a></li>
+<li><a href="/wiki/Ibarburu" title="Ibarburu">Ibarburu</a></li>
+<li><a href="/wiki/Ibarco" title="Ibarco">Ibarco</a></li>
+<li><a href="/wiki/Ibarenborde" title="Ibarenborde">Ibarenborde</a></li>
+<li><a href="/wiki/Ibargallartu" title="Ibargallartu">Ibargallartu</a></li>
+<li><a href="/wiki/Ibargarai" title="Ibargarai">Ibargarai</a></li>
+<li><a href="/wiki/Ibargaray" title="Ibargaray">Ibargaray</a></li>
+<li><a href="/wiki/Ibargoiti" title="Ibargoiti">Ibargoiti</a></li>
+<li><a href="/wiki/Ibargoitia" title="Ibargoitia">Ibargoitia</a></li>
+<li><a href="/wiki/Ibargorde" title="Ibargorde">Ibargorde</a></li>
+<li><a href="/wiki/Ibargoyara" title="Ibargoyara">Ibargoyara</a></li>
+<li><a href="/wiki/Ibargoyen" title="Ibargoyen">Ibargoyen</a></li>
+<li><a href="/wiki/Ibarguchi" title="Ibarguchi">Ibarguchi</a></li>
+<li><a href="/wiki/Ibarguen" title="Ibarguen">Ibarguen</a></li>
+<li><a href="/wiki/Ibarguengoitia" title="Ibarguengoitia">Ibarguengoitia</a></li>
+<li><a href="/wiki/Ibarguengoytia" title="Ibarguengoytia">Ibarguengoytia</a></li>
+<li><a href="/wiki/Ibarguren" title="Ibarguren">Ibarguren</a></li>
+<li><a href="/wiki/Ibargurengoitia" title="Ibargurengoitia">Ibargurengoitia</a></li>
+<li><a href="/wiki/Ibarg%C3%BCen" title="Ibargüen">Ibargüen</a></li>
+<li><a href="/wiki/Ibarg%C3%BCengoitia" title="Ibargüengoitia">Ibargüengoitia</a></li>
+<li><a href="/wiki/Ibaria" title="Ibaria">Ibaria</a></li>
+<li><a href="/wiki/Ibarluce" title="Ibarluce">Ibarluce</a></li>
+<li><a href="/wiki/Ibarlucea" title="Ibarlucea">Ibarlucea</a></li>
+<li><a href="/wiki/Ibarlucia" title="Ibarlucia">Ibarlucia</a></li>
+<li><a href="/wiki/Ibarluzea" title="Ibarluzea">Ibarluzea</a></li>
+<li><a href="/wiki/Ibarmea" title="Ibarmea">Ibarmea</a></li>
+<li><a href="/wiki/Ibarmia" title="Ibarmia">Ibarmia</a></li>
+<li><a href="/wiki/Ibarnegaray" title="Ibarnegaray">Ibarnegaray</a></li>
+<li><a href="/wiki/Ibarola" title="Ibarola">Ibarola</a></li>
+<li><a href="/wiki/Ibarra" title="Ibarra">Ibarra</a></li>
+<li><a href="/wiki/Ibarrabaso" title="Ibarrabaso">Ibarrabaso</a></li>
+<li><a href="/wiki/Ibarrabitera" title="Ibarrabitera">Ibarrabitera</a></li>
+<li><a href="/wiki/Ibarraechebarria" title="Ibarraechebarria">Ibarraechebarria</a></li>
+<li><a href="/wiki/Ibarraechezuria" title="Ibarraechezuria">Ibarraechezuria</a></li>
+<li><a href="/wiki/Ibarraga" title="Ibarraga">Ibarraga</a></li>
+<li><a href="/wiki/Ibarragaray" title="Ibarragaray">Ibarragaray</a></li>
+<li><a href="/wiki/Ibarragorri" title="Ibarragorri">Ibarragorri</a></li>
+<li><a href="/wiki/Ibarraletomendi" title="Ibarraletomendi">Ibarraletomendi</a></li>
+<li><a href="/wiki/Ibarraran" title="Ibarraran">Ibarraran</a></li>
+<li><a href="/wiki/Ibarrart" title="Ibarrart">Ibarrart</a></li>
+<li><a href="/wiki/Ibarrarte" title="Ibarrarte">Ibarrarte</a></li>
+<li><a href="/wiki/Ibarrate" title="Ibarrate">Ibarrate</a></li>
+<li><a href="/wiki/Ibarrategui" title="Ibarrategui">Ibarrategui</a></li>
+<li><a href="/wiki/Ibarraugarte" title="Ibarraugarte">Ibarraugarte</a></li>
+<li><a href="/wiki/Ibarraundia" title="Ibarraundia">Ibarraundia</a></li>
+<li><a href="/wiki/Ibarraz" title="Ibarraz">Ibarraz</a></li>
+<li><a href="/wiki/Ibarre" title="Ibarre">Ibarre</a></li>
+<li><a href="/wiki/Ibarreche" title="Ibarreche">Ibarreche</a></li>
+<li><a href="/wiki/Ibarrechevea" title="Ibarrechevea">Ibarrechevea</a></li>
+<li><a href="/wiki/Ibarregui" title="Ibarregui">Ibarregui</a></li>
+<li><a href="/wiki/Ibarreguia" title="Ibarreguia">Ibarreguia</a></li>
+<li><a href="/wiki/Ibarren" title="Ibarren">Ibarren</a></li>
+<li><a href="/wiki/Ibarreta" title="Ibarreta">Ibarreta</a></li>
+<li><a href="/wiki/Ibarria" title="Ibarria">Ibarria</a></li>
+<li><a href="/wiki/Ibarrola" title="Ibarrola">Ibarrola</a></li>
+<li><a href="/wiki/Ibarrolaburu" title="Ibarrolaburu">Ibarrolaburu</a></li>
+<li><a href="/wiki/Ibarrolaza" title="Ibarrolaza">Ibarrolaza</a></li>
+<li><a href="/wiki/Ibarrondo" title="Ibarrondo">Ibarrondo</a></li>
+<li><a href="/wiki/Ibarrondogaray" title="Ibarrondogaray">Ibarrondogaray</a></li>
+<li><a href="/wiki/Ibarrueta" title="Ibarrueta">Ibarrueta</a></li>
+<li><a href="/wiki/Ibarrundia" title="Ibarrundia">Ibarrundia</a></li>
+<li><a href="/wiki/Ibars" title="Ibars">Ibars</a></li>
+<li><a href="/wiki/Ibartola" title="Ibartola">Ibartola</a></li>
+<li><a href="/wiki/Ibarvengoa" title="Ibarvengoa">Ibarvengoa</a></li>
+<li><a href="/wiki/Ibarvengoechea" title="Ibarvengoechea">Ibarvengoechea</a></li>
+<li><a href="/wiki/Ibarz" title="Ibarz">Ibarz</a></li>
+<li><a href="/wiki/Ibarzabal" title="Ibarzabal">Ibarzabal</a></li>
+<li><a href="/wiki/Ibaseta" title="Ibaseta">Ibaseta</a></li>
+<li><a href="/wiki/Ibatao" title="Ibatao">Ibatao</a></li>
+<li><a href="/wiki/Ibataogamarra" title="Ibataogamarra">Ibataogamarra</a></li>
+<li><a href="/wiki/Ibatborde" title="Ibatborde">Ibatborde</a></li>
+<li><a href="/wiki/Ibay" title="Ibay">Ibay</a></li>
+<li><a href="/wiki/Ibaybarriaga" title="Ibaybarriaga">Ibaybarriaga</a></li>
+<li><a href="/wiki/Ibaye" title="Ibaye">Ibaye</a></li>
+<li><a href="/wiki/Ibayeta" title="Ibayeta">Ibayeta</a></li>
+<li><a href="/wiki/Ibazeta" title="Ibazeta">Ibazeta</a></li>
+<li><a href="/wiki/Iba%C3%B1eta" title="Ibañeta">Ibañeta</a></li>
+<li><a href="/wiki/Iba%C3%B1ez" title="Ibañez">Ibañez</a></li>
+<li><a href="/wiki/Ibe" title="Ibe">Ibe</a></li>
+<li><a href="/wiki/Ibeitia" title="Ibeitia">Ibeitia</a></li>
+<li><a href="/wiki/Iber" title="Iber">Iber</a></li>
+<li><a href="/wiki/Ibergaray" title="Ibergaray">Ibergaray</a></li>
+<li><a href="/wiki/Iberlucea" title="Iberlucea">Iberlucea</a></li>
+<li><a href="/wiki/Ibern" title="Ibern">Ibern</a></li>
+<li><a href="/wiki/Ibero" title="Ibero">Ibero</a></li>
+<li><a href="/wiki/IberoIberra" title="IberoIberra">IberoIberra</a></li>
+<li><a href="/wiki/Iberoam%C3%A9rica" title="Iberoamérica">Iberoamérica</a></li>
+<li><a href="/wiki/Ibia" title="Ibia">Ibia</a></li>
+<li><a href="/wiki/Ibiaga" title="Ibiaga">Ibiaga</a></li>
+<li><a href="/wiki/Ibiarte" title="Ibiarte">Ibiarte</a></li>
+<li><a href="/wiki/Ibias" title="Ibias">Ibias</a></li>
+<li><a href="/wiki/Ibibarren" title="Ibibarren">Ibibarren</a></li>
+<li><a href="/wiki/Ibieca" title="Ibieca">Ibieca</a></li>
+<li><a href="/wiki/Ibieta" title="Ibieta">Ibieta</a></li>
+<li><a href="/wiki/Ibilcieta" title="Ibilcieta">Ibilcieta</a></li>
+<li><a href="/wiki/Ibinaga" title="Ibinaga">Ibinaga</a></li>
+<li><a href="/wiki/Ibinagaveitia" title="Ibinagaveitia">Ibinagaveitia</a></li>
+<li><a href="/wiki/Ibinarri" title="Ibinarri">Ibinarri</a></li>
+<li><a href="/wiki/Ibinarriaga" title="Ibinarriaga">Ibinarriaga</a></li>
+<li><a href="/wiki/Ibineta" title="Ibineta">Ibineta</a></li>
+<li><a href="/wiki/Ibiri" title="Ibiri">Ibiri</a></li>
+<li><a href="/wiki/Ibiricu" title="Ibiricu">Ibiricu</a></li>
+<li><a href="/wiki/Ibirriaga" title="Ibirriaga">Ibirriaga</a></li>
+<li><a href="/wiki/Ibitueta" title="Ibitueta">Ibitueta</a></li>
+<li><a href="/wiki/Ibiurreta" title="Ibiurreta">Ibiurreta</a></li>
+<li><a href="/wiki/Ibiza" title="Ibiza">Ibiza</a></li>
+<li><a href="/wiki/Iboa" title="Iboa">Iboa</a></li>
+<li><a href="/wiki/Ibor" title="Ibor">Ibor</a></li>
+<li><a href="/wiki/Iborra" title="Iborra">Iborra</a></li>
+<li><a href="/wiki/Ibuaga" title="Ibuaga">Ibuaga</a></li>
+<li><a href="/wiki/Ibur" title="Ibur">Ibur</a></li>
+<li><a href="/wiki/Iburrusteta" title="Iburrusteta">Iburrusteta</a></li>
+<li><a href="/wiki/Iburuzqueta" title="Iburuzqueta">Iburuzqueta</a></li>
+<li><a href="/wiki/Ibusti" title="Ibusti">Ibusti</a></li>
+<li><a href="/wiki/Ib%C3%A1%C3%B1ez" title="Ibáñez">Ibáñez</a></li>
+<li><a href="/wiki/Ib%C3%A9ria" title="Ibéria">Ibéria</a></li>
+<li><a href="/wiki/Ib%C3%A9rie" title="Ibérie">Ibérie</a></li>
+<li><a href="/wiki/Ica" title="Ica">Ica</a></li>
+<li><a href="/wiki/Icaceta" title="Icaceta">Icaceta</a></li>
+<li><a href="/wiki/Icaran" title="Icaran">Icaran</a></li>
+<li><a href="/wiki/Icardi" title="Icardi">Icardi</a></li>
+<li><a href="/wiki/Icart" title="Icart">Icart</a></li>
+<li><a href="/wiki/Icarte" title="Icarte">Icarte</a></li>
+<li><a href="/wiki/Icasate" title="Icasate">Icasate</a></li>
+<li><a href="/wiki/Icasuriaga" title="Icasuriaga">Icasuriaga</a></li>
+<li><a href="/wiki/Icaza" title="Icaza">Icaza</a></li>
+<li><a href="/wiki/Icazaibargaray" title="Icazaibargaray">Icazaibargaray</a></li>
+<li><a href="/wiki/Icazate" title="Icazate">Icazate</a></li>
+<li><a href="/wiki/Icazatea" title="Icazatea">Icazatea</a></li>
+<li><a href="/wiki/Icazategui" title="Icazategui">Icazategui</a></li>
+<li><a href="/wiki/Icaztegieta" title="Icaztegieta">Icaztegieta</a></li>
+<li><a href="/wiki/Icaztegui" title="Icaztegui">Icaztegui</a></li>
+<li><a href="/wiki/Icazuriaga" title="Icazuriaga">Icazuriaga</a></li>
+<li><a href="/wiki/Icazuriagaecheandia" title="Icazuriagaecheandia">Icazuriagaecheandia</a></li>
+<li><a href="/wiki/Icazuriagagoitia" title="Icazuriagagoitia">Icazuriagagoitia</a></li>
+<li><a href="/wiki/Icazuriagama%C3%B1ena" title="Icazuriagamañena">Icazuriagamañena</a></li>
+<li><a href="/wiki/Iceland" title="Iceland">Iceland</a></li>
+<li><a href="/wiki/Iceta" title="Iceta">Iceta</a></li>
+<li><a href="/wiki/Ich" title="Ich">Ich</a></li>
+<li><a href="/wiki/Ichang" title="Ichang">Ichang</a></li>
+<li><a href="/wiki/Ichaso" title="Ichaso">Ichaso</a></li>
+<li><a href="/wiki/Ichaso-Asu" title="Ichaso-Asu">Ichaso-Asu</a></li>
+<li><a href="/wiki/Ichasogoyena" title="Ichasogoyena">Ichasogoyena</a></li>
+<li><a href="/wiki/Ichazo" title="Ichazo">Ichazo</a></li>
+<li><a href="/wiki/Ichicon" title="Ichicon">Ichicon</a></li>
+<li><a href="/wiki/Ichuribehere" title="Ichuribehere">Ichuribehere</a></li>
+<li><a href="/wiki/Iciaga" title="Iciaga">Iciaga</a></li>
+<li><a href="/wiki/Iciar" title="Iciar">Iciar</a></li>
+<li><a href="/wiki/Icoaga" title="Icoaga">Icoaga</a></li>
+<li><a href="/wiki/Icobalceta" title="Icobalceta">Icobalceta</a></li>
+<li><a href="/wiki/Icoeta" title="Icoeta">Icoeta</a></li>
+<li><a href="/wiki/Icoreca" title="Icoreca">Icoreca</a></li>
+<li><a href="/wiki/Icueta" title="Icueta">Icueta</a></li>
+<li><a href="/wiki/Icutza" title="Icutza">Icutza</a></li>
+<li><a href="/wiki/Icuza" title="Icuza">Icuza</a></li>
+<li><a href="/wiki/Icuzaamunategui" title="Icuzaamunategui">Icuzaamunategui</a></li>
+<li><a href="/wiki/Ida" title="Ida">Ida</a></li>
+<li><a href="/wiki/Idaberry" title="Idaberry">Idaberry</a></li>
+<li><a href="/wiki/Idabour" title="Idabour">Idabour</a></li>
+<li><a href="/wiki/Idaho" title="Idaho">Idaho</a></li>
+<li><a href="/wiki/Idalba" title="Idalba">Idalba</a></li>
+<li><a href="/wiki/Idalio" title="Idalio">Idalio</a></li>
+<li><a href="/wiki/Idarraga" title="Idarraga">Idarraga</a></li>
+<li><a href="/wiki/Idarramendi" title="Idarramendi">Idarramendi</a></li>
+<li><a href="/wiki/Idarreta" title="Idarreta">Idarreta</a></li>
+<li><a href="/wiki/Idazabal" title="Idazabal">Idazabal</a></li>
+<li><a href="/wiki/Ide" title="Ide">Ide</a></li>
+<li><a href="/wiki/Idelfonsa" title="Idelfonsa">Idelfonsa</a></li>
+<li><a href="/wiki/Idelfonso" title="Idelfonso">Idelfonso</a></li>
+<li><a href="/wiki/Idiacaiz" title="Idiacaiz">Idiacaiz</a></li>
+<li><a href="/wiki/Idiaguirre" title="Idiaguirre">Idiaguirre</a></li>
+<li><a href="/wiki/Idiaquez" title="Idiaquez">Idiaquez</a></li>
+<li><a href="/wiki/Idiart" title="Idiart">Idiart</a></li>
+<li><a href="/wiki/Idiartborde" title="Idiartborde">Idiartborde</a></li>
+<li><a href="/wiki/Idiarte" title="Idiarte">Idiarte</a></li>
+<li><a href="/wiki/Idiartegaray" title="Idiartegaray">Idiartegaray</a></li>
+<li><a href="/wiki/Idiazabal" title="Idiazabal">Idiazabal</a></li>
+<li><a href="/wiki/Idieder" title="Idieder">Idieder</a></li>
+<li><a href="/wiki/Idigoras" title="Idigoras">Idigoras</a></li>
+<li><a href="/wiki/Idillin" title="Idillin">Idillin</a></li>
+<li><a href="/wiki/Idiquin" title="Idiquin">Idiquin</a></li>
+<li><a href="/wiki/Idirin" title="Idirin">Idirin</a></li>
+<li><a href="/wiki/Idizarri" title="Idizarri">Idizarri</a></li>
+<li><a href="/wiki/Idoate" title="Idoate">Idoate</a></li>
+<li><a href="/wiki/Idoate-Viguria" title="Idoate-Viguria">Idoate-Viguria</a></li>
+<li><a href="/wiki/Idocin" title="Idocin">Idocin</a></li>
+<li><a href="/wiki/Idoeta" title="Idoeta">Idoeta</a></li>
+<li><a href="/wiki/Idoi" title="Idoi">Idoi</a></li>
+<li><a href="/wiki/Idoia" title="Idoia">Idoia</a></li>
+<li><a href="/wiki/Idola" title="Idola">Idola</a></li>
+<li><a href="/wiki/Idoquilis" title="Idoquilis">Idoquilis</a></li>
+<li><a href="/wiki/Idorriaga" title="Idorriaga">Idorriaga</a></li>
+<li><a href="/wiki/Idoy" title="Idoy">Idoy</a></li>
+<li><a href="/wiki/Idoyaga" title="Idoyaga">Idoyaga</a></li>
+<li><a href="/wiki/Idoyagabeitia" title="Idoyagabeitia">Idoyagabeitia</a></li>
+<li><a href="/wiki/Idoyeta" title="Idoyeta">Idoyeta</a></li>
+<li><a href="/wiki/Iduarte" title="Iduarte">Iduarte</a></li>
+<li><a href="/wiki/Iduate" title="Iduate">Iduate</a></li>
+<li><a href="/wiki/Iduhate" title="Iduhate">Iduhate</a></li>
+<li><a href="/wiki/Iduia" title="Iduia">Iduia</a></li>
+<li><a href="/wiki/Iduria" title="Iduria">Iduria</a></li>
+<li><a href="/wiki/Iduya" title="Iduya">Iduya</a></li>
+<li><a href="/wiki/Ieannoteguy" title="Ieannoteguy">Ieannoteguy</a></li>
+<li><a href="/wiki/Iebra" title="Iebra">Iebra</a></li>
+<li><a href="/wiki/Iekaterinburgo" title="Iekaterinburgo">Iekaterinburgo</a></li>
+<li><a href="/wiki/Iera" title="Iera">Iera</a></li>
+<li><a href="/wiki/Ieregui" title="Ieregui">Ieregui</a></li>
+<li><a href="/wiki/Ierland" title="Ierland">Ierland</a></li>
+<li><a href="/wiki/Ierl%C3%A2n" title="Ierlân">Ierlân</a></li>
+<li><a href="/wiki/Ieso" title="Ieso">Ieso</a></li>
+<li><a href="/wiki/Ife" title="Ife">Ife</a></li>
+<li><a href="/wiki/Ifigenia" title="Ifigenia">Ifigenia</a></li>
+<li><a href="/wiki/Igaeta" title="Igaeta">Igaeta</a></li>
+<li><a href="/wiki/Igaiman" title="Igaiman">Igaiman</a></li>
+<li><a href="/wiki/Igal" title="Igal">Igal</a></li>
+<li><a href="/wiki/Iganci" title="Iganci">Iganci</a></li>
+<li><a href="/wiki/Igara" title="Igara">Igara</a></li>
+<li><a href="/wiki/Igarabide" title="Igarabide">Igarabide</a></li>
+<li><a href="/wiki/Igaralde" title="Igaralde">Igaralde</a></li>
+<li><a href="/wiki/Igaran" title="Igaran">Igaran</a></li>
+<li><a href="/wiki/Igarategui" title="Igarategui">Igarategui</a></li>
+<li><a href="/wiki/Igaravide" title="Igaravide">Igaravide</a></li>
+<li><a href="/wiki/Igareda" title="Igareda">Igareda</a></li>
+<li><a href="/wiki/Igareta" title="Igareta">Igareta</a></li>
+<li><a href="/wiki/Igarra" title="Igarra">Igarra</a></li>
+<li><a href="/wiki/Igarreta" title="Igarreta">Igarreta</a></li>
+<li><a href="/wiki/Igarretegui" title="Igarretegui">Igarretegui</a></li>
+<li><a href="/wiki/Igartaburu" title="Igartaburu">Igartaburu</a></li>
+<li><a href="/wiki/Igartaburua" title="Igartaburua">Igartaburua</a></li>
+<li><a href="/wiki/Igarte" title="Igarte">Igarte</a></li>
+<li><a href="/wiki/Igarteburu" title="Igarteburu">Igarteburu</a></li>
+<li><a href="/wiki/Igartiburu" title="Igartiburu">Igartiburu</a></li>
+<li><a href="/wiki/Igartua" title="Igartua">Igartua</a></li>
+<li><a href="/wiki/Igartuburu" title="Igartuburu">Igartuburu</a></li>
+<li><a href="/wiki/Igarza" title="Igarza">Igarza</a></li>
+<li><a href="/wiki/Igarzabal" title="Igarzabal">Igarzabal</a></li>
+<li><a href="/wiki/Igay" title="Igay">Igay</a></li>
+<li><a href="/wiki/Igayman" title="Igayman">Igayman</a></li>
+<li><a href="/wiki/Igaz" title="Igaz">Igaz</a></li>
+<li><a href="/wiki/Igea" title="Igea">Igea</a></li>
+<li><a href="/wiki/Igel" title="Igel">Igel</a></li>
+<li><a href="/wiki/Iglesia" title="Iglesia">Iglesia</a></li>
+<li><a href="/wiki/Iglesias" title="Iglesias">Iglesias</a></li>
+<li><a href="/wiki/Ignace" title="Ignace">Ignace</a></li>
+<li><a href="/wiki/Ignacia" title="Ignacia">Ignacia</a></li>
+<li><a href="/wiki/Ignacio" title="Ignacio">Ignacio</a></li>
+<li><a href="/wiki/Ignacio_de_Loyola" title="Ignacio de Loyola">Ignacio de Loyola</a></li>
+<li><a href="/wiki/Ignaipil" title="Ignaipil">Ignaipil</a></li>
+<li><a href="/wiki/Ignazio" title="Ignazio">Ignazio</a></li>
+<li><a href="/wiki/Ignone" title="Ignone">Ignone</a></li>
+<li><a href="/wiki/Igoa" title="Igoa">Igoa</a></li>
+<li><a href="/wiki/Igoaran" title="Igoaran">Igoaran</a></li>
+<li><a href="/wiki/Igola" title="Igola">Igola</a></li>
+<li><a href="/wiki/Igon" title="Igon">Igon</a></li>
+<li><a href="/wiki/Igor" title="Igor">Igor</a></li>
+<li><a href="/wiki/Igotz" title="Igotz">Igotz</a></li>
+<li><a href="/wiki/Iguain" title="Iguain">Iguain</a></li>
+<li><a href="/wiki/Igual" title="Igual">Igual</a></li>
+<li><a href="/wiki/Igualada" title="Igualada">Igualada</a></li>
+<li><a href="/wiki/Igualdo" title="Igualdo">Igualdo</a></li>
+<li><a href="/wiki/Iguaran" title="Iguaran">Iguaran</a></li>
+<li><a href="/wiki/Iguar%C3%A1n" title="Iguarán">Iguarán</a></li>
+<li><a href="/wiki/Igueldo" title="Igueldo">Igueldo</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Huilcopan" title="Especial:Todas">Página anterior (Huilcopan)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Iguera" title="Especial:Todas">Página siguiente (Iguera)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DI" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DI" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=I" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=I&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=I&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":315,"wgHostname":"mw1373"});});</script></body></html>

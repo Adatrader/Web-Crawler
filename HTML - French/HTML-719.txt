@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikivoyage:Expédition Modèles — Wikivoyage, le guide de voyage et de tourisme collaboratif gratuit</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XloRvApAMEsAAFueKt8AAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikivoyage:Expédition_Modèles","wgTitle":"Expédition Modèles","wgCurRevisionId":445636,"wgRevisionId":445636,"wgArticleId":12682,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Expédition de maintenance"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikivoyage:Expédition_Modèles",
+"wgRelevantArticleId":12682,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikivoyage","wgWikibaseItemId":"Q5413052","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.ReferenceEUR":"ready","ext.gadget.IconeLiensExterne":"ready","ext.gadget.InterWikiLinkIcons":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","ext.categoryTree.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.categoryTree","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.ListingEditor","ext.gadget.ResumeDeluxe","ext.gadget.Carousel","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.categoryTree.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.gadget.IconeLiensExterne%2CInterWikiLinkIcons%2CReferenceEUR&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikivoyage.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikivoyage (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikivoyage.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikivoyage" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikivoyage.org/wiki/Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject mw-editable page-Wikivoyage_Expédition_Modèles rootpage-Wikivoyage_Expédition_Modèles skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Wikivoyage:Expédition Modèles</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikivoyage</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="container"><div class="header">Esprit du projet</div>
+<p><a href="/wiki/Fichier:Curly_Brackets.svg" class="image"><img alt="Curly Brackets.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Curly_Brackets.svg/80px-Curly_Brackets.svg.png" decoding="async" width="80" height="61" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Curly_Brackets.svg/120px-Curly_Brackets.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Curly_Brackets.svg/160px-Curly_Brackets.svg.png 2x" data-file-width="740" data-file-height="560" /></a>
+Coordonner la création de modèle à insérer dans les articles.
+</p>
+</div>
+<div class="container"><div class="header">Missions</div>
+<ul><li>Adapter les modèles qui ont été copier-coller d'autres projets</li>
+<li>Rédiger les documentations des modèles</li>
+<li>Ranger et <a href="/wiki/Cat%C3%A9gorie:Espace_Mod%C3%A8le" title="Catégorie:Espace Modèle">catégoriser les modèles</a> (en collaboration avec l'<a href="/wiki/Wikivoyage:Exp%C3%A9dition_Cat%C3%A9gories" title="Wikivoyage:Expédition Catégories">expédition Catégories</a>)</li>
+<li>Ajouter dans les sous-pages «&#160;Modèles&#160;» des projets et les pages d'aide les syntaxes pouvant y être utiles (en collaboration avec l'<a href="/wiki/Wikivoyage:Exp%C3%A9dition_Guide" title="Wikivoyage:Expédition Guide">expédition Guide</a>)</li></ul>
+</div>
+<div class="container"><div class="header">Demandes de Modèles</div>
+<p>Vous pouvez demander ici la création de nouveaux Modèles.
+</p><p><a class="external text" href="https://fr.wikivoyage.org/wiki/Modèle:Projet:Modèles/Demandes?action=edit&amp;section=new">Faire une proposition</a>
+</p>
+<h2><span id="Box_a.C3.A9roport"></span><span class="mw-headline" id="Box_aéroport">Box aéroport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mod%C3%A8le:Projet:Mod%C3%A8les/Demandes&amp;action=edit&amp;section=T-1" title="Modifier la section : ">modifier</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bonsoir,
+</p><p>Je reprends ici un problème évoqué au <a href="/wiki/Wikivoyage:Caf%C3%A9_des_Voyageurs#Aéroport_de_Lille-Lesquin" title="Wikivoyage:Café des Voyageurs">Café des voyageurs</a>. J'ai créé l'article <a href="/wiki/A%C3%A9roport_de_Lille-Lesquin" title="Aéroport de Lille-Lesquin">Aéroport de Lille-Lesquin</a> à partir de ce <a href="/wiki/Aide:Patron_pour_les_articles_d%27a%C3%A9roport" title="Aide:Patron pour les articles d&#39;aéroport">patron</a>. Pouvez-vous s'il vous plaît créer le <a href="/wiki/Mod%C3%A8le:Info_A%C3%A9roport" title="Modèle:Info Aéroport">Modèle:Info Aéroport</a> qui y est présenté. D'avance merci. Cordialement. <a href="/wiki/Utilisateur:Gtaf" title="Utilisateur:Gtaf">Gtaf</a> (<a href="/wiki/Discussion_utilisateur:Gtaf" title="Discussion utilisateur:Gtaf">discussion</a>) 15 février 2015 à 20:12 (UTC)
+</p>
+<h2><span id="Modification_Banni.C3.A8re_page"></span><span class="mw-headline" id="Modification_Bannière_page">Modification Bannière page</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mod%C3%A8le:Projet:Mod%C3%A8les/Demandes&amp;action=edit&amp;section=T-2" title="Modifier la section : ">modifier</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Bonjour, pourriez vous faire en sorte que quand une image n'a pas de bannière, elle soit mise dans une catégorie cachée du genre "page sans images de bannière"&#160;? merci <a href="/w/index.php?title=Utilisateur:Archi38&amp;action=edit&amp;redlink=1" class="new" title="Utilisateur:Archi38 (page inexistante)">Archi38</a> (<a href="/w/index.php?title=Discussion_utilisateur:Archi38&amp;action=edit&amp;redlink=1" class="new" title="Discussion utilisateur:Archi38 (page inexistante)">discussion</a>) 29 mars 2016 à 11:00 (UTC)
+</p>
+<dl><dd>Aucune idée de la manière dont ça pourrait être mis en œuvre, désolé. D'autant plus qu'il peut exister une bannière dans Wikidata. — <a href="/wiki/Utilisateur:Fabimaru" title="Utilisateur:Fabimaru">Fabimaru</a> (<a href="/wiki/Discussion_utilisateur:Fabimaru" title="Discussion utilisateur:Fabimaru">discussion</a>) 30 mars 2016 à 17:41 (UTC)
+<dl><dd>À la limite tu peux te servir de <a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Fichier:Pagebanner_default.jpg" title="Spécial:Pages liées/Fichier:Pagebanner default.jpg">Spécial:Pages_liées/Fichier:Pagebanner_default.jpg</a>. --<a href="/wiki/Utilisateur:Barbe-sauvage" title="Utilisateur:Barbe-sauvage">Barbe-sauvage</a> (<a href="/wiki/Discussion_utilisateur:Barbe-sauvage" title="Discussion utilisateur:Barbe-sauvage">discussion</a>) 30 mars 2016 à 18:16 (UTC)
+<dl><dd>Excellente idée&#160;! <a href="/w/index.php?title=Utilisateur:Archi38&amp;action=edit&amp;redlink=1" class="new" title="Utilisateur:Archi38 (page inexistante)">Archi38</a> (<a href="/w/index.php?title=Discussion_utilisateur:Archi38&amp;action=edit&amp;redlink=1" class="new" title="Discussion utilisateur:Archi38 (page inexistante)">discussion</a>) 30 mars 2016 à 19:34 (UTC)</dd></dl></dd></dl></dd></dl>
+</div>
+<div class="container"><div class="header">Participants</div>
+<ul><li>--<a href="/wiki/Utilisateur:Adehertogh" title="Utilisateur:Adehertogh">Adehertogh</a> (<a href="/wiki/Discussion_utilisateur:Adehertogh" title="Discussion utilisateur:Adehertogh">discussion</a>) 11 juin 2013 à <span class="nowrap">20&#160;<abbr class="abbr" title="heures">h</abbr></span> (UTC)</li>
+<li>Je veux bien aider&#160;! --<a href="/wiki/Utilisateur:Benjozork" title="Utilisateur:Benjozork">Benjozork</a> (<a href="/wiki/Discussion_utilisateur:Benjozork" title="Discussion utilisateur:Benjozork">discussion</a>) 2 janvier 2015 à 23:07 (UTC)</li></ul>
+</div>
+<div class="container"><div class="header">Ressources</div>
+<ul><li>Suggestions pour mettre en page le projet
+<ul><li>Navigation par onglets dans les sous-pages</li>
+<li>Sous-pages&#160;: Demande de nouveaux modèles, Modèles existants (Catégorie:Espace Modèle, ou ils sont rangés voir Wikipédia)</li></ul></li>
+<li><a class="external text" href="https://fr.wikipedia.org/wiki/Aide:Comment_documenter_un_modèle_%3F">Aide:Comment documenter un modèle&#160;?</a></li>
+<li><a class="external text" href="https://fr.wikivoyage.org/w/index.php?title=Sp%C3%A9cial:Recherche&amp;limit=500&amp;offset=0&amp;redirs=0&amp;ns10=1&amp;search=Modèle">Modèles existant via la recherche avancée</a></li>
+<li>Catégorie:Documentation de modèle</li>
+<li><a class="external text" href="https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:Espace_Modèle">Catégorie:Espace Modèle sur Wikipédia</a></li></ul>
+</div>
+<table class="prettytable" style="text-align:center;width:100%; border:1px solid #AAAAAA;">
+
+<tbody><tr>
+<th><big>Utilisation des modèles courants</big>
+</th></tr>
+<tr>
+<td class="wikitable" style="text-align:center;width:25%;">
+<table cellpadding="0" cellspacing="0" border="0" style="clear:both; width:100%;"><tbody><tr><td style=""><div style="overflow:auto; width:100%; height:225px;">
+<table border="1" style="border:1px solid darkgray; border-collapse:collapse; text-align:right; vertical-align:top; width:100%;">
+
+<tbody><tr>
+<td style="text-align:left; vertical-align:left; border-spacing:5px 5px;">
+<p><small><b>Article avec <a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page" title="Modèle:Bannière page">{{bannière page}}</a></b>&#160;&#160;<a class="external text" href="http://tools.wmflabs.org/catscan2/catscan2.php?language=fr&amp;project=wikivoyage&amp;depth=100&amp;categories=Accueil&amp;comb%5Bunion%5D=1&amp;templates_no=Banni%C3%A8re+page&amp;doit=1"><abbr title="Article sans bannière.">[?]</abbr></a><br />
+7848&#160;/&#160;7709&#160;=&#160;101.803%
+</small></p><small>
+<div style="height: 10px; border: 1px solid black; width: 250px; background: #666666;">
+<div style="height: 10px; border: 1px solid black; border-style: none solid none none; width: 101.80308730056%; background: #98E698;">
+</div></div>
+</small></td></tr></tbody></table>
+<table border="1" style="border:1px solid darkgray; border-collapse:collapse; text-align:right; vertical-align:top; width:100%;">
+
+<tbody><tr>
+<td style="text-align:left; vertical-align:left; border-spacing:5px 5px;">
+<p><small><b>Article de <a href="/wiki/Aide:Patron_pour_les_articles_de_quartiers" title="Aide:Patron pour les articles de quartiers">Quartier</a> avec <a href="/wiki/Mod%C3%A8le:Info_Quartier" title="Modèle:Info Quartier">{{Info Quartier}}</a></b>&#160;&#160;<a class="external text" href="http://tools.wmflabs.org/catscan2/catscan2.php?language=fr&amp;project=wikivoyage&amp;depth=100&amp;categories=Quartier&amp;comb%5Bunion%5D=1&amp;templates_no=Info+Quartier&amp;doit=1"><abbr title="Page de quartier sans boite info.">[?]</abbr></a><br />
+219&#160;/&#160;229&#160;=&#160;95.633%
+</small></p><small>
+<div style="height: 10px; border: 1px solid black; width: 250px; background: #666666;">
+<div style="height: 10px; border: 1px solid black; border-style: none solid none none; width: 95.633187772926%; background: #98E698;">
+</div></div>
+</small></td></tr></tbody></table>
+<table border="1" style="border:1px solid darkgray; border-collapse:collapse; text-align:right; vertical-align:top; width:100%;">
+
+<tbody><tr>
+<td style="text-align:left; vertical-align:left; border-spacing:5px 5px;">
+<p><small><b>Article de <a href="/wiki/Aide:Patron_pour_les_articles_de_petites_villes" title="Aide:Patron pour les articles de petites villes">ville</a> avec <a href="/wiki/Mod%C3%A8le:Info_Ville" title="Modèle:Info Ville">{{Info Ville}}</a></b>&#160;&#160;<a class="external text" href="http://tools.wmflabs.org/catscan2/catscan2.php?language=fr&amp;project=wikivoyage&amp;depth=100&amp;categories=Ville&amp;comb%5Bunion%5D=1&amp;templates_no=Info+Ville&amp;doit=1"><abbr title="Page de villes sans boite info.">[?]</abbr></a><br />
+4125&#160;/&#160;4111&#160;=&#160;100.341%
+</small></p><small>
+<div style="height: 10px; border: 1px solid black; width: 250px; background: #666666;">
+<div style="height: 10px; border: 1px solid black; border-style: none solid none none; width: 100.34054974459%; background: #98E698;">
+</div></div>
+</small></td></tr></tbody></table>
+<table border="1" style="border:1px solid darkgray; border-collapse:collapse; text-align:right; vertical-align:top; width:100%;">
+
+<tbody><tr>
+<td style="text-align:left; vertical-align:left; border-spacing:5px 5px;">
+<p><small><b>Article de <a href="/wiki/Aide:Patron_pour_les_articles_de_r%C3%A9gions" title="Aide:Patron pour les articles de régions">région</a> avec <a href="/wiki/Mod%C3%A8le:Info_R%C3%A9gion" title="Modèle:Info Région">{{Info Région}}</a></b>&#160;&#160;<a class="external text" href="http://tools.wmflabs.org/catscan2/catscan2.php?language=fr&amp;project=wikivoyage&amp;depth=100&amp;categories=Région&amp;comb%5Bunion%5D=1&amp;templates_no=Info+Région&amp;doit=1"><abbr title="Page de région sans boite info.">[?]</abbr></a><br />
+1838&#160;/&#160;1809&#160;=&#160;101.603%
+</small></p><small>
+<div style="height: 10px; border: 1px solid black; width: 250px; background: #666666;">
+<div style="height: 10px; border: 1px solid black; border-style: none solid none none; width: 101.60309563295%; background: #98E698;">
+</div></div>
+</small></td></tr></tbody></table>
+<table border="1" style="border:1px solid darkgray; border-collapse:collapse; text-align:right; vertical-align:top; width:100%;">
+
+<tbody><tr>
+<td style="text-align:left; vertical-align:left; border-spacing:5px 5px;">
+<p><small><b>Article de <a href="/wiki/Aide:Patron_pour_les_articles_de_pays" title="Aide:Patron pour les articles de pays">pays</a> avec <a href="/wiki/Mod%C3%A8le:Info_Pays" title="Modèle:Info Pays">{{Info Pays}}</a></b>&#160;&#160;<a class="external text" href="http://tools.wmflabs.org/catscan2/catscan2.php?language=fr&amp;project=wikivoyage&amp;depth=100&amp;categories=Pays&amp;comb%5Bunion%5D=1&amp;templates_no=Info+Pays&amp;doit=1"><abbr title="Page de pays sans boite info.">[?]</abbr></a><br />
+250&#160;/&#160;256&#160;=&#160;97.656%
+</small></p><small>
+<div style="height: 10px; border: 1px solid black; width: 250px; background: #666666;">
+<div style="height: 10px; border: 1px solid black; border-style: none solid none none; width: 97.65625%; background: #98E698;">
+</div></div>
+</small></td></tr></tbody></table></div></td></tr></tbody></table>
+</td></tr></tbody></table>
+<div class="container"><div class="header">Arborescence</div>
+<div style="background-color:#FCFFE5" class="CategoryTreeTag" data-ct-mode="0" data-ct-options="{&quot;mode&quot;:0,&quot;hideprefix&quot;:20,&quot;showcount&quot;:false,&quot;namespaces&quot;:false,&quot;notranslations&quot;:false}"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Espace_Modèle" data-ct-loaded="1" data-ct-state="expanded">▼</span> </span> <a href="/wiki/Cat%C3%A9gorie:Espace_Mod%C3%A8le" title="Catégorie:Espace Modèle">Espace Modèle</a></div><div class="CategoryTreeChildren" style="display:block"><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Maintenance_des_modèles" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Cat%C3%A9gorie:Maintenance_des_mod%C3%A8les" title="Catégorie:Maintenance des modèles">Maintenance des modèles</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Documentation_de_mod%C3%A8le" title="Catégorie:Documentation de modèle">Documentation de modèle</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Documentations_des_modèles" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Cat%C3%A9gorie:Documentations_des_mod%C3%A8les" title="Catégorie:Documentations des modèles">Documentations des modèles</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_appelant_des_modules_en_langage_Lua" title="Catégorie:Modèle appelant des modules en langage Lua">Modèle appelant des modules en langage Lua</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_audio" title="Catégorie:Modèle audio">Modèle audio</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_de_l%27espace_Fichier" title="Catégorie:Modèle de l&#39;espace Fichier">Modèle de l&#39;espace Fichier</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_non_cat%C3%A9goris%C3%A9" title="Catégorie:Modèle non catégorisé">Modèle non catégorisé</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Modèle_par_espace_de_noms" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_par_espace_de_noms" title="Catégorie:Modèle par espace de noms">Modèle par espace de noms</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeBullet"><span class="CategoryTreeToggle" data-ct-title="Modèle_par_fonction" data-ct-state="collapsed">►</span> </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_par_fonction" title="Catégorie:Modèle par fonction">Modèle par fonction</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_qui_cat%C3%A9gorise" title="Catégorie:Modèle qui catégorise">Modèle qui catégorise</a></div><div class="CategoryTreeChildren" style="display:none"></div></div><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8les_pour_les_cat%C3%A9gories" title="Catégorie:Modèles pour les catégories">Modèles pour les catégories</a></div><div class="CategoryTreeChildren" style="display:none"></div></div></div></div></div>
+</div>
+<div class="container"><div class="header">Liste des modèles</div>
+<div class="mw-prefixindex-body"><ul class="mw-prefixindex-list"><li><a href="/wiki/Mod%C3%A8le:!" title="Modèle:!">!</a></li>
+<li><a href="/wiki/Mod%C3%A8le:!)" title="Modèle:!)">!)</a></li>
+<li><a href="/wiki/Mod%C3%A8le:!)/Documentation" title="Modèle:!)/Documentation">!)/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:!-" title="Modèle:!-">!-</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%26" title="Modèle:&amp;">&amp;</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%26%26" title="Modèle:&amp;&amp;">&amp;&amp;</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%26%26/Documentation" title="Modèle:&amp;&amp;/Documentation">&amp;&amp;/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%26/Documentation" title="Modèle:&amp;/Documentation">&amp;/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%27" title="Modèle:&#39;">&#39;</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%27/Documentation" title="Modèle:&#39;/Documentation">&#39;/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:(" title="Modèle:(">(</a></li>
+<li><a href="/wiki/Mod%C3%A8le:(!" title="Modèle:(!">(!</a></li>
+<li><a href="/wiki/Mod%C3%A8le:(!/Documentation" title="Modèle:(!/Documentation">(!/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:((" title="Modèle:((">((</a></li>
+<li><a href="/wiki/Mod%C3%A8le:(((" title="Modèle:(((">(((</a></li>
+<li><a href="/wiki/Mod%C3%A8le:(((/Documentation" title="Modèle:(((/Documentation">(((/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:((/Documentation" title="Modèle:((/Documentation">((/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:)" title="Modèle:)">)</a></li>
+<li><a href="/wiki/Mod%C3%A8le:))" title="Modèle:))">))</a></li>
+<li><a href="/wiki/Mod%C3%A8le:)))" title="Modèle:)))">)))</a></li>
+<li><a href="/wiki/Mod%C3%A8le:)))/Documentation" title="Modèle:)))/Documentation">)))/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%2B" title="Modèle:+">+</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%2B/Documentation" title="Modèle:+/Documentation">+/Documentation</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:,_etc." class="mw-redirect" title="Modèle:, etc.">, etc.</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:-" title="Modèle:-">-</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:..." class="mw-redirect" title="Modèle:...">...</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:10e" title="Modèle:10e">10e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:1er" title="Modèle:1er">1er</a></li>
+<li><a href="/wiki/Mod%C3%A8le:1re" title="Modèle:1re">1re</a></li>
+<li><a href="/wiki/Mod%C3%A8le:1re/Documentation" title="Modèle:1re/Documentation">1re/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:2autres" title="Modèle:2autres">2autres</a></li>
+<li><a href="/wiki/Mod%C3%A8le:2e" title="Modèle:2e">2e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:3autres" title="Modèle:3autres">3autres</a></li>
+<li><a href="/wiki/Mod%C3%A8le:3e" title="Modèle:3e">3e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:4e" title="Modèle:4e">4e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:5e" title="Modèle:5e">5e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:6e" title="Modèle:6e">6e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:7e" title="Modèle:7e">7e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:8e" title="Modèle:8e">8e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:9e" title="Modèle:9e">9e</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%3D" title="Modèle:=">=</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:%3D)" class="mw-redirect" title="Modèle:=)">=)</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:%3F%3F%3F" title="Modèle:???">???</a></li>
+<li><a href="/wiki/Mod%C3%A8le:%3F%3F%3F/Documentation" title="Modèle:???/Documentation">???/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:@" title="Modèle:@">@</a></li>
+<li><a href="/wiki/Mod%C3%A8le:@/Documentation" title="Modèle:@/Documentation">@/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:AAA" title="Modèle:AAA">AAA</a></li>
+<li><a href="/wiki/Mod%C3%A8le:AAA/Documentation" title="Modèle:AAA/Documentation">AAA/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:AITA" title="Modèle:AITA">AITA</a></li>
+<li><a href="/wiki/Mod%C3%A8le:API" title="Modèle:API">API</a></li>
+<li><a href="/wiki/Mod%C3%A8le:API/Documentation" title="Modèle:API/Documentation">API/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:APIb" title="Modèle:APIb">APIb</a></li>
+<li><a href="/wiki/Mod%C3%A8le:ATM" title="Modèle:ATM">ATM</a></li>
+<li><a href="/wiki/Mod%C3%A8le:ATM/Documentation" title="Modèle:ATM/Documentation">ATM/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ab" title="Modèle:Ab">Ab</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Abr%C3%A9viation" title="Modèle:Abréviation">Abréviation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Abr%C3%A9viation/Documentation" title="Modèle:Abréviation/Documentation">Abréviation/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Abr%C3%A9viation/Imprimer" title="Modèle:Abréviation/Imprimer">Abréviation/Imprimer</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Abr%C3%A9viation_discr%C3%A8te" title="Modèle:Abréviation discrète">Abréviation discrète</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Abr%C3%A9viation_discr%C3%A8te/Documentation" title="Modèle:Abréviation discrète/Documentation">Abréviation discrète/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accessible" title="Modèle:Accessible">Accessible</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accessible/Documentation" title="Modèle:Accessible/Documentation">Accessible/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Article_%C3%A9toil%C3%A9" title="Modèle:Accueil/Article étoilé">Accueil/Article étoilé</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Carte_Bandeau" title="Modèle:Accueil/Carte Bandeau">Accueil/Carte Bandeau</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Destinations" title="Modèle:Accueil/Destinations">Accueil/Destinations</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Exp%C3%A9ditions" title="Modèle:Accueil/Expéditions">Accueil/Expéditions</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Guides_linguistiques" title="Modèle:Accueil/Guides linguistiques">Accueil/Guides linguistiques</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Participer" title="Modèle:Accueil/Participer">Accueil/Participer</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Accueil/Projets" class="mw-redirect" title="Modèle:Accueil/Projets">Accueil/Projets</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Projets_fr%C3%A8res" title="Modèle:Accueil/Projets frères">Accueil/Projets frères</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Accueil/Titre" title="Modèle:Accueil/Titre">Accueil/Titre</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Acc%C3%A8sR20" title="Modèle:AccèsR20">AccèsR20</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Acc%C3%A8sR20/Documentation" title="Modèle:AccèsR20/Documentation">AccèsR20/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Acc%C3%A8s_Narita" title="Modèle:Accès Narita">Accès Narita</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ach" title="Modèle:Ach">Ach</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Acheter" title="Modèle:Acheter">Acheter</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Acheter/Documentation" title="Modèle:Acheter/Documentation">Acheter/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Addition_de_date" title="Modèle:Addition de date">Addition de date</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Addition_de_date/Documentation" title="Modèle:Addition de date/Documentation">Addition de date/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Af" title="Modèle:Af">Af</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Allemagne_zone_restreinte" title="Modèle:Allemagne zone restreinte">Allemagne zone restreinte</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Allemagne_zone_restreinte/Documentation" title="Modèle:Allemagne zone restreinte/Documentation">Allemagne zone restreinte/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Aller" title="Modèle:Aller">Aller</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Aller/Documentation" title="Modèle:Aller/Documentation">Aller/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Am" title="Modèle:Am">Am</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Ambox" class="mw-redirect" title="Modèle:Ambox">Ambox</a></div></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Anchor" class="mw-redirect" title="Modèle:Anchor">Anchor</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Ancre" title="Modèle:Ancre">Ancre</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ancre/Documentation" title="Modèle:Ancre/Documentation">Ancre/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Animation" title="Modèle:Animation">Animation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Animation/Boutons" title="Modèle:Animation/Boutons">Animation/Boutons</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Animation/Contenu" title="Modèle:Animation/Contenu">Animation/Contenu</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Animation/Documentation" title="Modèle:Animation/Documentation">Animation/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Animation/Image" title="Modèle:Animation/Image">Animation/Image</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Animation/styles.css" title="Modèle:Animation/styles.css">Animation/styles.css</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Annonce" title="Modèle:Annonce">Annonce</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Annonce/Documentation" title="Modèle:Annonce/Documentation">Annonce/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Annulation1" title="Modèle:Annulation1">Annulation1</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Annulation1/Documentation" title="Modèle:Annulation1/Documentation">Annulation1/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ann%C3%A9eProchaine" title="Modèle:AnnéeProchaine">AnnéeProchaine</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ann%C3%A9eProchaine/Documentation" title="Modèle:AnnéeProchaine/Documentation">AnnéeProchaine/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ar" title="Modèle:Ar">Ar</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Archive" title="Modèle:Archive">Archive</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Archive_de_discussion_wikitexte_convertie_en_Flow" title="Modèle:Archive de discussion wikitexte convertie en Flow">Archive de discussion wikitexte convertie en Flow</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Archive_pour_la_page_LQT_convertie" title="Modèle:Archive pour la page LQT convertie">Archive pour la page LQT convertie</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Archive_pour_la_page_de_discussion_wikitexte_convertie" title="Modèle:Archive pour la page de discussion wikitexte convertie">Archive pour la page de discussion wikitexte convertie</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Arq" title="Modèle:Arq">Arq</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_d%C3%A9taill%C3%A9" title="Modèle:Article détaillé">Article détaillé</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_guide" title="Modèle:Article guide">Article guide</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_guide/Documentation" title="Modèle:Article guide/Documentation">Article guide/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_potentiellement_%C3%A9toil%C3%A9" title="Modèle:Article potentiellement étoilé">Article potentiellement étoilé</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_potentiellement_%C3%A9toil%C3%A9/Documentation" title="Modèle:Article potentiellement étoilé/Documentation">Article potentiellement étoilé/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_%C3%A9toil%C3%A9" title="Modèle:Article étoilé">Article étoilé</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Article_%C3%A9toil%C3%A9/Documentation" title="Modèle:Article étoilé/Documentation">Article étoilé/Documentation</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Article_%C3%A9toil%C3%A9_sur_Wikivoyage" class="mw-redirect" title="Modèle:Article étoilé sur Wikivoyage">Article étoilé sur Wikivoyage</a></div></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Article_%C3%A9toil%C3%A9_sur_Wikivoyage/Documentation" class="mw-redirect" title="Modèle:Article étoilé sur Wikivoyage/Documentation">Article étoilé sur Wikivoyage/Documentation</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Articleinfo" title="Modèle:Articleinfo">Articleinfo</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Articleinfo/Documentation" title="Modèle:Articleinfo/Documentation">Articleinfo/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Arz" title="Modèle:Arz">Arz</a></li>
+<li><a href="/wiki/Mod%C3%A8le:As" title="Modèle:As">As</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Asb" title="Modèle:Asb">Asb</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Ascenseur" class="mw-redirect" title="Modèle:Ascenseur">Ascenseur</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Assistance_audio" title="Modèle:Assistance audio">Assistance audio</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Assistance_audio/Documentation" title="Modèle:Assistance audio/Documentation">Assistance audio/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ast" title="Modèle:Ast">Ast</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Attendre" title="Modèle:Attendre">Attendre</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Attendre/Documentation" title="Modèle:Attendre/Documentation">Attendre/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Attente_OTRS" title="Modèle:Attente OTRS">Attente OTRS</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Attention" title="Modèle:Attention">Attention</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Attention/Documentation" title="Modèle:Attention/Documentation">Attention/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Audio" title="Modèle:Audio">Audio</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Aujourd%27hui" title="Modèle:Aujourd&#39;hui">Aujourd&#39;hui</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Auteurs_cr%C3%A9dit%C3%A9s_apr%C3%A8s_scission" title="Modèle:Auteurs crédités après scission">Auteurs crédités après scission</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Auteurs_cr%C3%A9dit%C3%A9s_apr%C3%A8s_scission/Documentation" title="Modèle:Auteurs crédités après scission/Documentation">Auteurs crédités après scission/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_allemande" title="Modèle:Autoroute allemande">Autoroute allemande</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_allemande/Documentation" title="Modèle:Autoroute allemande/Documentation">Autoroute allemande/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_belge" title="Modèle:Autoroute belge">Autoroute belge</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_belge/Documentation" title="Modèle:Autoroute belge/Documentation">Autoroute belge/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_espagnole" title="Modèle:Autoroute espagnole">Autoroute espagnole</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_espagnole/Documentation" title="Modèle:Autoroute espagnole/Documentation">Autoroute espagnole/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_fran%C3%A7aise" title="Modèle:Autoroute française">Autoroute française</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_fran%C3%A7aise/Documentation" title="Modèle:Autoroute française/Documentation">Autoroute française/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_hongroise" title="Modèle:Autoroute hongroise">Autoroute hongroise</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_hongroise/Documentation" title="Modèle:Autoroute hongroise/Documentation">Autoroute hongroise/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_italienne" title="Modèle:Autoroute italienne">Autoroute italienne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_italienne/Documentation" title="Modèle:Autoroute italienne/Documentation">Autoroute italienne/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_luxembourgeoise" title="Modèle:Autoroute luxembourgeoise">Autoroute luxembourgeoise</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_luxembourgeoise/Documentation" title="Modèle:Autoroute luxembourgeoise/Documentation">Autoroute luxembourgeoise/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_marocaine" title="Modèle:Autoroute marocaine">Autoroute marocaine</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_marocaine/Documentation" title="Modèle:Autoroute marocaine/Documentation">Autoroute marocaine/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_ontarienne" title="Modèle:Autoroute ontarienne">Autoroute ontarienne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_ontarienne/Documentation" title="Modèle:Autoroute ontarienne/Documentation">Autoroute ontarienne/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_qu%C3%A9b%C3%A9coise" title="Modèle:Autoroute québécoise">Autoroute québécoise</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_qu%C3%A9b%C3%A9coise/Documentation" title="Modèle:Autoroute québécoise/Documentation">Autoroute québécoise/Documentation</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Autoroute_russe" class="mw-redirect" title="Modèle:Autoroute russe">Autoroute russe</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_slovaque" title="Modèle:Autoroute slovaque">Autoroute slovaque</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_slovaque/Documentation" title="Modèle:Autoroute slovaque/Documentation">Autoroute slovaque/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_suisse" title="Modèle:Autoroute suisse">Autoroute suisse</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autoroute_suisse/Documentation" title="Modèle:Autoroute suisse/Documentation">Autoroute suisse/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autre" title="Modèle:Autre">Autre</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autre4" title="Modèle:Autre4">Autre4</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autre4/Documentation" title="Modèle:Autre4/Documentation">Autre4/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autre5" title="Modèle:Autre5">Autre5</a></li>
+<li><a href="/wiki/Mod%C3%A8le:AutresLieux" title="Modèle:AutresLieux">AutresLieux</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autres_projets" title="Modèle:Autres projets">Autres projets</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Autres_projets/Documentation" title="Modèle:Autres projets/Documentation">Autres projets/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement" title="Modèle:Avancement">Avancement</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/Documentation" title="Modèle:Avancement/Documentation">Avancement/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/d%C3%A9faut" title="Modèle:Avancement/défaut">Avancement/défaut</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_a%C3%A9roport" title="Modèle:Avancement/esquisse aéroport">Avancement/esquisse aéroport</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_conseil" title="Modèle:Avancement/esquisse conseil">Avancement/esquisse conseil</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_guide_linguistique" title="Modèle:Avancement/esquisse guide linguistique">Avancement/esquisse guide linguistique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_itin%C3%A9raire" title="Modèle:Avancement/esquisse itinéraire">Avancement/esquisse itinéraire</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_lac" title="Modèle:Avancement/esquisse lac">Avancement/esquisse lac</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_montagne" title="Modèle:Avancement/esquisse montagne">Avancement/esquisse montagne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_mus%C3%A9e" title="Modèle:Avancement/esquisse musée">Avancement/esquisse musée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_parc" title="Modèle:Avancement/esquisse parc">Avancement/esquisse parc</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_parc_d%27attraction" title="Modèle:Avancement/esquisse parc d&#39;attraction">Avancement/esquisse parc d&#39;attraction</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_pays" title="Modèle:Avancement/esquisse pays">Avancement/esquisse pays</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_quartier" title="Modèle:Avancement/esquisse quartier">Avancement/esquisse quartier</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_r%C3%A9gion" title="Modèle:Avancement/esquisse région">Avancement/esquisse région</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_r%C3%A9gion_continentale" title="Modèle:Avancement/esquisse région continentale">Avancement/esquisse région continentale</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/esquisse_ville" title="Modèle:Avancement/esquisse ville">Avancement/esquisse ville</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_a%C3%A9roport" title="Modèle:Avancement/guide aéroport">Avancement/guide aéroport</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_conseil" title="Modèle:Avancement/guide conseil">Avancement/guide conseil</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_guide_linguistique" title="Modèle:Avancement/guide guide linguistique">Avancement/guide guide linguistique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_itin%C3%A9raire" title="Modèle:Avancement/guide itinéraire">Avancement/guide itinéraire</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_lac" title="Modèle:Avancement/guide lac">Avancement/guide lac</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_montagne" title="Modèle:Avancement/guide montagne">Avancement/guide montagne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_mus%C3%A9e" title="Modèle:Avancement/guide musée">Avancement/guide musée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_parc" title="Modèle:Avancement/guide parc">Avancement/guide parc</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_parc_d%27attraction" title="Modèle:Avancement/guide parc d&#39;attraction">Avancement/guide parc d&#39;attraction</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_pays" title="Modèle:Avancement/guide pays">Avancement/guide pays</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_quartier" title="Modèle:Avancement/guide quartier">Avancement/guide quartier</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_r%C3%A9gion" title="Modèle:Avancement/guide région">Avancement/guide région</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_r%C3%A9gion_continentale" title="Modèle:Avancement/guide région continentale">Avancement/guide région continentale</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_ville" title="Modèle:Avancement/guide ville">Avancement/guide ville</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/guide_voyage_th%C3%A9matique" title="Modèle:Avancement/guide voyage thématique">Avancement/guide voyage thématique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_a%C3%A9roport" title="Modèle:Avancement/utilisable aéroport">Avancement/utilisable aéroport</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_conseil" title="Modèle:Avancement/utilisable conseil">Avancement/utilisable conseil</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_guide_linguistique" title="Modèle:Avancement/utilisable guide linguistique">Avancement/utilisable guide linguistique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_itin%C3%A9raire" title="Modèle:Avancement/utilisable itinéraire">Avancement/utilisable itinéraire</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_lac" title="Modèle:Avancement/utilisable lac">Avancement/utilisable lac</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_montagne" title="Modèle:Avancement/utilisable montagne">Avancement/utilisable montagne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_mus%C3%A9e" title="Modèle:Avancement/utilisable musée">Avancement/utilisable musée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_parc" title="Modèle:Avancement/utilisable parc">Avancement/utilisable parc</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_parc_d%27attraction" title="Modèle:Avancement/utilisable parc d&#39;attraction">Avancement/utilisable parc d&#39;attraction</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_pays" title="Modèle:Avancement/utilisable pays">Avancement/utilisable pays</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_quartier" title="Modèle:Avancement/utilisable quartier">Avancement/utilisable quartier</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_r%C3%A9gion" title="Modèle:Avancement/utilisable région">Avancement/utilisable région</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_r%C3%A9gion_continentale" title="Modèle:Avancement/utilisable région continentale">Avancement/utilisable région continentale</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_ville" title="Modèle:Avancement/utilisable ville">Avancement/utilisable ville</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/utilisable_voyage_th%C3%A9matique" title="Modèle:Avancement/utilisable voyage thématique">Avancement/utilisable voyage thématique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_a%C3%A9roport" title="Modèle:Avancement/ébauche aéroport">Avancement/ébauche aéroport</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_conseil" title="Modèle:Avancement/ébauche conseil">Avancement/ébauche conseil</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_guide_linguistique" title="Modèle:Avancement/ébauche guide linguistique">Avancement/ébauche guide linguistique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_itin%C3%A9raire" title="Modèle:Avancement/ébauche itinéraire">Avancement/ébauche itinéraire</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_lac" title="Modèle:Avancement/ébauche lac">Avancement/ébauche lac</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_montagne" title="Modèle:Avancement/ébauche montagne">Avancement/ébauche montagne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_mus%C3%A9e" title="Modèle:Avancement/ébauche musée">Avancement/ébauche musée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_parc" title="Modèle:Avancement/ébauche parc">Avancement/ébauche parc</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_parc_d%27attraction" title="Modèle:Avancement/ébauche parc d&#39;attraction">Avancement/ébauche parc d&#39;attraction</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_pays" title="Modèle:Avancement/ébauche pays">Avancement/ébauche pays</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_quartier" title="Modèle:Avancement/ébauche quartier">Avancement/ébauche quartier</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_r%C3%A9gion" title="Modèle:Avancement/ébauche région">Avancement/ébauche région</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_r%C3%A9gion_continentale" title="Modèle:Avancement/ébauche région continentale">Avancement/ébauche région continentale</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_ville" title="Modèle:Avancement/ébauche ville">Avancement/ébauche ville</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9bauche_voyage_th%C3%A9matique" title="Modèle:Avancement/ébauche voyage thématique">Avancement/ébauche voyage thématique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_a%C3%A9roport" title="Modèle:Avancement/étoilé aéroport">Avancement/étoilé aéroport</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_conseil" title="Modèle:Avancement/étoilé conseil">Avancement/étoilé conseil</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_guide_linguistique" title="Modèle:Avancement/étoilé guide linguistique">Avancement/étoilé guide linguistique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_itin%C3%A9raire" title="Modèle:Avancement/étoilé itinéraire">Avancement/étoilé itinéraire</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_lac" title="Modèle:Avancement/étoilé lac">Avancement/étoilé lac</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_montagne" title="Modèle:Avancement/étoilé montagne">Avancement/étoilé montagne</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_mus%C3%A9e" title="Modèle:Avancement/étoilé musée">Avancement/étoilé musée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_parc" title="Modèle:Avancement/étoilé parc">Avancement/étoilé parc</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_parc_d%27attraction" title="Modèle:Avancement/étoilé parc d&#39;attraction">Avancement/étoilé parc d&#39;attraction</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_pays" title="Modèle:Avancement/étoilé pays">Avancement/étoilé pays</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_quartier" title="Modèle:Avancement/étoilé quartier">Avancement/étoilé quartier</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_r%C3%A9gion" title="Modèle:Avancement/étoilé région">Avancement/étoilé région</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_r%C3%A9gion_continentale" title="Modèle:Avancement/étoilé région continentale">Avancement/étoilé région continentale</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_ville" title="Modèle:Avancement/étoilé ville">Avancement/étoilé ville</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avancement/%C3%A9toil%C3%A9_voyage_th%C3%A9matique" title="Modèle:Avancement/étoilé voyage thématique">Avancement/étoilé voyage thématique</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Avertissement" class="mw-redirect" title="Modèle:Avertissement">Avertissement</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement/Documentation" title="Modèle:Avertissement/Documentation">Avertissement/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_de_non-responsabilit%C3%A9" title="Modèle:Avertissement de non-responsabilité">Avertissement de non-responsabilité</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_fusion" title="Modèle:Avertissement fusion">Avertissement fusion</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_fusion/Documentation" title="Modèle:Avertissement fusion/Documentation">Avertissement fusion/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_licence_inconnue" title="Modèle:Avertissement licence inconnue">Avertissement licence inconnue</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_migration" title="Modèle:Avertissement migration">Avertissement migration</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_migration/Documentation" title="Modèle:Avertissement migration/Documentation">Avertissement migration/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_m%C3%A9dical" title="Modèle:Avertissement médical">Avertissement médical</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_scission" title="Modèle:Avertissement scission">Avertissement scission</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avertissement_scission/Documentation" title="Modèle:Avertissement scission/Documentation">Avertissement scission/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Avis_de_voyage" title="Modèle:Avis de voyage">Avis de voyage</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ay" title="Modèle:Ay">Ay</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Az" title="Modèle:Az">Az</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport" title="Modèle:Aéroport">Aéroport</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport/Documentation" title="Modèle:Aéroport/Documentation">Aéroport/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_A" title="Modèle:Aéroport A">Aéroport A</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_B" title="Modèle:Aéroport B">Aéroport B</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_C" title="Modèle:Aéroport C">Aéroport C</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_D" title="Modèle:Aéroport D">Aéroport D</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_E" title="Modèle:Aéroport E">Aéroport E</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_F" title="Modèle:Aéroport F">Aéroport F</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_G" title="Modèle:Aéroport G">Aéroport G</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_H" title="Modèle:Aéroport H">Aéroport H</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_I" title="Modèle:Aéroport I">Aéroport I</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_J" title="Modèle:Aéroport J">Aéroport J</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_K" title="Modèle:Aéroport K">Aéroport K</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_L" title="Modèle:Aéroport L">Aéroport L</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_M" title="Modèle:Aéroport M">Aéroport M</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_N" title="Modèle:Aéroport N">Aéroport N</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_O" title="Modèle:Aéroport O">Aéroport O</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_P" title="Modèle:Aéroport P">Aéroport P</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_Q" title="Modèle:Aéroport Q">Aéroport Q</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_R" title="Modèle:Aéroport R">Aéroport R</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_S" title="Modèle:Aéroport S">Aéroport S</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_T" title="Modèle:Aéroport T">Aéroport T</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_U" title="Modèle:Aéroport U">Aéroport U</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_V" title="Modèle:Aéroport V">Aéroport V</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_W" title="Modèle:Aéroport W">Aéroport W</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_X" title="Modèle:Aéroport X">Aéroport X</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_Y" title="Modèle:Aéroport Y">Aéroport Y</a></li>
+<li><a href="/wiki/Mod%C3%A8le:A%C3%A9roport_Z" title="Modèle:Aéroport Z">Aéroport Z</a></li>
+<li><a href="/wiki/Mod%C3%A8le:BUbreak" title="Modèle:BUbreak">BUbreak</a></li>
+<li><a href="/wiki/Mod%C3%A8le:BUd%C3%A9but" title="Modèle:BUdébut">BUdébut</a></li>
+<li><a href="/wiki/Mod%C3%A8le:BUfin" title="Modèle:BUfin">BUfin</a></li>
+<li><a href="/wiki/Mod%C3%A8le:BUtilisateur" title="Modèle:BUtilisateur">BUtilisateur</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel" title="Modèle:Babel">Babel</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel-1" title="Modèle:Babel-1">Babel-1</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel-2" title="Modèle:Babel-2">Babel-2</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel-3" title="Modèle:Babel-3">Babel-3</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel-4" title="Modèle:Babel-4">Babel-4</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel-5" title="Modèle:Babel-5">Babel-5</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babel-6" title="Modèle:Babel-6">Babel-6</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Babels" title="Modèle:Babels">Babels</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bancontact" title="Modèle:Bancontact">Bancontact</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bancontact/Documentation" title="Modèle:Bancontact/Documentation">Bancontact/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bandeau_de_licence" title="Modèle:Bandeau de licence">Bandeau de licence</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bandeau_flash" title="Modèle:Bandeau flash">Bandeau flash</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re" title="Modèle:Bannière">Bannière</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re/Documentation" title="Modèle:Bannière/Documentation">Bannière/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page" title="Modèle:Bannière page">Bannière page</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page/Documentation" title="Modèle:Bannière page/Documentation">Bannière page/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page/Liste_labels" title="Modèle:Bannière page/Liste labels">Bannière page/Liste labels</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page/Liste_labels_cat%C3%A9gories" title="Modèle:Bannière page/Liste labels catégories">Bannière page/Liste labels catégories</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page/Liste_labels_liens" title="Modèle:Bannière page/Liste labels liens">Bannière page/Liste labels liens</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Banni%C3%A8re_page_utilisateur" title="Modèle:Bannière page utilisateur">Bannière page utilisateur</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Barre_color%C3%A9e" title="Modèle:Barre colorée">Barre colorée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Barre_color%C3%A9e/Documentation" title="Modèle:Barre colorée/Documentation">Barre colorée/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Barre_de_maintenance" title="Modèle:Barre de maintenance">Barre de maintenance</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Barre_de_maintenance_avancement" title="Modèle:Barre de maintenance avancement">Barre de maintenance avancement</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Be" title="Modèle:Be">Be</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Ber" title="Modèle:Ber">Ber</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bg" title="Modèle:Bg">Bg</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bien_d%27importance_suisse" title="Modèle:Bien d&#39;importance suisse">Bien d&#39;importance suisse</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bienvenue" title="Modèle:Bienvenue">Bienvenue</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bienvenue/Documentation" title="Modèle:Bienvenue/Documentation">Bienvenue/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bienvenue_Copyvio" title="Modèle:Bienvenue Copyvio">Bienvenue Copyvio</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bienvenue_Copyvio/Documentation" title="Modèle:Bienvenue Copyvio/Documentation">Bienvenue Copyvio/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bienvenue_IP" title="Modèle:Bienvenue IP">Bienvenue IP</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Blanc" title="Modèle:Blanc">Blanc</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bleu" title="Modèle:Bleu">Bleu</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bleu/Documentation" title="Modèle:Bleu/Documentation">Bleu/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bloqu%C3%A9" title="Modèle:Bloqué">Bloqué</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bloqu%C3%A9/Documentation" title="Modèle:Bloqué/Documentation">Bloqué/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bloqu%C3%A9_sans_avertissement" title="Modèle:Bloqué sans avertissement">Bloqué sans avertissement</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bloqu%C3%A9_sans_avertissement/Documentation" title="Modèle:Bloqué sans avertissement/Documentation">Bloqué sans avertissement/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bn" title="Modèle:Bn">Bn</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bnt" title="Modèle:Bnt">Bnt</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bonjour" title="Modèle:Bonjour">Bonjour</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bonjour/Documentation" title="Modèle:Bonjour/Documentation">Bonjour/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Borne_%C3%A9lectrique" title="Modèle:Borne électrique">Borne électrique</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Borne_%C3%A9lectrique/Documentation" title="Modèle:Borne électrique/Documentation">Borne électrique/Documentation</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bot" title="Modèle:Bot">Bot</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bot/Documentation" title="Modèle:Bot/Documentation">Bot/Documentation</a></li>
+<li><div class="allpagesredirect"><a href="/wiki/Mod%C3%A8le:Bots" class="mw-redirect" title="Modèle:Bots">Bots</a></div></li>
+<li><a href="/wiki/Mod%C3%A8le:Bo%C3%AEte_color%C3%A9e" title="Modèle:Boîte colorée">Boîte colorée</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bo%C3%AEte_des_cat%C3%A9gories" title="Modèle:Boîte des catégories">Boîte des catégories</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bo%C3%AEte_d%C3%A9roulante" title="Modèle:Boîte déroulante">Boîte déroulante</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bo%C3%AEte_d%C3%A9roulante/d%C3%A9but" title="Modèle:Boîte déroulante/début">Boîte déroulante/début</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Bo%C3%AEte_d%C3%A9roulante/fin" title="Modèle:Boîte déroulante/fin">Boîte déroulante/fin</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Br" title="Modèle:Br">Br</a></li>
+<li><a href="/wiki/Mod%C3%A8le:Braille" title="Modèle:Braille">Braille</a></li>
+</ul></div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1240
+Cached time: 20200229072444
+Cache expiry: 386
+Dynamic content: true
+Complications: []
+CPU time usage: 0.128 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 672/1000000
+Post‐expand include size: 11204/2097152 bytes
+Template argument size: 3751/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 45965/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  101.093      1 -total
+ 72.34%   73.127      7 Modèle:Cadre
+ 27.37%   27.673      1 Spécial:PrefixIndex/Modèle:
+  8.18%    8.270      1 Modèle:Projet:Modèles/Demandes
+  6.56%    6.632      5 Modèle:M
+  6.28%    6.353      5 Modèle:Barre_de_maintenance
+  6.28%    6.345      1 Modèle:Heure
+  4.25%    4.301      3 Wikivoyage:Articles_fantômes
+  3.90%    3.947      1 Modèle:Dans
+  2.45%    2.476      1 Modèle:Abréviation_discrète
+-->
+
+<!-- Saved in parser cache with key frwikivoyage:pcache:idhash:12682-0!canonical and timestamp 20200229072444 and revision id 445636
+ -->
+</div><noscript><img src="//fr.wikivoyage.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Récupérée de «&#160;<a dir="ltr" href="https://fr.wikivoyage.org/w/index.php?title=Wikivoyage:Expédition_Modèles&amp;oldid=445636">https://fr.wikivoyage.org/w/index.php?title=Wikivoyage:Expédition_Modèles&amp;oldid=445636</a>&#160;»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Exp%C3%A9dition_de_maintenance" title="Catégorie:Expédition de maintenance">Expédition de maintenance</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Wikivoyage%3AExp%C3%A9dition+Mod%C3%A8les" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikivoyage%3AExp%C3%A9dition+Mod%C3%A8les" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les" title="Voir la page du projet [a]" accesskey="a">Page de projet</a></li><li id="ca-talk"><a href="/wiki/Discussion_Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les">Lire</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;action=edit" title="Modifier le wikicode [e]" accesskey="e">Modifier le wikicode</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikivoyage" title="Rechercher dans Wikivoyage [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Accueil"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/Accueil" title="Visiter la page d’accueil du site [z]" accesskey="z">Accueil</a></li><li id="n-portal"><a href="/wiki/Wikivoyage:Communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-Café-des-voyageurs"><a href="/wiki/Wikivoyage:Caf%C3%A9_des_Voyageurs">Café des voyageurs</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		Dans d’autres projets
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Commons:WikiProject_Templates" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://fr.wikipedia.org/wiki/Projet:Mod%C3%A8le" hreflang="fr">Wikipédia</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Wikivoyage%3AExp%C3%A9dition+Mod%C3%A8les">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Wikivoyage%3AExp%C3%A9dition+Mod%C3%A8les&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;oldid=445636" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5413052" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5413052#sitelinks-wikivoyage" title="Ajouter des liens interlangues" class="wbc-editpage">Ajouter des liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-credits">Cette page a été modifiée la dernière fois le 10 mars 2019 à 09:06 par l&#039;utilisateur <a href="/wiki/Utilisateur:Omondi" title="Utilisateur:Omondi">Omondi</a> sur Wikivoyage. Basé sur le travail de lesutilisateurs <a href="/wiki/Utilisateur:Adehertogh" title="Utilisateur:Adehertogh">Adehertogh</a>, <a href="/wiki/Utilisateur:Benjozork" title="Utilisateur:Benjozork">Benjozork</a>, <a href="/wiki/Utilisateur:Crochet.david.bot" title="Utilisateur:Crochet.david.bot">Crochet.david.bot</a> et <a href="/wiki/Utilisateur:Azariel" title="Utilisateur:Azariel">Azariel</a> sur Wikivoyage.</li>
+		<li id="footer-info-copyright">Les textes sont disponibles sous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ; 
+d’autres conditions peuvent s’appliquer.
+Voyez les <a href="https://foundation.wikimedia.org/wiki/Conditions_d'utilisation">conditions d’utilisation</a> pour plus de détails.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikivoyage:%C3%80_propos_de" class="mw-redirect" title="Wikivoyage:À propos de">À propos de Wikivoyage</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikivoyage:Avertissements" title="Wikivoyage:Avertissements">Avertissements</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikivoyage.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikivoyage.org/w/index.php?title=Wikivoyage:Exp%C3%A9dition_Mod%C3%A8les&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.128","walltime":"0.183","ppvisitednodes":{"value":672,"limit":1000000},"postexpandincludesize":{"value":11204,"limit":2097152},"templateargumentsize":{"value":3751,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":45965,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  101.093      1 -total"," 72.34%   73.127      7 Modèle:Cadre"," 27.37%   27.673      1 Spécial:PrefixIndex/Modèle:","  8.18%    8.270      1 Modèle:Projet:Modèles/Demandes","  6.56%    6.632      5 Modèle:M","  6.28%    6.353      5 Modèle:Barre_de_maintenance","  6.28%    6.345      1 Modèle:Heure","  4.25%    4.301      3 Wikivoyage:Articles_fantômes","  3.90%    3.947      1 Modèle:Dans","  2.45%    2.476      1 Modèle:Abréviation_discrète"]},"cachereport":{"origin":"mw1240","timestamp":"20200229072444","ttl":386,"transientcontent":true}}});mw.config.set({"wgBackendResponseTime":439,"wgHostname":"mw1240"});});</script></body></html>

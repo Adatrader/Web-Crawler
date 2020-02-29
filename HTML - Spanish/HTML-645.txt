@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Huella digital - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XlcimQpAMNYAASyGXicAAAAN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huella_digital","wgTitle":"Huella digital","wgCurRevisionId":123107184,"wgRevisionId":123107184,"wgArticleId":196436,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Wikificar","Wikipedia:Wikificar (aún sin clasificar)","Wikipedia:Artículos que necesitan referencias","Wikipedia:Referenciar informática","Algoritmos","Audio",
+"Procesamiento digital de señales"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Huella_digital","wgRelevantArticleId":196436,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3745713","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Huella_digital&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Huella_digital&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Huella_digital"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huella_digital rootpage-Huella_digital skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Huella digital</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="" class="noprint plainlinks ambox ambox-style">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<img alt="Spanish Language Wiki.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/42px-Spanish_Language_Wiki.svg.png" decoding="async" width="42" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/63px-Spanish_Language_Wiki.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/84px-Spanish_Language_Wiki.svg.png 2x" data-file-width="220" data-file-height="200" /></td>
+<td class="ambox-text"><span class="ambox-text-span"><b>Este artículo o sección  necesita ser <a href="/wiki/Ayuda:Wikificar" title="Ayuda:Wikificar">wikificado</a>, por favor, <a class="external text" href="https://es.wikipedia.org/w/index.php?title=Huella_digital&amp;action=edit">edítalo</a> para que las cumpla con las <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">convenciones de estilo</a>.</b></span> <span class="hide-when-compact"><br /><span style="font-size:88%">Este aviso fue puesto el 29 de noviembre de 2013.</span></span></td>
+</tr>
+</tbody></table>
+<table style="" class="noprint plainlinks ambox ambox-content">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<img alt="Commons-emblem-question book orange.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/45px-Commons-emblem-question_book_orange.svg.png" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/68px-Commons-emblem-question_book_orange.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/90px-Commons-emblem-question_book_orange.svg.png 2x" data-file-width="48" data-file-height="48" /></td>
+<td class="ambox-text"><span class="ambox-text-span">Este artículo o sección necesita <b><a href="/wiki/Wikipedia:VER" class="mw-redirect" title="Wikipedia:VER">referencias</a></b> que aparezcan en una <a href="/wiki/Wikipedia:FF" class="mw-redirect" title="Wikipedia:FF">publicación acreditada</a>.</span> <span class="hide-when-compact"><br /><span style="font-size:88%">Este aviso fue puesto el 29 de noviembre de 2013.</span></span></td>
+</tr>
+</tbody></table>
+<div class="rellink noprint">No se debe confundir con <a href="/wiki/Huella_dactilar" title="Huella dactilar">Huella dactilar</a>.</div>
+<p>La <b>huella digital</b> es un mecanismo para defender los <a href="/wiki/Derechos_de_autor" class="mw-redirect" title="Derechos de autor">derechos de autor</a> y combatir la copia no autorizada de contenidos, que consiste en introducir una serie de <a href="/wiki/Bits" class="mw-redirect" title="Bits">bits</a> imperceptibles sobre un producto de soporte electrónico (<a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>, <a href="/wiki/DVD" title="DVD">DVD</a>,...) de forma que se puedan detectar las copias ilegales.
+</p><p>El objetivo de la tecnología de huella digital es identificar de manera precisa y única a una persona por medio de su huella dactilar, certificando la autenticidad de las personas de manera única e inconfundible por medio de un dispositivo electrónico que captura la huella digital y de un programa que realiza la verificación.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Tipos_de_seguridad"><span class="tocnumber">1</span> <span class="toctext">Tipos de seguridad</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Evolución_histórica"><span class="tocnumber">2</span> <span class="toctext">Evolución histórica</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Consideraciones"><span class="tocnumber">3</span> <span class="toctext">Consideraciones</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Audio_Fingerprinting"><span class="tocnumber">4</span> <span class="toctext">Audio Fingerprinting</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Productos_comerciales_existentes"><span class="tocnumber">5</span> <span class="toctext">Productos comerciales existentes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Monitoreo_de_transmisiones_de_radio_para_propósitos_estadísticos"><span class="tocnumber">5.1</span> <span class="toctext">Monitoreo de transmisiones de radio para propósitos estadísticos</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Filtros_para_P2P_(Peer_to_peer)"><span class="tocnumber">5.2</span> <span class="toctext">Filtros para P2P (Peer to peer)</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Bases_de_datos_para_identificación_y_clasificación_de_contenido"><span class="tocnumber">5.3</span> <span class="toctext">Bases de datos para identificación y clasificación de contenido</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Sistemas_de_identificación_y_clasificación_de_contenido"><span class="tocnumber">5.4</span> <span class="toctext">Sistemas de identificación y clasificación de contenido</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Grupos_de_Investigación_que_trabajan_en_el_tema_y_proyectos_que_tienen_relacionados"><span class="tocnumber">5.5</span> <span class="toctext">Grupos de Investigación que trabajan en el tema y proyectos que tienen relacionados</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Lector_de_huellas_digitales_para_el_control_de_horas_de_empleados"><span class="tocnumber">5.6</span> <span class="toctext">Lector de huellas digitales para el control de horas de empleados</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Notas_y_referencias"><span class="tocnumber">6</span> <span class="toctext">Notas y referencias</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Enlaces_externos"><span class="tocnumber">7</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Tipos_de_seguridad">Tipos de seguridad</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=1" title="Editar sección: Tipos de seguridad">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En los últimos años, debido al uso de <a href="/wiki/Internet" title="Internet">Internet</a>, y sobre todo mediante programas <a href="/wiki/P2P" class="mw-redirect" title="P2P">P2P</a>, ha sucedido que millones de usuarios usaran la red con el fin de compartir copias no autorizadas de contenidos entre ellos, lo cual está protegido por la ley.<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203; En caso de que material bajo <a href="/wiki/Copyright" class="mw-redirect" title="Copyright">copyright</a> o <a href="/wiki/Derechos_de_autor" class="mw-redirect" title="Derechos de autor">derechos de autor</a> se intercambiase ánimo de lucro.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; Cuando nos encontramos en este caso surgen dos posibilidades para impedirlo: la <i>protección a priori</i> y la <i>protección a posteriori</i>. La primera consiste en impedir que el cliente (comprador) pueda realizar una copia del material,<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203; mientras que la segunda consiste en detectar dichas copias.
+Dentro de la comunidad científica hay quien cree que la <i>protección a priori</i>, a la larga, es vulnerable ya que se puede dar con el <a href="/wiki/Algoritmo" title="Algoritmo">algoritmo</a> de protección y por tanto anularlo, de forma que en los últimos años se ha empezado a pensar en la <i>protección a posteriori</i> como una herramienta eficiente para combatir la <a href="/wiki/Pirater%C3%ADa" title="Piratería">piratería</a>. Ésta consiste en insertar un conjunto de <a href="/wiki/Bits" class="mw-redirect" title="Bits">bits</a> (<a href="/wiki/Marca_de_agua_digital" title="Marca de agua digital">marca de agua digital</a>) en los contenidos del producto de soporte electrónico que se quiere proteger sin que esto se note en el resultado final. Si dichas marcas contienen información del comprador, esto nos permite identificarlo y por tanto detectar el responsable de la copia ilegal. Cuando nos encontramos en este caso hablamos de <b>huella digital</b> (fingerprinting).
+</p>
+<h2><span id="Evoluci.C3.B3n_hist.C3.B3rica"></span><span class="mw-headline" id="Evolución_histórica">Evolución histórica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=2" title="Editar sección: Evolución histórica">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Las posibilidades de usar el mecanismo de <b>huella digital</b> se clasifican en tres grupos que han aparecido a lo largo del tiempo: simétrica, asimétrica y anónima.
+</p>
+<ul><li><b>Simétrica</b>: este es el concepto clásico de huella digital propuesto por N. R. Wagner en un artículo en 1983. Consiste en que solo el vendedor interviene en el proceso de marcado con el fin de identificar al comprador a partir de la copia marcada. Este método tiene el inconveniente que deja al comprador desprotegido, ya que puede ser acusado injustamente de distribución ilegal si el vendedor da una copia a otro comprador con la misma marca.</li></ul>
+<ul><li><b>Asimétrica</b>: en el proceso del marcado intervienen tanto el comprador como el vendedor para evitar el fraude antes mencionado. En este caso el vendedor puede identificar al comprador a partir de la marca incrustada pero no la puede generar sin él. El problema de este método es que el vendedor conoce la identidad del comprador con lo que se vulnera el anonimato de este. Para poder resolver este problema surge el mecanismo de huella digital anónima.</li></ul>
+<ul><li><b>Anónima</b>: en este caso en el proceso de marcado ha intervenido una tercera parte de confianza que conozca realmente la identidad del comprador o vendedor. De esta forma el vendedor desconoce tanto la marca como la identidad del comprador, pero es capaz de identificarlo en caso de redistribución ilegal.</li></ul>
+<h2><span class="mw-headline" id="Consideraciones">Consideraciones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=3" title="Editar sección: Consideraciones">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Al usar técnicas de marcas de agua se ha de tener en cuenta que tanto la posición donde insertar la marca como el <a href="/wiki/Algoritmo" title="Algoritmo">algoritmo</a> usado para hacerlo dependerán del tipo de fichero que se quiere proteger (video, audio, imagen, software ...).</li>
+<li>También se ha de tener en cuenta que el producto no ha de sufrir la inclusión de la marca, pero ésta debe ser suficientemente robusta como para mantenerse en caso de una futura modificación, como por ejemplo, si se marca una fotografía, al editarla cambiando el contraste o la saturación, la marca debe mantenerse invariable.</li>
+<li>Finalmente se han de prevenir posibles ataques confabuladores entre varios compradores que, comparando sus copias bit a bit, puedan llegar a generar una nueva marca a partir de las que ellos tienen. De esta forma un buen esquema de huella digital debe disponer de que sea capaz, en un tiempo razonable, de identificar estos confabuladores.</li></ul>
+<h2><span class="mw-headline" id="Audio_Fingerprinting">Audio Fingerprinting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=4" title="Editar sección: Audio Fingerprinting">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Es una tecnología, o técnica, para la identificación de contenido basada en una única y compacta firma derivada de los aspectos relevantes de una grabación de audio. Mediante el uso de un algoritmo especial, las energías de una pieza de sonido se transforman en un código exclusivo para esa pieza, así como ocurre con las huellas dactilares para cada ser humano.
+Dentro de las características que identifica el proceso de fingerprinting están:
+</p>
+<ul><li><a href="/wiki/Energ%C3%ADa" title="Energía">Energía</a>.</li>
+<li><a href="/wiki/Loudness" title="Loudness">Loudness</a>.</li>
+<li>Centroide Espectral.</li>
+<li>Rata de cruces por cero.</li>
+<li><a href="/wiki/Pitch" title="Pitch">Pitch</a>.</li>
+<li><a href="/wiki/Arm%C3%B3nicos" class="mw-redirect" title="Armónicos">Armónicos</a>.</li>
+<li>Spectral flatness.</li>
+<li>Mel-Frequency Cepstral Coefficients o <a href="/wiki/MFCC" title="MFCC">MFCC</a>.</li></ul>
+<p>Las tecnologías de audio fingerprinting, Tecnologías Basadas en Identificación (CBID, por sus siglas en inglés) o los Sistemas de Reconocimiento Automático de Música (Automatic Music Recognition Systems), extraen estas características acústicas, que son las más relevantes de una señal de audio, y las almacena en una base de datos. Estas técnicas permiten que una canción sin identificación, sea analizada para extraer estas características, las compare con las características almacenadas en una base de datos, y se logre una plena identificación de la pieza de audio.
+El término "fingerprinting" ha sido considerado por muchos años como un caso especial de "watermarking" (consistiendo en usar "watermarking" únicamente en las copias legales de una grabación). Sin embargo, el mismo término se ha usado para las técnicas que asocian una señal de audio a una secuencia numérica mucho más corta (la huella o "fingerprint"), y usa esta secuencia para identificar la señal de audio.
+Comparada con Watermarking esta técnica es menos vulnerable a ataques y distorsiones, pues al modificar o distorsionar una Fingerprinting original se alteraría la calidad del sonido de la señal. Esto sucede porque las características que extrae el proceso de fingerprinting son componentes propias más relevantes perceptualmente de la pieza de audio.
+Entre las áreas de aplicaciones se encuentran IA, Procesamiento de señales, Bases de datos, Information Retrieval, Reconocimiento de patrones, y Monitoreo de extractos de audio reproducidos por radiodifusión (broadcasters) y webcasters para control de derechos de autor.
+</p>
+<h2><span class="mw-headline" id="Productos_comerciales_existentes">Productos comerciales existentes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=5" title="Editar sección: Productos comerciales existentes">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Monitoreo_de_transmisiones_de_radio_para_prop.C3.B3sitos_estad.C3.ADsticos"></span><span class="mw-headline" id="Monitoreo_de_transmisiones_de_radio_para_propósitos_estadísticos">Monitoreo de transmisiones de radio para propósitos estadísticos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=6" title="Editar sección: Monitoreo de transmisiones de radio para propósitos estadísticos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Audible Magic: Es un programa que reside en servidores y funciona a modo de proxy monitorizando los datos que pasan por el mismo. El programa incorpora un avanzado sistema de identificación basado en contenidos, bautizado con el nombre de CBID (Content Based Identification). Actualmente su sistema de fingerprinting es capaz de reconocer hasta 3,5 millones de canciones, aunque posee una alta escalabilidad que le permite crecer con el tiempo.Por el momento el programa tan solo es capaz de identificar archivos MP3, aunque sus desarrolladores creen que una próxima versión del mismo podrá impedir la libre descarga de archivos de un determinado tipo."Audible Magic" actualmente está siendo probado en la Universidad estadounidense de Wyoming con buenos resultados y según parece la mitad del ancho de banda de la red universitaria es empleado por los estudiantes para el intercambio de archivos.</li>
+<li>BMAT Vericast: Es un sistema global de identificación de música que monitoriza millones de canciones en aproximadamente 2000 radios y televisiones de más de 50 países. La solución ofrece una identificación a tiempo real y reportes auditables basados en la huella digital o fingerprint del audio que es resistente a alteraciones de la señal como en un canal degradado o ruidoso, cuando la música se utilice de fondo, etc.</li>
+<li>Nielsen BDS (Nielsen Broadcast Data Systems): Es un programa para el seguimiento aéreo para la industria del entretenimiento. Nielsen BDS captura más de 100 millones de canciones anualmente de más de 1.600 estaciones de radio, radio satélites y canales de música por cable para más de 140 tiendas en los E.U. y 30 en Canadá. La información de Nielsen BDS es utilizada exclusivamente por Billboard y por R&amp;R (Radio &amp; Records) para la clasificación en la lista de hits de canciones en las emisoras.</li>
+<li>Muzicast: Provee información general de la música en radio y televisión, ofreciendo gráficas, seguimiento de títulos, análisis de estrategias de programación y canciones más vendidas. La información es actualizada en tiempo real.</li></ul>
+<h3><span id="Filtros_para_P2P_.28Peer_to_peer.29"></span><span class="mw-headline" id="Filtros_para_P2P_(Peer_to_peer)">Filtros para P2P (Peer to peer)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=7" title="Editar sección: Filtros para P2P (Peer to peer)">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>TRM: Es una tecnología de fingerprinting de la compañía Relatable®, que permite a los consumidores disfrutar de su música en diferentes formatos como MP3, CD quemados o dispositivos portables y al mismo tiempo permite que el servidor de música (Music Server Provider) monitoree la introducción y transferencia de música, con derechos de autor, en cualquier formato entre la comunidad de miembros.</li>
+<li>BayTSP’s Content Authentication Platform (CAP): Es un sistema innovador que usa múltiples tecnologías de Fingerprinting y Watermarking para monitorear, y de esta manera prevenir, la copia ilegal de materiales con derechos de autor compartidos en Internet.</li></ul>
+<h3><span id="Bases_de_datos_para_identificaci.C3.B3n_y_clasificaci.C3.B3n_de_contenido"></span><span class="mw-headline" id="Bases_de_datos_para_identificación_y_clasificación_de_contenido">Bases de datos para identificación y clasificación de contenido</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=8" title="Editar sección: Bases de datos para identificación y clasificación de contenido">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>MusicBrainz: Recopila información sobre artistas, sus trabajos discográficos, y de las relaciones entre ellos. Para cada álbum son como mínimo almacenados el título, el nombre de las canciones y la longitud de cada una, adicionalmente se puede guardar el país y fecha de lanzamiento, y el ID del CD además de su fingerprinting.</li></ul>
+<h3><span id="Sistemas_de_identificaci.C3.B3n_y_clasificaci.C3.B3n_de_contenido"></span><span class="mw-headline" id="Sistemas_de_identificación_y_clasificación_de_contenido">Sistemas de identificación y clasificación de contenido</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=9" title="Editar sección: Sistemas de identificación y clasificación de contenido">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Las siguientes tecnologías y productos comerciales identifican y clasifican el contenido de particulares piezas de audio aun si la señal de audio se ha sometido a cierto grado de modificación. Dentro de estas modificaciones se encuentran transformaciones lineales como cambios de nivel o limitación de ancho de banda, que son comunes en el caso de la radiodifusión y transformaciones no lineales como conversiones al formato MP3.
+</p>
+<ul><li>MusicDNS es un servicio de fingerprinting acústico y un kit de desarrollo de software para estos fines, desarrollado por MusicIP. MusicDNS proporciona un método simple y fácil de usar para la identificación acústica de música digital y para la adquisición de metadata correcta. Con tecnología patentada de reconocimiento acústico, MusicDNS indentifica consistentemente la misma grabación musical digital, sin tener en cuenta el idioma o el formato del archivo de audio. Y para mantener actualizada la base de datos, permite que el público en general pueda agregar datos de música por medio de un proceso muy simple.</li>
+<li>Gracenote: El programa Gracenote Mobile MusicID™, de la compañía de música digital Gracenote, usa un formato de fingerprinting y tecnología de búsqueda, combinado con la base de datos "Gracenote Global Media Database®", la cual es la base de datos de información de música más grande del mundo, para dar una solución robusta al problema de identificación musical.</li>
+<li>MusicTrace: La técnica aplicada por este software identifica el material de audio usando un método robusto de comparación y contenidos previamente registrados. Este sistema puede reconocer piezas de audio que están incompletas y en adición, puede reconocer entre varias versiones de una grabación de música; incluso puede distinguir entre varias grabaciones de una particular pieza de música clásica.</li></ul>
+<h3><span id="Grupos_de_Investigaci.C3.B3n_que_trabajan_en_el_tema_y_proyectos_que_tienen_relacionados"></span><span class="mw-headline" id="Grupos_de_Investigación_que_trabajan_en_el_tema_y_proyectos_que_tienen_relacionados">Grupos de Investigación que trabajan en el tema y proyectos que tienen relacionados</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=10" title="Editar sección: Grupos de Investigación que trabajan en el tema y proyectos que tienen relacionados">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Music technology group - Universitat Pompeu Fabra</li></ul>
+<p>El Music Technology Group (MTG) de la Universitat Pompeu Fabra de Barcelona y de su Instituto Audiovisual, es especializado en sonido y música por computador. Con más de 40 investigadores procedentes de diferentes disciplinas y complementarios, el MTG lleva a cabo investigaciones en temas como procesamiento y síntesis de sonido, análisis de contenido de la música, descripción y transformación; sistemas interactivos de música.
+</p>
+<ul><li>Yacast</li></ul>
+<p>El grupo opera en su propio centro de investigación, TEKANO. El equipo cuenta con más de diez ingenieros altamente capacitados y son especialistas en el desarrollo de las tecnologías avanzadas de multimedia: 
+</p>
+<pre>*Adquisición: De música, videos, texto
+*Análisis: Reconocimiento, interpretación y estadística
+*Consolidación: Almacenamiento y modelización
+*Radiodifusión: Internet, streaming, web 3D, inalámbrico, tv interactiva.
+</pre>
+<ul><li>Nielsen media research</li></ul>
+<p>Este grupo de investigación trabaja en audio watermarking y en tecnologías de marcación de audio para identificación de canales y programas. En el ambiente digital estas tecnologías habilitan que los programas sean identificados. Este equipo también hace investigación en las áreas de reconocimiento facial, conteo y rastreo de personas y reconocimiento de voz. 
+</p>
+<ul><li>Signal and multimedia processing group</li></ul>
+<p>Es un grupo del departamento de ingeniería electrónica y de informática de la universidad de Ryerson en Toronto, Canadá, que hace investigación en sistemas de comunicaciones, procesamiento de señales digitales, sistemas de comunicación móviles y wireless, telemedicina, procesamiento de señales multimedia y comunicaciones por computador.
+</p>
+<h3><span class="mw-headline" id="Lector_de_huellas_digitales_para_el_control_de_horas_de_empleados">Lector de huellas digitales para el control de horas de empleados</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=11" title="Editar sección: Lector de huellas digitales para el control de horas de empleados">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Los sistemas de control horario por el método de lector de huella digital utilizan unos terminales para la captura de la información que sustituyen a los antiguos relojes de fichar. Evita el fichaje de unos trabajadores por otros con un mayor nivel de seguridad y precisión.<sup id="cite_ref-Lector_de_huella_digital_4-0" class="reference separada"><a href="#cite_note-Lector_de_huella_digital-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h2><span class="mw-headline" id="Notas_y_referencias">Notas y referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=12" title="Editar sección: Notas y referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Cano, P., Batlle, E., Gómez, E., De C.T.Gomes, L., Bonnet, M., Audio Fingerprinting:Concepts And Applications</li></ul>
+<div class="listaref" style="-moz-column-count:3; -webkit-column-count:3; column-count:3; list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Ley de propiedad intelectual - Artículo <a rel="nofollow" class="external text" href="http://noticias.juridicas.com/base_datos/Admin/rdleg1-1996.l1t3.html#a31">31</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">Código Penal - Capítulo <a rel="nofollow" class="external text" href="http://noticias.juridicas.com/base_datos/Penal/lo10-1995.l2t13.html#c11s1">XI</a>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Lo cual podría ser ilegal por la misma LPI en su artículo <a rel="nofollow" class="external text" href="http://noticias.juridicas.com/base_datos/Admin/rdleg1-1996.l3t5.html#a161">161</a>.</span>
+</li>
+<li id="cite_note-Lector_de_huella_digital-4"><span class="mw-cite-backlink"><a href="#cite_ref-Lector_de_huella_digital_4-0">↑</a></span> <span class="reference-text">Lector de huella digital <a rel="nofollow" class="external free" href="https://www.cucorent.com/es/lector-huella-digital.html">https://www.cucorent.com/es/lector-huella-digital.html</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huella_digital&amp;action=edit&amp;section=13" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://nielsen.com/us/en.html">Web de Nielsen Media</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r118746331">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Ayuda:Control_de_autoridades" title="Ayuda:Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q3745713" class="extiw" title="wikidata:Q3745713">Q3745713</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q3745713" class="extiw" title="wikidata:Q3745713">Q3745713</a></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20200226215139
+Cache expiry: 86400
+Dynamic content: true
+Complications: []
+CPU time usage: 0.164 seconds
+Real time usage: 0.218 seconds
+Preprocessor visited node count: 3046/1000000
+Post‐expand include size: 9803/2097152 bytes
+Template argument size: 2568/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2857/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.060/10.000 seconds
+Lua memory usage: 1.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  182.885      1 -total
+ 43.16%   78.936      2 Plantilla:Metaplantilla_de_avisos
+ 38.73%   70.833      4 Plantilla:Problemas_artículo/validar
+ 31.47%   57.556      1 Plantilla:Wikificar
+ 30.70%   56.150      1 Plantilla:Control_de_autoridades
+ 27.78%   50.804     24 Plantilla:Str_mid
+ 27.09%   49.541     48 Plantilla:Trim
+ 18.52%   33.866      1 Plantilla:Referencias
+  8.63%   15.790      1 Plantilla:Distinguir
+  3.27%    5.979      1 Plantilla:Listaref
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:196436-0!canonical and timestamp 20200226215139 and revision id 123107184
+ -->
+</div><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Huella_digital&amp;oldid=123107184">https://es.wikipedia.org/w/index.php?title=Huella_digital&amp;oldid=123107184</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Algoritmos" title="Categoría:Algoritmos">Algoritmos</a></li><li><a href="/wiki/Categor%C3%ADa:Audio" title="Categoría:Audio">Audio</a></li><li><a href="/wiki/Categor%C3%ADa:Procesamiento_digital_de_se%C3%B1ales" title="Categoría:Procesamiento digital de señales">Procesamiento digital de señales</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Wikificar" title="Categoría:Wikipedia:Wikificar">Wikipedia:Wikificar</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Wikificar_(a%C3%BAn_sin_clasificar)" title="Categoría:Wikipedia:Wikificar (aún sin clasificar)">Wikipedia:Wikificar (aún sin clasificar)</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_que_necesitan_referencias" title="Categoría:Wikipedia:Artículos que necesitan referencias">Wikipedia:Artículos que necesitan referencias</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Referenciar_inform%C3%A1tica" title="Categoría:Wikipedia:Referenciar informática">Wikipedia:Referenciar informática</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Huella+digital" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Huella+digital" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Huella_digital" title="Ver la página de contenido [c]" accesskey="c">Artículo</a></li><li id="ca-talk"><a href="/wiki/Discusi%C3%B3n:Huella_digital" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Huella_digital">Leer</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Huella_digital&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Huella_digital&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Huella+digital">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Huella+digital&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Huella_digital&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Huella_digital" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Huella_digital" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Huella_digital&amp;oldid=123107184" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Huella_digital&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3745713" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Huella_digital&amp;id=123107184" title="Información sobre cómo citar esta página">Citar esta página</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Empremta_digital_multim%C3%A8dia" title="Empremta digital multimèdia (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A8%CE%B7%CF%86%CE%B9%CE%B1%CE%BA%CF%8C_%CE%B1%CF%80%CE%BF%CF%84%CF%8D%CF%80%CF%89%CE%BC%CE%B1_%CE%B4%CE%B5%CE%B4%CE%BF%CE%BC%CE%AD%CE%BD%CF%89%CE%BD" title="Ψηφιακό αποτύπωμα δεδομένων (griego)" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Fingerprint_(computing)" title="Fingerprint (computing) (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%AB%D8%B1_%D8%A7%D9%86%DA%AF%D8%B4%D8%AA_(%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D8%B4)" title="اثر انگشت (رایانش) (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Fingerprint" title="Fingerprint (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88" title="フィンガープリント (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Impress%C3%A3o_digital_(computa%C3%A7%C3%A3o)" title="Impressão digital (computação) (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%82%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D0%BA%D0%B8" title="Цифровые отпечатки (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%B4%D0%B1%D0%B8%D1%82%D0%BA%D0%B8_%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D1%96%D0%B2_(%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Відбитки пальців (інформатика) (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3745713#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 27 ene 2020 a las 19:45.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Huella_digital&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.218","ppvisitednodes":{"value":3046,"limit":1000000},"postexpandincludesize":{"value":9803,"limit":2097152},"templateargumentsize":{"value":2568,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2857,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  182.885      1 -total"," 43.16%   78.936      2 Plantilla:Metaplantilla_de_avisos"," 38.73%   70.833      4 Plantilla:Problemas_artículo/validar"," 31.47%   57.556      1 Plantilla:Wikificar"," 30.70%   56.150      1 Plantilla:Control_de_autoridades"," 27.78%   50.804     24 Plantilla:Str_mid"," 27.09%   49.541     48 Plantilla:Trim"," 18.52%   33.866      1 Plantilla:Referencias","  8.63%   15.790      1 Plantilla:Distinguir","  3.27%    5.979      1 Plantilla:Listaref"]},"scribunto":{"limitreport-timeusage":{"value":"0.060","limit":"10.000"},"limitreport-memusage":{"value":1670691,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20200226215139","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huella digital","url":"https:\/\/es.wikipedia.org\/wiki\/Huella_digital","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3745713","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3745713","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-21T09:12:10Z","dateModified":"2020-01-27T19:45:41Z","headline":"mecanismo para defender los derechos de autor y combatir la copia no autorizada de contenidos"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1372"});});</script></body></html>

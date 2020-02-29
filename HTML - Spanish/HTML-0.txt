@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljHmApAMMAAAc4DmukAAACB","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=J"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"J","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='J' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Isuregui" title="Especial:Todas">Página anterior (Isuregui)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Jonas" title="Especial:Todas">Página siguiente (Jonas)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/J" title="J">J</a></li>
+<li><a href="/wiki/JAL" title="JAL">JAL</a></li>
+<li><a href="/wiki/JESP" title="JESP">JESP</a></li>
+<li><a href="/wiki/JJ.OO." title="JJ.OO.">JJ.OO.</a></li>
+<li><a href="/wiki/JJ._OO." title="JJ. OO.">JJ. OO.</a></li>
+<li><a href="/wiki/JJOO" title="JJOO">JJOO</a></li>
+<li><a href="/wiki/JJ_OO" title="JJ OO">JJ OO</a></li>
+<li><a href="/wiki/Ja" title="Ja">Ja</a></li>
+<li><a href="/wiki/Jaapan" title="Jaapan">Jaapan</a></li>
+<li><a href="/wiki/Jabalpur" title="Jabalpur">Jabalpur</a></li>
+<li><a href="/wiki/Jabal%C3%AD" title="Jabalí">Jabalí</a></li>
+<li><a href="/wiki/Jaboat%C3%A3o" title="Jaboatão">Jaboatão</a></li>
+<li><a href="/wiki/Jaca" title="Jaca">Jaca</a></li>
+<li><a href="/wiki/Jacachoury" title="Jacachoury">Jacachoury</a></li>
+<li><a href="/wiki/Jacacortajarena" title="Jacacortajarena">Jacacortajarena</a></li>
+<li><a href="/wiki/Jacas" title="Jacas">Jacas</a></li>
+<li><a href="/wiki/Jaccachoury" title="Jaccachoury">Jaccachoury</a></li>
+<li><a href="/wiki/Jaccard" title="Jaccard">Jaccard</a></li>
+<li><a href="/wiki/Jacht" title="Jacht">Jacht</a></li>
+<li><a href="/wiki/Jacinta" title="Jacinta">Jacinta</a></li>
+<li><a href="/wiki/Jacinto" title="Jacinto">Jacinto</a></li>
+<li><a href="/wiki/Jack" title="Jack">Jack</a></li>
+<li><a href="/wiki/Jacke" title="Jacke">Jacke</a></li>
+<li><a href="/wiki/Jackeline" title="Jackeline">Jackeline</a></li>
+<li><a href="/wiki/Jackson" title="Jackson">Jackson</a></li>
+<li><a href="/wiki/Jacksonville" title="Jacksonville">Jacksonville</a></li>
+<li><a href="/wiki/Jaclyn" title="Jaclyn">Jaclyn</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li>
+<li><a href="/wiki/Jacoba" title="Jacoba">Jacoba</a></li>
+<li><a href="/wiki/Jacobina" title="Jacobina">Jacobina</a></li>
+<li><a href="/wiki/Jacobo" title="Jacobo">Jacobo</a></li>
+<li><a href="/wiki/Jacobos" title="Jacobos">Jacobos</a></li>
+<li><a href="/wiki/Jacoiste" title="Jacoiste">Jacoiste</a></li>
+<li><a href="/wiki/Jacqueline" title="Jacqueline">Jacqueline</a></li>
+<li><a href="/wiki/Jacques" title="Jacques">Jacques</a></li>
+<li><a href="/wiki/Jacue" title="Jacue">Jacue</a></li>
+<li><a href="/wiki/Jacuralde" title="Jacuralde">Jacuralde</a></li>
+<li><a href="/wiki/Jade" title="Jade">Jade</a></li>
+<li><a href="/wiki/Jadue" title="Jadue">Jadue</a></li>
+<li><a href="/wiki/Jaeger" title="Jaeger">Jaeger</a></li>
+<li><a href="/wiki/Jaffna" title="Jaffna">Jaffna</a></li>
+<li><a href="/wiki/Jahr" title="Jahr">Jahr</a></li>
+<li><a href="/wiki/Jahuelpan" title="Jahuelpan">Jahuelpan</a></li>
+<li><a href="/wiki/Jaime" title="Jaime">Jaime</a></li>
+<li><a href="/wiki/Jaimerena" title="Jaimerena">Jaimerena</a></li>
+<li><a href="/wiki/Jaio" title="Jaio">Jaio</a></li>
+<li><a href="/wiki/Jaipur" title="Jaipur">Jaipur</a></li>
+<li><a href="/wiki/Jairo" title="Jairo">Jairo</a></li>
+<li><a href="/wiki/Jai%C3%B1aga" title="Jaiñaga">Jaiñaga</a></li>
+<li><a href="/wiki/Jajo%C5%A1" title="Jajoš">Jajoš</a></li>
+<li><a href="/wiki/Jakarta" title="Jakarta">Jakarta</a></li>
+<li><a href="/wiki/Jakasia" title="Jakasia">Jakasia</a></li>
+<li><a href="/wiki/Jaka%C5%A1%C3%A1ka" title="Jakašáka">Jakašáka</a></li>
+<li><a href="/wiki/Jake" title="Jake">Jake</a></li>
+<li><a href="/wiki/Jakob" title="Jakob">Jakob</a></li>
+<li><a href="/wiki/Jakutsk" title="Jakutsk">Jakutsk</a></li>
+<li><a href="/wiki/Jalapa_Enr%C3%ADquez" title="Jalapa Enríquez">Jalapa Enríquez</a></li>
+<li><a href="/wiki/Jalil" title="Jalil">Jalil</a></li>
+<li><a href="/wiki/Jalisco" title="Jalisco">Jalisco</a></li>
+<li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li>
+<li><a href="/wiki/Jamaika" title="Jamaika">Jamaika</a></li>
+<li><a href="/wiki/Jamajka" title="Jamajka">Jamajka</a></li>
+<li><a href="/wiki/Jamal" title="Jamal">Jamal</a></li>
+<li><a href="/wiki/Jamarne" title="Jamarne">Jamarne</a></li>
+<li><a href="/wiki/Jambrina" title="Jambrina">Jambrina</a></li>
+<li><a href="/wiki/James" title="James">James</a></li>
+<li><a href="/wiki/Jamin" title="Jamin">Jamin</a></li>
+<li><a href="/wiki/Jaminao" title="Jaminao">Jaminao</a></li>
+<li><a href="/wiki/Jammu" title="Jammu">Jammu</a></li>
+<li><a href="/wiki/Jamnagar" title="Jamnagar">Jamnagar</a></li>
+<li><a href="/wiki/Jamshedpur" title="Jamshedpur">Jamshedpur</a></li>
+<li><a href="/wiki/Jam%C3%ADn" title="Jamín">Jamín</a></li>
+<li><a href="/wiki/Jan" title="Jan">Jan</a></li>
+<li><a href="/wiki/Jana" title="Jana">Jana</a></li>
+<li><a href="/wiki/Janal_Pixan" title="Janal Pixan">Janal Pixan</a></li>
+<li><a href="/wiki/Janariz" title="Janariz">Janariz</a></li>
+<li><a href="/wiki/Jandetegui" title="Jandetegui">Jandetegui</a></li>
+<li><a href="/wiki/Janditegui" title="Janditegui">Janditegui</a></li>
+<li><a href="/wiki/Jane" title="Jane">Jane</a></li>
+<li><a href="/wiki/Janenao" title="Janenao">Janenao</a></li>
+<li><a href="/wiki/Janequeo" title="Janequeo">Janequeo</a></li>
+<li><a href="/wiki/Janet" title="Janet">Janet</a></li>
+<li><a href="/wiki/Janete" title="Janete">Janete</a></li>
+<li><a href="/wiki/Janeth" title="Janeth">Janeth</a></li>
+<li><a href="/wiki/Janett" title="Janett">Janett</a></li>
+<li><a href="/wiki/Janian" title="Janian">Janian</a></li>
+<li><a href="/wiki/Janice" title="Janice">Janice</a></li>
+<li><a href="/wiki/Janire" title="Janire">Janire</a></li>
+<li><a href="/wiki/Janis" title="Janis">Janis</a></li>
+<li><a href="/wiki/Jano" title="Jano">Jano</a></li>
+<li><a href="/wiki/Janowicz" title="Janowicz">Janowicz</a></li>
+<li><a href="/wiki/Jansoro" title="Jansoro">Jansoro</a></li>
+<li><a href="/wiki/Januar" title="Januar">Januar</a></li>
+<li><a href="/wiki/January" title="January">January</a></li>
+<li><a href="/wiki/Januc%C3%A1" title="Janucá">Janucá</a></li>
+<li><a href="/wiki/Jaolaza" title="Jaolaza">Jaolaza</a></li>
+<li><a href="/wiki/Japan" title="Japan">Japan</a></li>
+<li><a href="/wiki/Japanio" title="Japanio">Japanio</a></li>
+<li><a href="/wiki/Japon" title="Japon">Japon</a></li>
+<li><a href="/wiki/Japonia" title="Japonia">Japonia</a></li>
+<li><a href="/wiki/Japonsko" title="Japonsko">Japonsko</a></li>
+<li><a href="/wiki/Japonya" title="Japonya">Japonya</a></li>
+<li><a href="/wiki/Jap%C3%A1n" title="Japán">Japán</a></li>
+<li><a href="/wiki/Jap%C3%A3o" title="Japão">Japão</a></li>
+<li><a href="/wiki/Jap%C3%B3" title="Japó">Japó</a></li>
+<li><a href="/wiki/Jap%C3%B3n" title="Japón">Japón</a></li>
+<li><a href="/wiki/Jaque" title="Jaque">Jaque</a></li>
+<li><a href="/wiki/Jaqueline" title="Jaqueline">Jaqueline</a></li>
+<li><a href="/wiki/Jara" title="Jara">Jara</a></li>
+<li><a href="/wiki/Jarabeitia" title="Jarabeitia">Jarabeitia</a></li>
+<li><a href="/wiki/Jaramillo" title="Jaramillo">Jaramillo</a></li>
+<li><a href="/wiki/Jaranay" title="Jaranay">Jaranay</a></li>
+<li><a href="/wiki/Jaraquemada" title="Jaraquemada">Jaraquemada</a></li>
+<li><a href="/wiki/Jarauta" title="Jarauta">Jarauta</a></li>
+<li><a href="/wiki/Jaray" title="Jaray">Jaray</a></li>
+<li><a href="/wiki/Jare%C3%B1o" title="Jareño">Jareño</a></li>
+<li><a href="/wiki/Jaria" title="Jaria">Jaria</a></li>
+<li><a href="/wiki/Jarkov" title="Jarkov">Jarkov</a></li>
+<li><a href="/wiki/Jaroslavl" title="Jaroslavl">Jaroslavl</a></li>
+<li><a href="/wiki/Jarpa" title="Jarpa">Jarpa</a></li>
+<li><a href="/wiki/Jarraigoicoechea" title="Jarraigoicoechea">Jarraigoicoechea</a></li>
+<li><a href="/wiki/Jartum" title="Jartum">Jartum</a></li>
+<li><a href="/wiki/Jasmin" title="Jasmin">Jasmin</a></li>
+<li><a href="/wiki/Jaso" title="Jaso">Jaso</a></li>
+<li><a href="/wiki/Jason" title="Jason">Jason</a></li>
+<li><a href="/wiki/Jasque" title="Jasque">Jasque</a></li>
+<li><a href="/wiki/Jasso" title="Jasso">Jasso</a></li>
+<li><a href="/wiki/Jasu" title="Jasu">Jasu</a></li>
+<li><a href="/wiki/Jatsu" title="Jatsu">Jatsu</a></li>
+<li><a href="/wiki/Jatsutegi" title="Jatsutegi">Jatsutegi</a></li>
+<li><a href="/wiki/Jaume" title="Jaume">Jaume</a></li>
+<li><a href="/wiki/Jaunanea" title="Jaunanea">Jaunanea</a></li>
+<li><a href="/wiki/Jaunarena" title="Jaunarena">Jaunarena</a></li>
+<li><a href="/wiki/Jaunsaras" title="Jaunsaras">Jaunsaras</a></li>
+<li><a href="/wiki/Jaunsolo" title="Jaunsolo">Jaunsolo</a></li>
+<li><a href="/wiki/Jauntolanda" title="Jauntolanda">Jauntolanda</a></li>
+<li><a href="/wiki/Jauquicoa" title="Jauquicoa">Jauquicoa</a></li>
+<li><a href="/wiki/Jaureaga" title="Jaureaga">Jaureaga</a></li>
+<li><a href="/wiki/Jaureche" title="Jaureche">Jaureche</a></li>
+<li><a href="/wiki/Jaurechi" title="Jaurechi">Jaurechi</a></li>
+<li><a href="/wiki/Jaureghi" title="Jaureghi">Jaureghi</a></li>
+<li><a href="/wiki/Jaureghibehere" title="Jaureghibehere">Jaureghibehere</a></li>
+<li><a href="/wiki/Jaureghibeherry" title="Jaureghibeherry">Jaureghibeherry</a></li>
+<li><a href="/wiki/Jauregialza" title="Jauregialza">Jauregialza</a></li>
+<li><a href="/wiki/Jauregiras" title="Jauregiras">Jauregiras</a></li>
+<li><a href="/wiki/Jauregizar" title="Jauregizar">Jauregizar</a></li>
+<li><a href="/wiki/Jauregueberri" title="Jauregueberri">Jauregueberri</a></li>
+<li><a href="/wiki/Jauregui" title="Jauregui">Jauregui</a></li>
+<li><a href="/wiki/Jauregui-Aramburu" title="Jauregui-Aramburu">Jauregui-Aramburu</a></li>
+<li><a href="/wiki/Jauregui-Arraburu" title="Jauregui-Arraburu">Jauregui-Arraburu</a></li>
+<li><a href="/wiki/Jauregui-Arraburua" title="Jauregui-Arraburua">Jauregui-Arraburua</a></li>
+<li><a href="/wiki/Jaureguia" title="Jaureguia">Jaureguia</a></li>
+<li><a href="/wiki/Jaureguialzo" title="Jaureguialzo">Jaureguialzo</a></li>
+<li><a href="/wiki/Jaureguibarren" title="Jaureguibarren">Jaureguibarren</a></li>
+<li><a href="/wiki/Jaureguibarrena" title="Jaureguibarrena">Jaureguibarrena</a></li>
+<li><a href="/wiki/Jaureguibarria" title="Jaureguibarria">Jaureguibarria</a></li>
+<li><a href="/wiki/Jaureguibehera" title="Jaureguibehera">Jaureguibehera</a></li>
+<li><a href="/wiki/Jaureguibehere" title="Jaureguibehere">Jaureguibehere</a></li>
+<li><a href="/wiki/Jaureguibeitia" title="Jaureguibeitia">Jaureguibeitia</a></li>
+<li><a href="/wiki/Jaureguiber" title="Jaureguiber">Jaureguiber</a></li>
+<li><a href="/wiki/Jaureguibere" title="Jaureguibere">Jaureguibere</a></li>
+<li><a href="/wiki/Jaureguiberri" title="Jaureguiberri">Jaureguiberri</a></li>
+<li><a href="/wiki/Jaureguiberry" title="Jaureguiberry">Jaureguiberry</a></li>
+<li><a href="/wiki/Jaureguicahar" title="Jaureguicahar">Jaureguicahar</a></li>
+<li><a href="/wiki/Jaureguigoiri" title="Jaureguigoiri">Jaureguigoiri</a></li>
+<li><a href="/wiki/Jaureguigoyen" title="Jaureguigoyen">Jaureguigoyen</a></li>
+<li><a href="/wiki/Jaureguigoyhen" title="Jaureguigoyhen">Jaureguigoyhen</a></li>
+<li><a href="/wiki/Jaureguilorda" title="Jaureguilorda">Jaureguilorda</a></li>
+<li><a href="/wiki/Jaureguiondo" title="Jaureguiondo">Jaureguiondo</a></li>
+<li><a href="/wiki/Jaureguisarra" title="Jaureguisarra">Jaureguisarra</a></li>
+<li><a href="/wiki/Jaureguiterri" title="Jaureguiterri">Jaureguiterri</a></li>
+<li><a href="/wiki/Jaureguito" title="Jaureguito">Jaureguito</a></li>
+<li><a href="/wiki/Jaureguizahar" title="Jaureguizahar">Jaureguizahar</a></li>
+<li><a href="/wiki/Jaureguizar" title="Jaureguizar">Jaureguizar</a></li>
+<li><a href="/wiki/Jaureguizarra" title="Jaureguizarra">Jaureguizarra</a></li>
+<li><a href="/wiki/Jaureguizuria" title="Jaureguizuria">Jaureguizuria</a></li>
+<li><a href="/wiki/Jaureguy" title="Jaureguy">Jaureguy</a></li>
+<li><a href="/wiki/Jaurena" title="Jaurena">Jaurena</a></li>
+<li><a href="/wiki/Jauretche" title="Jauretche">Jauretche</a></li>
+<li><a href="/wiki/Jaureuguiberry" title="Jaureuguiberry">Jaureuguiberry</a></li>
+<li><a href="/wiki/Jaurexe" title="Jaurexe">Jaurexe</a></li>
+<li><a href="/wiki/Jaurgain" title="Jaurgain">Jaurgain</a></li>
+<li><a href="/wiki/Jaurghiberri" title="Jaurghiberri">Jaurghiberri</a></li>
+<li><a href="/wiki/Jaurgui" title="Jaurgui">Jaurgui</a></li>
+<li><a href="/wiki/Jauri" title="Jauri">Jauri</a></li>
+<li><a href="/wiki/Jauriberrie" title="Jauriberrie">Jauriberrie</a></li>
+<li><a href="/wiki/Jauriberry" title="Jauriberry">Jauriberry</a></li>
+<li><a href="/wiki/Jaurigiberri" title="Jaurigiberri">Jaurigiberri</a></li>
+<li><a href="/wiki/Jaurigoity" title="Jaurigoity">Jaurigoity</a></li>
+<li><a href="/wiki/Jaurigui" title="Jaurigui">Jaurigui</a></li>
+<li><a href="/wiki/Jaurola" title="Jaurola">Jaurola</a></li>
+<li><a href="/wiki/Jaurreguiberry" title="Jaurreguiberry">Jaurreguiberry</a></li>
+<li><a href="/wiki/Jaurreta" title="Jaurreta">Jaurreta</a></li>
+<li><a href="/wiki/Jaurretche" title="Jaurretche">Jaurretche</a></li>
+<li><a href="/wiki/Jaurrieta" title="Jaurrieta">Jaurrieta</a></li>
+<li><a href="/wiki/Jausolo" title="Jausolo">Jausolo</a></li>
+<li><a href="/wiki/Jausoro" title="Jausoro">Jausoro</a></li>
+<li><a href="/wiki/Java" title="Java">Java</a></li>
+<li><a href="/wiki/Javalquinto" title="Javalquinto">Javalquinto</a></li>
+<li><a href="/wiki/Javier" title="Javier">Javier</a></li>
+<li><a href="/wiki/Javiera" title="Javiera">Javiera</a></li>
+<li><a href="/wiki/Javierre" title="Javierre">Javierre</a></li>
+<li><a href="/wiki/Jax" title="Jax">Jax</a></li>
+<li><a href="/wiki/Jaxaja" title="Jaxaja">Jaxaja</a></li>
+<li><a href="/wiki/Jayapura" title="Jayapura">Jayapura</a></li>
+<li><a href="/wiki/Jayo" title="Jayo">Jayo</a></li>
+<li><a href="/wiki/Jazm%C3%ADn" title="Jazmín">Jazmín</a></li>
+<li><a href="/wiki/Ja%C3%A9n" title="Jaén">Jaén</a></li>
+<li><a href="/wiki/Ja%C3%B1a" title="Jaña">Jaña</a></li>
+<li><a href="/wiki/Ja%C5%A1alaja" title="Jašalaja">Jašalaja</a></li>
+<li><a href="/wiki/Jean" title="Jean">Jean</a></li>
+<li><a href="/wiki/Jeanette" title="Jeanette">Jeanette</a></li>
+<li><a href="/wiki/Jeaninne" title="Jeaninne">Jeaninne</a></li>
+<li><a href="/wiki/Jeanne" title="Jeanne">Jeanne</a></li>
+<li><a href="/wiki/Jeannette" title="Jeannette">Jeannette</a></li>
+<li><a href="/wiki/Jeannin" title="Jeannin">Jeannin</a></li>
+<li><a href="/wiki/Jeannine" title="Jeannine">Jeannine</a></li>
+<li><a href="/wiki/Jeans" title="Jeans">Jeans</a></li>
+<li><a href="/wiki/Jeb%C3%BAs" title="Jebús">Jebús</a></li>
+<li><a href="/wiki/Jeddah" title="Jeddah">Jeddah</a></li>
+<li><a href="/wiki/Jehov%C3%A1" title="Jehová">Jehová</a></li>
+<li><a href="/wiki/Jeju" title="Jeju">Jeju</a></li>
+<li><a href="/wiki/Jeldes" title="Jeldes">Jeldes</a></li>
+<li><a href="/wiki/Jelec" title="Jelec">Jelec</a></li>
+<li><a href="/wiki/Jelves" title="Jelves">Jelves</a></li>
+<li><a href="/wiki/Jemen" title="Jemen">Jemen</a></li>
+<li><a href="/wiki/Jemenao" title="Jemenao">Jemenao</a></li>
+<li><a href="/wiki/Jemeneo" title="Jemeneo">Jemeneo</a></li>
+<li><a href="/wiki/Jen" title="Jen">Jen</a></li>
+<li><a href="/wiki/Jena" title="Jena">Jena</a></li>
+<li><a href="/wiki/Jenenao" title="Jenenao">Jenenao</a></li>
+<li><a href="/wiki/Jenifra" title="Jenifra">Jenifra</a></li>
+<li><a href="/wiki/Jennie" title="Jennie">Jennie</a></li>
+<li><a href="/wiki/Jennifer" title="Jennifer">Jennifer</a></li>
+<li><a href="/wiki/Jenniffer" title="Jenniffer">Jenniffer</a></li>
+<li><a href="/wiki/Jenny" title="Jenny">Jenny</a></li>
+<li><a href="/wiki/Jeraldo" title="Jeraldo">Jeraldo</a></li>
+<li><a href="/wiki/Jerardo" title="Jerardo">Jerardo</a></li>
+<li><a href="/wiki/Jeremiah" title="Jeremiah">Jeremiah</a></li>
+<li><a href="/wiki/Jeremija" title="Jeremija">Jeremija</a></li>
+<li><a href="/wiki/Jeremijo_knyga" title="Jeremijo knyga">Jeremijo knyga</a></li>
+<li><a href="/wiki/Jerem%C3%ADas" title="Jeremías">Jeremías</a></li>
+<li><a href="/wiki/Jerevan" title="Jerevan">Jerevan</a></li>
+<li><a href="/wiki/Jerevanas" title="Jerevanas">Jerevanas</a></li>
+<li><a href="/wiki/Jerev%C3%A1n" title="Jereván">Jereván</a></li>
+<li><a href="/wiki/Jerez" title="Jerez">Jerez</a></li>
+<li><a href="/wiki/Jerezano" title="Jerezano">Jerezano</a></li>
+<li><a href="/wiki/Jeria" title="Jeria">Jeria</a></li>
+<li><a href="/wiki/Jerman" title="Jerman">Jerman</a></li>
+<li><a href="/wiki/Jero" title="Jero">Jero</a></li>
+<li><a href="/wiki/Jerome" title="Jerome">Jerome</a></li>
+<li><a href="/wiki/Jeropeeske_Uny" title="Jeropeeske Uny">Jeropeeske Uny</a></li>
+<li><a href="/wiki/Jerry" title="Jerry">Jerry</a></li>
+<li><a href="/wiki/Jersey" title="Jersey">Jersey</a></li>
+<li><a href="/wiki/Jersey_City" title="Jersey City">Jersey City</a></li>
+<li><a href="/wiki/Jers%C3%B3n" title="Jersón">Jersón</a></li>
+<li><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></li>
+<li><a href="/wiki/Jerusal%C3%A9n" title="Jerusalén">Jerusalén</a></li>
+<li><a href="/wiki/Jerzy" title="Jerzy">Jerzy</a></li>
+<li><a href="/wiki/Jer%C3%B3nimo" title="Jerónimo">Jerónimo</a></li>
+<li><a href="/wiki/Jesaja" title="Jesaja">Jesaja</a></li>
+<li><a href="/wiki/Jesica" title="Jesica">Jesica</a></li>
+<li><a href="/wiki/Jessica" title="Jessica">Jessica</a></li>
+<li><a href="/wiki/Jesucristo" title="Jesucristo">Jesucristo</a></li>
+<li><a href="/wiki/Jesucristos" title="Jesucristos">Jesucristos</a></li>
+<li><a href="/wiki/Jesus" title="Jesus">Jesus</a></li>
+<li><a href="/wiki/Jesusa" title="Jesusa">Jesusa</a></li>
+<li><a href="/wiki/Jes%C3%BAs" title="Jesús">Jesús</a></li>
+<li><a href="/wiki/Jes%C3%BAs_de_Nazaret" title="Jesús de Nazaret">Jesús de Nazaret</a></li>
+<li><a href="/wiki/Jet%C3%A1ita" title="Jetáita">Jetáita</a></li>
+<li><a href="/wiki/Jevilao" title="Jevilao">Jevilao</a></li>
+<li><a href="/wiki/Jewess" title="Jewess">Jewess</a></li>
+<li><a href="/wiki/Je%C5%A1kaoa" title="Ješkaoa">Ješkaoa</a></li>
+<li><a href="/wiki/Je%C5%A1kus%C3%ADn" title="Ješkusín">Ješkusín</a></li>
+<li><a href="/wiki/Jhang_Maghiana" title="Jhang Maghiana">Jhang Maghiana</a></li>
+<li><a href="/wiki/Jhansi" title="Jhansi">Jhansi</a></li>
+<li><a href="/wiki/Jiamusi" title="Jiamusi">Jiamusi</a></li>
+<li><a href="/wiki/Jidda" title="Jidda">Jidda</a></li>
+<li><a href="/wiki/Jihad" title="Jihad">Jihad</a></li>
+<li><a href="/wiki/Jihoafrick%C3%A1_republika" title="Jihoafrická republika">Jihoafrická republika</a></li>
+<li><a href="/wiki/Jil" title="Jil">Jil</a></li>
+<li><a href="/wiki/Jilin" title="Jilin">Jilin</a></li>
+<li><a href="/wiki/Jim" title="Jim">Jim</a></li>
+<li><a href="/wiki/Jimena" title="Jimena">Jimena</a></li>
+<li><a href="/wiki/Jimenao" title="Jimenao">Jimenao</a></li>
+<li><a href="/wiki/Jimenes" title="Jimenes">Jimenes</a></li>
+<li><a href="/wiki/Jimenez" title="Jimenez">Jimenez</a></li>
+<li><a href="/wiki/Jimeno" title="Jimeno">Jimeno</a></li>
+<li><a href="/wiki/Jimmy" title="Jimmy">Jimmy</a></li>
+<li><a href="/wiki/Jim%C3%A9n" title="Jimén">Jimén</a></li>
+<li><a href="/wiki/Jim%C3%A9nez" title="Jiménez">Jiménez</a></li>
+<li><a href="/wiki/Jinan" title="Jinan">Jinan</a></li>
+<li><a href="/wiki/Jineo" title="Jineo">Jineo</a></li>
+<li><a href="/wiki/Jingdezhen" title="Jingdezhen">Jingdezhen</a></li>
+<li><a href="/wiki/Jino" title="Jino">Jino</a></li>
+<li><a href="/wiki/Jinzhou" title="Jinzhou">Jinzhou</a></li>
+<li><a href="/wiki/Jispi%C3%A1n" title="Jispián">Jispián</a></li>
+<li><a href="/wiki/Jiujiang" title="Jiujiang">Jiujiang</a></li>
+<li><a href="/wiki/Ji%C5%BEn%C3%AD_Korea" title="Jižní Korea">Jižní Korea</a></li>
+<li class="allpagesredirect"><a href="/wiki/Jo%27" class="mw-redirect" title="Jo&#039;">Jo&#039;</a></li>
+<li><a href="/wiki/Joachim" title="Joachim">Joachim</a></li>
+<li><a href="/wiki/Joaco" title="Joaco">Joaco</a></li>
+<li><a href="/wiki/Joakim" title="Joakim">Joakim</a></li>
+<li><a href="/wiki/Joan" title="Joan">Joan</a></li>
+<li><a href="/wiki/Joanaberria" title="Joanaberria">Joanaberria</a></li>
+<li><a href="/wiki/Joangain" title="Joangain">Joangain</a></li>
+<li><a href="/wiki/Joanlucea" title="Joanlucea">Joanlucea</a></li>
+<li><a href="/wiki/Joanmiguel" title="Joanmiguel">Joanmiguel</a></li>
+<li><a href="/wiki/Joanteguy" title="Joanteguy">Joanteguy</a></li>
+<li><a href="/wiki/Joaquim" title="Joaquim">Joaquim</a></li>
+<li><a href="/wiki/Joaquina" title="Joaquina">Joaquina</a></li>
+<li><a href="/wiki/Joaqu%C3%ADn" title="Joaquín">Joaquín</a></li>
+<li><a href="/wiki/Joaristi" title="Joaristi">Joaristi</a></li>
+<li><a href="/wiki/Job" title="Job">Job</a></li>
+<li><a href="/wiki/Jobet" title="Jobet">Jobet</a></li>
+<li><a href="/wiki/Jobo_knyga" title="Jobo knyga">Jobo knyga</a></li>
+<li><a href="/wiki/Jocano" title="Jocano">Jocano</a></li>
+<li><a href="/wiki/Jocelyn" title="Jocelyn">Jocelyn</a></li>
+<li><a href="/wiki/Jocelyne" title="Jocelyne">Jocelyne</a></li>
+<li><a href="/wiki/Jod" title="Jod">Jod</a></li>
+<li><a href="/wiki/Jodhpur" title="Jodhpur">Jodhpur</a></li>
+<li><a href="/wiki/Joe" title="Joe">Joe</a></li>
+<li><a href="/wiki/Joegoslavi%C3%AB" title="Joegoslavië">Joegoslavië</a></li>
+<li><a href="/wiki/Joel" title="Joel">Joel</a></li>
+<li><a href="/wiki/Joelio_knyga" title="Joelio knyga">Joelio knyga</a></li>
+<li><a href="/wiki/Joey" title="Joey">Joey</a></li>
+<li><a href="/wiki/Jofr%C3%A9" title="Jofré">Jofré</a></li>
+<li><a href="/wiki/Joghurt" title="Joghurt">Joghurt</a></li>
+<li><a href="/wiki/Johan" title="Johan">Johan</a></li>
+<li><a href="/wiki/Johana" title="Johana">Johana</a></li>
+<li><a href="/wiki/Johanesburgo" title="Johanesburgo">Johanesburgo</a></li>
+<li><a href="/wiki/Johann" title="Johann">Johann</a></li>
+<li><a href="/wiki/Johanna" title="Johanna">Johanna</a></li>
+<li><a href="/wiki/Johanne" title="Johanne">Johanne</a></li>
+<li><a href="/wiki/Johannes" title="Johannes">Johannes</a></li>
+<li><a href="/wiki/Johannesburgo" title="Johannesburgo">Johannesburgo</a></li>
+<li><a href="/wiki/Johannisbeere" title="Johannisbeere">Johannisbeere</a></li>
+<li><a href="/wiki/Johany" title="Johany">Johany</a></li>
+<li><a href="/wiki/John" title="John">John</a></li>
+<li><a href="/wiki/Johnny" title="Johnny">Johnny</a></li>
+<li><a href="/wiki/Johnson" title="Johnson">Johnson</a></li>
+<li><a href="/wiki/Johor_Baharu" title="Johor Baharu">Johor Baharu</a></li>
+<li><a href="/wiki/Joinville" title="Joinville">Joinville</a></li>
+<li><a href="/wiki/Jok%C5%ABbo_lai%C5%A1kas" title="Jokūbo laiškas">Jokūbo laiškas</a></li>
+<li><a href="/wiki/Jonah" title="Jonah">Jonah</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Isuregui" title="Especial:Todas">Página anterior (Isuregui)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Jonas" title="Especial:Todas">Página siguiente (Jonas)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DJ" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DJ" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=J" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=J&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=J&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":281,"wgHostname":"mw1350"});});</script></body></html>

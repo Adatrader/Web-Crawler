@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Système de Ponzi — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XloCzwpAME8AAGzygkwAAADO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Système_de_Ponzi","wgTitle":"Système de Ponzi","wgCurRevisionId":165651761,"wgRevisionId":165651761,"wgArticleId":94662,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article contenant un appel à traduction en anglais","Portail:Criminologie/Articles liés","Portail:Sciences humaines et sociales/Articles liés","Portail:Finance/Articles liés"
+,"Portail:Économie/Articles liés","Spéculation","Escroquerie","Criminalité financière"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Système_de_Ponzi","wgRelevantArticleId":94662,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Chaîne_de_Ponzi","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Syst%C3%A8me_de_Ponzi","wgWikibaseItemId":"Q219407","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_Ponzi"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Système_de_Ponzi rootpage-Système_de_Ponzi skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Système de Ponzi</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirigé depuis <a href="/w/index.php?title=Cha%C3%AEne_de_Ponzi&amp;redirect=no" class="mw-redirect" title="Chaîne de Ponzi">Chaîne de Ponzi</a>)</span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Un <b>système de Ponzi</b> est un <a href="/wiki/Escroquerie" title="Escroquerie">montage financier frauduleux</a> qui consiste à rémunérer les investissements des clients essentiellement par les fonds procurés par les nouveaux entrants. Si l'escroquerie n'est pas découverte, elle apparaît au grand jour au moment où elle s'écroule, c'est-à-dire quand les sommes procurées par les nouveaux entrants ne suffisent plus à couvrir les rémunérations des clients<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>. Elle tient son nom de <a href="/wiki/Charles_Ponzi" title="Charles Ponzi">Charles Ponzi</a> qui est devenu célèbre après avoir mis en place une opération fondée sur ce principe à <a href="/wiki/Boston" title="Boston">Boston</a> dans les <a href="/wiki/Ann%C3%A9es_1920" title="Années 1920">années 1920</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2 id="mw-toc-heading">Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Descriptif"><span class="tocnumber">1</span> <span class="toctext">Descriptif</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Mise_en_situation"><span class="tocnumber">1.1</span> <span class="toctext">Mise en situation</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Modèle_mathématique"><span class="tocnumber">1.2</span> <span class="toctext">Modèle mathématique</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Historique"><span class="tocnumber">2</span> <span class="toctext">Historique</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Cas_célèbres"><span class="tocnumber">3</span> <span class="toctext">Cas célèbres</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Dans_la_fiction"><span class="tocnumber">4</span> <span class="toctext">Dans la fiction</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes_et_références"><span class="tocnumber">5</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Voir_aussi"><span class="tocnumber">6</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Articles_connexes"><span class="tocnumber">6.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Liens_externes"><span class="tocnumber">6.2</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Descriptif">Descriptif</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Descriptif">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=1" title="Modifier la section : Descriptif">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mise_en_situation">Mise en situation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Mise en situation">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=2" title="Modifier la section : Mise en situation">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Imaginons que quelqu'un propose un investissement à 100&#160;% d'intérêts&#160;: vous lui donnez 10&#160;euros, il vous en rend 20 en utilisant l'argent déposé par les clients suivants (il lui suffit d'ailleurs de proposer un rendement double des rendements connus du marché pour s'attirer de la clientèle et pour durer). Le système est viable tant que la clientèle afflue, attirée en masse par les promesses financières (et d'autant plus tentantes que les premiers investisseurs sont satisfaits et font une formidable publicité au placement). Les premiers clients, trop heureux de ce placement mirifique, replacent leur argent eux aussi, s'ajoutant à tous ceux qu'ils ont réussi à convaincre. 
+</p><p>Le phénomène fait alors boule de neige, entretenu tant que l'argent est versé et permet de payer à 100&#160;% les nouveaux investisseurs. L'organisateur prend une commission, bien compréhensible lorsque l'on voit les promesses qu'il fait, et qu'il tient. Le système peut durer tant que la demande suit la croissance exponentielle imposée par ce système, les clients arrivant par 2, 4, 8, 16, 32, etc. Lorsque les nouveaux arrivants se raréfient, la dynamique de la chaîne se brise, la bulle éclate&#160;: les derniers et nombreux investisseurs sont spoliés. Les rares gagnants sont ceux qui ont quitté le navire à temps. (et l'organisateur...)
+</p>
+<h3><span id="Mod.C3.A8le_math.C3.A9matique"></span><span class="mw-headline" id="Modèle_mathématique">Modèle mathématique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Modèle mathématique">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=3" title="Modifier la section : Modèle mathématique">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Le mathématicien Marc Artzrouni modélise les systèmes de Ponzi en utilisant des <a href="/wiki/%C3%89quation_diff%C3%A9rentielle_lin%C3%A9aire" title="Équation différentielle linéaire">équations différentielles linéaires</a> du premier ordre<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>.
+</p><p>Soit un fonds avec un dépôt initial <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle K&gt;0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>K</mi>
+        <mo>&gt;</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle K&gt;0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f89502f5e80eaec4b6f5b1f822aebd0c50d0a303" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:6.327ex; height:2.176ex;" alt="K&gt;0"/></span> au temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t=0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+        <mo>=</mo>
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t=0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43469ec032d858feae5aa87029e22eaaf0109e9c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.101ex; height:2.176ex;" alt="t=0"/></span>, un flux de capitaux entrant de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle s(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c484de351ba40ccb9a5ad522c29c1aac5686c0df" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.739ex; height:2.843ex;" alt="s(t)"/></span>, un taux de rendement promis <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d02ec163fac8837ac757005d783b375e52808b97" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.108ex; height:2.343ex;" alt="r_{p}"/></span> et un taux de rendement effectif <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{n}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/57784cdf7f49f2c46baad4eb7b6a7d5c14eb5fa4" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.267ex; height:2.009ex;" alt="r_{n}"/></span>. Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{n}\geq r_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2265;<!-- ≥ --></mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{n}\geq r_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e2dd091c2540b4ca8031a54e9c0ab3ce9b919ce" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.473ex; height:2.676ex;" alt="r_{n}\geq r_{p}"/></span> alors le fonds est légal et possède un taux de profit de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{n}-r_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{n}-r_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae76735bee178e0dca0d70516e4534e1f0f9c1ac" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.215ex; height:2.676ex;" alt="r_{n}-r_{p}"/></span>. Si par contre <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{n}&lt;r_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>&lt;</mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{n}&lt;r_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ceadeadbe566a042d3efbe9bf75bfe2912e602ad" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:7.473ex; height:2.509ex;" alt="r_{n}&lt;r_{p}"/></span>, alors le fonds promet plus d'argent qu'il ne peut en obtenir. Dans ce cas, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{p}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>p</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{p}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d02ec163fac8837ac757005d783b375e52808b97" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.005ex; width:2.108ex; height:2.343ex;" alt="r_{p}"/></span> est appelé le taux de Ponzi.
+</p><p>Il faut aussi modéliser les retraits faits par les investisseurs. Pour ce faire, nous définissons un taux de retrait constant <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{w}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>w</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{w}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c460e977aa57d4d3159f657865972e3b61be3135" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.458ex; height:2.009ex;" alt="r_{w}"/></span>, appliqué à tout temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span> sur le capital accumulé promis. Le retrait au temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span> vaut donc <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{w}Ke^{(r_{p}-r_{w})t}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>w</mi>
+          </mrow>
+        </msub>
+        <mi>K</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mo>&#x2212;<!-- − --></mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>w</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{w}Ke^{(r_{p}-r_{w})t}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8606bf10c83b99ecfb5c86a1f79c4df5ca66591" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.429ex; height:3.176ex;" alt="r_{w}Ke^{{(r_{p}-r_{w})t}}"/></span>. Il faut aussi ajouter les retraits des investisseurs qui sont arrivés entre le temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aae8864a3c1fec9585261791a809ddec1489950" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;" alt="{\displaystyle 0}"/></span> et le temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span>, à savoir ceux qui ont investi <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle s(u)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s(u)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9f408175c16d9c9b4d3fa66bceeb08a934af320f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.229ex; height:2.843ex;" alt="s(u)"/></span> au temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle u}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>u</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle u}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3e6bb763d22c20916ed4f0bb6bd49d7470cffd8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="u"/></span>. Le retrait pour ces investisseurs est donc de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{w}s(u)e^{(r_{p}-r_{w})(t-u)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>w</mi>
+          </mrow>
+        </msub>
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mo>&#x2212;<!-- − --></mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>w</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>u</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{w}s(u)e^{(r_{p}-r_{w})(t-u)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/617ce0ff8024eb96883cbb93bcbd1770947039e8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:18.091ex; height:3.343ex;" alt="r_{w}s(u)e^{{(r_{p}-r_{w})(t-u)}}"/></span>. En intégrant ces retraits entre <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 0}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>0</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 0}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2aae8864a3c1fec9585261791a809ddec1489950" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;" alt="{\displaystyle 0}"/></span> et <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span> et en ajoutant les retraits des investisseurs initiaux, nous obtenons&#160;: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle W(t)=r_{w}(Ke^{(r_{p}-r_{w})t}+\int _{0}^{t}s(u)e^{(r_{p}-r_{w})(t-u)}du)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>w</mi>
+          </mrow>
+        </msub>
+        <mo stretchy="false">(</mo>
+        <mi>K</mi>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mo>&#x2212;<!-- − --></mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>w</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <mi>t</mi>
+          </mrow>
+        </msup>
+        <mo>+</mo>
+        <msubsup>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>t</mi>
+          </mrow>
+        </msubsup>
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+        <msup>
+          <mi>e</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>p</mi>
+              </mrow>
+            </msub>
+            <mo>&#x2212;<!-- − --></mo>
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>w</mi>
+              </mrow>
+            </msub>
+            <mo stretchy="false">)</mo>
+            <mo stretchy="false">(</mo>
+            <mi>t</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mi>u</mi>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msup>
+        <mi>d</mi>
+        <mi>u</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W(t)=r_{w}(Ke^{(r_{p}-r_{w})t}+\int _{0}^{t}s(u)e^{(r_{p}-r_{w})(t-u)}du)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d09f0a8ceaed22e41b405f3bc39f8614c8bbcfb7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.338ex; width:47.117ex; height:6.176ex;" alt="W(t)=r_{w}(Ke^{{(r_{p}-r_{w})t}}+\int _{0}^{t}s(u)e^{{(r_{p}-r_{w})(t-u)}}du)"/></span>
+</p><p>Si <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed5c98226fcae6540afa928ccb8c2245844ac0a8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.148ex; height:2.843ex;" alt="S(t)"/></span> est la valeur du fonds au temps <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.84ex; height:2.009ex;" alt="t"/></span>, alors <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(t+dt)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>+</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(t+dt)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/02190cdac45c498ea2d6d39c0c6d7d8d42f00a14" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:9.044ex; height:2.843ex;" alt="S(t+dt)"/></span> est obtenu en ajoutant à <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ed5c98226fcae6540afa928ccb8c2245844ac0a8" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:4.148ex; height:2.843ex;" alt="S(t)"/></span> l'intérêt nominal <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r_{n}S(t+dt)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>+</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r_{n}S(t+dt)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ad9cab6a003b923010ec953482619de276299de" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:11.311ex; height:2.843ex;" alt="r_{n}S(t+dt)"/></span>, le flux de capitaux entrant <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle s(t)dt}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle s(t)dt}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/abccbe270a5a1b095877596e7759f00dcbe22ff5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.795ex; height:2.843ex;" alt="s(t)dt"/></span> et en soustrayant les retraits <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle W(t)dt}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>W</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle W(t)dt}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/597971f41b9190284aa018425d9843d7579534fb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:7.14ex; height:2.843ex;" alt="W(t)dt"/></span>. Nous obtenons donc <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle S(t+dt)=S(t)+(r_{n}S(t)+s(t)-W(t))dt}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>+</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>W</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">)</mo>
+        <mi>d</mi>
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle S(t+dt)=S(t)+(r_{n}S(t)+s(t)-W(t))dt}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f386680f84f2e12a461b951856cd0cc416836705" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:43.915ex; height:2.843ex;" alt="S(t+dt)=S(t)+(r_{n}S(t)+s(t)-W(t))dt"/></span>, ce qui conduit à l'<a href="/wiki/%C3%89quation_diff%C3%A9rentielle_lin%C3%A9aire" title="Équation différentielle linéaire">équation différentielle linéaire</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle dS(t)/dt=r_{n}S(t)+s(t)-W(t)}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mi>S</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mi>s</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>W</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle dS(t)/dt=r_{n}S(t)+s(t)-W(t)}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa4a92588579fb26a84e46cbec8a2a4543703c15" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:32.6ex; height:2.843ex;" alt="dS(t)/dt=r_{n}S(t)+s(t)-W(t)"/></span>.
+</p>
+<h2><span class="mw-headline" id="Historique">Historique</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Historique">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=4" title="Modifier la section : Historique">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Fichier:Charles_Ponzi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Charles_Ponzi.jpg/220px-Charles_Ponzi.jpg" decoding="async" width="220" height="132" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Charles_Ponzi.jpg/330px-Charles_Ponzi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Charles_Ponzi.jpg/440px-Charles_Ponzi.jpg 2x" data-file-width="600" data-file-height="360" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Fichier:Charles_Ponzi.jpg" class="internal" title="Agrandir"></a></div>Photographie de Charles Ponzi en 1920.</div></div></div>
+<p><a href="/wiki/Charles_Ponzi" title="Charles Ponzi">Charles Ponzi</a> utilisa ce système en <a href="/wiki/1919" title="1919">1919</a> à <a href="/wiki/Boston" title="Boston">Boston</a>, ce qui fit de lui, personne anonyme, un millionnaire en six mois. Les profits étaient censés provenir d'une spéculation sur les <span class="lang-en" lang="en"><i>International postal reply coupons</i></span> (<i><a href="/wiki/Coupon-r%C3%A9ponse_international" title="Coupon-réponse international">coupons-réponse internationaux</a></i>), avec un rendement de 50&#160;% en 90 jours. Environ 40&#160;000&#160;personnes investirent 15 millions de dollars, dont seulement un tiers leur fut redistribué<sup id="cite_ref-US_Sec_1_3-0" class="reference"><a href="#cite_note-US_Sec_1-3"><span class="cite_crochet">[</span>3<span class="cite_crochet">]</span></a></sup>.
+</p>
+<h2><span id="Cas_c.C3.A9l.C3.A8bres"></span><span class="mw-headline" id="Cas_célèbres">Cas célèbres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Cas célèbres">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=5" title="Modifier la section : Cas célèbres">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>L'affaire <a href="/wiki/Marthe_Hanau" title="Marthe Hanau">Hanau</a> en France en 1928.</li>
+<li>L'<a href="/wiki/Affaire_Stavisky" title="Affaire Stavisky">affaire Stavisky</a> en France en 1934.</li>
+<li>Dans les <a href="/wiki/Ann%C3%A9es_1990" title="Années 1990">années 1990</a>, en <a href="/wiki/Russie" title="Russie">Russie</a>, Sergei Mavrodi, son frère Vyacheslav Mavrodi, et Olga Melnikova fondent le fonds <a href="/w/index.php?title=MMM_(Ponzi_scheme_company)&amp;action=edit&amp;redlink=1" class="new" title="MMM (Ponzi scheme company) (page inexistante)">MMM</a>&#160;<a href="https://en.wikipedia.org/wiki/MMM_(Ponzi_scheme_company)" class="extiw" title="en:MMM (Ponzi scheme company)"><span class="indicateur-langue" title="Équivalent de l’article «&#32;MMM (Ponzi scheme company)&#32;» dans une autre langue">(en)</span></a>, qui fonctionne sur un schéma pyramidal et fera perdre, selon les estimations, jusqu'à 10&#160;milliards de dollars investis par 5 à 40&#160;millions de personnes<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite_crochet">[</span>4<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite_crochet">[</span>5<span class="cite_crochet">]</span></a></sup><sup class="reference cite_virgule">,</sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite_crochet">[</span>6<span class="cite_crochet">]</span></a></sup>.</li>
+<li>La <a href="/wiki/Crise_albanaise_de_1997" title="Crise albanaise de 1997">crise économique albanaise</a>.</li>
+<li>L'homme d'affaires américain <a href="/wiki/Bernard_Madoff" title="Bernard Madoff">Bernard Madoff</a>, président-fondateur d'une <a href="/wiki/Soci%C3%A9t%C3%A9_d%27investissements" class="mw-redirect" title="Société d&#39;investissements">société d'investissements</a> et très actif dans le <a href="/wiki/NASD" class="mw-redirect" title="NASD">NASD</a> et le <a href="/wiki/NASDAQ" title="NASDAQ">NASDAQ</a>, a créé un système de Ponzi qui a fonctionné pendant 48 ans, de <a href="/wiki/1960" title="1960">1960</a> à la <a href="/wiki/Crise_financi%C3%A8re_de_2008" class="mw-redirect" title="Crise financière de 2008">crise financière de 2008</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite_crochet">[</span>7<span class="cite_crochet">]</span></a></sup>. C'était un gérant de <span class="lang-en" lang="en"><i><a href="/wiki/Hedge_fund" class="mw-redirect" title="Hedge fund">hedge fund</a></i></span> qui promettait des retours sur investissements relativement élevés, de l'ordre de 8 à 12&#160;% par an. Ce qui sortait le plus de l'ordinaire avec les performances qu'affichaient ses fonds était l'absence de retours négatifs sur de très longues périodes et une volatilité (l'équivalent du risque de l'investissement) très faible. Autre indice alarmant, à la clôture de chaque exercice, Madoff déclarait être liquide, c'est-à-dire détenir tous ses avoirs en liquidités, et ainsi ne publia jamais de relevés indiquant la quelconque possession de titres financiers. Enfin, les titres sur lesquels il disait investir, notamment des options sur indices, n'étaient pas assez liquides pour «&#160;absorber&#160;» les volumes qu'un fonds de la taille de celui de Madoff aurait engendrés. L'utilisation de modèles mathématiques financiers, des clients réputés, des postes élevés dans l'administration, l'assuraient d'un prestige important. Lorsque de nombreux clients souhaitèrent retirer leurs avoirs de sa société d'investissement lors de la crise financière de 2008, ils se rendirent compte que les caisses étaient vides et qu'ils avaient perdu tout leur argent. Avant son arrestation, Bernard Madoff gérait officiellement 17 milliards de <a href="/wiki/Dollar_am%C3%A9ricain" title="Dollar américain">dollars</a>.</li>
+<li>Fin <time class="nowrap date-lien" datetime="2009-02" data-sort-value="2009-02"><a href="/wiki/F%C3%A9vrier_2009" title="Février 2009">février</a> <a href="/wiki/2009" title="2009">2009</a></time>, <a href="/wiki/Allen_Stanford" title="Allen Stanford">Allen Stanford</a>, un <a href="/wiki/Finance" title="Finance">financier</a> «&#160;milliardaire&#160;» texan<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite_crochet">[</span>8<span class="cite_crochet">]</span></a></sup> à la tête du <i><a href="/wiki/Stanford_Financial_Group" title="Stanford Financial Group">Stanford Financial Group</a></i> est soupçonné d'avoir monté une <a href="/wiki/Escroquerie" title="Escroquerie">escroquerie</a> bancaire pour un montant de 7 milliards de dollars<sup id="cite_ref-:0_9-0" class="reference"><a href="#cite_note-:0-9"><span class="cite_crochet">[</span>9<span class="cite_crochet">]</span></a></sup>. La Stanford International Bank (SIB), l'un des établissements au cœur du dispositif, a été nationalisée le <time class="nowrap date-lien" datetime="2009-02-24" data-sort-value="2009-02-24"><a href="/wiki/24_f%C3%A9vrier" title="24 février">24</a> <a href="/wiki/F%C3%A9vrier_2009" title="Février 2009">février</a> <a href="/wiki/2009" title="2009">2009</a></time> par le gouvernement d'Antigua. L'opération qui a duré plus de vingt années et basée en partie sur un système de Ponzi<sup id="cite_ref-:1_10-0" class="reference"><a href="#cite_note-:1-10"><span class="cite_crochet">[</span>10<span class="cite_crochet">]</span></a></sup>, a fait autour de 30&#160;000&#160;victimes<sup id="cite_ref-:0_9-1" class="reference"><a href="#cite_note-:0-9"><span class="cite_crochet">[</span>9<span class="cite_crochet">]</span></a></sup>. La société est mise sous séquestre et plusieurs responsables sont condamnés à des peines de prison, dont Stanford lui-même - pour fraude et association de malfaiteurs - pour une durée de 110 ans<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite_crochet">[</span>11<span class="cite_crochet">]</span></a></sup> qu'il purge en Floride depuis 2012<sup id="cite_ref-:1_10-1" class="reference"><a href="#cite_note-:1-10"><span class="cite_crochet">[</span>10<span class="cite_crochet">]</span></a></sup>.</li>
+<li><a href="/wiki/Affaire_ICC_Services" title="Affaire ICC Services">L'affaire ICC</a> au Bénin en 2010.</li></ul>
+<h2><span class="mw-headline" id="Dans_la_fiction">Dans la fiction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Dans la fiction">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=6" title="Modifier la section : Dans la fiction">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Des escroqueries de ce type se retrouvent dans divers films et romans&#160;:
+</p>
+<ul><li>le roman de <a href="/wiki/Charles_Dickens" title="Charles Dickens">Charles Dickens</a>, <i><a href="/wiki/La_Petite_Dorrit" title="La Petite Dorrit">Little Dorrit</a></i>, qui mentionne déjà en 1857 une escroquerie fondée sur ce principe&#160;;</li>
+<li>le film <i><a href="/wiki/Revolver_(film)" title="Revolver (film)">Revolver</a></i>, qui explique la mise en place d'un système de Ponzi dans le milieu mafieux de Las Vegas&#160;;</li>
+<li>le film <i><a href="/wiki/Le_Casse_de_Central_Park" title="Le Casse de Central Park">Le Casse de Central Park</a></i>, où un homme d'affaires, Arthur Shaw, met en place un système de Ponzi afin de détourner la pension de retraite de plusieurs de ses employés à New York&#160;;</li>
+<li>le film <i><a href="/w/index.php?title=Madea_:_Protection_de_t%C3%A9moins&amp;action=edit&amp;redlink=1" class="new" title="Madea : Protection de témoins (page inexistante)">Madea : Protection de témoins</a>&#160;<a href="https://en.wikipedia.org/wiki/Madea%27s_Witness_Protection" class="extiw" title="en:Madea&#39;s Witness Protection"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Madea&#32;: Protection de témoins&#32;» dans une autre langue">(en)</span></a></i> de <a href="/wiki/Tyler_Perry" title="Tyler Perry">Tyler Perry</a>, où la société Lokhwise industries met sur pied un montage frauduleux permettant une vaste arnaque financière, une «&#160;pyramide de Ponzi&#160;»&#160;;</li>
+<li>le film <i><a href="/wiki/Very_Bad_Cops" title="Very Bad Cops">Very Bad Cops</a></i> d'<a href="/wiki/Adam_McKay" title="Adam McKay">Adam McKay</a>, où les protagonistes mènent l'enquête sur une fraude à grande échelle fondée sur un système de Ponzi (le générique, en particulier, évoque <a href="/wiki/Bernard_Madoff" title="Bernard Madoff">Bernard Madoff</a> et <a href="/wiki/Charles_Ponzi" title="Charles Ponzi">Charles Ponzi</a>).</li>
+<li>le film <i><a href="/wiki/The_Wizard_of_Lies" title="The Wizard of Lies">The Wizard of Lies</a></i> avec un Madoff interprété par <a href="/wiki/Robert_De_Niro" title="Robert De Niro">Robert De Niro</a>.</li>
+<li>le film <i><a href="/w/index.php?title=Le_Roi_de_la_polka&amp;action=edit&amp;redlink=1" class="new" title="Le Roi de la polka (page inexistante)">Le Roi de la polka</a>&#160;<a href="https://en.wikipedia.org/wiki/The_Polka_King" class="extiw" title="en:The Polka King"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Le Roi de la polka&#32;» dans une autre langue">(en)</span></a></i>, de <a href="/wiki/Maya_Forbes" title="Maya Forbes">Maya Forbes</a>,&#160;<a href="/wiki/Wallace_Wolodarsky" title="Wallace Wolodarsky">Wallace Wolodarsky</a> avec <a href="/wiki/Jack_Black" title="Jack Black">Jack Black</a> dans le rôle d'un chanteur de <a href="/wiki/Polka_(danse)" title="Polka (danse)">polka</a>, d'origine polonaise, profitant de son succès avec son public âgé pour monter un système de Ponzi<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite_crochet">[</span>12<span class="cite_crochet">]</span></a></sup></li>
+<li>le film <i><a href="/wiki/Le_Retour_du_h%C3%A9ros_(film)" title="Le Retour du héros (film)">Le Retour du héros</a></i>, où le capitaine Neuville met en place un système de Ponzi fondé sur une supposée mine de diamants que le capitaine aurait découverte durant ses aventures.</li>
+<li>le film <i><a href="/wiki/Billionaire_Boys_Club_(film)" title="Billionaire Boys Club (film)">Billionaire Boys Club</a></i>, dont l'intrigue est basée sur un système de Ponzi.</li></ul>
+<p>De pareilles escroqueries apparaissent également dans de nombreux épisodes de séries télévisées.
+</p>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=7" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="references-small decimal" style="-moz-column-width:36em; -webkit-column-width:36em; column-width:36em;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink noprint"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sec.gov/answers/ponzi.htm">ponzi</a> U.S. <a href="/wiki/Securities_and_Exchange_Commission" title="Securities and Exchange Commission">Securities and Exchange Commission</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink noprint"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="http://mpra.ub.uni-muenchen.de/14420/1/MPRA_paper_14420.pdf">Marc Artzrouni, The mathematics of Ponzi schemes</a></span>
+</li>
+<li id="cite_note-US_Sec_1-3"><span class="mw-cite-backlink noprint"><a href="#cite_ref-US_Sec_1_3-0">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="https://www.sec.gov/answers/ponzi.htm">Présentation du <i>Ponzi scheme</i> par l'US </a><a href="/wiki/Securities_and_Exchange_Commission" title="Securities and Exchange Commission">Securities and Exchange Commission</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink noprint"><a href="#cite_ref-4">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="http://larussiedaujourdhui.fr/articles/2011/01/11/le_madoff_russe_va-t-il_encore_frapper.html">Le Madoff russe va-t-il encore frapper&#160;?</a>, Hugo Natowicz, La Russie d’Aujourd’hui, 11 janvier 2011.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink noprint"><a href="#cite_ref-5">↑</a> </span><span class="reference-text"><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr><a rel="nofollow" class="external text" href="http://www.sptimes.ru/index.php?action_id=2&amp;story_id=21471">Sergei Mavrodi Convicted of Fraud in MMM Trial</a>, St Petersburg Time, 27 avril 2007.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink noprint"><a href="#cite_ref-6">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.pjsymes.com.au/articles/MMM.htm">MMM Corporation</a>, <a href="/w/index.php?title=Peter_Symes&amp;action=edit&amp;redlink=1" class="new" title="Peter Symes (page inexistante)">Peter Symes</a>&#160;<a href="https://en.wikipedia.org/wiki/Peter_Symes" class="extiw" title="en:Peter Symes"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Peter Symes&#32;» dans une autre langue">(en)</span></a>, février 2003</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink noprint"><a href="#cite_ref-7">↑</a> </span><span class="reference-text"><span class="ouvrage" id="personnel_de_rédaction2008"><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> <span class="nom_auteur">personnel de rédaction</span>, <span lang="en">«&#160;<cite style="font-style:normal;">Ponzi squared</cite>&#160;»</span>, <i><span class="lang-en" lang="en"><a href="/wiki/The_Economist" title="The Economist">The Economist</a></span></i>,&#8206; <time class="nowrap" datetime="2008-12-15" data-sort-value="2008-12-15">15 décembre 2008</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="http://www.economist.com/finance/displayStory.cfm?story_id=12795543&amp;source=features_box_main">lire en ligne</a>, consulté le <span class="nowrap">16 décembre 2008</span>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Ponzi+squared&amp;rft.jtitle=The+Economist&amp;rft.aulast=personnel+de+r%C3%A9daction&amp;rft.date=2008-12-15&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Ffinance%2FdisplayStory.cfm%3Fstory_id%3D12795543%26source%3Dfeatures_box_main&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3ASyst%C3%A8me+de+Ponzi" id="COinS_33272"></span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink noprint"><a href="#cite_ref-8">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Hotten2016"><span class="ouvrage" id="Jon_Hotten2016"><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> Jon <span class="nom_auteur">Hotten</span>, <cite class="italique" lang="en">The Meaning of Cricket: or How to Waste Your Life on an Inconsequential Sport</cite>, Random House, <time>2016</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9781473522398" title="Spécial:Ouvrages de référence/9781473522398"><span class="nowrap">9781473522398</span></a>, <a rel="nofollow" class="external text" href="https://books.google.be/books?id=t1cyCwAAQBAJ">lire en ligne</a>)</small>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;181<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Meaning+of+Cricket%3A+or+How+to+Waste+Your+Life+on+an+Inconsequential+Sport&amp;rft.pub=Random+House&amp;rft.aulast=Hotten&amp;rft.aufirst=Jon&amp;rft.date=2016&amp;rft.pages=181&amp;rft.isbn=9781473522398&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3ASyst%C3%A8me+de+Ponzi" id="COinS_29860"></span></span></span></span>
+</li>
+<li id="cite_note-:0-9"><span class="mw-cite-backlink noprint">↑ <sup><a href="#cite_ref-:0_9-0">a</a> et <a href="#cite_ref-:0_9-1">b</a></sup> </span><span class="reference-text"><span class="ouvrage" id="Gayraud2011"><span class="ouvrage" id="Jean-François_Gayraud2011">Jean-François <span class="nom_auteur">Gayraud</span>, <cite class="italique">Grande Fraude (La): Crime, subprimes et crises financières</cite>, Odile Jacob, <time>2011</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9782738185853" title="Spécial:Ouvrages de référence/9782738185853"><span class="nowrap">9782738185853</span></a>, <a rel="nofollow" class="external text" href="https://books.google.be/books?id=llxkyKPlmM0C">lire en ligne</a>)</small>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;142-143<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Grande+Fraude+%28La%29%3A+Crime%2C+subprimes+et+crises+financi%C3%A8res&amp;rft.pub=Odile+Jacob&amp;rft.aulast=Gayraud&amp;rft.aufirst=Jean-Fran%C3%A7ois&amp;rft.date=2011&amp;rft.pages=142-143&amp;rft.isbn=9782738185853&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3ASyst%C3%A8me+de+Ponzi" id="COinS_29877"></span></span></span></span>
+</li>
+<li id="cite_note-:1-10"><span class="mw-cite-backlink noprint">↑ <sup><a href="#cite_ref-:1_10-0">a</a> et <a href="#cite_ref-:1_10-1">b</a></sup> </span><span class="reference-text"><span class="ouvrage" id="BakerPuttonen2017"><span class="ouvrage" id="H._Kent_BakerVesa_Puttonen2017"><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> H. Kent <span class="nom_auteur">Baker</span> et Vesa <span class="nom_auteur">Puttonen</span>, <cite class="italique" lang="en">Investment Traps Exposed: Navigating Investor Mistakes and Behavioral Biases</cite>, Emerald Group Publishing, <time>2017</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9781787147218" title="Spécial:Ouvrages de référence/9781787147218"><span class="nowrap">9781787147218</span></a>, <a rel="nofollow" class="external text" href="https://books.google.be/books?id=QfJfDgAAQBAJ">lire en ligne</a>)</small>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;178<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Investment+Traps+Exposed%3A+Navigating+Investor+Mistakes+and+Behavioral+Biases&amp;rft.pub=Emerald+Group+Publishing&amp;rft.aulast=Baker&amp;rft.aufirst=H.+Kent&amp;rft.au=Puttonen%2C+Vesa&amp;rft.date=2017&amp;rft.pages=178&amp;rft.isbn=9781787147218&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3ASyst%C3%A8me+de+Ponzi" id="COinS_33535"></span></span></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink noprint"><a href="#cite_ref-11">↑</a> </span><span class="reference-text"><span class="ouvrage" id="Ryder2014"><span class="ouvrage" id="Nicholas_Ryder2014"><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> Nicholas <span class="nom_auteur">Ryder</span>, <cite class="italique" lang="en">The Financial Crisis and White Collar Crime: The Perfect Storm?</cite>, Edward Elgar Publishing, <time>2014</time> <small style="line-height:1em;">(<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/9781781001004" title="Spécial:Ouvrages de référence/9781781001004"><span class="nowrap">9781781001004</span></a>, <a rel="nofollow" class="external text" href="https://books.google.be/books?id=gyKeAwAAQBAJ&amp;pg=PA87">lire en ligne</a>)</small>, <abbr class="abbr" title="page(s)">p.</abbr>&#160;87<span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Financial+Crisis+and+White+Collar+Crime%3A+The+Perfect+Storm%3F&amp;rft.pub=Edward+Elgar+Publishing&amp;rft.aulast=Ryder&amp;rft.aufirst=Nicholas&amp;rft.date=2014&amp;rft.pages=87&amp;rft.isbn=9781781001004&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3ASyst%C3%A8me+de+Ponzi" id="COinS_29964"></span></span></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink noprint"><a href="#cite_ref-12">↑</a> </span><span class="reference-text"><span class="ouvrage" id="ForbesWolodarskyBayer2018"><span class="ouvrage" id="Maya_ForbesWallace_WolodarskyVanessa_Bayer2018">Maya <span class="nom_auteur">Forbes</span>, Wallace <span class="nom_auteur">Wolodarsky</span> et Vanessa <span class="nom_auteur">Bayer</span>, <cite class="italique">The Polka King</cite>, <time class="nowrap" datetime="2018-01-12" data-sort-value="2018-01-12">12 janvier 2018</time> <small style="line-height:1em;">(<a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt5539052/">lire en ligne</a>)</small><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Polka+King&amp;rft.aulast=Forbes&amp;rft.aufirst=Maya&amp;rft.au=Wolodarsky%2C+Wallace&amp;rft.au=Bayer%2C+Vanessa&amp;rft.date=2018-01-12&amp;rfr_id=info%3Asid%2Ffr.wikipedia.org%3ASyst%C3%A8me+de+Ponzi" id="COinS_24274"></span></span></span></span>
+</li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=8" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : Articles connexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=9" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Vente_pyramidale" title="Vente pyramidale">Vente pyramidale</a></li>
+<li><a href="/wiki/Bernard_Madoff" title="Bernard Madoff">Bernard Madoff</a></li>
+<li><a href="/wiki/Th%C3%A9orie_du_plus_grand_fou" title="Théorie du plus grand fou">Théorie du plus grand fou</a></li>
+<li><a href="/wiki/Croissance_exponentielle" title="Croissance exponentielle">Croissance exponentielle</a></li>
+<li><a href="/wiki/Paradoxe_de_Saint-P%C3%A9tersbourg" title="Paradoxe de Saint-Pétersbourg">Paradoxe de Saint-Pétersbourg</a></li>
+<li><a href="/wiki/Ezubao" title="Ezubao">Ezubao</a></li>
+<li><a href="/wiki/Affaire_des_fromages_magiques" title="Affaire des fromages magiques">Affaire des fromages magiques</a></li>
+<li><a href="/wiki/Retraite_par_r%C3%A9partition" title="Retraite par répartition">Retraite par répartition</a></li></ul>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : Liens externes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit&amp;section=10" title="Modifier la section : Liens externes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> <a rel="nofollow" class="external text" href="https://www.sec.gov/answers/ponzi.htm">Présentation du <i>Ponzi scheme</i> par l'US Securities and Exchange Commission</a></li>
+<li><abbr class="abbr indicateur-langue" title="Langue&#32;: français">(fr)</abbr> <a rel="nofollow" class="external text" href="http://links.jstor.org/sici?sici=0035-2764(200307)54%3A4%3C773%3ADPDRDA%3E2.0.CO%3B2-Z">Dette publique – Du risque d'insoutenabilité au risque d'illiquidité</a> - <i>Revue économique</i>, juillet 2003</li></ul>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Criminologie" title="Portail de la criminologie"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crime.svg/28px-Crime.svg.png" decoding="async" width="28" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crime.svg/42px-Crime.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crime.svg/55px-Crime.svg.png 2x" data-file-width="346" data-file-height="300" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Criminologie" title="Portail:Criminologie">Portail de la criminologie</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Finance" title="Portail de la finance"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Circle-icons-money.svg/24px-Circle-icons-money.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Circle-icons-money.svg/36px-Circle-icons-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Circle-icons-money.svg/48px-Circle-icons-money.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Finance" title="Portail:Finance">Portail de la finance</a></span> </span></li> <li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:%C3%89conomie" title="Portail de l’économie"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/24px-Emblem-money.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/36px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/48px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:%C3%89conomie" title="Portail:Économie">Portail de l’économie</a></span> </span></li>                  </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20200226045403
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.304 seconds
+Real time usage: 0.431 seconds
+Preprocessor visited node count: 1730/1000000
+Post‐expand include size: 23730/2097152 bytes
+Template argument size: 1576/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 14078/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.103/10.000 seconds
+Lua memory usage: 3.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  304.548      1 -total
+ 32.75%   99.736      1 Modèle:Références
+ 20.05%   61.075      1 Modèle:Portail
+ 13.90%   42.339      2 Modèle:Lang
+ 11.77%   35.837      2 Modèle:Unité
+ 10.62%   32.335      1 Modèle:Article
+  9.42%   28.692      5 Modèle:Ouvrage
+  7.69%   23.419      4 Modèle:Lien
+  6.91%   21.043      2 Modèle:Date
+  6.72%   20.473      1 Modèle:Catégorisation_badges
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:94662-0!canonical!math=5 and timestamp 20200226045403 and revision id 165651761
+ -->
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Système_de_Ponzi&amp;oldid=165651761">https://fr.wikipedia.org/w/index.php?title=Système_de_Ponzi&amp;oldid=165651761</a>&#160;».</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Sp%C3%A9culation" title="Catégorie:Spéculation">Spéculation</a></li><li><a href="/wiki/Cat%C3%A9gorie:Escroquerie" title="Catégorie:Escroquerie">Escroquerie</a></li><li><a href="/wiki/Cat%C3%A9gorie:Criminalit%C3%A9_financi%C3%A8re" title="Catégorie:Criminalité financière">Criminalité financière</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Criminologie/Articles_li%C3%A9s" title="Catégorie:Portail:Criminologie/Articles liés">Portail:Criminologie/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s" title="Catégorie:Portail:Sciences humaines et sociales/Articles liés">Portail:Sciences humaines et sociales/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Finance/Articles_li%C3%A9s" title="Catégorie:Portail:Finance/Articles liés">Portail:Finance/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:%C3%89conomie/Articles_li%C3%A9s" title="Catégorie:Portail:Économie/Articles liés">Portail:Économie/Articles liés</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Syst%C3%A8me+de+Ponzi" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Syst%C3%A8me+de+Ponzi" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Syst%C3%A8me_de_Ponzi" title="Voir le contenu de la page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Discussion:Syst%C3%A8me_de_Ponzi" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Syst%C3%A8me_de_Ponzi">Lire</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=edit" title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Syst%C3%A8me_de_Ponzi" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Syst%C3%A8me_de_Ponzi" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;oldid=165651761" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219407" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Syst%C3%A8me_de_Ponzi&amp;id=165651761" title="Informations sur la manière de citer cette page">Citer cette page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Syst%C3%A8me+de+Ponzi">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Syst%C3%A8me+de+Ponzi&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%A8%D9%88%D9%86%D8%B2%D9%8A" title="سلسلة بونزي — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%BD%D0%B0_%D0%9F%D0%BE%D0%BD%D1%86%D0%B8" title="Схема на Понци — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%A8%E0%A6%9C%E0%A6%BF_%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BF%E0%A6%AE" title="পনজি স্কিম — bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Esquema_Ponzi" title="Esquema Ponzi — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ponziho_sch%C3%A9ma" title="Ponziho schéma — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Pyramidespil" title="Pyramidespil — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CF%87%CE%AE%CE%BC%CE%B1_%CE%A0%CF%8C%CE%BD%CF%84%CF%83%CE%B9" title="Σχήμα Πόντσι — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Ponzi_scheme" title="Ponzi scheme — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Skemo_Ponzi" title="Skemo Ponzi — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Esquema_Ponzi" title="Esquema Ponzi — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D9%81%D9%86%D8%AF_%D9%BE%D8%A7%D9%86%D8%B2%DB%8C" title="ترفند پانزی — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ponzi-huijaus" title="Ponzi-huijaus — finnois" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Ponzifraude" title="Ponzifraude — frison occidental" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Esquema_Ponzi" title="Esquema Ponzi — galicien" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%95%D7%A0%D7%90%D7%AA_%D7%A4%D7%95%D7%A0%D7%96%D7%99" title="הונאת פונזי — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Ponzijeva_shema" title="Ponzijeva shema — croate" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Ponzi-rendszer" title="Ponzi-rendszer — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%96%D5%AB%D5%B6%D5%A1%D5%B6%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A2%D5%B8%D6%82%D6%80%D5%A3" title="Ֆինանսական բուրգ — arménien" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Skema_Ponzi" title="Skema Ponzi — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Schema_Ponzi" title="Schema Ponzi — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3%E3%82%B8%E3%83%BB%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%A0" title="ポンジ・スキーム — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9E%E1%83%9D%E1%83%9C%E1%83%AA%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%A5%E1%83%94%E1%83%9B%E1%83%90" title="პონცის სქემა — géorgien" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8F%B0%EC%A7%80_%EC%82%AC%EA%B8%B0" title="폰지 사기 — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Ponci_sh%C4%93ma" title="Ponci shēma — letton" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0%D0%BB%D0%BD%D0%B0_%D0%B8%D0%B7%D0%BC%D0%B0%D0%BC%D0%B0" title="Пирамидална измама — macédonien" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Skim_Ponzi" title="Skim Ponzi — malais" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%95%E1%80%BD%E1%80%94%E1%80%BA%E1%80%87%E1%80%AE%E1%80%85%E1%80%94%E1%80%85%E1%80%BA" title="ပွန်ဇီစနစ် — birman" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ponzifraude" title="Ponzifraude — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ponzi-svindel" title="Ponzi-svindel — norvégien bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A9%8B%E0%A8%82%E0%A8%9C%E0%A8%BC%E0%A9%80_%E0%A8%B8%E0%A8%95%E0%A9%80%E0%A8%AE" title="ਪੋਂਜ਼ੀ ਸਕੀਮ — pendjabi" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Esquema_Ponzi" title="Esquema Ponzi — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Schem%C4%83_Ponzi" title="Schemă Ponzi — roumain" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%B8%D1%80%D0%B0%D0%BC%D0%B8%D0%B4%D0%B0" title="Финансовая пирамида — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D1%86%D0%B8%D1%98%D0%B5%D0%B2%D0%B0_%D1%88%D0%B5%D0%BC%D0%B0" title="Понцијева шема — serbo-croate" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Ponzi_scheme" title="Ponzi scheme — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ponziho_sch%C3%A9ma" title="Ponziho schéma — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Ponzijeva_shema" title="Ponzijeva shema — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD%D1%86%D0%B8%D1%98%D0%B5%D0%B2%D0%B0_%D0%BF%D1%80%D0%B5%D0%B2%D0%B0%D1%80%D0%B0" title="Понцијева превара — serbe" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ponzibedr%C3%A4geri" title="Ponzibedrägeri — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8A%E0%AE%A9%E0%AF%8D%E0%AE%9A%E0%AE%BF_%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88%E0%AE%AE%E0%AF%88" title="பொன்சி முறைமை — tamoul" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%89%E0%B9%89%E0%B8%AD%E0%B8%89%E0%B8%A5%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%9E%E0%B8%AD%E0%B8%99%E0%B8%8B%E0%B8%B5" title="การฉ้อฉลแบบพอนซี — thaï" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ponzi_oyunu" title="Ponzi oyunu — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D1%96%D1%80%D0%B0%D0%BC%D1%96%D0%B4%D0%B0" title="Фінансова піраміда — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%BE%D9%88%D9%86%D8%B2%DB%8C_%D8%A7%D8%B3%DA%A9%DB%8C%D9%85" title="پونزی اسکیم — ourdou" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/M%C3%B4_h%C3%ACnh_Ponzi" title="Mô hình Ponzi — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Iskima_Ponzi" title="Iskima Ponzi — waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E8%80%81%E9%BC%A0%E4%BC%9A" title="老鼠会 — wu" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%BE%90%E8%8C%B2%E9%A8%99%E5%B1%80" title="龐茲騙局 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E9%BE%90%E6%B0%8F%E9%A8%99%E5%B1%80" title="龐氏騙局 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q219407#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 23 décembre 2019 à 20:15.</li>
+		<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Syst%C3%A8me_de_Ponzi" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Syst%C3%A8me_de_Ponzi&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.431","ppvisitednodes":{"value":1730,"limit":1000000},"postexpandincludesize":{"value":23730,"limit":2097152},"templateargumentsize":{"value":1576,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":14078,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  304.548      1 -total"," 32.75%   99.736      1 Modèle:Références"," 20.05%   61.075      1 Modèle:Portail"," 13.90%   42.339      2 Modèle:Lang"," 11.77%   35.837      2 Modèle:Unité"," 10.62%   32.335      1 Modèle:Article","  9.42%   28.692      5 Modèle:Ouvrage","  7.69%   23.419      4 Modèle:Lien","  6.91%   21.043      2 Modèle:Date","  6.72%   20.473      1 Modèle:Catégorisation_badges"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":3809728,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20200226045403","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Syst\u00e8me de Ponzi","url":"https:\/\/fr.wikipedia.org\/wiki\/Syst%C3%A8me_de_Ponzi","sameAs":"http:\/\/www.wikidata.org\/entity\/Q219407","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q219407","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-09T11:31:26Z","dateModified":"2019-12-23T19:15:13Z","headline":"Technique de fraude"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":154,"wgHostname":"mw1244"});});</script></body></html>

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Informations pour « Olof Palme » — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XloWKwpAMMEAAPax1qIAAABS","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Olof_Palme","wgTitle":"Olof Palme","wgCurRevisionId":162355902,"wgRevisionId":0,"wgArticleId":2462137,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"info","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Olof_Palme","wgRelevantArticleId":2462137,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgPageViewInfo":{"graph":{"version":2,"data":[{"name":"pageviews","values":[{"timestamp":"20200130","views":45},{"timestamp":"20200131","views":35},{"timestamp":"20200201","views":147},{"timestamp":"20200202","views":84},{"timestamp":"20200203","views":64},{"timestamp":"20200204","views":41},{"timestamp":"20200205","views":76},{"timestamp":"20200206","views":41},{"timestamp":"20200207","views":48},{"timestamp":"20200208","views":49},{"timestamp":"20200209","views":50},{"timestamp":"20200210","views":35},{
+"timestamp":"20200211","views":30},{"timestamp":"20200212","views":41},{"timestamp":"20200213","views":35},{"timestamp":"20200214","views":102},{"timestamp":"20200215","views":58},{"timestamp":"20200216","views":75},{"timestamp":"20200217","views":71},{"timestamp":"20200218","views":133},{"timestamp":"20200219","views":170},{"timestamp":"20200220","views":140},{"timestamp":"20200221","views":72},{"timestamp":"20200222","views":50},{"timestamp":"20200223","views":111},{"timestamp":"20200224","views":72},{"timestamp":"20200225","views":45},{"timestamp":"20200226","views":44},{"timestamp":"20200227","views":57},{"timestamp":"20200228","views":1787}],"transform":[{"type":"formula","field":"date","expr":"datetime(parseInt(substring(datum.timestamp,0,4)),parseInt(substring(datum.timestamp,4,6))-1,parseInt(substring(datum.timestamp,6,8)))"}]},{"name":"alldata","source":"pageviews","transform":[{"type":"formula","field":"Page views","expr":"datum.views"},{"type":"fold","fields":["Page views"]}
+]},{"name":"stats","source":"alldata","transform":[{"type":"aggregate","groupby":["date"],"summarize":[{"field":"value","ops":["sum"]}]}]}],"scales":[{"name":"x","type":"time","range":"width","domain":{"data":"alldata","field":"date"}},{"name":"y","type":"linear","range":"height","nice":!0,"domain":{"data":"stats","field":"sum_value"}},{"name":"c","type":"ordinal","range":["#5DA5DA"],"domain":{"data":"alldata","field":"key"}}],"axes":[{"type":"x","scale":"x","ticks":5},{"type":"y","scale":"y"}],"marks":[{"type":"group","from":{"data":"alldata","transform":[{"type":"stack","groupby":["date"],"sortby":["key"],"field":"value"},{"type":"facet","groupby":["key"]}]},"marks":[{"type":"area","properties":{"enter":{"interpolate":{"value":"monotone"},"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"layout_start"},"y2":{"scale":"y","field":"layout_end"},"fill":{"scale":"c","field":"key"},"fillOpacity":{"value":1}}}}]}]},"start":"30 janvier 2020","end":"28 février 2020"},
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.helplink":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.pageviewinfo","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.helplink%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/bc/Olof_Palme_1974_%28cropped%29.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Olof_Palme&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Olof_Palme&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikipedia.org/w/index.php?title=Olof_Palme&amp;action=info"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Olof_Palme rootpage-Olof_Palme skin-vector action-info">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Page_information" target="_blank" class="mw-helplink">Aide</a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Informations pour « Olof Palme »</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text"><style>.mw-hiddenCategoriesExplanation { display: none; }</style>
+<style>.mw-templatesUsedExplanation { display: none; }</style>
+<h2 id="mw-pageinfo-header-basic"><span class="mw-headline" id="Informations_de_base">Informations de base</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-display-title"><td style="vertical-align: top;">Titre affiché</td><td>Olof Palme</td></tr>
+<tr id="mw-pageinfo-default-sort"><td style="vertical-align: top;">Clé de tri par défaut</td><td>Palme, Olof</td></tr>
+<tr id="mw-pageinfo-length"><td style="vertical-align: top;">Taille de la page (en octets)</td><td>12 652</td></tr>
+<tr id="mw-pageinfo-article-id"><td style="vertical-align: top;">ID de la page</td><td>2462137</td></tr>
+<tr><td style="vertical-align: top;">Langue du contenu de la page</td><td>fr - français</td></tr>
+<tr id="mw-pageinfo-content-model"><td style="vertical-align: top;">Modèle de contenu de la page</td><td>wikitexte</td></tr>
+<tr id="mw-pageinfo-robot-policy"><td style="vertical-align: top;">Indexation par robots</td><td>Autorisée</td></tr>
+<tr id="mw-pageinfo-watchers"><td style="vertical-align: top;">Nombre de contributeurs ayant la page dans leur liste de suivi</td><td>Moins de 30 suiveurs</td></tr>
+<tr><td style="vertical-align: top;"><a href="/w/index.php?title=Sp%C3%A9cial:Pages_li%C3%A9es/Olof_Palme&amp;hidelinks=1&amp;hidetrans=1" title="Spécial:Pages liées/Olof Palme">Nombre de redirections vers cette page</a></td><td>1</td></tr>
+<tr id="mw-pageinfo-contentpage"><td style="vertical-align: top;">Comptée comme page de contenu</td><td>Oui</td></tr>
+<tr id="mw-wikibase-pageinfo-entity-id"><td style="vertical-align: top;">ID de l’élément de Wikidata</td><td><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q53713">Q53713</a></td></tr>
+<tr id="mw-wikibase-pageinfo-description-central"><td style="vertical-align: top;">Description centrale</td><td>personnalité politique suédois</td></tr>
+<tr id="mw-pageimages-info-label"><td style="vertical-align: top;">Image de la page</td><td><a href="/wiki/Fichier:Olof_Palme_1974_(cropped).jpg" class="image"><img alt="Olof Palme 1974 (cropped).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Olof_Palme_1974_%28cropped%29.jpg/220px-Olof_Palme_1974_%28cropped%29.jpg" decoding="async" width="220" height="303" data-file-width="285" data-file-height="393" /></a></td></tr>
+<tr id="mw-pvi-month-count"><td style="vertical-align: top;">Vues de la page dans les 30 derniers jours</td><td><div class="mw-pvi-month">3 808</div></td></tr>
+</table>
+<h2 id="mw-pageinfo-header-restrictions"><span class="mw-headline" id="Protection_de_la_page">Protection de la page</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-restriction-edit"><td style="vertical-align: top;">Modifier</td><td>Autoriser tous les utilisateurs (infini)</td></tr>
+<tr id="mw-restriction-move"><td style="vertical-align: top;">Renommer</td><td>Autoriser tous les utilisateurs (infini)</td></tr>
+</table>
+<a href="/w/index.php?title=Sp%C3%A9cial:Journal&amp;type=protect&amp;page=Olof+Palme" title="Spécial:Journal">Voir le journal des protections pour cette page.</a>
+<h2 id="mw-pageinfo-header-edits"><span class="mw-headline" id="Historique_des_modifications">Historique des modifications</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-firstuser"><td style="vertical-align: top;">Créateur de la page</td><td><a href="/wiki/Utilisateur:Alvaro" class="mw-userlink" title="Utilisateur:Alvaro"><bdi>Alvaro</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Alvaro" class="mw-usertoollinks-talk" title="Discussion utilisateur:Alvaro">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Alvaro" class="mw-usertoollinks-contribs" title="Spécial:Contributions/Alvaro">contributions</a>)</span></td></tr>
+<tr id="mw-pageinfo-firsttime"><td style="vertical-align: top;">Date de création de la page</td><td><a href="/w/index.php?title=Olof_Palme&amp;oldid=122564" title="Olof Palme">21 mars 2003 à 03:52</a></td></tr>
+<tr id="mw-pageinfo-lastuser"><td style="vertical-align: top;">Dernier rédacteur</td><td><a href="/wiki/Utilisateur:Cpalp" class="mw-userlink" title="Utilisateur:Cpalp"><bdi>Cpalp</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Cpalp" class="mw-usertoollinks-talk" title="Discussion utilisateur:Cpalp">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Cpalp" class="mw-usertoollinks-contribs" title="Spécial:Contributions/Cpalp">contributions</a>)</span></td></tr>
+<tr id="mw-pageinfo-lasttime"><td style="vertical-align: top;">Date de la dernière modification</td><td><a href="/w/index.php?title=Olof_Palme&amp;oldid=162355902" title="Olof Palme">4 septembre 2019 à 07:30</a></td></tr>
+<tr id="mw-pageinfo-edits"><td style="vertical-align: top;">Nombre total de modifications</td><td>316</td></tr>
+<tr id="mw-pageinfo-recent-edits"><td style="vertical-align: top;">Nombre de modifications récentes (dans les derniers 30 jours)</td><td>0</td></tr>
+<tr id="mw-pageinfo-recent-authors"><td style="vertical-align: top;">Nombre d’auteurs distincts récents</td><td>0</td></tr>
+</table>
+<h2 id="mw-pageinfo-header-properties"><span class="mw-headline" id="Propriétés_de_la_page">Propriétés de la page</span></h2>
+<table class="wikitable mw-page-info">
+<tr id="mw-pageinfo-hidden-categories"><td style="vertical-align: top;">Catégories cachées (14)</td><td><div class="mw-hiddenCategoriesExplanation"><p>Catégories cachées dont cette page fait partie&#160;:
+</p></div><ul>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te" title="Catégorie:Article avec une section vide ou incomplète">Catégorie:Article avec une section vide ou incomplète</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9" title="Catégorie:Article de Wikipédia avec notice d&#039;autorité">Catégorie:Article de Wikipédia avec notice d&#039;autorité</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te" title="Catégorie:Article manquant de références/Liste complète">Catégorie:Article manquant de références/Liste complète</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_ao%C3%BBt_2010" title="Catégorie:Article manquant de références depuis août 2010">Catégorie:Article manquant de références depuis août 2010</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox" title="Catégorie:Article utilisant une Infobox">Catégorie:Article utilisant une Infobox</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Catégorie:Article à référence nécessaire">Catégorie:Article à référence nécessaire</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_diff%C3%A9rent_sur_Wikidata" title="Catégorie:Catégorie Commons avec lien local différent sur Wikidata">Catégorie:Catégorie Commons avec lien local différent sur Wikidata</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_avec_des_cartes" title="Catégorie:Page avec des cartes">Catégorie:Page avec des cartes</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Biographie/Articles_li%C3%A9s/Politique" title="Catégorie:Portail:Biographie/Articles liés/Politique">Catégorie:Portail:Biographie/Articles liés/Politique</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Europe/Articles_li%C3%A9s" title="Catégorie:Portail:Europe/Articles liés">Catégorie:Portail:Europe/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Paix/Articles_li%C3%A9s" title="Catégorie:Portail:Paix/Articles liés">Catégorie:Portail:Paix/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Politique/Articles_li%C3%A9s" title="Catégorie:Portail:Politique/Articles liés">Catégorie:Portail:Politique/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Su%C3%A8de/Articles_li%C3%A9s" title="Catégorie:Portail:Suède/Articles liés">Catégorie:Portail:Suède/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia:Article_biographique" title="Catégorie:Wikipédia:Article biographique">Catégorie:Wikipédia:Article biographique</a></li>
+</ul></td></tr>
+<tr id="mw-pageinfo-templates"><td style="vertical-align: top;">Modèles inclus (98)</td><td><div class="mw-templatesUsedExplanation"><p>Modèles utilisés par cette page&#160;:
+</p></div><ul>
+<li><a href="/wiki/Mod%C3%A8le:..." class="mw-redirect" title="Modèle:...">Modèle:...</a> (<a href="/w/index.php?title=Mod%C3%A8le:...&amp;action=edit" class="mw-redirect" title="Modèle:...">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:1er" title="Modèle:1er">Modèle:1er</a> (<a href="/w/index.php?title=Mod%C3%A8le:1er&amp;action=edit" title="Modèle:1er">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Article_d%C3%A9taill%C3%A9" title="Modèle:Article détaillé">Modèle:Article détaillé</a> (<a href="/w/index.php?title=Mod%C3%A8le:Article_d%C3%A9taill%C3%A9&amp;action=edit" title="Modèle:Article détaillé">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Autorit%C3%A9" title="Modèle:Autorité">Modèle:Autorité</a> (<a href="/w/index.php?title=Mod%C3%A8le:Autorit%C3%A9&amp;action=edit" title="Modèle:Autorité">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Autres_projets" title="Modèle:Autres projets">Modèle:Autres projets</a> (<a href="/w/index.php?title=Mod%C3%A8le:Autres_projets&amp;action=edit" title="Modèle:Autres projets">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Autres_projets/styles.css" title="Modèle:Autres projets/styles.css">Modèle:Autres projets/styles.css</a> (<a href="/w/index.php?title=Mod%C3%A8le:Autres_projets/styles.css&amp;action=edit" title="Modèle:Autres projets/styles.css">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Bma" title="Modèle:Bma">Modèle:Bma</a> (<a href="/w/index.php?title=Mod%C3%A8le:Bma&amp;action=edit" title="Modèle:Bma">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Cat%C3%A9gorisation_badges" title="Modèle:Catégorisation badges">Modèle:Catégorisation badges</a> (<a href="/w/index.php?title=Mod%C3%A8le:Cat%C3%A9gorisation_badges&amp;action=edit" title="Modèle:Catégorisation badges">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Clear" title="Modèle:Clear">Modèle:Clear</a> (<a href="/w/index.php?title=Mod%C3%A8le:Clear&amp;action=edit" title="Modèle:Clear">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Clr" title="Modèle:Clr">Modèle:Clr</a> (<a href="/w/index.php?title=Mod%C3%A8le:Clr&amp;action=edit" title="Modèle:Clr">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Contr%C3%B4le_date_bandeau" title="Modèle:Contrôle date bandeau">Modèle:Contrôle date bandeau</a> (<a href="/w/index.php?title=Mod%C3%A8le:Contr%C3%B4le_date_bandeau&amp;action=edit" title="Modèle:Contrôle date bandeau">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Coord" title="Modèle:Coord">Modèle:Coord</a> (<a href="/w/index.php?title=Mod%C3%A8le:Coord&amp;action=edit" title="Modèle:Coord">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Date" title="Modèle:Date">Modèle:Date</a> (<a href="/w/index.php?title=Mod%C3%A8le:Date&amp;action=edit" title="Modèle:Date">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Date_de_d%C3%A9c%C3%A8s" title="Modèle:Date de décès">Modèle:Date de décès</a> (<a href="/w/index.php?title=Mod%C3%A8le:Date_de_d%C3%A9c%C3%A8s&amp;action=edit" title="Modèle:Date de décès">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Date_de_mort" class="mw-redirect" title="Modèle:Date de mort">Modèle:Date de mort</a> (<a href="/w/index.php?title=Mod%C3%A8le:Date_de_mort&amp;action=edit" class="mw-redirect" title="Modèle:Date de mort">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Date_de_naissance" title="Modèle:Date de naissance">Modèle:Date de naissance</a> (<a href="/w/index.php?title=Mod%C3%A8le:Date_de_naissance&amp;action=edit" title="Modèle:Date de naissance">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Di%C3%A8se_couleur_web" title="Modèle:Dièse couleur web">Modèle:Dièse couleur web</a> (<a href="/w/index.php?title=Mod%C3%A8le:Di%C3%A8se_couleur_web&amp;action=edit" title="Modèle:Dièse couleur web">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Dur%C3%A9e" title="Modèle:Durée">Modèle:Durée</a> (<a href="/w/index.php?title=Mod%C3%A8le:Dur%C3%A9e&amp;action=edit" title="Modèle:Durée">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:En" title="Modèle:En">Modèle:En</a> (<a href="/w/index.php?title=Mod%C3%A8le:En&amp;action=edit" title="Modèle:En">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Espace" title="Modèle:Espace">Modèle:Espace</a> (<a href="/w/index.php?title=Mod%C3%A8le:Espace&amp;action=edit" title="Modèle:Espace">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:First_word" title="Modèle:First word">Modèle:First word</a> (<a href="/w/index.php?title=Mod%C3%A8le:First_word&amp;action=edit" title="Modèle:First word">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Fix" title="Modèle:Fix">Modèle:Fix</a> (<a href="/w/index.php?title=Mod%C3%A8le:Fix&amp;action=edit" title="Modèle:Fix">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Indication_de_langue" title="Modèle:Indication de langue">Modèle:Indication de langue</a> (<a href="/w/index.php?title=Mod%C3%A8le:Indication_de_langue&amp;action=edit" title="Modèle:Indication de langue">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox_Personnalit%C3%A9_politique" title="Modèle:Infobox Personnalité politique">Modèle:Infobox Personnalité politique</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox_Personnalit%C3%A9_politique&amp;action=edit" title="Modèle:Infobox Personnalité politique">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox_Personnalit%C3%A9_politique/Fonction" title="Modèle:Infobox Personnalité politique/Fonction">Modèle:Infobox Personnalité politique/Fonction</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox_Personnalit%C3%A9_politique/Fonction&amp;action=edit" title="Modèle:Infobox Personnalité politique/Fonction">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Infobox_Politicien" class="mw-redirect" title="Modèle:Infobox Politicien">Modèle:Infobox Politicien</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox_Politicien&amp;action=edit" class="mw-redirect" title="Modèle:Infobox Politicien">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/D%C3%A9but" title="Modèle:Infobox/Début">Modèle:Infobox/Début</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/D%C3%A9but&amp;action=edit" title="Modèle:Infobox/Début">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Fin" title="Modèle:Infobox/Fin">Modèle:Infobox/Fin</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Fin&amp;action=edit" title="Modèle:Infobox/Fin">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Image" title="Modèle:Infobox/Image">Modèle:Infobox/Image</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Image&amp;action=edit" title="Modèle:Infobox/Image">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Image_double" title="Modèle:Infobox/Image double">Modèle:Infobox/Image double</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Image_double&amp;action=edit" title="Modèle:Infobox/Image double">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Image_optionnelle" title="Modèle:Infobox/Image optionnelle">Modèle:Infobox/Image optionnelle</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Image_optionnelle&amp;action=edit" title="Modèle:Infobox/Image optionnelle">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Ligne_mixte_optionnelle" title="Modèle:Infobox/Ligne mixte optionnelle">Modèle:Infobox/Ligne mixte optionnelle</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Ligne_mixte_optionnelle&amp;action=edit" title="Modèle:Infobox/Ligne mixte optionnelle">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Ligne_optionnelle" title="Modèle:Infobox/Ligne optionnelle">Modèle:Infobox/Ligne optionnelle</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Ligne_optionnelle&amp;action=edit" title="Modèle:Infobox/Ligne optionnelle">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Notice" title="Modèle:Infobox/Notice">Modèle:Infobox/Notice</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Notice&amp;action=edit" title="Modèle:Infobox/Notice">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Sous-titre" title="Modèle:Infobox/Sous-titre">Modèle:Infobox/Sous-titre</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Sous-titre&amp;action=edit" title="Modèle:Infobox/Sous-titre">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Sous-titre_optionnel" title="Modèle:Infobox/Sous-titre optionnel">Modèle:Infobox/Sous-titre optionnel</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Sous-titre_optionnel&amp;action=edit" title="Modèle:Infobox/Sous-titre optionnel">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox/Titre" title="Modèle:Infobox/Titre">Modèle:Infobox/Titre</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox/Titre&amp;action=edit" title="Modèle:Infobox/Titre">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infodoc" title="Modèle:Infodoc">Modèle:Infodoc</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infodoc&amp;action=edit" title="Modèle:Infodoc">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Last_word" title="Modèle:Last word">Modèle:Last word</a> (<a href="/w/index.php?title=Mod%C3%A8le:Last_word&amp;action=edit" title="Modèle:Last word">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Lien_vers_mod%C3%A8le" title="Modèle:Lien vers modèle">Modèle:Lien vers modèle</a> (<a href="/w/index.php?title=Mod%C3%A8le:Lien_vers_mod%C3%A8le&amp;action=edit" title="Modèle:Lien vers modèle">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Lien_web" title="Modèle:Lien web">Modèle:Lien web</a> (<a href="/w/index.php?title=Mod%C3%A8le:Lien_web&amp;action=edit" title="Modèle:Lien web">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:MONTHNUMBER" title="Modèle:MONTHNUMBER">Modèle:MONTHNUMBER</a> (<a href="/w/index.php?title=Mod%C3%A8le:MONTHNUMBER&amp;action=edit" title="Modèle:MONTHNUMBER">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Multiparam%C3%A8tres-Lien" title="Modèle:Multiparamètres-Lien">Modèle:Multiparamètres-Lien</a> (<a href="/w/index.php?title=Mod%C3%A8le:Multiparam%C3%A8tres-Lien&amp;action=edit" title="Modèle:Multiparamètres-Lien">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_bandeau_d%27avertissement" title="Modèle:Méta bandeau d&#039;avertissement">Modèle:Méta bandeau d&#039;avertissement</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_bandeau_d%27avertissement&amp;action=edit" title="Modèle:Méta bandeau d&#039;avertissement">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_bandeau_de_section" title="Modèle:Méta bandeau de section">Modèle:Méta bandeau de section</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_bandeau_de_section&amp;action=edit" title="Modèle:Méta bandeau de section">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_lien_vers_portail" title="Modèle:Méta lien vers portail">Modèle:Méta lien vers portail</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_lien_vers_portail&amp;action=edit" title="Modèle:Méta lien vers portail">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_lien_vers_portail/Cat%C3%A9gorisation" title="Modèle:Méta lien vers portail/Catégorisation">Modèle:Méta lien vers portail/Catégorisation</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_lien_vers_portail/Cat%C3%A9gorisation&amp;action=edit" title="Modèle:Méta lien vers portail/Catégorisation">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Nobr" title="Modèle:Nobr">Modèle:Nobr</a> (<a href="/w/index.php?title=Mod%C3%A8le:Nobr&amp;action=edit" title="Modèle:Nobr">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Non_vide" title="Modèle:Non vide">Modèle:Non vide</a> (<a href="/w/index.php?title=Mod%C3%A8le:Non_vide&amp;action=edit" title="Modèle:Non vide">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Num%C3%A9ro" title="Modèle:Numéro">Modèle:Numéro</a> (<a href="/w/index.php?title=Mod%C3%A8le:Num%C3%A9ro&amp;action=edit" title="Modèle:Numéro">voir la source</a>) (protégé)</li><li>Cette liste peut être incomplète.</li></ul></td></tr>
+<tr id="mw-wikibase-pageinfo-entity-usage"><td style="vertical-align: top;">Entités de Wikidata utilisées sur cette page</td><td><ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q5">être humain</a></li><ul><li>Libellé&#160;: fr</li></ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q53713">Olof Palme</a></li><ul><li>Autre (déclarations)</li><li>Titre</li><li>Liens de site</li><li>Quelques déclarations</li></ul></ul></td></tr>
+</table>
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/wiki/Olof_Palme">https://fr.wikipedia.org/wiki/Olof_Palme</a>&#160;».</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Olof+Palme&amp;returntoquery=action%3Dinfo" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Olof+Palme&amp;returntoquery=action%3Dinfo" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Olof_Palme" title="Voir le contenu de la page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Discussion:Olof_Palme" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible"><a href="/wiki/Olof_Palme">Lire</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Olof_Palme&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Olof_Palme&amp;action=edit" title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Olof_Palme&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Olof_Palme" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Olof_Palme" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-info"><a href="/w/index.php?title=Olof_Palme&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q53713" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Olof_Palme&amp;action=info&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":233,"wgHostname":"mw1351"});});</script></body></html>

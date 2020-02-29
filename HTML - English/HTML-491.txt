@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>inspire - Wiktionary</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgcwQpAAD4AAG5oE5cAAABP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"inspire","wgTitle":"inspire","wgCurRevisionId":58665154,"wgRevisionId":58665154,"wgArticleId":62097,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["IPA for English using .ˈ or .ˌ","Requests for date/Dryden","Requests for date/Alexander Pope","Mandarin redlinks","Mandarin redlinks/t","Requests for review of Arabic translations","Requests for review of German translations",
+"Requests for translations into Hebrew","Requests for review of Interlingua translations","Requests for review of Irish translations","Requests for review of Japanese translations","Requests for review of Mandarin translations","Requests for translations into Old English","Requests for review of Spanish translations","Requests for translations into Turkish","English terms inherited from Middle English","English terms derived from Middle English","Middle English terms derived from Old French","Middle English terms derived from Latin","English 2-syllable words","English terms with IPA pronunciation","English 3-syllable words","English terms with audio links","English lemmas","English verbs","English transitive verbs","English terms with quotations","English intransitive verbs","English terms with archaic senses","Asturian non-lemma forms","Asturian verb forms","French non-lemma forms","French verb forms","Portuguese non-lemma forms","Portuguese verb forms","Spanish non-lemma forms",
+"Spanish verb forms","Spanish forms of verbs ending in -ar"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"inspire","wgRelevantArticleId":62097,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.column-hacks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.tmh.thumbnail.styles":
+"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.column-hacks&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=inspire&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=inspire&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/inspire"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-inspire rootpage-inspire skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">inspire</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="disambig-see-also-2"><i>See also:</i> <b class="Latn"><a href="/wiki/inspir%C3%A9" title="inspiré">inspiré</a></b> <i>and</i> <b class="Latn"><a href="/wiki/inspir%C4%93" title="inspirē">inspirē</a></b></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#English"><span class="tocnumber">1</span> <span class="toctext">English</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pronunciation"><span class="tocnumber">1.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Verb"><span class="tocnumber">1.3</span> <span class="toctext">Verb</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Synonyms"><span class="tocnumber">1.3.1</span> <span class="toctext">Synonyms</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Antonyms"><span class="tocnumber">1.3.2</span> <span class="toctext">Antonyms</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Derived_terms"><span class="tocnumber">1.3.3</span> <span class="toctext">Derived terms</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Related_terms"><span class="tocnumber">1.3.4</span> <span class="toctext">Related terms</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Translations"><span class="tocnumber">1.3.5</span> <span class="toctext">Translations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Anagrams"><span class="tocnumber">1.4</span> <span class="toctext">Anagrams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Asturian"><span class="tocnumber">2</span> <span class="toctext">Asturian</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Verb_2"><span class="tocnumber">2.1</span> <span class="toctext">Verb</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#French"><span class="tocnumber">3</span> <span class="toctext">French</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Verb_3"><span class="tocnumber">3.1</span> <span class="toctext">Verb</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Portuguese"><span class="tocnumber">4</span> <span class="toctext">Portuguese</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Verb_4"><span class="tocnumber">4.1</span> <span class="toctext">Verb</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Spanish"><span class="tocnumber">5</span> <span class="toctext">Spanish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Verb_5"><span class="tocnumber">5.1</span> <span class="toctext">Verb</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="English">English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=1" title="Edit section: English">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Middle_English" class="extiw" title="w:Middle English">Middle English</a></span> <i class="Latn mention" lang="enm"><a href="/wiki/inspiren#Middle_English" title="inspiren">inspiren</a></i>, <i class="Latn mention" lang="enm"><a href="/wiki/enspiren#Middle_English" title="enspiren">enspiren</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_French" class="extiw" title="w:Old French">Old French</a></span> <i class="Latn mention" lang="fro"><a href="/wiki/inspirer#Old_French" title="inspirer">inspirer</a></i>, variant of <i class="Latn mention" lang="fro"><a href="/wiki/espirer#Old_French" title="espirer">espirer</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/inspirare#Latin" title="inspirare">īnspīrāre</a></i>, present active infinitive of <i class="Latn mention" lang="la"><a href="/wiki/inspiro#Latin" title="inspiro">īnspīrō</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">inspire</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, itself a loan-translation of Biblical <span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek" class="extiw" title="w:Ancient Greek">Ancient Greek</a></span> <i class="polytonic mention" lang="grc"><a href="/wiki/%CF%80%CE%BD%CE%AD%CF%89#Ancient_Greek" title="πνέω">πνέω</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span lang="grc-Latn" class="mention-tr tr Latn">pnéō</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">breathe</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, from <i class="Latn mention" lang="la"><a href="/wiki/in#Latin" title="in">in</a></i> + <i class="Latn mention" lang="la"><a href="/wiki/spiro#Latin" title="spiro">spīrō</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">breathe</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=3" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/General_American" class="extiw" title="w:General American">General American</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ɪn.ˈspaɪɹ/</span></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/Received_Pronunciation" class="extiw" title="w:Received Pronunciation">Received Pronunciation</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ɪn.ˈspaɪə(ɹ)/</span></li>
+<li>Rhymes: <a href="/wiki/Rhymes:English/a%C9%AA%C9%99(%C9%B9)" title="Rhymes:English/aɪə(ɹ)"><span class="IPA">-aɪə(ɹ)</span></a></li>
+<li><style data-mw-deduplicate="TemplateStyles:r50165410">.mw-parser-output .k-player .k-attribution{visibility:hidden}</style><table class="audiotable" style="vertical-align: bottom; display:inline-block; list-style:none;line-height: 1em; border-collapse:collapse;"><tbody><tr><td class="unicode audiolink" style="padding-right:5px; padding-left: 0;">Audio (UK)</td><td class="audiofile"><div class="mediaContainer" style="width:175px"><audio id="mwe_player_0" controls="" preload="none" style="width:175px" class="kskin" data-durationhint="1.224" data-startoffset="0" data-mwtitle="LL-Q1860_(eng)-Vealhurl-inspire.wav" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/LL-Q1860_%28eng%29-Vealhurl-inspire.wav/LL-Q1860_%28eng%29-Vealhurl-inspire.wav.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Ogg Vorbis" data-shorttitle="Ogg Vorbis" data-transcodekey="ogg" data-width="0" data-height="0" data-bandwidth="101816" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f7/LL-Q1860_%28eng%29-Vealhurl-inspire.wav/LL-Q1860_%28eng%29-Vealhurl-inspire.wav.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="117200" /><source src="//upload.wikimedia.org/wikipedia/commons/f/f7/LL-Q1860_%28eng%29-Vealhurl-inspire.wav" type="audio/wav" data-title="Original WAV file (768 kbps)" data-shorttitle="WAV source" data-width="0" data-height="0" data-bandwidth="768000" /></audio></div></td><td class="audiometa" style="font-size: 80%;">(<a href="/wiki/File:LL-Q1860_(eng)-Vealhurl-inspire.wav" title="File:LL-Q1860 (eng)-Vealhurl-inspire.wav">file</a>)</td></tr></tbody></table></li></ul>
+<h3><span class="mw-headline" id="Verb">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=4" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="en">inspire</strong> (<i>third-person singular simple present</i> <b class="Latn form-of lang-en 3&#124;s&#124;pres-form-of" lang="en"><a href="/wiki/inspires#English" title="inspires">inspires</a></b>, <i>present participle</i> <b class="Latn form-of lang-en pres&#124;ptcp-form-of" lang="en"><a href="/wiki/inspiring#English" title="inspiring">inspiring</a></b>, <i>simple past and past participle</i> <b class="Latn form-of lang-en past&#124;and&#124;past&#124;ptcp-form-of" lang="en"><a href="/wiki/inspired#English" title="inspired">inspired</a></b>)
+</p>
+<ol><li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#transitive" title="Appendix:Glossary">transitive</a></span><span class="ib-brac">)</span> To <a href="/wiki/infuse" title="infuse">infuse</a> into the mind; to <a href="/wiki/communicate" title="communicate">communicate</a> to the spirit; to <a href="/wiki/convey" title="convey">convey</a>, as by a divine or supernatural influence; to <a href="/wiki/disclose" title="disclose">disclose</a> preternaturally; to <a href="/wiki/produce" title="produce">produce</a> in, as by inspiration.
+<ul><li><div class="citation-whole"><span class="cited-source"><b>1611</b>,  <cite><a href="https://en.wikipedia.org/wiki/Bible" class="extiw" title="w:Bible">The Holy Bible,<span class="q-hellip-sp">&#160;</span><span class="q-hellip-b"><span style="font-style: normal;">[</span></span><span title="Conteyning the Old Testament, and the New. Newly Translated out of the Originall Tongues: &amp; with the Former Translations Diligently Compared and Reuised, by His Maiesties Speciall Comandement. Appointed to be Read in Churches.">…</span><span class="q-hellip-b"><span style="font-style: normal;">]</span></span><span class="q-hellip-b"></span></a></cite> (<a href="https://en.wikipedia.org/wiki/King_James_Version" class="extiw" title="w:King James Version">King James Version</a>), imprinted at London&#58; By <a href="https://en.wikipedia.org/wiki/Robert_Barker_(printer)" class="extiw" title="w:Robert Barker (printer)">Robert Barker</a>,<span class="q-hellip-sp">&#160;</span><span class="q-hellip-b">[</span><span title="printer to the Kings Most Excellent Maiestie.">…</span><span class="q-hellip-b">]</span><span class="q-hellip-b"></span>, <small><a href="https://en.wikipedia.org/wiki/OCLC" class="extiw" title="w:OCLC">OCLC</a> <a rel="nofollow" class="external text" href="http://worldcat.org/oclc/964384981">964384981</a></small>, <a href="https://en.wikipedia.org/wiki/Wisdom" class="extiw" title="w:Wisdom">Wisdom</a> <a rel="nofollow" class="external text" href="https://www.kingjamesbibleonline.org/1611_Wisdom-Chapter-15/#11">15:11</a>:</span><dl><dd><div class="h-quotation"><span class="Latn e-quotation" lang="en">He knew not his Maker, and him that <b>inspired</b> into him an active soul.</span></div></dd></dl></div></li>
+<li><b>c. 1588-1593</b>, <a href="https://en.wikipedia.org/wiki/William_Shakespeare" class="extiw" title="wikipedia:William Shakespeare">William Shakespeare</a>, <i>Titus Andronicus</i>
+<dl><dd>Dawning day new comfort hath <b>inspired</b>.</dd></dl></li>
+<li><div class="citation-whole"><span class="cited-source"><b>2012</b> March-April,  Anna Lena Phillips,  “Sneaky Silk Moths”, in  <cite><a href="https://en.wikipedia.org/wiki/American_Scientist" class="extiw" title="wikipedia:American Scientist">American Scientist</a></cite>&#8206;<sup><a rel="nofollow" class="external autonumber" href="http://www.americanscientist.org/bookshelf/pub/sneaky-silk-moths">[1]</a></sup>, volume 100, number 2, page 172:</span><dl><dd><div class="h-quotation"><span class="Latn e-quotation" lang="en">Last spring, the periodical cicadas emerged across eastern North America. Their vast numbers and short above-ground life spans <b>inspired</b> awe and irritation in humans—and made for good meals for birds and small mammals.</span></div></dd></dl></div></li></ul></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#transitive" title="Appendix:Glossary">transitive</a></span><span class="ib-brac">)</span> To infuse into; to <a href="/wiki/affect" title="affect">affect</a>, as with a superior or supernatural influence; to <a href="/wiki/fill" title="fill">fill</a> with what <a href="/wiki/animate" title="animate">animates</a>, <a href="/wiki/enliven" title="enliven">enlivens</a> or <a href="/wiki/exalt" title="exalt">exalts</a>; to <a href="/wiki/communicate" title="communicate">communicate</a> inspiration to.
+<dl><dd><i>Elders should <b>inspire</b> children with sentiments of virtue.</i></dd></dl>
+<ul><li><span class="maintenance-line" style="color: #777777;">(Can we <a href="/wiki/Category:Requests_for_date" title="Category:Requests for date">date</a> this quote by Dryden and provide title, author's full name, and other details?)</span>
+<dl><dd>Erato, thy poet's mind <b>inspire</b>, / And fill his soul with thy celestial fire.</dd></dl></li></ul></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#intransitive" title="Appendix:Glossary">intransitive</a></span><span class="ib-brac">)</span> To <a href="/wiki/draw_in" title="draw in">draw in</a> by the operation of breathing; to <a href="/wiki/inhale" title="inhale">inhale</a>.
+<ul><li><b>c. 1670</b>, Gideon Harvey, <i>Morbus Anglicus", Or a Theoretick and Practical Discourse of Consumptions and Hypochondriack Melancholy... Likewise a Discourse of Spitting of Blood</i>
+<dl><dd>By means of those sulfurous coal smokes the lungs are as it were stifled and extremely oppressed, whereby they are forced to <b>inspire</b> and expire the air with difficulty.</dd></dl></li></ul></li>
+<li>To <a href="/wiki/infuse" title="infuse">infuse</a> by breathing, or as if by breathing.</li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#archaic" title="Appendix:Glossary">archaic</a><span class="ib-comma">,</span>&#32;<a href="/wiki/Appendix:Glossary#transitive" title="Appendix:Glossary">transitive</a></span><span class="ib-brac">)</span> To breathe into; to fill with the breath; to animate.
+<ul><li><span class="maintenance-line" style="color: #777777;">(Can we <a href="/wiki/Category:Requests_for_date" title="Category:Requests for date">date</a> this quote by Alexander Pope and provide title, author's full name, and other details?)</span>
+<dl><dd>Descend, ye Nine, descend and sing, / The breathing instruments <b>inspire</b>.</dd></dl></li></ul></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#transitive" title="Appendix:Glossary">transitive</a></span><span class="ib-brac">)</span> To spread <a href="/wiki/rumour" title="rumour">rumour</a> indirectly.</li></ol>
+<h4><span class="mw-headline" id="Synonyms">Synonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=5" title="Edit section: Synonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="en"><a href="/wiki/beghast#English" title="beghast">beghast</a></span></li></ul>
+<h4><span class="mw-headline" id="Antonyms">Antonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=6" title="Edit section: Antonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">inhale</span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span> <span class="Latn" lang="en"><a href="/wiki/expire#English" title="expire">expire</a></span></li></ul>
+<h4><span class="mw-headline" id="Derived_terms">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=7" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="en"><a href="/wiki/inspirer#English" title="inspirer">inspirer</a></span></li></ul>
+<h4><span class="mw-headline" id="Related_terms">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=8" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="en"><a href="/wiki/inspiration#English" title="inspiration">inspiration</a></span></li>
+<li><span class="Latn" lang="en"><a href="/wiki/inspirational#English" title="inspirational">inspirational</a></span></li>
+<li><span class="Latn" lang="en"><a href="/wiki/inspirator#English" title="inspirator">inspirator</a></span></li>
+<li><span class="Latn" lang="en"><a href="/wiki/inspiratory#English" title="inspiratory">inspiratory</a></span></li></ul>
+<h4><span class="mw-headline" id="Translations">Translations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=9" title="Edit section: Translations">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="NavFrame" id="Translations-to_infuse_into_the_mind;_to_communicate_to_the_spirit">
+<div class="NavHead" style="text-align:left;">to infuse into the mind; to communicate to the spirit</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="to infuse into the mind; to communicate to the spirit">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Bulgarian: <span class="Cyrl" lang="bg"><a href="/w/index.php?title=%D0%B2%D0%BD%D1%83%D1%88%D0%B0%D0%B2%D0%B0%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="внушавам (page does not exist)">внушавам</a></span><span class="tpos">&#160;<a href="https://bg.wiktionary.org/wiki/%D0%B2%D0%BD%D1%83%D1%88%D0%B0%D0%B2%D0%B0%D0%BC" class="extiw" title="bg:внушавам">(bg)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="bg-Latn" class="tr Latn">vnušavam</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Chinese:
+<dl><dd>Mandarin: <span class="Hani" lang="cmn"><a href="/wiki/%E6%8E%88%E6%84%8F#Mandarin" title="授意">授意</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E6%8E%88%E6%84%8F" class="extiw" title="zh:授意">(zh)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="cmn-Latn" class="tr Latn">shòuyì</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Hani" lang="cmn"><a href="/wiki/%E9%BC%93%E8%88%9E#Mandarin" title="鼓舞">鼓舞</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E9%BC%93%E8%88%9E" class="extiw" title="zh:鼓舞">(zh)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="cmn-Latn" class="tr Latn">gǔwǔ</span><span class="mention-gloss-paren annotation-paren">)</span></dd></dl></li>
+<li>Czech: <span class="Latn" lang="cs"><a href="/wiki/inspirovat#Czech" title="inspirovat">inspirovat</a></span></li>
+<li>Dutch: <span class="Latn" lang="nl"><a href="/wiki/inspireren#Dutch" title="inspireren">inspireren</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/inspireren" class="extiw" title="nl:inspireren">(nl)</a></span></li>
+<li>Finnish: <span class="Latn" lang="fi"><a href="/wiki/el%C3%A4hdytt%C3%A4%C3%A4#Finnish" title="elähdyttää">elähdyttää</a></span>, <span class="Latn" lang="fi"><a href="/wiki/innoittaa#Finnish" title="innoittaa">innoittaa</a></span>, <span class="Latn" lang="fi"><a href="/wiki/inspiroida#Finnish" title="inspiroida">inspiroida</a></span><span class="tpos">&#160;<a href="https://fi.wiktionary.org/wiki/inspiroida" class="extiw" title="fi:inspiroida">(fi)</a></span></li>
+<li>French: <span class="Latn" lang="fr"><a href="/wiki/inspirer#French" title="inspirer">inspirer</a></span><span class="tpos">&#160;<a href="https://fr.wiktionary.org/wiki/inspirer" class="extiw" title="fr:inspirer">(fr)</a></span></li>
+<li>Galician: <span class="Latn" lang="gl"><a href="/wiki/inspirar#Galician" title="inspirar">inspirar</a></span><span class="tpos">&#160;<a href="https://gl.wiktionary.org/wiki/inspirar" class="extiw" title="gl:inspirar">(gl)</a></span></li>
+<li>Georgian: <span class="Geor" lang="ka"><a href="/w/index.php?title=%E1%83%A8%E1%83%97%E1%83%90%E1%83%90%E1%83%92%E1%83%9D%E1%83%9C%E1%83%94%E1%83%91%E1%83%A1&amp;action=edit&amp;redlink=1" class="new" title="შთააგონებს (page does not exist)">შთააგონებს</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ka-Latn" class="tr Latn">štaagonebs</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Greek: <span class="Grek" lang="el"><a href="/wiki/%CE%B5%CE%BC%CF%80%CE%BD%CE%AD%CF%89#Greek" title="εμπνέω">εμπνέω</a></span><span class="tpos">&#160;<a href="https://el.wiktionary.org/wiki/%CE%B5%CE%BC%CF%80%CE%BD%CE%AD%CF%89" class="extiw" title="el:εμπνέω">(el)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="el-Latn" class="tr Latn">empnéo</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Hungarian: <span class="Latn" lang="hu"><a href="/w/index.php?title=sugalmaz&amp;action=edit&amp;redlink=1" class="new" title="sugalmaz (page does not exist)">sugalmaz</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/sugalmaz" class="extiw" title="hu:sugalmaz">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/w/index.php?title=megihlet&amp;action=edit&amp;redlink=1" class="new" title="megihlet (page does not exist)">megihlet</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/megihlet" class="extiw" title="hu:megihlet">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/wiki/ihlet#Hungarian" title="ihlet">ihlet</a><a href="/wiki/-et#Hungarian" title="-et">et</a> <a href="/wiki/ad#Hungarian" title="ad">ad</a></span>, <span class="Latn" lang="hu"><a href="/wiki/kelt#Hungarian" title="kelt">kelt</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/kelt" class="extiw" title="hu:kelt">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/wiki/%C3%A9breszt#Hungarian" title="ébreszt">ébreszt</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/%C3%A9breszt" class="extiw" title="hu:ébreszt">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/w/index.php?title=inspir%C3%A1l&amp;action=edit&amp;redlink=1" class="new" title="inspirál (page does not exist)">inspirál</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/inspir%C3%A1l" class="extiw" title="hu:inspirál">(hu)</a></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Icelandic: <span class="Latn" lang="is"><a href="/wiki/hvetja#Icelandic" title="hvetja">hvetja</a></span></li>
+<li>Italian: <span class="Latn" lang="it"><a href="/wiki/ispirare#Italian" title="ispirare">ispirare</a></span><span class="tpos">&#160;<a href="https://it.wiktionary.org/wiki/ispirare" class="extiw" title="it:ispirare">(it)</a></span></li>
+<li>Latvian: <span class="Latn" lang="lv"><a href="/wiki/inspir%C4%93t#Latvian" title="inspirēt">inspirēt</a></span>, <span class="Latn" lang="lv"><a href="/w/index.php?title=iedvest&amp;action=edit&amp;redlink=1" class="new" title="iedvest (page does not exist)">iedvest</a></span>, <span class="Latn" lang="lv"><a href="/w/index.php?title=iedvesmot&amp;action=edit&amp;redlink=1" class="new" title="iedvesmot (page does not exist)">iedvesmot</a></span></li>
+<li>Polish: <span class="Latn" lang="pl"><a href="/w/index.php?title=inspirowa%C4%87&amp;action=edit&amp;redlink=1" class="new" title="inspirować (page does not exist)">inspirować</a></span><span class="tpos">&#160;<a href="https://pl.wiktionary.org/wiki/inspirowa%C4%87" class="extiw" title="pl:inspirować">(pl)</a></span>&#160;<span class="gender"><abbr title="imperfective aspect">impf</abbr></span>, <span class="Latn" lang="pl"><a href="/w/index.php?title=zainspirowa%C4%87&amp;action=edit&amp;redlink=1" class="new" title="zainspirować (page does not exist)">zainspirować</a></span>&#160;<span class="gender"><abbr title="perfective aspect">pf</abbr></span></li>
+<li>Portuguese: <span class="Latn" lang="pt"><a href="/wiki/inspirar#Portuguese" title="inspirar">inspirar</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/inspirar" class="extiw" title="pt:inspirar">(pt)</a></span></li>
+<li>Romanian: <span class="Latn" lang="ro"><a href="/wiki/inspira#Romanian" title="inspira">inspira</a></span><span class="tpos">&#160;<a href="https://ro.wiktionary.org/wiki/inspira" class="extiw" title="ro:inspira">(ro)</a></span></li>
+<li>Russian: <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%BD%D1%83%D1%88%D0%B0%D1%82%D1%8C#Russian" title="внушать">внуша́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%BD%D1%83%D1%88%D0%B0%D1%82%D1%8C" class="extiw" title="ru:внушать">(ru)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vnušátʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%BD%D1%83%D1%88%D0%B8%D1%82%D1%8C#Russian" title="внушить">внуши́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%BD%D1%83%D1%88%D0%B8%D1%82%D1%8C" class="extiw" title="ru:внушить">(ru)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vnušítʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D1%82%D1%8C#Russian" title="вдохновлять">вдохновля́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D1%82%D1%8C" class="extiw" title="ru:вдохновлять">(ru)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vdoxnovljátʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C#Russian" title="вдохновить">вдохнови́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C" class="extiw" title="ru:вдохновить">(ru)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vdoxnovítʹ</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Swedish: <span class="Latn" lang="sv"><a href="/wiki/inspirera#Swedish" title="inspirera">inspirera</a></span><span class="tpos">&#160;<a href="https://sv.wiktionary.org/wiki/inspirera" class="extiw" title="sv:inspirera">(sv)</a></span></li>
+<li>Turkish: <span class="Latn" lang="tr"><a href="/wiki/esinlemek#Turkish" title="esinlemek">esinlemek</a></span><span class="tpos">&#160;<a href="https://tr.wiktionary.org/wiki/esinlemek" class="extiw" title="tr:esinlemek">(tr)</a></span>, <span class="Latn" lang="tr"><a href="/w/index.php?title=ilham_vermek&amp;action=edit&amp;redlink=1" class="new" title="ilham vermek (page does not exist)">ilham vermek</a></span></li>
+<li>Welsh: <span class="Latn" lang="cy"><a href="/wiki/ysbrydoli#Welsh" title="ysbrydoli">ysbrydoli</a></span><span class="tpos">&#160;<a href="https://cy.wiktionary.org/wiki/ysbrydoli" class="extiw" title="cy:ysbrydoli">(cy)</a></span></li></ul>
+</td></tr></tbody></table></div></div>
+<div class="NavFrame" id="Translations-to_infuse_into;_to_affect,_as_with_a_superior_or_supernatural_influence">
+<div class="NavHead" style="text-align:left;">to infuse into; to affect, as with a superior or supernatural influence</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="to infuse into; to affect, as with a superior or supernatural influence">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Armenian: <span class="Armn" lang="hy"><a href="/wiki/%D5%B8%D5%A3%D5%A5%D5%B7%D5%B6%D5%B9%D5%A5%D5%AC#Armenian" title="ոգեշնչել">ոգեշնչել</a></span><span class="tpos">&#160;<a href="https://hy.wiktionary.org/wiki/%D5%B8%D5%A3%D5%A5%D5%B7%D5%B6%D5%B9%D5%A5%D5%AC" class="extiw" title="hy:ոգեշնչել">(hy)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="hy-Latn" class="tr Latn">ogešnčʿel</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Bulgarian: <span class="Cyrl" lang="bg"><a href="/w/index.php?title=%D0%B2%D0%B4%D1%8A%D1%85%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC&amp;action=edit&amp;redlink=1" class="new" title="вдъхновявам (page does not exist)">вдъхновявам</a></span><span class="tpos">&#160;<a href="https://bg.wiktionary.org/wiki/%D0%B2%D0%B4%D1%8A%D1%85%D0%BD%D0%BE%D0%B2%D1%8F%D0%B2%D0%B0%D0%BC" class="extiw" title="bg:вдъхновявам">(bg)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="bg-Latn" class="tr Latn">vdǎhnovjavam</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Chinese:
+<dl><dd>Mandarin: <span class="Hani" lang="cmn"><a href="/wiki/%E5%BD%B1%E5%93%8D#Mandarin" title="影响">影响</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E5%BD%B1%E5%93%8D" class="extiw" title="zh:影响">(zh)</a></span></dd></dl></li>
+<li>Finnish: <span class="Latn" lang="fi"><a href="/wiki/innostaa#Finnish" title="innostaa">innostaa</a></span><span class="tpos">&#160;<a href="https://fi.wiktionary.org/wiki/innostaa" class="extiw" title="fi:innostaa">(fi)</a></span>, <span class="Latn" lang="fi"><a href="/wiki/inspiroida#Finnish" title="inspiroida">inspiroida</a></span><span class="tpos">&#160;<a href="https://fi.wiktionary.org/wiki/inspiroida" class="extiw" title="fi:inspiroida">(fi)</a></span></li>
+<li>French: <span class="Latn" lang="fr"><a href="/wiki/inspirer#French" title="inspirer">inspirer</a></span><span class="tpos">&#160;<a href="https://fr.wiktionary.org/wiki/inspirer" class="extiw" title="fr:inspirer">(fr)</a></span></li>
+<li>Galician: <span class="Latn" lang="gl"><a href="/wiki/inspirar#Galician" title="inspirar">inspirar</a></span><span class="tpos">&#160;<a href="https://gl.wiktionary.org/wiki/inspirar" class="extiw" title="gl:inspirar">(gl)</a></span></li>
+<li>Hungarian: <span class="Latn" lang="hu"><a href="/wiki/%C3%B6szt%C3%B6n%C3%B6z#Hungarian" title="ösztönöz">ösztönöz</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/%C3%B6szt%C3%B6n%C3%B6z" class="extiw" title="hu:ösztönöz">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/wiki/lelkes%C3%ADt#Hungarian" title="lelkesít">lelkesít</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/lelkes%C3%ADt" class="extiw" title="hu:lelkesít">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/w/index.php?title=inspir%C3%A1l&amp;action=edit&amp;redlink=1" class="new" title="inspirál (page does not exist)">inspirál</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/inspir%C3%A1l" class="extiw" title="hu:inspirál">(hu)</a></span></li>
+<li>Latin: <span class="Latn" lang="la"><a href="/wiki/afflo#Latin" title="afflo">afflō</a></span>, <span class="Latn" lang="la"><a href="/wiki/inicio#Latin" title="inicio">iniciō</a></span>, <span class="Latn" lang="la"><a href="/wiki/inspiro#Latin" title="inspiro">īnspīrō</a></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Latvian: <span class="Latn" lang="lv"><a href="/wiki/inspir%C4%93t#Latvian" title="inspirēt">inspirēt</a></span>, <span class="Latn" lang="lv"><a href="/w/index.php?title=iedvest&amp;action=edit&amp;redlink=1" class="new" title="iedvest (page does not exist)">iedvest</a></span>, <span class="Latn" lang="lv"><a href="/w/index.php?title=iedvesmot&amp;action=edit&amp;redlink=1" class="new" title="iedvesmot (page does not exist)">iedvesmot</a></span></li>
+<li>Maori: <span class="Latn" lang="mi"><a href="/w/index.php?title=whakamanawa&amp;action=edit&amp;redlink=1" class="new" title="whakamanawa (page does not exist)">whakamanawa</a></span>, <span class="Latn" lang="mi"><a href="/w/index.php?title=toitoi_manawa&amp;action=edit&amp;redlink=1" class="new" title="toitoi manawa (page does not exist)">toitoi manawa</a></span>, <span class="Latn" lang="mi"><a href="/w/index.php?title=whakaohooho&amp;action=edit&amp;redlink=1" class="new" title="whakaohooho (page does not exist)">whakaohooho</a></span>, <span class="Latn" lang="mi"><a href="/w/index.php?title=whakakipakipa&amp;action=edit&amp;redlink=1" class="new" title="whakakipakipa (page does not exist)">whakakipakipa</a></span>, <span class="Latn" lang="mi"><a href="/w/index.php?title=whakahihiko&amp;action=edit&amp;redlink=1" class="new" title="whakahihiko (page does not exist)">whakahihiko</a></span></li>
+<li>Romanian: <span class="Latn" lang="ro"><a href="/wiki/inspira#Romanian" title="inspira">inspira</a></span><span class="tpos">&#160;<a href="https://ro.wiktionary.org/wiki/inspira" class="extiw" title="ro:inspira">(ro)</a></span></li>
+<li>Russian: <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D1%82%D1%8C#Russian" title="вдохновлять">вдохновля́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D1%82%D1%8C" class="extiw" title="ru:вдохновлять">(ru)</a></span>&#160;<span class="gender"><abbr title="imperfective aspect">impf</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vdoxnovljátʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C#Russian" title="вдохновить">вдохнови́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C" class="extiw" title="ru:вдохновить">(ru)</a></span>&#160;<span class="gender"><abbr title="perfective aspect">pf</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vdoxnovítʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%BE%D0%BE%D0%B4%D1%83%D1%88%D0%B5%D0%B2%D0%BB%D1%8F%D1%82%D1%8C#Russian" title="воодушевлять">воодушевля́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%BE%D0%B4%D1%83%D1%88%D0%B5%D0%B2%D0%BB%D1%8F%D1%82%D1%8C" class="extiw" title="ru:воодушевлять">(ru)</a></span>&#160;<span class="gender"><abbr title="imperfective aspect">impf</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vooduševljátʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%BE%D0%BE%D0%B4%D1%83%D1%88%D0%B5%D0%B2%D0%B8%D1%82%D1%8C#Russian" title="воодушевить">воодушеви́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%BE%D0%BE%D0%B4%D1%83%D1%88%D0%B5%D0%B2%D0%B8%D1%82%D1%8C" class="extiw" title="ru:воодушевить">(ru)</a></span>&#160;<span class="gender"><abbr title="perfective aspect">pf</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vooduševítʹ</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Spanish: <span class="Latn" lang="es"><a href="/wiki/inspirar#Spanish" title="inspirar">inspirar</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/inspirar" class="extiw" title="es:inspirar">(es)</a></span>, <span class="Latn" lang="es"><a href="/wiki/infundir#Spanish" title="infundir">infundir</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/infundir" class="extiw" title="es:infundir">(es)</a></span></li>
+<li>Swedish: <span class="Latn" lang="sv"><a href="/wiki/inspirera#Swedish" title="inspirera">inspirera</a></span><span class="tpos">&#160;<a href="https://sv.wiktionary.org/wiki/inspirera" class="extiw" title="sv:inspirera">(sv)</a></span></li>
+<li>Welsh: <span class="Latn" lang="cy"><a href="/wiki/ysbrydoli#Welsh" title="ysbrydoli">ysbrydoli</a></span><span class="tpos">&#160;<a href="https://cy.wiktionary.org/wiki/ysbrydoli" class="extiw" title="cy:ysbrydoli">(cy)</a></span></li></ul>
+</td></tr></tbody></table></div></div>
+<div class="pseudo NavFrame"><div class="NavHead" style="text-align: left;">to inhale <span style="font-weight: normal">— <i>see</i></span> <a href="/wiki/inhale" title="inhale">inhale</a></div></div>
+<div class="NavFrame" id="Translations-to_infuse_by_breathing,_or_as_if_by_breathing">
+<div class="NavHead" style="text-align:left;">to infuse by breathing, or as if by breathing</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="to infuse by breathing, or as if by breathing">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Bulgarian: <span class="Cyrl" lang="bg"><a href="/wiki/%D0%B2%D0%B4%D0%B8%D1%88%D0%B2%D0%B0%D0%BC#Bulgarian" title="вдишвам">вдишвам</a></span><span class="tpos">&#160;<a href="https://bg.wiktionary.org/wiki/%D0%B2%D0%B4%D0%B8%D1%88%D0%B2%D0%B0%D0%BC" class="extiw" title="bg:вдишвам">(bg)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="bg-Latn" class="tr Latn">vdišvam</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Chinese:
+<dl><dd>Mandarin: <span class="Hani" lang="cmn"><a href="/wiki/%E5%90%B8%E5%85%A5#Mandarin" title="吸入">吸入</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E5%90%B8%E5%85%A5" class="extiw" title="zh:吸入">(zh)</a></span></dd></dl></li>
+<li>Dutch: <span class="Latn" lang="nl"><a href="/wiki/beademen#Dutch" title="beademen">beademen</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/beademen" class="extiw" title="nl:beademen">(nl)</a></span></li>
+<li>French: <span class="Latn" lang="fr"><a href="/wiki/inspirer#French" title="inspirer">inspirer</a></span><span class="tpos">&#160;<a href="https://fr.wiktionary.org/wiki/inspirer" class="extiw" title="fr:inspirer">(fr)</a></span></li>
+<li>Greek: <span class="Grek" lang="el"><a href="/wiki/%CF%80%CE%BD%CE%AD%CF%89#Greek" title="πνέω">πνέω</a></span><span class="tpos">&#160;<a href="https://el.wiktionary.org/wiki/%CF%80%CE%BD%CE%AD%CF%89" class="extiw" title="el:πνέω">(el)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="el-Latn" class="tr Latn">pnéo</span><span class="mention-gloss-paren annotation-paren">)</span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Hungarian: <span class="Latn" lang="hu"><a href="/w/index.php?title=elt%C3%B6lt&amp;action=edit&amp;redlink=1" class="new" title="eltölt (page does not exist)">eltölt</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/elt%C3%B6lt" class="extiw" title="hu:eltölt">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/w/index.php?title=el%C3%B6nt&amp;action=edit&amp;redlink=1" class="new" title="elönt (page does not exist)">elönt</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/el%C3%B6nt" class="extiw" title="hu:elönt">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/wiki/t%C3%B6lt#Hungarian" title="tölt">tölt</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/t%C3%B6lt" class="extiw" title="hu:tölt">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/wiki/%C3%B6nt#Hungarian" title="önt">önt</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/%C3%B6nt" class="extiw" title="hu:önt">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/w/index.php?title=%C3%A1that&amp;action=edit&amp;redlink=1" class="new" title="áthat (page does not exist)">áthat</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/%C3%A1that" class="extiw" title="hu:áthat">(hu)</a></span>, <span class="Latn" lang="hu"><a href="/w/index.php?title=%C3%A1tj%C3%A1r&amp;action=edit&amp;redlink=1" class="new" title="átjár (page does not exist)">átjár</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/%C3%A1tj%C3%A1r" class="extiw" title="hu:átjár">(hu)</a></span></li>
+<li>Italian: <span class="Latn" lang="it"><a href="/wiki/ispirare#Italian" title="ispirare">ispirare</a></span><span class="tpos">&#160;<a href="https://it.wiktionary.org/wiki/ispirare" class="extiw" title="it:ispirare">(it)</a></span></li>
+<li>Latin: <span class="Latn" lang="la"><a href="/wiki/afflo#Latin" title="afflo">afflō</a></span></li>
+<li>Russian: <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%B4%D1%8B%D1%85%D0%B0%D1%82%D1%8C#Russian" title="вдыхать">вдыха́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D1%8B%D1%85%D0%B0%D1%82%D1%8C" class="extiw" title="ru:вдыхать">(ru)</a></span>&#160;<span class="gender"><abbr title="imperfective aspect">impf</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vdyxátʹ</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D1%83%D1%82%D1%8C#Russian" title="вдохнуть">вдохну́ть</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D1%83%D1%82%D1%8C" class="extiw" title="ru:вдохнуть">(ru)</a></span>&#160;<span class="gender"><abbr title="imperfective aspect">impf</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">vdoxnútʹ</span><span class="mention-gloss-paren annotation-paren">)</span></li></ul>
+</td></tr></tbody></table></div></div>
+<div class="NavFrame" id="Translations-archaic:_to_breathe_into;_to_fill_with_the_breath;_to_animate">
+<div class="NavHead" style="text-align:left;">archaic: to breathe into; to fill with the breath; to animate</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="archaic: to breathe into; to fill with the breath; to animate">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Chinese:
+<dl><dd>Mandarin: <span class="Hani" lang="cmn"><a href="/w/index.php?title=%E5%90%B9%E5%85%A5&amp;action=edit&amp;redlink=1" class="new" title="吹入 (page does not exist)">吹入</a></span>, <span class="Hani" lang="cmn"><a href="/wiki/%E5%90%B9%E5%A5%8F#Mandarin" title="吹奏">吹奏</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E5%90%B9%E5%A5%8F" class="extiw" title="zh:吹奏">(zh)</a></span></dd></dl></li>
+<li>Dutch: <span class="Latn" lang="nl"><a href="/wiki/beademen#Dutch" title="beademen">beademen</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/beademen" class="extiw" title="nl:beademen">(nl)</a></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Italian: <span class="Latn" lang="it"><a href="/wiki/ispirare#Italian" title="ispirare">ispirare</a></span><span class="tpos">&#160;<a href="https://it.wiktionary.org/wiki/ispirare" class="extiw" title="it:ispirare">(it)</a></span></li>
+<li>Latin: <span class="Latn" lang="la"><a href="/wiki/inspiro#Latin" title="inspiro">īnspīrō</a></span></li></ul>
+</td></tr></tbody></table></div></div>
+<div class="checktrans">
+<dl><dd><i>The translations below need to be checked and inserted above into the appropriate translation tables, removing any numbers. Numbers do not necessarily match those in definitions. See instructions at <a href="/wiki/Wiktionary:Entry_layout#Translations" title="Wiktionary:Entry layout">Wiktionary:Entry layout#Translations</a>.</i></dd></dl>
+</div>
+<div class="NavFrame">
+<div class="NavHead" style="text-align:left;">Translations to be checked</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="Translations to be checked">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Arabic: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Arab" lang="ar"><a href="/wiki/%D8%A3%D9%84%D9%87%D9%85#Arabic" title="ألهم">أَلْهَمَ</a></span>&#8206; <span class="mention-gloss-paren annotation-paren">(</span><span lang="ar-Latn" class="tr Latn">ʾalhama</span><span class="mention-gloss-paren annotation-paren">)</span></span></li>
+<li>German: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="de"><a href="/wiki/einhauchen#German" title="einhauchen">einhauchen</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/einhauchen" class="extiw" title="de:einhauchen">(de)</a></span></span>, <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="de"><a href="/wiki/einfl%C3%B6%C3%9Fen#German" title="einflößen">einflößen</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/einfl%C3%B6%C3%9Fen" class="extiw" title="de:einflößen">(de)</a></span></span>, <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="de"><a href="/wiki/begeistern#German" title="begeistern">begeistern</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/begeistern" class="extiw" title="de:begeistern">(de)</a></span></span></li>
+<li>Hebrew: <span class="trreq" data-lang="he"><i>please add this translation if you can</i></span></li>
+<li>Interlingua: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="ia"><a href="/wiki/inspirar#Interlingua" title="inspirar">inspirar</a></span></span></li>
+<li>Irish: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="ga"><a href="/wiki/spreag#Irish" title="spreag">spreag</a></span></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Japanese: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Jpan" lang="ja"><a href="/wiki/%E5%8B%95%E3%81%8B%E3%81%99#Japanese" title="動かす">動かす</a></span><span class="tpos">&#160;<a href="https://ja.wiktionary.org/wiki/%E5%8B%95%E3%81%8B%E3%81%99" class="extiw" title="ja:動かす">(ja)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="tr">うごかす, ugokasu</span><span class="mention-gloss-paren annotation-paren">)</span></span></li>
+<li>Mandarin: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Hani" lang="cmn"><a href="/wiki/%E6%8E%88%E6%84%8F#Mandarin" title="授意">授意</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E6%8E%88%E6%84%8F" class="extiw" title="zh:授意">(zh)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="cmn-Latn" class="tr Latn">shòu yì</span><span class="mention-gloss-paren annotation-paren">)</span></span></li>
+<li>Old English: <span class="trreq" data-lang="ang"><i>please add this translation if you can</i></span></li>
+<li>Spanish: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="es"><a href="/wiki/inspirar#Spanish" title="inspirar">inspirar</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/inspirar" class="extiw" title="es:inspirar">(es)</a></span></span></li>
+<li>Turkish: <span class="trreq" data-lang="tr"><i>please add this translation if you can</i></span></li></ul>
+</td></tr></tbody></table></div></div>
+<h3><span class="mw-headline" id="Anagrams">Anagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=10" title="Edit section: Anagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="Latn" lang="en"><a href="/wiki/spinier#English" title="spinier">spinier</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Asturian">Asturian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=11" title="Edit section: Asturian">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Verb_2">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=12" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="ast">inspire</strong>
+</p>
+<ol><li><span class="form-of-definition use-with-mention"><span class="inflection-of-conjoined"><a href="/wiki/Appendix:Glossary#first_person" title="Appendix:Glossary">first</a><span class="inflection-of-sep">/</span><a href="/wiki/Appendix:Glossary#third_person" title="Appendix:Glossary">third-person</a></span> <a href="/wiki/Appendix:Glossary#singular_number" title="Appendix:Glossary">singular</a> <a href="/wiki/Appendix:Glossary#present_tense" title="Appendix:Glossary">present</a> <a href="/wiki/Appendix:Glossary#subjunctive_mood" title="Appendix:Glossary">subjunctive</a> of <span class="form-of-definition-link"><i class="Latn mention" lang="ast"><a href="/wiki/inspirar#Asturian" title="inspirar">inspirar</a></i></span></span></li></ol>
+<hr />
+<h2><span class="mw-headline" id="French">French</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=13" title="Edit section: French">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Verb_3">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=14" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fr">inspire</strong>
+</p>
+<ol><li><span class="form-of-definition use-with-mention">inflection of <span class="form-of-definition-link"><i class="Latn mention" lang="fr"><a href="/wiki/inspirer#French" title="inspirer">inspirer</a></i></span>:</span>
+<ol><li><span class="form-of-definition use-with-mention"><span class="inflection-of-conjoined"><a href="/wiki/Appendix:Glossary#first_person" title="Appendix:Glossary">first</a><span class="inflection-of-sep">/</span><a href="/wiki/Appendix:Glossary#third_person" title="Appendix:Glossary">third-person</a></span> <a href="/wiki/Appendix:Glossary#singular_number" title="Appendix:Glossary">singular</a> <a href="/wiki/Appendix:Glossary#present_tense" title="Appendix:Glossary">present</a> <span class="inflection-of-conjoined"><a href="/wiki/Appendix:Glossary#indicative_mood" title="Appendix:Glossary">indicative</a><span class="inflection-of-sep">/</span><a href="/wiki/Appendix:Glossary#subjunctive_mood" title="Appendix:Glossary">subjunctive</a></span></span></li>
+<li><span class="form-of-definition use-with-mention"><a href="/wiki/Appendix:Glossary#second_person" title="Appendix:Glossary">second-person</a> <a href="/wiki/Appendix:Glossary#singular_number" title="Appendix:Glossary">singular</a> <a href="/wiki/Appendix:Glossary#imperative_mood" title="Appendix:Glossary">imperative</a></span></li></ol></li></ol>
+<hr />
+<h2><span class="mw-headline" id="Portuguese">Portuguese</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=15" title="Edit section: Portuguese">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Verb_4">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=16" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="pt">inspire</strong>
+</p>
+<ol><li><span class="use-with-mention"> First-person singular (<i class="Latn mention" lang="pt"><a href="/wiki/eu#Portuguese" title="eu">eu</a></i>) present subjunctive of <i class="Latn mention" lang="pt"><a href="/wiki/inspirar#Portuguese" title="inspirar">inspirar</a></i></span></li>
+<li><span class="use-with-mention"> Third-person singular (<i class="Latn mention" lang="pt"><a href="/wiki/ele#Portuguese" title="ele">ele</a></i>, <i class="Latn mention" lang="pt"><a href="/wiki/ela#Portuguese" title="ela">ela</a></i>, also used with <i class="Latn mention" lang="pt"><a href="/wiki/tu#Portuguese" title="tu">tu</a></i> and <i class="Latn mention" lang="pt"><a href="/wiki/voc%C3%AA#Portuguese" title="você">você</a></i><sup><a href="https://en.wikipedia.org/wiki/Portuguese_personal_pronouns#Tu_vs._voc.C3.AA" class="extiw" title="w:Portuguese personal pronouns">?</a></sup>) present subjunctive of <i class="Latn mention" lang="pt"><a href="/wiki/inspirar#Portuguese" title="inspirar">inspirar</a></i></span></li>
+<li><span class="use-with-mention"> Third-person singular (<i class="Latn mention" lang="pt"><a href="/wiki/voc%C3%AA#Portuguese" title="você">você</a></i>) affirmative imperative of <i class="Latn mention" lang="pt"><a href="/wiki/inspirar#Portuguese" title="inspirar">inspirar</a></i></span></li>
+<li><span class="use-with-mention"> Third-person singular (<i class="Latn mention" lang="pt"><a href="/wiki/voc%C3%AA#Portuguese" title="você">você</a></i>) negative imperative of <i class="Latn mention" lang="pt"><a href="/wiki/inspirar#Portuguese" title="inspirar">inspirar</a></i></span></li></ol>
+<hr />
+<h2><span class="mw-headline" id="Spanish">Spanish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=17" title="Edit section: Spanish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Verb_5">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=inspire&amp;action=edit&amp;section=18" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="es">inspire</strong>
+</p>
+<ol><li><span class="use-with-mention">First-person singular   (<i class="Latn mention" lang="es"><a href="/wiki/yo#Spanish" title="yo">yo</a></i>)  present subjunctive  form of <i class="Latn mention" lang="es"><a href="/wiki/inspirar#Spanish" title="inspirar">inspirar</a></i>.</span></li>
+<li><span class="use-with-mention">Formal  second-person singular   (<i class="Latn mention" lang="es"><a href="/wiki/usted#Spanish" title="usted">usted</a></i>)  present subjunctive  form of <i class="Latn mention" lang="es"><a href="/wiki/inspirar#Spanish" title="inspirar">inspirar</a></i>.</span></li>
+<li><span class="use-with-mention">Third-person singular   (<i class="Latn mention" lang="es"><a href="/wiki/%C3%A9l#Spanish" title="él">él</a></i>, <i class="Latn mention" lang="es"><a href="/wiki/ella#Spanish" title="ella">ella</a></i>, also used with <i class="Latn mention" lang="es"><a href="/wiki/usted#Spanish" title="usted">usted</a></i><sup><a href="/wiki/Appendix:Spanish_conjugation#Pronouns" class="mw-redirect" title="Appendix:Spanish conjugation">?</a></sup>)  present subjunctive  form of <i class="Latn mention" lang="es"><a href="/wiki/inspirar#Spanish" title="inspirar">inspirar</a></i>.</span></li>
+<li><span class="use-with-mention">Formal second-person singular (<i class="Latn mention" lang="es"><a href="/wiki/usted#Spanish" title="usted">usted</a></i>) imperative form of <i class="Latn mention" lang="es"><a href="/wiki/inspirar#Spanish" title="inspirar">inspirar</a></i>.</span></li></ol>
+<!-- 
+NewPP limit report
+Parsed by mw1307
+Cached time: 20200227182842
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 1.120 seconds
+Real time usage: 1.400 seconds
+Preprocessor visited node count: 27044/1000000
+Post‐expand include size: 97667/2097152 bytes
+Template argument size: 19397/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 30/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 165/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.579/10.000 seconds
+Lua memory usage: 18.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1268.418      1 -total
+ 25.28%  320.611    118 Template:redlink_category
+ 23.67%  300.262     60 Template:t+
+ 13.15%  166.806     26 Template:m
+ 11.72%  148.685      8 Template:check_deprecated_lang_param_usage
+ 11.50%  145.878      8 Template:deprecated_code
+  8.94%  113.370      4 Template:pt-verb_form_of
+  6.73%   85.336     25 Template:t
+  6.55%   83.065     48 Template:isValidPageName
+  6.48%   82.201      1 Template:inh
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:62097-0!canonical and timestamp 20200227182842 and revision id 58665154
+ -->
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=inspire&amp;oldid=58665154">https://en.wiktionary.org/w/index.php?title=inspire&amp;oldid=58665154</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:English_terms_inherited_from_Middle_English" title="Category:English terms inherited from Middle English">English terms inherited from Middle English</a></li><li><a href="/wiki/Category:English_terms_derived_from_Middle_English" title="Category:English terms derived from Middle English">English terms derived from Middle English</a></li><li><a href="/wiki/Category:Middle_English_terms_derived_from_Old_French" title="Category:Middle English terms derived from Old French">Middle English terms derived from Old French</a></li><li><a href="/wiki/Category:Middle_English_terms_derived_from_Latin" title="Category:Middle English terms derived from Latin">Middle English terms derived from Latin</a></li><li><a href="/wiki/Category:English_2-syllable_words" title="Category:English 2-syllable words">English 2-syllable words</a></li><li><a href="/wiki/Category:English_terms_with_IPA_pronunciation" title="Category:English terms with IPA pronunciation">English terms with IPA pronunciation</a></li><li><a href="/wiki/Category:English_3-syllable_words" title="Category:English 3-syllable words">English 3-syllable words</a></li><li><a href="/wiki/Category:English_terms_with_audio_links" title="Category:English terms with audio links">English terms with audio links</a></li><li><a href="/wiki/Category:English_lemmas" title="Category:English lemmas">English lemmas</a></li><li><a href="/wiki/Category:English_verbs" title="Category:English verbs">English verbs</a></li><li><a href="/wiki/Category:English_transitive_verbs" title="Category:English transitive verbs">English transitive verbs</a></li><li><a href="/wiki/Category:English_terms_with_quotations" title="Category:English terms with quotations">English terms with quotations</a></li><li><a href="/wiki/Category:English_intransitive_verbs" title="Category:English intransitive verbs">English intransitive verbs</a></li><li><a href="/wiki/Category:English_terms_with_archaic_senses" title="Category:English terms with archaic senses">English terms with archaic senses</a></li><li><a href="/wiki/Category:Asturian_non-lemma_forms" title="Category:Asturian non-lemma forms">Asturian non-lemma forms</a></li><li><a href="/wiki/Category:Asturian_verb_forms" title="Category:Asturian verb forms">Asturian verb forms</a></li><li><a href="/wiki/Category:French_non-lemma_forms" title="Category:French non-lemma forms">French non-lemma forms</a></li><li><a href="/wiki/Category:French_verb_forms" title="Category:French verb forms">French verb forms</a></li><li><a href="/wiki/Category:Portuguese_non-lemma_forms" title="Category:Portuguese non-lemma forms">Portuguese non-lemma forms</a></li><li><a href="/wiki/Category:Portuguese_verb_forms" title="Category:Portuguese verb forms">Portuguese verb forms</a></li><li><a href="/wiki/Category:Spanish_non-lemma_forms" title="Category:Spanish non-lemma forms">Spanish non-lemma forms</a></li><li><a href="/wiki/Category:Spanish_verb_forms" title="Category:Spanish verb forms">Spanish verb forms</a></li><li><a href="/wiki/Category:Spanish_forms_of_verbs_ending_in_-ar" title="Category:Spanish forms of verbs ending in -ar">Spanish forms of verbs ending in -ar</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:IPA_for_English_using_.%CB%88_or_.%CB%8C" title="Category:IPA for English using .ˈ or .ˌ">IPA for English using .ˈ or .ˌ</a></li><li><a href="/wiki/Category:Requests_for_date/Dryden" title="Category:Requests for date/Dryden">Requests for date/Dryden</a></li><li><a href="/wiki/Category:Requests_for_date/Alexander_Pope" title="Category:Requests for date/Alexander Pope">Requests for date/Alexander Pope</a></li><li><a href="/wiki/Category:Mandarin_redlinks" title="Category:Mandarin redlinks">Mandarin redlinks</a></li><li><a href="/wiki/Category:Mandarin_redlinks/t" title="Category:Mandarin redlinks/t">Mandarin redlinks/t</a></li><li><a href="/wiki/Category:Requests_for_review_of_Arabic_translations" title="Category:Requests for review of Arabic translations">Requests for review of Arabic translations</a></li><li><a href="/wiki/Category:Requests_for_review_of_German_translations" title="Category:Requests for review of German translations">Requests for review of German translations</a></li><li><a href="/wiki/Category:Requests_for_translations_into_Hebrew" title="Category:Requests for translations into Hebrew">Requests for translations into Hebrew</a></li><li><a href="/wiki/Category:Requests_for_review_of_Interlingua_translations" title="Category:Requests for review of Interlingua translations">Requests for review of Interlingua translations</a></li><li><a href="/wiki/Category:Requests_for_review_of_Irish_translations" title="Category:Requests for review of Irish translations">Requests for review of Irish translations</a></li><li><a href="/wiki/Category:Requests_for_review_of_Japanese_translations" title="Category:Requests for review of Japanese translations">Requests for review of Japanese translations</a></li><li><a href="/wiki/Category:Requests_for_review_of_Mandarin_translations" title="Category:Requests for review of Mandarin translations">Requests for review of Mandarin translations</a></li><li><a href="/wiki/Category:Requests_for_translations_into_Old_English" title="Category:Requests for translations into Old English">Requests for translations into Old English</a></li><li><a href="/wiki/Category:Requests_for_review_of_Spanish_translations" title="Category:Requests for review of Spanish translations">Requests for review of Spanish translations</a></li><li><a href="/wiki/Category:Requests_for_translations_into_Turkish" title="Category:Requests for translations into Turkish">Requests for translations into Turkish</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=inspire" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=inspire" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/inspire" title="View the content page [c]" accesskey="c">Entry</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:inspire&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/inspire">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=inspire&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=inspire&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/inspire" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/inspire" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=inspire&amp;oldid=58665154" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=inspire&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=inspire&amp;id=58665154" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ca"><a href="https://ca.wiktionary.org/wiki/inspire" title="inspire – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wiktionary.org/wiki/inspire" title="inspire – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wiktionary.org/wiki/inspire" title="inspire – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wiktionary.org/wiki/inspire" title="inspire – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wiktionary.org/wiki/inspire" title="inspire – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/inspire" title="inspire – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/inspire" title="inspire – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wiktionary.org/wiki/inspire" title="inspire – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wiktionary.org/wiki/inspire" title="inspire – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wiktionary.org/wiki/inspire" title="inspire – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wiktionary.org/wiki/inspire" title="inspire – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wiktionary.org/wiki/inspire" title="inspire – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wiktionary.org/wiki/inspire" title="inspire – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wiktionary.org/wiki/inspire" title="inspire – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wiktionary.org/wiki/inspire" title="inspire – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wiktionary.org/wiki/inspire" title="inspire – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wiktionary.org/wiki/inspire" title="inspire – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/inspire" title="inspire – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wiktionary.org/wiki/inspire" title="inspire – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wiktionary.org/wiki/inspire" title="inspire – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/inspire" title="inspire – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wiktionary.org/wiki/inspire" title="inspire – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wiktionary.org/wiki/inspire" title="inspire – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wiktionary.org/wiki/inspire" title="inspire – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wiktionary.org/wiki/inspire" title="inspire – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wiktionary.org/wiki/inspire" title="inspire – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wiktionary.org/wiki/inspire" title="inspire – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/inspire" title="inspire – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wiktionary.org/wiki/inspire" title="inspire – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wiktionary.org/wiki/inspire" title="inspire – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wiktionary.org/wiki/inspire" title="inspire – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/inspire" title="inspire – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=inspire">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=inspire&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=inspire&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 10 February 2020, at 04:29.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=inspire&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.120","walltime":"1.400","ppvisitednodes":{"value":27044,"limit":1000000},"postexpandincludesize":{"value":97667,"limit":2097152},"templateargumentsize":{"value":19397,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":30,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":165,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1268.418      1 -total"," 25.28%  320.611    118 Template:redlink_category"," 23.67%  300.262     60 Template:t+"," 13.15%  166.806     26 Template:m"," 11.72%  148.685      8 Template:check_deprecated_lang_param_usage"," 11.50%  145.878      8 Template:deprecated_code","  8.94%  113.370      4 Template:pt-verb_form_of","  6.73%   85.336     25 Template:t","  6.55%   83.065     48 Template:isValidPageName","  6.48%   82.201      1 Template:inh"]},"scribunto":{"limitreport-timeusage":{"value":"0.579","limit":"10.000"},"limitreport-memusage":{"value":19453929,"limit":52428800}},"cachereport":{"origin":"mw1307","timestamp":"20200227182842","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1267"});});</script></body></html>

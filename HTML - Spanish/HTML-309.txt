@@ -1,0 +1,1421 @@
+ <!DOCTYPE html>
+<!--[if IE 8]>
+	<html class="ie ie8" lang="es" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9]>
+	<html class="ie ie9" lang="es" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="es" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PFK3XCT');</script>
+ <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="pingback" href="https://es.panampost.com/xmlrpc.php" />
+<title>PanAm Post – La principal fuente de noticias y análisis sobre América - PanAm Post</title>
+
+<link rel="canonical" href="https://es.panampost.com/" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="PanAm Post – La principal fuente de noticias y análisis sobre América - PanAm Post" />
+<meta property="og:url" content="https://es.panampost.com/" />
+<meta property="og:site_name" content="PanAm Post" />
+<meta property="og:image" content="https://es.panampost.com/wp-content/uploads/avatar-new.png" />
+<meta property="og:image:secure_url" content="https://es.panampost.com/wp-content/uploads/avatar-new.png" />
+<meta property="og:image:width" content="484" />
+<meta property="og:image:height" content="252" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="PanAm Post – La principal fuente de noticias y análisis sobre América - PanAm Post" />
+<meta name="twitter:site" content="@PanAmPost_es" />
+<meta name="twitter:image" content="http://es.panampost.com/wp-content/uploads/avatar-new.png" />
+<meta name="twitter:creator" content="@PanAmPost_es" />
+<meta name="msvalidate.01" content="9C2ACEFB17A3C3A89501CB97112DF3B9" />
+<meta name="google-site-verification" content="44RCcX-o471fDqBU4diKoYfhy0Tdp55AgM3u2xbG6fw" />
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="PanAm Post &raquo; Feed" href="https://es.panampost.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PanAm Post &raquo; RSS de los comentarios" href="https://es.panampost.com/comments/feed/" />
+
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.4';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-48523689-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+window.ga = __gaTracker;		__gaTracker('create', 'UA-48523689-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('set', 'dimension2', 'Carlos Caro');
+		__gaTracker('set', 'dimension4', 'na');
+		__gaTracker('send','pageview');
+		__gaTracker( function() { window.ga = __gaTracker; } );
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+			window.ga = __gaTracker;		})();
+		}
+</script>
+
+
+<script type="text/javascript" data-cfasync="false">
+			window.google_analytics_uacct = 'UA-48523689-1';
+
+        </script>
+
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/es.panampost.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.13"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="https://es.panampost.com/wp-content/cache/minify/11f1a.css" media="all" />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://es.panampost.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.2' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='sccss_style-css' href='https://es.panampost.com/?sccss=1&#038;ver=4.9.13' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='better-framework-main-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto:400,700,500%7CFrank+Ruhl+Libre:500,700,400%7CNoto+Serif:400' type='text/css' media='all' />
+<script src="https://es.panampost.com/wp-content/cache/minify/df983.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var cbproxy = {"ajaxurl":"https:\/\/es.panampost.com\/wp-admin\/admin-ajax.php","cbnonce":"c25f7165e5"};
+/* ]]> */
+</script>
+<script src="https://es.panampost.com/wp-content/cache/minify/4dcfc.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/es.panampost.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script src="https://es.panampost.com/wp-content/cache/minify/14901.js"></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://es.panampost.com/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/js/html5shiv.min.js?ver=3.10.16'></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://es.panampost.com/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/js/respond.min.js?ver=3.10.16'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='https://es.panampost.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://es.panampost.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://es.panampost.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 4.9.13" />
+<link rel='shortlink' href='https://es.panampost.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://es.panampost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fes.panampost.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://es.panampost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fes.panampost.com%2F&#038;format=xml" />
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Tzpho1IW1810em", domain:"panampost.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Tzpho1IW1810em" style="display:none" height="1" width="1" alt="" /></noscript>
+
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta property="fb:pages" content="197511413705974" />
+
+<script async="" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {  
+var lbdesk = googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([768, 0], [728, 90])
+.addSize([1024, 0], [[970, 250],[970, 90],[728, 90]])
+.build();
+var lbmob = googletag.sizeMapping()
+.addSize([0, 0], [300,250])
+.addSize([768, 0], [])
+.build();
+var incontentdesk = googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([1000, 0], [728, 90])
+.build();
+var incontentmob = googletag.sizeMapping()
+.addSize([0, 0], [300,250])
+.addSize([999, 0], [])
+.build();       
+var rightcol1map = googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([1000, 0], [[300, 600],[300, 250]])
+.build();
+var rightcol2map = googletag.sizeMapping()
+.addSize([0, 0], [])
+.addSize([1000, 0], [300, 250])
+.build();
+    
+googletag.defineSlot('/60226173/pnp_desktop_leaderboard_atf', [[728, 90], [970, 90], [970, 250]], 'div-pnp_desktop_leaderboard_atf').defineSizeMapping(lbdesk).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_desktop_incontent1', [728, 90], 'div-pnp_desktop_incontent1').defineSizeMapping(incontentdesk).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_desktop_incontent2', [728, 90], 'div-pnp_desktop_incontent2').defineSizeMapping(incontentdesk).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_desktop_incontent3', [728, 90], 'div-pnp_desktop_incontent3').defineSizeMapping(incontentdesk).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_desktop_end_content', [728, 90], 'div-pnp_desktop_end_content').defineSizeMapping(incontentdesk).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_desktop_rightcol1_atf', [[300, 600], [300, 250]], 'div-pnp_desktop_rightcol1_atf').defineSizeMapping(rightcol1map).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_desktop_rightcol2', [300, 250], 'div-pnp_desktop_rightcol2').defineSizeMapping(rightcol2map).addService(googletag.pubads());
+
+googletag.defineSlot('/60226173/pnp_mobile_leaderboard_atf', [300, 250], 'div-pnp_mobile_leaderboard_atf').defineSizeMapping(lbmob).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_mobile_incontent1', [300, 250], 'div-pnp_mobile_incontent1').defineSizeMapping(incontentmob).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_mobile_incontent2', [300, 250], 'div-pnp_mobile_incontent2').defineSizeMapping(incontentmob).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_mobile_incontent3', [300, 250], 'div-pnp_mobile_incontent3').defineSizeMapping(incontentmob).addService(googletag.pubads());
+googletag.defineSlot('/60226173/pnp_mobile_end_content', [300, 250], 'div-pnp_mobile_end_content').defineSizeMapping(incontentmob).addService(googletag.pubads());
+   
+googletag.defineSlot('/60226173/pnp_anchor', [1, 1], 'div-pnp_anchor').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs(); 
+googletag.enableServices();
+  });
+          
+</script> <meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." />
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https:\/\/es.panampost.com\/wp-content\/uploads\/PanAm_Post_O_Globe_Logo-1.png"
+    },
+    "url": "https:\/\/es.panampost.com\/",
+    "name": "PanAm Post",
+    "description": "La principal fuente de noticias y an\u00e1lisis sobre Am\u00e9rica"
+}</script>
+<script type="application/ld+json">{
+    "@context": "http:\/\/schema.org\/",
+    "@type": "WebSite",
+    "name": "PanAm Post",
+    "alternateName": "La principal fuente de noticias y an\u00e1lisis sobre Am\u00e9rica",
+    "url": "https:\/\/es.panampost.com\/",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/es.panampost.com\/search\/{search_term}",
+        "query-input": "required name=search_term"
+    }
+}</script>
+<link rel="stylesheet" href="https://es.panampost.com/wp-content/cache/minify/e7328.css" media="all" />
+<link rel="icon" href="https://es.panampost.com/wp-content/uploads/cropped-facebook2-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://es.panampost.com/wp-content/uploads/cropped-facebook2.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://es.panampost.com/wp-content/uploads/cropped-facebook2.png" />
+<meta name="msapplication-TileImage" content="https://es.panampost.com/wp-content/uploads/cropped-facebook2.png" />
+
+<style>
+#leaky_paywall_message {
+  background-color: #f4f4f4;
+  color: #000;
+}
+
+#leaky_paywall_message .btn {
+  color: #fff;
+  background-color: #007ab4;
+  border-color: #007ab4;
+/*  border-color: #00c5ff; */
+
+  font-family: 'notosans', 'Arial', 'Helvetica', 'sans-serif';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 13px;
+  margin-bottom: 0px;
+}
+
+#leaky_paywall_message .btn:focus,
+#leaky_paywall_message .btn.focus {
+  color: #000;
+  background-color: #00c5ff;
+/*  border-color: #007ab4;*/
+}
+#leaky_paywall_message .btn:hover {
+  color: #000;
+  background-color: #00c5ff;
+/*  border-color: #007ab4;*/
+}
+
+/* responsive monitor */ @media(min-width: 1200px){  body .hide-in-desktop {
+    display: none;
+  }
+  body .hide-in-mobile {
+    display: block;
+  }}
+/* responsive landscape tablet */ @media(min-width: 1019px) and (max-width: 1199px){  body .hide-in-desktop {
+    display: none;
+  }
+  body .hide-in-mobile {
+    display: block;
+  }  }
+/* responsive portrait tablet */ @media(min-width: 768px) and (max-width: 1018px){  body .hide-in-desktop {
+    display: none;
+  }
+  body .hide-in-mobile {
+    display: block;
+  }  }
+/* responsive phone */ @media(max-width: 767px){  body .hide-in-desktop {
+    display: block;
+  }
+  body .hide-in-mobile {
+    display: none;
+  }  }
+
+</style>
+
+<style type="text/css" id="wp-custom-css">
+			.us-icon {
+background-image: url('https://es.panampost.com/wp-content/uploads/us.png');
+background-repeat: no-repeat;
+background-position: right;
+padding-right: 10px;
+}
+
+.es-icon {
+background-image: url('https://es.panampost.com/wp-content/uploads/es.png');
+background-repeat: no-repeat;
+background-position: right;
+padding-right: 10px;
+}		</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript> </head>
+<body class="home page-template-default page page-id-263099 uix-shortcodes-body bs-theme bs-publisher bs-publisher-the-online-post ltr close-rh page-layout-1-col full-width active-sticky-sidebar main-menu-sticky active-ajax-search  wpb-js-composer js-comp-ver-6.0.2 vc_responsive bs-ll-a" dir="ltr">
+
+<div id="div-pnp_anchor">
+<script>googletag.cmd.push(function() { googletag.display('div-pnp_anchor'); });</script>
+</div>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFK3XCT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <div class="main-wrap content-main-wrap">
+<header id="header" class="site-header header-style-1 full-width" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+<section class="topbar topbar-style-1 hidden-xs hidden-xs">
+<div class="content-wrap">
+<div class="container">
+<div class="topbar-inner clearfix">
+<div class="section-links">
+<div class="  better-studio-shortcode bsc-clearfix better-social-counter style-button not-colored in-4-col">
+<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href="https://www.facebook.com/PanAmPost" target="_blank"> <i class="item-icon bsfi-facebook"></i><span class="item-title"> Likes </span> </a> </li> <li class="social-item twitter"><a href="https://twitter.com/PanAmPost_es" target="_blank"> <i class="item-icon bsfi-twitter"></i><span class="item-title"> Followers </span> </a> </li> <li class="social-item youtube"><a href="https://youtube.com/channel/PanAmPost" target="_blank"> <i class="item-icon bsfi-youtube"></i><span class="item-title"> Subscribers </span> </a> </li> <li class="social-item instagram"><a href="https://instagram.com/panam_post" target="_blank"> <i class="item-icon bsfi-instagram"></i><span class="item-title"> Followers </span> </a> </li> </ul>
+</div>
+</div>
+<div class="section-menu">
+<div id="menu-top" class="menu top-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<nav class="top-menu-container">
+<ul id="top-navigation" class="top-menu menu clearfix bsm-pure">
+<li id="topbar-date" class="menu-item menu-item-date">
+<span class="topbar-date">viernes, febrero 28, 2020</span>
+</li>
+<li id="menu-item-220668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-56 better-anim-fade menu-item-220668"><a href="https://es.panampost.com/temas/america-del-sur/venezuela/">Venezuela</a></li>
+<li id="menu-item-220669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-38 better-anim-fade menu-item-220669"><a href="https://es.panampost.com/temas/america-del-norte/mexico/">México</a></li>
+<li id="menu-item-220670" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-15 better-anim-fade menu-item-220670"><a href="https://es.panampost.com/temas/america-del-sur/colombia/">Colombia</a></li>
+<li id="menu-item-220671" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-12 better-anim-fade menu-item-220671"><a href="https://es.panampost.com/temas/america-del-sur/chile/">Chile</a></li>
+<li id="menu-item-220672" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-9 better-anim-fade menu-item-220672"><a href="https://es.panampost.com/temas/america-del-sur/brasil/">Brasil</a></li>
+<li id="menu-item-220673" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-220673"><a href="https://es.panampost.com/temas/america-del-sur/argentina/">Argentina</a></li>
+<li id="menu-item-220674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6539 better-anim-fade menu-item-220674"><a href="https://es.panampost.com/temas/videos/podcast/">Podcast</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="header-inner">
+<div class="content-wrap">
+<div class="container">
+<div id="site-branding" class="site-branding">
+<h1 id="site-title" class="logo h1 img-logo">
+<a href="https://es.panampost.com/" itemprop="url" rel="home">
+<img id="site-logo" src="https://es.panampost.com/wp-content/uploads/PanAm_Post_O_Globe_Logo-1.png" alt="PanAm Post" />
+<span class="site-title">PanAm Post - La principal fuente de noticias y análisis sobre América</span>
+</a>
+</h1>
+</div>
+</div>
+</div>
+</div>
+<div id="menu-main" class="menu main-menu-wrapper show-search-item menu-actions-btn-width-1" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<div class="main-menu-inner">
+<div class="content-wrap">
+<div class="container">
+<nav class="main-menu-container">
+<ul id="main-navigation" class="main-menu menu bsm-pure clearfix">
+<li id="menu-item-261884" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home better-anim-fade menu-item-261884"><a href="https://es.panampost.com/">Inicio</a></li>
+<li id="menu-item-220675" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children better-anim-fade menu-item-220675"><a href="#">Regiones</a>
+<ul class="sub-menu">
+<li id="menu-item-220967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-4 better-anim-fade menu-item-220967"><a href="https://es.panampost.com/temas/america-del-sur/">Sur América</a>
+<ul class="sub-menu">
+<li id="menu-item-220677" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-220677"><a href="https://es.panampost.com/temas/america-del-sur/argentina/">Argentina</a></li>
+<li id="menu-item-220678" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-220678"><a href="https://es.panampost.com/temas/america-del-sur/bolivia/">Bolivia</a></li>
+<li id="menu-item-220679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-9 better-anim-fade menu-item-220679"><a href="https://es.panampost.com/temas/america-del-sur/brasil/">Brasil</a></li>
+<li id="menu-item-220680" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-12 better-anim-fade menu-item-220680"><a href="https://es.panampost.com/temas/america-del-sur/chile/">Chile</a></li>
+<li id="menu-item-220681" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-15 better-anim-fade menu-item-220681"><a href="https://es.panampost.com/temas/america-del-sur/colombia/">Colombia</a></li>
+<li id="menu-item-220682" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-19 better-anim-fade menu-item-220682"><a href="https://es.panampost.com/temas/america-del-sur/ecuador/">Ecuador</a></li>
+<li id="menu-item-220683" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-44 better-anim-fade menu-item-220683"><a href="https://es.panampost.com/temas/america-del-sur/paraguay/">Paraguay</a></li>
+<li id="menu-item-220684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-45 better-anim-fade menu-item-220684"><a href="https://es.panampost.com/temas/america-del-sur/peru/">Perú</a></li>
+<li id="menu-item-220685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-55 better-anim-fade menu-item-220685"><a href="https://es.panampost.com/temas/america-del-sur/uruguay/">Uruguay</a></li>
+<li id="menu-item-220686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-56 better-anim-fade menu-item-220686"><a href="https://es.panampost.com/temas/america-del-sur/venezuela/">Venezuela</a></li>
+</ul>
+</li>
+<li id="menu-item-220969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-3 better-anim-fade menu-item-220969"><a href="https://es.panampost.com/temas/america-del-norte/">Norte América</a>
+<ul class="sub-menu">
+<li id="menu-item-220688" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-10 better-anim-fade menu-item-220688"><a href="https://es.panampost.com/temas/america-del-norte/canada/">Canadá</a></li>
+<li id="menu-item-220689" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-23 better-anim-fade menu-item-220689"><a href="https://es.panampost.com/temas/america-del-norte/estados-unidos/">Estados Unidos</a></li>
+<li id="menu-item-220690" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-38 better-anim-fade menu-item-220690"><a href="https://es.panampost.com/temas/america-del-norte/mexico/">México</a></li>
+</ul>
+</li>
+<li id="menu-item-220970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-2 better-anim-fade menu-item-220970"><a href="https://es.panampost.com/temas/america-central/">Centro América</a>
+<ul class="sub-menu">
+<li id="menu-item-220692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-16 better-anim-fade menu-item-220692"><a href="https://es.panampost.com/temas/america-central/costa-rica/">Costa Rica</a></li>
+<li id="menu-item-220693" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-21 better-anim-fade menu-item-220693"><a href="https://es.panampost.com/temas/america-central/el-salvador/">El Salvador</a></li>
+<li id="menu-item-220694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-30 better-anim-fade menu-item-220694"><a href="https://es.panampost.com/temas/america-central/honduras/">Honduras</a></li>
+<li id="menu-item-220695" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-25 better-anim-fade menu-item-220695"><a href="https://es.panampost.com/temas/america-central/guatemala/">Guatemala</a></li>
+<li id="menu-item-220696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-43 better-anim-fade menu-item-220696"><a href="https://es.panampost.com/temas/america-central/panama/">Panamá</a></li>
+<li id="menu-item-220697" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-39 better-anim-fade menu-item-220697"><a href="https://es.panampost.com/temas/america-central/nicaragua/">Nicaragua</a></li>
+</ul>
+</li>
+<li id="menu-item-220704" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-term-11 better-anim-fade menu-item-220704"><a href="https://es.panampost.com/temas/caribe/">El Caribe</a>
+<ul class="sub-menu">
+<li id="menu-item-220698" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-17 better-anim-fade menu-item-220698"><a href="https://es.panampost.com/temas/caribe/cuba/">Cuba</a></li>
+<li id="menu-item-220699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-51 better-anim-fade menu-item-220699"><a href="https://es.panampost.com/temas/caribe/republica-dominicana/">República Dominicana</a></li>
+<li id="menu-item-220700" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-29 better-anim-fade menu-item-220700"><a href="https://es.panampost.com/temas/caribe/haiti/">Haití</a></li>
+<li id="menu-item-220701" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-34 better-anim-fade menu-item-220701"><a href="https://es.panampost.com/temas/caribe/jamaica/">Jamaica</a></li>
+<li id="menu-item-220702" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-47 better-anim-fade menu-item-220702"><a href="https://es.panampost.com/temas/caribe/puerto-rico/">Puerto Rico</a></li>
+<li id="menu-item-220703" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-54 better-anim-fade menu-item-220703"><a href="https://es.panampost.com/temas/caribe/trinidad-y-tobago/">Trinidad y Tobago</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-220705" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-46 better-anim-fade menu-item-220705"><a href="https://es.panampost.com/temas/legislacion/politica/">Política</a></li>
+<li id="menu-item-220706" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-13 better-anim-fade menu-item-220706"><a href="https://es.panampost.com/temas/economia/">Economía</a></li>
+<li id="menu-item-220707" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-42 better-anim-fade menu-item-220707"><a href="https://es.panampost.com/temas/opinion/">Opinión</a></li>
+<li id="menu-item-220708" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8993 better-anim-fade menu-item-220708"><a href="https://es.panampost.com/temas/videos/">Podcasts</a></li>
+<li id="menu-item-269773" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-269773"><a href="https://es.panampost.com/autores/">Autores</a></li>
+<li id="menu-item-220719" class="menu-item menu-item-type-post_type menu-item-object-page better-anim-fade menu-item-220719"><a href="https://es.panampost.com/contactar/">Contactar</a></li>
+<li id="menu-item-221118" class="us-icon menu-item menu-item-type-custom menu-item-object-custom better-anim-fade menu-item-221118"><a href="http://www.panampost.com">English</a></li>
+</ul>
+<div class="menu-action-buttons width-1">
+<div class="search-container close">
+<span class="search-handler"><i class="fa fa-search"></i></span>
+<div class="search-box clearfix">
+<form role="search" method="get" class="search-form clearfix" action="https://es.panampost.com">
+<input type="search" class="search-field" placeholder="Buscar..." value="" name="s" title="Buscar:" autocomplete="off">
+<input type="submit" class="search-submit" value="Buscar">
+</form>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div> </header>
+<div class="rh-header clearfix dark deferred-block-exclude">
+<div class="rh-container clearfix">
+<div class="menu-container close">
+<span class="menu-handler"><span class="lines"></span></span>
+</div>
+<div class="logo-container rh-img-logo">
+<a href="https://es.panampost.com/" itemprop="url" rel="home">
+<img src="https://es.panampost.com/wp-content/uploads/PanAm_Post_logo_mobile_O_globe.png" alt="PanAm Post" /> </a>
+</div>
+</div>
+</div>
+<div class="container adcontainer"><div class="ciboyx ciboyx-clearfix ciboyx-after-header ciboyx-pubadban ciboyx-show-desktop ciboyx-show-tablet-portrait ciboyx-show-tablet-landscape ciboyx-show-phone ciboyx-loc-header_after ciboyx-align-center ciboyx-column-1"><div id="ciboyx-281025-399847939" class="ciboyx-container ciboyx-type-dfp " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="281025" data-type="dfp"><div class="hide-in-mobile">
+
+<div id="div-pnp_desktop_leaderboard_atf">
+<script>googletag.cmd.push(function() { googletag.display('div-pnp_desktop_leaderboard_atf'); });</script>
+</div>
+</div>
+<div class="hide-in-desktop">
+
+<div id="div-pnp_mobile_leaderboard_atf">
+<script>googletag.cmd.push(function() { googletag.display('div-pnp_mobile_leaderboard_atf'); });</script>
+</div>
+</div></div></div></div><main id="content" class="content-container">
+<div class="layout-1-col layout-no-sidebar">
+<div class="content-column">
+<div class="single-container bs-vc-content">
+<div class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-12"><div class="bs-vc-wrapper wpb_wrapper"><div id="" class=" bs-listing bs-listing-modern-grid-listing-7 bs-listing-single-tab"> <div class="listing listing-modern-grid listing-modern-grid-7 clearfix slider-overlay-simple-gr bsw-11">
+<div class="mg-row mg-row-1 clearfix">
+<div class="mg-col mg-col-1">
+<article class="post-290677 type-post format-standard has-post-thumbnail sticky  listing-item-1 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-42">
+<div class="item-content">
+<a title="A Moisés Naím: lo de Venezuela sí es socialismo" data-src="https://es.panampost.com/wp-content/uploads/Moisés-Naim-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Mois\u00e9s-Naim-210x136.jpg&quot;,&quot;279&quot;:&quot;Mois\u00e9s-Naim-279x220.jpg&quot;,&quot;357&quot;:&quot;Mois\u00e9s-Naim-357x210.jpg&quot;,&quot;750&quot;:&quot;Mois\u00e9s-Naim-750x430.jpg&quot;,&quot;950&quot;:&quot;Mois\u00e9s-Naim.jpg&quot;}}" class="img-cont" href="https://es.panampost.com/vanessa-araujo/2020/02/27/a-naim-lo-de-vzla-si-es-socialismo/"></a>
+<div class="term-badges floated"><span class="term-badge term-42"><a href="https://es.panampost.com/temas/opinion/">Opinión</a></span><span class="term-badge term-175"><a href="https://es.panampost.com/temas/opinion/columnistas/">Columnistas</a></span><span class="term-badge term-174"><a href="https://es.panampost.com/temas/uncategorized/destacado/">Destacado</a></span></div> <div class="content-container">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/02/27/a-naim-lo-de-vzla-si-es-socialismo/" class="post-url post-title">
+A Moisés Naím: lo de Venezuela sí es socialismo </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/vanessa-araujo/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Vanessa Vallejo </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T21:27:09+00:00">Feb 27, 2020</time></span>
+<span class="views post-meta-views rank-default" data-bpv-post="290677"><i class="bf-icon  fa fa-eye"></i>200</span> </div>
+</div>
+</div>
+</article >
+</div>
+<div class="mg-col mg-col-2">
+<article class="post-290980 type-post format-standard has-post-thumbnail sticky  listing-item-2 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-15">
+<div class="item-content">
+<a alt="Duque, Voto militar Colombia" title="Duque en desacuerdo con propuesta de voto militar en Colombia" data-src="https://es.panampost.com/wp-content/uploads/Duque-19-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Duque-19-210x136.jpg&quot;,&quot;279&quot;:&quot;Duque-19-279x220.jpg&quot;,&quot;357&quot;:&quot;Duque-19-357x210.jpg&quot;,&quot;750&quot;:&quot;Duque-19-750x430.jpg&quot;,&quot;852&quot;:&quot;Duque-19.jpg&quot;}}" class="img-cont" href="https://es.panampost.com/felipe-fernandez/2020/02/27/duque-voto-militar-colombia/"></a>
+<div class="term-badges floated"><span class="term-badge term-15"><a href="https://es.panampost.com/temas/america-del-sur/colombia/">Colombia</a></span><span class="term-badge term-174"><a href="https://es.panampost.com/temas/uncategorized/destacado/">Destacado</a></span></div> <div class="content-container">
+<h2 class="title"> <a href="https://es.panampost.com/felipe-fernandez/2020/02/27/duque-voto-militar-colombia/" class="post-url post-title">
+Duque en desacuerdo con propuesta de voto militar en Colombia </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/felipe-fernandez/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Andrés Fernández </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T20:00:22+00:00">Feb 27, 2020</time></span>
+<span class="views post-meta-views rank-default" data-bpv-post="290980"><i class="bf-icon  fa fa-eye"></i>47</span> </div>
+</div>
+</div>
+</article >
+</div>
+</div>
+<div class="mg-row mg-row-2 clearfix">
+<div class="mg-col mg-col-1">
+<article class="post-290962 type-post format-standard has-post-thumbnail sticky  listing-item-3 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-13">
+<div class="item-content">
+<a alt="Trump Venezuela, Petroleras EEUU" title="Trump listo para impedir que petroleras de EEUU operen en Venezuela" data-src="https://es.panampost.com/wp-content/uploads/chevron-venezuela-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;chevron-venezuela-210x136.jpg&quot;,&quot;279&quot;:&quot;chevron-venezuela-279x220.jpg&quot;,&quot;357&quot;:&quot;chevron-venezuela-357x210.jpg&quot;,&quot;750&quot;:&quot;chevron-venezuela-750x430.jpg&quot;,&quot;1024&quot;:&quot;chevron-venezuela.jpg&quot;}}" class="img-cont" href="https://es.panampost.com/sabrina-martin/2020/02/27/trump-petroleras-eeuu-venezuela/"></a>
+<div class="term-badges floated"><span class="term-badge term-13"><a href="https://es.panampost.com/temas/economia/">Economía</a></span></div> <div class="content-container">
+<h2 class="title"> <a href="https://es.panampost.com/sabrina-martin/2020/02/27/trump-petroleras-eeuu-venezuela/" class="post-url post-title">
+Trump listo para impedir que petroleras de EEUU operen en Venezuela </a>
+</h2> <div class="post-meta">
+<span class="views post-meta-views rank-default" data-bpv-post="290962"><i class="bf-icon  fa fa-eye"></i>462</span> </div>
+</div>
+</div>
+</article >
+</div>
+<div class="mg-col mg-col-2">
+<article class="post-290964 type-post format-standard has-post-thumbnail sticky  listing-item-4 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-42">
+<div class="item-content">
+<a title="El Caracazo empezó en todos lados" data-src="https://es.panampost.com/wp-content/uploads/Image-URL-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Image-URL-210x136.jpg&quot;,&quot;279&quot;:&quot;Image-URL-279x220.jpg&quot;,&quot;357&quot;:&quot;Image-URL-357x210.jpg&quot;,&quot;750&quot;:&quot;Image-URL-750x430.jpg&quot;,&quot;1800&quot;:&quot;Image-URL.jpg&quot;}}" class="img-cont" href="https://es.panampost.com/orlando-avendano/2020/02/27/el-caracazo-empezo-en-todos-lados/"></a>
+<div class="term-badges floated"><span class="term-badge term-42"><a href="https://es.panampost.com/temas/opinion/">Opinión</a></span></div> <div class="content-container">
+<h2 class="title"> <a href="https://es.panampost.com/orlando-avendano/2020/02/27/el-caracazo-empezo-en-todos-lados/" class="post-url post-title">
+El Caracazo empezó en todos lados </a>
+</h2> <div class="post-meta">
+<span class="views post-meta-views rank-500" data-bpv-post="290964"><i class="bf-icon  bsfi-fire-1"></i>730</span> </div>
+</div>
+</div>
+</article >
+</div>
+<div class="mg-col mg-col-3">
+<article class="post-290806 type-post format-standard has-post-thumbnail sticky  listing-item-5 listing-item listing-mg-item listing-mg-7-item listing-mg-type-1 main-term-40">
+<div class="item-content">
+<a alt="Nicaragua Parlamento, Ortega Internet" title="Nicaragua: Parlamento le dio al Gobierno el poder de controlar el Internet" data-src="https://es.panampost.com/wp-content/uploads/Ortega-12-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Ortega-12-210x136.jpg&quot;,&quot;279&quot;:&quot;Ortega-12-279x220.jpg&quot;,&quot;357&quot;:&quot;Ortega-12-357x210.jpg&quot;,&quot;750&quot;:&quot;Ortega-12-750x430.jpg&quot;,&quot;900&quot;:&quot;Ortega-12.jpg&quot;}}" class="img-cont" href="https://es.panampost.com/mamela-fiallo/2020/02/27/nicaragua-parlamento-internet/"></a>
+<div class="term-badges floated"><span class="term-badge term-40"><a href="https://es.panampost.com/temas/noticias/">Noticias</a></span></div> <div class="content-container">
+<h2 class="title"> <a href="https://es.panampost.com/mamela-fiallo/2020/02/27/nicaragua-parlamento-internet/" class="post-url post-title">
+Nicaragua: Parlamento le dio al Gobierno el poder de controlar el Internet </a>
+</h2> <div class="post-meta">
+<span class="views post-meta-views rank-1000" data-bpv-post="290806"><i class="bf-icon  bsfi-fire-2"></i>1.167</span> </div>
+</div>
+</div>
+</article >
+</div>
+</div>
+</div>
+</div></div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="bs-vc-wrapper wpb_wrapper"><section class="vc_cta3-container">
+<div class="vc_general vc_cta3 vc_cta3-style-3d vc_cta3-shape-rounded vc_cta3-align-left vc_cta3-color-sky vc_cta3-icon-size-md vc_cta3-actions-bottom">
+<div class="vc_cta3_content-container">
+<div class="vc_cta3-content">
+<header class="vc_cta3-content-header">
+<h2>¡Ayúdenos a difundir la verdad!</h2> </header>
+<p><b>Forma parte del esfuerzo para combatir los intentos de silenciar las voces disidentes. </b><strong>¡Contribuye con tu donación hoy!</strong><b></b></p>
+</div>
+<div class="vc_cta3-actions"><div class="vc_btn3-container vc_btn3-center">
+<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-3d vc_btn3-block vc_btn3-icon-left vc_btn3-color-orange" href="https://es.panampost.com/donations/?cn-reloaded=1" title="" target="_blank" rel="nofollow"><i class="vc_btn3-icon fa fa-credit-card"></i> Donar</a> </div>
+</div> </div>
+</div>
+</section>
+</div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="bs-vc-wrapper"><div class="wpb_column bs-vc-column vc_column_container vc_col-sm-8"><div class="bs-vc-wrapper wpb_wrapper"> <div class="bs-shortcode bs-subscribe-newsletter bs-mailchimp-newsletter ">
+<div class="subscribe-image">
+<img src="https://es.panampost.com/wp-content/themes/publisher/images/other/email-illustration.png" alt="Hoja informativa">
+</div>
+<div class="subscribe-message">
+<p>Suscríbase gratis a nuestro boletín diario y nunca se pierda otra noticia</p>
+</div>
+<form action="https://panampost.us7.list-manage.com/subscribe/post?u=4f2ae1156fccc559ba11da44f&id=c7fc0c0877" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+<input name="EMAIL" type="email" placeholder="Introduce tu correo electrónico .." class="newsletter-email">
+<button class="newsletter-subscribe" name="subscribe" type="submit">Suscribir</button>
+</form>
+<p class="powered-by">Powered by <img src="https://es.panampost.com/wp-content/themes/publisher/images/other/mailchimp.png" data-bsrjs="https://es.panampost.com/wp-content/themes/publisher/images/other/mailchimp@2x.png" alt="MailChimp" />
+</p>
+</div>
+<div id="" class=" bs-listing bs-listing-listing-mix-4-4 bs-listing-single-tab pagination-animate"> <div class="bs-pagination-wrapper main-term-none infinity bs-slider-first-item">
+<div class="listing listing-mix-4-4 ">
+<div class="item-inner clearfix">
+<div class="listing listing-classic listing-classic-2 clearfix columns-1">
+<article class="post-291004 type-post format-standard has-post-thumbnail   listing-item listing-item-classic listing-item-classic-2  main-term-15 bsw-7 ">
+<div class="listing-inner item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-15"><a href="https://es.panampost.com/temas/america-del-sur/colombia/">Colombia</a></span></div> <a title="Ecopetrol en Colombia busca producir hasta 800 000 barriles diarios en 2022" data-src="https://es.panampost.com/wp-content/uploads/ecopetrol-2-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;ecopetrol-2-210x136.jpg&quot;,&quot;279&quot;:&quot;ecopetrol-2-279x220.jpg&quot;,&quot;357&quot;:&quot;ecopetrol-2-357x210.jpg&quot;,&quot;750&quot;:&quot;ecopetrol-2-750x430.jpg&quot;,&quot;1200&quot;:&quot;ecopetrol-2.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/felipe-fernandez/2020/02/27/ecopetrol-col-busca-producir/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/felipe-fernandez/2020/02/27/ecopetrol-col-busca-producir/" class="post-title post-url">
+Ecopetrol en Colombia busca producir hasta 800 000 barriles diarios en 2022 </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/felipe-fernandez/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Andrés Fernández </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T21:42:09+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/felipe-fernandez/2020/02/27/ecopetrol-col-busca-producir/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;Ecopetrol en Colombia busca producir hasta 800 000 barriles diarios en 2022&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+La empresa petrolera Ecopetrol, de la que Colombia es socio mayoritario, anunció un robusto plan para producir&hellip; </div>
+<a class="read-more" href="https://es.panampost.com/felipe-fernandez/2020/02/27/ecopetrol-col-busca-producir/">Lee mas...</a>
+</div>
+</article >
+</div>
+<div class="listing listing-grid listing-grid-1 columns-2 clearfix">
+<article class="post-290994 type-post format-standard has-post-thumbnail   listing-item listing-item-grid listing-item-grid-1 main-term-6">
+<div class="item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-6"><a href="https://es.panampost.com/temas/america-del-sur/argentina/">Argentina</a></span></div> <a title="La Argentina que da vergüenza y la vuelta del «diputrucho»" data-src="https://es.panampost.com/wp-content/uploads/Scioli-trucho-357x210.png" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Scioli-trucho-210x136.png&quot;,&quot;279&quot;:&quot;Scioli-trucho-279x220.png&quot;,&quot;357&quot;:&quot;Scioli-trucho-357x210.png&quot;,&quot;750&quot;:&quot;Scioli-trucho-750x430.png&quot;,&quot;950&quot;:&quot;Scioli-trucho.png&quot;}}" class="img-holder" href="https://es.panampost.com/marcelo-duclos/2020/02/27/la-argentina-que-da-verguenza/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/marcelo-duclos/2020/02/27/la-argentina-que-da-verguenza/" class="post-title post-url">
+La Argentina que da vergüenza y la vuelta del «diputrucho» </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/marcelo-duclos/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Marcelo Duclos </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T20:28:56+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/marcelo-duclos/2020/02/27/la-argentina-que-da-verguenza/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;La Argentina que da vergüenza y la vuelta del «diputrucho»&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+Es difícil llegar a la conclusión si es peor lo que aprueba el peronismo en el Congreso o los modos que emplea&hellip; </div>
+</div>
+</article >
+<article class="post-290908 type-post format-standard has-post-thumbnail   listing-item listing-item-grid listing-item-grid-1 main-term-40">
+<div class="item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-40"><a href="https://es.panampost.com/temas/noticias/">Noticias</a></span></div> <a title="Presos políticos de dictadura cubana desmontan mentiras de Bernie Sanders" data-src="https://es.panampost.com/wp-content/uploads/sanders-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;sanders-210x136.jpg&quot;,&quot;279&quot;:&quot;sanders-279x220.jpg&quot;,&quot;357&quot;:&quot;sanders-357x210.jpg&quot;,&quot;750&quot;:&quot;sanders-750x430.jpg&quot;,&quot;950&quot;:&quot;sanders.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/mamela-fiallo/2020/02/27/presos-politicos-sanders/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/mamela-fiallo/2020/02/27/presos-politicos-sanders/" class="post-title post-url">
+Presos políticos de dictadura cubana desmontan mentiras de Bernie Sanders </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/mamela-fiallo/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Mamela Fiallo Flor </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T19:00:25+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/mamela-fiallo/2020/02/27/presos-politicos-sanders/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;Presos políticos de dictadura cubana desmontan mentiras de Bernie Sanders&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+Ex presos políticos cubanos enviaron una carta al Comité Nacional Demócrata de EE. UU. en rechazo a las&hellip; </div>
+</div>
+</article >
+</div>
+<div class="listing listing-classic listing-classic-2 clearfix columns-1">
+<article class="post-290926 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-classic listing-item-classic-2  main-term-40 bsw-7 ">
+<div class="listing-inner item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-40"><a href="https://es.panampost.com/temas/noticias/">Noticias</a></span></div> <a title="Coronavirus: no es sentencia de muerte pero puede convertirse en catástrofe sanitaria" data-src="https://es.panampost.com/wp-content/uploads/56ce37fad135c1bf2fbeeaeb7af49b2e26adad33w-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;56ce37fad135c1bf2fbeeaeb7af49b2e26adad33w-210x136.jpg&quot;,&quot;279&quot;:&quot;56ce37fad135c1bf2fbeeaeb7af49b2e26adad33w-279x220.jpg&quot;,&quot;357&quot;:&quot;56ce37fad135c1bf2fbeeaeb7af49b2e26adad33w-357x210.jpg&quot;,&quot;750&quot;:&quot;56ce37fad135c1bf2fbeeaeb7af49b2e26adad33w-750x430.jpg&quot;,&quot;899&quot;:&quot;56ce37fad135c1bf2fbeeaeb7af49b2e26adad33w.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/sabrina-martin/2020/02/27/coronavirus-no-es-sentencia-de-muerte-pero-puede-convertirse-en-catastrofe-sanitaria/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/sabrina-martin/2020/02/27/coronavirus-no-es-sentencia-de-muerte-pero-puede-convertirse-en-catastrofe-sanitaria/" class="post-title post-url">
+Coronavirus: no es sentencia de muerte pero puede convertirse en catástrofe sanitaria </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/sabrina-martin/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Sabrina Martín </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T11:54:54+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/sabrina-martin/2020/02/27/coronavirus-no-es-sentencia-de-muerte-pero-puede-convertirse-en-catastrofe-sanitaria/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;Coronavirus: no es sentencia de muerte pero puede convertirse en catástrofe sanitaria&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+El coronavirus covid-19 puede convertirse en una pandemia tal y como lo advirtió la Organización Mundial de la&hellip; </div>
+<a class="read-more" href="https://es.panampost.com/sabrina-martin/2020/02/27/coronavirus-no-es-sentencia-de-muerte-pero-puede-convertirse-en-catastrofe-sanitaria/">Lee mas...</a>
+</div>
+</article >
+</div>
+<div class="listing listing-grid listing-grid-1 columns-2 clearfix">
+<article class="post-290947 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-grid listing-item-grid-1 main-term-6">
+<div class="item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-6"><a href="https://es.panampost.com/temas/america-del-sur/argentina/">Argentina</a></span></div> <a title="“La convertibilidad en Argentina funcionó muy bien”" data-src="https://es.panampost.com/wp-content/uploads/Agustin-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;Agustin-210x136.jpg&quot;,&quot;279&quot;:&quot;Agustin-279x220.jpg&quot;,&quot;357&quot;:&quot;Agustin-357x210.jpg&quot;,&quot;750&quot;:&quot;Agustin-750x430.jpg&quot;,&quot;1802&quot;:&quot;Agustin.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/marcelo-duclos/2020/02/27/convertibilidad-argentina/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/marcelo-duclos/2020/02/27/convertibilidad-argentina/" class="post-title post-url">
+“La convertibilidad en Argentina funcionó muy bien” </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/marcelo-duclos/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Marcelo Duclos </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T11:39:01+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/marcelo-duclos/2020/02/27/convertibilidad-argentina/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;“La convertibilidad en Argentina funcionó muy bien”&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+El Banco Central de la República Argentina (BCRA) tiene uno de los peores desempeños en la historia mundial.&hellip; </div>
+</div>
+</article >
+<article class="post-290940 type-post format-standard has-post-thumbnail   listing-item listing-item-grid listing-item-grid-1 main-term-41">
+<div class="item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-41"><a href="https://es.panampost.com/temas/noticias-breves/">Noticias breves</a></span></div> <a title="La economía estadounidense creció un 2,3 % en 2019" data-src="https://es.panampost.com/wp-content/uploads/49e6a4afdf0668a5d31282249480154f3ddadd86w-357x210.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;49e6a4afdf0668a5d31282249480154f3ddadd86w-210x136.jpg&quot;,&quot;279&quot;:&quot;49e6a4afdf0668a5d31282249480154f3ddadd86w-279x220.jpg&quot;,&quot;357&quot;:&quot;49e6a4afdf0668a5d31282249480154f3ddadd86w-357x210.jpg&quot;,&quot;750&quot;:&quot;49e6a4afdf0668a5d31282249480154f3ddadd86w-750x430.jpg&quot;,&quot;900&quot;:&quot;49e6a4afdf0668a5d31282249480154f3ddadd86w.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/efe-panampost/2020/02/27/la-economia-estadounidense-crecio-un-23-en-2019/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/efe-panampost/2020/02/27/la-economia-estadounidense-crecio-un-23-en-2019/" class="post-title post-url">
+La economía estadounidense creció un 2,3 % en 2019 </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/efe-panampost/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+EFE </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T10:11:41+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/efe-panampost/2020/02/27/la-economia-estadounidense-crecio-un-23-en-2019/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;La economía estadounidense creció un 2,3 % en 2019&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+Washington, 27 feb (EFE).- La economía estadounidense creció un 2,3 % en todo 2019, según la segunda estimación&hellip; </div>
+</div>
+</article >
+</div>
+<div class="listing listing-classic listing-classic-2 clearfix columns-1">
+<article class="post-290930 type-post format-standard has-post-thumbnail   listing-item listing-item-classic listing-item-classic-2  main-term-13 bsw-7 ">
+<div class="listing-inner item-inner">
+<div class="featured clearfix">
+<div class="term-badges floated"><span class="term-badge term-13"><a href="https://es.panampost.com/temas/economia/">Economía</a></span></div> <a title="Por qué el socialismo es la idea fallida que nunca muere" data-src="https://es.panampost.com/wp-content/uploads/25f3a9d8fb976f1c216f6620648566fedaab48d8w-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;25f3a9d8fb976f1c216f6620648566fedaab48d8w-210x136.jpg&quot;,&quot;279&quot;:&quot;25f3a9d8fb976f1c216f6620648566fedaab48d8w-279x220.jpg&quot;,&quot;357&quot;:&quot;25f3a9d8fb976f1c216f6620648566fedaab48d8w-357x210.jpg&quot;,&quot;750&quot;:&quot;25f3a9d8fb976f1c216f6620648566fedaab48d8w-750x430.jpg&quot;,&quot;900&quot;:&quot;25f3a9d8fb976f1c216f6620648566fedaab48d8w.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/fee-panampost/2020/02/27/por-que-el-socialismo-es-la-idea-fallida-que-nunca-muere/"></a>
+</div>
+<h2 class="title"> <a href="https://es.panampost.com/fee-panampost/2020/02/27/por-que-el-socialismo-es-la-idea-fallida-que-nunca-muere/" class="post-title post-url">
+Por qué el socialismo es la idea fallida que nunca muere </a>
+</h2> <div class="post-meta">
+<a href="https://es.panampost.com/author/fee-panampost/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+FEE </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T09:33:32+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/fee-panampost/2020/02/27/por-que-el-socialismo-es-la-idea-fallida-que-nunca-muere/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;Por qué el socialismo es la idea fallida que nunca muere&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+<div class="post-summary">
+Por: Dr. Rainer Zitelmann
+Kristian Niemietz, Socialismo: La idea fallida que nunca muere. Instituto de&hellip; </div>
+<a class="read-more" href="https://es.panampost.com/fee-panampost/2020/02/27/por-que-el-socialismo-es-la-idea-fallida-que-nunca-muere/">Lee mas...</a>
+</div>
+</article >
+</div>
+</div>
+</div>
+</div><div class="bs-pagination bs-ajax-pagination infinity main-term-none clearfix">
+<script>var bs_ajax_paginate_506518088 = '{"query":{"category":"","tag":"","taxonomy":"","post_ids":"","post_type":"","count":"7","order_by":"date","order":"DESC","time_filter":"","offset":"","style":"listing-mix-4-4","cats-tags-condition":"and","cats-condition":"in","tags-condition":"in","featured_image":"1","ignore_sticky_posts":"1","author_ids":"","disable_duplicate":"0","ad-active":"0","ad-after_each":"","ad-type":"","ad-banner":"none","ad-campaign":"none","ad-count":"","ad-columns":"1","ad-orderby":"date","ad-order":"ASC","ad-align":"left","paginate":"infinity","pagination-show-label":"0","listing-settings":"","override-listing-settings":"0","_layout":{"state":"2\/3|1|0","page":"1-col"},"show_excerpt_big":"1","show_excerpt_small":"1"},"type":"bs_post_listing","view":"Publisher_Mix_Listing_4_4_Shortcode","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"1","remove_duplicates_ids":"263099,290677,290980,290962,290964,290806","show_excerpt_big":"1","show_excerpt_small":"1","paginate":"infinity","pagination-show-label":"0","ad-active":"0","ad-after_each":"","ad-type":"","ad-banner":"none","ad-campaign":"none","ad-count":"","ad-columns":"1","ad-orderby":"date","ad-order":"ASC","ad-align":"left","override-listing-settings":"0","listing-settings":"","_layout":{"state":"2\/3|1|0","page":"1-col"},"_bs_pagin_token":"79500bd"}';</script> <a rel="next" class="btn-bs-pagination" data-id="506518088" title="Cargar más entradas">
+<span class="loading" style="display: none;">
+<i class="fa fa-refresh fa-spin fa-fw"></i>
+</span>
+<span class="loading" style="display: none;">
+Cargando ... </span>
+<span class="loaded txt">
+Cargar más entradas </span>
+<span class="loaded icon">
+<i class="fa fa-angle-down" aria-hidden="true"></i>
+</span>
+<span class="no-more" style="display: none;">
+No hay más entradas
+</span>
+</a>
+</div></div></div></div><div class="sticky-column wpb_column bs-vc-column vc_column_container vc_col-sm-4"><div class="bs-vc-wrapper wpb_wrapper"><section class="vc_cta3-container">
+<div class="vc_general vc_cta3 vc_cta3-style-3d vc_cta3-shape-rounded vc_cta3-align-left vc_cta3-color-sky vc_cta3-icon-size-md vc_cta3-actions-bottom">
+<div class="vc_cta3_content-container">
+<div class="vc_cta3-content">
+<header class="vc_cta3-content-header">
+<h2>¡Ayúdenos a difundir la verdad!</h2> </header>
+<p class="p1"><strong>PanAm Post necesita tu donativo para continuar su lucha por la libertad y contra el colectivismo.</strong></p>
+</div>
+<div class="vc_cta3-actions"><div class="vc_btn3-container vc_btn3-inline">
+<a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-rounded vc_btn3-style-3d vc_btn3-icon-left vc_btn3-color-orange" href="https://es.panampost.com/donations/?cn-reloaded=1" title="" target="_blank" rel="nofollow"><i class="vc_btn3-icon fa fa-credit-card"></i> Donar</a> </div>
+</div> </div>
+</div>
+</section>
+<div class="wpb_widgetised_column wpb_content_element ">
+<div class="wpb_wrapper">
+<div id="bs-text-listing-4-3" class=" h-ni w-t primary-sidebar-widget widget widget_bs-text-listing-4"><div id="" class=" bs-listing bs-listing-listing-text-4 bs-listing-single-tab"> <p class="section-heading sh-t3 sh-s1 main-term-none">
+<span class="h-text main-term-none main-link">
+⚡DESTACADO </span>
+</p>
+<div class="listing listing-text listing-text-4 clearfix columns-1">
+<div class="post-290774 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-4 main-term-42">
+<div class="item-inner">
+<div class="term-badges text-badges"><span class="term-badge term-42"><a href="https://es.panampost.com/temas/opinion/">Opinión</a></span></div><p class="title"> <a href="https://es.panampost.com/jovel-alvarez/2020/02/26/costa-rica-el-curioso-caso-del-presidente-irrelevante/" class="post-title post-url">
+El curioso caso del presidente irrelevante </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-26T08:00:37+00:00">Feb 26, 2020</time></span>
+</div>
+</div>
+</div >
+<div class="post-290844 type-post format-standard has-post-thumbnail   listing-item listing-item-text listing-item-text-4 main-term-15">
+<div class="item-inner">
+<div class="term-badges text-badges"><span class="term-badge term-15"><a href="https://es.panampost.com/temas/america-del-sur/colombia/">Colombia</a></span></div><p class="title"> <a href="https://es.panampost.com/felipe-fernandez/2020/02/26/nuevos-bancos-colombia/" class="post-title post-url">
+Anuncian la llegada de dos nuevos bancos a Colombia </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-26T18:34:08+00:00">Feb 26, 2020</time></span>
+</div>
+</div>
+</div >
+<div class="post-290806 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-4 main-term-40">
+<div class="item-inner">
+<div class="term-badges text-badges"><span class="term-badge term-40"><a href="https://es.panampost.com/temas/noticias/">Noticias</a></span></div><p class="title"> <a href="https://es.panampost.com/mamela-fiallo/2020/02/27/nicaragua-parlamento-internet/" class="post-title post-url">
+Nicaragua: Parlamento le dio al Gobierno el poder de controlar el Internet </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-27T12:48:28+00:00">Feb 27, 2020</time></span>
+</div>
+</div>
+</div >
+<div class="post-290964 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-4 main-term-42">
+<div class="item-inner">
+<div class="term-badges text-badges"><span class="term-badge term-42"><a href="https://es.panampost.com/temas/opinion/">Opinión</a></span></div><p class="title"> <a href="https://es.panampost.com/orlando-avendano/2020/02/27/el-caracazo-empezo-en-todos-lados/" class="post-title post-url">
+El Caracazo empezó en todos lados </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-27T13:26:56+00:00">Feb 27, 2020</time></span>
+</div>
+</div>
+</div >
+</div>
+</div></div><div id="ciboyx-2" class=" h-ni w-nt primary-sidebar-widget widget widget_ciboyx"><div class="ciboyx ciboyx-clearfix  ciboyx-align-center ciboyx-column-1"><div id="ciboyx-281030-1150795323" class="ciboyx-container ciboyx-type-dfp " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="281030" data-type="dfp">
+<div id="div-pnp_desktop_rightcol1_atf">
+<script>googletag.cmd.push(function() { googletag.display('div-pnp_desktop_rightcol1_atf'); });</script>
+</div></div></div></div><div id="text-58" class=" h-i h-c h-c-000000 h-bg h-bg-0066bf w-t primary-sidebar-widget widget widget_text"><div class="section-heading sh-t3 sh-s1"><span class="h-text"><i class="bf-icon  fa fa-handshake-o"></i> Donar</span></div> <div class="textwidget"><figure id="attachment_270916" style="width: 220px" class="wp-caption aligncenter"><a href="https://es.panampost.com/donations/" target="_blank" rel="noopener"><img class="wp-image-270916" src="https://es.panampost.com/wp-content/uploads/boton-donar-300px.png" alt="Contribuya hoy al PanAm Post con su donación" width="220" height="161" /></a><figcaption class="wp-caption-text">Contribuya hoy al PanAm Post con su donación</figcaption></figure>
+</div>
+</div><div id="better-social-counter-2" class=" h-ni w-t primary-sidebar-widget widget widget_better-social-counter"><div class="section-heading sh-t3 sh-s1"><span class="h-text">Síguenos</span></div> <div class="  better-studio-shortcode bsc-clearfix better-social-counter style-style-11 colored in-4-col">
+<ul class="social-list bsc-clearfix"><li class="social-item facebook"><a href="https://www.facebook.com/PanAmPost" class="item-link" target="_blank"><i class="item-icon bsfi-facebook"></i><span class="item-count">365k</span><span class="item-title">Likes </span> <span class="item-join">Like our page</span> </a> </li> <li class="social-item twitter"><a href="https://twitter.com/PanAmPost_es" class="item-link" target="_blank"><i class="item-icon bsfi-twitter"></i><span class="item-count">135k</span><span class="item-title">Followers </span> <span class="item-join">Follow Us</span> </a> </li> <li class="social-item youtube"><a href="https://youtube.com/channel/PanAmPost" class="item-link" target="_blank"><i class="item-icon bsfi-youtube"></i><span class="item-count">Youtube</span><span class="item-title">Subscribers </span> <span class="item-join">Subscribe</span> </a> </li> <li class="social-item instagram"><a href="https://instagram.com/panam_post" class="item-link" target="_blank"><i class="item-icon bsfi-instagram"></i><span class="item-count">Instagram</span><span class="item-title">Followers </span> <span class="item-join">Follow Us</span> </a> </li> <li class="social-item rss"><a href="https://es.panampost.com/feed/rss/" class="item-link" target="_blank"><i class="item-icon bsfi-rss"></i><span class="item-count">RSS</span><span class="item-title">Subscribe </span> <span class="item-join">Subscribe</span> </a> </li> </ul>
+</div>
+</div><div id="bs-mix-listing-3-4-2" class=" h-ni w-t primary-sidebar-widget widget widget_bs-mix-listing-3-4"><div id="" class=" bs-listing bs-listing-listing-mix-3-4 bs-listing-single-tab pagination-animate"> <p class="section-heading sh-t3 sh-s1 main-term-none">
+<a href="http://Mas%20Noticias" class="main-link">
+<span class="h-text main-term-none">
+Más Noticias </span>
+</a>
+</p>
+<div class="bs-pagination-wrapper main-term-none next_prev bs-slider-first-item">
+<div class="listing listing-mix-3-4 clearfix ">
+<div class="item-inner">
+<div class="row-1">
+<div class="listing listing-modern-grid listing-modern-grid-3 clearfix columns-1 slider-overlay-simple-gr">
+<div class="post-290867 type-post format-standard has-post-thumbnail sticky  listing-item-1 listing-item listing-mg-item listing-mg-3-item main-term-42 bsw-100">
+<div class="item-content">
+<a title="Venezuela en el vórtice de Bernie" data-src="https://es.panampost.com/wp-content/uploads/726697fd93984005572b4e74b197c238f542b2dd-750x430.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;210&quot;:&quot;726697fd93984005572b4e74b197c238f542b2dd-210x136.jpg&quot;,&quot;279&quot;:&quot;726697fd93984005572b4e74b197c238f542b2dd-279x220.jpg&quot;,&quot;357&quot;:&quot;726697fd93984005572b4e74b197c238f542b2dd-357x210.jpg&quot;,&quot;750&quot;:&quot;726697fd93984005572b4e74b197c238f542b2dd-750x430.jpg&quot;,&quot;950&quot;:&quot;726697fd93984005572b4e74b197c238f542b2dd.jpg&quot;}}" class="img-cont" href="https://es.panampost.com/rafael-valera/2020/02/27/estados-undios-venezuela-en-el-vortice-de-bernie/"></a>
+<div class="content-container">
+<div class="term-badges floated"><span class="term-badge term-42"><a href="https://es.panampost.com/temas/opinion/">Opinión</a></span></div><p class="title"> <a href="https://es.panampost.com/rafael-valera/2020/02/27/estados-undios-venezuela-en-el-vortice-de-bernie/" class="post-title post-url">
+Venezuela en el vórtice de Bernie </a>
+</p> <div class="post-meta">
+<a href="https://es.panampost.com/author/rafael-valera/" title="Artículos de autor" class="post-author-a">
+<i class="post-author author">
+Rafael Valera </i>
+</a>
+<span class="time"><time class="post-published updated" datetime="2020-02-27T08:00:04+00:00">Feb 27, 2020</time></span>
+<a href="https://es.panampost.com/rafael-valera/2020/02/27/estados-undios-venezuela-en-el-vortice-de-bernie/#disqus_thread" title="Deja tu comentario sobre: ​​&quot;Venezuela en el vórtice de Bernie&quot;" class="comments"><i class="fa fa-comments-o"></i> </a> </div>
+</div>
+</div>
+</div >
+</div>
+</div>
+<div class="row-2">
+<div class="listing listing-thumbnail listing-tb-1 clearfix columns-1">
+<div class="post-290889 type-post format-standard has-post-thumbnail  listing-item-1 listing-item listing-item-thumbnail listing-item-tb-1 main-term-46">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a title="En Colombia existen más de 10 mil ganaderos víctimas del conflicto: Fedegan" data-src="https://es.panampost.com/wp-content/uploads/lafaurie-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;lafaurie-86x64.jpg&quot;,&quot;210&quot;:&quot;lafaurie-210x136.jpg&quot;,&quot;1200&quot;:&quot;lafaurie.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/felipe-fernandez/2020/02/26/colombia-victimas-fedegan/"></a>
+</div>
+<p class="title"> <a href="https://es.panampost.com/felipe-fernandez/2020/02/26/colombia-victimas-fedegan/" class="post-url post-title">
+En Colombia existen más de 10 mil ganaderos víctimas del conflicto:&hellip; </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-26T21:38:52+00:00">Feb 26, 2020</time></span>
+</div>
+</div>
+</div >
+<div class="post-290844 type-post format-standard has-post-thumbnail  listing-item-1 listing-item listing-item-thumbnail listing-item-tb-1 main-term-15">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a alt="Nuevos bancos Colombia, Economía colombiana" title="Anuncian la llegada de dos nuevos bancos a Colombia" data-src="https://es.panampost.com/wp-content/uploads/Cajero-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;Cajero-86x64.jpg&quot;,&quot;210&quot;:&quot;Cajero-210x136.jpg&quot;,&quot;1062&quot;:&quot;Cajero.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/felipe-fernandez/2020/02/26/nuevos-bancos-colombia/"></a>
+</div>
+<p class="title"> <a href="https://es.panampost.com/felipe-fernandez/2020/02/26/nuevos-bancos-colombia/" class="post-url post-title">
+Anuncian la llegada de dos nuevos bancos a Colombia </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-26T18:34:08+00:00">Feb 26, 2020</time></span>
+</div>
+</div>
+</div >
+<div class="post-290856 type-post format-standard has-post-thumbnail sticky  listing-item-1 listing-item listing-item-thumbnail listing-item-tb-1 main-term-49">
+<div class="item-inner clearfix">
+<div class="featured featured-type-featured-image">
+<a title="El Coronavirus ya llegó a Sudamérica" data-src="https://es.panampost.com/wp-content/uploads/Coronavirus-Brasil-86x64.jpg" data-bs-srcset="{&quot;baseurl&quot;:&quot;https:\/\/es.panampost.com\/wp-content\/uploads\/&quot;,&quot;sizes&quot;:{&quot;86&quot;:&quot;Coronavirus-Brasil-86x64.jpg&quot;,&quot;210&quot;:&quot;Coronavirus-Brasil-210x136.jpg&quot;,&quot;900&quot;:&quot;Coronavirus-Brasil.jpg&quot;}}" class="img-holder" href="https://es.panampost.com/mamela-fiallo/2020/02/26/coronavirus-sudamerica/"></a>
+</div>
+<p class="title"> <a href="https://es.panampost.com/mamela-fiallo/2020/02/26/coronavirus-sudamerica/" class="post-url post-title">
+El Coronavirus ya llegó a Sudamérica </a>
+</p> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-26T18:11:34+00:00">Feb 26, 2020</time></span>
+</div>
+</div>
+</div >
+</div>
+</div>
+</div>
+</div>
+</div><div class="bs-pagination bs-ajax-pagination next_prev main-term-none clearfix">
+<script>var bs_ajax_paginate_667313037 = '{"query":{"category":"","tag":"","taxonomy":"","post_ids":"","post_type":"","count":"4","order_by":"date","order":"DESC","time_filter":"","offset":"","style":"listing-mix-3-4","cats-tags-condition":"and","cats-condition":"in","tags-condition":"in","featured_image":"0","ignore_sticky_posts":"1","author_ids":"","disable_duplicate":"0","ad-active":0,"paginate":"next_prev","pagination-show-label":"1","columns":1,"listing-settings":{"big-title-limit":"82","big-format-icon":"1","big-term-badge":"1","big-term-badge-count":"1","big-term-badge-tax":"category","big-meta":{"show":"1","author":"1","date":"1","date-format":"standard","view":"0","share":"0","comment":"1","review":"1"},"small-thumbnail-type":"featured-image","small-title-limit":"70","small-subtitle":"0","small-subtitle-limit":"0","small-subtitle-location":"before-meta","small-meta":{"show":"1","author":"0","date":"1","date-format":"standard","view":"0","share":"0","comment":"0","review":"1"}},"override-listing-settings":"0","_layout":{"state":"1\/3|1|0","page":"1-col"}},"type":"bs_post_listing","view":"Publisher_Mix_Listing_3_4_Shortcode","current_page":1,"ajax_url":"\/wp-admin\/admin-ajax.php","remove_duplicates":"1","remove_duplicates_ids":"263099,290677,290980,290962,290964,290806,291004,290994,290908,290926,290947,290940,290930","paginate":"next_prev","pagination-show-label":"1","override-listing-settings":"0","listing-settings":{"big-title-limit":"82","big-format-icon":"1","big-term-badge":"1","big-term-badge-count":"1","big-term-badge-tax":"category","big-meta":{"show":"1","author":"1","date":"1","date-format":"standard","view":"0","share":"0","comment":"1","review":"1"},"small-thumbnail-type":"featured-image","small-title-limit":"70","small-subtitle":"0","small-subtitle-limit":"0","small-subtitle-location":"before-meta","small-meta":{"show":"1","author":"0","date":"1","date-format":"standard","view":"0","share":"0","comment":"0","review":"1"}},"ad-active":false,"columns":1,"_layout":{"state":"1\/3|1|0","page":"1-col"},"_bs_pagin_token":"d868b7f","data":{"vars":{"post-ranking-offset":4}}}';</script> <a class="btn-bs-pagination prev disabled" rel="prev" data-id="667313037" title="Anterior">
+<i class="fa fa-angle-left" aria-hidden="true"></i> Anterior </a>
+<a rel="next" class="btn-bs-pagination next" data-id="667313037" title="Siguiente">
+Siguiente <i class="fa fa-angle-right" aria-hidden="true"></i>
+</a>
+<span class="bs-pagination-label label-light">1 De 7.418</span>
+</div></div></div><div id="ciboyx-6" class=" h-ni w-nt primary-sidebar-widget widget widget_ciboyx"><div class="ciboyx ciboyx-clearfix  ciboyx-align-center ciboyx-column-1"><div id="ciboyx-281031-48216700" class="ciboyx-container ciboyx-type-dfp " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="281031" data-type="dfp">
+<div id="div-pnp_desktop_rightcol2">
+<script>googletag.cmd.push(function() { googletag.display('div-pnp_desktop_rightcol2'); });</script>
+</div></div></div></div>
+</div>
+</div>
+<div class="bs-shortcode bs-popular-categories ">
+<h3 class="section-heading sh-t3 sh-s1">
+<span class="h-text">Categorías Populares</span>
+</h3>
+<ul class="bs-popular-terms-list">
+<li class="bs-popular-term-item term-item-174">
+<a href="https://es.panampost.com/temas/uncategorized/destacado/">Destacado<span class="term-count">20930</span></a>
+</li><li class="bs-popular-term-item term-item-46">
+<a href="https://es.panampost.com/temas/legislacion/politica/">Política<span class="term-count">18616</span></a>
+</li><li class="bs-popular-term-item term-item-4">
+<a href="https://es.panampost.com/temas/america-del-sur/">Sur América<span class="term-count">15851</span></a>
+</li><li class="bs-popular-term-item term-item-41">
+<a href="https://es.panampost.com/temas/noticias-breves/">Noticias breves<span class="term-count">12714</span></a>
+</li><li class="bs-popular-term-item term-item-52">
+<a href="https://es.panampost.com/temas/legislacion/sociedad/">Sociedad<span class="term-count">10054</span></a>
+</li><li class="bs-popular-term-item term-item-56">
+<a href="https://es.panampost.com/temas/america-del-sur/venezuela/">Venezuela<span class="term-count">8408</span></a>
+</li> </ul>
+</div>
+<div class="bs-shortcode bs-instagram clearfix ">
+<h3 class="section-heading sh-t3 sh-s1">
+<span class="h-text">Instagram</span>
+</h3>
+<ul class="bs-instagram-photo-list columns-3 clearfix"> <li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8yh3rRAeRH/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/87232136_1310707159140339_5143039350885195575_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=103&#038;_nc_ohc=pbfFKSJPHMAAX-7kbDu&#038;oh=020b033bedd7b68f431e2551bf51d635&#038;oe=5E8A9D11">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8xDJxagRd-/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/82380194_615737549216742_3540303125813256915_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=106&#038;_nc_ohc=T7S7Voh479QAX8zQ0DM&#038;oh=576f58573a8efa7de9ce78e7d143e55f&#038;oe=5E55FCDD">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8ugEXhAehK/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/84860763_528112874491214_6639642260869742046_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=102&#038;_nc_ohc=LwrP1zpxV1AAX8zvFwP&#038;oh=37c6c387c21963810199bf90bfbeec99&#038;oe=5E566C6B">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8t_w9KAGS8/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/85081054_530758680897690_8502686569779842610_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=106&#038;_nc_ohc=rkhe2jIkPWYAX8Z7Tqr&#038;oh=4e73ca60aade8b4290c1d3eb64a1dd07&#038;oe=5E8497E5">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8sBuMHgHzd/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/84697324_211387283346930_5282932397496299789_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=106&#038;_nc_ohc=31YYACRhhSEAX9niI_U&#038;oh=41796b3f66ba4fab86e70455d905277b&#038;oe=5E5700E5">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8rbfVNAqR0/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/85259309_501486133886050_1097006934074167224_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=110&#038;_nc_ohc=kD7Q079h_V0AX8ev6yW&#038;oh=3b482ada41f7c07ebb092d279324bcaf&#038;oe=5E8A9E28">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8pU4pTgEcL/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/84769997_656590205098120_8656829988338998057_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=104&#038;_nc_ohc=IYQtwtjlBWgAX-DoUjo&#038;oh=07a9366a6c4d5813790c9d6280cd82fd&#038;oe=5E8AE3EE">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8oG_wjgel0/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/82113632_525836634739645_1327225467218887120_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=101&#038;_nc_ohc=lpp1m2JHof0AX-DwOim&#038;oh=9ae392ff326cf4988fad4a8725a3f1d4&#038;oe=5E56F0BA">
+</a>
+</li>
+<li class="bs-instagram-photo">
+<a href="//instagram.com/p/B8jbF-8AFK6/" target="_blank" alt="" class="img-holder" data-src="https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-15/e35/84471946_232914011058498_1971195481524637147_n.jpg?_nc_ht=scontent-sjc3-1.cdninstagram.com&#038;_nc_cat=106&#038;_nc_ohc=5I24OqtgyHMAX-URNA9&#038;oh=1c61821b308aa8120011e43c45b47ac6&#038;oe=5E568D64">
+</a>
+</li>
+</ul> </div>
+<div id="" class=" bs-listing bs-listing-listing-text-2 bs-listing-single-tab"> <h3 class="section-heading sh-t3 sh-s1 main-term-8993">
+<a href="https://es.panampost.com/temas/videos/" class="main-link">
+<span class="h-text main-term-8993">
+Videos </span>
+</a>
+</h3>
+<div class="listing listing-text listing-text-2 clearfix columns-1">
+<article class="post-290463 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-2 main-term-6539">
+<div class="item-inner">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/02/22/socialistas-en-el-poder-y-el-oscuro-panorama-de-la-economia-espanola-panam-podcast/" class="post-title post-url">
+Socialistas en el poder y el oscuro panorama de la economía española:&hellip; </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-22T10:47:19+00:00">Feb 22, 2020</time></span>
+</div>
+</div>
+</article >
+<article class="post-289799 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-2 main-term-6539">
+<div class="item-inner">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/02/13/bukele-el-peligroso-presidente-que-tiene-el-apoyo-del-pueblo-panam-podcast/" class="post-title post-url">
+Bukele, el peligroso presidente que tiene el apoyo del pueblo: PanAm&hellip; </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-13T12:38:09+00:00">Feb 13, 2020</time></span>
+</div>
+</div>
+</article >
+<article class="post-289475 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-2 main-term-40">
+<div class="item-inner">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/02/09/mexico-cae-la-confianza-inversionista-y-la-economia-se-contrae-panam-podcast/" class="post-title post-url">
+México, cae la confianza inversionista y la economía se contrae: PanAm&hellip; </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-02-09T15:47:21+00:00">Feb 9, 2020</time></span>
+</div>
+</div>
+</article >
+<article class="post-288749 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-2 main-term-174">
+<div class="item-inner">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/01/30/prostitucion-de-menores-y-otros-escandalos-del-gobierno-espanol-panam-podcast/" class="post-title post-url">
+Prostitución de menores y otros escándalos del Gobierno español: PanAm&hellip; </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-01-30T18:17:40+00:00">Ene 30, 2020</time></span>
+</div>
+</div>
+</article >
+<article class="post-288427 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-2 main-term-826">
+<div class="item-inner">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/01/26/terrorismo-islamico-en-colombia-y-venezuela-panam-podcast/" class="post-title post-url">
+Terrorismo islámico en Colombia y Venezuela: PanAm Podcast </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-01-26T13:56:44+00:00">Ene 26, 2020</time></span>
+</div>
+</div>
+</article >
+<article class="post-287225 type-post format-standard has-post-thumbnail sticky   listing-item listing-item-text listing-item-text-2 main-term-6539">
+<div class="item-inner">
+<h2 class="title"> <a href="https://es.panampost.com/vanessa-araujo/2020/01/10/lucha-asamblea-venezuela/" class="post-title post-url">
+La lucha por una Asamblea sin ningún poder: PanAm Podcast </a>
+</h2> <div class="post-meta">
+<span class="time"><time class="post-published updated" datetime="2020-01-10T11:02:47+00:00">Ene 10, 2020</time></span>
+</div>
+</div>
+</article >
+</div>
+</div> <div class="bs-shortcode bs-newsletter-pack bsnp-mailchimp bsnp-st-widget bsnp-t1 bsnp-s1 ">
+<div class="bsnp-bc">
+<div class="bsnp-title heading-typo">Suscríbase gratis a nuestro boletín diario</div>
+<div class="bsnp-desc">Suscríbase aquí a nuestro boletín diario y nunca se pierda otra noticia</div>
+<form action="https://panampost.us7.list-manage.com/subscribe/post?u=4f2ae1156fccc559ba11da44f&id=c7fc0c0877" method="post" name="mc-embedded-subscribe-form" class="bsnp-form clearfix " target="_blank">
+<div class="bsnp-inputs-wrap bsnp-clearfix bsnp-1-row">
+<div class="bsnp-field-w bsnp-field-input-w"><input name="EMAIL" type="email" placeholder="Ingrese su cuenta de email" class="bsnp-input "><i class="bsnp-icon fa fa-envelope"></i></div>
+<div class="bsnp-field-w bsnp-field-button-w"><button class="bsnp-button" name="subscribe" type="submit">Suscríbase</button></div>
+</div>
+</form>
+<div class="bsnp-after">Puede salirse de la lista de suscriptores en cualquier momento</div>
+<div class='bsnp-si  bsnp-si-t1 bsnp-si-s1'> <div class="  better-studio-shortcode bsc-clearfix better-social-counter style-name not-colored in-4-col">
+<ul class="social-list bsc-clearfix"> <li class="social-item facebook"> <a href="https://www.facebook.com/PanAmPost" target="_blank"> <i class="item-icon bsfi-facebook"></i><span class="item-name"> Facebook </span> </a> </li> <li class="social-item twitter"> <a href="https://twitter.com/PanAmPost_es" target="_blank"> <i class="item-icon bsfi-twitter"></i><span class="item-name"> Twitter </span> </a> </li> <li class="social-item google"> <a href="https://plus.google.com/116030018206526131828" target="_blank"> <i class="item-icon bsfi-google"></i><span class="item-name"> Google+ </span> </a> </li> <li class="social-item youtube"> <a href="https://youtube.com/channel/PanAmPost" target="_blank"> <i class="item-icon bsfi-youtube"></i><span class="item-name"> Youtube </span> </a> </li> <li class="social-item instagram"> <a href="https://instagram.com/panam_post" target="_blank"> <i class="item-icon bsfi-instagram"></i><span class="item-name"> Instagram </span> </a> </li> </ul>
+</div>
+</div> </div>
+</div>
+<div class="  better-studio-shortcode better-social-banner bsc-clearfix">
+<a href="https://www.facebook.com/PanAmPost" class="banner-item item-facebook">
+<i class="item-icon bsfi-facebook" aria-label="facebook"></i>
+<span class="item-count">365k</span>
+<span class="item-title">Likes</span>
+<span class="item-button">Like our page</span>
+</a>
+</div>
+</div></div></div></div>
+</div>
+</div>
+</div>
+</main>
+</div>
+<footer id="site-footer" class="site-footer full-width">
+<div class="copy-footer">
+<div class="content-wrap">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div id="menu-footer" class="menu footer-menu-wrapper" role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+<nav class="footer-menu-container">
+<ul id="footer-navigation" class="footer-menu menu clearfix">
+<li id="menu-item-220709" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-56 better-anim-fade menu-item-220709"><a href="https://es.panampost.com/temas/america-del-sur/venezuela/">Venezuela</a></li>
+<li id="menu-item-220710" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-15 better-anim-fade menu-item-220710"><a href="https://es.panampost.com/temas/america-del-sur/colombia/">Colombia</a></li>
+<li id="menu-item-220711" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6 better-anim-fade menu-item-220711"><a href="https://es.panampost.com/temas/america-del-sur/argentina/">Argentina</a></li>
+<li id="menu-item-220712" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-38 better-anim-fade menu-item-220712"><a href="https://es.panampost.com/temas/america-del-norte/mexico/">México</a></li>
+<li id="menu-item-220713" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-12 better-anim-fade menu-item-220713"><a href="https://es.panampost.com/temas/america-del-sur/chile/">Chile</a></li>
+<li id="menu-item-220714" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-9 better-anim-fade menu-item-220714"><a href="https://es.panampost.com/temas/america-del-sur/brasil/">Brasil</a></li>
+<li id="menu-item-220715" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-19 better-anim-fade menu-item-220715"><a href="https://es.panampost.com/temas/america-del-sur/ecuador/">Ecuador</a></li>
+<li id="menu-item-220716" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-8 better-anim-fade menu-item-220716"><a href="https://es.panampost.com/temas/america-del-sur/bolivia/">Bolivia</a></li>
+<li id="menu-item-220717" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-term-6539 better-anim-fade menu-item-220717"><a href="https://es.panampost.com/temas/videos/podcast/">Podcast</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="row footer-copy-row">
+<div class="copy-1 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+© 2019 - All Rights Reserved. </div>
+<div class="copy-2 col-lg-6 col-md-6 col-sm-6 col-xs-12">
+ Website Design: <a href="http://betterstudio.com/">BetterStudio</a> </div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div class="ciboyx ciboyx-clearfix ciboyx-after-footer ciboyx-loc-footer_after ciboyx-align-center ciboyx-column-3"><div id="ciboyx-254262-1472717622" class="ciboyx-container ciboyx-type-custom_code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="254262" data-type="custom_code"><div id="div-gpt-ad-1493062564011-0">
+<script>googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493062564011-0'); });</script>
+</div></div></div> <span class="back-top"><i class="fa fa-arrow-up"></i></span>
+<script type="text/javascript">
+						var _sf_async_config={};
+			_sf_async_config.uid = 102373;
+			_sf_async_config.domain = "es.panampost.com";
+			_sf_async_config.useCanonical = true;
+				(function(){
+			        function loadChartbeat() {
+					window._sf_endpt=(new Date()).getTime();
+					var e = document.createElement('script');
+					e.setAttribute('language', 'javascript');
+					e.setAttribute('type', 'text/javascript');
+					e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+					document.body.appendChild(e);
+				  }
+				  var oldonload = window.onload;
+				  window.onload = (typeof window.onload != 'function') ?
+					 loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
+				})();
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bs_pagination_loc = {"loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var publisher_theme_global_loc = {"page":{"boxed":"full-width"},"header":{"style":"style-1","boxed":"full-width"},"ajax_url":"https:\/\/es.panampost.com\/wp-admin\/admin-ajax.php","loading":"<div class=\"bs-loading\"><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><div><\/div><\/div>","translations":{"tabs_all":"Todas","tabs_more":"M\u00e1s","lightbox_expand":"Expand the image","lightbox_close":"Close"},"lightbox":{"not_classes":""},"main_menu":{"more_menu":"enable"},"top_menu":{"more_menu":"enable"},"skyscraper":{"sticky_gap":30,"sticky":true,"position":"after-header"},"share":{"more":true},"refresh_googletagads":"1","notification":{"subscribe_msg":"By clicking the subscribe button you will never miss the new articles!","subscribed_msg":"You're subscribed to notifications","subscribe_btn":"Subscribe","subscribed_btn":"Unsubscribe"}};
+var publisher_theme_ajax_search_loc = {"ajax_url":"https:\/\/es.panampost.com\/wp-admin\/admin-ajax.php","previewMarkup":"<div class=\"ajax-search-results-wrapper ajax-search-no-product ajax-search-fullwidth\">\n\t<div class=\"ajax-search-results\">\n\t\t<div class=\"ajax-ajax-posts-list\">\n\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t<span>Mensajes<\/span>\n\t\t\t<\/div>\n\t\t\t<div class=\"posts-lists\" data-section-name=\"posts\"><\/div>\n\t\t<\/div>\n\t\t<div class=\"ajax-taxonomy-list\">\n\t\t\t<div class=\"ajax-categories-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Categor\u00edas<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"categories\"><\/div>\n\t\t\t<\/div>\n\t\t\t<div class=\"ajax-tags-columns\">\n\t\t\t\t<div class=\"clean-title heading-typo\">\n\t\t\t\t\t<span>Etiquetas<\/span>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"posts-lists\" data-section-name=\"tags\"><\/div>\n\t\t\t<\/div>\n\t\t<\/div>\n\t<\/div>\n<\/div>","full_width":"1"};
+/* ]]> */
+</script>
+<div class="rh-cover noscroll  no-login-icon no-top-nav" style="background-color: #1e74bf">
+<span class="rh-close"></span>
+<div class="rh-panel rh-pm">
+<div class="rh-p-h">
+</div>
+<div class="rh-p-b">
+<div class="rh-c-m clearfix"></div>
+<form role="search" method="get" class="search-form" action="https://es.panampost.com">
+<input type="search" class="search-field" placeholder="Buscar..." value="" name="s" title="Buscar:" autocomplete="off">
+<input type="submit" class="search-submit" value="">
+</form>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+		/* MonsterInsights Scroll Tracking */
+			if ( typeof(jQuery) !== 'undefined' ) {
+				jQuery( document ).ready(function(){
+					function monsterinsights_scroll_tracking_load() {
+						if ( typeof(__gaTracker) !== 'undefined' && __gaTracker && __gaTracker.hasOwnProperty( "loaded" ) && __gaTracker.loaded == true ) {
+							(function(factory) {
+								factory(jQuery);
+							}(function($) {
+
+								/* Scroll Depth */
+								"use strict";
+								var defaults = {
+									percentage: true
+								};
+
+								var $window = $(window),
+									cache = [],
+									scrollEventBound = false,
+									lastPixelDepth = 0;
+
+								/*
+								 * Plugin
+								 */
+
+								$.scrollDepth = function(options) {
+
+									var startTime = +new Date();
+
+									options = $.extend({}, defaults, options);
+
+									/*
+									 * Functions
+									 */
+
+									function sendEvent(action, label, scrollDistance, timing) {
+
+										var fieldsArray = {
+											hitType       : 'event',
+											eventCategory : 'Scroll Depth',
+											eventAction   : action,
+											eventLabel    : label,
+											eventValue    : 1,
+											nonInteraction: 1
+										};
+
+										if ( 'undefined' === typeof MonsterInsightsObject || 'undefined' === typeof MonsterInsightsObject.sendEvent ) {
+											return;
+										}
+
+										MonsterInsightsObject.sendEvent( fieldsArray );
+										if (arguments.length > 3) {
+											fieldsArray = {
+												hitType        : 'timing',
+												timingCategory : 'Scroll Depth',
+												timingVar      : action,
+												timingValue    : timing,
+												timingLabel    : label,
+												nonInteraction: 1
+											};
+											MonsterInsightsObject.sendEvent( fieldsArray );
+										}
+									}
+
+									function calculateMarks(docHeight) {
+										return {
+											'25%' : parseInt(docHeight * 0.25, 10),
+											'50%' : parseInt(docHeight * 0.50, 10),
+											'75%' : parseInt(docHeight * 0.75, 10),
+											/* Cushion to trigger 100% event in iOS */
+											'100%': docHeight - 5
+										};
+									}
+
+									function checkMarks(marks, scrollDistance, timing) {
+										/* Check each active mark */
+										$.each(marks, function(key, val) {
+											if ( $.inArray(key, cache) === -1 && scrollDistance >= val ) {
+												sendEvent('Percentage', key, scrollDistance, timing);
+												cache.push(key);
+											}
+										});
+									}
+
+									function rounded(scrollDistance) {
+										/* Returns String */
+										return (Math.floor(scrollDistance/250) * 250).toString();
+									}
+
+									function init() {
+										bindScrollDepth();
+									}
+
+									/*
+									 * Public Methods
+									 */
+
+									/* Reset Scroll Depth with the originally initialized options */
+									$.scrollDepth.reset = function() {
+										cache = [];
+										lastPixelDepth = 0;
+										$window.off('scroll.scrollDepth');
+										bindScrollDepth();
+									};
+
+									/* Add DOM elements to be tracked */
+									$.scrollDepth.addElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.merge(options.elements, elems);
+
+										/* If scroll event has been unbound from window, rebind */
+										if (!scrollEventBound) {
+											bindScrollDepth();
+										}
+
+									};
+
+									/* Remove DOM elements currently tracked */
+									$.scrollDepth.removeElements = function(elems) {
+
+										if (typeof elems == "undefined" || !$.isArray(elems)) {
+											return;
+										}
+
+										$.each(elems, function(index, elem) {
+
+											var inElementsArray = $.inArray(elem, options.elements);
+											var inCacheArray = $.inArray(elem, cache);
+
+											if (inElementsArray != -1) {
+												options.elements.splice(inElementsArray, 1);
+											}
+
+											if (inCacheArray != -1) {
+												cache.splice(inCacheArray, 1);
+											}
+
+										});
+
+									};
+
+									/*
+									 * Throttle function borrowed from:
+									 * Underscore.js 1.5.2
+									 * http://underscorejs.org
+									 * (c) 2009-2013 Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+									 * Underscore may be freely distributed under the MIT license.
+									 */
+
+									function throttle(func, wait) {
+										var context, args, result;
+										var timeout = null;
+										var previous = 0;
+										var later = function() {
+											previous = new Date;
+											timeout = null;
+											result = func.apply(context, args);
+										};
+										return function() {
+											var now = new Date;
+											if (!previous) previous = now;
+											var remaining = wait - (now - previous);
+											context = this;
+											args = arguments;
+											if (remaining <= 0) {
+												clearTimeout(timeout);
+												timeout = null;
+												previous = now;
+												result = func.apply(context, args);
+											} else if (!timeout) {
+												timeout = setTimeout(later, remaining);
+											}
+											return result;
+										};
+									}
+
+									/*
+									 * Scroll Event
+									 */
+
+									function bindScrollDepth() {
+
+										scrollEventBound = true;
+
+										$window.on('scroll.scrollDepth', throttle(function() {
+											/*
+											 * We calculate document and window height on each scroll event to
+											 * account for dynamic DOM changes.
+											 */
+
+											var docHeight = $(document).height(),
+												winHeight = window.innerHeight ? window.innerHeight : $window.height(),
+												scrollDistance = $window.scrollTop() + winHeight,
+
+												/* Recalculate percentage marks */
+												marks = calculateMarks(docHeight),
+
+												/* Timing */
+												timing = +new Date - startTime;
+
+											checkMarks(marks, scrollDistance, timing);
+										}, 500));
+
+									}
+
+									init();
+								};
+
+								/* UMD export */
+								return $.scrollDepth;
+
+							}));
+
+							jQuery.scrollDepth();
+						} else {
+							setTimeout(monsterinsights_scroll_tracking_load, 200);
+						}
+					}
+					monsterinsights_scroll_tracking_load();
+				});
+			}
+		/* End MonsterInsights Scroll Tracking */
+		
+</script>
+<script src="https://es.panampost.com/wp-content/cache/minify/71e8b.js"></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Cerrar","currentText":"Hoy","monthNames":["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"monthNamesShort":["Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic"],"nextText":"Siguiente","prevText":"Anterior","dayNames":["domingo","lunes","martes","mi\u00e9rcoles","jueves","viernes","s\u00e1bado"],"dayNamesShort":["dom","lun","mar","mi\u00e9","jue","vie","s\u00e1b"],"dayNamesMin":["D","L","M","X","J","V","S"],"dateFormat":"d MM, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/es.panampost.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script src="https://es.panampost.com/wp-content/cache/minify/0fef6.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var addrop_script = {"ajaxurl":"https:\/\/es.panampost.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="https://es.panampost.com/wp-content/cache/minify/5cecc.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wp_plug_uixsc_root_path = {"templateUrl":"https:\/\/es.panampost.com\/wp-content\/themes\/publisher","uixScRootUrl":"https:\/\/es.panampost.com\/wp-content\/plugins\/uix-shortcodes\/"};
+/* ]]> */
+</script>
+<script src="https://es.panampost.com/wp-content/cache/minify/87e25.js"></script>
+<script>
+var ciboyx=function(a){"use strict";return{init:function(){0==ciboyx.ads_state()&&ciboyx.blocked_ads_fallback()},ads_state:function(){return void 0!==window.better_ads_adblock},blocked_ads_fallback:function(){var e=[];a(".ciboyx-container").each(function(){if("image"==a(this).data("type"))return 0;e.push({element_id:a(this).attr("id"),ad_id:a(this).data("adid")})}),e.length<1||jQuery.ajax({url:'https://es.panampost.com/wp-admin/admin-ajax.php',type:"POST",data:{action:"better_ads_manager_blocked_fallback",ads:e},success:function(e){var t=JSON.parse(e);a.each(t.ads,function(e,t){a("#"+t.element_id).html(t.code)})}})}}}(jQuery);jQuery(document).ready(function(){ciboyx.init()});
+
+</script>
+
+<script>
+ var disqus_shortname = 'es-panampost-com';
+            (function () {
+                var s = document.createElement('script'); s.async = true;
+                s.type = 'text/javascript';
+                s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+                (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+            }());
+
+</script>
+
+</body>
+</html>

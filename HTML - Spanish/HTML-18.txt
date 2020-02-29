@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljJfApAMMQAAYbccX0AAACG","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=M"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"M","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='M' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Loncovil" title="Especial:Todas">Página anterior (Loncovil)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Mallahual" title="Especial:Todas">Página siguiente (Mallahual)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/M" title="M">M</a></li>
+<li class="allpagesredirect"><a href="/wiki/M%27onda" class="mw-redirect" title="M&#039;onda">M&#039;onda</a></li>
+<li><a href="/wiki/M.%C2%AA" title="M.ª">M.ª</a></li>
+<li><a href="/wiki/MBA" title="MBA">MBA</a></li>
+<li><a href="/wiki/MBps" title="MBps">MBps</a></li>
+<li><a href="/wiki/MCI" title="MCI">MCI</a></li>
+<li><a href="/wiki/MILF" title="MILF">MILF</a></li>
+<li><a href="/wiki/MKS" title="MKS">MKS</a></li>
+<li><a href="/wiki/MPSS" title="MPSS">MPSS</a></li>
+<li><a href="/wiki/MRP" title="MRP">MRP</a></li>
+<li><a href="/wiki/Ma%27leiwa" title="Ma&#039;leiwa">Ma&#039;leiwa</a></li>
+<li><a href="/wiki/Maa" title="Maa">Maa</a></li>
+<li><a href="/wiki/Maan" title="Maan">Maan</a></li>
+<li><a href="/wiki/Maarianhamina" title="Maarianhamina">Maarianhamina</a></li>
+<li><a href="/wiki/Maastricht" title="Maastricht">Maastricht</a></li>
+<li><a href="/wiki/Mabato" title="Mabato">Mabato</a></li>
+<li><a href="/wiki/Mabel" title="Mabel">Mabel</a></li>
+<li><a href="/wiki/Mac-Iver" title="Mac-Iver">Mac-Iver</a></li>
+<li><a href="/wiki/MacGyver" title="MacGyver">MacGyver</a></li>
+<li><a href="/wiki/MacIver" title="MacIver">MacIver</a></li>
+<li><a href="/wiki/Mac_Iver" title="Mac Iver">Mac Iver</a></li>
+<li><a href="/wiki/Mac_Niven" title="Mac Niven">Mac Niven</a></li>
+<li><a href="/wiki/Mac_OS" title="Mac OS">Mac OS</a></li>
+<li><a href="/wiki/Macaiziola" title="Macaiziola">Macaiziola</a></li>
+<li><a href="/wiki/Macao" title="Macao">Macao</a></li>
+<li><a href="/wiki/Macarena" title="Macarena">Macarena</a></li>
+<li><a href="/wiki/Macario" title="Macario">Macario</a></li>
+<li><a href="/wiki/Macaristan" title="Macaristan">Macaristan</a></li>
+<li><a href="/wiki/Macarrain" title="Macarrain">Macarrain</a></li>
+<li><a href="/wiki/Macarrin" title="Macarrin">Macarrin</a></li>
+<li><a href="/wiki/Macarro" title="Macarro">Macarro</a></li>
+<li><a href="/wiki/Macar%C4%B1stan" title="Macarıstan">Macarıstan</a></li>
+<li><a href="/wiki/Macas" title="Macas">Macas</a></li>
+<li><a href="/wiki/Macasaga" title="Macasaga">Macasaga</a></li>
+<li><a href="/wiki/Macaya" title="Macaya">Macaya</a></li>
+<li><a href="/wiki/Macazaga" title="Macazaga">Macazaga</a></li>
+<li><a href="/wiki/Maceda" title="Maceda">Maceda</a></li>
+<li><a href="/wiki/Macedonia" title="Macedonia">Macedonia</a></li>
+<li><a href="/wiki/Macedonia_del_Norte" title="Macedonia del Norte">Macedonia del Norte</a></li>
+<li><a href="/wiki/Macedoni%C3%AB" title="Macedonië">Macedonië</a></li>
+<li><a href="/wiki/Machacal" title="Machacal">Machacal</a></li>
+<li><a href="/wiki/Machacan" title="Machacan">Machacan</a></li>
+<li><a href="/wiki/Machado" title="Machado">Machado</a></li>
+<li><a href="/wiki/Machaga" title="Machaga">Machaga</a></li>
+<li><a href="/wiki/Machain" title="Machain">Machain</a></li>
+<li><a href="/wiki/Macharregui" title="Macharregui">Macharregui</a></li>
+<li><a href="/wiki/Macheo" title="Macheo">Macheo</a></li>
+<li><a href="/wiki/Machete" title="Machete">Machete</a></li>
+<li><a href="/wiki/Machiandarena" title="Machiandarena">Machiandarena</a></li>
+<li><a href="/wiki/Machiandiarena" title="Machiandiarena">Machiandiarena</a></li>
+<li><a href="/wiki/Machiarena" title="Machiarena">Machiarena</a></li>
+<li><a href="/wiki/Machicote" title="Machicote">Machicote</a></li>
+<li><a href="/wiki/Machicotte" title="Machicotte">Machicotte</a></li>
+<li><a href="/wiki/Machicura" title="Machicura">Machicura</a></li>
+<li><a href="/wiki/Machierena" title="Machierena">Machierena</a></li>
+<li><a href="/wiki/Machil" title="Machil">Machil</a></li>
+<li><a href="/wiki/Machileo" title="Machileo">Machileo</a></li>
+<li><a href="/wiki/Machiman" title="Machiman">Machiman</a></li>
+<li><a href="/wiki/Machin" title="Machin">Machin</a></li>
+<li><a href="/wiki/Machinandiarena" title="Machinandiarena">Machinandiarena</a></li>
+<li><a href="/wiki/Machinaundiarena" title="Machinaundiarena">Machinaundiarena</a></li>
+<li><a href="/wiki/Machinbarrena" title="Machinbarrena">Machinbarrena</a></li>
+<li><a href="/wiki/Machinea" title="Machinea">Machinea</a></li>
+<li><a href="/wiki/Machinena" title="Machinena">Machinena</a></li>
+<li><a href="/wiki/Machingorena" title="Machingorena">Machingorena</a></li>
+<li><a href="/wiki/Machintoa" title="Machintoa">Machintoa</a></li>
+<li><a href="/wiki/Machi%C3%B1ena" title="Machiñena">Machiñena</a></li>
+<li><a href="/wiki/Machon" title="Machon">Machon</a></li>
+<li><a href="/wiki/Machu_Pikchu" title="Machu Pikchu">Machu Pikchu</a></li>
+<li><a href="/wiki/Machuca" title="Machuca">Machuca</a></li>
+<li><a href="/wiki/Machuron" title="Machuron">Machuron</a></li>
+<li><a href="/wiki/Macicior" title="Macicior">Macicior</a></li>
+<li><a href="/wiki/Maciel" title="Maciel">Maciel</a></li>
+<li><a href="/wiki/Mackenna" title="Mackenna">Mackenna</a></li>
+<li><a href="/wiki/Macoa" title="Macoa">Macoa</a></li>
+<li><a href="/wiki/Macoaga" title="Macoaga">Macoaga</a></li>
+<li><a href="/wiki/Macotera" title="Macotera">Macotera</a></li>
+<li><a href="/wiki/Macropus" title="Macropus">Macropus</a></li>
+<li><a href="/wiki/Macua" title="Macua">Macua</a></li>
+<li><a href="/wiki/Macuada" title="Macuada">Macuada</a></li>
+<li><a href="/wiki/Macuaga" title="Macuaga">Macuaga</a></li>
+<li><a href="/wiki/Macucho" title="Macucho">Macucho</a></li>
+<li><a href="/wiki/Macurra" title="Macurra">Macurra</a></li>
+<li><a href="/wiki/Macuso" title="Macuso">Macuso</a></li>
+<li><a href="/wiki/Mac%C3%A9doine" title="Macédoine">Macédoine</a></li>
+<li><a href="/wiki/Mac%C3%ADas" title="Macías">Macías</a></li>
+<li><a href="/wiki/Madaba" title="Madaba">Madaba</a></li>
+<li><a href="/wiki/Madagan" title="Madagan">Madagan</a></li>
+<li><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></li>
+<li><a href="/wiki/Madagaskar" title="Madagaskar">Madagaskar</a></li>
+<li><a href="/wiki/Madalbe" title="Madalbe">Madalbe</a></li>
+<li><a href="/wiki/Madalen" title="Madalen">Madalen</a></li>
+<li><a href="/wiki/Madalenaurrecoa" title="Madalenaurrecoa">Madalenaurrecoa</a></li>
+<li><a href="/wiki/Madalengoitia" title="Madalengoitia">Madalengoitia</a></li>
+<li><a href="/wiki/Madaria" title="Madaria">Madaria</a></li>
+<li><a href="/wiki/Madariaga" title="Madariaga">Madariaga</a></li>
+<li><a href="/wiki/Madariagaerrandocoa" title="Madariagaerrandocoa">Madariagaerrandocoa</a></li>
+<li><a href="/wiki/Madarieta" title="Madarieta">Madarieta</a></li>
+<li><a href="/wiki/Madarte" title="Madarte">Madarte</a></li>
+<li><a href="/wiki/Maddaleno" title="Maddaleno">Maddaleno</a></li>
+<li><a href="/wiki/Madeleine" title="Madeleine">Madeleine</a></li>
+<li><a href="/wiki/Madera" title="Madera">Madera</a></li>
+<li><a href="/wiki/Madin" title="Madin">Madin</a></li>
+<li><a href="/wiki/Madina" title="Madina">Madina</a></li>
+<li><a href="/wiki/Madinabeita" title="Madinabeita">Madinabeita</a></li>
+<li><a href="/wiki/Madinabeitia" title="Madinabeitia">Madinabeitia</a></li>
+<li><a href="/wiki/Madinabeitiaco" title="Madinabeitiaco">Madinabeitiaco</a></li>
+<li><a href="/wiki/Madinagoitia" title="Madinagoitia">Madinagoitia</a></li>
+<li><a href="/wiki/Madinaveitia" title="Madinaveitia">Madinaveitia</a></li>
+<li><a href="/wiki/Madinazcoitia" title="Madinazcoitia">Madinazcoitia</a></li>
+<li><a href="/wiki/Madison" title="Madison">Madison</a></li>
+<li><a href="/wiki/Madoz" title="Madoz">Madoz</a></li>
+<li><a href="/wiki/Mado%C3%B1o" title="Madoño">Madoño</a></li>
+<li><a href="/wiki/Madrazo" title="Madrazo">Madrazo</a></li>
+<li><a href="/wiki/Madri" title="Madri">Madri</a></li>
+<li><a href="/wiki/Madriaga" title="Madriaga">Madriaga</a></li>
+<li><a href="/wiki/Madriaza" title="Madriaza">Madriaza</a></li>
+<li><a href="/wiki/Madrid" title="Madrid">Madrid</a></li>
+<li><a href="/wiki/Madridas" title="Madridas">Madridas</a></li>
+<li><a href="/wiki/Madridi" title="Madridi">Madridi</a></li>
+<li><a href="/wiki/Madrido" title="Madrido">Madrido</a></li>
+<li><a href="/wiki/Madridon" title="Madridon">Madridon</a></li>
+<li><a href="/wiki/Madrids" title="Madrids">Madrids</a></li>
+<li><a href="/wiki/Madrigal" title="Madrigal">Madrigal</a></li>
+<li><a href="/wiki/Madril" title="Madril">Madril</a></li>
+<li><a href="/wiki/Madrit" title="Madrit">Madrit</a></li>
+<li><a href="/wiki/Madrycie" title="Madrycie">Madrycie</a></li>
+<li><a href="/wiki/Madryt" title="Madryt">Madryt</a></li>
+<li><a href="/wiki/Madrytem" title="Madrytem">Madrytem</a></li>
+<li><a href="/wiki/Madrytowi" title="Madrytowi">Madrytowi</a></li>
+<li><a href="/wiki/Madrytu" title="Madrytu">Madrytu</a></li>
+<li><a href="/wiki/Madr%C3%AD" title="Madrí">Madrí</a></li>
+<li><a href="/wiki/Madr%C3%AEd" title="Madrîd">Madrîd</a></li>
+<li><a href="/wiki/Madurga" title="Madurga">Madurga</a></li>
+<li><a href="/wiki/Maduri" title="Maduri">Maduri</a></li>
+<li><a href="/wiki/Mad%C5%BEarska" title="Madžarska">Madžarska</a></li>
+<li><a href="/wiki/Mae" title="Mae">Mae</a></li>
+<li><a href="/wiki/Maecha" title="Maecha">Maecha</a></li>
+<li><a href="/wiki/Maella" title="Maella">Maella</a></li>
+<li><a href="/wiki/Maestre" title="Maestre">Maestre</a></li>
+<li><a href="/wiki/Maestriarena" title="Maestriarena">Maestriarena</a></li>
+<li><a href="/wiki/Maestricht" title="Maestricht">Maestricht</a></li>
+<li><a href="/wiki/Maestrua" title="Maestrua">Maestrua</a></li>
+<li><a href="/wiki/Maestruarena" title="Maestruarena">Maestruarena</a></li>
+<li><a href="/wiki/Maestrurena" title="Maestrurena">Maestrurena</a></li>
+<li><a href="/wiki/Maestu" title="Maestu">Maestu</a></li>
+<li><a href="/wiki/Maeztu" title="Maeztu">Maeztu</a></li>
+<li><a href="/wiki/Mafalda" title="Mafalda">Mafalda</a></li>
+<li><a href="/wiki/Mafil" title="Mafil">Mafil</a></li>
+<li><a href="/wiki/Magaldi" title="Magaldi">Magaldi</a></li>
+<li><a href="/wiki/Magali" title="Magali">Magali</a></li>
+<li><a href="/wiki/Magallon" title="Magallon">Magallon</a></li>
+<li><a href="/wiki/Magalmendi" title="Magalmendi">Magalmendi</a></li>
+<li><a href="/wiki/Magaly" title="Magaly">Magaly</a></li>
+<li><a href="/wiki/Magda" title="Magda">Magda</a></li>
+<li><a href="/wiki/Magdalena" title="Magdalena">Magdalena</a></li>
+<li><a href="/wiki/Magdalenea" title="Magdalenea">Magdalenea</a></li>
+<li><a href="/wiki/Magdeburgo" title="Magdeburgo">Magdeburgo</a></li>
+<li><a href="/wiki/Magdiel" title="Magdiel">Magdiel</a></li>
+<li><a href="/wiki/Mage" title="Mage">Mage</a></li>
+<li><a href="/wiki/Magen" title="Magen">Magen</a></li>
+<li><a href="/wiki/Magirena" title="Magirena">Magirena</a></li>
+<li><a href="/wiki/Magna" title="Magna">Magna</a></li>
+<li><a href="/wiki/Magnesium" title="Magnesium">Magnesium</a></li>
+<li><a href="/wiki/Magnesiums" title="Magnesiums">Magnesiums</a></li>
+<li><a href="/wiki/Magnin" title="Magnin">Magnin</a></li>
+<li><a href="/wiki/Magnolia" title="Magnolia">Magnolia</a></li>
+<li><a href="/wiki/Magreb" title="Magreb">Magreb</a></li>
+<li><a href="/wiki/Maguirre" title="Maguirre">Maguirre</a></li>
+<li><a href="/wiki/Maguna" title="Maguna">Maguna</a></li>
+<li><a href="/wiki/Magunacelaya" title="Magunacelaya">Magunacelaya</a></li>
+<li><a href="/wiki/Magunagoicoechea" title="Magunagoicoechea">Magunagoicoechea</a></li>
+<li><a href="/wiki/Magunagoitia" title="Magunagoitia">Magunagoitia</a></li>
+<li><a href="/wiki/Maguncia" title="Maguncia">Maguncia</a></li>
+<li><a href="/wiki/Maguregui" title="Maguregui">Maguregui</a></li>
+<li><a href="/wiki/Magyarorsz%C3%A1g" title="Magyarország">Magyarország</a></li>
+<li><a href="/wiki/Mag%C3%B1in" title="Magñin">Magñin</a></li>
+<li><a href="/wiki/Mag%C3%BCida" title="Magüida">Magüida</a></li>
+<li><a href="/wiki/Mahoma" title="Mahoma">Mahoma</a></li>
+<li><a href="/wiki/Mahuel" title="Mahuel">Mahuel</a></li>
+<li><a href="/wiki/Mahuelche" title="Mahuelche">Mahuelche</a></li>
+<li><a href="/wiki/Mahuelpan" title="Mahuelpan">Mahuelpan</a></li>
+<li><a href="/wiki/Mahuida" title="Mahuida">Mahuida</a></li>
+<li><a href="/wiki/Mah%C3%B3n" title="Mahón">Mahón</a></li>
+<li><a href="/wiki/Mai" title="Mai">Mai</a></li>
+<li><a href="/wiki/Maia" title="Maia">Maia</a></li>
+<li><a href="/wiki/Maialen" title="Maialen">Maialen</a></li>
+<li><a href="/wiki/Maiben" title="Maiben">Maiben</a></li>
+<li><a href="/wiki/Maichil" title="Maichil">Maichil</a></li>
+<li><a href="/wiki/Maich%C3%ADn" title="Maichín">Maichín</a></li>
+<li><a href="/wiki/Maicol" title="Maicol">Maicol</a></li>
+<li><a href="/wiki/Maidagan" title="Maidagan">Maidagan</a></li>
+<li><a href="/wiki/Maidana" title="Maidana">Maidana</a></li>
+<li><a href="/wiki/Maieca" title="Maieca">Maieca</a></li>
+<li><a href="/wiki/Maihual" title="Maihual">Maihual</a></li>
+<li><a href="/wiki/Maihue" title="Maihue">Maihue</a></li>
+<li><a href="/wiki/Maikl" title="Maikl">Maikl</a></li>
+<li><a href="/wiki/Maikol" title="Maikol">Maikol</a></li>
+<li><a href="/wiki/Maik%C3%A4fer" title="Maikäfer">Maikäfer</a></li>
+<li><a href="/wiki/Mailharro" title="Mailharro">Mailharro</a></li>
+<li><a href="/wiki/Mailhe" title="Mailhe">Mailhe</a></li>
+<li><a href="/wiki/Mailhos" title="Mailhos">Mailhos</a></li>
+<li><a href="/wiki/Mailin" title="Mailin">Mailin</a></li>
+<li><a href="/wiki/Maillahual" title="Maillahual">Maillahual</a></li>
+<li><a href="/wiki/Maillaleo" title="Maillaleo">Maillaleo</a></li>
+<li><a href="/wiki/Maillan" title="Maillan">Maillan</a></li>
+<li><a href="/wiki/Maillanca" title="Maillanca">Maillanca</a></li>
+<li><a href="/wiki/Maillapi" title="Maillapi">Maillapi</a></li>
+<li><a href="/wiki/Mailuan" title="Mailuan">Mailuan</a></li>
+<li><a href="/wiki/Maimae" title="Maimae">Maimae</a></li>
+<li><a href="/wiki/Maimai" title="Maimai">Maimai</a></li>
+<li><a href="/wiki/Maimall" title="Maimall">Maimall</a></li>
+<li><a href="/wiki/Maim%C3%B3" title="Maimó">Maimó</a></li>
+<li><a href="/wiki/Main" title="Main">Main</a></li>
+<li class="allpagesredirect"><a href="/wiki/Main_Page" class="mw-redirect" title="Main Page">Main Page</a></li>
+<li><a href="/wiki/Maindivide" title="Maindivide">Maindivide</a></li>
+<li><a href="/wiki/Maine" title="Maine">Maine</a></li>
+<li><a href="/wiki/Mainen" title="Mainen">Mainen</a></li>
+<li><a href="/wiki/Maiola" title="Maiola">Maiola</a></li>
+<li><a href="/wiki/Maioz" title="Maioz">Maioz</a></li>
+<li><a href="/wiki/Maipo" title="Maipo">Maipo</a></li>
+<li><a href="/wiki/Maip%C3%BA" title="Maipú">Maipú</a></li>
+<li><a href="/wiki/Maira" title="Maira">Maira</a></li>
+<li><a href="/wiki/Mairihuan" title="Mairihuan">Mairihuan</a></li>
+<li><a href="/wiki/Mairil" title="Mairil">Mairil</a></li>
+<li><a href="/wiki/Mais" title="Mais">Mais</a></li>
+<li><a href="/wiki/Maische" title="Maische">Maische</a></li>
+<li><a href="/wiki/Maistegui" title="Maistegui">Maistegui</a></li>
+<li><a href="/wiki/Maisteguiz" title="Maisteguiz">Maisteguiz</a></li>
+<li><a href="/wiki/Maisterena" title="Maisterena">Maisterena</a></li>
+<li><a href="/wiki/Maisterra" title="Maisterra">Maisterra</a></li>
+<li><a href="/wiki/Maisterrena" title="Maisterrena">Maisterrena</a></li>
+<li><a href="/wiki/Maistruerena" title="Maistruerena">Maistruerena</a></li>
+<li><a href="/wiki/Maita" title="Maita">Maita</a></li>
+<li><a href="/wiki/Maitane" title="Maitane">Maitane</a></li>
+<li><a href="/wiki/Maite" title="Maite">Maite</a></li>
+<li><a href="/wiki/Maitearena" title="Maitearena">Maitearena</a></li>
+<li><a href="/wiki/Maitegui" title="Maitegui">Maitegui</a></li>
+<li><a href="/wiki/Maiterana" title="Maiterana">Maiterana</a></li>
+<li><a href="/wiki/Maiterena" title="Maiterena">Maiterena</a></li>
+<li><a href="/wiki/Maitia" title="Maitia">Maitia</a></li>
+<li><a href="/wiki/Maiticorena" title="Maiticorena">Maiticorena</a></li>
+<li><a href="/wiki/Maitorena" title="Maitorena">Maitorena</a></li>
+<li><a href="/wiki/Maitre" title="Maitre">Maitre</a></li>
+<li><a href="/wiki/Maitri" title="Maitri">Maitri</a></li>
+<li><a href="/wiki/Mait%C3%A9n" title="Maitén">Maitén</a></li>
+<li><a href="/wiki/Maiz" title="Maiz">Maiz</a></li>
+<li><a href="/wiki/Maiza" title="Maiza">Maiza</a></li>
+<li><a href="/wiki/Maizcorena" title="Maizcorena">Maizcorena</a></li>
+<li><a href="/wiki/Maizcurrana" title="Maizcurrana">Maizcurrana</a></li>
+<li><a href="/wiki/Maizcurrena" title="Maizcurrena">Maizcurrena</a></li>
+<li><a href="/wiki/Maiztegui" title="Maiztegui">Maiztegui</a></li>
+<li><a href="/wiki/Maizteguy" title="Maizteguy">Maizteguy</a></li>
+<li><a href="/wiki/Maizter" title="Maizter">Maizter</a></li>
+<li><a href="/wiki/Maizterra" title="Maizterra">Maizterra</a></li>
+<li><a href="/wiki/Mai%C5%A1" title="Maiš">Maiš</a></li>
+<li><a href="/wiki/Majachkal%C3%A1" title="Majachkalá">Majachkalá</a></li>
+<li><a href="/wiki/Majmut" title="Majmut">Majmut</a></li>
+<li><a href="/wiki/Major" title="Major">Major</a></li>
+<li><a href="/wiki/Majuro" title="Majuro">Majuro</a></li>
+<li><a href="/wiki/Makelika" title="Makelika">Makelika</a></li>
+<li><a href="/wiki/Mala" title="Mala">Mala</a></li>
+<li><a href="/wiki/Malabe" title="Malabe">Malabe</a></li>
+<li><a href="/wiki/Malabo" title="Malabo">Malabo</a></li>
+<li><a href="/wiki/Malachi" title="Malachi">Malachi</a></li>
+<li><a href="/wiki/Malachijo_knyga" title="Malachijo knyga">Malachijo knyga</a></li>
+<li><a href="/wiki/Malagawein" title="Malagawein">Malagawein</a></li>
+<li><a href="/wiki/Malague%C3%B1o" title="Malagueño">Malagueño</a></li>
+<li><a href="/wiki/Malajzia" title="Malajzia">Malajzia</a></li>
+<li><a href="/wiki/Malakamoto" title="Malakamoto">Malakamoto</a></li>
+<li><a href="/wiki/Malanon" title="Malanon">Malanon</a></li>
+<li><a href="/wiki/Malaqu%C3%ADas" title="Malaquías">Malaquías</a></li>
+<li><a href="/wiki/Malarriaga" title="Malarriaga">Malarriaga</a></li>
+<li><a href="/wiki/Malasechevarria" title="Malasechevarria">Malasechevarria</a></li>
+<li><a href="/wiki/Malasia" title="Malasia">Malasia</a></li>
+<li><a href="/wiki/Malasya" title="Malasya">Malasya</a></li>
+<li><a href="/wiki/Malaui" title="Malaui">Malaui</a></li>
+<li><a href="/wiki/Malawi" title="Malawi">Malawi</a></li>
+<li><a href="/wiki/Malawy" title="Malawy">Malawy</a></li>
+<li><a href="/wiki/Malax" title="Malax">Malax</a></li>
+<li><a href="/wiki/Malax-Echebarria" title="Malax-Echebarria">Malax-Echebarria</a></li>
+<li><a href="/wiki/Malaxechevarria" title="Malaxechevarria">Malaxechevarria</a></li>
+<li><a href="/wiki/Malaxecheverria" title="Malaxecheverria">Malaxecheverria</a></li>
+<li><a href="/wiki/Malayalam" title="Malayalam">Malayalam</a></li>
+<li><a href="/wiki/Malbr%C3%A1n" title="Malbrán">Malbrán</a></li>
+<li><a href="/wiki/Malcorra" title="Malcorra">Malcorra</a></li>
+<li><a href="/wiki/Malcorrea" title="Malcorrea">Malcorrea</a></li>
+<li><a href="/wiki/Malcuarto" title="Malcuarto">Malcuarto</a></li>
+<li><a href="/wiki/Malcuartu" title="Malcuartu">Malcuartu</a></li>
+<li><a href="/wiki/Maldi" title="Maldi">Maldi</a></li>
+<li><a href="/wiki/Maldia" title="Maldia">Maldia</a></li>
+<li><a href="/wiki/Maldini" title="Maldini">Maldini</a></li>
+<li><a href="/wiki/Maldivas" title="Maldivas">Maldivas</a></li>
+<li><a href="/wiki/Maldive" title="Maldive">Maldive</a></li>
+<li><a href="/wiki/Maldiven" title="Maldiven">Maldiven</a></li>
+<li><a href="/wiki/Maldonado" title="Maldonado">Maldonado</a></li>
+<li><a href="/wiki/Maleahija" title="Maleahija">Maleahija</a></li>
+<li><a href="/wiki/Malebr%C3%A1n" title="Malebrán">Malebrán</a></li>
+<li><a href="/wiki/Malediwy" title="Malediwy">Malediwy</a></li>
+<li><a href="/wiki/Maleizje" title="Maleizje">Maleizje</a></li>
+<li><a href="/wiki/Malena" title="Malena">Malena</a></li>
+<li><a href="/wiki/Maleo" title="Maleo">Maleo</a></li>
+<li><a href="/wiki/Malet" title="Malet">Malet</a></li>
+<li><a href="/wiki/Malevilu" title="Malevilu">Malevilu</a></li>
+<li><a href="/wiki/Malezja" title="Malezja">Malezja</a></li>
+<li><a href="/wiki/Malgassies" title="Malgassies">Malgassies</a></li>
+<li><a href="/wiki/Malgor" title="Malgor">Malgor</a></li>
+<li><a href="/wiki/Malgue" title="Malgue">Malgue</a></li>
+<li><a href="/wiki/Malharin" title="Malharin">Malharin</a></li>
+<li><a href="/wiki/Malharro" title="Malharro">Malharro</a></li>
+<li><a href="/wiki/Malhue" title="Malhue">Malhue</a></li>
+<li><a href="/wiki/Mali" title="Mali">Mali</a></li>
+<li><a href="/wiki/Malib%C3%BA" title="Malibú">Malibú</a></li>
+<li><a href="/wiki/Malican" title="Malican">Malican</a></li>
+<li><a href="/wiki/Malicura" title="Malicura">Malicura</a></li>
+<li><a href="/wiki/Malil" title="Malil">Malil</a></li>
+<li><a href="/wiki/Malillan" title="Malillan">Malillan</a></li>
+<li><a href="/wiki/Maliman" title="Maliman">Maliman</a></li>
+<li><a href="/wiki/Malin" title="Malin">Malin</a></li>
+<li><a href="/wiki/Malinalko" title="Malinalko">Malinalko</a></li>
+<li><a href="/wiki/Malinalli" title="Malinalli">Malinalli</a></li>
+<li><a href="/wiki/Malinan" title="Malinan">Malinan</a></li>
+<li><a href="/wiki/Malinao" title="Malinao">Malinao</a></li>
+<li><a href="/wiki/Malinarich" title="Malinarich">Malinarich</a></li>
+<li><a href="/wiki/Malinas" title="Malinas">Malinas</a></li>
+<li><a href="/wiki/Malinay" title="Malinay">Malinay</a></li>
+<li><a href="/wiki/Malintzin" title="Malintzin">Malintzin</a></li>
+<li><a href="/wiki/Malio" title="Malio">Malio</a></li>
+<li><a href="/wiki/Malipil" title="Malipil">Malipil</a></li>
+<li><a href="/wiki/Maliquen" title="Maliquen">Maliquen</a></li>
+<li><a href="/wiki/Maliqueo" title="Maliqueo">Maliqueo</a></li>
+<li><a href="/wiki/Maliqueu" title="Maliqueu">Maliqueu</a></li>
+<li><a href="/wiki/Malivilu" title="Malivilu">Malivilu</a></li>
+<li><a href="/wiki/Mali%C3%A1n" title="Malián">Malián</a></li>
+<li><a href="/wiki/Mali%C3%B1ir" title="Maliñir">Maliñir</a></li>
+<li><a href="/wiki/Malla" title="Malla">Malla</a></li>
+<li><a href="/wiki/Mallabengoeuria" title="Mallabengoeuria">Mallabengoeuria</a></li>
+<li><a href="/wiki/Mallabia" title="Mallabia">Mallabia</a></li>
+<li><a href="/wiki/Mallabiabarrena" title="Mallabiabarrena">Mallabiabarrena</a></li>
+<li><a href="/wiki/Mallabiavarrena" title="Mallabiavarrena">Mallabiavarrena</a></li>
+<li><a href="/wiki/Mallado" title="Mallado">Mallado</a></li>
+<li><a href="/wiki/Mallafil" title="Mallafil">Mallafil</a></li>
+<li><a href="/wiki/Mallagaray" title="Mallagaray">Mallagaray</a></li>
+<li><a href="/wiki/Mallagoitia" title="Mallagoitia">Mallagoitia</a></li>
+<li><a href="/wiki/Mallagoya" title="Mallagoya">Mallagoya</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Loncovil" title="Especial:Todas">Página anterior (Loncovil)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Mallahual" title="Especial:Todas">Página siguiente (Mallahual)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DM" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DM" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=M" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=M&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=M&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":313,"wgHostname":"mw1354"});});</script></body></html>

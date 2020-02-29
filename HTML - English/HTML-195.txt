@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>bonus - Wiktionary</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgSKgpAML8AAhQessgAAAAE","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"bonus","wgTitle":"bonus","wgCurRevisionId":58710510,"wgRevisionId":58710510,"wgArticleId":46174,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Finnish redlinks","Finnish redlinks/t","Requests for review of Spanish translations","Requests for review of Vietnamese translations","Finnish redlinks/l","Old Leonese term requests","Old Spanish term requests",
+"English terms borrowed from Latin","English terms derived from Latin","English 2-syllable words","English terms with IPA pronunciation","English lemmas","English nouns","English countable nouns","English terms with quotations","English terms with usage examples","en:Video games","en:Basketball","English verbs","English transitive verbs","Dutch terms borrowed from Latin","Dutch terms derived from Latin","Dutch terms with IPA pronunciation","Dutch terms with audio links","Dutch lemmas","Dutch nouns","Dutch nouns with plural in -en","Dutch nouns with Latin plurals","Finnish terms borrowed from English","Finnish terms derived from English","Finnish terms borrowed from Latin","Finnish terms derived from Latin","Finnish lemmas","Finnish nouns","Finnish vastaus-type nominals","French terms borrowed from English","French terms derived from English","French terms derived from Latin","French doublets","French 2-syllable words","French terms with IPA pronunciation","French lemmas","French nouns"
+,"French masculine nouns","French uncountable nouns","Italian terms borrowed from Latin","Italian terms derived from Latin","Italian doublets","Italian lemmas","Italian nouns","Italian countable nouns","Latin terms inherited from Old Latin","Latin terms derived from Old Latin","Latin terms inherited from Proto-Italic","Latin terms derived from Proto-Italic","Latin terms derived from Proto-Indo-European","Latin 2-syllable words","Latin terms with IPA pronunciation","Latin terms with Ecclesiastical IPA pronunciation","Latin terms with audio links","Latin lemmas","Latin adjectives","Latin first and second declension adjectives","Latin nouns","Latin masculine nouns","Latin second declension nouns","Latin masculine nouns in the second declension","Latin words in Meissner and Auden's phrasebook","Norwegian Bokmål terms borrowed from English","Norwegian Bokmål terms derived from English","Norwegian Bokmål terms borrowed from Latin","Norwegian Bokmål terms derived from Latin",
+"Norwegian Bokmål lemmas","Norwegian Bokmål nouns","Norwegian Nynorsk terms borrowed from English","Norwegian Nynorsk terms derived from English","Norwegian Nynorsk terms borrowed from Latin","Norwegian Nynorsk terms derived from Latin","Norwegian Nynorsk lemmas","Norwegian Nynorsk nouns","Spanish terms borrowed from English","Spanish terms derived from English","Spanish terms derived from Latin","Spanish doublets","Spanish terms with IPA pronunciation","Spanish lemmas","Spanish nouns","Spanish 2-syllable words"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"bonus","wgRelevantArticleId":46174,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,
+"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.column-hacks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.LegacyScripts",
+"ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.column-hacks&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=bonus&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=bonus&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/bonus"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-bonus rootpage-bonus skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">bonus</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="disambig-see-also"><i>See also:</i> <b class="Latn"><a href="/wiki/Bonus" title="Bonus">Bonus</a></b>, <b class="Latn"><a href="/wiki/b%C3%B3nus" title="bónus">bónus</a></b><span class="serial-comma">,</span><i><span class="serial-and"> and</span></i> <b class="Latn"><a href="/wiki/b%C3%B4nus" title="bônus">bônus</a></b></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#English"><span class="tocnumber">1</span> <span class="toctext">English</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pronunciation"><span class="tocnumber">1.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Noun"><span class="tocnumber">1.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Derived_terms"><span class="tocnumber">1.3.1</span> <span class="toctext">Derived terms</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Translations"><span class="tocnumber">1.3.2</span> <span class="toctext">Translations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Verb"><span class="tocnumber">1.4</span> <span class="toctext">Verb</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Descendants"><span class="tocnumber">1.4.1</span> <span class="toctext">Descendants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Anagrams"><span class="tocnumber">1.5</span> <span class="toctext">Anagrams</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Dutch"><span class="tocnumber">2</span> <span class="toctext">Dutch</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Etymology_2"><span class="tocnumber">2.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Pronunciation_2"><span class="tocnumber">2.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Noun_2"><span class="tocnumber">2.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Derived_terms_2"><span class="tocnumber">2.3.1</span> <span class="toctext">Derived terms</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Finnish"><span class="tocnumber">3</span> <span class="toctext">Finnish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Etymology_3"><span class="tocnumber">3.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Noun_3"><span class="tocnumber">3.2</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Declension"><span class="tocnumber">3.2.1</span> <span class="toctext">Declension</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Synonyms"><span class="tocnumber">3.2.2</span> <span class="toctext">Synonyms</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#French"><span class="tocnumber">4</span> <span class="toctext">French</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Etymology_4"><span class="tocnumber">4.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Pronunciation_3"><span class="tocnumber">4.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Noun_4"><span class="tocnumber">4.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-24"><a href="#Antonyms"><span class="tocnumber">4.3.1</span> <span class="toctext">Antonyms</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Further_reading"><span class="tocnumber">4.3.2</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Italian"><span class="tocnumber">5</span> <span class="toctext">Italian</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Etymology_5"><span class="tocnumber">5.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Noun_5"><span class="tocnumber">5.2</span> <span class="toctext">Noun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Latin"><span class="tocnumber">6</span> <span class="toctext">Latin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#Etymology_6"><span class="tocnumber">6.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Pronunciation_4"><span class="tocnumber">6.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Adjective"><span class="tocnumber">6.3</span> <span class="toctext">Adjective</span></a>
+<ul>
+<li class="toclevel-3 tocsection-33"><a href="#Declension_2"><span class="tocnumber">6.3.1</span> <span class="toctext">Declension</span></a></li>
+<li class="toclevel-3 tocsection-34"><a href="#Derived_terms_3"><span class="tocnumber">6.3.2</span> <span class="toctext">Derived terms</span></a></li>
+<li class="toclevel-3 tocsection-35"><a href="#Related_terms"><span class="tocnumber">6.3.3</span> <span class="toctext">Related terms</span></a></li>
+<li class="toclevel-3 tocsection-36"><a href="#Descendants_2"><span class="tocnumber">6.3.4</span> <span class="toctext">Descendants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-37"><a href="#Noun_6"><span class="tocnumber">6.4</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-38"><a href="#Declension_3"><span class="tocnumber">6.4.1</span> <span class="toctext">Declension</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-39"><a href="#References"><span class="tocnumber">6.5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#Further_reading_2"><span class="tocnumber">6.6</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-41"><a href="#Norwegian_Bokmål"><span class="tocnumber">7</span> <span class="toctext">Norwegian Bokmål</span></a>
+<ul>
+<li class="toclevel-2 tocsection-42"><a href="#Etymology_7"><span class="tocnumber">7.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Noun_7"><span class="tocnumber">7.2</span> <span class="toctext">Noun</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#References_2"><span class="tocnumber">7.3</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-45"><a href="#Norwegian_Nynorsk"><span class="tocnumber">8</span> <span class="toctext">Norwegian Nynorsk</span></a>
+<ul>
+<li class="toclevel-2 tocsection-46"><a href="#Etymology_8"><span class="tocnumber">8.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#Noun_8"><span class="tocnumber">8.2</span> <span class="toctext">Noun</span></a></li>
+<li class="toclevel-2 tocsection-48"><a href="#References_3"><span class="tocnumber">8.3</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-49"><a href="#Spanish"><span class="tocnumber">9</span> <span class="toctext">Spanish</span></a>
+<ul>
+<li class="toclevel-2 tocsection-50"><a href="#Etymology_9"><span class="tocnumber">9.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="#Pronunciation_5"><span class="tocnumber">9.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="#Noun_9"><span class="tocnumber">9.3</span> <span class="toctext">Noun</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="English">English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=1" title="Edit section: English">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">good</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=3" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/British_English" class="extiw" title="w:British English">UK</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈbəʊ.nəs/</span></li>
+<li>Rhymes: <a href="/wiki/Rhymes:English/%C9%99%CA%8An%C9%99s" title="Rhymes:English/əʊnəs"><span class="IPA">-əʊnəs</span></a></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/American_English" class="extiw" title="w:American English">US</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈboʊ.nəs/</span></li>
+<li>Rhymes: <a href="/w/index.php?title=Rhymes:English/o%CA%8An%C9%99s&amp;action=edit&amp;redlink=1" class="new" title="Rhymes:English/oʊnəs (page does not exist)"><span class="IPA">-oʊnəs</span></a></li></ul>
+<h3><span class="mw-headline" id="Noun">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=4" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="en">bonus</strong> (<i>plural</i> <b class="Latn form-of lang-en p-form-of" lang="en"><a href="/wiki/bonuses#English" title="bonuses">bonuses</a></b>)
+</p>
+<ol><li>Something <a href="/wiki/extra" title="extra">extra</a> that is good; an added benefit.</li>
+<li>An extra sum given as a <a href="/wiki/premium" title="premium">premium</a>, e.g. to an employee or to a shareholder.
+<ul><li><div class="citation-whole"><span class="cited-source"><b>2013</b> June 22,  “<a rel="nofollow" class="external text" href="http://www.economist.com/news/finance-and-economics/21579879-buy-out-firm-really-does-focus-operational-improvements-engineers">Engineers of a different kind</a>”, in  <cite><a href="https://en.wikipedia.org/wiki/The_Economist" class="extiw" title="wikipedia:The Economist">The Economist</a></cite>, volume 407, number 8841, page 70:</span><dl><dd><div class="h-quotation"><span class="Latn e-quotation" lang="en">Private-equity nabobs bristle at being dubbed mere financiers.<span class="q-hellip-sp">&#32;</span><span class="q-hellip-b">[</span>…<span class="q-hellip-b">]</span><span class="q-hellip-b">&#32;</span>Much of their pleading is public-relations bluster. Clever financial ploys are what have made billionaires of the industry’s veterans. “Operational improvement” in a portfolio company has often meant little more than promising colossal <b>bonuses</b> to sitting chief executives if they meet ambitious growth targets. That model is still prevalent today.</span></div></dd></dl></div></li></ul>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="en">The employee of the week receives a <b>bonus</b> for his excellent work.</i></div></dd></dl></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/video_game" title="video game">video games</a></span><span class="ib-brac">)</span> An addition to the <a href="/wiki/player" title="player">player</a>'s <a href="/wiki/score" title="score">score</a> based on <a href="/wiki/performance" title="performance">performance</a>, e.g. for time remaining.
+<ul><li><b>1988</b>, David Powell, <i>Rygar</i> (video game review) in <i>Your Sinclair</i> issue 25
+<dl><dd>Spend the time killing things and there's a <b>bonus</b> for each hit - but only for fatalities notched up since the start of your current life.</dd></dl></li></ul></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/basketball" title="basketball">basketball</a></span><span class="ib-brac">)</span> One or more <a href="/wiki/free_throw" title="free throw">free throws</a> awarded to a team when the opposing team has accumulated enough <a href="/wiki/foul" title="foul">fouls</a>.</li></ol>
+<h4><span class="mw-headline" id="Derived_terms">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=5" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Bonusgate" title="Bonusgate">Bonusgate</a></li>
+<li><span class="Latn" lang="en"><a href="/wiki/signing_bonus#English" title="signing bonus">signing bonus</a></span></li></ul>
+<h4><span class="mw-headline" id="Translations">Translations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=6" title="Edit section: Translations">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="NavFrame" id="Translations-something_extra_that_is_good">
+<div class="NavHead" style="text-align:left;">something extra that is good</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="something extra that is good">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Armenian: <span class="Armn" lang="hy"><a href="/wiki/%D5%A2%D5%B8%D5%B6%D5%B8%D6%82%D5%BD#Armenian" title="բոնուս">բոնուս</a></span><span class="tpos">&#160;<a href="https://hy.wiktionary.org/wiki/%D5%A2%D5%B8%D5%B6%D5%B8%D6%82%D5%BD" class="extiw" title="hy:բոնուս">(hy)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="hy-Latn" class="tr Latn">bonus</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Basque: <span class="Latn" lang="eu"><a href="/w/index.php?title=gainsari&amp;action=edit&amp;redlink=1" class="new" title="gainsari (page does not exist)">gainsari</a></span></li>
+<li>Bulgarian: <span class="Cyrl" lang="bg"><a href="/wiki/%D0%B1%D0%BE%D0%BD%D1%83%D1%81#Bulgarian" title="бонус">бонус</a></span><span class="tpos">&#160;<a href="https://bg.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BD%D1%83%D1%81" class="extiw" title="bg:бонус">(bg)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="bg-Latn" class="tr Latn">bonus</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Chinese:
+<dl><dd>Mandarin: <span class="Hani" lang="cmn"><a href="/wiki/%E9%A1%8D%E5%A4%96#Mandarin" title="額外">額外</a><a href="/wiki/%E6%94%B6%E7%8D%B2#Mandarin" title="收獲">收獲</a></span>, <span class="Hani" lang="cmn"><a href="/wiki/%E9%A2%9D%E5%A4%96#Mandarin" title="额外">额外</a><a href="/wiki/%E6%94%B6%E8%8E%B7#Mandarin" title="收获">收获</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="cmn-Latn" class="tr Latn">éwài shōuhuò</span><span class="mention-gloss-paren annotation-paren">)</span></dd></dl></li>
+<li>Dutch: <span class="Latn" lang="nl"><a href="/wiki/bonus#Dutch" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/bonus" class="extiw" title="nl:bonus">(nl)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>, <span class="Latn" lang="nl"><a href="/w/index.php?title=extraatje&amp;action=edit&amp;redlink=1" class="new" title="extraatje (page does not exist)">extraatje</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/extraatje" class="extiw" title="nl:extraatje">(nl)</a></span>&#160;<span class="gender"><abbr title="neuter gender">n</abbr></span></li>
+<li>Finnish: <span class="Latn" lang="fi"><a href="/wiki/bonus#Finnish" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://fi.wiktionary.org/wiki/bonus" class="extiw" title="fi:bonus">(fi)</a></span>, <span class="Latn" lang="fi"><a href="/w/index.php?title=lis%C3%A4etu&amp;action=edit&amp;redlink=1" class="new" title="lisäetu (page does not exist)">lisäetu</a></span>, <span class="Latn" lang="fi"><a href="/wiki/ekstra#Finnish" title="ekstra">ekstra</a></span>, <span class="Latn" lang="fi"><a href="/wiki/plussa#Finnish" title="plussa">plussa</a></span><span class="tpos">&#160;<a href="https://fi.wiktionary.org/wiki/plussa" class="extiw" title="fi:plussa">(fi)</a></span></li>
+<li>French: <span class="Latn" lang="fr"><a href="/wiki/bonus#French" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://fr.wiktionary.org/wiki/bonus" class="extiw" title="fr:bonus">(fr)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>German: <span class="Latn" lang="de"><a href="/wiki/Bonus#German" title="Bonus">Bonus</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/Bonus" class="extiw" title="de:Bonus">(de)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>, <span class="Latn" lang="de"><a href="/w/index.php?title=Dreingabe&amp;action=edit&amp;redlink=1" class="new" title="Dreingabe (page does not exist)">Dreingabe</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/Dreingabe" class="extiw" title="de:Dreingabe">(de)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span></li>
+<li>Icelandic: <span class="Latn" lang="is"><a href="/wiki/b%C3%B3nus#Icelandic" title="bónus">bónus</a></span><span class="tpos">&#160;<a href="https://is.wiktionary.org/wiki/b%C3%B3nus" class="extiw" title="is:bónus">(is)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li>
+<li>Interlingue: <span class="Latn" lang="ie"><a href="/wiki/bonus#Interlingue" title="bonus">bonus</a></span></li>
+<li>Italian: <span class="Latn" lang="it"><a href="/wiki/bonus#Italian" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://it.wiktionary.org/wiki/bonus" class="extiw" title="it:bonus">(it)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li>
+<li>Japanese: <span class="Jpan" lang="ja"><a href="/wiki/%E3%81%8A%E3%81%BE%E3%81%91#Japanese" title="おまけ">おまけ</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="tr">omake</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Portuguese: <span class="Latn" lang="pt"><a href="/wiki/b%C3%B3nus#Portuguese" title="bónus">bónus</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/b%C3%B3nus" class="extiw" title="pt:bónus">(pt)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">Portugal</span><span class="ib-brac qualifier-brac">)</span>, <span class="Latn" lang="pt"><a href="/wiki/b%C3%B4nus#Portuguese" title="bônus">bônus</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/b%C3%B4nus" class="extiw" title="pt:bônus">(pt)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">Brazil</span><span class="ib-brac qualifier-brac">)</span>, <span class="Latn" lang="pt"><a href="/wiki/bonus#Portuguese" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/bonus" class="extiw" title="pt:bonus">(pt)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li>
+<li>Spanish: <span class="Latn" lang="es"><a href="/wiki/bono#Spanish" title="bono">bono</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/bono" class="extiw" title="es:bono">(es)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>, <span class="Latn" lang="es"><a href="/wiki/bonificaci%C3%B3n#Spanish" title="bonificación">bonificación</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/bonificaci%C3%B3n" class="extiw" title="es:bonificación">(es)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span></li>
+<li>Swedish: <span class="Latn" lang="sv"><a href="/wiki/bonus#Swedish" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://sv.wiktionary.org/wiki/bonus" class="extiw" title="sv:bonus">(sv)</a></span>&#160;<span class="gender"><abbr title="common gender">c</abbr></span></li></ul>
+</td></tr></tbody></table></div></div>
+<div class="NavFrame" id="Translations-extra_amount_of_money_given_as_a_premium">
+<div class="NavHead" style="text-align:left;">extra amount of money given as a premium</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="extra amount of money given as a premium">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Arabic: <span class="Arab" lang="ar"><a href="/wiki/%D8%B9%D9%84%D8%A7%D9%88%D8%A9#Arabic" title="علاوة">عِلَاوَة</a></span>&#8206;&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ar-Latn" class="tr Latn">ʿilāwa</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Armenian: <span class="Armn" lang="hy"><a href="/wiki/%D5%BA%D5%A1%D6%80%D5%A3%D5%A5%D6%82%D5%A1%D5%BE%D5%B3%D5%A1%D6%80#Armenian" title="պարգեւավճար">պարգեւավճար</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="hy-Latn" class="tr Latn">pargewavčar</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Basque: <span class="Latn" lang="eu"><a href="/w/index.php?title=gainordain&amp;action=edit&amp;redlink=1" class="new" title="gainordain (page does not exist)">gainordain</a></span></li>
+<li>Bulgarian: <span class="Cyrl" lang="bg"><a href="/wiki/%D0%B1%D0%BE%D0%BD%D1%83%D1%81#Bulgarian" title="бонус">бонус</a></span><span class="tpos">&#160;<a href="https://bg.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BD%D1%83%D1%81" class="extiw" title="bg:бонус">(bg)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="bg-Latn" class="tr Latn">bonus</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="bg"><a href="/wiki/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F#Bulgarian" title="премия">премия</a></span><span class="tpos">&#160;<a href="https://bg.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F" class="extiw" title="bg:премия">(bg)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="bg-Latn" class="tr Latn">premija</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Chinese:
+<dl><dd>Mandarin: <span class="Hani" lang="cmn"><a href="/wiki/%E7%8D%8E%E9%87%91#Mandarin" title="獎金">獎金</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E7%8D%8E%E9%87%91" class="extiw" title="zh:獎金">(zh)</a></span>, <span class="Hani" lang="cmn"><a href="/wiki/%E5%A5%96%E9%87%91#Mandarin" title="奖金">奖金</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E5%A5%96%E9%87%91" class="extiw" title="zh:奖金">(zh)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="cmn-Latn" class="tr Latn">jiǎngjīn</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Hani" lang="cmn"><a href="/wiki/%E7%B4%85%E5%88%A9#Mandarin" title="紅利">紅利</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E7%B4%85%E5%88%A9" class="extiw" title="zh:紅利">(zh)</a></span>, <span class="Hani" lang="cmn"><a href="/wiki/%E7%BA%A2%E5%88%A9#Mandarin" title="红利">红利</a></span><span class="tpos">&#160;<a href="https://zh.wiktionary.org/wiki/%E7%BA%A2%E5%88%A9" class="extiw" title="zh:红利">(zh)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="cmn-Latn" class="tr Latn">hónglì</span><span class="mention-gloss-paren annotation-paren">)</span></dd></dl></li>
+<li>Dutch: <span class="Latn" lang="nl"><a href="/wiki/bonus#Dutch" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/bonus" class="extiw" title="nl:bonus">(nl)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>, <span class="Latn" lang="nl"><a href="/wiki/premie#Dutch" title="premie">premie</a></span><span class="tpos">&#160;<a href="https://nl.wiktionary.org/wiki/premie" class="extiw" title="nl:premie">(nl)</a></span></li>
+<li>Finnish: <span class="Latn" lang="fi"><a href="/wiki/bonus#Finnish" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://fi.wiktionary.org/wiki/bonus" class="extiw" title="fi:bonus">(fi)</a></span>, <span class="Latn" lang="fi"><a href="/w/index.php?title=kannustuspalkkio&amp;action=edit&amp;redlink=1" class="new" title="kannustuspalkkio (page does not exist)">kannustuspalkkio</a></span>, <span class="Latn" lang="fi"><a href="/w/index.php?title=tulospalkkio&amp;action=edit&amp;redlink=1" class="new" title="tulospalkkio (page does not exist)">tulospalkkio</a></span></li>
+<li>French: <span class="Latn" lang="fr"><a href="/wiki/bonus#French" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://fr.wiktionary.org/wiki/bonus" class="extiw" title="fr:bonus">(fr)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li>
+<li>German: <span class="Latn" lang="de"><a href="/wiki/Bonus#German" title="Bonus">Bonus</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/Bonus" class="extiw" title="de:Bonus">(de)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>, <span class="Latn" lang="de"><a href="/wiki/Pr%C3%A4mie#German" title="Prämie">Prämie</a></span><span class="tpos">&#160;<a href="https://de.wiktionary.org/wiki/Pr%C3%A4mie" class="extiw" title="de:Prämie">(de)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span></li>
+<li>Greenlandic: <span class="Latn" lang="kl"><a href="/wiki/bonussi#Greenlandic" title="bonussi">bonussi</a></span></li>
+<li>Hungarian: <span class="Latn" lang="hu"><a href="/wiki/pr%C3%A9mium#Hungarian" title="prémium">prémium</a></span><span class="tpos">&#160;<a href="https://hu.wiktionary.org/wiki/pr%C3%A9mium" class="extiw" title="hu:prémium">(hu)</a></span></li>
+<li>Icelandic: <span class="Latn" lang="is"><a href="/wiki/b%C3%B3nus#Icelandic" title="bónus">bónus</a></span><span class="tpos">&#160;<a href="https://is.wiktionary.org/wiki/b%C3%B3nus" class="extiw" title="is:bónus">(is)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Interlingue: <span class="Latn" lang="ie"><a href="/wiki/premie#Interlingue" title="premie">premie</a></span>, <span class="Latn" lang="ie"><a href="/wiki/bonus#Interlingue" title="bonus">bonus</a></span>, <span class="Latn" lang="ie"><a href="/w/index.php?title=extra_dividende&amp;action=edit&amp;redlink=1" class="new" title="extra dividende (page does not exist)">extra dividende</a></span></li>
+<li>Italian: <span class="Latn" lang="it"><a href="/wiki/bonus#Italian" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://it.wiktionary.org/wiki/bonus" class="extiw" title="it:bonus">(it)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li>
+<li>Japanese: <span class="Jpan" lang="ja"><a href="/wiki/%E8%B3%9E%E4%B8%8E#Japanese" title="賞与">賞与</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="tr"><a href="/w/index.php?title=%E3%81%97%E3%82%87%E3%81%86%E3%82%88&amp;action=edit&amp;redlink=1" class="new" title="しょうよ (page does not exist)">しょうよ</a>, shōyo</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Jpan" lang="ja"><a href="/wiki/%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9#Japanese" title="ボーナス">ボーナス</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="tr">bōnasu</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Jpan" lang="ja"><a href="/w/index.php?title=%E8%A4%92%E5%A5%A8%E9%87%91&amp;action=edit&amp;redlink=1" class="new" title="褒奨金 (page does not exist)">褒奨金</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="tr"><a href="/w/index.php?title=%E3%81%BB%E3%81%86%E3%81%97%E3%82%87%E3%81%86%E3%81%8D%E3%82%93&amp;action=edit&amp;redlink=1" class="new" title="ほうしょうきん (page does not exist)">ほうしょうきん</a>, hōshōkin</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Korean: <span class="Kore" lang="ko"><a href="/wiki/%EB%B3%B4%EB%84%88%EC%8A%A4#Korean" title="보너스">보너스</a></span><span class="tpos">&#160;<a href="https://ko.wiktionary.org/wiki/%EB%B3%B4%EB%84%88%EC%8A%A4" class="extiw" title="ko:보너스">(ko)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ko-Latn" class="tr Latn">boneoseu</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Latin: <span class="Latn" lang="la"><a href="/wiki/donativum#Latin" title="donativum">dōnātīvum</a></span>&#160;<span class="gender"><abbr title="neuter gender">n</abbr></span></li>
+<li>Norwegian:
+<dl><dd>Bokmål: <span class="Latn" lang="nb"><a href="/wiki/bonus#Norwegian_Bokmål" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://no.wiktionary.org/wiki/bonus" class="extiw" title="no:bonus">(no)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></dd>
+<dd>Nynorsk: <span class="Latn" lang="nn"><a href="/wiki/bonus#Norwegian_Nynorsk" title="bonus">bonus</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></dd></dl></li>
+<li>Persian: <span class="fa-Arab" lang="fa"><a href="/w/index.php?title=%D8%B4%D8%AA%D9%84&amp;action=edit&amp;redlink=1" class="new" title="شتل (page does not exist)">شتل</a></span>&#8206;<span class="tpos">&#160;<a href="https://fa.wiktionary.org/wiki/%D8%B4%D8%AA%D9%84" class="extiw" title="fa:شتل">(fa)</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="fa-Latn" class="tr Latn">šatal</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Portuguese: <span class="Latn" lang="pt"><a href="/wiki/b%C3%B3nus#Portuguese" title="bónus">bónus</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/b%C3%B3nus" class="extiw" title="pt:bónus">(pt)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">Portugal</span><span class="ib-brac qualifier-brac">)</span>, <span class="Latn" lang="pt"><a href="/wiki/b%C3%B4nus#Portuguese" title="bônus">bônus</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/b%C3%B4nus" class="extiw" title="pt:bônus">(pt)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">Brazil</span><span class="ib-brac qualifier-brac">)</span>, <span class="Latn" lang="pt"><a href="/wiki/bonus#Portuguese" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://pt.wiktionary.org/wiki/bonus" class="extiw" title="pt:bonus">(pt)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></li>
+<li>Russian: <span class="Cyrl" lang="ru"><a href="/wiki/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F#Russian" title="премия">пре́мия</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F" class="extiw" title="ru:премия">(ru)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">prémija</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%B1%D0%BE%D0%BD%D1%83%D1%81#Russian" title="бонус">бо́нус</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%B1%D0%BE%D0%BD%D1%83%D1%81" class="extiw" title="ru:бонус">(ru)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">bónus</span><span class="mention-gloss-paren annotation-paren">)</span>, <span class="Cyrl" lang="ru"><a href="/wiki/%D0%BD%D0%B0%D0%B4%D0%B1%D0%B0%D0%B2%D0%BA%D0%B0#Russian" title="надбавка">надба́вка</a></span><span class="tpos">&#160;<a href="https://ru.wiktionary.org/wiki/%D0%BD%D0%B0%D0%B4%D0%B1%D0%B0%D0%B2%D0%BA%D0%B0" class="extiw" title="ru:надбавка">(ru)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> <span class="mention-gloss-paren annotation-paren">(</span><span lang="ru-Latn" class="tr Latn">nadbávka</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li>Spanish: <span class="Latn" lang="es"><a href="/wiki/bonificaci%C3%B3n#Spanish" title="bonificación">bonificación</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/bonificaci%C3%B3n" class="extiw" title="es:bonificación">(es)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span>, <span class="Latn" lang="es"><a href="/wiki/bono#Spanish" title="bono">bono</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/bono" class="extiw" title="es:bono">(es)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>, <span class="Latn" lang="es"><a href="/wiki/prima#Spanish" title="prima">prima</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/prima" class="extiw" title="es:prima">(es)</a></span>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span></li>
+<li>Swedish: <span class="Latn" lang="sv"><a href="/wiki/bonus#Swedish" title="bonus">bonus</a></span><span class="tpos">&#160;<a href="https://sv.wiktionary.org/wiki/bonus" class="extiw" title="sv:bonus">(sv)</a></span>&#160;<span class="gender"><abbr title="common gender">c</abbr></span>, <span class="Latn" lang="sv"><a href="/w/index.php?title=l%C3%B6nebonus&amp;action=edit&amp;redlink=1" class="new" title="lönebonus (page does not exist)">lönebonus</a></span>&#160;<span class="gender"><abbr title="common gender">c</abbr></span></li></ul>
+</td></tr></tbody></table></div></div>
+<div class="checktrans">
+<dl><dd><i>The translations below need to be checked and inserted above into the appropriate translation tables, removing any numbers. Numbers do not necessarily match those in definitions. See instructions at <a href="/wiki/Wiktionary:Entry_layout#Translations" title="Wiktionary:Entry layout">Wiktionary:Entry layout#Translations</a>.</i></dd></dl>
+</div>
+<div class="NavFrame">
+<div class="NavHead" style="text-align:left;">Translations to be checked</div>
+<div class="NavContent">
+<table class="translations" role="presentation" style="width:100%;" data-gloss="Translations to be checked">
+
+<tbody><tr>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; width:48%; text-align:left;">
+<ul><li>Spanish: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="es"><a href="/wiki/plus#Spanish" title="plus">plus</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/plus" class="extiw" title="es:plus">(es)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></span>, <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="es"><a href="/wiki/beneficio#Spanish" title="beneficio">beneficio</a></span><span class="tpos">&#160;<a href="https://es.wiktionary.org/wiki/beneficio" class="extiw" title="es:beneficio">(es)</a></span>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span></span></li></ul>
+</td>
+<td style="width:1%;">
+</td>
+<td class="translations-cell" style="background-color:#ffffe0; vertical-align:top; text-align:left; width:48%;">
+<ul><li>Vietnamese: <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="vi"><a href="/wiki/ti%E1%BB%81n_th%C6%B0%E1%BB%9Fng#Vietnamese" title="tiền thưởng">tiền thưởng</a></span></span>, <span class="ttbc"><sup class="ttbc">(please <a href="/wiki/Wiktionary:Translations#Translations_to_be_checked" title="Wiktionary:Translations">verify</a>)</sup> <span class="Latn" lang="vi"><a href="/w/index.php?title=ti%E1%BB%81n_c%C3%A1c&amp;action=edit&amp;redlink=1" class="new" title="tiền các (page does not exist)">tiền các</a></span></span></li></ul>
+</td></tr></tbody></table></div></div>
+<h3><span class="mw-headline" id="Verb">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=7" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="en">bonus</strong> (<i>third-person singular simple present</i> <b class="Latn form-of lang-en 3&#124;s&#124;pres-form-of" lang="en"><a href="/wiki/bonuses#English" title="bonuses">bonuses</a></b>, <i>present participle</i> <b class="Latn form-of lang-en pres&#124;ptcp-form-of" lang="en"><a href="/wiki/bonusing#English" title="bonusing">bonusing</a></b>, <i>simple past and past participle</i> <b class="Latn form-of lang-en past&#124;and&#124;past&#124;ptcp-form-of" lang="en"><a href="/wiki/bonused#English" title="bonused">bonused</a></b>)
+</p>
+<ol><li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#transitive" title="Appendix:Glossary">transitive</a></span><span class="ib-brac">)</span> To <a href="/wiki/pay" title="pay">pay</a> a bonus, premium</li></ol>
+<h4><span class="mw-headline" id="Descendants">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=8" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="desc-arr" title="borrowed">→</span> French: <span class="Latn" lang="fr"><a href="/wiki/bonus#French" title="bonus">bonus</a></span><style data-mw-deduplicate="TemplateStyles:r54857417">.mw-parser-output .desc-arr[title]{cursor:help}.mw-parser-output .desc-arr[title="uncertain"]{font-size:.7em;vertical-align:super}</style></li>
+<li><span class="desc-arr" title="borrowed">→</span> Portuguese: <span class="Latn" lang="pt"><a href="/wiki/b%C3%B3nus#Portuguese" title="bónus">bónus</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul>
+<h3><span class="mw-headline" id="Anagrams">Anagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=9" title="Edit section: Anagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="Latn" lang="en"><a href="/wiki/Bonsu#English" title="Bonsu">Bonsu</a></span>, <span class="Latn" lang="en"><a href="/wiki/bo%27sun#English" title="bo&#39;sun">bo'sun</a></span>, <span class="Latn" lang="en"><a href="/wiki/bosun#English" title="bosun">bosun</a></span>, <span class="Latn" lang="en"><a href="/wiki/bouns#English" title="bouns">bouns</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Dutch">Dutch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=10" title="Edit section: Dutch">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_2">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=11" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">good</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_2">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=12" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Dutch_pronunciation" title="Appendix:Dutch pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈboː.nʏs/</span></li>
+<li><style data-mw-deduplicate="TemplateStyles:r50165410">.mw-parser-output .k-player .k-attribution{visibility:hidden}</style><table class="audiotable" style="vertical-align: bottom; display:inline-block; list-style:none;line-height: 1em; border-collapse:collapse;"><tbody><tr><td class="unicode audiolink" style="padding-right:5px; padding-left: 0;">Audio</td><td class="audiofile"><div class="mediaContainer" style="width:175px"><audio id="mwe_player_0" controls="" preload="none" style="width:175px" class="kskin" data-durationhint="1.1377777777778" data-startoffset="0" data-mwtitle="Nl-bonus.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/1/1f/Nl-bonus.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (104 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="104245" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/Nl-bonus.ogg/Nl-bonus.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="135576" /></audio></div></td><td class="audiometa" style="font-size: 80%;">(<a href="/wiki/File:Nl-bonus.ogg" title="File:Nl-bonus.ogg">file</a>)</td></tr></tbody></table></li>
+<li>Hyphenation: <span class="Latn" lang="nl">bo‧nus</span></li></ul>
+<h3><span class="mw-headline" id="Noun_2">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=13" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="nl">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>plural</i> <b class="Latn form-of lang-nl p-form-of" lang="nl"><a href="/wiki/bonussen#Dutch" title="bonussen">bonussen</a></b> <i>or</i> <b class="Latn form-of lang-nl p-form-of" lang="nl"><a href="/wiki/boni#Dutch" title="boni">boni</a></b>, <i><a href="/wiki/Appendix:Glossary#diminutive" title="Appendix:Glossary">diminutive</a></i> <b class="Latn form-of lang-nl diminutive-form-of" lang="nl"><a href="/wiki/bonusje#Dutch" title="bonusje">bonusje</a></b>&#160;<span class="gender"><abbr title="neuter gender">n</abbr></span>)
+</p>
+<ol><li>A <span class="Latn" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></span>, an extra or premium.</li>
+<li>(by extension) Any one-off <a href="/wiki/gain" title="gain">gain</a>.</li>
+<li>Good <a href="/wiki/mark" title="mark">marks</a> in a rating scale, notably to calculate an insurance premium dependent on the number of accidents.</li></ol>
+<h4><span class="mw-headline" id="Derived_terms_2">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=14" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="nl"><a href="/w/index.php?title=bonusaandeel&amp;action=edit&amp;redlink=1" class="new" title="bonusaandeel (page does not exist)">bonusaandeel</a></span></li>
+<li><span class="Latn" lang="nl"><a href="/w/index.php?title=bonuscultuur&amp;action=edit&amp;redlink=1" class="new" title="bonuscultuur (page does not exist)">bonuscultuur</a></span></li>
+<li><span class="Latn" lang="nl"><a href="/wiki/bonus-malus#Dutch" title="bonus-malus">bonus-malus</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Finnish">Finnish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=15" title="Edit section: Finnish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_3">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=16" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></i> or <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun_3">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=17" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fi">bonus</strong>
+</p>
+<ol><li>A <a href="#English">bonus</a> (<i>something extra</i>)</li>
+<li>A <a href="#English">bonus</a> (<i>extra payment to an employee</i>)</li></ol>
+<h4><span class="mw-headline" id="Declension">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=18" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="inflection-table fi-decl vsSwitcher" data-toggle-category="inflection">
+
+<tbody><tr>
+<th class="vsToggleElement" colspan="4">Inflection of <i class="Latn mention" lang="fi">bonus</i> (<a href="/wiki/Kotus" title="Kotus">Kotus</a> type 39/<a href="/wiki/Appendix:Finnish_nominal_inflection/vastaus" title="Appendix:Finnish nominal inflection/vastaus">vastaus</a>, no gradation)
+</th></tr>
+<tr class="vsShow">
+<th class="case-column" colspan="2">nominative
+</th>
+<td class="number-column"><span class="Latn" lang="fi"><strong class="selflink">bonus</strong></span>
+</td>
+<td class="number-column"><span class="Latn form-of lang-fi nom//acc&#124;p-form-of" lang="fi"><a href="/wiki/bonukset#Finnish" title="bonukset">bonukset</a></span>
+</td></tr>
+<tr class="vsShow">
+<th colspan="2">genitive
+</th>
+<td><span class="Latn form-of lang-fi gen&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksen&amp;action=edit&amp;redlink=1" class="new" title="bonuksen (page does not exist)">bonuksen</a></span>
+</td>
+<td><span class="Latn form-of lang-fi gen&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonusten&amp;action=edit&amp;redlink=1" class="new" title="bonusten (page does not exist)">bonusten</a></span><br /><span class="Latn form-of lang-fi gen&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksien&amp;action=edit&amp;redlink=1" class="new" title="bonuksien (page does not exist)">bonuksien</a></span>
+</td></tr>
+<tr class="vsShow">
+<th colspan="2">partitive
+</th>
+<td><span class="Latn form-of lang-fi par&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonusta&amp;action=edit&amp;redlink=1" class="new" title="bonusta (page does not exist)">bonusta</a></span>
+</td>
+<td><span class="Latn form-of lang-fi par&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksia&amp;action=edit&amp;redlink=1" class="new" title="bonuksia (page does not exist)">bonuksia</a></span>
+</td></tr>
+<tr class="vsShow">
+<th colspan="2">illative
+</th>
+<td><span class="Latn form-of lang-fi ill&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonukseen&amp;action=edit&amp;redlink=1" class="new" title="bonukseen (page does not exist)">bonukseen</a></span>
+</td>
+<td><span class="Latn form-of lang-fi ill&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksiin&amp;action=edit&amp;redlink=1" class="new" title="bonuksiin (page does not exist)">bonuksiin</a></span>
+</td></tr>
+<tr class="vsHide">
+<th class="case-column" colspan="2">
+</th>
+<th class="number-column">singular
+</th>
+<th class="number-column">plural
+</th></tr>
+<tr class="vsHide">
+<th colspan="2">nominative
+</th>
+<td><span class="Latn" lang="fi"><strong class="selflink">bonus</strong></span>
+</td>
+<td><span class="Latn form-of lang-fi nom//acc&#124;p-form-of" lang="fi"><a href="/wiki/bonukset#Finnish" title="bonukset">bonukset</a></span>
+</td></tr>
+<tr class="vsHide">
+<th rowspan="2">accusative
+</th>
+<th>nom.<sup title="The nominative accusative is used, for example, as the object of certain passives and imperatives."></sup>
+</th>
+<td><span class="Latn" lang="fi"><strong class="selflink">bonus</strong></span>
+</td>
+<td rowspan="2"><span class="Latn form-of lang-fi nom//acc&#124;p-form-of" lang="fi"><a href="/wiki/bonukset#Finnish" title="bonukset">bonukset</a></span>
+</td></tr>
+<tr class="vsHide">
+<th>gen.
+</th>
+<td><span class="Latn form-of lang-fi gen&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksen&amp;action=edit&amp;redlink=1" class="new" title="bonuksen (page does not exist)">bonuksen</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">genitive
+</th>
+<td><span class="Latn form-of lang-fi gen&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksen&amp;action=edit&amp;redlink=1" class="new" title="bonuksen (page does not exist)">bonuksen</a></span>
+</td>
+<td><span class="Latn form-of lang-fi gen&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonusten&amp;action=edit&amp;redlink=1" class="new" title="bonusten (page does not exist)">bonusten</a></span><br /><span class="Latn form-of lang-fi gen&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksien&amp;action=edit&amp;redlink=1" class="new" title="bonuksien (page does not exist)">bonuksien</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">partitive
+</th>
+<td><span class="Latn form-of lang-fi par&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonusta&amp;action=edit&amp;redlink=1" class="new" title="bonusta (page does not exist)">bonusta</a></span>
+</td>
+<td><span class="Latn form-of lang-fi par&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksia&amp;action=edit&amp;redlink=1" class="new" title="bonuksia (page does not exist)">bonuksia</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">inessive
+</th>
+<td><span class="Latn form-of lang-fi ine&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksessa&amp;action=edit&amp;redlink=1" class="new" title="bonuksessa (page does not exist)">bonuksessa</a></span>
+</td>
+<td><span class="Latn form-of lang-fi ine&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksissa&amp;action=edit&amp;redlink=1" class="new" title="bonuksissa (page does not exist)">bonuksissa</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">elative
+</th>
+<td><span class="Latn form-of lang-fi ela&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksesta&amp;action=edit&amp;redlink=1" class="new" title="bonuksesta (page does not exist)">bonuksesta</a></span>
+</td>
+<td><span class="Latn form-of lang-fi ela&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksista&amp;action=edit&amp;redlink=1" class="new" title="bonuksista (page does not exist)">bonuksista</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">illative
+</th>
+<td><span class="Latn form-of lang-fi ill&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonukseen&amp;action=edit&amp;redlink=1" class="new" title="bonukseen (page does not exist)">bonukseen</a></span>
+</td>
+<td><span class="Latn form-of lang-fi ill&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksiin&amp;action=edit&amp;redlink=1" class="new" title="bonuksiin (page does not exist)">bonuksiin</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">adessive
+</th>
+<td><span class="Latn form-of lang-fi ade&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksella&amp;action=edit&amp;redlink=1" class="new" title="bonuksella (page does not exist)">bonuksella</a></span>
+</td>
+<td><span class="Latn form-of lang-fi ade&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksilla&amp;action=edit&amp;redlink=1" class="new" title="bonuksilla (page does not exist)">bonuksilla</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">ablative
+</th>
+<td><span class="Latn form-of lang-fi abl&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonukselta&amp;action=edit&amp;redlink=1" class="new" title="bonukselta (page does not exist)">bonukselta</a></span>
+</td>
+<td><span class="Latn form-of lang-fi abl&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksilta&amp;action=edit&amp;redlink=1" class="new" title="bonuksilta (page does not exist)">bonuksilta</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">allative
+</th>
+<td><span class="Latn form-of lang-fi all&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonukselle&amp;action=edit&amp;redlink=1" class="new" title="bonukselle (page does not exist)">bonukselle</a></span>
+</td>
+<td><span class="Latn form-of lang-fi all&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksille&amp;action=edit&amp;redlink=1" class="new" title="bonuksille (page does not exist)">bonuksille</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">essive
+</th>
+<td><span class="Latn form-of lang-fi ess&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksena&amp;action=edit&amp;redlink=1" class="new" title="bonuksena (page does not exist)">bonuksena</a></span>
+</td>
+<td><span class="Latn form-of lang-fi ess&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksina&amp;action=edit&amp;redlink=1" class="new" title="bonuksina (page does not exist)">bonuksina</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">translative
+</th>
+<td><span class="Latn form-of lang-fi tra&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonukseksi&amp;action=edit&amp;redlink=1" class="new" title="bonukseksi (page does not exist)">bonukseksi</a></span>
+</td>
+<td><span class="Latn form-of lang-fi tra&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksiksi&amp;action=edit&amp;redlink=1" class="new" title="bonuksiksi (page does not exist)">bonuksiksi</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">instructive
+</th>
+<td>&#8212;
+</td>
+<td><span class="Latn form-of lang-fi ist&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksin&amp;action=edit&amp;redlink=1" class="new" title="bonuksin (page does not exist)">bonuksin</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">abessive
+</th>
+<td><span class="Latn form-of lang-fi abe&#124;s-form-of" lang="fi"><a href="/w/index.php?title=bonuksetta&amp;action=edit&amp;redlink=1" class="new" title="bonuksetta (page does not exist)">bonuksetta</a></span>
+</td>
+<td><span class="Latn form-of lang-fi abe&#124;p-form-of" lang="fi"><a href="/w/index.php?title=bonuksitta&amp;action=edit&amp;redlink=1" class="new" title="bonuksitta (page does not exist)">bonuksitta</a></span>
+</td></tr>
+<tr class="vsHide">
+<th colspan="2">comitative
+</th>
+<td>&#8212;
+</td>
+<td><span class="Latn form-of lang-fi com-pl-a-form-of" lang="fi"><a href="/w/index.php?title=bonuksineen&amp;action=edit&amp;redlink=1" class="new" title="bonuksineen (page does not exist)">bonuksineen</a></span>
+</td></tr></tbody></table>
+<table class="inflection-table vsSwitcher" data-toggle-category="inflection" style="color: rgb(0%,0%,30%); border: solid 1px rgb(80%,80%,100%); text-align: center;" cellspacing="1" cellpadding="2">
+
+<tbody><tr style="background: #e2f6e2;">
+<th class="vsToggleElement" style="min-width: 30em; text-align: left;" colspan="3"><a href="/wiki/Appendix:Finnish_possessive_suffixes" title="Appendix:Finnish possessive suffixes">Possessive forms</a> of <i class="Latn mention" lang="fi">bonus</i> (type <i>vastaus</i>)
+</th></tr>
+<tr class="vsHide">
+<th style="min-width: 11em; background:#c0e4c0">possessor
+</th>
+<th style="min-width: 10em; background:#c0e4c0">singular
+</th>
+<th style="min-width: 10em; background:#c0e4c0">plural
+</th></tr>
+<tr class="vsHide" style="background:rgb(95%,95%,100%)">
+<th style="background:#e2f6e2">1st person
+</th>
+<td><span class="Latn form-of lang-fi possessive&#124;1s&#124;vastaus&#124;Ym9udXxh-form-of" lang="fi"><a href="/w/index.php?title=bonukseni&amp;action=edit&amp;redlink=1" class="new" title="bonukseni (page does not exist)">bonukseni</a></span>
+</td>
+<td><span class="Latn form-of lang-fi possessive&#124;1p&#124;vastaus&#124;Ym9udXxh-form-of" lang="fi"><a href="/w/index.php?title=bonuksemme&amp;action=edit&amp;redlink=1" class="new" title="bonuksemme (page does not exist)">bonuksemme</a></span>
+</td></tr>
+<tr class="vsHide" style="background:rgb(95%,95%,100%)">
+<th style="background:#e2f6e2">2nd person
+</th>
+<td><span class="Latn form-of lang-fi possessive&#124;2s&#124;vastaus&#124;Ym9udXxh-form-of" lang="fi"><a href="/w/index.php?title=bonuksesi&amp;action=edit&amp;redlink=1" class="new" title="bonuksesi (page does not exist)">bonuksesi</a></span>
+</td>
+<td><span class="Latn form-of lang-fi possessive&#124;2p&#124;vastaus&#124;Ym9udXxh-form-of" lang="fi"><a href="/w/index.php?title=bonuksenne&amp;action=edit&amp;redlink=1" class="new" title="bonuksenne (page does not exist)">bonuksenne</a></span>
+</td></tr>
+<tr class="vsHide" style="background:rgb(95%,95%,100%)">
+<th style="background:#e2f6e2">3rd person
+</th>
+<td colspan="2"><span class="Latn form-of lang-fi possessive&#124;3s&#124;vastaus&#124;Ym9udXxh-form-of" lang="fi"><a href="/w/index.php?title=bonuksensa&amp;action=edit&amp;redlink=1" class="new" title="bonuksensa (page does not exist)">bonuksensa</a></span>
+</td></tr></tbody></table><style data-mw-deduplicate="TemplateStyles:r51487237">.mw-parser-output table.fi-decl{border:solid 1px #CCCCFF;border-spacing:1px;text-align:left}.mw-parser-output .fi-decl th,.mw-parser-output .fi-decl td{vertical-align:top;padding:2px}.mw-parser-output .fi-decl .case-column{min-width:10em}.mw-parser-output .fi-decl .number-column{min-width:12em}.mw-parser-output .fi-decl th{background-color:#CCCCFF}.mw-parser-output .fi-decl td{background-color:#F2F2FF}</style>
+<h4><span class="mw-headline" id="Synonyms">Synonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=19" title="Edit section: Synonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">something extra</span><span class="ib-brac qualifier-brac">)</span>: <span class="Latn" lang="fi"><a href="/wiki/ekstra#Finnish" title="ekstra">ekstra</a></span>, <span class="Latn" lang="fi"><a href="/w/index.php?title=lis%C3%A4etu&amp;action=edit&amp;redlink=1" class="new" title="lisäetu (page does not exist)">lisäetu</a></span>, <span class="Latn" lang="fi"><a href="/wiki/plussa#Finnish" title="plussa">plussa</a></span></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">employee bonus</span><span class="ib-brac qualifier-brac">)</span>: <span class="Latn" lang="fi"><a href="/w/index.php?title=kannustuspalkkio&amp;action=edit&amp;redlink=1" class="new" title="kannustuspalkkio (page does not exist)">kannustuspalkkio</a></span>, <span class="Latn" lang="fi"><a href="/w/index.php?title=tulospalkkio&amp;action=edit&amp;redlink=1" class="new" title="tulospalkkio (page does not exist)">tulospalkkio</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="French">French</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=20" title="Edit section: French">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_4">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=21" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i>. Compare <i class="Latn mention" lang="fr"><a href="/wiki/bon#French" title="bon">bon</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">good</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, a doublet inherited from the same Latin word.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_3">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=22" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:French_pronunciation" title="Appendix:French pronunciation">key</a>)</sup>:&#32;<span class="IPA">/bɔ.nys/</span></li></ul>
+<h3><span class="mw-headline" id="Noun_4">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=23" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fr">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i><a href="/wiki/Appendix:Glossary#uncountable" title="Appendix:Glossary">uncountable</a></i>)
+</p>
+<ol><li><a href="/wiki/premium" title="premium">premium</a></li>
+<li><a href="#English">bonus</a></li></ol>
+<h4><span class="mw-headline" id="Antonyms">Antonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=24" title="Edit section: Antonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="fr"><a href="/wiki/malus#French" title="malus">malus</a></span></li></ul>
+<h4><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=25" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>“<a rel="nofollow" class="external text" href="http://www.cnrtl.fr/definition/bonus">bonus</a>” in <i><span class="Latn" lang="fr"><a href="https://en.wikipedia.org/wiki/fr:Tr%C3%A9sor_de_la_langue_fran%C3%A7aise_informatis%C3%A9" class="extiw" title="w:fr:Trésor de la langue française informatisé">le Trésor de la langue française informatisé</a></span></i> (<i>The Digitized Treasury of the French Language</i>).</li></ul>
+<hr />
+<h2><span class="mw-headline" id="Italian">Italian</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=26" title="Edit section: Italian">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_5">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=27" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i>. Compare the inherited doublet <i class="Latn mention" lang="it"><a href="/wiki/buono#Italian" title="buono">buono</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">good</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>.
+</p>
+<h3><span class="mw-headline" id="Noun_5">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=28" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="it">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i><a href="/wiki/Appendix:Glossary#invariable" title="Appendix:Glossary">invariable</a></i>)
+</p>
+<ol><li>A <span class="Latn" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></span> (all senses)</li></ol>
+<hr />
+<h2><span class="mw-headline" id="Latin">Latin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=29" title="Edit section: Latin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_6">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=30" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_Latin" class="extiw" title="w:Old Latin">Old Latin</a></span> <i class="Latn mention" lang="itc-ola"><a href="/wiki/duenos#Old_Latin" title="duenos">duenos</a></i>, later <i class="Latn mention" lang="itc-ola"><a href="/wiki/duonus#Old_Latin" title="duonus">duonus</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Italic_language" class="extiw" title="w:Proto-Italic language">Proto-Italic</a></span> <i class="Latinx mention" lang="itc-pro"><a href="/wiki/Reconstruction:Proto-Italic/dwenos" title="Reconstruction:Proto-Italic/dwenos">*dwenos</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Indo-European_language" class="extiw" title="w:Proto-Indo-European language">Proto-Indo-European</a></span> <i class="Latinx mention" lang="ine-pro"><a href="/w/index.php?title=Reconstruction:Proto-Indo-European/dew-&amp;action=edit&amp;redlink=1" class="new" title="Reconstruction:Proto-Indo-European/dew- (page does not exist)">*dew-</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">to show favor, revere</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>. Some relate it to <span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek" class="extiw" title="w:Ancient Greek">Ancient Greek</a></span> <i class="polytonic mention" lang="grc"><a href="/wiki/%CE%B4%CE%AD%CE%BF%CF%82#Ancient_Greek" title="δέος">δέος</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span lang="grc-Latn" class="mention-tr tr Latn">déos</span><span class="mention-gloss-paren annotation-paren">)</span>, whence <i class="polytonic mention" lang="grc"><a href="/wiki/%CE%B4%CE%B5%CE%B9%CE%BD%CF%8C%CF%82#Ancient_Greek" title="δεινός">δεινός</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span lang="grc-Latn" class="mention-tr tr Latn">deinós</span><span class="mention-gloss-paren annotation-paren">)</span>, <i class="polytonic mention" lang="grc"><a href="/wiki/%CE%B4%CE%B5%CE%B9%CE%BB%CF%8C%CF%82#Ancient_Greek" title="δειλός">δειλός</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span lang="grc-Latn" class="mention-tr tr Latn">deilós</span><span class="mention-gloss-paren annotation-paren">)</span>.
+Compare the change from <i class="Latn mention" lang="la"><a href="/wiki/duellum#Latin" title="duellum"><b>due</b>llum</a></i> to <i class="Latn mention" lang="la"><a href="/wiki/bellum#Latin" title="bellum"><b>be</b>llum</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">war</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_4">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=31" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/Classical_Latin" class="extiw" title="w:Classical Latin">Classical</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Latin_pronunciation" title="Appendix:Latin pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈbo.nus/</span>, <span class="IPA">[ˈbɔ.n̪ʊs]</span></li>
+<li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/Ecclesiastical_Latin" class="extiw" title="w:Ecclesiastical Latin">Ecclesiastical</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Latin_pronunciation" title="Appendix:Latin pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈbo.nus/</span>, <span class="IPA">[ˈbɔː.nus]</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r50165410"/><table class="audiotable" style="vertical-align: bottom; display:inline-block; list-style:none;line-height: 1em; border-collapse:collapse;"><tbody><tr><td class="unicode audiolink" style="padding-right:5px; padding-left: 0;">Audio (Ecclesiastical)</td><td class="audiofile"><div class="mediaContainer" style="width:175px"><audio id="mwe_player_1" controls="" preload="none" style="width:175px" class="kskin" data-durationhint="1.3003174603175" data-startoffset="0" data-mwtitle="la-cls-bonus.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/f/fa/La-cls-bonus.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (91 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="90852" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/La-cls-bonus.ogg/La-cls-bonus.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" /></audio></div></td><td class="audiometa" style="font-size: 80%;">(<a href="/wiki/File:la-cls-bonus.ogg" title="File:la-cls-bonus.ogg">file</a>)</td></tr></tbody></table></li></ul>
+<h3><span class="mw-headline" id="Adjective">Adjective</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=32" title="Edit section: Adjective">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="la">bonus</strong> (<i>feminine</i> <b class="Latn" lang="la"><a href="/wiki/bona#Latin" title="bona">bona</a></b>, <i>neuter</i> <b class="Latn" lang="la"><a href="/wiki/bonum#Latin" title="bonum">bonum</a></b>, <i>comparative</i> <b class="Latn" lang="la"><a href="/wiki/melior#Latin" title="melior">melior</a></b>, <i>superlative</i> <b class="Latn" lang="la"><a href="/wiki/optimus#Latin" title="optimus">optimus</a></b> <i>or</i> <b class="Latn" lang="la"><a href="/wiki/optumus#Latin" title="optumus">optumus</a></b>, <i>adverb</i> <b class="Latn" lang="la"><a href="/wiki/bene#Latin" title="bene">bene</a></b>); <i><a href="/wiki/Appendix:Latin_first_declension" title="Appendix:Latin first declension">first</a>/<a href="/wiki/Appendix:Latin_second_declension" title="Appendix:Latin second declension">second-declension</a> adjective</i>
+</p>
+<ol><li><a href="/wiki/good" title="good">good</a>, <a href="/wiki/honest" title="honest">honest</a>, <a href="/wiki/brave" title="brave">brave</a>, <a href="/wiki/noble" title="noble">noble</a>, <a href="/wiki/kind" title="kind">kind</a>, <a href="/wiki/pleasant" title="pleasant">pleasant</a>
+<dl><dd><span class="nyms antonym"><span class="defdate">Antonym:</span> <span class="Latn" lang="la"><a href="/wiki/malus#Latin" title="malus">malus</a></span></span></dd></dl></li>
+<li><a href="/wiki/right" title="right">right</a></li>
+<li><a href="/wiki/useful" title="useful">useful</a></li>
+<li><a href="/wiki/valid" title="valid">valid</a></li>
+<li><a href="/wiki/healthy" title="healthy">healthy</a></li></ol>
+<h4><span class="mw-headline" id="Declension_2">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=33" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Appendix:Latin_first_declension" title="Appendix:Latin first declension">First</a>/<a href="/wiki/Appendix:Latin_second_declension" title="Appendix:Latin second declension">second-declension</a> adjective.
+</p>
+<table class="prettytable inflection-table inflection-table-la">
+<tbody><tr>
+<th style="background:#549EA0; font-style:italic;">Number
+</th>
+<th style="background:#549EA0; font-style:italic;" colspan="3">Singular
+</th>
+<td rowspan="2">
+</td>
+<th style="background:#549EA0; font-style:italic;" colspan="3">Plural
+</th></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;">Case / Gender
+</th>
+<th style="background:#40E0D0;">Masculine
+</th>
+<th style="background:#40E0D0;">Feminine
+</th>
+<th style="background:#40E0D0;">Neuter
+</th>
+<th style="background:#40E0D0;">Masculine
+</th>
+<th style="background:#40E0D0;">Feminine
+</th>
+<th style="background:#40E0D0;">Neuter
+</th></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;"><a href="/wiki/nominative_case" title="nominative case">Nominative</a>
+</th>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la nom&#124;m&#124;s-form-of origin-bonus" lang="la"><strong class="selflink">bonus</strong></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la nom&#124;f&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bona#Latin" title="bona">bona</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la nom&#124;n&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonum#Latin" title="bonum">bonum</a></span>
+</td>
+<td rowspan="6">
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la nom&#124;m&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la nom&#124;f&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonae#Latin" title="bonae">bonae</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la nom&#124;n&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bona#Latin" title="bona">bona</a></span>
+</td></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;"><a href="/wiki/genitive_case" title="genitive case">Genitive</a>
+</th>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la gen&#124;m&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center" rowspan="2"><span class="Latn form-of lang-la gen&#124;f&#124;s&#124;;&#124;dat&#124;f&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonae#Latin" title="bonae">bonae</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la gen&#124;n&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la gen&#124;m&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonorum#Latin" title="bonorum">bonōrum</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la gen&#124;f&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonarum#Latin" title="bonarum">bonārum</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la gen&#124;n&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonorum#Latin" title="bonorum">bonōrum</a></span>
+</td></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;"><a href="/wiki/dative_case" title="dative case">Dative</a>
+</th>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la dat&#124;m&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bono#Latin" title="bono">bonō</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la dat&#124;n&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bono#Latin" title="bono">bonō</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center" colspan="3"><span class="Latn form-of lang-la dat&#124;m&#124;p&#124;;&#124;dat&#124;f&#124;p&#124;;&#124;dat&#124;n&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonis#Latin" title="bonis">bonīs</a></span>
+</td></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;"><a href="/wiki/accusative_case" title="accusative case">Accusative</a>
+</th>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la acc&#124;m&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonum#Latin" title="bonum">bonum</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la acc&#124;f&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonam#Latin" title="bonam">bonam</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la acc&#124;n&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonum#Latin" title="bonum">bonum</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la acc&#124;m&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonos#Latin" title="bonos">bonōs</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la acc&#124;f&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonas#Latin" title="bonas">bonās</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la acc&#124;n&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bona#Latin" title="bona">bona</a></span>
+</td></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;"><a href="/wiki/ablative_case" title="ablative case">Ablative</a>
+</th>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la abl&#124;m&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bono#Latin" title="bono">bonō</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la abl&#124;f&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bona#Latin" title="bona">bonā</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la abl&#124;n&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bono#Latin" title="bono">bonō</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center" colspan="3"><span class="Latn form-of lang-la abl&#124;m&#124;p&#124;;&#124;abl&#124;f&#124;p&#124;;&#124;abl&#124;n&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonis#Latin" title="bonis">bonīs</a></span>
+</td></tr>
+<tr>
+<th style="background:#40E0D0; font-style:italic;"><a href="/wiki/vocative_case" title="vocative case">Vocative</a>
+</th>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la voc&#124;m&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bone#Latin" title="bone">bone</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la voc&#124;f&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bona#Latin" title="bona">bona</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la voc&#124;n&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonum#Latin" title="bonum">bonum</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la voc&#124;m&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la voc&#124;f&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonae#Latin" title="bonae">bonae</a></span>
+</td>
+<td style="background:#F8F8FF;" align="center"><span class="Latn form-of lang-la voc&#124;n&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bona#Latin" title="bona">bona</a></span>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Derived_terms_3">Derived terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=34" title="Edit section: Derived terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="la"><a href="/wiki/bonitas#Latin" title="bonitas">bonitās</a></span></li>
+<li><span class="Latn" lang="la"><a href="/wiki/cui_bono#Latin" title="cui bono">cui bonō</a></span></li></ul>
+<h4><span class="mw-headline" id="Related_terms">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=35" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="list-switcher" data-toggle-category="derived terms"><div class="derivedterms term-list ul-column-count" data-column-count="3" style="background-color: #F8F8FF;">
+<ul><li><span class="Latn" lang="la"><a href="/wiki/bene#Latin" title="bene">bene</a></span> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">well</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></li>
+<li><span class="Latn" lang="la"><a href="/wiki/bellus#Latin" title="bellus">bellus</a></span></li>
+<li><span class="Latn" lang="la"><a href="/wiki/beo#Latin" title="beo">beō</a></span></li></ul></div><div class="list-switcher-element" data-showtext="&#160;show more ▼&#160;" data-hidetext="&#160;show less ▲&#160;" style="display: none;">&#160;</div></div>
+<h4><span class="mw-headline" id="Descendants_2">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=36" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="derivedterms" style="column-count: 3; -moz-column-count: 3; -ms-column-count: 3; -o-column-count: 3; -webkit-column-count: 3;">   
+<ul><li>Eastern Romance:
+<ul><li>Aromanian: <span class="Latn" lang="rup"><a href="/wiki/bun#Aromanian" title="bun">bun</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Istro-Romanian: <span class="Latn" lang="ruo"><a href="/wiki/bur#Istro-Romanian" title="bur">bur</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Romanian: <span class="Latn" lang="ro"><a href="/wiki/bun#Romanian" title="bun">bun</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li>Island Romance:
+<ul><li>Sardinian: <span class="Latn" lang="sc"><a href="/wiki/bonu#Sardinian" title="bonu">bonu</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li>Italo-Dalmatian：
+<ul><li>Corsican: <span class="Latn" lang="co"><a href="/wiki/bonu#Corsican" title="bonu">bonu</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Dalmatian: <span class="Latn" lang="dlm"><a href="/wiki/bun#Dalmatian" title="bun">bun</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Italian: <span class="Latn" lang="it"><a href="/wiki/buono#Italian" title="buono">buono</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Sicilian: <span class="Latn" lang="scn"><a href="/wiki/bonu#Sicilian" title="bonu">bonu</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li>Rhaeto-Romance:
+<ul><li>Friulian: <span class="Latn" lang="fur"><a href="/wiki/bon#Friulian" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Romansch: <span class="Latn" lang="rm"><a href="/wiki/bun#Romansch" title="bun">bun</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li>Gallo-Romance:
+<ul><li>Franco-Provençal: <span class="Latn" lang="frp"><a href="/wiki/bon#Franco-Provençal" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Old French: <span class="Latn" lang="fro"><a href="/wiki/bon#Old_French" title="bon">bon</a></span>, <span class="Latn" lang="fro"><a href="/wiki/boen#Old_French" title="boen">boen</a></span>, <span class="Latn" lang="fro"><a href="/wiki/boun#Old_French" title="boun">boun</a></span>, <span class="Latn" lang="fro"><a href="/wiki/buen#Old_French" title="buen">buen</a></span>, <span class="Latn" lang="fro"><a href="/wiki/bun#Old_French" title="bun">bun</a></span><ul><li>Middle French: <span class="Latn" lang="frm"><a href="/wiki/bon#Middle_French" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/><ul><li>French: <span class="Latn" lang="fr"><a href="/wiki/bon#French" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li><li>Picard: <span class="Latn" lang="pcd"><a href="/wiki/boin#Picard" title="boin">boin</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li><li>Walloon: <span class="Latn" lang="wa"><a href="/wiki/bon#Walloon" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li><li><span class="desc-arr" title="borrowed">→</span> Middle English: <span class="Latn" lang="enm"><a href="/wiki/boon#Middle_English" title="boon">boon</a></span>, <span class="Latn" lang="enm"><a href="/wiki/bone#Middle_English" title="bone">bone</a></span><ul><li>English: <span class="Latn" lang="en"><a href="/wiki/boon#English" title="boon">boon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li><li>Scots: <span class="Latn" lang="sco"><a href="/wiki/boon#Scots" title="boon">boon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li></ul></li></ul></li>
+<li>Occitano-Romance:
+<ul><li>Old Occitan: <span class="Latn" lang="pro"><a href="/wiki/bon#Old_Occitan" title="bon">bon</a></span><ul><li>Catalan: <span class="Latn" lang="ca"><a href="/wiki/bo#Catalan" title="bo">bo</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/>, <span class="Latn" lang="ca"><a href="/wiki/bon#Catalan" title="bon">bon</a></span></li><li>Occitan: <span class="Latn" lang="oc"><a href="/wiki/bon#Occitan" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li></ul></li>
+<li>Ibero-Romance:
+<ul><li>Old Leonese: <small>[Term?]</small><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/>
+<ul><li>Asturian: <span class="Latn" lang="ast"><a href="/wiki/bonu#Asturian" title="bonu">bonu</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/>, <span class="Latn" lang="ast"><a href="/w/index.php?title=buenu&amp;action=edit&amp;redlink=1" class="new" title="buenu (page does not exist)">buenu</a></span></li></ul></li>
+<li>Old Portuguese: <span class="Latn" lang="roa-opt"><a href="/wiki/b%C3%B5o#Old_Portuguese" title="bõo">bõo</a></span><ul><li>Fala: <span class="Latn" lang="fax"><a href="/wiki/b%C3%B3#Fala" title="bó">bó</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li><li>Galician: <span class="Latn" lang="gl"><a href="/wiki/bo#Galician" title="bo">bo</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li><li>Portuguese: <span class="Latn" lang="pt"><a href="/wiki/bom#Portuguese" title="bom">bom</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li>Old Spanish: <small>[Term?]</small><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/>
+<ul><li>Spanish: <span class="Latn" lang="es"><a href="/wiki/bueno#Spanish" title="bueno">bueno</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/>, <span class="Latn" lang="es"><a href="/wiki/bono#Spanish" title="bono">bono</a></span> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">Obsolete</span><span class="ib-brac qualifier-brac">)</span></li></ul></li></ul></li>
+<li>Creole:
+<ul><li>Guinea-Bissau Creole: <span class="Latn" lang="pov"><a href="/wiki/bon#Guinea-Bissau_Creole" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/>, <span class="Latn" lang="pov"><a href="/wiki/bo#Guinea-Bissau_Creole" title="bo">bo</a></span></li>
+<li>Kabuverdianu: <span class="Latn" lang="kea"><a href="/wiki/bon#Kabuverdianu" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li>Papiamentu: <span class="Latn" lang="pap"><a href="/wiki/bon#Papiamentu" title="bon">bon</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li><span class="desc-arr" title="borrowed">→</span> English: <span class="Latn" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></span><ul><li><span class="desc-arr" title="borrowed">→</span> French: <span class="Latn" lang="fr"><a href="/wiki/bonus#French" title="bonus">bonus</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li><li><span class="desc-arr" title="borrowed">→</span> Portuguese: <span class="Latn" lang="pt"><a href="/wiki/b%C3%B3nus#Portuguese" title="bónus">bónus</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul></li>
+<li><span class="desc-arr" title="borrowed">→</span> Italian: <span class="Latn" lang="it"><a href="/wiki/bonus#Italian" title="bonus">bonus</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li>
+<li><span class="desc-arr" title="borrowed">→</span> Spanish: <span class="Latn" lang="es"><a href="/wiki/bonus#Spanish" title="bonus">bonus</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul>
+</div>
+<h3><span class="mw-headline" id="Noun_6">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=37" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="la">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>genitive</i> <b class="Latn" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></b>); <i><a href="/wiki/Appendix:Latin_second_declension" title="Appendix:Latin second declension">second declension</a></i>
+</p>
+<ol><li>A <a href="/wiki/good" title="good">good</a>, <a href="/wiki/moral" title="moral">moral</a>, <a href="/wiki/honest" title="honest">honest</a> or <a href="/wiki/brave" title="brave">brave</a> <a href="/wiki/man" title="man">man</a></li>
+<li>A <a href="/wiki/gentleman" title="gentleman">gentleman</a></li></ol>
+<h4><span class="mw-headline" id="Declension_3">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=38" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Appendix:Latin_second_declension" title="Appendix:Latin second declension">Second-declension</a> noun.<style data-mw-deduplicate="TemplateStyles:r50505018">.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header,.mw-parser-output .inflection-table-la .case-header{font-style:italic}.mw-parser-output .inflection-table-la .corner-header,.mw-parser-output .inflection-table-la .number-header{background-color:#549EA0}.mw-parser-output .inflection-table-la .case-header{background-color:#40E0D0}.mw-parser-output .inflection-table-la .form-cell{background-color:#F8F8FF}</style>
+</p>
+<table class="prettytable inflection-table inflection-table-la">
+
+<tbody><tr>
+<th class="corner-header">Case
+</th>
+<th class="number-header">Singular
+</th>
+<th class="number-header">Plural
+</th></tr>
+<tr>
+<th class="case-header"><a href="/wiki/nominative_case" title="nominative case">Nominative</a>
+</th>
+<td class="form-cell"><span class="Latn form-of lang-la nom&#124;s-form-of origin-bonus" lang="la"><strong class="selflink">bonus</strong></span>
+</td>
+<td class="form-cell"><span class="Latn form-of lang-la nom&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/genitive_case" title="genitive case">Genitive</a>
+</th>
+<td class="form-cell"><span class="Latn form-of lang-la gen&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td>
+<td class="form-cell"><span class="Latn form-of lang-la gen&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonorum#Latin" title="bonorum">bonōrum</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/dative_case" title="dative case">Dative</a>
+</th>
+<td class="form-cell"><span class="Latn form-of lang-la dat&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bono#Latin" title="bono">bonō</a></span>
+</td>
+<td class="form-cell"><span class="Latn form-of lang-la dat&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonis#Latin" title="bonis">bonīs</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/accusative_case" title="accusative case">Accusative</a>
+</th>
+<td class="form-cell"><span class="Latn form-of lang-la acc&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bonum#Latin" title="bonum">bonum</a></span>
+</td>
+<td class="form-cell"><span class="Latn form-of lang-la acc&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonos#Latin" title="bonos">bonōs</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/ablative_case" title="ablative case">Ablative</a>
+</th>
+<td class="form-cell"><span class="Latn form-of lang-la abl&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bono#Latin" title="bono">bonō</a></span>
+</td>
+<td class="form-cell"><span class="Latn form-of lang-la abl&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/bonis#Latin" title="bonis">bonīs</a></span>
+</td></tr>
+<tr>
+<th class="case-header"><a href="/wiki/vocative_case" title="vocative case">Vocative</a>
+</th>
+<td class="form-cell"><span class="Latn form-of lang-la voc&#124;s-form-of origin-bonus" lang="la"><a href="/wiki/bone#Latin" title="bone">bone</a></span>
+</td>
+<td class="form-cell"><span class="Latn form-of lang-la voc&#124;p-form-of origin-bonus" lang="la"><a href="/wiki/boni#Latin" title="boni">bonī</a></span>
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=39" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=bonus"><span class="Latn" lang="la">bonus</span></a> in Charlton T. Lewis and Charles Short&#32;(1879)&#32;<cite><a href="https://en.wikipedia.org/wiki/A_Latin_Dictionary" class="extiw" title="w:A Latin Dictionary">A Latin Dictionary</a></cite>, Oxford&#58; Clarendon Press</li>
+<li><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0060:entry=bonus"><span class="Latn" lang="la">bonus</span></a> in Charlton T. Lewis&#32;(1891)&#32;<cite>An Elementary Latin Dictionary</cite>, New York&#58; Harper &amp; Brothers</li>
+<li><span class="Latn" lang="la"><a rel="nofollow" class="external text" href="http://ducange.enc.sorbonne.fr/BONUS">bonus</a></span> in Charles du Fresne du Cange’s <a href="https://en.wikipedia.org/wiki/Charles_du_Fresne,_sieur_du_Cange#Works" class="extiw" title="wikipedia:Charles du Fresne, sieur du Cange"><i>Glossarium Mediæ et Infimæ Latinitatis</i></a> (augmented edition, 1883–1887)</li>
+<li><a rel="nofollow" class="external text" href="http://micmap.org/dicfro/search/gaffiot/bonus">bonus</a> in Gaffiot, Félix&#32;(1934)&#32;<cite><a href="/wiki/Appendix:Reference_detail#Gaffiot_1934" title="Appendix:Reference detail">Dictionnaire Illustré Latin-Français</a></cite>, Hachette</li>
+<li>Carl Meissner&#59; Henry William Auden&#32;(1894)&#32;<cite>Latin Phrase-Book</cite>&#8206;<sup><a rel="nofollow" class="external autonumber" href="https://www.gutenberg.org/files/50280/50280-h/50280-h.htm">[1]</a></sup>, London&#58; <a href="https://en.wikipedia.org/wiki/Macmillan_Publishers" class="extiw" title="w:Macmillan Publishers">Macmillan and Co.</a><div class="mw-collapsible mw-collapsed" style="display: inline" data-expandtext="29 phrases"><ul><li>to be robust, vigorous: <i><b>bonis esse viribus</b></i><br /></li><li>who gets the advantage from this? who is the interested party: <i><b>cui bono?</b></i><br /></li><li>moral science; ethics: <i><b>philosophia, in qua de bonis rebus et malis, deque hominum vita et moribus disputatur</b></i><br /></li><li>to have good lungs: <i><b>bonis lateribus</b></i> <i><b>esse</b></i><br /></li><li>to be brave, courageous: <i><b>bono animo esse</b></i><br /></li><li><b><i>(ambiguous)</i></b> to possess means, to be well off: <i><b>rem</b></i> or <i><b>opes habere, bona possidere, in bonis esse</b></i><br /></li><li>to be very rich: <i><b>opibus, divitiis, bonis, facultatibus abundare</b></i><br /></li><li>to drive a person out of house and home: <i><b>evertere aliquem bonis, fortunis patriis</b></i><br /></li><li>disinherited: <i><b>exheres paternorum bonorum</b></i> (De Or. 1. 38. 175)<br /></li><li>the aristocracy (as a party in politics): <i><b>boni cives, optimi, optimates</b></i>, also simply <i><b>boni</b></i> (opp. <i><b>improbi</b></i>); <i><b>illi, qui optimatium causam agunt</b></i><br /></li><li>justly and equitably: <i><b>ex aequo et bono</b></i> (Caecin. 23. 65)<br /></li><li><b><i>(ambiguous)</i></b> to meet with good weather: <i><b>tempestatem idoneam, bonam nancisci</b></i><br /></li><li><b><i>(ambiguous)</i></b> to enjoy good health: <i><b>bona (firma, prospera) valetudine</b></i> <i><b>esse</b></i> or <i><b>uti</b></i> (<i><b>vid.</b></i> sect. VI. 8., note <i><b>uti...</b></i>)<br /></li><li><b><i>(ambiguous)</i></b> to reward amply; to give manifold recompense for: <i><b>bonam (praeclaram) gratiam referre</b></i><br /></li><li><b><i>(ambiguous)</i></b> to have a good or bad reputation, be spoken well, ill of: <i><b>bona, mala existimatio est de aliquo</b></i><br /></li><li><b><i>(ambiguous)</i></b> to be gifted, talented (not <i>praeditum esse</i> by itself): <i><b>bona indole</b></i> (always in sing.) <i><b>praeditum esse</b></i><br /></li><li><b><i>(ambiguous)</i></b> he is a young man of great promise: <i><b>adulescens alios bene de se sperare iubet, bonam spem ostendit</b></i> or <i><b>alii de adulescente bene sperare possunt</b></i><br /></li><li><b><i>(ambiguous)</i></b> to take a thing in good (bad) part: <i><b>in bonam (malam) partem accipere aliquid</b></i><br /></li><li><b><i>(ambiguous)</i></b> to be brave, courageous: <i><b>bonum animum habere</b></i><br /></li><li><b><i>(ambiguous)</i></b> to consider virtue the highest good: <i><b>summum bonum</b></i> <i><b>in virtute ponere</b></i><br /></li><li><b><i>(ambiguous)</i></b> natural advantages: <i><b>naturae bona</b></i><br /></li><li><b><i>(ambiguous)</i></b> to recover one's reason, be reasonable again: <i><b>ad bonam frugem se recipere</b></i><br /></li><li><b><i>(ambiguous)</i></b> may heaven's blessing rest on it: <i><b>quod bonum, faustum, felix, fortunatumque sit!</b></i> (Div. 1. 45. 102)<br /></li><li><b><i>(ambiguous)</i></b> to bless (curse) a person: <i><b>precari alicui bene (male)</b></i> or <i><b>omnia bona (mala), salutem</b></i><br /></li><li><b><i>(ambiguous)</i></b> to possess means, to be well off: <i><b>rem</b></i> or <i><b>opes habere, bona possidere, in bonis esse</b></i><br /></li><li><b><i>(ambiguous)</i></b> to squander all one's property: <i><b>lacerare bona sua</b></i> (Verr. 3. 70. 164)<br /></li><li><b><i>(ambiguous)</i></b> to confiscate a person's property: <i><b>bona alicuius publicare</b></i> (B. G. 5. 54)<br /></li><li><b><i>(ambiguous)</i></b> to restore to a person his confiscated property: <i><b>bona alicui restituere</b></i><br /></li><li><b><i>(ambiguous)</i></b> allow me to say: <i><b>bona (cum) venia tua dixerim</b></i><br /></li></ul></div></li></ul>
+<h3><span class="mw-headline" id="Further_reading_2">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=40" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=bonus"><span class="Latn" lang="la">bonus</span></a> in Charlton T. Lewis and Charles Short&#32;(1879)&#32;<cite><a href="https://en.wikipedia.org/wiki/A_Latin_Dictionary" class="extiw" title="w:A Latin Dictionary">A Latin Dictionary</a></cite>, Oxford&#58; Clarendon Press</li></ul>
+<hr />
+<h2><span id="Norwegian_Bokm.C3.A5l"></span><span class="mw-headline" id="Norwegian_Bokmål">Norwegian Bokmål</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=41" title="Edit section: Norwegian Bokmål">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_7">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=42" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></i> or <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun_7">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=43" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="nb">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>definite singular</i> <b class="Latn" lang="nb"><a href="/wiki/bonusen#Norwegian_Bokmål" title="bonusen">bonusen</a></b>, <i>indefinite plural</i> <b class="Latn" lang="nb"><a href="/wiki/bonuser#Norwegian_Bokmål" title="bonuser">bonuser</a></b>, <i>definite plural</i> <b class="Latn" lang="nb"><a href="/wiki/bonusene#Norwegian_Bokmål" title="bonusene">bonusene</a></b>)
+</p>
+<ol><li>a <span class="Latn" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></span></li></ol>
+<h3><span class="mw-headline" id="References_2">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=44" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://ordbok.uib.no/perl/ordbok.cgi?OPP=bonus&amp;bokmaal=+&amp;ordbok=bokmaal">“bonus”</a> in <i>The Bokmål Dictionary</i>.</li></ul>
+<hr />
+<h2><span class="mw-headline" id="Norwegian_Nynorsk">Norwegian Nynorsk</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=45" title="Edit section: Norwegian Nynorsk">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_8">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=46" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></i> or <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun_8">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=47" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="nn">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>definite singular</i> <b class="Latn" lang="nn"><a href="/wiki/bonusen#Norwegian_Nynorsk" title="bonusen">bonusen</a></b>, <i>indefinite plural</i> <b class="Latn" lang="nn"><a href="/wiki/bonusar#Norwegian_Nynorsk" title="bonusar">bonusar</a></b>, <i>definite plural</i> <b class="Latn" lang="nn"><a href="/wiki/bonusane#Norwegian_Nynorsk" title="bonusane">bonusane</a></b>)
+</p>
+<ol><li>a <span class="Latn" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></span></li></ol>
+<h3><span class="mw-headline" id="References_3">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=48" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://ordbok.uib.no/perl/ordbok.cgi?OPP=bonus&amp;nynorsk=+&amp;ordbok=nynorsk">“bonus”</a> in <i>The Nynorsk Dictionary</i>.</li></ul>
+<hr />
+<h2><span class="mw-headline" id="Spanish">Spanish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=49" title="Edit section: Spanish">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_9">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=50" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Borrowed from <span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/bonus#Latin" title="bonus">bonus</a></i>. Compare the doublet <i class="Latn mention" lang="es"><a href="/wiki/bueno#Spanish" title="bueno">bueno</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">good</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, inherited from the same Latin word.
+</p>
+<h3><span class="mw-headline" id="Pronunciation_5">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=51" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Spanish_pronunciation" title="Appendix:Spanish pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈbonus/</span></li></ul>
+<h3><span class="mw-headline" id="Noun_9">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=bonus&amp;action=edit&amp;section=52" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="es">bonus</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span> (<i>plural</i> <b class="Latn form-of lang-es p-form-of" lang="es"><strong class="selflink">bonus</strong></b>)
+</p>
+<ol><li><span class="Latn" lang="en"><a href="/wiki/bonus#English" title="bonus">bonus</a></span></li></ol>
+<!-- 
+NewPP limit report
+Parsed by mw1267
+Cached time: 20200227182012
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.580 seconds
+Real time usage: 2.123 seconds
+Preprocessor visited node count: 23327/1000000
+Post‐expand include size: 147765/2097152 bytes
+Template argument size: 15258/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 30/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9596/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.932/10.000 seconds
+Lua memory usage: 23.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1912.830      1 -total
+ 13.69%  261.872     45 Template:t+
+ 12.79%  244.675     94 Template:redlink_category
+ 10.27%  196.361      1 Template:la-adj
+  7.38%  141.195     35 Template:desc
+  6.30%  120.580     11 Template:check_deprecated_lang_param_usage
+  6.11%  116.829     11 Template:deprecated_code
+  5.50%  105.160     22 Template:t
+  5.43%  103.825     11 Template:bor
+  5.42%  103.643      1 Template:R:M&amp;A
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:46174-0!canonical and timestamp 20200227182010 and revision id 58710510
+ -->
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=bonus&amp;oldid=58710510">https://en.wiktionary.org/w/index.php?title=bonus&amp;oldid=58710510</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:English_terms_borrowed_from_Latin" title="Category:English terms borrowed from Latin">English terms borrowed from Latin</a></li><li><a href="/wiki/Category:English_terms_derived_from_Latin" title="Category:English terms derived from Latin">English terms derived from Latin</a></li><li><a href="/wiki/Category:English_2-syllable_words" title="Category:English 2-syllable words">English 2-syllable words</a></li><li><a href="/wiki/Category:English_terms_with_IPA_pronunciation" title="Category:English terms with IPA pronunciation">English terms with IPA pronunciation</a></li><li><a href="/wiki/Category:English_lemmas" title="Category:English lemmas">English lemmas</a></li><li><a href="/wiki/Category:English_nouns" title="Category:English nouns">English nouns</a></li><li><a href="/wiki/Category:English_countable_nouns" title="Category:English countable nouns">English countable nouns</a></li><li><a href="/wiki/Category:English_terms_with_quotations" title="Category:English terms with quotations">English terms with quotations</a></li><li><a href="/wiki/Category:English_terms_with_usage_examples" title="Category:English terms with usage examples">English terms with usage examples</a></li><li><a href="/wiki/Category:en:Video_games" title="Category:en:Video games">en:Video games</a></li><li><a href="/wiki/Category:en:Basketball" title="Category:en:Basketball">en:Basketball</a></li><li><a href="/wiki/Category:English_verbs" title="Category:English verbs">English verbs</a></li><li><a href="/wiki/Category:English_transitive_verbs" title="Category:English transitive verbs">English transitive verbs</a></li><li><a href="/wiki/Category:Dutch_terms_borrowed_from_Latin" title="Category:Dutch terms borrowed from Latin">Dutch terms borrowed from Latin</a></li><li><a href="/wiki/Category:Dutch_terms_derived_from_Latin" title="Category:Dutch terms derived from Latin">Dutch terms derived from Latin</a></li><li><a href="/wiki/Category:Dutch_terms_with_IPA_pronunciation" title="Category:Dutch terms with IPA pronunciation">Dutch terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Dutch_terms_with_audio_links" title="Category:Dutch terms with audio links">Dutch terms with audio links</a></li><li><a href="/wiki/Category:Dutch_lemmas" title="Category:Dutch lemmas">Dutch lemmas</a></li><li><a href="/wiki/Category:Dutch_nouns" title="Category:Dutch nouns">Dutch nouns</a></li><li><a href="/wiki/Category:Dutch_nouns_with_plural_in_-en" title="Category:Dutch nouns with plural in -en">Dutch nouns with plural in -en</a></li><li><a href="/wiki/Category:Dutch_nouns_with_Latin_plurals" title="Category:Dutch nouns with Latin plurals">Dutch nouns with Latin plurals</a></li><li><a href="/wiki/Category:Finnish_terms_borrowed_from_English" title="Category:Finnish terms borrowed from English">Finnish terms borrowed from English</a></li><li><a href="/wiki/Category:Finnish_terms_derived_from_English" title="Category:Finnish terms derived from English">Finnish terms derived from English</a></li><li><a href="/wiki/Category:Finnish_terms_borrowed_from_Latin" title="Category:Finnish terms borrowed from Latin">Finnish terms borrowed from Latin</a></li><li><a href="/wiki/Category:Finnish_terms_derived_from_Latin" title="Category:Finnish terms derived from Latin">Finnish terms derived from Latin</a></li><li><a href="/wiki/Category:Finnish_lemmas" title="Category:Finnish lemmas">Finnish lemmas</a></li><li><a href="/wiki/Category:Finnish_nouns" title="Category:Finnish nouns">Finnish nouns</a></li><li><a href="/wiki/Category:Finnish_vastaus-type_nominals" title="Category:Finnish vastaus-type nominals">Finnish vastaus-type nominals</a></li><li><a href="/wiki/Category:French_terms_borrowed_from_English" title="Category:French terms borrowed from English">French terms borrowed from English</a></li><li><a href="/wiki/Category:French_terms_derived_from_English" title="Category:French terms derived from English">French terms derived from English</a></li><li><a href="/wiki/Category:French_terms_derived_from_Latin" title="Category:French terms derived from Latin">French terms derived from Latin</a></li><li><a href="/wiki/Category:French_doublets" title="Category:French doublets">French doublets</a></li><li><a href="/wiki/Category:French_2-syllable_words" title="Category:French 2-syllable words">French 2-syllable words</a></li><li><a href="/wiki/Category:French_terms_with_IPA_pronunciation" title="Category:French terms with IPA pronunciation">French terms with IPA pronunciation</a></li><li><a href="/wiki/Category:French_lemmas" title="Category:French lemmas">French lemmas</a></li><li><a href="/wiki/Category:French_nouns" title="Category:French nouns">French nouns</a></li><li><a href="/wiki/Category:French_masculine_nouns" title="Category:French masculine nouns">French masculine nouns</a></li><li><a href="/wiki/Category:French_uncountable_nouns" title="Category:French uncountable nouns">French uncountable nouns</a></li><li><a href="/wiki/Category:Italian_terms_borrowed_from_Latin" title="Category:Italian terms borrowed from Latin">Italian terms borrowed from Latin</a></li><li><a href="/wiki/Category:Italian_terms_derived_from_Latin" title="Category:Italian terms derived from Latin">Italian terms derived from Latin</a></li><li><a href="/wiki/Category:Italian_doublets" title="Category:Italian doublets">Italian doublets</a></li><li><a href="/wiki/Category:Italian_lemmas" title="Category:Italian lemmas">Italian lemmas</a></li><li><a href="/wiki/Category:Italian_nouns" title="Category:Italian nouns">Italian nouns</a></li><li><a href="/wiki/Category:Italian_countable_nouns" title="Category:Italian countable nouns">Italian countable nouns</a></li><li><a href="/wiki/Category:Latin_terms_inherited_from_Old_Latin" title="Category:Latin terms inherited from Old Latin">Latin terms inherited from Old Latin</a></li><li><a href="/wiki/Category:Latin_terms_derived_from_Old_Latin" title="Category:Latin terms derived from Old Latin">Latin terms derived from Old Latin</a></li><li><a href="/wiki/Category:Latin_terms_inherited_from_Proto-Italic" title="Category:Latin terms inherited from Proto-Italic">Latin terms inherited from Proto-Italic</a></li><li><a href="/wiki/Category:Latin_terms_derived_from_Proto-Italic" title="Category:Latin terms derived from Proto-Italic">Latin terms derived from Proto-Italic</a></li><li><a href="/wiki/Category:Latin_terms_derived_from_Proto-Indo-European" title="Category:Latin terms derived from Proto-Indo-European">Latin terms derived from Proto-Indo-European</a></li><li><a href="/wiki/Category:Latin_2-syllable_words" title="Category:Latin 2-syllable words">Latin 2-syllable words</a></li><li><a href="/wiki/Category:Latin_terms_with_IPA_pronunciation" title="Category:Latin terms with IPA pronunciation">Latin terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Latin_terms_with_Ecclesiastical_IPA_pronunciation" title="Category:Latin terms with Ecclesiastical IPA pronunciation">Latin terms with Ecclesiastical IPA pronunciation</a></li><li><a href="/wiki/Category:Latin_terms_with_audio_links" title="Category:Latin terms with audio links">Latin terms with audio links</a></li><li><a href="/wiki/Category:Latin_lemmas" title="Category:Latin lemmas">Latin lemmas</a></li><li><a href="/wiki/Category:Latin_adjectives" title="Category:Latin adjectives">Latin adjectives</a></li><li><a href="/wiki/Category:Latin_first_and_second_declension_adjectives" title="Category:Latin first and second declension adjectives">Latin first and second declension adjectives</a></li><li><a href="/wiki/Category:Latin_nouns" title="Category:Latin nouns">Latin nouns</a></li><li><a href="/wiki/Category:Latin_masculine_nouns" title="Category:Latin masculine nouns">Latin masculine nouns</a></li><li><a href="/wiki/Category:Latin_second_declension_nouns" title="Category:Latin second declension nouns">Latin second declension nouns</a></li><li><a href="/wiki/Category:Latin_masculine_nouns_in_the_second_declension" title="Category:Latin masculine nouns in the second declension">Latin masculine nouns in the second declension</a></li><li><a href="/wiki/Category:Latin_words_in_Meissner_and_Auden%27s_phrasebook" title="Category:Latin words in Meissner and Auden&#039;s phrasebook">Latin words in Meissner and Auden's phrasebook</a></li><li><a href="/wiki/Category:Norwegian_Bokm%C3%A5l_terms_borrowed_from_English" title="Category:Norwegian Bokmål terms borrowed from English">Norwegian Bokmål terms borrowed from English</a></li><li><a href="/wiki/Category:Norwegian_Bokm%C3%A5l_terms_derived_from_English" title="Category:Norwegian Bokmål terms derived from English">Norwegian Bokmål terms derived from English</a></li><li><a href="/wiki/Category:Norwegian_Bokm%C3%A5l_terms_borrowed_from_Latin" title="Category:Norwegian Bokmål terms borrowed from Latin">Norwegian Bokmål terms borrowed from Latin</a></li><li><a href="/wiki/Category:Norwegian_Bokm%C3%A5l_terms_derived_from_Latin" title="Category:Norwegian Bokmål terms derived from Latin">Norwegian Bokmål terms derived from Latin</a></li><li><a href="/wiki/Category:Norwegian_Bokm%C3%A5l_lemmas" title="Category:Norwegian Bokmål lemmas">Norwegian Bokmål lemmas</a></li><li><a href="/wiki/Category:Norwegian_Bokm%C3%A5l_nouns" title="Category:Norwegian Bokmål nouns">Norwegian Bokmål nouns</a></li><li><a href="/wiki/Category:Norwegian_Nynorsk_terms_borrowed_from_English" title="Category:Norwegian Nynorsk terms borrowed from English">Norwegian Nynorsk terms borrowed from English</a></li><li><a href="/wiki/Category:Norwegian_Nynorsk_terms_derived_from_English" title="Category:Norwegian Nynorsk terms derived from English">Norwegian Nynorsk terms derived from English</a></li><li><a href="/wiki/Category:Norwegian_Nynorsk_terms_borrowed_from_Latin" title="Category:Norwegian Nynorsk terms borrowed from Latin">Norwegian Nynorsk terms borrowed from Latin</a></li><li><a href="/wiki/Category:Norwegian_Nynorsk_terms_derived_from_Latin" title="Category:Norwegian Nynorsk terms derived from Latin">Norwegian Nynorsk terms derived from Latin</a></li><li><a href="/wiki/Category:Norwegian_Nynorsk_lemmas" title="Category:Norwegian Nynorsk lemmas">Norwegian Nynorsk lemmas</a></li><li><a href="/wiki/Category:Norwegian_Nynorsk_nouns" title="Category:Norwegian Nynorsk nouns">Norwegian Nynorsk nouns</a></li><li><a href="/wiki/Category:Spanish_terms_borrowed_from_English" title="Category:Spanish terms borrowed from English">Spanish terms borrowed from English</a></li><li><a href="/wiki/Category:Spanish_terms_derived_from_English" title="Category:Spanish terms derived from English">Spanish terms derived from English</a></li><li><a href="/wiki/Category:Spanish_terms_derived_from_Latin" title="Category:Spanish terms derived from Latin">Spanish terms derived from Latin</a></li><li><a href="/wiki/Category:Spanish_doublets" title="Category:Spanish doublets">Spanish doublets</a></li><li><a href="/wiki/Category:Spanish_terms_with_IPA_pronunciation" title="Category:Spanish terms with IPA pronunciation">Spanish terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Spanish_lemmas" title="Category:Spanish lemmas">Spanish lemmas</a></li><li><a href="/wiki/Category:Spanish_nouns" title="Category:Spanish nouns">Spanish nouns</a></li><li><a href="/wiki/Category:Spanish_2-syllable_words" title="Category:Spanish 2-syllable words">Spanish 2-syllable words</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Finnish_redlinks" title="Category:Finnish redlinks">Finnish redlinks</a></li><li><a href="/wiki/Category:Finnish_redlinks/t" title="Category:Finnish redlinks/t">Finnish redlinks/t</a></li><li><a href="/wiki/Category:Requests_for_review_of_Spanish_translations" title="Category:Requests for review of Spanish translations">Requests for review of Spanish translations</a></li><li><a href="/wiki/Category:Requests_for_review_of_Vietnamese_translations" title="Category:Requests for review of Vietnamese translations">Requests for review of Vietnamese translations</a></li><li><a href="/wiki/Category:Finnish_redlinks/l" title="Category:Finnish redlinks/l">Finnish redlinks/l</a></li><li><a href="/wiki/Category:Old_Leonese_term_requests" title="Category:Old Leonese term requests">Old Leonese term requests</a></li><li><a href="/wiki/Category:Old_Spanish_term_requests" title="Category:Old Spanish term requests">Old Spanish term requests</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=bonus" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=bonus" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/bonus" title="View the content page [c]" accesskey="c">Entry</a></li><li id="ca-talk"><a href="/wiki/Talk:bonus" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/bonus">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=bonus&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=bonus&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/bonus" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/bonus" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=bonus&amp;oldid=58710510" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=bonus&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=bonus&amp;id=58710510" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wiktionary.org/wiki/bonus" title="bonus – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wiktionary.org/wiki/bonus" title="bonus – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wiktionary.org/wiki/bonus" title="bonus – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wiktionary.org/wiki/bonus" title="bonus – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wiktionary.org/wiki/bonus" title="bonus – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-co"><a href="https://co.wiktionary.org/wiki/bonus" title="bonus – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wiktionary.org/wiki/bonus" title="bonus – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wiktionary.org/wiki/bonus" title="bonus – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wiktionary.org/wiki/bonus" title="bonus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wiktionary.org/wiki/bonus" title="bonus – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wiktionary.org/wiki/bonus" title="bonus – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wiktionary.org/wiki/bonus" title="bonus – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wiktionary.org/wiki/bonus" title="bonus – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/bonus" title="bonus – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wiktionary.org/wiki/bonus" title="bonus – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wiktionary.org/wiki/bonus" title="bonus – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/bonus" title="bonus – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wiktionary.org/wiki/bonus" title="bonus – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wiktionary.org/wiki/bonus" title="bonus – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wiktionary.org/wiki/bonus" title="bonus – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wiktionary.org/wiki/bonus" title="bonus – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wiktionary.org/wiki/bonus" title="bonus – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wiktionary.org/wiki/bonus" title="bonus – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wiktionary.org/wiki/bonus" title="bonus – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wiktionary.org/wiki/bonus" title="bonus – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wiktionary.org/wiki/bonus" title="bonus – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wiktionary.org/wiki/bonus" title="bonus – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wiktionary.org/wiki/bonus" title="bonus – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wiktionary.org/wiki/bonus" title="bonus – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wiktionary.org/wiki/bonus" title="bonus – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wiktionary.org/wiki/bonus" title="bonus – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wiktionary.org/wiki/bonus" title="bonus – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wiktionary.org/wiki/bonus" title="bonus – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/bonus" title="bonus – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wiktionary.org/wiki/bonus" title="bonus – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wiktionary.org/wiki/bonus" title="bonus – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wiktionary.org/wiki/bonus" title="bonus – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/bonus" title="bonus – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wiktionary.org/wiki/bonus" title="bonus – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wiktionary.org/wiki/bonus" title="bonus – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wiktionary.org/wiki/bonus" title="bonus – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wiktionary.org/wiki/bonus" title="bonus – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wiktionary.org/wiki/bonus" title="bonus – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wiktionary.org/wiki/bonus" title="bonus – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wiktionary.org/wiki/bonus" title="bonus – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wiktionary.org/wiki/bonus" title="bonus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wiktionary.org/wiki/bonus" title="bonus – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wiktionary.org/wiki/bonus" title="bonus – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wiktionary.org/wiki/bonus" title="bonus – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wiktionary.org/wiki/bonus" title="bonus – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-chr"><a href="https://chr.wiktionary.org/wiki/bonus" title="bonus – Cherokee" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/bonus" title="bonus – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wiktionary.org/wiki/bonus" title="bonus – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/bonus" title="bonus – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=bonus">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=bonus&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=bonus&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 18 February 2020, at 03:44.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=bonus&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.580","walltime":"2.123","ppvisitednodes":{"value":23327,"limit":1000000},"postexpandincludesize":{"value":147765,"limit":2097152},"templateargumentsize":{"value":15258,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":30,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9596,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1912.830      1 -total"," 13.69%  261.872     45 Template:t+"," 12.79%  244.675     94 Template:redlink_category"," 10.27%  196.361      1 Template:la-adj","  7.38%  141.195     35 Template:desc","  6.30%  120.580     11 Template:check_deprecated_lang_param_usage","  6.11%  116.829     11 Template:deprecated_code","  5.50%  105.160     22 Template:t","  5.43%  103.825     11 Template:bor","  5.42%  103.643      1 Template:R:M\u0026amp;A"]},"scribunto":{"limitreport-timeusage":{"value":"0.932","limit":"10.000"},"limitreport-memusage":{"value":24284820,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20200227182012","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":110,"wgHostname":"mw1349"});});</script></body></html>

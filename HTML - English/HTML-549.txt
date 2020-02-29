@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>hom - Wiktionary</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgfAgpAME8AAHUe3doAAAAX","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"hom","wgTitle":"hom","wgCurRevisionId":57972817,"wgRevisionId":57972817,"wgArticleId":554363,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Afrikaans terms inherited from Dutch","Afrikaans terms derived from Dutch","Afrikaans lemmas","Afrikaans pronouns","Afrikaans terms with usage examples","Catalan terms inherited from Old Catalan","Catalan terms derived from Old Catalan"
+,"Catalan terms inherited from Latin","Catalan terms derived from Latin","Catalan 1-syllable words","Catalan terms with IPA pronunciation","Catalan lemmas","Catalan pronouns","Catalan personal pronouns","Dutch terms with audio links","Dutch lemmas","Dutch nouns","Dutch nouns with plural in -en","Netherlands Dutch","Middle English terms inherited from Old English","Middle English terms derived from Old English","Middle English terms derived from Proto-Germanic","Middle English terms inherited from Proto-Indo-European","Middle English terms derived from Proto-Indo-European","Middle English terms with IPA pronunciation","Middle English lemmas","Middle English nouns","Middle English terms with rare senses","Middle English adverbs","Middle English pronouns","Mòcheno lemmas","Mòcheno verbs","Old French terms inherited from Latin","Old French terms derived from Latin","Old French non-lemma forms","Old French noun forms","Zuni lemmas","Zuni pronouns"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"hom","wgRelevantArticleId":554363,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.column-hacks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"mediawiki.toc.styles":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.column-hacks&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=hom&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=hom&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/hom"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-hom rootpage-hom skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">hom</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="disambig-see-also"><i>See also:</i> <b class="Latn"><a href="/wiki/Hom" title="Hom">Hom</a></b>, <b class="Latn"><a href="/wiki/h%C3%B4m" title="hôm">hôm</a></b>, <b class="Latn"><a href="/wiki/h%C7%ABm" title="hǫm">hǫm</a></b>, <b class="Latn"><a href="/wiki/h%E1%BB%A3m" title="hợm">hợm</a></b><span class="serial-comma">,</span><i><span class="serial-and"> and</span></i> <b class="Latn"><a href="/wiki/hom." title="hom.">hom.</a></b></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Afrikaans"><span class="tocnumber">1</span> <span class="toctext">Afrikaans</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etymology"><span class="tocnumber">1.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pronoun"><span class="tocnumber">1.2</span> <span class="toctext">Pronoun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Synonyms"><span class="tocnumber">1.2.1</span> <span class="toctext">Synonyms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#See_also"><span class="tocnumber">1.3</span> <span class="toctext">See also</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Catalan"><span class="tocnumber">2</span> <span class="toctext">Catalan</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Etymology_2"><span class="tocnumber">2.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Pronunciation"><span class="tocnumber">2.2</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Pronoun_2"><span class="tocnumber">2.3</span> <span class="toctext">Pronoun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Declension"><span class="tocnumber">2.3.1</span> <span class="toctext">Declension</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#See_also_2"><span class="tocnumber">2.3.2</span> <span class="toctext">See also</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Dutch"><span class="tocnumber">3</span> <span class="toctext">Dutch</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Pronunciation_2"><span class="tocnumber">3.1</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Noun"><span class="tocnumber">3.2</span> <span class="toctext">Noun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Middle_English"><span class="tocnumber">4</span> <span class="toctext">Middle English</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Etymology_1"><span class="tocnumber">4.1</span> <span class="toctext">Etymology 1</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#Pronunciation_3"><span class="tocnumber">4.1.1</span> <span class="toctext">Pronunciation</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Noun_2"><span class="tocnumber">4.1.2</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-4 tocsection-19"><a href="#Alternative_forms"><span class="tocnumber">4.1.2.1</span> <span class="toctext">Alternative forms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-20"><a href="#Adverb"><span class="tocnumber">4.1.3</span> <span class="toctext">Adverb</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Related_terms"><span class="tocnumber">4.1.4</span> <span class="toctext">Related terms</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Descendants"><span class="tocnumber">4.1.5</span> <span class="toctext">Descendants</span></a>
+<ul>
+<li class="toclevel-4 tocsection-23"><a href="#References"><span class="tocnumber">4.1.5.1</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-24"><a href="#Etymology_2_2"><span class="tocnumber">4.2</span> <span class="toctext">Etymology 2</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Pronoun_3"><span class="tocnumber">4.2.1</span> <span class="toctext">Pronoun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Etymology_3"><span class="tocnumber">4.3</span> <span class="toctext">Etymology 3</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Noun_3"><span class="tocnumber">4.3.1</span> <span class="toctext">Noun</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-28"><a href="#Etymology_4"><span class="tocnumber">4.4</span> <span class="toctext">Etymology 4</span></a>
+<ul>
+<li class="toclevel-3 tocsection-29"><a href="#Pronoun_4"><span class="tocnumber">4.4.1</span> <span class="toctext">Pronoun</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Mòcheno"><span class="tocnumber">5</span> <span class="toctext">Mòcheno</span></a>
+<ul>
+<li class="toclevel-2 tocsection-31"><a href="#Verb"><span class="tocnumber">5.1</span> <span class="toctext">Verb</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#References_2"><span class="tocnumber">5.2</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Old_French"><span class="tocnumber">6</span> <span class="toctext">Old French</span></a>
+<ul>
+<li class="toclevel-2 tocsection-34"><a href="#Alternative_forms_2"><span class="tocnumber">6.1</span> <span class="toctext">Alternative forms</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Etymology_5"><span class="tocnumber">6.2</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Noun_4"><span class="tocnumber">6.3</span> <span class="toctext">Noun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-37"><a href="#Descendants_2"><span class="tocnumber">6.3.1</span> <span class="toctext">Descendants</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#Zuni"><span class="tocnumber">7</span> <span class="toctext">Zuni</span></a>
+<ul>
+<li class="toclevel-2 tocsection-39"><a href="#Pronoun_5"><span class="tocnumber">7.1</span> <span class="toctext">Pronoun</span></a>
+<ul>
+<li class="toclevel-3 tocsection-40"><a href="#Related_terms_2"><span class="tocnumber">7.1.1</span> <span class="toctext">Related terms</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Afrikaans">Afrikaans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=1" title="Edit section: Afrikaans">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Dutch_language" class="extiw" title="w:Dutch language">Dutch</a></span> <i class="Latn mention" lang="nl"><a href="/wiki/hem#Dutch" title="hem">hem</a></i>.
+</p>
+<h3><span class="mw-headline" id="Pronoun">Pronoun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=3" title="Edit section: Pronoun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="af">hom</strong> (<i>subject</i> <b class="Latn" lang="af"><a href="/wiki/hy#Afrikaans" title="hy">hy</a></b>, <i>possessive</i> <b class="Latn" lang="af"><a href="/wiki/sy#Afrikaans" title="sy">sy</a></b>)
+</p>
+<ol><li><span class="use-with-mention">third-person singular object pronoun</span>
+<ol><li><a href="/wiki/him" title="him">him</a> <span class="gloss-brac">(</span><span class="gloss-content">referring to a male person</span><span class="gloss-brac">)</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="af">Ek sien <b>hom</b> nie.</i><dl><dd><span class="e-translation">I can’t see <b>him</b>.</span></dd></dl></div></dd></dl></li>
+<li><a href="/wiki/it" title="it">it</a> <span class="gloss-brac">(</span><span class="gloss-content">referring to a non-personal noun</span><span class="gloss-brac">)</span>
+<dl><dd><div class="h-usage-example"><i class="Latn mention e-example" lang="af">Sy het my die boek gegee, maar ek het <b>hom</b> nog nie gelees nie.</i><dl><dd><span class="e-translation">She gave me the book, but I haven’t read <b>it</b> yet.</span></dd></dl></div></dd></dl></li></ol></li></ol>
+<h4><span class="mw-headline" id="Synonyms">Synonyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=4" title="Edit section: Synonyms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">it</span><span class="ib-brac qualifier-brac">)</span><span class="ib-colon sense-qualifier-colon">:</span> <span class="Latn" lang="af"><a href="/wiki/dit#Afrikaans" title="dit">dit</a></span></li></ul>
+<h3><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="NavFrame" style="width: 40em">
+<div class="NavHead" style="background: #CCCCFF;">Afrikaans personal pronouns</div>
+<div class="NavContent" style="float:left">
+<table style="border: 1px solid border-collapse:separate #CCCCFF; text-align: center; line-height: 125%" cellspacing="2" cellpadding="3">
+
+<tbody><tr style="background: #CCCCFF;">
+<th style="width: 40%;" colspan="2">
+</th>
+<th style="width: 20%;">subjective
+</th>
+<th style="width: 20%;">objective
+</th>
+<th style="width: 20%;">possessive
+</th></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; width: 20%" rowspan="6">singular
+</th>
+<th style="background: #CCCCFF; width: 20%; font-weight: normal;">1st
+</th>
+<td><span class="Latn" lang="af"><a href="/wiki/ek#Afrikaans" title="ek">ek</a></span>
+</td>
+<td colspan="2"><span class="Latn" lang="af"><a href="/wiki/my#Afrikaans" title="my">my</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">2nd
+</th>
+<td><span class="Latn" lang="af"><a href="/wiki/jy#Afrikaans" title="jy">jy</a></span>
+</td>
+<td colspan="2"><span class="Latn" lang="af"><a href="/wiki/jou#Afrikaans" title="jou">jou</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">2nd, formal
+</th>
+<td colspan="3"><span class="Latn" lang="af"><a href="/wiki/u#Afrikaans" title="u">u</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">3rd, masc
+</th>
+<td><span class="Latn" lang="af"><a href="/wiki/hy#Afrikaans" title="hy">hy</a></span>
+</td>
+<td><span class="Latn" lang="af"><a href="/wiki/hom#Afrikaans" title="hom">hom</a></span>
+</td>
+<td><span class="Latn" lang="af"><a href="/wiki/sy#Afrikaans" title="sy">sy</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">3rd, fem
+</th>
+<td><span class="Latn" lang="af"><a href="/wiki/sy#Afrikaans" title="sy">sy</a></span>
+</td>
+<td colspan="2"><span class="Latn" lang="af"><a href="/wiki/haar#Afrikaans" title="haar">haar</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">3rd, neut
+</th>
+<td colspan="2"><span class="Latn" lang="af"><a href="/wiki/dit#Afrikaans" title="dit">dit</a></span>
+</td>
+<td><span class="Latn" lang="af"><a href="/wiki/sy#Afrikaans" title="sy">sy</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF;" rowspan="3">plural
+</th>
+<th style="background: #CCCCFF; font-weight: normal;">1st
+</th>
+<td colspan="3"><span class="Latn" lang="af"><a href="/wiki/ons#Afrikaans" title="ons">ons</a></span>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">2nd
+</th>
+<td colspan="2"><span class="Latn" lang="af"><a href="/wiki/julle#Afrikaans" title="julle">julle</a></span>
+</td>
+<td><span class="Latn" lang="af"><a href="/wiki/julle#Afrikaans" title="julle">julle</a></span> / <span class="Latn" lang="af"><a href="/wiki/jul#Afrikaans" title="jul">jul</a></span><sup>1</sup>
+</td></tr>
+<tr style="background: #e9e3ff;">
+<th style="background: #CCCCFF; font-weight: normal;">3rd
+</th>
+<td colspan="2"><span class="Latn" lang="af"><a href="/wiki/hulle#Afrikaans" title="hulle">hulle</a></span>
+</td>
+<td><span class="Latn" lang="af"><a href="/wiki/hulle#Afrikaans" title="hulle">hulle</a></span> / <span class="Latn" lang="af"><a href="/wiki/hul#Afrikaans" title="hul">hul</a></span><sup>1</sup>
+</td></tr>
+<tr>
+<td style="background: #E6E6FF; text-align: left" colspan="7"><small>1. In the second and third persons plural, the usual possessive forms are <i class="Latn mention" lang="af"><a href="/wiki/julle#Afrikaans" title="julle">julle</a></i> and <i class="Latn mention" lang="af"><a href="/wiki/hulle#Afrikaans" title="hulle">hulle</a></i> (like the subjective and objective forms), but <i class="Latn mention" lang="af"><a href="/wiki/jul#Afrikaans" title="jul">jul</a></i> and <i class="Latn mention" lang="af"><a href="/wiki/hul#Afrikaans" title="hul">hul</a></i> are sometimes used instead when the sentence would otherwise be ambiguous.</small>
+</td></tr></tbody></table>
+</div></div>
+<hr />
+<h2><span class="mw-headline" id="Catalan">Catalan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=6" title="Edit section: Catalan">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_2">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=7" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_Catalan" class="extiw" title="w:Old Catalan">Old Catalan</a></span> <i class="Latn mention" lang="roa-oca"><a href="/wiki/hom#Old_Catalan" title="hom">hom</a></i>, reduced form of <i class="Latn mention" lang="roa-oca"><a href="/wiki/home#Old_Catalan" title="home">home</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">man</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span> used as a pronoun, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/homo#Latin" title="homo">homō</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">man</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>. Its pronominal use is of <span class="etyl"><a href="https://en.wikipedia.org/wiki/Germanic_languages" class="extiw" title="w:Germanic languages">Germanic</a></span> origin. Compare <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_English" class="extiw" title="w:Old English">Old English</a></span> <i class="Latinx mention" lang="ang"><a href="/wiki/man#Old_English" title="man">man</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">one, they, people</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, reduced form of <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_English" class="extiw" title="w:Old English">Old English</a></span> <i class="Latinx mention" lang="ang"><a href="/wiki/mann#Old_English" title="mann">mann</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">man, person</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>; <span class="etyl"><a href="https://en.wikipedia.org/wiki/French_language" class="extiw" title="w:French language">French</a></span> <i class="Latn mention" lang="fr"><a href="/wiki/on#French" title="on">on</a></i>; <span class="etyl"><a href="https://en.wikipedia.org/wiki/German_language" class="extiw" title="w:German language">German</a></span> <i class="Latn mention" lang="de"><a href="/wiki/man#German" title="man">man</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">one, they, people</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>; <span class="etyl"><a href="https://en.wikipedia.org/wiki/Dutch_language" class="extiw" title="w:Dutch language">Dutch</a></span> <i class="Latn mention" lang="nl"><a href="/wiki/men#Dutch" title="men">men</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">one, they, people</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>.
+</p>
+<h3><span class="mw-headline" id="Pronunciation">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=8" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content"><a href="https://en.wikipedia.org/wiki/Balearic_dialect" class="extiw" title="w:Balearic dialect">Balearic</a><span class="ib-comma qualifier-comma">,</span> <a href="https://en.wikipedia.org/wiki/Central_Catalan" class="extiw" title="w:Central Catalan">Central</a><span class="ib-comma qualifier-comma">,</span> <a href="https://en.wikipedia.org/wiki/Valencian" class="extiw" title="w:Valencian">Valencian</a></span><span class="ib-brac qualifier-brac">)</span> <a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="/wiki/Appendix:Catalan_pronunciation" title="Appendix:Catalan pronunciation">key</a>)</sup>:&#32;<span class="IPA">/ˈɔm/</span></li></ul>
+<h3><span class="mw-headline" id="Pronoun_2">Pronoun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=9" title="Edit section: Pronoun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="ca">hom</strong>
+</p>
+<ol><li><a href="/wiki/one" title="one">one</a>, <a href="/wiki/people" title="people">people</a>, <a href="/wiki/someone" title="someone">someone</a> <span class="gloss-brac">(</span><span class="gloss-content">an unspecified individual: indefinite personal pronoun</span><span class="gloss-brac">)</span>.</li></ol>
+<h4><span class="mw-headline" id="Declension">Declension</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=10" title="Edit section: Declension">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="NavFrame">
+<div class="NavHead">Catalan personal pronouns and clitics</div>
+<div class="NavContent">
+<table style="width:100%;background:#F0F0F0;padding:0.3em">
+
+<tbody><tr style="background: #CCCCCC;">
+<th>
+</th>
+<th>strong/subject
+</th>
+<th colspan="2">weak (direct object)
+</th>
+<th colspan="2">weak (indirect object)
+</th>
+<th>possessive
+</th></tr>
+<tr style="background: #E6E6E6;">
+<th style="width: 22%; background: #CCCCCC;"><a href="/wiki/singular" title="singular">singular</a>
+</th>
+<th style="width: 13%">
+</th>
+<th style="width: 13%">proclitic
+</th>
+<th style="width: 13%">enclitic
+</th>
+<th style="width: 13%">proclitic
+</th>
+<th style="width: 13%">enclitic
+</th>
+<th style="width: 13%">
+</th></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/first_person" title="first person">1st&#160;person</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/jo#Catalan" title="jo">jo</a></span>, <span class="Latn" lang="ca"><a href="/wiki/mi#Catalan" title="mi">mi</a></span><sup>3</sup>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/em#Catalan" title="em">em</a></span>, <span class="Latn" lang="ca"><a href="/wiki/m%27#Catalan" title="m&#39;">m’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/me#Catalan" title="me">me</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27m#Catalan" title="&#39;m">’m</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/em#Catalan" title="em">em</a></span>, <span class="Latn" lang="ca"><a href="/wiki/m%27#Catalan" title="m&#39;">m’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/me#Catalan" title="me">me</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27m#Catalan" title="&#39;m">’m</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/meu#Catalan" title="meu">meu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/first_person" title="first person">1st&#160;person</a> <a href="/wiki/majestic_plural" title="majestic plural">majestic</a><sup>1</sup>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/n%C3%B3s#Catalan" title="nós">nós</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ens#Catalan" title="ens">ens</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/nos#Catalan" title="nos">nos</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ns#Catalan" title="&#39;ns">’ns</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ens#Catalan" title="ens">ens</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/nos#Catalan" title="nos">nos</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ns#Catalan" title="&#39;ns">’ns</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/nostre#Catalan" title="nostre">nostre</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/second_person" title="second person">2nd&#160;person</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/tu#Catalan" title="tu">tu</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/et#Catalan" title="et">et</a></span>, <span class="Latn" lang="ca"><a href="/wiki/t%27#Catalan" title="t&#39;">t’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/te#Catalan" title="te">te</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27t#Catalan" title="&#39;t">’t</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/et#Catalan" title="et">et</a></span>, <span class="Latn" lang="ca"><a href="/wiki/t%27#Catalan" title="t&#39;">t’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/te#Catalan" title="te">te</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27t#Catalan" title="&#39;t">’t</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/teu#Catalan" title="teu">teu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/second_person" title="second person">2nd&#160;person</a>&#160;<a href="/wiki/formal" title="formal">formal</a><sup>1</sup>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/v%C3%B3s#Catalan" title="vós">vós</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/vos#Catalan" title="vos">vos</a></span>, <span class="Latn" lang="ca">-<a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/vos#Catalan" title="vos">vos</a></span>, <span class="Latn" lang="ca">-<a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/vostre#Catalan" title="vostre">vostre</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/second_person" title="second person">2nd&#160;person</a>&#160;very <a href="/wiki/formal" title="formal">formal</a><sup>2</sup>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/vost%C3%A8#Catalan" title="vostè">vostè</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/el#Catalan" title="el">el</a></span>, <span class="Latn" lang="ca"><a href="/wiki/l%27#Catalan" title="l&#39;">l’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/lo#Catalan" title="lo">lo</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27l#Catalan" title="&#39;l">’l</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/masculine" title="masculine">masculine</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ell#Catalan" title="ell">ell</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/el#Catalan" title="el">el</a></span>, <span class="Latn" lang="ca"><a href="/wiki/l%27#Catalan" title="l&#39;">l’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/lo#Catalan" title="lo">lo</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27l#Catalan" title="&#39;l">’l</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/feminine" title="feminine">feminine</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ella#Catalan" title="ella">ella</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/la#Catalan" title="la">la</a></span>, <span class="Latn" lang="ca"><a href="/wiki/l%27#Catalan" title="l&#39;">l’</a></span><sup>4</sup>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/la#Catalan" title="la">la</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/neuter" title="neuter">neuter</a>
+</td>
+<td>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ho#Catalan" title="ho">ho</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/ho#Catalan" title="ho">ho</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/li#Catalan" title="li">li</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/reflexive" title="reflexive">reflexive</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/si#Catalan" title="si">si</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/es#Catalan" title="es">es</a></span>, <span class="Latn" lang="ca"><a href="/wiki/s%27#Catalan" title="s&#39;">s’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/se#Catalan" title="se">se</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27s#Catalan" title="&#39;s">’s</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/es#Catalan" title="es">es</a></span>, <span class="Latn" lang="ca"><a href="/wiki/s%27#Catalan" title="s&#39;">s’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/se#Catalan" title="se">se</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27s#Catalan" title="&#39;s">’s</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr style="background: #E6E6E6;">
+<th style="background: #CCCCCC;"><a href="/wiki/plural" title="plural">plural</a>
+</th>
+<td colspan="8">
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/first_person" title="first person">1st&#160;person</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/nosaltres#Catalan" title="nosaltres">nosaltres</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ens#Catalan" title="ens">ens</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/nos#Catalan" title="nos">nos</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ns#Catalan" title="&#39;ns">’ns</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ens#Catalan" title="ens">ens</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/nos#Catalan" title="nos">nos</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ns#Catalan" title="&#39;ns">’ns</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/nostre#Catalan" title="nostre">nostre</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/second_person" title="second person">2nd&#160;person</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/vosaltres#Catalan" title="vosaltres">vosaltres</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/vos#Catalan" title="vos">vos</a></span>, <span class="Latn" lang="ca">-<a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/vos#Catalan" title="vos">vos</a></span>, <span class="Latn" lang="ca">-<a href="/wiki/us#Catalan" title="us">us</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/vostre#Catalan" title="vostre">vostre</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/second_person" title="second person">2nd&#160;person</a>&#160;<a href="/wiki/formal" title="formal">formal</a><sup>2</sup>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/vost%C3%A8s#Catalan" title="vostès">vostès</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/els#Catalan" title="els">els</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/los#Catalan" title="los">los</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ls#Catalan" title="&#39;ls">’ls</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/els#Catalan" title="els">els</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/los#Catalan" title="los">los</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ls#Catalan" title="&#39;ls">’ls</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/masculine" title="masculine">masculine</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/ells#Catalan" title="ells">ells</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/els#Catalan" title="els">els</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/los#Catalan" title="los">los</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ls#Catalan" title="&#39;ls">’ls</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/els#Catalan" title="els">els</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/los#Catalan" title="los">los</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ls#Catalan" title="&#39;ls">’ls</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/feminine" title="feminine">feminine</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/elles#Catalan" title="elles">elles</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/les#Catalan" title="les">les</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/les#Catalan" title="les">les</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/els#Catalan" title="els">els</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/los#Catalan" title="los">los</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27ls#Catalan" title="&#39;ls">’ls</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/third_person" title="third person">3rd&#160;person</a>&#160;<a href="/wiki/reflexive" title="reflexive">reflexive</a>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/si#Catalan" title="si">si</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/es#Catalan" title="es">es</a></span>, <span class="Latn" lang="ca"><a href="/wiki/s%27#Catalan" title="s&#39;">s’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/se#Catalan" title="se">se</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27s#Catalan" title="&#39;s">’s</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/es#Catalan" title="es">es</a></span>, <span class="Latn" lang="ca"><a href="/wiki/s%27#Catalan" title="s&#39;">s’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/se#Catalan" title="se">se</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27s#Catalan" title="&#39;s">’s</a></span>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/seu#Catalan" title="seu">seu</a></span>
+</td></tr>
+<tr style="background: #E6E6E6;">
+<th style="background: #CCCCCC;"><a href="/wiki/adverbial" title="adverbial">adverbial</a>
+</th>
+<td colspan="8">
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/ablative" title="ablative">ablative</a>/<a href="/wiki/genitive" title="genitive">genitive</a>
+</td>
+<td>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/en#Catalan" title="en">en</a></span>, <span class="Latn" lang="ca"><a href="/wiki/n%27#Catalan" title="n&#39;">n’</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/ne#Catalan" title="ne">ne</a></span>, <span class="Latn" lang="ca"><a href="/wiki/%27n#Catalan" title="&#39;n">’n</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td style="background: #E6E6E6;"><a href="/wiki/locative" title="locative">locative</a>
+</td>
+<td>
+</td>
+<td><span class="Latn" lang="ca"><a href="/wiki/hi#Catalan" title="hi">hi</a></span>
+</td>
+<td><span class="Latn" lang="ca">-<a href="/wiki/hi#Catalan" title="hi">hi</a></span>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr class="notes-row" style="background: #E6E6E6; text-align:left; vertical-align:top; font-size: smaller; line-height: 1em">
+<td colspan="3"><sup>1)</sup> Behaves grammatically as plural.<br /><sup>2)</sup> Behaves grammatically as third person.
+</td>
+<td colspan="4"><sup>3)</sup> Only as object of a preposition.<br /><sup>4)</sup> Not before unstressed (h)i-, (h)u-.
+</td></tr></tbody></table>
+</div>
+</div>
+<h4><span class="mw-headline" id="See_also_2">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="ca"><a href="/wiki/tu#Catalan" title="tu">tu</a></span></li>
+<li><span class="Latn" lang="ca"><a href="/wiki/u#Catalan" title="u">u</a></span></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Dutch">Dutch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=12" title="Edit section: Dutch">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pronunciation_2">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=13" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r50165410">.mw-parser-output .k-player .k-attribution{visibility:hidden}</style><table class="audiotable" style="vertical-align: bottom; display:inline-block; list-style:none;line-height: 1em; border-collapse:collapse;"><tbody><tr><td class="unicode audiolink" style="padding-right:5px; padding-left: 0;">Audio</td><td class="audiofile"><div class="mediaContainer" style="width:175px"><audio id="mwe_player_0" controls="" preload="none" style="width:175px" class="kskin" data-durationhint="0.96362811791383" data-startoffset="0" data-mwtitle="Nl-hom.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/2/27/Nl-hom.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (110 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="110184" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/2/27/Nl-hom.ogg/Nl-hom.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="134536" /></audio></div></td><td class="audiometa" style="font-size: 80%;">(<a href="/wiki/File:Nl-hom.ogg" title="File:Nl-hom.ogg">file</a>)</td></tr></tbody></table></li></ul>
+<h3><span class="mw-headline" id="Noun">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=14" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="nl">hom</strong>&#160;<span class="gender"><abbr title="feminine gender">f</abbr></span> (<i>plural</i> <b class="Latn form-of lang-nl p-form-of" lang="nl"><a href="/wiki/hommen#Dutch" title="hommen">hommen</a></b>, <i><a href="/wiki/Appendix:Glossary#diminutive" title="Appendix:Glossary">diminutive</a></i> <b class="Latn form-of lang-nl diminutive-form-of" lang="nl"><a href="/w/index.php?title=hommetje&amp;action=edit&amp;redlink=1" class="new" title="hommetje (page does not exist)">hommetje</a></b>&#160;<span class="gender"><abbr title="neuter gender">n</abbr></span>)
+</p>
+<ol><li><span class="ib-brac">(</span><span class="ib-content"><a href="https://en.wikipedia.org/wiki/Netherlands" class="extiw" title="w:Netherlands">Netherlands</a></span><span class="ib-brac">)</span> <a href="/wiki/milt" title="milt">milt</a> <span class="gloss-brac">(</span><span class="gloss-content">fish semen</span><span class="gloss-brac">)</span></li></ol>
+<hr />
+<h2><span class="mw-headline" id="Middle_English">Middle English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=15" title="Edit section: Middle English">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Etymology_1">Etymology 1</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=16" title="Edit section: Etymology 1">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Old_English" class="extiw" title="w:Old English">Old English</a></span> <i class="Latinx mention" lang="ang"><a href="/wiki/ham#Old_English" title="ham">hām</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Germanic_language" class="extiw" title="w:Proto-Germanic language">Proto-Germanic</a></span> <i class="Latinx mention" lang="gem-pro"><a href="/wiki/Reconstruction:Proto-Germanic/haimaz" title="Reconstruction:Proto-Germanic/haimaz">*haimaz</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">home, house, village</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Indo-European_language" class="extiw" title="w:Proto-Indo-European language">Proto-Indo-European</a></span> <i class="Latinx mention" lang="ine-pro"><a href="/w/index.php?title=Reconstruction:Proto-Indo-European/%E1%B8%B1%C3%B3ymos&amp;action=edit&amp;redlink=1" class="new" title="Reconstruction:Proto-Indo-European/ḱóymos (page does not exist)">*ḱóymos</a></i>.
+</p>
+<h4><span class="mw-headline" id="Pronunciation_3">Pronunciation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=17" title="Edit section: Pronunciation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Wiktionary:International_Phonetic_Alphabet" title="Wiktionary:International Phonetic Alphabet">IPA</a><sup>(<a href="https://en.wikipedia.org/wiki/Middle_English_phonology" class="extiw" title="wikipedia:Middle English phonology">key</a>)</sup>:&#32;<span class="IPA">/hɔːm/</span></li>
+<li>Rhymes: <a href="/wiki/Rhymes:Middle_English/%C9%94%CB%90m" title="Rhymes:Middle English/ɔːm"><span class="IPA">-ɔːm</span></a></li></ul>
+<h4><span class="mw-headline" id="Noun_2">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=18" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><strong class="Latn headword" lang="enm">hom</strong>&#32;(<i>plural</i> <b><span class="Latn" lang="enm"><a href="/wiki/homes#Middle_English" title="homes">homes</a></span></b>&#32;or <b><span class="Latn" lang="enm"><a href="/wiki/heomen#Middle_English" title="heomen">heomen</a></span></b>)
+</p>
+<ol><li><a href="/wiki/home" title="home">home</a>, <a href="/wiki/residence" title="residence">residence</a>, <a href="/wiki/dwelling" title="dwelling">dwelling</a></li>
+<li><a href="/wiki/house" title="house">house</a>, <a href="/wiki/housing" title="housing">housing</a></li>
+<li><a href="/wiki/accomodation" title="accomodation">accomodation</a>, <a href="/wiki/rest" title="rest">rest</a></li>
+<li><span class="ib-brac">(</span><span class="ib-content"><a href="/wiki/Appendix:Glossary#figurative" title="Appendix:Glossary">figuratively</a></span><span class="ib-brac">)</span> <a href="/wiki/seat" title="seat">seat</a>, <a href="/wiki/headquarters" title="headquarters">headquarters</a>, <a href="/wiki/centre" title="centre">centre</a></li>
+<li><span class="ib-brac">(</span><span class="ib-content">rare</span><span class="ib-brac">)</span> <a href="/wiki/village" title="village">village</a>, <a href="/wiki/town" title="town">town</a></li></ol>
+<h5><span class="mw-headline" id="Alternative_forms">Alternative forms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=19" title="Edit section: Alternative forms">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li><span class="Latn" lang="enm"><a href="/wiki/hoom#Middle_English" title="hoom">hoom</a></span>, <span class="Latn" lang="enm"><a href="/wiki/home#Middle_English" title="home">home</a></span>, <span class="Latn" lang="enm"><a href="/wiki/hoome#Middle_English" title="hoome">hoome</a></span>, <span class="Latn" lang="enm"><a href="/wiki/whom#Middle_English" title="whom">whom</a></span>, <span class="Latn" lang="enm"><a href="/wiki/om#Middle_English" title="om">om</a></span>, <span class="Latn" lang="enm"><a href="/wiki/am#Middle_English" title="am">am</a></span>; <span class="Latn" lang="enm"><a href="/wiki/hame#Middle_English" title="hame">hame</a></span>, <span class="Latn" lang="enm"><a href="/wiki/hame#Middle_English" title="hame">hame</a></span> (<i>Northern</i>); <span class="Latn" lang="enm"><a href="/wiki/ham#Middle_English" title="ham">ham</a></span> (<i>early</i>)</li></ul>
+<h4><span class="mw-headline" id="Adverb">Adverb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=20" title="Edit section: Adverb">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><strong class="Latn headword" lang="enm">hom</strong>
+</p>
+<ol><li><a href="/wiki/home" title="home">home</a>, <a href="/wiki/homeward" title="homeward">homeward</a></li></ol>
+<h4><span class="mw-headline" id="Related_terms">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=21" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="enm"><a href="/wiki/homly#Middle_English" title="homly">homly</a></span>, <span class="Latn" lang="enm"><a href="/wiki/homely#Middle_English" title="homely">homely</a></span>, <span class="Latn" lang="enm"><a href="/wiki/homli#Middle_English" title="homli">homli</a></span></li>
+<li><span class="Latn" lang="enm"><a href="/wiki/homward#Middle_English" title="homward">homward</a></span></li></ul>
+<h4><span class="mw-headline" id="Descendants">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=22" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>English: <span class="Latn" lang="en"><a href="/wiki/home#English" title="home">home</a></span><style data-mw-deduplicate="TemplateStyles:r54857417">.mw-parser-output .desc-arr[title]{cursor:help}.mw-parser-output .desc-arr[title="uncertain"]{font-size:.7em;vertical-align:super}</style></li>
+<li>Northumbrian: <span class="Latn" lang="en"><a href="/wiki/hyem#English" title="hyem">hyem</a></span></li>
+<li>Scots: <span class="Latn" lang="sco"><a href="/wiki/hame#Scots" title="hame">hame</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul>
+<h5><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=23" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<ul><li>“<a rel="nofollow" class="external text" href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED21073">hōm, <i>n.</i></a>” in <cite><a href="https://en.wikipedia.org/wiki/Middle_English_Dictionary" class="extiw" title="w:Middle English Dictionary">MED Online</a></cite>, Ann Arbor, Mich.: <a href="https://en.wikipedia.org/wiki/University_of_Michigan" class="extiw" title="w:University of Michigan">University of Michigan</a>, 2007.</li></ul>
+<h3><span class="mw-headline" id="Etymology_2_2">Etymology 2</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=24" title="Edit section: Etymology 2">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Pronoun_3">Pronoun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=25" title="Edit section: Pronoun">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><strong class="Latn headword" lang="enm">hom</strong>
+</p>
+<ol><li><span class="form-of-definition use-with-mention">Alternative form of <span class="form-of-definition-link"><i class="Latn mention" lang="enm"><a href="/wiki/hem#Middle_English" title="hem">hem</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">them</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></span></span></li></ol>
+<h3><span class="mw-headline" id="Etymology_3">Etymology 3</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=26" title="Edit section: Etymology 3">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Noun_3">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=27" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><strong class="Latn headword" lang="enm">hom</strong>&#32;(<i>plural</i> <b><span class="Latn" lang="enm"><a href="/wiki/homes#Middle_English" title="homes">homes</a></span></b>)
+</p>
+<ol><li><span class="form-of-definition use-with-mention">Alternative form of <span class="form-of-definition-link"><i class="Latn mention" lang="enm"><a href="/wiki/hamme#Middle_English" title="hamme">hamme</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">enclosure, meadow</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></span></span></li></ol>
+<h3><span class="mw-headline" id="Etymology_4">Etymology 4</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=28" title="Edit section: Etymology 4">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Pronoun_4">Pronoun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=29" title="Edit section: Pronoun">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><strong class="Latn headword" lang="enm">hom</strong>
+</p>
+<ol><li><span class="form-of-definition use-with-mention">Alternative form of <span class="form-of-definition-link"><i class="Latn mention" lang="enm"><a href="/wiki/whom#Middle_English" title="whom">whom</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">whom</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span></span></span></li></ol>
+<hr />
+<h2><span id="M.C3.B2cheno"></span><span class="mw-headline" id="Mòcheno">Mòcheno</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=30" title="Edit section: Mòcheno">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Verb">Verb</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=31" title="Edit section: Verb">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="mhn">hom</strong>
+</p>
+<ol><li>to <a href="/wiki/have" title="have">have</a></li></ol>
+<h3><span class="mw-headline" id="References_2">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=32" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>“hom” in Patuzzi, Umberto, ed., (2013) <i><a rel="nofollow" class="external text" href="http://www.lusern.it/documenti/Centro_documentazione/libri-depliant-att--didattica-relazioni-etc-/libri/le-nostre-parole-luserna.pdf">Ünsarne Börtar</a></i> [Our Words], Luserna, Italy: Comitato unitario delle linguistiche storiche germaniche in Italia / Einheitskomitee der historischen deutschen Sprachinseln in Italien</li></ul>
+<hr />
+<h2><span class="mw-headline" id="Old_French">Old French</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=33" title="Edit section: Old French">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Alternative_forms_2">Alternative forms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=34" title="Edit section: Alternative forms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><span class="Latn" lang="fro"><a href="/wiki/hum#Old_French" title="hum">hum</a></span>, <span class="Latn" lang="fro"><a href="/wiki/huem#Old_French" title="huem">huem</a></span>, <span class="Latn" lang="fro"><a href="/wiki/hon#Old_French" title="hon">hon</a></span>, <span class="Latn" lang="fro"><a href="/wiki/om#Old_French" title="om">om</a></span>, <span class="Latn" lang="fro"><a href="/wiki/on#Old_French" title="on">on</a></span></li></ul>
+<h3><span class="mw-headline" id="Etymology_5">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=35" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Latin" class="extiw" title="w:Latin">Latin</a></span> <i class="Latn mention" lang="la"><a href="/wiki/homo#Latin" title="homo">homō</a></i>.
+</p>
+<h3><span class="mw-headline" id="Noun_4">Noun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=36" title="Edit section: Noun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="fro">hom</strong>&#160;<span class="gender"><abbr title="masculine gender">m</abbr></span>
+</p>
+<ol><li><span class="form-of-definition use-with-mention"><a href="/wiki/Appendix:Glossary#nominative_case" title="Appendix:Glossary">nominative</a> <a href="/wiki/Appendix:Glossary#singular_number" title="Appendix:Glossary">singular</a> of <span class="form-of-definition-link"><i class="Latn mention" lang="fro"><a href="/wiki/home#Old_French" title="home">home</a></i></span></span></li></ol>
+<h4><span class="mw-headline" id="Descendants_2">Descendants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=37" title="Edit section: Descendants">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>French: <span class="Latn" lang="fr"><a href="/wiki/on#French" title="on">on</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r54857417"/></li></ul>
+<hr />
+<h2><span class="mw-headline" id="Zuni">Zuni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=38" title="Edit section: Zuni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Pronoun_5">Pronoun</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=39" title="Edit section: Pronoun">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><strong class="Latn headword" lang="zun">hom</strong>
+</p>
+<ol><li><a href="/wiki/first_person" title="first person">First person</a> <a href="/wiki/singular" title="singular">singular</a> <a href="/wiki/possessive" title="possessive">possessive</a> <span class="ib-brac qualifier-brac">(</span><span class="ib-content qualifier-content">medial position</span><span class="ib-brac qualifier-brac">)</span>
+<dl><dd><a href="/wiki/my" title="my">my</a></dd></dl></li>
+<li><a href="/wiki/first_person" title="first person">First person</a> <a href="/wiki/singular" title="singular">singular</a> <a href="/wiki/object" title="object">object</a>
+<dl><dd><a href="/wiki/me" title="me">me</a></dd></dl></li></ol>
+<h4><span class="mw-headline" id="Related_terms_2">Related terms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=hom&amp;action=edit&amp;section=40" title="Edit section: Related terms">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><span class="Latn" lang="zun"><a href="/wiki/ho%27#Zuni" title="ho&#39;">ho'</a></span></li>
+<li><span class="Latn" lang="zun"><a href="/wiki/homma#Zuni" title="homma">homma</a></span></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20200226225358
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.760 seconds
+Real time usage: 1.004 seconds
+Preprocessor visited node count: 7941/1000000
+Post‐expand include size: 66296/2097152 bytes
+Template argument size: 5329/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 868/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.444/10.000 seconds
+Lua memory usage: 14.28 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  869.768      1 -total
+ 14.90%  129.636      6 Template:inh
+ 11.10%   96.559      7 Template:check_deprecated_lang_param_usage
+ 11.00%   95.698     29 Template:l
+ 10.69%   92.983      7 Template:deprecated_code
+ 10.45%   90.851     10 Template:head
+  9.37%   81.464      1 Template:af-personal_pronouns
+  8.12%   70.638      6 Template:cog
+  6.50%   56.571      1 Template:ca-IPA
+  6.27%   54.568      3 Template:lb
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:554363-0!canonical and timestamp 20200226225357 and revision id 57972817
+ -->
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=hom&amp;oldid=57972817">https://en.wiktionary.org/w/index.php?title=hom&amp;oldid=57972817</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Afrikaans_terms_inherited_from_Dutch" title="Category:Afrikaans terms inherited from Dutch">Afrikaans terms inherited from Dutch</a></li><li><a href="/wiki/Category:Afrikaans_terms_derived_from_Dutch" title="Category:Afrikaans terms derived from Dutch">Afrikaans terms derived from Dutch</a></li><li><a href="/wiki/Category:Afrikaans_lemmas" title="Category:Afrikaans lemmas">Afrikaans lemmas</a></li><li><a href="/wiki/Category:Afrikaans_pronouns" title="Category:Afrikaans pronouns">Afrikaans pronouns</a></li><li><a href="/wiki/Category:Afrikaans_terms_with_usage_examples" title="Category:Afrikaans terms with usage examples">Afrikaans terms with usage examples</a></li><li><a href="/wiki/Category:Catalan_terms_inherited_from_Old_Catalan" title="Category:Catalan terms inherited from Old Catalan">Catalan terms inherited from Old Catalan</a></li><li><a href="/wiki/Category:Catalan_terms_derived_from_Old_Catalan" title="Category:Catalan terms derived from Old Catalan">Catalan terms derived from Old Catalan</a></li><li><a href="/wiki/Category:Catalan_terms_inherited_from_Latin" title="Category:Catalan terms inherited from Latin">Catalan terms inherited from Latin</a></li><li><a href="/wiki/Category:Catalan_terms_derived_from_Latin" title="Category:Catalan terms derived from Latin">Catalan terms derived from Latin</a></li><li><a href="/wiki/Category:Catalan_1-syllable_words" title="Category:Catalan 1-syllable words">Catalan 1-syllable words</a></li><li><a href="/wiki/Category:Catalan_terms_with_IPA_pronunciation" title="Category:Catalan terms with IPA pronunciation">Catalan terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Catalan_lemmas" title="Category:Catalan lemmas">Catalan lemmas</a></li><li><a href="/wiki/Category:Catalan_pronouns" title="Category:Catalan pronouns">Catalan pronouns</a></li><li><a href="/wiki/Category:Catalan_personal_pronouns" title="Category:Catalan personal pronouns">Catalan personal pronouns</a></li><li><a href="/wiki/Category:Dutch_terms_with_audio_links" title="Category:Dutch terms with audio links">Dutch terms with audio links</a></li><li><a href="/wiki/Category:Dutch_lemmas" title="Category:Dutch lemmas">Dutch lemmas</a></li><li><a href="/wiki/Category:Dutch_nouns" title="Category:Dutch nouns">Dutch nouns</a></li><li><a href="/wiki/Category:Dutch_nouns_with_plural_in_-en" title="Category:Dutch nouns with plural in -en">Dutch nouns with plural in -en</a></li><li><a href="/wiki/Category:Netherlands_Dutch" title="Category:Netherlands Dutch">Netherlands Dutch</a></li><li><a href="/wiki/Category:Middle_English_terms_inherited_from_Old_English" title="Category:Middle English terms inherited from Old English">Middle English terms inherited from Old English</a></li><li><a href="/wiki/Category:Middle_English_terms_derived_from_Old_English" title="Category:Middle English terms derived from Old English">Middle English terms derived from Old English</a></li><li><a href="/wiki/Category:Middle_English_terms_derived_from_Proto-Germanic" title="Category:Middle English terms derived from Proto-Germanic">Middle English terms derived from Proto-Germanic</a></li><li><a href="/wiki/Category:Middle_English_terms_inherited_from_Proto-Indo-European" title="Category:Middle English terms inherited from Proto-Indo-European">Middle English terms inherited from Proto-Indo-European</a></li><li><a href="/wiki/Category:Middle_English_terms_derived_from_Proto-Indo-European" title="Category:Middle English terms derived from Proto-Indo-European">Middle English terms derived from Proto-Indo-European</a></li><li><a href="/wiki/Category:Middle_English_terms_with_IPA_pronunciation" title="Category:Middle English terms with IPA pronunciation">Middle English terms with IPA pronunciation</a></li><li><a href="/wiki/Category:Middle_English_lemmas" title="Category:Middle English lemmas">Middle English lemmas</a></li><li><a href="/wiki/Category:Middle_English_nouns" title="Category:Middle English nouns">Middle English nouns</a></li><li><a href="/wiki/Category:Middle_English_terms_with_rare_senses" title="Category:Middle English terms with rare senses">Middle English terms with rare senses</a></li><li><a href="/wiki/Category:Middle_English_adverbs" title="Category:Middle English adverbs">Middle English adverbs</a></li><li><a href="/wiki/Category:Middle_English_pronouns" title="Category:Middle English pronouns">Middle English pronouns</a></li><li><a href="/wiki/Category:M%C3%B2cheno_lemmas" title="Category:Mòcheno lemmas">Mòcheno lemmas</a></li><li><a href="/wiki/Category:M%C3%B2cheno_verbs" title="Category:Mòcheno verbs">Mòcheno verbs</a></li><li><a href="/wiki/Category:Old_French_terms_inherited_from_Latin" title="Category:Old French terms inherited from Latin">Old French terms inherited from Latin</a></li><li><a href="/wiki/Category:Old_French_terms_derived_from_Latin" title="Category:Old French terms derived from Latin">Old French terms derived from Latin</a></li><li><a href="/wiki/Category:Old_French_non-lemma_forms" title="Category:Old French non-lemma forms">Old French non-lemma forms</a></li><li><a href="/wiki/Category:Old_French_noun_forms" title="Category:Old French noun forms">Old French noun forms</a></li><li><a href="/wiki/Category:Zuni_lemmas" title="Category:Zuni lemmas">Zuni lemmas</a></li><li><a href="/wiki/Category:Zuni_pronouns" title="Category:Zuni pronouns">Zuni pronouns</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=hom" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=hom" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/hom" title="View the content page [c]" accesskey="c">Entry</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Talk:hom&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/hom">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=hom&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=hom&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/hom" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/hom" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=hom&amp;oldid=57972817" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=hom&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=hom&amp;id=57972817" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wiktionary.org/wiki/hom" title="hom – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wiktionary.org/wiki/hom" title="hom – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wiktionary.org/wiki/hom" title="hom – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wiktionary.org/wiki/hom" title="hom – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wiktionary.org/wiki/hom" title="hom – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/hom" title="hom – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/hom" title="hom – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wiktionary.org/wiki/hom" title="hom – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wiktionary.org/wiki/hom" title="hom – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wiktionary.org/wiki/hom" title="hom – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wiktionary.org/wiki/hom" title="hom – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wiktionary.org/wiki/hom" title="hom – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wiktionary.org/wiki/hom" title="hom – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wiktionary.org/wiki/hom" title="hom – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/hom" title="hom – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wiktionary.org/wiki/hom" title="hom – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/hom" title="hom – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wiktionary.org/wiki/hom" title="hom – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wiktionary.org/wiki/hom" title="hom – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wiktionary.org/wiki/hom" title="hom – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/hom" title="hom – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=hom">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=hom&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=hom&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 9 November 2019, at 15:37.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=hom&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.760","walltime":"1.004","ppvisitednodes":{"value":7941,"limit":1000000},"postexpandincludesize":{"value":66296,"limit":2097152},"templateargumentsize":{"value":5329,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":868,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  869.768      1 -total"," 14.90%  129.636      6 Template:inh"," 11.10%   96.559      7 Template:check_deprecated_lang_param_usage"," 11.00%   95.698     29 Template:l"," 10.69%   92.983      7 Template:deprecated_code"," 10.45%   90.851     10 Template:head","  9.37%   81.464      1 Template:af-personal_pronouns","  8.12%   70.638      6 Template:cog","  6.50%   56.571      1 Template:ca-IPA","  6.27%   54.568      3 Template:lb"]},"scribunto":{"limitreport-timeusage":{"value":"0.444","limit":"10.000"},"limitreport-memusage":{"value":14968821,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20200226225358","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":134,"wgHostname":"mw1244"});});</script></body></html>

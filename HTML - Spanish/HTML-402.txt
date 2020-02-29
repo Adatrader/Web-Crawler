@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikcionario:Ayuda - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XlihVQpAICkAABFpDIMAAADS","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikcionario:Ayuda","wgTitle":"Ayuda","wgCurRevisionId":4742775,"wgRevisionId":4742775,"wgArticleId":1473,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikcionario","Wikcionario:Ayuda"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikcionario:Ayuda","wgRelevantArticleId":1473,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgWikibaseItemId":"Q914807","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.ui.button":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.cite.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/wiki/Wikcionario:Ayuda"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject mw-editable page-Wikcionario_Ayuda rootpage-Wikcionario_Ayuda skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Wikcionario:Ayuda</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikcionario, el diccionario libre</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="width:100%; margin-bottom:2px; border: 1px solid #006400; background:#B6E6E6; text-align:center;">
+
+<tbody><tr>
+<td style="width:25%; text-align:left; font-size:0.9em;">&#8592; <a href="/wiki/Ayuda:Mapa_de_ayuda" title="Ayuda:Mapa de ayuda">Mapa de ayuda</a>
+</td>
+<td style="width:50%;"><b>Ayuda básica</b>
+</td>
+<td style="width:25%; text-align:right;font-size:0.9em;"><a href="/wiki/Ayuda:Tutorial" title="Ayuda:Tutorial">Tutorial</a> &#8594;
+</td></tr></tbody></table>
+<table style="width:100%; background:#fAfAff;">
+
+<tbody><tr>
+<td>
+</td></tr></tbody></table>
+<div style="width:70%; float:right">
+<div style="height:18px;border:1px solid #006400;background:#B0E0E6;text-align:center;font-size:105%;"><b>Sobre esta página</b></div>
+<div style="font-size:95%;margin-bottom:1.5em;border:1px solid #006400;border-top:0;background:white;padding:5px;">
+<p><b><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Wikcionario</a></b> es un proyecto libre escrito por voluntarios de todo el mundo. Esta página puede guiar la lectura, autoría y participación en él. Para más información, visite además el <b><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Ayuda:Mapa de ayuda">Mapa de ayuda</a></b>, o ingrese una palabra clave en el siguiente motor de búsqueda:
+</p>
+<div style="margin-bottom:15px;margin-top:15px;">
+<div class="mw-inputbox-centered" style="background-color: #f5faff;"><form name="searchbox" class="searchbox" action="/wiki/Especial:Buscar"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="40" dir="ltr" />  <div class="mw-inputbox-element mw-ui-checkbox"><input type="checkbox" name="ns12" value="1" id="mw-inputbox-ns12-0.539793347336" checked="checked" /><label for="mw-inputbox-ns12-0.539793347336">Ayuda</label></div>  <div class="mw-inputbox-element mw-ui-checkbox"><input type="checkbox" name="ns4" value="1" id="mw-inputbox-ns4-0.539793347336" checked="checked" /><label for="mw-inputbox-ns4-0.539793347336">Wikcionario</label></div>  <div class="mw-inputbox-element mw-ui-checkbox"><input type="checkbox" name="ns10" value="1" id="mw-inputbox-ns10-0.539793347336" /><label for="mw-inputbox-ns10-0.539793347336">Plantilla</label></div>  <div class="mw-inputbox-element mw-ui-checkbox"><input type="checkbox" name="ns14" value="1" id="mw-inputbox-ns14-0.539793347336" /><label for="mw-inputbox-ns14-0.539793347336">Categoría</label></div>  <input type="submit" name="fulltext" class="mw-ui-button" value="Buscar en la ayuda" /></form></div>
+</div>
+<b>Nota</b>: Wikcionario usa el mismo programa que <a class="external text" href="https://es.wikipedia.org">Wikipedia</a>. Muchos detalles de edición pueden hallarse en la <b><a href="https://es.wikipedia.org/wiki/es:Wikipedia:Ayuda" class="extiw" title="w:es:Wikipedia:Ayuda">Ayuda de Wikipedia</a></b>, en el <b><a href="https://en.wikibooks.org/wiki/es:Manual_de_uso_wiki" class="extiw" title="wikibooks:es:Manual de uso wiki">Manual de uso wiki</a></b> o, en inglés, en la página <a href="https://meta.wikimedia.org/wiki/Help:Index" class="extiw" title="m:Help:Index">Meta-Wikimedia</a>, que suele ser la más actualizada.</div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2>Sumario</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Sobre_Wikcionario"><span class="tocnumber">1</span> <span class="toctext">Sobre Wikcionario</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Qué_es_un_wiki"><span class="tocnumber">1.1</span> <span class="toctext">Qué es un wiki</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Cómo_explorar_el_contenido"><span class="tocnumber">1.2</span> <span class="toctext">Cómo explorar el contenido</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Información_introductoria"><span class="tocnumber">1.3</span> <span class="toctext">Información introductoria</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Cómo_colaborar"><span class="tocnumber">2</span> <span class="toctext">Cómo colaborar</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Referencia_rápida"><span class="tocnumber">2.1</span> <span class="toctext">Referencia rápida</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Cómo_pedir_ayuda"><span class="tocnumber">3</span> <span class="toctext">Cómo pedir ayuda</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Recuerda_firmar"><span class="tocnumber">3.1</span> <span class="toctext">Recuerda firmar</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Civismo_y_políticas_generales"><span class="tocnumber">4</span> <span class="toctext">Civismo y políticas generales</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Enlaces_útiles"><span class="tocnumber">5</span> <span class="toctext">Enlaces útiles</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notas"><span class="tocnumber">6</span> <span class="toctext">Notas</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Sobre_Wikcionario"><center style="background:#f5faff;">Sobre Wikcionario</center></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=1" title="Editar sección: Sobre Wikcionario">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Este sitio del World Wide Web (páginas de texto en <a href="/wiki/internet" title="internet">internet</a>) se llama <i><a href="https://es.wikipedia.org/wiki/Wikcionario" class="extiw" title="w:Wikcionario">Wikcionario</a></i>, mezcla de los términos <b>wiki</b> y <b>diccionario</b>. Y esto es, básicamente, el Wikcionario mismo: un diccionario ambicioso español-multilingüe-español, al que todos pueden contribuir usando el sistema "wiki". Más detalles en:  <b><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Wikcionario:Acerca de</a></b>.
+</p>
+<h3><span id="Qu.C3.A9_es_un_wiki"></span><span class="mw-headline" id="Qué_es_un_wiki">Qué es un wiki</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=2" title="Editar sección: Qué es un wiki">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Un <a href="/wiki/wiki" title="wiki">wiki</a> (de «wiki wiki», que significa «rápido» en la <a href="https://es.wikipedia.org/wiki/lengua_hawaiana" class="extiw" title="w:lengua hawaiana">lengua hawaiana</a>) es un grupo de páginas del World Wide Web cuyo contenido puede ser editado por sus propios lectores. Más detalles en: <b><a href="/wiki/Wikcionario:Wiki" title="Wikcionario:Wiki">¿Qué es un wiki?</a></b>
+</p>
+<h3><span id="C.C3.B3mo_explorar_el_contenido"></span><span class="mw-headline" id="Cómo_explorar_el_contenido">Cómo explorar el contenido</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=3" title="Editar sección: Cómo explorar el contenido">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Hay numerosos caminos para descubrir la riqueza de contenido de Wikcionario. Algunos son:
+</p>
+<ul><li>Escriba en <img alt="Búsqueda en Wikipedia.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/B%C3%BAsqueda_en_Wikipedia.PNG/180px-B%C3%BAsqueda_en_Wikipedia.PNG" decoding="async" width="180" height="36" style="vertical-align: bottom" srcset="//upload.wikimedia.org/wikipedia/commons/e/ee/B%C3%BAsqueda_en_Wikipedia.PNG 1.5x" data-file-width="231" data-file-height="46" /> (esquina superior derecha). Tenga en cuenta que hay entradas diferentes según tengan o no mayúscula inicial.</li>
+<li>Pulse en <b><a href="/wiki/Especial:Aleatoria" title="Especial:Aleatoria">Página aleatoria</a></b> (menú de navegación a la izquierda), para ver un lema al azar.</li>
+<li>Puede también visitar <b><a href="/wiki/Especial:Todas" title="Especial:Todas">Especial:Todas</a></b>, donde hay un listado completo de lemas y es posible buscar por las primeras o por las últimas letras de cualquier palabra.</li>
+<li>Cada artículo generalmente tiene además enlaces a otros lemas o palabras y, en la parte inferior, enlaces a diferentes <b><a href="/wiki/Categor%C3%ADa:Fundamental" title="Categoría:Fundamental">Categorías</a></b> según su tema, su etimología, el idioma, etc.</li>
+<li>Hay además un rico repertorio de <b><a href="/wiki/Categor%C3%ADa:Wikcionario:Ap%C3%A9ndices" title="Categoría:Wikcionario:Apéndices">Apéndices</a></b> con listas de abreviaturas, significado de topónimos y muchos otros temas.</li>
+<li>El <b><a href="/wiki/Categor%C3%ADa:Wikcionario:Wikisauro" title="Categoría:Wikcionario:Wikisauro">Tesauro</a></b> (o Wikisauro, porque usted también puede editarlo), ofrece listados de usos convencionales y coloquiales de numerosos términos de rica tradición, tales como <i><a href="/wiki/Wikcionario:cabeza/Tesauro" title="Wikcionario:cabeza/Tesauro">cabeza</a></i>, <i><a href="/wiki/Wikcionario:dinero/Tesauro" title="Wikcionario:dinero/Tesauro">dinero</a></i> o <i><a href="/wiki/Wikcionario:ebriedad/Tesauro" title="Wikcionario:ebriedad/Tesauro">ebriedad</a></i>.</li>
+<li>En cuanto a la amplia presencia de otros idiomas en Wikcionario, un punto de partida obvio es nuestra <b><a href="/wiki/Wikcionario:Portada" title="Wikcionario:Portada">Portada</a></b>, que lista útiles puertas de entrada.</li></ul>
+<p>Algunos términos que pueden ilustrarle las potencialidades de Wikcionario son: <i><a href="/wiki/abdomen" title="abdomen">abdomen</a></i>, <i><a href="/wiki/mezquite" title="mezquite">mezquite</a></i> y <i><a href="/wiki/piedra" title="piedra">piedra</a></i>, entre muchísmos más, claro.
+</p><p>Más detalles en: <b><a href="/wiki/Ayuda:B%C3%BAsqueda" title="Ayuda:Búsqueda">Trucos para búsquedas</a></b>
+</p>
+<h3><span id="Informaci.C3.B3n_introductoria"></span><span class="mw-headline" id="Información_introductoria">Información introductoria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=4" title="Editar sección: Información introductoria">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Las siguientes páginas contienen información general para visitantes y colaboradores:
+</p>
+<ul><li>¡<a href="/wiki/Wikcionario:Bienvenido" class="mw-redirect" title="Wikcionario:Bienvenido">Bienvenido</a>! Mensaje de presentación del proyecto.</li>
+<li><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Sobre el Wikcionario</a></li>
+<li><a href="/wiki/Wikcionario:Descripci%C3%B3n_de_las_p%C3%A1ginas_del_Wikcionario" title="Wikcionario:Descripción de las páginas del Wikcionario">Descripción de las páginas del Wikcionario</a></li>
+<li><a href="/wiki/Wikcionario:FAQ" class="mw-redirect" title="Wikcionario:FAQ">Preguntas frecuentes</a> (FAQ, <i>Frequently Asked Questions", por sus siglas en inglés)</i></li></ul>
+<h2><span id="C.C3.B3mo_colaborar"></span><span class="mw-headline" id="Cómo_colaborar"><center style="background:#f5faff;">Cómo colaborar</center></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=5" title="Editar sección: Cómo colaborar">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ya que Wikcionario es un wiki, usted, quien lee, puede editar esta misma página y la mayoría de páginas en este sitio, siempre y cuando sean relevantes para los objetivos del proyecto: ser un diccionario multilingüe con explicaciones en español. Además de editar páginas ya existentes, usted puede crear páginas nuevas. 
+</p><p>Editar una página es fácil: pulse sobre la palabra <font color="#002BB8">Editar</font> en la parte superior derecha (↑): <a href="/wiki/Archivo:Pesta%C3%B1a_Editar.jpg" class="image"><img alt="Pestaña Editar.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Pesta%C3%B1a_Editar.jpg/200px-Pesta%C3%B1a_Editar.jpg" decoding="async" width="200" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/4/49/Pesta%C3%B1a_Editar.jpg 1.5x" data-file-width="298" data-file-height="49" /></a> <br />De esta forma se abre la página de edición, donde se puede escribir la correspondiente entrada. Antes de editar cualquier página, es buena idea hacer el <b><a href="/wiki/Ayuda:Tutorial" title="Ayuda:Tutorial">Tutorial</a></b>, que permite familiarizarse con la interfaz de Wikcionario. Además, por favor tenga en cuenta:
+</p>
+<div style="width:40%; float:right; font-size:90%;border:1px solid #B0E0E6;margin-right:15px;">
+<h3><span id="Referencia_r.C3.A1pida"></span><span class="mw-headline" id="Referencia_rápida">Referencia rápida</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=6" title="Editar sección: Referencia rápida">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Para colaboradores impacientes:
+</p>
+<ol><li>Practica en la <a href="/wiki/Wikcionario:Zona_de_pruebas" class="mw-redirect" title="Wikcionario:Zona de pruebas">zona de pruebas</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a> </sup></li>
+<li>Presiona el enlace <b><font color="#002BB8">Editar</font></b> en la parte superior de la página. O bien, si pulsas un enlace en rojo (<a href="/w/index.php?title=como_este&amp;action=edit&amp;redlink=1" class="new" title="como este (la página no existe)">como este</a>), se creará el lema titulado con las palabras del enlace <small>(en vez de en rojo puede aparecer con un interrogante si así lo estableciste en tus <a href="/wiki/Especial:Preferencias" title="Especial:Preferencias">preferencias</a>)</small>.</li>
+<li>Aparecerá un cuadro blanco (caja de edición) donde puedes escribir o borrar.</li>
+<li>Cuando termines, presiona el botón<form name="bodySearch0.854602061340" id="bodySearch0.854602061340" class="bodySearch" action="/wiki/Especial:Buscar"><div class="bodySearchWrap" style=""><input type="hidden" name="search" class="mw-ui-input mw-ui-input-inline" size="20" id="bodySearchInput0.854602061340" dir="ltr" />&#160;<input type="submit" name="go" value="Grabar la página" class="mw-ui-button" /></div></form>situado debajo de la caja de edición.</li>
+<li>Cuando compruebes lo fácil que es editar, lee las <b><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">notas importantes sobre Wikcionario</a></b>.</li></ol>
+</div>
+<ul><li><a href="/wiki/Wikcionario:Lo_que_Wiktionary_no_es" class="mw-redirect" title="Wikcionario:Lo que Wiktionary no es">Qué no es el Wikcionario</a></li>
+<li><a href="/wiki/Ayuda:Qu%C3%A9_se_espera_de_una_acepci%C3%B3n" class="mw-redirect" title="Ayuda:Qué se espera de una acepción">¿Qué se espera de una acepción?</a></li>
+<li>Practique en la <b><a href="/wiki/Wikcionario:Zona_de_pruebas" class="mw-redirect" title="Wikcionario:Zona de pruebas">zona de pruebas</a></b>, donde puede hacer ensayos sin perturbar a nadie.</li></ul>
+<p><b><big>Otras páginas útiles para la edición y participación en el proyecto:</big></b>
+</p>
+<ul><li>Ver <b><a href="/wiki/Wikcionario:COMOs" title="Wikcionario:COMOs">Lista completa de páginas «CÓMO»</a></b>. Estas son algunas:
+<ul><li><a href="/wiki/Wikcionario:C%C3%B3mo_puedo_colaborar" title="Wikcionario:Cómo puedo colaborar">Cómo colaborar, una introducción</a></li>
+<li><a href="/wiki/Wikcionario:C%C3%B3mo_se_edita_una_p%C3%A1gina" title="Wikcionario:Cómo se edita una página">Cómo se edita una página</a></li>
+<li><a href="/wiki/Wikcionario:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Wikcionario:Cómo empezar una página">Cómo empezar una página</a></li>
+<li><a href="/wiki/Wikcionario:C%C3%B3mo_se_a%C3%B1aden_im%C3%A1genes" class="mw-redirect" title="Wikcionario:Cómo se añaden imágenes">Cómo añadir imágenes a una página</a></li>
+<li><a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">Cómo se transcribe la pronunciación de lemas en español</a></li></ul></li>
+<li>Aprender <a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">qué son y cómo se usan las «Plantillas»</a></li>
+<li>Ver nuestro «<a href="/wiki/Wikcionario:Manual_de_estilo" class="mw-redirect" title="Wikcionario:Manual de estilo">Manual de estilo</a>»</li>
+<li>Ver cómo se estructura una
+<ul><li><a href="/wiki/Wikcionario:Estilo_de_entradas_en_espa%C3%B1ol" title="Wikcionario:Estilo de entradas en español">entrada de español</a></li>
+<li>y de <a href="/wiki/Wikcionario:Estilo_de_entradas_en_otros_idiomas" title="Wikcionario:Estilo de entradas en otros idiomas">otros idiomas</a></li></ul></li></ul>
+<h2><span id="C.C3.B3mo_pedir_ayuda"></span><span class="mw-headline" id="Cómo_pedir_ayuda"><center style="background:#f5faff;">Cómo pedir ayuda</center></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=7" title="Editar sección: Cómo pedir ayuda">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Si las anteriores páginas no resuelven tus dudas:
+</p>
+<ul><li>Deja tu consulta en el <b><a href="/wiki/Wikcionario:Caf%C3%A9" title="Wikcionario:Café">Café</a></b>, nuestro centro de reunión.</li>
+<li>Si necesitas algún contenido sobre una palabra concreta (no información sobre Wikcionario) y no encontraste nada con la función «Buscar», puedes dejar tu pregunta en <a href="/wiki/Wikcionario:Consultas" title="Wikcionario:Consultas">Wikcionario:Consultas</a>.</li>
+<li>También puedes mirar las <a href="/wiki/Wikcionario:Listas_de_correo" title="Wikcionario:Listas de correo">listas de correo</a>.</li>
+<li>Para hablar con colaboradores, puedes conectarte a través de IRC. Ver detalles en: <a href="/wiki/Wikcionario:Canal_IRC" title="Wikcionario:Canal IRC">Wikcionario:Canal IRC</a>.</li>
+<li>Si tienes dudas o comentarios sobre un lema específico, para eso es la página de discusión de cada entrada en la parte superior izquierda <a href="/wiki/Archivo:Discusi%C3%B3n.jpg" class="image"><img alt="Discusión.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discusi%C3%B3n.jpg/100px-Discusi%C3%B3n.jpg" decoding="async" width="100" height="26" style="vertical-align: bottom" srcset="//upload.wikimedia.org/wikipedia/commons/c/c2/Discusi%C3%B3n.jpg 1.5x" data-file-width="148" data-file-height="38" /></a>. No te preocupes si el enlace aparece en rojo; puedes crear la página de discusión si alguien aún no lo ha hecho. Más detalles en: <b><a href="/wiki/Ayuda:Tutorial_(P%C3%A1ginas_de_discusi%C3%B3n)" class="mw-redirect" title="Ayuda:Tutorial (Páginas de discusión)">Ayuda:Tutorial (Páginas de discusión)</a></b>.</li></ul>
+<h3><span class="mw-headline" id="Recuerda_firmar">Recuerda firmar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=8" title="Editar sección: Recuerda firmar">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table>
+<tbody><tr>
+<td>Recuerda siempre <b><a href="/wiki/Wikcionario:C%C3%B3mo_se_edita_una_p%C3%A1gina#Firmar_un_comentario" title="Wikcionario:Cómo se edita una página">firmar</a></b> tus comentarios y preguntas. Para dejar tu firma, pon cuatro tildes (&#126;&#126;&#126;&#126;) o usa el botón correspondiente, el tercero desde la izquierda, en la botonera que hay en la parte superior de la caja de edición.
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:Signature_button.png" class="image"><img alt="Signature button.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Signature_button.png/100px-Signature_button.png" decoding="async" width="100" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/5/5f/Signature_button.png 1.5x" data-file-width="125" data-file-height="79" /></a></div>
+</td></tr></tbody></table>
+<h2><span id="Civismo_y_pol.C3.ADticas_generales"></span><span class="mw-headline" id="Civismo_y_políticas_generales"><center style="background:#f5faff;">Civismo y políticas generales</center></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=9" title="Editar sección: Civismo y políticas generales">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En Wikcionario se fomenta una atmósfera agradable y de buena fe. Al mismo tiempo, hay ciertas políticas sobre la conducta, los derechos de autor y el tipo de entradas que tienen sentido dentro del proyecto. Más detalles en: 
+</p>
+<ul><li><b><a href="/wiki/Ayuda:Tutorial_(Ten_en_cuenta)" class="mw-redirect" title="Ayuda:Tutorial (Ten en cuenta)">Ayuda:Tutorial (Ten en cuenta)</a></b></li>
+<li><b><a href="/wiki/Wikcionario:Punto_de_vista_neutral" title="Wikcionario:Punto de vista neutral">Wikcionario:Punto de vista neutral</a></b></li>
+<li><b><a href="/wiki/Wikcionario:Pol%C3%ADticas_y_gu%C3%ADas" title="Wikcionario:Políticas y guías">Wikcionario:Políticas y guías</a></b></li>
+<li><b><a href="/wiki/Wikcionario:Lo_que_Wikcionario_no_es" title="Wikcionario:Lo que Wikcionario no es">Wikcionario:Lo que Wikcionario no es</a></b></li>
+<li><b><a href="https://es.wikipedia.org/wiki/Wikipedia:Derechos_de_autor" class="extiw" title="w:Wikipedia:Derechos de autor">Derechos de autor</a></b> (página de Wikipedia)</li></ul>
+<h2><span id="Enlaces_.C3.BAtiles"></span><span class="mw-headline" id="Enlaces_útiles"><center style="background:#f5faff;">Enlaces útiles</center></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=10" title="Editar sección: Enlaces útiles">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="https://en.wikibooks.org/wiki/es:Manual_de_uso_wiki" class="extiw" title="wikibooks:es:Manual de uso wiki">Wikibooks:es:Manual de uso wiki</a>, para aprender a usar el software.</li>
+<li><a href="/wiki/Ayuda:Gu%C3%ADa_para_bibliotecarios" title="Ayuda:Guía para bibliotecarios">Ayuda:Guía para bibliotecarios</a></li></ul>
+<p><br clear="all" />
+</p>
+<h2><span class="mw-headline" id="Notas">Notas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit&amp;section=11" title="Editar sección: Notas">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Si necesitas realizar pruebas de una plantilla, puedes usar la plantilla <span style="font-family: monospace,&#39;Courier&#39;">{{<a href="/wiki/Plantilla:zona_de_pruebas" title="Plantilla:zona de pruebas">zona de pruebas</a>}}</span>.</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20200130072809
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.056 seconds
+Real time usage: 0.070 seconds
+Preprocessor visited node count: 206/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 551/2097152 bytes
+Template argument size: 136/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2202/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   32.930      1 -total
+ 17.12%    5.637      1 Plantilla:Tl
+  9.93%    3.271      1 Plantilla:encabezado_proyecto
+-->
+
+<!-- Saved in parser cache with key eswiktionary:pcache:idhash:1473-0!canonical and timestamp 20200130072809 and revision id 4742775
+ -->
+</div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/w/index.php?title=Wikcionario:Ayuda&amp;oldid=4742775">https://es.wiktionary.org/w/index.php?title=Wikcionario:Ayuda&amp;oldid=4742775</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Wikcionario" title="Categoría:Wikcionario">Wikcionario</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:Ayuda" title="Categoría:Wikcionario:Ayuda">Wikcionario:Ayuda</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Wikcionario%3AAyuda" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Wikcionario%3AAyuda" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikcionario:Ayuda" title="Ver la página del proyecto [a]" accesskey="a">Página del proyecto</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Wikcionario_discusi%C3%B3n:Ayuda&amp;action=edit&amp;redlink=1" rel="discussion" title="Discusión acerca de la página (la página no existe) [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikcionario:Ayuda">Leer</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		En otros proyectos
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Help:Contents" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/Help:Contents" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Help:Contents" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Help:Contents" hreflang="en">Wikiespecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://es.wikibooks.org/wiki/Wikilibros:Ayuda" hreflang="es">Wikilibros</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Help:Contents" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://es.wikinews.org/wiki/Ayuda:Contenidos" hreflang="es">Wikinoticias</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://es.wikipedia.org/wiki/Ayuda:Contenidos" hreflang="es">Wikipedia</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://es.wikiquote.org/wiki/Ayuda:Contenidos" hreflang="es">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://es.wikisource.org/wiki/Wikisource:Ayuda" hreflang="es">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://es.wikiversity.org/wiki/Ayuda:Ayuda" hreflang="es">Wikiversidad</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Wikcionario%3AAyuda">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Wikcionario%3AAyuda&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikcionario:Ayuda&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Wikcionario:Ayuda" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Wikcionario:Ayuda" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios relacionados</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikcionario:Ayuda&amp;oldid=4742775" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Wikcionario:Ayuda&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q914807" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wiktionary.org/wiki/Wiktionary:Hulp" title="Wiktionary:Hulp (afrikáans)" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wiktionary.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA" title="مساعدة:محتويات (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wiktionary.org/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat" title="Kömək:Mündəricat (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wiktionary.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA:%D0%9F%D1%8A%D1%80%D0%B2%D0%B8_%D1%81%D1%82%D1%8A%D0%BF%D0%BA%D0%B8" title="Уикиречник:Първи стъпки (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wiktionary.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A7%82%E0%A6%9A%E0%A6%BF" title="সাহায্য:সূচি (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wiktionary.org/wiki/Viccionari:Ajuda" title="Viccionari:Ajuda (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wiktionary.org/wiki/N%C3%A1pov%C4%9Bda:Obsah" title="Nápověda:Obsah (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wiktionary.org/wiki/Cymorth:Prif_dudalen" title="Cymorth:Prif dudalen (galés)" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wiktionary.org/wiki/Wiktionary:Hilfe" title="Wiktionary:Hilfe (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wiktionary.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CE%BB%CE%B5%CE%BE%CE%B9%CE%BA%CF%8C:%CE%92%CE%BF%CE%AE%CE%B8%CE%B5%CE%B9%CE%B1" title="Βικιλεξικό:Βοήθεια (griego)" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="Help:Contents (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wiktionary.org/wiki/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7:%D8%AF%D8%B1%D9%88%D9%86%E2%80%8C%D9%85%D8%A7%DB%8C%D9%87" title="راهنما:درون‌مایه (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/Aide:Sommaire" title="Aide:Sommaire (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wiktionary.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99" title="עזרה:תפריט ראשי (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wiktionary.org/wiki/Seg%C3%ADts%C3%A9g:Tartalom" title="Segítség:Tartalom (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wiktionary.org/wiki/Bantuan:Penyuntingan" title="Bantuan:Penyuntingan (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wiktionary.org/wiki/Aiuto:Aiuto" title="Aiuto:Aiuto (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wiktionary.org/wiki/%E3%83%98%E3%83%AB%E3%83%97:%E7%9B%AE%E6%AC%A1" title="ヘルプ:目次 (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84:%EB%8F%84%EC%9B%80%EB%A7%90" title="위키낱말사전:도움말 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-mi"><a href="https://mi.wiktionary.org/wiki/Help:Contents" title="Help:Contents (maorí)" lang="mi" hreflang="mi" class="interlanguage-link-target">Māori</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wiktionary.org/wiki/Bantuan:Kandungan" title="Bantuan:Kandungan (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/WikiWoordenboek:Hulp" title="WikiWoordenboek:Hulp (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wiktionary.org/wiki/Wiktionary:Hjelp" title="Wiktionary:Hjelp (noruego)" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/Wikis%C5%82ownik:Pomoc" title="Wikisłownik:Pomoc (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wiktionary.org/wiki/Ajuda:%C3%8Dndice" title="Ajuda:Índice (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wiktionary.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Викисловарь:Справка (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wiktionary.org/wiki/Help:Contents" title="Help:Contents (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wiktionary.org/wiki/Pitulung:Eusi" title="Pitulung:Eusi (sundanés)" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wiktionary.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99" title="วิธีใช้:วิธีการใช้งาน (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/Yard%C4%B1m:%C4%B0%C3%A7indekiler" title="Yardım:İçindekiler (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wiktionary.org/wiki/%D9%8A%D8%A7%D8%B1%D8%AF%DB%95%D9%85:%D9%85%DB%95%D8%B2%D9%85%DB%87%D9%86%D9%84%D8%A7%D8%B1" title="ياردەم:مەزمۇنلار (uigur)" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wiktionary.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:M%E1%BB%A5c_l%E1%BB%A5c" title="Trợ giúp:Mục lục (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/Wiktionary:%E5%B8%AE%E5%8A%A9" title="Wiktionary:帮助 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q914807#sitelinks-wiktionary" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 29 abr 2018 a las 16:39.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 3.0</a>;
+pueden aplicarse términos adicionales.
+Véase <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/es">Términos de uso</a> para más detalles.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Wikcionario:Ayuda&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.056","walltime":"0.070","ppvisitednodes":{"value":206,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":551,"limit":2097152},"templateargumentsize":{"value":136,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2202,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   32.930      1 -total"," 17.12%    5.637      1 Plantilla:Tl","  9.93%    3.271      1 Plantilla:encabezado_proyecto"]},"cachereport":{"origin":"mw1301","timestamp":"20200130072809","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":139,"wgHostname":"mw1320"});});</script></body></html>

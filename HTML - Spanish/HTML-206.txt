@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="uk" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Статистика — Вікіцитати</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","січень","лютий","березень","квітень","травень","червень","липень","серпень","вересень","жовтень","листопад","грудень"],"wgMonthNamesShort":["","січ","лют","бер","квіт","трав","чер","лип","сер","вер","жов","лис","груд"],"wgRequestId":"XljXWgpAMNEAAQ62iRsAAADP","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Statistics","wgNamespaceNumber":-1,"wgPageName":"Спеціальна:Статистика","wgTitle":"Статистика","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"uk",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Спеціальна:Статистика","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"uk","pageLanguageDir":"ltr","pageVariantFallbacks":"uk"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"українська","wgNoticeProject":"wikiquote","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1tqge",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"uk"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=uk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/static/favicon/wikiquote.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Вікіцитати (uk)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//uk.wikiquote.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Вікіцитати — Atom-стрічка" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&amp;feed=atom"/>
+<link rel="canonical" href="https://uk.wikiquote.org/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Statistics page-Спеціальна_Статистика rootpage-Спеціальна_Статистика skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="uk">Статистика</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти до навігації</a>
+		<a class="mw-jump-link" href="#p-search">Перейти до пошуку</a>
+		<div id="mw-content-text"><table class="wikitable mw-statistics-table"><tr><th colspan="2">Статистика сторінок</th></tr><tr class="mw-statistics-articles"><td><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A3%D1%81%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8&amp;hideredirects=1" title="Спеціальна:Усі сторінки">Статей</a></td><td class="mw-statistics-numbers">6189</td></tr><tr class="mw-statistics-pages"><td><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A3%D1%81%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Спеціальна:Усі сторінки">Сторінок</a><br /><small class="mw-statistic-desc"> (Усі сторінки у вікі, включаючи сторінки обговорень, перенаправлення тощо.)</small></td><td class="mw-statistics-numbers">29 707</td></tr><tr class="mw-statistics-files"><td><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:MediaStatistics" title="Спеціальна:MediaStatistics">Завантажено файлів</a></td><td class="mw-statistics-numbers">0</td></tr><tr><th colspan="2">Статистика редагувань</th></tr><tr class="mw-statistics-edits"><td>Кількість редагувань з моменту установки Вікіцитат</td><td class="mw-statistics-numbers">99 065</td></tr><tr class="mw-statistics-edits-average"><td>Середнє число редагувань на сторінку</td><td class="mw-statistics-numbers">3,33</td></tr><tr><th colspan="2">Статистика користувачів</th></tr><tr class="mw-statistics-users"><td>Зареєстрованих користувачів <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">13 042</td></tr><tr class="mw-statistics-users-active"><td>Активні користувачі <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%96_%D0%B4%D0%BE%D0%BF%D0%B8%D1%81%D1%83%D0%B2%D0%B0%D1%87%D1%96" title="Спеціальна:Активні дописувачі">(список членів)</a><br /><small class="mw-statistic-desc"> (Користувачі, які здійснили якусь дію протягом 30 минулих днів)</small></td><td class="mw-statistics-numbers">26</td></tr><tr class="statistics-group-bot"><td><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%91%D0%BE%D1%82%D0%B8" title="Вікіцитати:Боти">Боти</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=bot" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">11</td></tr><tr class="statistics-group-sysop"><td><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%90%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8" title="Вікіцитати:Адміністратори">Адміністратори</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=sysop" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">7</td></tr><tr class="statistics-group-interface-admin statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%90%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8_%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Адміністратори інтерфейсу (такої сторінки не існує)">Адміністратори інтерфейсу</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=interface-admin" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-bureaucrat"><td><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%91%D1%8E%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8" title="Вікіцитати:Бюрократи">Бюрократи</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=bureaucrat" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">2</td></tr><tr class="statistics-group-steward statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D0%B4%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Стюарди (такої сторінки не існує)">Стюарди</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=steward" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-accountcreator statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D1%8E%D0%B2%D0%B0%D1%87%D1%96_%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D1%85_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%96%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Створювачі облікових записів (такої сторінки не існує)">Створювачі облікових записів</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=accountcreator" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-import statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%86%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%B5%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Імпортери (такої сторінки не існує)">Імпортери</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=import" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-transwiki statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:Transwiki-%D1%96%D0%BC%D0%BF%D0%BE%D1%80%D1%82%D0%B5%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Transwiki-імпортери (такої сторінки не існує)">Transwiki-імпортери</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=transwiki" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-ipblock-exempt"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B7_%D0%B1%D0%BB%D0%BE%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_IP&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Виключення з блокування IP (такої сторінки не існує)">Виключення з IP-блокувань</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=ipblock-exempt" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">1</td></tr><tr class="statistics-group-oversight statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%A0%D0%B5%D0%B2%D1%96%D0%B7%D0%BE%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Ревізори (такої сторінки не існує)">Ревізори</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=oversight" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-checkuser statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%A7%D0%B5%D0%BA%27%D1%8E%D0%B7%D0%B5%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Чек&#039;юзери (такої сторінки не існує)">Чек&#039;юзери</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=checkuser" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-confirmed statistics-group-zero"><td><a href="/w/index.php?title=%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D1%96%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B6%D0%B5%D0%BD%D1%96_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96&amp;action=edit&amp;redlink=1" class="new" title="Вікіцитати:Підтверджені користувачі (такої сторінки не існує)">Підтверджені користувачі</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87%D1%96%D0%B2&amp;group=confirmed" title="Спеціальна:Список користувачів">(список членів)</a></td><td class="mw-statistics-numbers">0</td></tr><tr><th colspan="2">Інша статистика</th></tr><tr class="mw-statistics-hook" id="mw-cirrussearch-article-words"><td>Слова в усіх контентних сторінках</td><td class="mw-statistics-numbers">776 251</td></tr><tr class="mw-statistics-hook" id="mw-massmessage-queued-count"><td>У черзі <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:MassMessage" title="Спеціальна:MassMessage">масових повідомлень</a></td><td class="mw-statistics-numbers">0</td></tr></table><noscript><img src="//uk.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Отримано з <a dir="ltr" href="https://uk.wikiquote.org/wiki/Спеціальна:Статистика">https://uk.wikiquote.org/wiki/Спеціальна:Статистика</a></div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Навігаційне меню</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Особисті інструменти</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Ви не увійшли до системи</li>
+		<li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D0%BE%D1%94_%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" title="Обговорення редагувань з цієї IP-адреси [n]" accesskey="n">Обговорення</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D1%96%D0%B9_%D0%B2%D0%BD%D0%B5%D1%81%D0%BE%D0%BA" title="Список редагувань, зроблених з цієї IP-адреси [y]" accesskey="y">Внесок</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8_%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81&amp;returnto=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%3A%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Пропонуємо створити обліковий запис і увійти в систему; однак, це не обов&#039;язково">Створити обліковий запис</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%3A%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Заохочуємо Вас увійти в систему, але це необов&#039;язково. [o]" accesskey="o">Увійти</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Простори назв</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Це спеціальна сторінка, вона недоступна для редагування">Спеціальна сторінка</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Варіанти</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Перегляди</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Ще</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Пошук</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Пошук у Вікіцитатах" title="Шукати у Вікіцитат [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Спеціальна:Пошук" name="title"/>
+			<input type="submit" name="fulltext" value="Знайти" title="Знайти сторінки, що містять зазначений текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Перейти" title="Перейти до сторінки, що має точно таку назву (якщо вона існує)" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Перейти на головну сторінку" class="mw-wiki-logo" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Навігація
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на Головну сторінку [z]" accesskey="z">Головна сторінка</a></li><li id="n-currentevents"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Список поточних подій">Поточні події</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Список останніх змін у цій вікі [r]" accesskey="r">Нові редагування</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8">Нові сторінки</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Переглянути випадкову сторінку [x]" accesskey="x">Випадкова стаття</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Участь"  aria-labelledby="p-Участь-label">
+	<h3  id="p-Участь-label">
+		Участь
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B8" title="Про проект, про те, що Ви можете зробити, і що де шукати">Портал спільноти</a></li><li id="n-Кнайпа"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0">Кнайпа</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Довідка з проекту">Довідка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_uk.wikiquote.org&amp;uselang=uk" title="Підтримайте проект">Пожертвувати</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Інструменти
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=uk" title="Завантажити файли [u]" accesskey="u">Завантажити файл</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Перелік спеціальних сторінок [q]" accesskey="q">Спеціальні сторінки</a></li><li id="t-print"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;printable=yes" rel="alternate" title="Версія цієї сторінки для друку [p]" accesskey="p">Версія до друку</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Іншими мовами
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Політика конфіденційності</a></li>
+		<li id="footer-places-about"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D1%80%D0%BE" class="mw-redirect" title="Вікіцитати:Про">Про Вікіцитати</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіцитати:Відмова від відповідальності">Відмова від відповідальності</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Розробники</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/uk.wikiquote.org">Статистика</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Куки</a></li>
+		<li id="footer-places-mobileview"><a href="//uk.m.wikiquote.org/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобільний вигляд</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1367"});});</script></body></html>

@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikivoyage:Help – Travel guide at Wikivoyage</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XldCvQpAMFYAAH9gLTQAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikivoyage:Help","wgTitle":"Help","wgCurRevisionId":3815574,"wgRevisionId":3815574,"wgArticleId":68880,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikivoyage help"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikivoyage:Help","wgRelevantArticleId":68880,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikivoyage","wgWikibaseItemId":"Q914807","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.ui.button":"ready",
+"mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.Carousel","ext.gadget.ListingEditor","ext.gadget.MapFrame","ext.gadget.exlinks","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.toctree","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Wikivoyage:Help&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Wikivoyage:Help&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikivoyage.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikivoyage (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikivoyage.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikivoyage Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikivoyage.org/wiki/Wikivoyage:Help"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject mw-editable page-Wikivoyage_Help rootpage-Wikivoyage_Help skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikivoyage:Help</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikivoyage</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="width:100%; border-spacing:5px 1px;">
+
+<tbody><tr>
+<td style="width:33%; padding:10px; vertical-align:top; background-color:#ddddff;">
+<div class="floatright"><a href="/wiki/File:Gnome-help-faq.svg" class="image"><img alt="Gnome-help-faq.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gnome-help-faq.svg/150px-Gnome-help-faq.svg.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gnome-help-faq.svg/225px-Gnome-help-faq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Gnome-help-faq.svg/300px-Gnome-help-faq.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div>
+<p>We have information about <i>understanding</i> what Wikivoyage is, how to use Wikivoyage to find travel information, <i>contributing</i> to Wikivoyage, and how to reuse the guides.
+</p><p>If you have questions that aren't answered here, try checking the <a href="/wiki/Wikivoyage:FAQ" title="Wikivoyage:FAQ">FAQ</a>, or ask a question in the <a href="/wiki/Wikivoyage:Travellers%27_pub" title="Wikivoyage:Travellers&#39; pub">travellers' pub</a>.
+</p>
+<div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="mw-inputbox-input searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="30" dir="ltr" /><input type="hidden" value="Wikivoyage:" name="prefix" /><br /><input type="submit" name="fulltext" class="mw-ui-button" value="Search help pages" /><input type="hidden" value="Search" name="fulltext" /></form></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Understand"><span class="tocnumber">1</span> <span class="toctext">Understand</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Finding_travel_information"><span class="tocnumber">2</span> <span class="toctext">Finding travel information</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Contribute"><span class="tocnumber">3</span> <span class="toctext">Contribute</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Talk"><span class="tocnumber">4</span> <span class="toctext">Talk</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Re-use"><span class="tocnumber">5</span> <span class="toctext">Re-use</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Reference"><span class="tocnumber">6</span> <span class="toctext">Reference</span></a></li>
+</ul>
+</div>
+
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Understand">Understand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit&amp;section=1" title="Edit section: Understand">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikivoyage:About" title="Wikivoyage:About">About Wikivoyage</a></li>
+<li><a href="/wiki/Wikivoyage:Welcome,_newcomers" title="Wikivoyage:Welcome, newcomers">Welcome, newcomers</a>
+<ul><li><a href="/wiki/Wikivoyage:Welcome,_Wikipedians" title="Wikivoyage:Welcome, Wikipedians">Welcome, Wikipedians</a> - we're very much like—and unlike—that great encyclopedia</li>
+<li><a href="/wiki/Wikivoyage:Welcome,_business_owners" title="Wikivoyage:Welcome, business owners">Welcome, business owners</a> - hoteliers, restauranteurs, barkeepers, etc.</li>
+<li><a href="/wiki/Wikivoyage:Welcome,_tourism_professionals" title="Wikivoyage:Welcome, tourism professionals">Welcome, tourism professionals</a> - we're all about cooperation</li></ul></li>
+<li><a href="/wiki/Wikivoyage:FAQ" title="Wikivoyage:FAQ">FAQ</a> - fearfully anticipated questions... and answers.</li>
+<li><a href="/wiki/Wikivoyage:Copyleft" title="Wikivoyage:Copyleft">Copyleft</a> - information about the license and philosophy that guides this site</li></ul>
+<h2><span class="mw-headline" id="Finding_travel_information">Finding travel information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit&amp;section=2" title="Edit section: Finding travel information">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikivoyage:Welcome,_newcomers#Finding_travel_information" title="Wikivoyage:Welcome, newcomers">Finding travel information</a> (part of the <a href="/wiki/Wikivoyage:Welcome,_newcomers" title="Wikivoyage:Welcome, newcomers">Welcome, newcomers</a> page)</li>
+<li>List of <a href="/wiki/Itineraries" title="Itineraries">itineraries</a></li>
+<li>Directory of <a href="/wiki/Travel_topics" title="Travel topics">travel topics</a></li>
+<li><a href="https://www.mediawiki.org/wiki/Help:Searching" class="extiw" title="mw:Help:Searching">Help for the search function</a></li></ul>
+<h2><span class="mw-headline" id="Contribute">Contribute</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit&amp;section=3" title="Edit section: Contribute">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikivoyage:Quick_contribution_guide" title="Wikivoyage:Quick contribution guide">Quick contribution guide</a> - eager to get contributing?  A guide to making a useful contribution to Wikivoyage in just a few minutes</li>
+<li><a href="/wiki/Wikivoyage:Tips_for_new_contributors" title="Wikivoyage:Tips for new contributors">Tips for new contributors</a> - useful information for first-time contributors</li>
+<li><a href="/wiki/Wikivoyage:Manual_of_style" title="Wikivoyage:Manual of style">Manual of style</a> - spelling, layout, formatting rules and <a href="/wiki/Wikivoyage:Article_skeleton_templates" title="Wikivoyage:Article skeleton templates">article skeletons</a></li>
+<li><a href="/wiki/Wikivoyage:Policies" title="Wikivoyage:Policies">Policies and guidelines</a> - an index of all Wikivoyage policy guidelines</li>
+<li><a href="/wiki/Wikivoyage:Ways_to_help_Wikivoyage" title="Wikivoyage:Ways to help Wikivoyage">Ways to help Wikivoyage</a> - writers, editors, photographers and cheerleaders are all needed</li>
+<li><a href="/wiki/Wikivoyage:How_to" title="Wikivoyage:How to">How to</a> - step by step instructions for specific tasks
+<ul><li><a href="/wiki/Wikivoyage:How_to_edit_a_page" title="Wikivoyage:How to edit a page">How to edit a page</a></li>
+<li><a href="/wiki/Wikivoyage:Wiki_markup" title="Wikivoyage:Wiki markup">Wiki markup</a> - how to add links, boldface, headings and lots more</li>
+<li><a href="/wiki/Wikivoyage:Geocoding" title="Wikivoyage:Geocoding">Geocoding</a>, creating <a href="/wiki/Wikivoyage:How_to_draw_static_maps" title="Wikivoyage:How to draw static maps">static</a> and <a href="/wiki/Wikivoyage:How_to_use_dynamic_maps" title="Wikivoyage:How to use dynamic maps">dynamic maps</a>.</li>
+<li><a href="/wiki/Wikivoyage:Banners" title="Wikivoyage:Banners">Banners</a>, creating cropped images for page banners</li></ul></li>
+<li><a href="/wiki/Wikivoyage:Software_features" title="Wikivoyage:Software features">Software features</a> - guides to using MediaWiki functions</li></ul>
+<h2><span class="mw-headline" id="Talk">Talk</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit&amp;section=4" title="Edit section: Talk">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikivoyage:Travellers%27_pub" title="Wikivoyage:Travellers&#39; pub">Travellers' pub</a> - for general discussions about Wikivoyage</li>
+<li><a href="/wiki/Wikivoyage:Arrivals_lounge" title="Wikivoyage:Arrivals lounge">Wikivoyage:Arrivals lounge</a> - a place for new contributors to post questions about Wikivoyage and get responses from experienced contributors.</li>
+<li><a href="/wiki/Wikivoyage:Using_talk_pages" title="Wikivoyage:Using talk pages">Project:Using talk pages</a> - to communicate with other users directly.</li>
+<li><a href="/wiki/Wikivoyage:Jargon" title="Wikivoyage:Jargon">Wikivoyage jargon</a> - explains some of the abbreviations, words and phrases used in discussions, edit summaries etc.</li>
+<li><a href="/wiki/Wikivoyage:Bug_reports_and_feature_requests" title="Wikivoyage:Bug reports and feature requests">Bug reports and feature requests</a></li>
+<li><a href="/wiki/Wikivoyage:Babel" title="Wikivoyage:Babel">Babel</a> - language indicators on user home pages</li>
+<li><a href="/wiki/Wikivoyage:Wikivoyagers_by_location" title="Wikivoyage:Wikivoyagers by location">Wikivoyagers by location</a> - if you need help from a local, and there are no <a href="/wiki/Wikivoyage:Docents" title="Wikivoyage:Docents">docents</a> for the destination yet, try one of these people</li>
+<li><a href="/wiki/Wikivoyage:Get-together" title="Wikivoyage:Get-together">Get-together</a></li></ul>
+<h2><span class="mw-headline" id="Re-use">Re-use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit&amp;section=5" title="Edit section: Re-use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikivoyage:How_to_re-use_Wikivoyage_guides" title="Wikivoyage:How to re-use Wikivoyage guides">How to re-use travel guides</a> - see how you can reuse our free travel guides in your application or website.</li></ul>
+<h2><span class="mw-headline" id="Reference">Reference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit&amp;section=6" title="Edit section: Reference">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikivoyage:Namespace_index" title="Wikivoyage:Namespace index">Namespace index</a> - all the pages in the Wikivoyage: namespace</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1294
+Cached time: 20200130072809
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.032 seconds
+Real time usage: 0.042 seconds
+Preprocessor visited node count: 82/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 123/2097152 bytes
+Template argument size: 4/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 479/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.202      1 Template:WikivoyageDoc
+100.00%    4.202      1 -total
+-->
+
+<!-- Saved in parser cache with key enwikivoyage:pcache:idhash:68880-0!canonical and timestamp 20200130072809 and revision id 3815574
+ -->
+</div><noscript><img src="//en.wikivoyage.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikivoyage.org/w/index.php?title=Wikivoyage:Help&amp;oldid=3815574">https://en.wikivoyage.org/w/index.php?title=Wikivoyage:Help&amp;oldid=3815574</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Wikivoyage_help" title="Category:Wikivoyage help">Wikivoyage help</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikivoyage%3AHelp" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikivoyage%3AHelp" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikivoyage:Help" title="View the project page [a]" accesskey="a">Project page</a></li><li id="ca-talk"><a href="/wiki/Wikivoyage_talk:Help" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikivoyage:Help">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikivoyage:Help&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikivoyage:Help&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikivoyage" title="Search Wikivoyage [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-Main-page"><a href="/wiki/Main_Page">Main page</a></li><li id="n-Travel-destinations"><a href="/wiki/Destinations">Travel destinations</a></li><li id="n-Star-articles"><a href="/wiki/Star_articles">Star articles</a></li><li id="n-What&#039;s-Nearby?"><a href="/wiki/Special:Nearby">What's Nearby?</a></li><li id="n-Tourist-office"><a href="/wiki/Wikivoyage:Tourist_office">Tourist office</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Get involved"  aria-labelledby="p-Get involved-label">
+	<h3  id="p-Get involved-label">
+		Get involved
+	</h3>
+	<div class="body">
+		<ul><li id="n-Travellers&#039;-pub"><a href="/wiki/Wikivoyage:Travellers%27_pub">Travellers' pub</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-portal"><a href="/wiki/Wikivoyage:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-Maintenance-panel"><a href="/wiki/Wikivoyage:Maintenance_panel">Maintenance panel</a></li><li id="n-Policies"><a href="/wiki/Wikivoyage:Policies">Policies</a></li><li id="n-help"><a href="/wiki/Wikivoyage:Help" title="The place to find out">Help</a></li><li id="n-Interlingual-lounge"><a href="//meta.wikimedia.org/wiki/Wikivoyage/Lounge">Interlingual lounge</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=spontaneous&amp;uselang=en" title="Support us">Donate</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikivoyage:Help" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikivoyage:Help" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//en.wikivoyage.org/wiki/Wikivoyage:Upload_file" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikivoyage:Help&amp;oldid=3815574" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikivoyage:Help&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q914807" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		In other projects
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Help:Contents" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/Help:Contents" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Help:Contents" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Help:Contents" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Help:Contents" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Help:Contents" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Help:Contents" hreflang="en">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://en.wikipedia.org/wiki/Help:Contents" hreflang="en">Wikipedia</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Help:Contents" hreflang="en">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Help:Contents" hreflang="en">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Help:Contents" hreflang="en">Wikiversity</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://en.wiktionary.org/wiki/Help:Contents" hreflang="en">Wiktionary</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikivoyage%3AHelp">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikivoyage%3AHelp&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikivoyage:Help&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikivoyage.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%A3:%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF" title="উইকিভ্রমণ:সাহায্য – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikivoyage.org/wiki/Hilfe:Themen%C3%BCbersicht" title="Hilfe:Themenübersicht – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikivoyage.org/wiki/Aide:Accueil" title="Aide:Accueil – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikivoyage.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%AA%D7%A4%D7%A8%D7%99%D7%98_%D7%A8%D7%90%D7%A9%D7%99" title="עזרה:תפריט ראשי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikivoyage.org/wiki/Aiuto:Aiuto" title="Aiuto:Aiuto – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikivoyage.org/wiki/Wikivoyage:Hulp" title="Wikivoyage:Hulp – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikivoyage.org/wiki/Wikipodr%C3%B3%C5%BCe:Pomoc" title="Wikipodróże:Pomoc – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikivoyage.org/wiki/Wikivoyage:Ajuda" title="Wikivoyage:Ajuda – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikivoyage.org/wiki/Wikivoyage:Ajutor" title="Wikivoyage:Ajutor – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikivoyage.org/wiki/Wikivoyage:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Wikivoyage:Справка – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikivoyage.org/wiki/Wikivoyage:Hj%C3%A4lp" title="Wikivoyage:Hjälp – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikivoyage.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B8:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Вікімандри:Довідка – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikivoyage.org/wiki/Wikivoyage:%E5%B8%AE%E5%8A%A9" title="Wikivoyage:帮助 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q914807#sitelinks-wikivoyage" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-credits">This page was last edited at 00:54, on 22 July 2019 by Wikivoyage user <a href="/wiki/User:Mx._Granger" title="User:Mx. Granger">Mx. Granger</a>. Based on work by Wikivoyage users <a href="/wiki/User:Moheen" title="User:Moheen">Moheen</a>, <a href="/wiki/User:Traveler100" title="User:Traveler100">Traveler100</a>, <a href="/w/index.php?title=User:Ramshed_Ali&amp;action=edit&amp;redlink=1" class="new" title="User:Ramshed Ali (page does not exist)">Ramshed Ali</a>, <a href="/wiki/User:K7L" title="User:K7L">K7L</a>, <a href="/wiki/User:Ground_Zero" title="User:Ground Zero">Ground Zero</a>, <a href="/wiki/User:PlyrStar93" title="User:PlyrStar93">PlyrStar93</a>, <a href="/wiki/User:Hobbitschuster" title="User:Hobbitschuster">Hobbitschuster</a> and <a href="/wiki/User:Nurg" title="User:Nurg">Nurg</a>, Wikivoyage anonymous user <a href="/wiki/Special:Contributions/63.92.244.137" title="Special:Contributions/63.92.244.137">63.92.244.137</a> and <a href="/w/index.php?title=Wikivoyage:Help&amp;action=credits" title="Wikivoyage:Help">others</a>.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikivoyage:About" title="Wikivoyage:About">About Wikivoyage</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikivoyage:Disclaimer" title="Wikivoyage:Disclaimer">Disclaimer</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikivoyage.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikivoyage.org/w/index.php?title=Wikivoyage:Help&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.032","walltime":"0.042","ppvisitednodes":{"value":82,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":123,"limit":2097152},"templateargumentsize":{"value":4,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":479,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%    4.202      1 Template:WikivoyageDoc","100.00%    4.202      1 -total"]},"cachereport":{"origin":"mw1294","timestamp":"20200130072809","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":126,"wgHostname":"mw1251"});});</script></body></html>

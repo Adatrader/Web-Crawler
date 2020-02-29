@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikimedia - Wikiversity</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgJ-ApAADoAAIi3qwoAAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wikimedia","wgTitle":"Wikimedia","wgCurRevisionId":1674738,"wgRevisionId":1674738,"wgArticleId":14928,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikiversity development","Wikimedia","Bomis"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikimedia","wgRelevantArticleId":14928,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikiversity","wgWikibaseItemId":"Q3568028","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgSiteNoticeId":"2.90"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikimedia&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikimedia&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikiversity.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikiversity (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikiversity.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikiversity Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikiversity.org/wiki/Wikimedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wikimedia rootpage-Wikimedia skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Edismiss\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003Cdiv class=\"center\" style=\"\"\u003E\n\u003Cbig\u003E\u003Ca href=\"/wiki/Wikiversity:Why_create_an_account%3F\" class=\"mw-redirect\" title=\"Wikiversity:Why create an account?\"\u003EWhy create a Wikiversity account?\u003C/a\u003E\u003C/big\u003E\u003C/div\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikimedia</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikiversity</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><a class="mw-selflink selflink">Wikimedia</a> is a shorthand term for the <b><a href="https://meta.wikimedia.org/wiki/Wikimedia_Foundation" class="extiw" title="meta:Wikimedia Foundation">Wikimedia Foundation</a></b>, an aggregation of sisterprojects comprising what can be called a <a href="/wiki/Metacommunity" title="Metacommunity">Metacommunity</a>:
+</p>
+<table style="background-color:transparent;">
+
+<tbody><tr>
+<td colspan="2"><small>The links below lead to the main <i>community pages</i> of the projects.<br />All of these projects are <a href="https://en.wikipedia.org/wiki/Multilingual_coordination" class="extiw" title="w:Multilingual coordination">multilingual</a> and <a href="https://en.wikipedia.org/wiki/Copyrights" class="extiw" title="w:Copyrights">open-content</a>.</small>
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://meta.wikimedia.org/wiki/Goings-on" class="extiw" title="m:Goings-on"><b>Meta-Wiki</b></a>&#160;&#8211;
+</td>
+<td>Coordination of all Wikimedia projects.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://en.wikipedia.org/wiki/Wikipedia:Community_Portal" class="extiw" title="w:Wikipedia:Community Portal">Wikipedia</a>&#160;&#8211;
+</td>
+<td>The free encyclopedia.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://en.wiktionary.org/wiki/Wiktionary:Community_Portal" class="extiw" title="wikt:Wiktionary:Community Portal">Wiktionary</a>&#160;&#8211;
+</td>
+<td>A collaborative multilingual dictionary.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://en.wikinews.org/wiki/Wikinews:Workspace" class="extiw" title="n:Wikinews:Workspace">Wikinews</a>&#160;&#8211;
+</td>
+<td>News stories written by readers.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://en.wikibooks.org/wiki/Wikibooks:Community_Portal" class="extiw" title="b:Wikibooks:Community Portal">Wikibooks</a>&#160;&#8211;
+</td>
+<td>A collection of collaborative textbooks.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://en.wikiquote.org/wiki/Wikiquote:Community_Portal" class="extiw" title="q:Wikiquote:Community Portal">Wikiquote</a>&#160;&#8211;
+</td>
+<td>A compendium of referenced quotations.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://en.wikisource.org/wiki/Wikisource:Community_Portal" class="extiw" title="s:Wikisource:Community Portal">Wikisource</a>&#160;&#8211;
+</td>
+<td>A repository for free source texts.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://species.wikimedia.org/wiki/Wikispecies:Community_Portal" class="extiw" title="wikispecies:Wikispecies:Community Portal">Wikispecies</a>&#160;&#8211;
+</td>
+<td>A directory of species.
+</td></tr>
+<tr valign="top">
+<td align="right"><a href="https://commons.wikimedia.org/wiki/Commons:Community_Portal" class="extiw" title="commons:Commons:Community Portal">Commons</a>&#160;&#8211;
+</td>
+<td>Repository for free images and other media files.
+</td></tr></tbody></table>
+<p>The <b>Wikimedia Foundation, Inc.</b> is the parent organization of the <b><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, <a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>, <a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a>, <a href="/wiki/Wikibooks" title="Wikibooks">Wikibooks</a></b> (including <a href="https://en.wikipedia.org/wiki/Wikijunior" class="extiw" title="w:Wikijunior">Wikijunior</a>), <b><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a>, <a href="/wiki/Wikimedia_Commons" class="mw-redirect" title="Wikimedia Commons">Wikimedia Commons</a>, <a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>, <a href="/wiki/Wikinews" title="Wikinews">Wikinews</a>, <a href="/wiki/Wikiversity" class="mw-redirect" title="Wikiversity">Wikiversity</a></b>, and <b><a href="/wiki/Meta-Wiki" class="mw-redirect" title="Meta-Wiki">Meta</a></b> collaborative projects. It is a <b><a href="/wiki/Wikiversity_NPC" class="mw-redirect" title="Wikiversity NPC">not-for-profit corporation</a></b> based in <a href="https://en.wikipedia.org/wiki/St._Petersburg,_Florida" class="extiw" title="w:St. Petersburg, Florida">St. Petersburg</a>, <b><a href="/wiki/USA" class="mw-redirect" title="USA">USA</a></b>, and organized under the laws of the state of <a href="https://en.wikipedia.org/wiki/Florida" class="extiw" title="w:Florida">Florida</a>. Its existence was officially announced by <a href="https://en.wikipedia.org/wiki/Jimmy_Wales" class="extiw" title="w:Jimmy Wales">Jimmy Wales</a>, who was hitherto running Wikipedia within his company <a href="https://en.wikipedia.org/wiki/Bomis" class="extiw" title="w:Bomis">Bomis</a>, on <a href="https://en.wikipedia.org/wiki/June_20" class="extiw" title="w:June 20">June 20</a>, <a href="https://en.wikipedia.org/wiki/2003" class="extiw" title="w:2003">2003</a>. Its approval by the U.S. <a href="https://en.wikipedia.org/wiki/Internal_Revenue_Service" class="extiw" title="w:Internal Revenue Service">Internal Revenue Service</a>, by letter in April 2005, as an educational foundation in the category "Adult, Continuing Education" means all contributions to the Wikimedia Foundation are <a href="https://en.wikipedia.org/wiki/Tax_deduction" class="extiw" title="w:Tax deduction">tax deductible</a> for U.S. federal income tax purposes. <i>see <a href="https://en.wikipedia.org/wiki/Wikimedia_Foundation" class="extiw" title="w:Wikimedia Foundation">w:Wikimedia Foundation</a> for more information</i>
+</p><p><br />
+<small>NOTE: links in <b>bold text</b> are to local Wikiversity pages</small>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Wikiversity_and_Wikimedia"><span class="tocnumber">1</span> <span class="toctext">Wikiversity and Wikimedia</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Lab:_Establishing_Wikiversity&#39;s_role_and_context"><span class="tocnumber">1.1</span> <span class="toctext">Lab: Establishing Wikiversity's role and context</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Lab:_Strengthening_Wikiversity"><span class="tocnumber">1.2</span> <span class="toctext">Lab: Strengthening Wikiversity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Wikiversity_and_Wikimedia">Wikiversity and Wikimedia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=1" title="Edit section: Wikiversity and Wikimedia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="messagebox cleanup metadata plainlinks">
+<table style="width:100%;background:none;">
+<tbody><tr>
+<td style="width:60px;text-align:center;vertical-align:top;padding:.3em;"><a href="/wiki/File:Nuvola_apps_kfig.svg" class="image" title="Dev icon"><img alt="Dev icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/40px-Nuvola_apps_kfig.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/60px-Nuvola_apps_kfig.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Nuvola_apps_kfig.svg/80px-Nuvola_apps_kfig.svg.png 2x" data-file-width="109" data-file-height="110" /></a>
+</td>
+<td>This article is about the <b>development of <a href="/wiki/Wikiversity" class="mw-redirect" title="Wikiversity">Wikiversity</a></b>. <br />Please help Wikiversity by adding your ideas about what Wikiversity should become, or what it should do.
+</td></tr></tbody></table></div>
+<p>Wikiversity has a definite <b>role</b> within the Wikimedia <a href="/wiki/Metacommunity" title="Metacommunity">Metacommunity</a>. This learning project focuses on how to define and extend that role within a universal or university context, applying the traditional paradigm of how universities collect learning resourses and apply them to real-world needs. Because <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> focuses on the encyclopedic context, it must maintain a neutral point of view, prohibit and discourage <a href="/wiki/Wikiversity:Original_research" title="Wikiversity:Original research">original research</a>, prohibit and discourage <a href="https://en.wikipedia.org/wiki/Wikipedia:Avoid_self-references" class="extiw" title="w:Wikipedia:Avoid self-references">self references</a> and other aspects of creating content that <b><a href="/wiki/UML/Glossary" title="UML/Glossary">constrain</a></b> it to the encyclopedic realm. Wikiversity, conversely, can enter these prohibitive spaces from the universal or university context. Let's give it a whirl...
+</p>
+<h3><span id="Lab:_Establishing_Wikiversity.27s_role_and_context"></span><span class="mw-headline" id="Lab:_Establishing_Wikiversity's_role_and_context">Lab: Establishing Wikiversity's role and context</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=2" title="Edit section: Lab: Establishing Wikiversity&#039;s role and context">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Wikiversity" class="mw-redirect" title="Wikiversity">Wikiversity</a> has a <b><a href="/wiki/UML/Glossary" title="UML/Glossary">role</a></b> to perform within the <a class="mw-selflink selflink">Wikimedia</a> context and within a much larger <b><a href="/wiki/Internet" title="Internet">Internet</a></b> context. This <a href="/wiki/Learning_project" class="mw-redirect" title="Learning project">learning project</a> lab will focus on creating a <a href="/wiki/UML" title="UML">relationship diagram</a> that shows what Wikimedia looks like. We begin by working with <a href="/wiki/Wikiversity:Templates" title="Wikiversity:Templates">templates</a>, starting with &#123;&#123;<a href="/wiki/Template:Wikiversitysister-list" title="Template:Wikiversitysister-list">Wikiversitysister-list</a>&#125;&#125; and &#123;&#123;<a href="/wiki/Template:WikiversityUsers" title="Template:WikiversityUsers">WikiversityUsers</a>&#125;&#125;.
+</p><p><b>Challenge:</b> Create local articles for each of the <b>Wikimedia collaborative projects:</b>
+</p>
+<ul><li><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a></li>
+<li><a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a></li>
+<li><a href="/wiki/Wikiquote" title="Wikiquote">Wikiquote</a></li>
+<li><a href="/wiki/Wikibooks" title="Wikibooks">Wikibooks</a> (including <a href="https://en.wikipedia.org/wiki/Wikijunior" class="extiw" title="w:Wikijunior">Wikijunior</a>)</li>
+<li><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></li>
+<li><a href="/wiki/Wikimedia_Commons" class="mw-redirect" title="Wikimedia Commons">Wikimedia Commons</a></li>
+<li><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a></li>
+<li><a href="/wiki/Wikinews" title="Wikinews">Wikinews</a></li>
+<li><a href="/wiki/Wikiversity" class="mw-redirect" title="Wikiversity">Wikiversity</a></li>
+<li><a href="/wiki/Meta-Wiki" class="mw-redirect" title="Meta-Wiki">Meta-Wiki</a></li></ul>
+<p><br />
+Include in these articles an opening statement based on the Wikipedia article of the same name. Include also a section <b>Wikiversity and ...</b> like this one.
+</p><p><b>Discussion:</b> Get in touch with folks like Jimbo, Angela, and other Wikimedia heavyweights. Let them know that we are interested in studying Wikimedia from the university perspective. Contact mediawiki developers, stewards, admins and other folks that help form policies and guidelines for Wikimedia collaborative efforts.
+</p>
+<h3><span class="mw-headline" id="Lab:_Strengthening_Wikiversity">Lab: Strengthening Wikiversity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=3" title="Edit section: Lab: Strengthening Wikiversity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Learning_to_learn_a_wiki_way" title="Learning to learn a wiki way">Learning to learn a wiki way</a> article focuses on a "learn-by-doing" model. This model defines Wikiversity as a <a href="https://en.wikipedia.org/wiki/learning_community" class="extiw" title="w:learning community">learning community</a>. We can develop visualization tools through <a href="/wiki/Wikiversity:Templates" title="Wikiversity:Templates">templates</a>, <a href="/wiki/UML" title="UML">diagrams</a>, <a href="/wiki/Portal:Portals" title="Portal:Portals">Portals</a>, <a href="/wiki/Help:Link" class="mw-redirect" title="Help:Link">navigational aids</a>, <a href="/wiki/Learning_object" class="mw-redirect" title="Learning object">learning objects</a> and a number of other instruments.
+</p><p>
+Example: &#123;&#123;<a href="/wiki/Template:Daughters" title="Template:Daughters">daughters</a>&#125;&#125; </p><div style="">
+<p><a href="/wiki/Meta" title="Meta"><img alt="Wikimedia Community Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/25px-Wikimedia_Community_Logo.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/38px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/50px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a>
+<a href="/wiki/Wikipedia" title="Wikipedia"><img alt="Wikipedia-logo-v2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/25px-Wikipedia-logo-v2.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/38px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/50px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></a>
+<a href="/wiki/Wiktionary" title="Wiktionary"><img alt="Wiktionary-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/25px-Wiktionary-logo.svg.png" decoding="async" width="25" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/38px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/50px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a>
+<a href="/wiki/Wikibooks" title="Wikibooks"><img alt="Wikibooks-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/25px-Wikibooks-logo.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/38px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/50px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a> 
+<a href="/wiki/Wikiquote" title="Wikiquote"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/25px-Wikiquote-logo.svg.png" decoding="async" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/38px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/50px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a>
+<a href="/wiki/Wikisource" title="Wikisource"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/25px-Wikisource-logo.svg.png" decoding="async" width="25" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/50px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>
+<a href="/wiki/Wikinews" title="Wikinews"><img alt="Wikinews-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" decoding="async" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></a>
+<a href="/wiki/Wikiversity" title="Wikiversity"><img alt="Wikiversity-logo-en.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/25px-Wikiversity-logo-en.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/38px-Wikiversity-logo-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Wikiversity-logo-en.svg/50px-Wikiversity-logo-en.svg.png 2x" data-file-width="1000" data-file-height="900" /></a>
+<a href="/wiki/Wikispecies" title="Wikispecies"><img alt="Wikispecies-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/25px-Wikispecies-logo.svg.png" decoding="async" width="25" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/38px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/50px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a>
+<a href="/wiki/Commons" title="Commons"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" decoding="async" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>
+<a href="/wiki/Wikidata" title="Wikidata"><img alt="Wikidata-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/25px-Wikidata-logo.svg.png" decoding="async" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/38px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>
+<a href="/wiki/Wikivoyage" title="Wikivoyage"><img alt="Wikivoyage-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/25px-Wikivoyage-logo.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/38px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/50px-Wikivoyage-logo.svg.png 2x" data-file-width="193" data-file-height="193" /></a>
+<a href="/wiki/MediaWiki" title="MediaWiki"><img alt="MediaWiki-notext.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MediaWiki-notext.svg/25px-MediaWiki-notext.svg.png" decoding="async" width="25" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MediaWiki-notext.svg/38px-MediaWiki-notext.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/MediaWiki-notext.svg/50px-MediaWiki-notext.svg.png 2x" data-file-width="685" data-file-height="530" /></a>
+</p>
+</div>
+<p><br />
+<b>Challenge:</b> Create a lab series based on this one for each sister project linking to appropriate <a href="/wiki/Wikiversity:Schools" title="Wikiversity:Schools">Schools</a>, <a href="/wiki/Portal:Portals" title="Portal:Portals">Portals</a> and other local learning resources and groups:
+</p>
+<ul><li><a href="/wiki/Wikipedia#Wikiversity_and_Wikipedia" title="Wikipedia">Wikiversity and Wikipedia</a></li>
+<li><a href="/wiki/Wiktionary#Wikiversity_and_Wiktionary" title="Wiktionary">Wikiversity and Wiktionary</a></li>
+<li><a href="/wiki/Wikiquote#Wikiversity_and_Wikiquote" title="Wikiquote">Wikiversity and Wikiquote</a></li>
+<li><a href="/wiki/Wikibooks#Wikiversity_and_Wikibooks" title="Wikibooks">Wikiversity and Wikibooks</a></li>
+<li><a href="/wiki/Wikisource#Wikiversity_and_Wikisource" title="Wikisource">Wikiversity and Wikisource</a></li>
+<li><a href="/wiki/Wikimedia_Commons#Wikiversity_and_the_Wikimedia_Commons" class="mw-redirect" title="Wikimedia Commons">Wikiversity and the Wikimedia Commons</a></li>
+<li><a href="/wiki/Wikispecies#Wikiversity_and_Wikispecies" title="Wikispecies">Wikiversity and Wikispecies</a></li>
+<li><a href="/wiki/Wikinews#Wikiversity_and_Wikinews" title="Wikinews">Wikiversity and Wikinews</a></li>
+<li><a href="/wiki/Meta-Wiki#Wikiversity_and_Meta-Wiki" class="mw-redirect" title="Meta-Wiki">Wikiversity and Meta-Wiki</a></li></ul>
+<p>Edit the <a href="/wiki/Wikiversity" class="mw-redirect" title="Wikiversity">Wikiversity</a> article to include links to the new local articles. Update &#123;&#123;<a href="/wiki/Template:Wikiversitysister-list" title="Template:Wikiversitysister-list">Wikiversitysister-list</a>&#125;&#125; and &#123;&#123;<a href="/wiki/Template:WikiversityUsers" title="Template:WikiversityUsers">WikiversityUsers</a>&#125;&#125; to link to them.
+</p><p>The idea is to establish within Wikiversity a means to strengthen its effectiveness as an online university and Wikimedia's role as a <a href="https://en.wikipedia.org/wiki/Virtual_community_of_practice" class="extiw" title="w:Virtual community of practice">Virtual community of practice</a>.  <i>See also <b><a href="/wiki/Metacommunity" title="Metacommunity">Metacommunity</a></b></i>
+</p><p><b>Discussion:</b> Get in touch with the folks that help form policies and guidelines for each of the sisterprojects. Participate in our own <b><a href="/wiki/Wikiversity:Colloquium#Wikimedia" title="Wikiversity:Colloquium">colloquium</a></b> to make other Wikiversitans aware of <b>this</b> learning project. Use the <a href="/wiki/Talk:Wikimedia" title="Talk:Wikimedia">talk page</a> to present problems and ideas concerning <a href="/wiki/Wikiversity" class="mw-redirect" title="Wikiversity">Wikiversity</a>'s relationship to its parent organization, <a class="mw-selflink selflink">Wikimedia</a>. 
+</p><p><b>Examples:</b> 
+</p>
+<ul><li>One important discussion is taking place at <a href="/wiki/Talk:Wikibooks" title="Talk:Wikibooks">Talk:Wikibooks</a> about <a href="/wiki/Wikiversity_and_Wikibooks_services" title="Wikiversity and Wikibooks services">Wikiversity and Wikibooks services</a> that help determine how the two projects can interface with each other more effectively.</li>
+<li>Another exemplary development is the relationship between <a href="/wiki/School:Journalism" title="School:Journalism">School of Journalism</a> with <a href="/wiki/Wikinews" title="Wikinews">Wikinews</a>.</li>
+<li>Another open project called <a href="https://strategy.wikimedia.org/wiki/Main_Page" class="extiw" title="strategy:Main Page">strategy</a> has been put in place by the <a href="https://meta.wikimedia.org/wiki/Mediawiki_Foundation" class="extiw" title="m:Mediawiki Foundation">Mediawiki Foundation</a> for coming up with long-term strategic planning for all of the Wikimedia projects and languages. See <i><a href="/wiki/Wikiversity:Strategy" title="Wikiversity:Strategy">Wikiversity:Strategy</a></i> and <i><a href="https://strategy.wikimedia.org/wiki/Wikiversity" class="extiw" title="strategy:Wikiversity">Strategy:Wikiversity</a></i></li>
+<li><i>add others here!</i></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikiversity:Sister_projects" title="Wikiversity:Sister projects">Wikiversity:Sister projects</a></li>
+<li><a href="/wiki/Wikimedia_fund_raising" title="Wikimedia fund raising">Wikimedia fund raising</a></li>
+<li><a href="/wiki/Wikiversity:Service_community" title="Wikiversity:Service community">Wikiversity:Service community</a> - services that Wikiversity can provide to the larger Wikimedia community</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/08/24/MNIJ12ETP4.DTL&amp;type=printable">Wikimedia pegs future on education, not profit</a> (San Francisco Chronicle, 24 August, 2008)</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20200224162026
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.064 seconds
+Real time usage: 0.117 seconds
+Preprocessor visited node count: 149/1000000
+Post‐expand include size: 2862/2097152 bytes
+Template argument size: 170/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   40.790      1 -total
+ 45.15%   18.418      1 Template:Wikiversitysister-list
+ 38.05%   15.521      1 Template:Wvdev
+  7.49%    3.055      5 Template:Tl
+  7.17%    2.926      1 Template:Daughters
+-->
+
+<!-- Saved in parser cache with key enwikiversity:pcache:idhash:14928-0!canonical and timestamp 20200224162026 and revision id 1674738
+ -->
+</div><noscript><img src="//en.wikiversity.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikiversity.org/w/index.php?title=Wikimedia&amp;oldid=1674738">https://en.wikiversity.org/w/index.php?title=Wikimedia&amp;oldid=1674738</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Wikiversity_development" title="Category:Wikiversity development">Wikiversity development</a></li><li><a href="/wiki/Category:Wikimedia" title="Category:Wikimedia">Wikimedia</a></li><li><a href="/wiki/Category:Bomis" title="Category:Bomis">Bomis</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikimedia" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikimedia" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Wikimedia" title="View the content page [c]" accesskey="c">Resource</a></li><li id="ca-talk"><a href="/wiki/Talk:Wikimedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discuss</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikimedia">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikimedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikimedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikiversity" title="Search Wikiversity [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wikiversity:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Navigation"  aria-labelledby="p-Navigation-label">
+	<h3  id="p-Navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-Main-Page"><a href="/wiki/Wikiversity:Main_Page">Main Page</a></li><li id="n-Browse"><a href="/wiki/Wikiversity:Browse">Browse</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Guided-tours"><a href="/wiki/Help:Guides">Guided tours</a></li><li id="n-Random"><a href="/wiki/Special:RandomRootpage">Random</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikiversity.org&amp;uselang=en" title="Support us">Donate</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Community"  aria-labelledby="p-Community-label">
+	<h3  id="p-Community-label">
+		Community
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Wikiversity:Community_Portal" title="About the project, what you can do, where to find things">Portal</a></li><li id="n-Colloquium"><a href="/wiki/Wikiversity:Colloquium">Colloquium</a></li><li id="n-currentevents"><a href="/wiki/Wikiversity:News" title="Find background information on current events">News</a></li><li id="n-Projects"><a href="/wiki/Wikiversity:Community_projects">Projects</a></li><li id="n-Sandbox"><a href="/wiki/Wikiversity:Sandbox">Sandbox</a></li><li id="n-Help-desk"><a href="/wiki/Wikiversity:Help_desk">Help desk</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikimedia" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikimedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikimedia&amp;oldid=1674738" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikimedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3568028" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wikimedia&amp;id=1674738" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3568028#sitelinks-wikiversity" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Wikimedia projects"  aria-labelledby="p-Wikimedia projects-label">
+	<h3  id="p-Wikimedia projects-label">
+		Wikimedia projects
+	</h3>
+	<div class="body">
+		<ul><li id="n-Commons"><a href="https://commons.wikimedia.org/wiki/Main_Page">Commons</a></li><li id="n-Wikibooks"><a href="https://en.wikibooks.org/wiki/Project:Main_Page">Wikibooks</a></li><li id="n-Wikipedia"><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li><li id="n-Wiktionary"><a href="https://en.wiktionary.org/wiki/Project:Main_Page">Wiktionary</a></li><li id="n-Wikiquote"><a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></li><li id="n-Wikisource"><a href="https://en.wikisource.org/wiki/Main_Page">Wikisource</a></li><li id="n-Wikinews"><a href="https://en.wikinews.org/wiki/Main_Page">Wikinews</a></li><li id="n-Wikispecies"><a href="https://species.wikimedia.org/wiki/Main_Page">Wikispecies</a></li><li id="n-Wikivoyage"><a href="https://en.wikivoyage.org/wiki/Main_Page">Wikivoyage</a></li><li id="n-Meta-Wiki"><a href="https://meta.wikimedia.org/wiki/Main_Page">Meta-Wiki</a></li><li id="n-Outreach"><a href="https://outreach.wikimedia.org/wiki/Main_Page">Outreach</a></li><li id="n-MediaWiki"><a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a></li><li id="n-Wikimania"><a href="https://meta.wikimedia.org/wiki/Wikimania">Wikimania</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		In other projects
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wikimedia_movement" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Wikimedia_movement" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Wikimedia" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Help:Wikimedia" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Category:Wikimedia" hreflang="en">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://en.wikipedia.org/wiki/Wikimedia_movement" hreflang="en">Wikipedia</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikimedia">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikimedia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikimedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 26 April 2017, at 23:12.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikiversity:About" class="mw-redirect" title="Wikiversity:About">About Wikiversity</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikiversity:General_disclaimer" title="Wikiversity:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikiversity.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikiversity.org/w/index.php?title=Wikimedia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.117","ppvisitednodes":{"value":149,"limit":1000000},"postexpandincludesize":{"value":2862,"limit":2097152},"templateargumentsize":{"value":170,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   40.790      1 -total"," 45.15%   18.418      1 Template:Wikiversitysister-list"," 38.05%   15.521      1 Template:Wvdev","  7.49%    3.055      5 Template:Tl","  7.17%    2.926      1 Template:Daughters"]},"cachereport":{"origin":"mw1325","timestamp":"20200224162026","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wikimedia","url":"https:\/\/en.wikiversity.org\/wiki\/Wikimedia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3568028","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3568028","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-12-20T21:25:29Z","dateModified":"2017-04-26T23:12:42Z","headline":"social movement around Wikimedia including content publications, Wikimedia organizations, and independent editors"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1263"});});</script></body></html>

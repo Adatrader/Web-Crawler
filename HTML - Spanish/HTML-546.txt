@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikcionario - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XleggQpAMNAAAjRZsCYAAAAJ","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wikcionario","wgTitle":"Wikcionario","wgCurRevisionId":122876970,"wgRevisionId":122876970,"wgArticleId":5347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos con datos por trasladar a Wikidata","Wikipedia:Artículos con datos locales","Diccionarios en línea","Proyectos Wikimedia","Comunidades wiki","Software gratuito y libre para Android"],
+"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikcionario","wgRelevantArticleId":5347,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q151","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/1200px-Wiktionary-logo.svg.png"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Wikcionario&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Wikcionario&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Wikcionario"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wikcionario rootpage-Wikcionario skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Wikcionario</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera comunicación" style="text-align:center;background-color:#DCEAEC;color:black;">Wikcionario</th></tr><tr><td colspan="3" style="text-align:center;">
+<span style="font-style: italic"></span></td></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Archivo:Wiktionary-logo.svg" class="image"><img alt="Wiktionary-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/245px-Wiktionary-logo.svg.png" decoding="async" width="245" height="232" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/368px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/490px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a><br /><div style="display:inline;">Logotipo</div></td></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Archivo:Www.wiktionary.org_screenshot.png" class="image"><img alt="Www.wiktionary.org screenshot.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Www.wiktionary.org_screenshot.png/250px-Www.wiktionary.org_screenshot.png" decoding="async" width="250" height="282" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Www.wiktionary.org_screenshot.png/375px-Www.wiktionary.org_screenshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Www.wiktionary.org_screenshot.png/500px-Www.wiktionary.org_screenshot.png 2x" data-file-width="1349" data-file-height="1524" /></a><br /><div style="display:inline;">Captura de pantalla la página de inicio de wiktionary.org</div></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;;">Información general</th></tr><tr><th scope="row" style="text-align:left;"><a href="/wiki/Dominio_de_Internet" title="Dominio de Internet">Dominio</a></th><td colspan="2">
+<a class="external free" href="https://www.wiktionary.org/">http://www.wiktionary.org/</a></td></tr><tr><th scope="row" style="text-align:left;">Tipo</th><td colspan="2">
+<a href="/wiki/Anexo:Proyectos_Wikimedia" title="Anexo:Proyectos Wikimedia">Proyecto de Wikimedia</a></td></tr><tr><th scope="row" style="text-align:left;">Comercial</th><td colspan="2">
+No</td></tr><tr><th scope="row" style="text-align:left;">Registro</th><td colspan="2">
+opcional</td></tr><tr><th scope="row" style="text-align:left;">En español</th><td colspan="2">
+<img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;"><span lang="es">Sí</span></span></td></tr><tr><th scope="row" style="text-align:left;">Software</th><td colspan="2">
+<a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a></td></tr><tr><th scope="row" style="text-align:left;">Licencia</th><td colspan="2">
+CC-BY-SA 3.0</td></tr><tr><th scope="row" style="text-align:left;">Estado actual</th><td colspan="2">
+<img alt="Sí" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" title="Sí" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" />&#160;<span style="font-weight: bold;">Activo</span></td></tr><tr><th colspan="3" style="text-align:center;background-color:#DCEAEC;;">Gestión</th></tr><tr><th scope="row" style="text-align:left;"><a href="/wiki/Desarrollador_de_software" title="Desarrollador de software">Desarrollador</a></th><td colspan="2">
+<a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a> y la comunidad de Wikimedia</td></tr><tr><th scope="row" style="text-align:left;">Propietario</th><td colspan="2">
+<a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a></td></tr><tr><th scope="row" style="text-align:left;">Operador</th><td colspan="2">
+<a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a></td></tr><tr><th scope="row" style="text-align:left;">Lanzamiento</th><td colspan="2">
+<a href="/wiki/12_de_diciembre" title="12 de diciembre">12 de diciembre</a> de <a href="/wiki/2002" title="2002">2002</a></td></tr><tr><th scope="row" style="text-align:left;">Ranking <a href="/wiki/Alexa_Internet" title="Alexa Internet">Alexa</a></th><td colspan="2">
+474</td></tr><tr><td class="noprint" colspan="3" style="text-align:left;"><div class="plainlinks wikidata-link" style="font-size: 0.85em">&#x5b;<a href="https://www.wikidata.org/wiki/Q151" class="extiw" title="d:Q151">editar datos en Wikidata</a>&#x5d;</div></td></tr></tbody></table>
+<p>El <b>Wikcionario</b> (contracción de <i><a href="/wiki/Wiki" title="Wiki">wiki</a></i> y <i><a href="/wiki/Diccionario" title="Diccionario">diccionario</a></i>; en <a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">inglés</a>, <b>Wiktionary</b>) es un proyecto de diccionario <a href="/wiki/Contenido_libre" title="Contenido libre">libre</a> de la <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a>, que contiene <a href="/wiki/Definici%C3%B3n" title="Definición">definiciones</a>, <a href="/wiki/Traducci%C3%B3n" title="Traducción">traducciones</a>, <a href="/wiki/Etimolog%C3%ADa" title="Etimología">etimologías</a>, <a href="/wiki/Sinonimia_(sem%C3%A1ntica)" title="Sinonimia (semántica)">sinónimos</a> y <a href="/wiki/Pronunciaci%C3%B3n" title="Pronunciación">pronunciaciones</a> de palabras en múltiples idiomas.
+</p><p>Al igual que <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, Wikcionario está basado en la <a href="/wiki/Wiki" title="Wiki">tecnología wiki</a>, utiliza el <i>software</i> <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> y su contenido está protegido por las licencias libres <a href="/wiki/Licencia_de_documentaci%C3%B3n_libre_de_GNU" title="Licencia de documentación libre de GNU">GFDL</a> y <a href="/wiki/Licencias_Creative_Commons" title="Licencias Creative Commons">CC BY-SA</a>.
+</p><p>El primer Wikcionario fue la versión en inglés, creada por <a href="/w/index.php?title=Brion_Vibber&amp;action=edit&amp;redlink=1" class="new" title="Brion Vibber (aún no redactado)">Brion Vibber</a> el <a href="/wiki/12_de_diciembre" title="12 de diciembre">12 de diciembre</a> de <a href="/wiki/2002" title="2002">2002</a>, a la cual le siguieron poco después las versiones en <a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">francés</a> y en <a href="/wiki/Idioma_polaco" title="Idioma polaco">polaco</a>.
+</p><p>El <a href="/wiki/1_de_mayo" title="1 de mayo">1 de mayo</a> de 2004, <a href="/w/index.php?title=Tim_Starling&amp;action=edit&amp;redlink=1" class="new" title="Tim Starling (aún no redactado)">Tim Starling</a> comenzó <i>Wikcionarios</i> para todas las lenguas en que existía Wikipedia, 143 en total, incluido el español.<sup id="cite_ref-enMeta_1-0" class="reference separada"><a href="#cite_note-enMeta-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; El número de versiones ascendía a 171 idiomas en noviembre de 2019.<sup id="cite_ref-enMeta_1-1" class="reference separada"><a href="#cite_note-enMeta-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Historia"><span class="tocnumber">1</span> <span class="toctext">Historia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Wikcionarios_por_número_de_ediciones"><span class="tocnumber">2</span> <span class="toctext">Wikcionarios por número de ediciones</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Referencias"><span class="tocnumber">3</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Enlaces_externos"><span class="tocnumber">4</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Historia">Historia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario&amp;action=edit&amp;section=1" title="Editar sección: Historia">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wiktionary fue puesto en línea el 12 de diciembre de 2002. El 28 de marzo de 2004, siendo los primeros idiomas no-inglés, se iniciaron a crear Wikcionarios en <a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">francés</a> y <a href="/wiki/Idioma_polaco" title="Idioma polaco">polaco</a>. Desde entonces se han empezado a usar Wiktionaries en muchos otros idiomas. Wikcionario fue alojado en un nombre de dominio temporal hasta el 1 de mayo de 2004, cuando cambió al nombre de dominio actual. 
+</p><p>Otro de estos bots, "ThirdPersBot", fue responsable de la adición de un número de personas que no habrían recibido sus propias entradas en los diccionarios estándares. Por ejemplo, definió "smoulders" como la "tercera persona singular simple forma presente de smolder". 
+</p><p>De las 648.970 definiciones el Wiktionary inglés proporciona para 501.171 palabras inglesas, 217.850 son forma de definiciones de esta clase. Es ligeramente menor que la de los principales diccionarios monolingües de impresión. 
+</p><p>El Wiktionary Inglés no se basa en los bots en la medida en que algunas otras ediciones. La <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, por ejemplo, importó grandes secciones del Proyecto de Diccionario Vietnamita Libre (FVDP, por sus siglas en inglés), que proporciona diccionarios bilingües de contenido gratuito desde y hacia el vietnamita.
+</p>
+<h2><span id="Wikcionarios_por_n.C3.BAmero_de_ediciones"></span><span class="mw-headline" id="Wikcionarios_por_número_de_ediciones">Wikcionarios por número de ediciones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario&amp;action=edit&amp;section=2" title="Editar sección: Wikcionarios por número de ediciones">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/w/index.php?title=Anexo:Wikcionarios&amp;action=edit&amp;redlink=1" class="new" title="Anexo:Wikcionarios (aún no redactado)"> Anexo:Wikcionarios</a></i></div>
+<table class="wikitable sortable" style="width:600px">
+<caption><b>Las diez ediciones más grandes de wikcionarios en noviembre de 2014</b><sup id="cite_ref-enMeta_1-2" class="reference separada"><a href="#cite_note-enMeta-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;
+</caption>
+<tbody><tr style="font-size: 80%;">
+<th>N.º
+</th>
+<th>Idioma
+</th>
+<th>Idioma (local)
+</th>
+<th>Wiki
+</th>
+<th>Entradas
+</th>
+<th>Total
+</th>
+<th>Ediciones
+</th>
+<th><span title="Número de administradores" style="border-bottom:1px dotted">Admin.</span>
+</th>
+<th>Usuarios
+</th>
+<th><span title="Número de usuarios activos" style="border-bottom:1px dotted">U. activos</span>
+</th></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>1
+</td>
+<td><a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">Inglés</a>
+</td>
+<td><a href="/wiki/Idioma_ingl%C3%A9s" title="Idioma inglés">English</a>
+</td>
+<td><a class="external text" href="https://en.wiktionary.org/wiki/">en</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:en:Special:Statistics?action=raw"><b>3&#160;864&#160;670</b></a>
+</td>
+<td>4157311
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:en:Special:Recentchanges" class="extiw" title="m:wikt:en:Special:Recentchanges">34&#160;630&#160;169</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:en:Special:Listadmins" class="extiw" title="m:wikt:en:Special:Listadmins">104</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:en:Special:Listusers" class="extiw" title="m:wikt:en:Special:Listusers">2&#160;092&#160;359</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:en:Special:ActiveUsers" class="extiw" title="m:wikt:en:Special:ActiveUsers">1&#160;123</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>2
+</td>
+<td><a href="/wiki/Idioma_malgache" title="Idioma malgache">Malgache</a>
+</td>
+<td><a href="/wiki/Idioma_malgache" title="Idioma malgache">Malagasy</a>
+</td>
+<td><a class="external text" href="https://mg.wiktionary.org/wiki/">mg</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:mg:Special:Statistics?action=raw"><b>3&#160;599&#160;348</b></a>
+</td>
+<td>3622260
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:mg:Special:Recentchanges" class="extiw" title="m:wikt:mg:Special:Recentchanges">17&#160;807&#160;602</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:mg:Special:Listadmins" class="extiw" title="m:wikt:mg:Special:Listadmins">2</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:mg:Special:Listusers" class="extiw" title="m:wikt:mg:Special:Listusers">3&#160;429</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:mg:Special:ActiveUsers" class="extiw" title="m:wikt:mg:Special:ActiveUsers">18</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>3
+</td>
+<td><a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">Francés</a>
+</td>
+<td><a href="/wiki/Idioma_franc%C3%A9s" title="Idioma francés">Français</a>
+</td>
+<td><a class="external text" href="https://fr.wiktionary.org/wiki/">fr</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:fr:Special:Statistics?action=raw"><b>2&#160;607&#160;628</b></a>
+</td>
+<td>2829147
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:fr:Special:Recentchanges" class="extiw" title="m:wikt:fr:Special:Recentchanges">18&#160;708&#160;445</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:fr:Special:Listadmins" class="extiw" title="m:wikt:fr:Special:Listadmins">31</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:fr:Special:Listusers" class="extiw" title="m:wikt:fr:Special:Listusers">132&#160;134</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:fr:Special:ActiveUsers" class="extiw" title="m:wikt:fr:Special:ActiveUsers">404</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>4
+</td>
+<td><a href="/wiki/Idioma_serbocroata" title="Idioma serbocroata">Serbo-Croata</a>
+</td>
+<td><a href="/wiki/Idioma_serbocroata" title="Idioma serbocroata">Српскохрватски</a>
+</td>
+<td><a class="external text" href="https://sh.wiktionary.org/wiki/">sh</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:sh:Special:Statistics?action=raw"><b>849&#160;260</b></a>
+</td>
+<td>850505
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:sh:Special:Recentchanges" class="extiw" title="m:wikt:sh:Special:Recentchanges">1&#160;330&#160;407</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:sh:Special:Listadmins" class="extiw" title="m:wikt:sh:Special:Listadmins">5</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:sh:Special:Listusers" class="extiw" title="m:wikt:sh:Special:Listusers">1&#160;839</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:sh:Special:ActiveUsers" class="extiw" title="m:wikt:sh:Special:ActiveUsers">6</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>5
+</td>
+<td><a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">Español</a>
+</td>
+<td><a href="/wiki/Idioma_espa%C3%B1ol" title="Idioma español">Español</a>
+</td>
+<td><a class="external text" href="https://es.wiktionary.org/wiki/">es</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:es:Special:Statistics?action=raw"><b>831&#160;956</b></a>
+</td>
+<td>870&#160;713
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:tr:Special:Recentchanges" class="extiw" title="m:wikt:tr:Special:Recentchanges">2&#160;152&#160;251</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:tr:Special:Listadmins" class="extiw" title="m:wikt:tr:Special:Listadmins">8</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:tr:Special:Listusers" class="extiw" title="m:wikt:tr:Special:Listusers">60&#160;000</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:tr:Special:ActiveUsers" class="extiw" title="m:wikt:tr:Special:ActiveUsers">68</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>6
+</td>
+<td><a href="/wiki/Idioma_chino" title="Idioma chino">Chino</a>
+</td>
+<td><a href="/wiki/Idioma_chino" title="Idioma chino">中文</a>
+</td>
+<td><a class="external text" href="https://zh.wiktionary.org/wiki/">zh</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:zh:Special:Statistics?action=raw"><b>830&#160;351</b></a>
+</td>
+<td>1328884
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:zh:Special:Recentchanges" class="extiw" title="m:wikt:zh:Special:Recentchanges">4&#160;061&#160;999</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:zh:Special:Listadmins" class="extiw" title="m:wikt:zh:Special:Listadmins">8</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:zh:Special:Listusers" class="extiw" title="m:wikt:zh:Special:Listusers">39&#160;007</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:zh:Special:ActiveUsers" class="extiw" title="m:wikt:zh:Special:ActiveUsers">41</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>7
+</td>
+<td><a href="/wiki/Idioma_lituano" title="Idioma lituano">Lituano</a>
+</td>
+<td><a href="/wiki/Idioma_lituano" title="Idioma lituano">Lietuvių</a>
+</td>
+<td><a class="external text" href="https://lt.wiktionary.org/wiki/">lt</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:lt:Special:Statistics?action=raw"><b>612&#160;121</b></a>
+</td>
+<td>683187
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:lt:Special:Recentchanges" class="extiw" title="m:wikt:lt:Special:Recentchanges">1&#160;561&#160;821</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:lt:Special:Listadmins" class="extiw" title="m:wikt:lt:Special:Listadmins">3</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:lt:Special:Listusers" class="extiw" title="m:wikt:lt:Special:Listusers">5&#160;424</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:lt:Special:ActiveUsers" class="extiw" title="m:wikt:lt:Special:ActiveUsers">13</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>8
+</td>
+<td><a href="/wiki/Idioma_ruso" title="Idioma ruso">Ruso</a>
+</td>
+<td><a href="/wiki/Idioma_ruso" title="Idioma ruso">Русский</a>
+</td>
+<td><a class="external text" href="https://ru.wiktionary.org/wiki/">ru</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:ru:Special:Statistics?action=raw"><b>547&#160;047</b></a>
+</td>
+<td>894425
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:ru:Special:Recentchanges" class="extiw" title="m:wikt:ru:Special:Recentchanges">4&#160;554&#160;872</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:ru:Special:Listadmins" class="extiw" title="m:wikt:ru:Special:Listadmins">9</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:ru:Special:Listusers" class="extiw" title="m:wikt:ru:Special:Listusers">128&#160;767</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:ru:Special:ActiveUsers" class="extiw" title="m:wikt:ru:Special:ActiveUsers">179</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>9
+</td>
+<td><a href="/wiki/Idioma_polaco" title="Idioma polaco">Polaco</a>
+</td>
+<td><a href="/wiki/Idioma_polaco" title="Idioma polaco">Polski</a>
+</td>
+<td><a class="external text" href="https://pl.wiktionary.org/wiki/">pl</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:pl:Special:Statistics?action=raw"><b>437&#160;208</b></a>
+</td>
+<td>462746
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:pl:Special:Recentchanges" class="extiw" title="m:wikt:pl:Special:Recentchanges">4&#160;646&#160;651</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:pl:Special:Listadmins" class="extiw" title="m:wikt:pl:Special:Listadmins">15</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:pl:Special:Listusers" class="extiw" title="m:wikt:pl:Special:Listusers">40&#160;567</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:pl:Special:ActiveUsers" class="extiw" title="m:wikt:pl:Special:ActiveUsers">103</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>10
+</td>
+<td><a href="/wiki/Idioma_griego" title="Idioma griego">Griego</a>
+</td>
+<td><a href="/wiki/Idioma_griego" title="Idioma griego">Ελληνικά</a>
+</td>
+<td><a class="external text" href="https://el.wiktionary.org/wiki/">el</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:el:Special:Statistics?action=raw"><b>435&#160;337</b></a>
+</td>
+<td>454742
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:Recentchanges" class="extiw" title="m:wikt:el:Special:Recentchanges">3&#160;677&#160;455</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:Listadmins" class="extiw" title="m:wikt:el:Special:Listadmins">4</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:Listusers" class="extiw" title="m:wikt:el:Special:Listusers">16&#160;414</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:ActiveUsers" class="extiw" title="m:wikt:el:Special:ActiveUsers">47</a>
+</td></tr>
+<tr style="text-align: right; font-size: 85%">
+<td>11
+</td>
+<td><a href="/wiki/Idioma_N%C3%A1huat" class="mw-redirect" title="Idioma Náhuat">Náhuat Pipil</a>
+</td>
+<td><a href="/wiki/Idioma_N%C3%A1huat" class="mw-redirect" title="Idioma Náhuat">Nawat</a>
+</td>
+<td><a class="external text" href="https://el.wiktionary.org/wiki/">ná</a>
+</td>
+<td><a class="external text" href="https://meta.wikimedia.org/wiki/wikt:el:Special:Statistics?action=raw"><b> 10 &#160;12</b></a>
+</td>
+<td>2007
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:Recentchanges" class="extiw" title="m:wikt:el:Special:Recentchanges">3&#160; &#160; </a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:Listadmins" class="extiw" title="m:wikt:el:Special:Listadmins">1</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:Listusers" class="extiw" title="m:wikt:el:Special:Listusers">16&#160;14</a>
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/wikt:el:Special:ActiveUsers" class="extiw" title="m:wikt:el:Special:ActiveUsers">3</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario&amp;action=edit&amp;section=3" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-enMeta-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-enMeta_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-enMeta_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-enMeta_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Wiktionary">«Wiktionary en Meta-Wiki»</a><span class="reference-accessdate">. Consultado el 13 de noviembre de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AWikcionario&amp;rft.btitle=Wiktionary+en+Meta-Wiki&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FWiktionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://es.wiktionary.org/wiki/Wikcionario:Portada/2008">«Wikcionario:Portada/2008»</a>. 30 de junio de 2009<span class="reference-accessdate">. Consultado el 13 de noviembre de 2014</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AWikcionario&amp;rft.btitle=Wikcionario%3APortada%2F2008&amp;rft.date=30+de+junio+de+2009&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fes.wiktionary.org%2Fwiki%2FWikcionario%3APortada%2F2008&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikcionario&amp;action=edit&amp;section=4" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:Wiktionary" class="extiw" title="commons:Category:Wiktionary">Wikcionario</a></b>.</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/15px-Wikimedia_Community_Logo.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/23px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /> <a href="/wiki/Meta-Wiki" class="mw-redirect" title="Meta-Wiki">Meta</a> contiene información sobre <b><a href="https://meta.wikimedia.org/wiki/Wiktionary" class="extiw" title="meta:Wiktionary">Wikcionario</a></b>.</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-es.png/20px-Wiktionary-logo-es.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-es.png/30px-Wiktionary-logo-es.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-es.png/40px-Wiktionary-logo-es.png 2x" data-file-width="135" data-file-height="135" /> <a class="mw-selflink selflink">Wikcionario</a>  tiene definiciones y otra información sobre <b><a href="https://es.wiktionary.org/wiki/Wikcionario" class="extiw" title="wikt:Wikcionario">Wikcionario</a></b>.</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-es.png/20px-Wiktionary-logo-es.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-es.png/30px-Wiktionary-logo-es.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-es.png/40px-Wiktionary-logo-es.png 2x" data-file-width="135" data-file-height="135" /> <a class="mw-selflink selflink">Wikcionario</a>  tiene definiciones y otra información sobre <b><a href="https://es.wiktionary.org/wiki/Wiktionary" class="extiw" title="wikt:Wiktionary">Wiktionary</a></b>.</li>
+<li><a class="external text" href="https://es.wiktionary.org/">Página principal del proyecto Wiktionary en español.</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r118746331">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Ayuda:Control_de_autoridades" title="Ayuda:Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q151" class="extiw" title="wikidata:Q151">Q151</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Wiktionary">Wiktionary</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Meta-Wiki" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/15px-Wikimedia_Community_Logo.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/23px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a> Coordinación:</span> <span class="uid"><a href="https://meta.wikimedia.org/wiki/Wiktionary" class="extiw" title="m:Wiktionary">Wiktionary</a></span></li></ul>
+<hr />
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/20px-Wikidata-logo.svg.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q151" class="extiw" title="wikidata:Q151">Q151</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Wiktionary">Wiktionary</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Meta-Wiki" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/15px-Wikimedia_Community_Logo.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/23px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a> Coordinación:</span> <span class="uid"><a href="https://meta.wikimedia.org/wiki/Wiktionary" class="extiw" title="m:Wiktionary">Wiktionary</a></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20200226210850
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.584 seconds
+Real time usage: 0.689 seconds
+Preprocessor visited node count: 3111/1000000
+Post‐expand include size: 19983/2097152 bytes
+Template argument size: 1353/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3190/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.409/10.000 seconds
+Lua memory usage: 3.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  613.718      1 -total
+ 76.25%  467.931      1 Plantilla:Ficha_de_sitio_web
+ 75.62%  464.097      1 Plantilla:Ficha
+ 64.16%  393.733     20 Plantilla:Propiedad
+ 10.63%   65.261      1 Plantilla:Control_de_autoridades
+  5.73%   35.185      1 Plantilla:Listaref
+  4.71%   28.880      2 Plantilla:Cita_web
+  2.72%   16.709      1 Plantilla:Commonscat
+  1.78%   10.896      2 Plantilla:Sí
+  1.43%    8.756      1 Plantilla:Título_sin_coletilla
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:5347-0!canonical and timestamp 20200226210849 and revision id 122876970
+ -->
+</div><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Wikcionario&amp;oldid=122876970">https://es.wikipedia.org/w/index.php?title=Wikcionario&amp;oldid=122876970</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Diccionarios_en_l%C3%ADnea" title="Categoría:Diccionarios en línea">Diccionarios en línea</a></li><li><a href="/wiki/Categor%C3%ADa:Proyectos_Wikimedia" title="Categoría:Proyectos Wikimedia">Proyectos Wikimedia</a></li><li><a href="/wiki/Categor%C3%ADa:Comunidades_wiki" title="Categoría:Comunidades wiki">Comunidades wiki</a></li><li><a href="/wiki/Categor%C3%ADa:Software_gratuito_y_libre_para_Android" title="Categoría:Software gratuito y libre para Android">Software gratuito y libre para Android</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_datos_por_trasladar_a_Wikidata" title="Categoría:Wikipedia:Artículos con datos por trasladar a Wikidata">Wikipedia:Artículos con datos por trasladar a Wikidata</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_datos_locales" title="Categoría:Wikipedia:Artículos con datos locales">Wikipedia:Artículos con datos locales</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Wikcionario" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Wikcionario" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Wikcionario" title="Ver la página de contenido [c]" accesskey="c">Artículo</a></li><li id="ca-talk"><a href="/wiki/Discusi%C3%B3n:Wikcionario" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikcionario">Leer</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikcionario&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikcionario&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		En otros proyectos
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wiktionary" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Wiktionary" hreflang="en">Meta-Wiki</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Wikcionario">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Wikcionario&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikcionario&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Wikcionario" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Wikcionario" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikcionario&amp;oldid=122876970" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Wikcionario&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q151" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Wikcionario&amp;id=122876970" title="Información sobre cómo citar esta página">Citar esta página</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/WikiWoordeboek" title="WikiWoordeboek (afrikáans)" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Wiktionary" title="Wiktionary (Alemannisch)" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Biquizionario" title="Biquizionario (aragonés)" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D8%A7%D9%85%D9%88%D8%B3" title="ويكاموس (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D8%B4%D9%8A%D9%86%D8%A7%D8%B1%D9%89" title="ويكشينارى (Egyptian Arabic)" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%A8%E0%A7%87%E0%A7%B0%E0%A7%80" title="ৱিক্স্যনেৰী (asamés)" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Wikcionariu" title="Wikcionariu (asturiano)" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Vikil%C3%BC%C4%9F%C9%99t" title="Vikilüğət (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D8%B3%D8%A4%D8%B2%D9%84%D9%88%DA%A9" title="ویکی‌سؤزلوک (South Azerbaijani)" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Wiktionary" title="Wiktionary (Bavarian)" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA" title="Вікіслоўнік (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D0%BB%D0%BE%D1%9E%D0%BD%D1%96%D0%BA" title="Вікіслоўнік (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA" title="Уикиречник (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Wiktionary" title="Wiktionary (Banjar)" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%A8" title="উইকিঅভিধান (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Wikeriadur" title="Wikeriadur (bretón)" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viccionari" title="Viccionari (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cdo"><a href="https://cdo.wikipedia.org/wiki/Wiktionary" title="Wiktionary (Min Dong Chinese)" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Wikislovn%C3%ADk" title="Wikislovník (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-csb"><a href="https://csb.wikipedia.org/wiki/S%C5%82ow%C3%B4rz_Wikipediji" title="Słowôrz Wikipediji (casubio)" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%C4%83%D0%BC%D0%B0%D1%85%D1%81%D0%B0%D1%80" title="Викисăмахсар (chuvasio)" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Wiciadur" title="Wiciadur (galés)" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Wiktionary" title="Wiktionary (danés)" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wiktionary" title="Wiktionary (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CE%BB%CE%B5%CE%BE%CE%B9%CE%BA%CF%8C" title="Βικιλεξικό (griego)" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Wiktionary" title="Wiktionary (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vikivortaro" title="Vikivortaro (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Vikis%C3%B5nastik" title="Vikisõnastik (estonio)" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Wikiztegia" title="Wikiztegia (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%88%D8%A7%DA%98%D9%87" title="ویکی‌واژه (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Wikisanakirja" title="Wikisanakirja (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wiktionnaire" title="Wiktionnaire (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Vic%C3%ADfhocl%C3%B3ir" title="Vicífhoclóir (irlandés)" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Galizionario" title="Galizionario (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gn"><a href="https://gn.wikipedia.org/wiki/Wiki%C3%B1e%27%E1%BA%BDndy" title="Wikiñe&#039;ẽndy (guaraní)" lang="gn" hreflang="gn" class="interlanguage-link-target">Avañe'ẽ</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%BF%E0%AA%95%E0%AB%8D%E0%AA%B6%E0%AA%A8%E0%AA%B0%E0%AB%80" title="વિક્શનરી (guyaratí)" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-hak"><a href="https://hak.wikipedia.org/wiki/Wiktionary" title="Wiktionary (chino hakka)" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%9E%D7%99%D7%9C%D7%95%D7%9F" title="ויקימילון (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A8%E0%A4%B0%E0%A5%80" title="विक्षनरी (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Wje%C4%8Dnik" title="Wječnik (croata)" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikisz%C3%B3t%C3%A1r" title="Wikiszótár (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%84%D5%AB%D5%A2%D5%A1%D5%BC%D5%A1%D6%80%D5%A1%D5%B6" title="Վիքիբառարան (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Wiktionario" title="Wiktionario (interlingua)" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wiktionary" title="Wiktionary (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ig"><a href="https://ig.wikipedia.org/wiki/Wiktionary" title="Wiktionary (igbo)" lang="ig" hreflang="ig" class="interlanguage-link-target">Igbo</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Wikior%C3%B0ab%C3%B3kin" title="Wikiorðabókin (islandés)" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Wikizionario" title="Wikizionario (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC" title="ウィクショナリー (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Wiktionary" title="Wiktionary (javanés)" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%98%E1%83%A5%E1%83%A1%E1%83%98%E1%83%99%E1%83%9D%E1%83%9C%E1%83%98" title="ვიქსიკონი (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Wiktionary" title="Wiktionary (kikuyu)" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%9C%E1%9E%B7%E1%9E%82%E1%9E%B8%E1%9E%93%E1%9E%B6%E1%9E%93%E1%9E%BB%E1%9E%80%E1%9F%92%E1%9E%9A%E1%9E%98" title="វិគីនានុក្រម (jemer)" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%82%B1%EB%A7%90%EC%82%AC%EC%A0%84" title="위키낱말사전 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/W%C3%AEk%C3%AEferheng" title="Wîkîferheng (kurdo)" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Victionarium" title="Victionarium (latín)" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lad"><a href="https://lad.wikipedia.org/wiki/Viksiyonaryo" title="Viksiyonaryo (ladino)" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Wiktionair" title="Wiktionair (limburgués)" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Viki%C5%BEodynas" title="Vikižodynas (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Vikiv%C4%81rdn%C4%ABca" title="Vikivārdnīca (letón)" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Wikibolana" title="Wikibolana (malgache)" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA" title="Викиречник (macedonio)" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%B7%E0%B4%A3%E0%B4%B1%E0%B4%BF" title="വിക്ഷണറി (malayalam)" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8%E0%A4%B0%E0%A5%80" title="विक्शनरी (maratí)" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wiktionary" title="Wiktionary (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/Wikizzjunarju" title="Wikizzjunarju (maltés)" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%9D%E1%80%85%E1%80%BA%E1%80%9B%E1%80%BE%E1%80%84%E1%80%BA%E1%80%94%E1%80%9B%E1%80%AE" title="ဝစ်ရှင်နရီ (birmano)" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%B8%E0%A5%8D%E0%A4%A8%E0%A4%B0%E0%A5%80" title="विकस्नरी (nepalí)" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wiktionary" title="Wiktionary (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Wiktionary" title="Wiktionary (noruego nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Wiktionary" title="Wiktionary (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Wikiccionari" title="Wikiccionari (occitano)" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%89%E0%AC%87%E0%AC%95%E0%AC%BF%E0%AC%85%E0%AC%AD%E0%AC%BF%E0%AC%A7%E0%AC%BE%E0%AC%A8" title="ଉଇକିଅଭିଧାନ (oriya)" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%BF%E0%A8%95%E0%A8%B8%E0%A8%BC%E0%A8%A8%E0%A8%B0%E0%A9%80" title="ਵਿਕਸ਼ਨਰੀ (punyabí)" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikis%C5%82ownik" title="Wikisłownik (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%BE%D9%86%D8%AC%D8%A7%D8%A8%DB%8C_%D9%88%DA%A9%D8%B4%D9%86%D8%B1%DB%8C" title="پنجابی وکشنری (Western Punjabi)" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikcion%C3%A1rio" title="Wikcionário (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Wik%C8%9Bionar" title="Wikționar (rumano)" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Викисловарь (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Wikizziunariu" title="Wikizziunariu (siciliano)" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Wiktionar" title="Wiktionar (escocés)" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%88%DA%AA%D9%8A_%D9%84%D8%BA%D8%AA" title="وڪي لغت (sindhi)" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sg"><a href="https://sg.wikipedia.org/wiki/W%C3%AFk%C3%AFt%C3%ABn%C3%ABb%C3%BBku" title="Wïkïtënëbûku (sango)" lang="sg" hreflang="sg" class="interlanguage-link-target">Sängö</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Wiktionary" title="Wiktionary (serbocroata)" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B7%82%E0%B6%B1%E0%B6%BB%E0%B7%92" title="වික්‍ෂනරි (cingalés)" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Wiktionary" title="Wiktionary (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Wikislovn%C3%ADk" title="Wikislovník (eslovaco)" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Wikislovar" title="Wikislovar (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Wiktionary" title="Wiktionary (albanés)" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA" title="Викиречник (serbio)" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wiktionary" title="Wiktionary (sundanés)" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wiktionary" title="Wiktionary (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Wiktionary" title="Wiktionary (suajili)" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%9A%E0%AE%A9%E0%AE%B0%E0%AE%BF" title="விக்சனரி (tamil)" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B0%A8%E0%B0%B0%E0%B1%80" title="విక్షనరీ (telugu)" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BB%D1%83%D2%93%D0%B0%D1%82" title="Викилуғат (tayiko)" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%A3%E0%B8%A1" title="วิกิพจนานุกรม (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wiktionary" title="Wiktionary (tagalo)" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Wiktionary" title="Wiktionary (tok pisin)" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikis%C3%B6zl%C3%BCk" title="Vikisözlük (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D2%AF%D0%B7%D0%BB%D0%B5%D0%BA" title="Викисүзлек (tártaro)" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA" title="Вікісловник (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C_%D9%84%D8%BA%D8%AA" title="ویکی لغت (urdu)" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Vikilug%CA%BBat" title="Vikilugʻat (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Wikisionario" title="Wikisionario (Venetian)" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wiktionary" title="Wiktionary (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Wiccionaire" title="Wiccionaire (valón)" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Wiktionary" title="Wiktionary (waray)" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Wikbaatukaay" title="Wikbaatukaay (wólof)" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E8%AF%8D%E5%85%B8" title="维基词典 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%99%D7%A7%D7%99%D7%95%D7%95%D7%A2%D7%A8%D7%98%D7%A2%D7%A8%D7%91%D7%95%D7%9A" title="וויקיווערטערבוך (yidis)" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Veizgiek_Swzdenj" title="Veizgiek Swzdenj (zhuang)" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BB%B4%E5%9F%BA%E8%AF%8D%E5%85%B8" title="维基词典 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E7%88%BE%E9%9B%85" title="維基爾雅 (Classical Chinese)" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Wiktionary" title="Wiktionary (Chinese (Min Nan))" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%AD%E5%9F%BA%E8%BE%AD%E5%85%B8" title="維基辭典 (Cantonese)" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q151#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 19 ene 2020 a las 00:32.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Wikcionario&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.584","walltime":"0.689","ppvisitednodes":{"value":3111,"limit":1000000},"postexpandincludesize":{"value":19983,"limit":2097152},"templateargumentsize":{"value":1353,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3190,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  613.718      1 -total"," 76.25%  467.931      1 Plantilla:Ficha_de_sitio_web"," 75.62%  464.097      1 Plantilla:Ficha"," 64.16%  393.733     20 Plantilla:Propiedad"," 10.63%   65.261      1 Plantilla:Control_de_autoridades","  5.73%   35.185      1 Plantilla:Listaref","  4.71%   28.880      2 Plantilla:Cita_web","  2.72%   16.709      1 Plantilla:Commonscat","  1.78%   10.896      2 Plantilla:Sí","  1.43%    8.756      1 Plantilla:Título_sin_coletilla"]},"scribunto":{"limitreport-timeusage":{"value":"0.409","limit":"10.000"},"limitreport-memusage":{"value":3906418,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20200226210850","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wikcionario","url":"https:\/\/es.wikipedia.org\/wiki\/Wikcionario","sameAs":"http:\/\/www.wikidata.org\/entity\/Q151","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q151","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-03T17:58:43Z","dateModified":"2020-01-19T00:32:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ec\/Wiktionary-logo.svg","headline":"diccionario libre que cualquiera puede editar"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1366"});});</script></body></html>

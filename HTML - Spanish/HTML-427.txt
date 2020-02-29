@@ -1,0 +1,953 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ayuda:Cómo se edita una página - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljrDgpAADoAAETbJ-0AAACO","wgCSPNonce":!1,"wgCanonicalNamespace":"Help","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":12,"wgPageName":"Ayuda:Cómo_se_edita_una_página","wgTitle":"Cómo se edita una página","wgCurRevisionId":121438251,"wgRevisionId":121438251,"wgArticleId":434,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Páginas que utilizan Timeline","Ayuda:Cómo","Ayuda:Editando Wikipedia"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Ayuda:Cómo_se_edita_una_página","wgRelevantArticleId":434,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q151637","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.pygments":"ready"
+,"ext.tmh.thumbnail.styles":"ready","ext.math.styles":"ready","ext.timeline.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.score.popup","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","ext.math.scripts","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.math.styles%7Cext.pygments%2CwikimediaBadges%7Cext.timeline.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-12 ns-subject page-Ayuda_Cómo_se_edita_una_página rootpage-Ayuda_Cómo_se_edita_una_página skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Ayuda:Cómo se edita una página</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="" class="noprint plainlinks ambox ambox-notice">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<img alt="Crystal128-configure.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Crystal128-configure.svg/40px-Crystal128-configure.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Crystal128-configure.svg/60px-Crystal128-configure.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Crystal128-configure.svg/80px-Crystal128-configure.svg.png 2x" data-file-width="125" data-file-height="126" /></td>
+<td class="ambox-text"><span class="ambox-text-span">Esta página es una <b>guía</b> que detalla una práctica o proceso en la Wikipedia en español.</span> </td>
+</tr>
+</tbody></table>
+<table style="border: 1px solid #aaa; background: #fff; margin: 0 0 1em 1em; padding: 3px; float: right; width: 67px; font-size: 90%;" class="noprint plainlinks">
+
+<tbody><tr>
+<th id="shortcut" style="text-align:center; vertical-align:top; border: none; background: transparent;"><a href="/wiki/Ayuda:Atajos" title="Ayuda:Atajos">Atajo</a><hr /><span class="sin-enlace" style="display:none">A:ED </span><a class="external text" href="https://es.wikipedia.org/w/index.php?title=A:ED&amp;redirect=no">A:ED </a>
+</th></tr></tbody></table>
+<div class="rellink noprint"> Para el editor visual, véase <a href="/wiki/Wikipedia:Editor_visual" class="mw-redirect" title="Wikipedia:Editor visual">Wikipedia:Editor visual</a>.</div>
+<dl><dd><i>Aquí se explica cómo editar paso a paso. Para una descripción más básica véase <a href="/wiki/Ayuda:Edici%C3%B3n" title="Ayuda:Edición">Ayuda:Edición</a> y para otra más concisa y técnica, <a href="/wiki/Ayuda:Referencia_r%C3%A1pida" title="Ayuda:Referencia rápida">Ayuda:Referencia rápida</a>.</i></dd></dl>
+<table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;"><tbody><tr><th colspan="3" class="cabecera" style="text-align:center;background-color:transparent;color:black;">Ayuda de edición</th></tr><tr><th colspan="3" style="text-align:center;background:#CCF;;">Antes de comenzar</th></tr><tr><td colspan="3" style="text-align:center;">
+<a class="mw-selflink selflink">Cómo se edita una página</a><br /><a href="/wiki/Ayuda:Interfaz_de_Wikipedia" title="Ayuda:Interfaz de Wikipedia">La interfaz de Wikipedia</a><br /><a href="/wiki/Ayuda:Barra_de_herramientas_de_edici%C3%B3n" title="Ayuda:Barra de herramientas de edición">Barra de herramientas de edición</a></td></tr><tr><th colspan="3" style="text-align:center;background:#CCF;;">Creación de un artículo</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">Manual de estilo</a><br /><a href="/wiki/Wikipedia:Estructura_de_un_art%C3%ADculo" title="Wikipedia:Estructura de un artículo">Estructura de un artículo</a><br /><a href="/wiki/Ayuda:C%C3%B3mo_cambiar_el_nombre_de_una_p%C3%A1gina" title="Ayuda:Cómo cambiar el nombre de una página">Cómo cambiarle el título</a> <sup>(<a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos">1</a>) (<a href="/wiki/Wikipedia:Restricciones_t%C3%A9cnicas_en_t%C3%ADtulos" title="Wikipedia:Restricciones técnicas en títulos">2</a>)</sup><br /> <a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">Cómo empezarlo</a><br /><a href="/wiki/Ayuda:C%C3%B3mo_mejorar_tu_ortograf%C3%ADa" title="Ayuda:Cómo mejorar tu ortografía">Cómo redactarlo mejor</a><br /> <a href="/wiki/Ayuda:Im%C3%A1genes" title="Ayuda:Imágenes">Cómo añadirle imágenes</a> <sup>(<a href="/wiki/Wikipedia:Pol%C3%ADtica_de_uso_de_im%C3%A1genes" title="Wikipedia:Política de uso de imágenes">3</a>)</sup><br /> <a href="/wiki/Ayuda:C%C3%B3mo_referenciar" title="Ayuda:Cómo referenciar">Cómo referenciarlo</a><sup>(<a href="/wiki/Wikipedia:Verificabilidad" title="Wikipedia:Verificabilidad">4</a>)</sup><br /><a href="/wiki/Ayuda:Categor%C3%ADa" title="Ayuda:Categoría">Cómo categorizarlo</a><br /><a href="/wiki/Wikipedia:Acerca_de_firmar_art%C3%ADculos" title="Wikipedia:Acerca de firmar artículos">No lo firmes</a> <sup>(<a href="/wiki/Wikipedia:Derechos_de_autor" title="Wikipedia:Derechos de autor">5</a>) (<a href="/wiki/Wikipedia:P%C3%A1ginas_de_autopromoci%C3%B3n" title="Wikipedia:Páginas de autopromoción">6</a>)</sup></td></tr><tr><th colspan="3" style="text-align:center;background:#CCF;;">Clases de artículos</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Ayuda:Espacio_de_nombres" title="Ayuda:Espacio de nombres">Los espacios de nombres</a><br /> <a href="/wiki/Wikipedia:Modelos" title="Wikipedia:Modelos">Modelos</a>  · <a href="/wiki/Ayuda:Anexo" title="Ayuda:Anexo">Anexos</a>  · <a href="/wiki/Ayuda:Redirecci%C3%B3n" title="Ayuda:Redirección">Redirecciones</a></td></tr><tr><th colspan="3" style="text-align:center;background:#CCF;;">Uso de MediaWiki</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Ayuda:Cronolog%C3%ADas" title="Ayuda:Cronologías">Cronologías</a> · <a href="/wiki/Ayuda:Listas" title="Ayuda:Listas">Listas</a> · <a href="/wiki/Ayuda:Tablas" title="Ayuda:Tablas">Tablas</a> · <a href="/wiki/Ayuda:Columnas" title="Ayuda:Columnas">Columnas</a><br /><a href="/wiki/Wikipedia:Notas" class="mw-redirect" title="Wikipedia:Notas">Notas</a> · <a href="/wiki/Ayuda:Tutorial_(enlaces_externos)" title="Ayuda:Tutorial (enlaces externos)">Enlaces externos</a><br /><a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">Plantillas</a> · <a href="/wiki/Ayuda:ImageMap" title="Ayuda:ImageMap">Mapas de imágenes</a><br /><a href="/wiki/Ayuda:Caracteres_especiales" title="Ayuda:Caracteres especiales">Caracteres especiales</a><br /><a href="https://www.mediawiki.org/wiki/Help:Magic_words/es" class="extiw" title="mw:Help:Magic words/es">Palabras mágicas</a> · <a href="https://www.mediawiki.org/wiki/Help:Extension:ParserFunctions/es" class="extiw" title="mw:Help:Extension:ParserFunctions/es">ParserFunctions</a><br /> <a href="/wiki/Ayuda:Uso_de_TeX" class="mw-redirect" title="Ayuda:Uso de TeX">Fórmulas TeX</a> · <a href="/wiki/Ayuda:Uso_de_LaTeX" title="Ayuda:Uso de LaTeX">LaTeX</a><br /></td></tr><tr><th colspan="3" style="text-align:center;background:#CCF;;">Más ayuda</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Wikipedia:Convenciones_idiom%C3%A1ticas" title="Wikipedia:Convenciones idiomáticas">Preguntas idiomáticas</a><br /><a href="/wiki/Wikipedia:Transliteraci%C3%B3n_y_transcripci%C3%B3n" title="Wikipedia:Transliteración y transcripción">Transliteración</a><br /><a href="/wiki/Plantilla:D%C3%B3nde_ayudar" title="Plantilla:Dónde ayudar">Dónde colaborar</a><br /><a href="/wiki/Ayuda:Contenidos" title="Ayuda:Contenidos">Contenidos de ayuda</a></td></tr><tr><th colspan="3" style="text-align:center;background:#CCF;;">Recursos</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Wikipedia:Recursos_libres" title="Wikipedia:Recursos libres">Recursos libres</a><br /><a href="/wiki/Wikipedia:Im%C3%A1genes_de_dominio_p%C3%BAblico" title="Wikipedia:Imágenes de dominio público">Imágenes de dominio púbilico</a><br /><a href="/wiki/Ayuda:Recursos_para_Wikipedia" title="Ayuda:Recursos para Wikipedia">Más recursos y herramientas</a><br /><a href="/wiki/Wikipedia:Ejemplos_de_peticiones_de_permiso" title="Wikipedia:Ejemplos de peticiones de permiso">Ejemplos de peticiones de permiso</a></td></tr></tbody></table>
+<p><a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a> es un <a href="/wiki/Wiki" title="Wiki">wiki</a>. Esto significa que cualquier persona puede editar fácilmente cualquier página (excepto las <a href="/wiki/Wikipedia:Pol%C3%ADtica_de_protecci%C3%B3n" title="Wikipedia:Política de protección">protegidas</a>), y sus cambios serán visibles inmediatamente. Aquí aprenderás <b>cómo se edita una página</b>. Las indicaciones que se dan sirven para cualquier tipo de página, aunque principalmente se editan artículos.
+</p><p>Se explican algunas cosas sobre la sintaxis: cómo <a href="#Enlaces">crear enlaces</a>, los principales <a href="#Formatos_de_texto">formatos de texto</a>, estructurar el contenido en <a href="#Secciones">secciones</a>, cómo <a href="#Archivos">insertar imágenes</a>, hacer <a href="#Listas">listas</a> y <a href="#Tablas">tablas</a>, agregar <a href="#Referencias">referencias</a>, <a href="#Plantillas">plantillas</a>, <a href="#Categorías">categorías</a> e <a href="#Interwikis">interwikis</a>, y algunas cosas más avanzadas como las <a href="#Fórmulas">fórmulas</a> o <a href="#Líneas_de_tiempo">líneas de tiempo</a>.
+</p><p>Además se detallan algunas peculiaridades de edición para <b><a href="#Otros_tipos_de_páginas">otros tipos de páginas</a></b> distintas a los artículos. Por último hay una serie de <b><a href="#Consejos_y_recomendaciones">consejos y recomendaciones</a></b> a seguir.
+</p><p>Recuerda realizar las pruebas en la <a href="/wiki/Wikipedia:Zona_de_pruebas/10" title="Wikipedia:Zona de pruebas/10">zona&#160;de&#160;pruebas</a>. Después, puedes buscar una de las muchas <a href="/wiki/Ayuda:C%C3%B3mo_puedes_colaborar" title="Ayuda:Cómo puedes colaborar">tareas por hacer</a> y <a href="/wiki/Wikipedia:S%C3%A9_valiente_editando_p%C3%A1ginas" class="mw-redirect" title="Wikipedia:Sé valiente editando páginas">ser valiente editando páginas</a>. ¡Al hacer tu primera edición te conviertes en <a href="/wiki/Wikipedia:Wikipedista" class="mw-redirect" title="Wikipedia:Wikipedista">wikipedista</a>!
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Primeros_pasos"><span class="tocnumber">1</span> <span class="toctext">Primeros pasos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Cómo_empezar_una_página"><span class="tocnumber">1.1</span> <span class="toctext">Cómo empezar una página</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Enlaces"><span class="tocnumber">2</span> <span class="toctext">Enlaces</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Enlaces_internos"><span class="tocnumber">2.1</span> <span class="toctext">Enlaces internos</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Enlaces_a_subpáginas"><span class="tocnumber">2.1.1</span> <span class="toctext">Enlaces a subpáginas</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Limitaciones_técnicas"><span class="tocnumber">2.1.2</span> <span class="toctext">Limitaciones técnicas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-7"><a href="#Enlaces_externos"><span class="tocnumber">2.2</span> <span class="toctext">Enlaces externos</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Otros_enlaces"><span class="tocnumber">2.3</span> <span class="toctext">Otros enlaces</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Formatos_de_texto"><span class="tocnumber">3</span> <span class="toctext">Formatos de texto</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Negritas"><span class="tocnumber">3.1</span> <span class="toctext">Negritas</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Cursivas"><span class="tocnumber">3.2</span> <span class="toctext">Cursivas</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Otras_opciones_de_formato"><span class="tocnumber">3.3</span> <span class="toctext">Otras opciones de formato</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Subrayado"><span class="tocnumber">3.3.1</span> <span class="toctext">Subrayado</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Tachado"><span class="tocnumber">3.3.2</span> <span class="toctext">Tachado</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Sangría"><span class="tocnumber">3.3.3</span> <span class="toctext">Sangría</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Tipografía_monoespaciada"><span class="tocnumber">3.3.4</span> <span class="toctext">Tipografía monoespaciada</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Coloreado_de_sintaxis"><span class="tocnumber">3.3.5</span> <span class="toctext">Coloreado de sintaxis</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Tipos_de_letra"><span class="tocnumber">3.3.6</span> <span class="toctext">Tipos de letra</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Líneas_horizontales"><span class="tocnumber">3.3.7</span> <span class="toctext">Líneas horizontales</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Citas_y_epígrafes"><span class="tocnumber">3.3.8</span> <span class="toctext">Citas y epígrafes</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Caracteres_especiales"><span class="tocnumber">3.3.9</span> <span class="toctext">Caracteres especiales</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Superíndices_y_subíndices"><span class="tocnumber">3.3.10</span> <span class="toctext">Superíndices y subíndices</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Tamaño_del_texto"><span class="tocnumber">3.3.11</span> <span class="toctext">Tamaño del texto</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Color"><span class="tocnumber">3.3.12</span> <span class="toctext">Color</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Comentarios"><span class="tocnumber">3.3.13</span> <span class="toctext">Comentarios</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Secciones"><span class="tocnumber">4</span> <span class="toctext">Secciones</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#Archivos"><span class="tocnumber">5</span> <span class="toctext">Archivos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#Imágenes"><span class="tocnumber">5.1</span> <span class="toctext">Imágenes</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Audio_y_vídeo"><span class="tocnumber">5.2</span> <span class="toctext">Audio y vídeo</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Notación_musical"><span class="tocnumber">5.3</span> <span class="toctext">Notación musical</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#PDF_y_DjVu"><span class="tocnumber">5.4</span> <span class="toctext">PDF y DjVu</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Listas"><span class="tocnumber">6</span> <span class="toctext">Listas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="#Numeradas"><span class="tocnumber">6.1</span> <span class="toctext">Numeradas</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#No_numeradas"><span class="tocnumber">6.2</span> <span class="toctext">No numeradas</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Otras_listas"><span class="tocnumber">6.3</span> <span class="toctext">Otras listas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-36"><a href="#Tablas"><span class="tocnumber">7</span> <span class="toctext">Tablas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-37"><a href="#Índice"><span class="tocnumber">7.1</span> <span class="toctext">Índice</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#Fórmulas"><span class="tocnumber">8</span> <span class="toctext">Fórmulas</span></a></li>
+<li class="toclevel-1 tocsection-39"><a href="#Líneas_de_tiempo"><span class="tocnumber">9</span> <span class="toctext">Líneas de tiempo</span></a></li>
+<li class="toclevel-1 tocsection-40"><a href="#Referencias"><span class="tocnumber">10</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-41"><a href="#Plantillas"><span class="tocnumber">11</span> <span class="toctext">Plantillas</span></a></li>
+<li class="toclevel-1 tocsection-42"><a href="#Categorías"><span class="tocnumber">12</span> <span class="toctext">Categorías</span></a></li>
+<li class="toclevel-1 tocsection-43"><a href="#Interwikis"><span class="tocnumber">13</span> <span class="toctext">Interwikis</span></a></li>
+<li class="toclevel-1 tocsection-44"><a href="#Otros_tipos_de_páginas"><span class="tocnumber">14</span> <span class="toctext">Otros tipos de páginas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-45"><a href="#Cómo_se_edita_una_categoría"><span class="tocnumber">14.1</span> <span class="toctext">Cómo se edita una categoría</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#Cómo_se_edita_una_discusión"><span class="tocnumber">14.2</span> <span class="toctext">Cómo se edita una discusión</span></a>
+<ul>
+<li class="toclevel-3 tocsection-47"><a href="#Firmar_un_comentario"><span class="tocnumber">14.2.1</span> <span class="toctext">Firmar un comentario</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-48"><a href="#Cómo_se_edita_una_página_de_usuario"><span class="tocnumber">14.3</span> <span class="toctext">Cómo se edita una página de usuario</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="#Cómo_se_edita_una_plantilla"><span class="tocnumber">14.4</span> <span class="toctext">Cómo se edita una plantilla</span></a></li>
+<li class="toclevel-2 tocsection-50"><a href="#Cómo_se_edita_una_redirección"><span class="tocnumber">14.5</span> <span class="toctext">Cómo se edita una redirección</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-51"><a href="#Consejos_y_recomendaciones"><span class="tocnumber">15</span> <span class="toctext">Consejos y recomendaciones</span></a></li>
+<li class="toclevel-1 tocsection-52"><a href="#Véase_también"><span class="tocnumber">16</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-53"><a href="#Enlaces_externos_2"><span class="tocnumber">17</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Primeros_pasos">Primeros pasos</span></h2>
+<p>Para editar Wikipedia no es necesario estar registrado, aunque sí es cierto que registrarse conlleva una <a href="/wiki/Ayuda:Registro" title="Ayuda:Registro">serie de ventajas</a>. Decidas registrarte o no, el proceso de editar un artículo puede resumirse en <b>tres pasos</b>.
+</p>
+<div class="thumb tmulti tnone center"><div class="thumbinner" style="width:762px;max-width:762px"><div class="tsingle" style="float:left;margin:1px;width:252px;max-width:252px"><div class="thumbimage"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_paso_1.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Tutorial_de_edici%C3%B3n%2C_paso_1.png/250px-Tutorial_de_edici%C3%B3n%2C_paso_1.png" decoding="async" width="250" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Tutorial_de_edici%C3%B3n%2C_paso_1.png/375px-Tutorial_de_edici%C3%B3n%2C_paso_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Tutorial_de_edici%C3%B3n%2C_paso_1.png/500px-Tutorial_de_edici%C3%B3n%2C_paso_1.png 2x" data-file-width="838" data-file-height="460" /></a></div><div class="thumbcaption" style="clear:left"><b>Paso 1</b>. Editar Wikipedia es muy sencillo, simplemente haz clic en la pestaña «<b>editar</b>» ubicada en la parte superior de todas las páginas (cada sección también tiene un enlace equivalente).</div></div><div class="tsingle" style="float:left;margin:1px;width:252px;max-width:252px"><div class="thumbimage"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_paso_2.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tutorial_de_edici%C3%B3n%2C_paso_2.png/250px-Tutorial_de_edici%C3%B3n%2C_paso_2.png" decoding="async" width="250" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tutorial_de_edici%C3%B3n%2C_paso_2.png/375px-Tutorial_de_edici%C3%B3n%2C_paso_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tutorial_de_edici%C3%B3n%2C_paso_2.png/500px-Tutorial_de_edici%C3%B3n%2C_paso_2.png 2x" data-file-width="838" data-file-height="460" /></a></div><div class="thumbcaption" style="clear:left"><b>Paso 2</b>. Sabrás que estás en el «<b>modo edición</b>» porque verás una caja blanca que contiene el texto del artículo. En la parte superior de ella dispones de una <b><a href="/wiki/Ayuda:Barra_de_herramientas_de_edici%C3%B3n" title="Ayuda:Barra de herramientas de edición">barra de herramientas</a></b> para dar formato al texto. Modifica lo que estimes oportuno.</div></div><div class="tsingle" style="float:left;margin:1px;width:252px;max-width:252px"><div class="thumbimage"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_paso_3.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tutorial_de_edici%C3%B3n%2C_paso_3.png/250px-Tutorial_de_edici%C3%B3n%2C_paso_3.png" decoding="async" width="250" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tutorial_de_edici%C3%B3n%2C_paso_3.png/375px-Tutorial_de_edici%C3%B3n%2C_paso_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tutorial_de_edici%C3%B3n%2C_paso_3.png/500px-Tutorial_de_edici%C3%B3n%2C_paso_3.png 2x" data-file-width="838" data-file-height="460" /></a></div><div class="thumbcaption" style="clear:left"><b>Paso 3</b>. Los cambios que hagas serán visibles desde el momento en que presiones el botón «<b>Guardar la página</b>». Dada esta inmediatez, es preferible utilizar antes el botón «<b><a href="/wiki/Ayuda:Mostrar_previsualizaci%C3%B3n" title="Ayuda:Mostrar previsualización">Mostrar previsualización</a></b>» y una vez has comprobado que todo está correcto, entonces grabar los cambios.</div></div><div style="clear:left"></div></div></div>
+<h3><span id="C.C3.B3mo_empezar_una_p.C3.A1gina"></span><span class="mw-headline" id="Cómo_empezar_una_página">Cómo empezar una página</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículos principales:</span>&#32;<i><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página"> Ayuda:Cómo empezar una página</a></i><span style="font-size:88%">&#32;y&#32;</span><i><a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos"> Wikipedia:Convenciones de títulos</a></i>.</div>
+<p>Existe una página con una explicación detallada sobre <b><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">cómo empezar una página</a></b>. Básicamente hay dos formas:
+</p>
+<ol><li>Mientras editas el texto de una página existente puedes poner algo entre dobles corchetes como, por ejemplo, <code>[[mi página]]</code>. Cuando guardes la página, aparecerá un enlace azul si la página ya existe, o rojo si aún no. En el segundo caso, pulsa sobre él e irás a una nueva página que puedes editar. Reemplaza el texto «Escribe aquí el contenido de la página» con el texto que desees.</li>
+<li>Teclea el título de tu nueva página precedido de la cadena «http://es.wikipedia.org/wiki/» en el campo «URL» de tu navegador y pulsa la <a href="/wiki/Tecla_Enter" class="mw-redirect" title="Tecla Enter">tecla Enter</a>. Si todo resulta bien, llegarás a una página con el título que usaste y podrás empezar a editarla.</li></ol>
+<p>El modo recomendado es el primero. Se recomienda esto para que las páginas no queden sueltas, sino que haya algún enlace entre ellas y sea más fácil que el usuario las encuentre. A la hora de nombrar las páginas se recomienda seguir las <b><a href="/wiki/Wikipedia:Convenciones_de_t%C3%ADtulos" title="Wikipedia:Convenciones de títulos">convenciones de títulos</a></b>.
+</p>
+<h2><span class="mw-headline" id="Enlaces">Enlaces</span></h2>
+<p>En <a href="/wiki/Internet" title="Internet">Internet</a> se navega entre páginas a través de enlaces. En Wikipedia se sigue el mismo sistema. Existen principalmente dos tipos de enlaces: internos y externos.
+</p>
+<h3><span class="mw-headline" id="Enlaces_internos">Enlaces internos</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_enlaces_internos.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Tutorial_de_edici%C3%B3n%2C_enlaces_internos.png/300px-Tutorial_de_edici%C3%B3n%2C_enlaces_internos.png" decoding="async" width="300" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/0/00/Tutorial_de_edici%C3%B3n%2C_enlaces_internos.png 1.5x" data-file-width="400" data-file-height="239" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_enlaces_internos.png" class="internal" title="Aumentar"></a></div>Si no quieres introducir los dobles corchetes (<tt>[[&#160;]]</tt>) a mano, puedes crear los enlaces utilizando el asistente. Selecciona la palabra a enlazar con el ratón y presiona el botón <img alt="Enlace" src="//upload.wikimedia.org/wikipedia/commons/4/48/Vector_toolbar_insert_link_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>. Esto abrirá un formulario donde indicarás el título de artículo destino y el título del enlace.</div></div></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Tutorial_(enlaces_internos)" title="Ayuda:Tutorial (enlaces internos)"> Ayuda:Tutorial (enlaces internos)</a></i></div>
+<p>Los <b>enlaces internos</b> son aquellos que llevan a otras páginas de Wikipedia. Los enlaces internos se crean siempre que el artículo destino aporte información de valor al artículo actual, permitiendo al lector navegar entre ambos.
+</p><p>Por ejemplo, si estamos escribiendo sobre los planetas del <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a>:
+</p>
+<center><code>[...] los planetas del sistema solar son: Mercurio, Venus, Tierra...</code></center>
+<p>Quizás nos interese activar los enlaces internos hacia los artículos de cada planeta. En ese caso, pondremos dobles corchetes alrededor de cada palabra que queramos convertir en enlace:
+</p>
+<center><code>[...] los planetas del sistema solar son: [[Mercurio]], [[Venus]], Tierra...</code></center>
+<p>Automáticamente, las palabras actuarán como enlaces internos. Si el artículo existe, las palabras saldrán en azul; si el artículo no existe, las palabras saldrán en rojo. En este caso existen los dos artículos enlazados:
+</p>
+<center><code>[...] los planetas del sistema solar son: <a href="/wiki/Mercurio" class="mw-disambig" title="Mercurio">Mercurio</a>, <a href="/wiki/Venus" class="mw-disambig" title="Venus">Venus</a>, Tierra...</code></center>
+<p>Pero hay un problema. Mercurio es un planeta, pero también un elemento químico. Venus es un planeta, pero también una diosa de la mitología, etc. Por ello, <a href="/wiki/Mercurio" class="mw-disambig" title="Mercurio">Mercurio</a> y <a href="/wiki/Venus" class="mw-disambig" title="Venus">Venus</a> son <a href="/wiki/Wikipedia:Desambiguaci%C3%B3n" class="mw-redirect" title="Wikipedia:Desambiguación">páginas de desambiguación</a> y contienen una lista de enlaces a todos los posibles significados de esos términos. Bastará consultar esas páginas para saber el título exacto de los artículos sobre el planeta Mercurio y Venus, en este caso: <a href="/wiki/Mercurio_(planeta)" title="Mercurio (planeta)">Mercurio (planeta)</a> y <a href="/wiki/Venus_(planeta)" title="Venus (planeta)">Venus (planeta)</a>. Entonces crearemos los enlaces de este modo (con una barra vertical «|» entre el título del artículo y el título del enlace):
+</p>
+<center><code>[...] los planetas del sistema solar son: [[Mercurio (planeta)|Mercurio]], [[Venus (planeta)|Venus]], Tierra...</code></center>
+<p>Y tendremos, ahora sí, los enlaces apuntando a los artículos correctos.
+</p>
+<center><code>[...] los planetas del sistema solar son: <a href="/wiki/Mercurio_(planeta)" title="Mercurio (planeta)">Mercurio</a>, <a href="/wiki/Venus_(planeta)" title="Venus (planeta)">Venus</a>, Tierra...</code></center>
+<p>Generalmente, los artículos que comparten un mismo título no son frecuentes, por lo que bastará con introducir los corchetes y listo (es el caso de <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a> y <a href="/wiki/Tierra" title="Tierra">Tierra</a>).
+</p>
+<center><code>[...] los planetas del [[sistema solar]] son: [[Mercurio (planeta)|Mercurio]], [[Venus (planeta)|Venus]], [[Tierra]]...</code></center>
+<p>Y obtendrás:
+</p>
+<center><code>[...] los planetas del <a href="/wiki/Sistema_solar" title="Sistema solar">sistema solar</a> son: <a href="/wiki/Mercurio_(planeta)" title="Mercurio (planeta)">Mercurio</a>, <a href="/wiki/Venus_(planeta)" title="Venus (planeta)">Venus</a>, <a href="/wiki/Tierra" title="Tierra">Tierra</a>...</code></center>
+<p>Agrega las conexiones internas que creas necesarias, pero evita abusar de los enlaces: usa solamente los que sean realmente necesarios y no enlaces la misma palabra más de una vez en una misma sección del artículo.
+</p>
+<h4><span id="Enlaces_a_subp.C3.A1ginas"></span><span class="mw-headline" id="Enlaces_a_subpáginas">Enlaces a subpáginas</span></h4>
+<p>Los enlaces internos que comiencen por una <a href="/wiki/Barra_oblicua" class="mw-redirect" title="Barra oblicua">barra oblicua</a> (/) son interpretados como dirigidos a una subpágina. Así <tt>[[/Ejemplo]]</tt> dará el mismo resultado que <tt>[[Ayuda:Cómo se edita una página/Ejemplo|/Ejemplo]]</tt>. Si lo que deseas es que se interprete literalmente debes añadir al comienzo del mismo <a href="/wiki/Dos_puntos" title="Dos puntos">dos puntos</a>, así: <tt>[[:/Ejemplo]]</tt>. Los dos puntos no son visibles en el enlace, lo que permite su integración natural en el texto. Otra alternativa es usar la <a href="/w/index.php?title=Entidad_HTML&amp;action=edit&amp;redlink=1" class="new" title="Entidad HTML (aún no redactado)">entidad HTML</a> correspondiente al carácter de la barra oblicua (<tt>&amp;#47;</tt>). Por ejemplo, <tt>[[&amp;#47;Ejemplo]]</tt> será interpretado literalmente.
+</p><p>También puede crear un enlace local a través de una página de <span class="plainlinks"><a class="external text" href="https://www.mediawiki.org/wiki/Help:Extension:GlobalUserPage">usuario global</a></span> (Meta) usando la barra oblicua en los enlaces, de esta forma:
+</p>
+<dl><dd>[[/Taller]]
+<dl><dd>Lo cual formará un enlace dependiendo de la wiki en la cual lo visualice.
+<dl><dd>Si está en Wikipedia, el enlace será -&gt; //es.wikipedia.org/wiki/Usuario:nombreusuario/Taller</dd>
+<dd>Si está en Wikilibros, el enlace será -&gt; //es.wikibooks.org/wiki/Usuario:nombreusuario/Taller</dd></dl></dd></dl></dd></dl>
+<p>Sin embargo, si la página "Taller" no está creada debidamente en Meta, el enlace se mostrará en rojo sin importar si está creada en la wiki desde la cual lo observe. Por lo que se recomienda usar un color personalizado para esta clase de enlaces.
+</p>
+<h4><span id="Limitaciones_t.C3.A9cnicas"></span><span class="mw-headline" id="Limitaciones_técnicas">Limitaciones técnicas</span></h4>
+<p>Los enlaces que empiezan por dos barras oblicuas se rompen y no enlazan a ningún sitio. Así, vínculos como <tt>[[//]] o [[//Ejemplo]]</tt> simplemente no sirven. La solución es la misma que para los enlaces a subpáginas, con el inconveniente de que siempre son interpretados literalmente. Sin embargo, aunque no es recomendable, sí es posible crear subpáginas que incluyan una doble barra, pero para enlazarlas es necesario escribir su nombre completo.
+</p><p>Si el nombre de la página debería comenzar de la misma forma que un <a href="/wiki/A:EN" class="mw-redirect" title="A:EN">espacio de nombres</a>, entonces no podría distinguirse como perteneciente al espacio principal y caería dentro de las <a href="/wiki/Wikipedia:RTT" class="mw-redirect" title="Wikipedia:RTT">restricciones a los títulos</a>. De esa forma, un vínculo como <tt>[[Ayuda: ¡sálvanos!]]</tt> conducirá siempre, aunque se le añadan dos puntos o se usen entidades HTML, al <a href="/wiki/Wikipedia:Espacio_de_nombres_Ayuda" title="Wikipedia:Espacio de nombres Ayuda">espacio Ayuda</a> y no a un artículo.
+</p><p>Algunas palabras son interpretadas como una clave, llamada <b>prefijo</b>, que transforma el enlace interno en uno externo. Los prefijos pueden ser palabras completas o <a href="/wiki/Ap%C3%B3cope" title="Apócope">apócopes</a>, siempre seguido de dos puntos. Esta limitación es la más restrictiva, puesto que no es posible de ninguna forma enlazar a páginas que comiencen de la misma manera que un prefijo, no importa cuantos dos puntos se añadan ni si se usan entidades HTML. La razón es que <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> los considera un <a href="/wiki/Ayuda:Enlace_interling%C3%BC%C3%ADstico" title="Ayuda:Enlace interlingüístico">enlace interlingüístico</a> mientras que si se añaden los dos puntos iniciales se interpretan como enlaces externos.
+</p><p>Por ejemplo <tt>[[en:]]</tt> vincula la página en que se incluye con la portada de la <a href="/wiki/Wikipedia_en_ingl%C3%A9s" title="Wikipedia en inglés">Wikipedia en inglés</a>, mientras que <tt>[[:en:]] y [[&amp;#58;en:]]</tt> son enlaces externos que redirige a esa misma página.
+</p><p>En <a href="/wiki/Especial:Enlaces_interlig%C3%BC%C3%ADsticos" title="Especial:Enlaces interligüísticos">Especial:Enlaces interligüísticos</a> tienes una lista completa de los prefijos disponibles.
+</p>
+<table style="margin-right:4em; min-width:50%; max-width:77%">
+<tbody><tr>
+<td><blockquote style="padding-right:2em; padding-left:1.5em; padding-bottom:0.5em; padding-top:0.5em; border:1px solid; font-family:Georgia,serif; border-color: #49768C; background-color: #FFFFFF; color: #000000">
+<p>IMPORTANTE: Recuerda que ni <a href="/wiki/Especial:Buscar" title="Especial:Buscar">el buscador</a> ni <a href="/wiki/Especial:P%C3%A1ginasPorPrefijo" title="Especial:PáginasPorPrefijo">Especial:PáginasPorPrefijo</a> encuentran páginas cuyo nombre empiece de la misma forma que un prefijo, ya que el <i>software</i> ni siquiera permite la creación de la página. Véase <a href="/wiki/Wikipedia:Restricciones_t%C3%A9cnicas_en_t%C3%ADtulos" title="Wikipedia:Restricciones técnicas en títulos">Wikipedia:Restricciones técnicas en títulos</a>.
+</p>
+</blockquote>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_enlaces_externos.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Tutorial_de_edici%C3%B3n%2C_enlaces_externos.png/300px-Tutorial_de_edici%C3%B3n%2C_enlaces_externos.png" decoding="async" width="300" height="180" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/8/8d/Tutorial_de_edici%C3%B3n%2C_enlaces_externos.png 1.5x" data-file-width="400" data-file-height="240" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Tutorial_de_edici%C3%B3n,_enlaces_externos.png" class="internal" title="Aumentar"></a></div>También existe un asistente para crear enlaces externos. Pulsa el botón <img alt="Enlace" src="//upload.wikimedia.org/wikipedia/commons/4/48/Vector_toolbar_insert_link_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a> y selecciona la opción «A una página web externa». Escribe en «Título de página» la <a href="/wiki/Direcci%C3%B3n_web" class="mw-redirect" title="Dirección web">dirección web</a> o URL del sitio escogido (no olvides añadir al principio <code>http://</code>) y en «Título del enlace» el texto que hará de enlace.</div></div></div>
+<p>Muchas veces es necesario enlazar con otros sitios web de Internet. Por ello, este tipo de enlaces se llaman <b>enlaces externos</b>.
+</p><p>Ten en cuenta que en los artículos, los enlaces externos se colocan en las secciones "Referencias" y "Enlaces externos". En el cuerpo del artículo, <a href="/wiki/Wikipedia:Manual_de_estilo#Enlaces" title="Wikipedia:Manual de estilo">solo coloca enlaces dentro de Wikipedia en español</a>.
+</p><p>El sistema detecta automáticamente los enlaces externos que empiecen por <code>http://</code>. Por ejemplo, al introducir lo siguiente (sin necesidad de dobles corchetes, ni de barra vertical):
+</p>
+<center><code>http://www.google.com</code></center>
+<p>Obtendremos directamente un enlace externo:
+</p>
+<center><code><a rel="nofollow" class="external free" href="http://www.google.com">http://www.google.com</a></code></center>
+<p>Si queremos que la dirección web quede oculta bajo un texto que nosotros elijamos, procederemos del siguiente modo:
+</p>
+<center><code>[http://www.google.com Página principal de Google]</code></center>
+<p>Y resultará:
+</p>
+<center><code><a rel="nofollow" class="external text" href="http://www.google.com">Página principal de Google</a></code></center>
+<p>También es posible crear un enlace externo de modo que aparezca como referencia numerada, encerrándola sin más entre corchetes simples (<code>[&#160;]</code>):
+</p>
+<center><code>[http://www.google.com]</code></center>
+<p>Obtendremos:
+</p>
+<center><code><a rel="nofollow" class="external autonumber" href="http://www.google.com">[1]</a></code></center>
+<h3><span class="mw-headline" id="Otros_enlaces">Otros enlaces</span></h3>
+<div class="rellink noprint"> Para una lista detallada de los <b>prefijos</b>, véase <a href="/wiki/Especial:Enlaces_interlig%C3%BC%C3%ADsticos" title="Especial:Enlaces interligüísticos">Especial:Enlaces interligüísticos</a>.</div>
+<p>Existen estas otras variantes a los enlaces internos y externos.
+</p>
+<ul><li>Títulos con paréntesis: <code>[[Júpiter (mitología)|]]</code> → <code><a href="/wiki/J%C3%BApiter_(mitolog%C3%ADa)" title="Júpiter (mitología)">Júpiter</a></code></li>
+<li>Plurales:
+<ul><li><code>[[rey]]es</code> → <code><a href="/wiki/Rey" class="mw-redirect" title="Rey">reyes</a></code></li>
+<li><code>[[rey de Portugal|reyes de Portugal]]</code> → <code><a href="/wiki/Rey_de_Portugal" class="mw-redirect" title="Rey de Portugal">reyes de Portugal</a></code></li></ul></li>
+<li>Imágenes y categorías: hay que precederlas de dos puntos (:).
+<ul><li><code>[[:Categoría:Países]]</code> → <code><a href="/wiki/Categor%C3%ADa:Pa%C3%ADses" title="Categoría:Países">Categoría:Países</a></code></li>
+<li><code>ver [[:Categoría:Países|todos los países]] del mundo</code> → <code>ver <a href="/wiki/Categor%C3%ADa:Pa%C3%ADses" title="Categoría:Países">todos los países</a> del mundo</code></li>
+<li><code>[[:Archivo:Einstein.jpg]]</code> → <code><a href="/wiki/Archivo:Einstein.jpg" title="Archivo:Einstein.jpg">Archivo:Einstein.jpg</a></code></li>
+<li><code>una imagen de [[:Archivo:Einstein.jpg|Albert Einstein]] pensativo</code> → <code>una imagen de <a href="/wiki/Archivo:Einstein.jpg" title="Archivo:Einstein.jpg">Albert Einstein</a> pensativo</code></li></ul></li>
+<li>Títulos en un espacio de nombre distinto del principal: <code>[[Wikipedia:Café|]]</code> → <code><a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a></code></li>
+<li>Subpáginas: establecen una jerarquía. Son útiles en páginas de usuario y discusión (para almacenar conversaciones antiguas).
+<ul><li><code>[[/Subpágina]]</code>: enlaza a una subpágina de la actual. Es decir, otra forma de enlazar a <code>[[Wikipedia:Café/Archivo]]</code> desde «<a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Wikipedia:Café</a>» es hacerlo así: <code>[[/Archivo|Archivo]]</code>.</li>
+<li><code>[[../]]</code>: enlaza a la página superior de la actual.</li>
+<li><code>[[../Hermana]]</code>: enlaza a una página en el mismo nivel de jerarquía. Es decir, desde <code>[[Wikipedia:Café/Archivo]]</code> podemos enlazar con <code>[[../Archivo 2004]]</code> a <code>[[Wikipedia:Café/Archivo 2004]]</code>.</li></ul></li>
+<li>Secciones: permite enlazar con las secciones dentro de una misma página.
+<ul><li><code>[[#Historia]]</code>: si el artículo tiene una sección llamada «Historia», el enlace nos llevará a ella.</li>
+<li><code>[[#top]]</code>: envía al comienzo de la página.</li>
+<li><code>[[#footer]]</code>: envía al final de la página.</li>
+<li>Como con los demás enlaces internos, podemos modificar el texto del enlace: <code>[[#Historia|su historia]]</code> → <code><a href="#Historia">su historia</a></code></li></ul></li></ul>
+<h2><span class="mw-headline" id="Formatos_de_texto">Formatos de texto</span></h2>
+<p>Los <b>formatos de texto</b> facilitan la lectura y resaltan los puntos más importantes. Los principales son las <b>negritas</b> y las <i>cursivas</i>. También existen otras opciones adicionales.
+</p><p>Los formatos de texto, sobre todo los subrayados, tachados, líneas horizontales, distintos tamaños, fuentes y colores, pueden provocar un efecto negativo en la legibilidad del texto. Por ello ten en cuenta que no conviene abusar de los formatos de texto, e intenta utilizarlos lo menos posible. Mira otros artículos para entender cuándo se suele utilizar negritas y cursivas.
+</p>
+<h3><span class="mw-headline" id="Negritas">Negritas</span></h3>
+<p>Para convertir una palabra o frase en <b>negritas</b> debes rodearlo de <b>tres comillas simples</b> (<code>'''</code>), escribiéndolas a mano o presionando el botón <img alt="Negrita" src="//upload.wikimedia.org/wikipedia/commons/c/ca/Vector_toolbar_bold_N_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>. El código siguiente:
+</p>
+<center><code>...el texto en negritas '''resalta mucho''' sobre todo lo demás...</code></center>
+<p>Genera esto:
+</p>
+<center><code>...el texto en negritas <b>resalta mucho</b> sobre todo lo demás...</code></center>
+<h3><span class="mw-headline" id="Cursivas">Cursivas</span></h3>
+<p>Para convertir una palabra o frase en <i>cursivas</i> debes rodearlo de <b>dos comillas simples</b> (<code>''</code>), escribiéndolas a mano o presionando el botón <img alt="Negritas" src="//upload.wikimedia.org/wikipedia/commons/5/50/Vector_toolbar_italic_C_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>. El código siguiente:
+</p>
+<center><code>...el texto en cursiva ''resalta un poco menos'' que en negrita...</code></center>
+<p>Genera esto:
+</p>
+<center><code>...el texto en cursiva <i>resalta un poco menos</i> que en negrita...</code></center>
+<h3><span class="mw-headline" id="Otras_opciones_de_formato">Otras opciones de formato</span></h3>
+<p>Además de las negritas y cursivas existen <b>otros formatos de texto</b>:
+</p>
+<h4><span class="mw-headline" id="Subrayado">Subrayado</span></h4>
+<p><code>...podemos subrayar &lt;u&gt;una parte&lt;/u&gt; de la oración...</code> → ...podemos subrayar <u>una parte</u> de la oración...
+</p>
+<h4><span class="mw-headline" id="Tachado">Tachado</span></h4>
+<p><code>...incluso tachar &lt;s&gt;un fragmento&lt;/s&gt; de otra...</code> → ...incluso tachar <s>un fragmento</s> de otra...
+</p>
+<h4><span id="Sangr.C3.ADa"></span><span class="mw-headline" id="Sangría">Sangría</span></h4>
+<p>La forma más simple de poner sangría al texto es escribir «dos puntos» (<code>:</code>) al inicio de la línea. Cuantos más signos de dos puntos pongas, más sangría tendrá la línea.
+</p>
+<dl><dd><code>Esta línea está sangrada a nivel 1</code>
+<dl><dd><code>Esta lo está un poco más, a nivel 2 (se ponen dos caracteres de <i>dos puntos</i>&#160;:: al inicio)</code>
+<dl><dd><code>Nivel 3. ¿Quién sabe hasta dónde podríamos llegar? (se ponen tres signos de <i>dos puntos</i>&#160;::: al inicio)</code></dd></dl></dd></dl></dd></dl>
+<p>Cuando hay mucha sangría se usa la plantilla <code>{{<a href="/wiki/Plantilla:Quito_sangr%C3%ADa" class="mw-redirect" title="Plantilla:Quito sangría">quito sangría</a>}}</code> y así se empieza desde el principio de la frase, y entre la nueva frase y la vieja aparece una línea como la siguiente. Hay que poner {{quito sangría|número de puntos}}, en <code>número de puntos</code> sustituirlo por la misma cantidad de puntos que la última frase, también se puede poner un número entero. Quedando así {{quito sangría|:::}} o {{quito sangría|3}} <br />
+<span class="outdent-template" style="font-family:DejaVu Sans, sans-serif;"><span style="color:#808080">┌──────┘</span><br /></span>
+</p>
+<h4><span id="Tipograf.C3.ADa_monoespaciada"></span><span class="mw-headline" id="Tipografía_monoespaciada">Tipografía monoespaciada</span></h4>
+<p>Para escribir un texto con una <a href="/wiki/Tipograf%C3%ADa" title="Tipografía">tipografía</a> de anchura fija de carácter, como «Courier», escribe uno o más espacios al principio de línea:
+</p>
+<pre>En otras palabras, si empiezas un párrafo con espacios, esa línea se indentará
+y a la vez aparecerá con una fuente monoespaciada.
+</pre>
+<h4><span class="mw-headline" id="Coloreado_de_sintaxis">Coloreado de sintaxis</span></h4>
+<p>Si quieres insertar fragmentos de código fuente puedes hacer su lectura más sencilla si usas el coloreado de sintaxis:
+</p>
+<pre>&lt;source lang=C&gt;
+int main()
+{
+    printf("hola");
+}
+&lt;/source&gt;
+</pre>
+<p>Se verá así:
+</p>
+<div class="mw-highlight mw-content-ltr" dir="ltr"><pre><span></span><span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="n">printf</span><span class="p">(</span><span class="s">&quot;hola&quot;</span><span class="p">);</span>
+<span class="p">}</span>
+</pre></div>
+<h4><span class="mw-headline" id="Tipos_de_letra">Tipos de letra</span></h4>
+<p>Existen etiquetas para cambiar el tipo de fuente, de esta manera resalta sobre el texto normal.
+</p>
+<ul><li><code>&lt;tt&gt;&lt;/tt&gt;</code>: fuente monoespacio. Ejemplo: <code>&lt;tt&gt;monoespacio&lt;/tt&gt;</code> → <tt>monoespacio</tt>.</li>
+<li><code>&lt;code&gt;&lt;/code&gt;</code>: resalta el texto levemente mediante un color de fondo gris. Ejemplo: <code>&lt;code&gt;mi código&lt;/code&gt;</code> → <code>mi código</code>.</li>
+<li><code>&lt;pre&gt;&lt;/pre&gt;</code>: similar a <code>&lt;code&gt;&lt;/code&gt;</code> pero preserva los saltos de línea.</li>
+<li><code>&lt;span&gt;&lt;/span&gt;</code>: para escribir en una fuente que desees. Ejemplo para escribir usando <a href="/wiki/Times_New_Roman" title="Times New Roman">Times New Roman</a>: <code>&lt;span style="font-family: Times New Roman"&gt;Aquí el contenido&lt;/span&gt;</code> → <code><span style="font-family: Times New Roman">Aquí el contenido</span></code>.</li>
+<li><code>&lt;nowiki&gt;&lt;/nowiki&gt;</code>: su utilidad es la de poder insertar código wiki sin que sea interpretado. En el siguiente ejemplo no se activa el enlace: <code>&lt;nowiki&gt;[[enlace]]&lt;/nowiki&gt;</code> → <code>[[enlace]]</code>. Una forma cómoda de usar <code>&lt;nowiki&gt;&lt;/nowiki&gt;</code> es seleccionar el código que quieras mostrar y pulsar el botón <img alt="Sin formato wiki" src="//upload.wikimedia.org/wikipedia/commons/8/87/Vector_toolbar_no_wiki_formatting_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" />.</li></ul>
+<h4><span id="L.C3.ADneas_horizontales"></span><span class="mw-headline" id="Líneas_horizontales">Líneas horizontales</span></h4>
+<p>Puedes hacer una línea horizontal colocando cuatro guiones seguidos <code>----</code>. Conseguirás esto:
+</p>
+<hr />
+<h4><span id="Citas_y_ep.C3.ADgrafes"></span><span class="mw-headline" id="Citas_y_epígrafes">Citas y epígrafes</span></h4>
+<p>Bastará con hacer uso de la plantilla destinada a tal efecto: <code>{{<a href="/wiki/Plantilla:Cita" title="Plantilla:Cita">Cita</a>}}</code>. Su sintaxis es <code>{{Cita|Texto a citar.|[[Autor]], ''Obra''}}</code>. Por ejemplo:
+<style data-mw-deduplicate="TemplateStyles:r119797252">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+</p>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Imagine un mundo en el que cada persona del planeta tenga acceso libre a la suma total del conocimiento humano. Eso es lo que estamos haciendo.</div>
+ </div><div class="cite"><a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a>, <i><a rel="nofollow" class="external text" href="http://interviews.slashdot.org/article.pl?sid=04/07/28/1351230">Entrevista en Slashdot</a></i></div>
+</blockquote>
+<h4><span class="mw-headline" id="Caracteres_especiales">Caracteres especiales</span></h4>
+<p>Puede que necesites usar caracteres especiales como: ü À α. Para acceder a un listado de los más comunes rápidamente, haz clic en la sección «Caracteres especiales» de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>. En <a href="/wiki/Ayuda:Caracteres_especiales" title="Ayuda:Caracteres especiales">Ayuda:Caracteres especiales</a> puedes consultar los que hay disponibles y algunas indicaciones adicionales.
+</p>
+<h4><span id="Super.C3.ADndices_y_sub.C3.ADndices"></span><span class="mw-headline" id="Superíndices_y_subíndices">Superíndices y subíndices</span></h4>
+<p>Con las etiquetas <code>&lt;sup&gt;&lt;/sup&gt;</code> y <code>&lt;sub&gt;&lt;/sub&gt;</code> respectivamente, insertando el texto dentro de ellas. Ejemplo: <code>&lt;sup&gt;texto arriba&lt;/sup&gt;</code> → <sup>texto arriba</sup> y <code>&lt;sub&gt;texto abajo&lt;/sub&gt;</code> → <sub>texto abajo</sub>. Recuerda que tienes a tu disposición los botones <img alt="Subíndice" src="//upload.wikimedia.org/wikipedia/commons/d/d0/Vector_toolbar_subscript_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> <img alt="Superíndice" src="//upload.wikimedia.org/wikipedia/commons/c/c8/Vector_toolbar_superscript_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> (subíndice / superíndice).
+</p>
+<h4><span id="Tama.C3.B1o_del_texto"></span><span class="mw-headline" id="Tamaño_del_texto">Tamaño del texto</span></h4>
+<p>Puedes modificarlo metiendo el texto entre las etiquetas <code>&lt;small&gt;&lt;/small&gt;</code> para reducirlo o entre <code>&lt;big&gt;&lt;/big&gt;</code> para agrandarlo; usa los botones <img alt="Texto grande" src="//upload.wikimedia.org/wikipedia/commons/7/77/Vector_toolbar_big_text_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> <img alt="Texto pequeño" src="//upload.wikimedia.org/wikipedia/commons/3/3c/Vector_toolbar_small_text_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> (agrandar/reducir tamaño del texto) para hacerlo sin mayores complicaciones. Ejemplo: <code>&lt;small&gt;texto pequeño&lt;/small&gt;</code> → <small>texto pequeño</small> y <code>&lt;big&gt;texto grande&lt;/big&gt;</code> → <big>texto grande</big>.
+</p>
+<h4><span class="mw-headline" id="Color">Color</span></h4>
+<p>También puedes controlar el <font color="#00FF00"><b>c</b></font><font color="#0000FF"><b>o</b></font><font color="#00FFFF"><b>l</b></font><font color="#FF00FF"><b>o</b></font><font color="#FF8000"><b>r</b></font>. Por ejemplo: <code>&lt;span style="color: #FF00FF"&gt;este texto es rosa&lt;/span&gt;</code> → <span style="color: #FF00FF">este texto es rosa</span>. Para ver un listado de los colores que puedes usar, mira <a href="/wiki/Colores_HTML" class="mw-redirect" title="Colores HTML">Colores HTML</a>.
+</p>
+<h4><span class="mw-headline" id="Comentarios">Comentarios</span></h4>
+<p>Es posible colocar comentarios en la edición. En modo edición al insertar líneas comentadas, estas solo se verán al editar y no aparecerán en el artículo. Los comentarios son particularmente útiles cuando se traduce de una wiki de un idioma a otro, o cuando no se está seguro de hacer la traducción adecuada de un trozo de texto.
+</p><p>Por ejemplo <code>&lt;!--mi comentario--&gt;</code>
+</p>
+<h2><span class="mw-headline" id="Secciones">Secciones</span></h2>
+<p>Cuando una página tiene bastante texto y la separación en párrafos no es suficiente, se crean <b>secciones</b> para estructurar el texto. Por ejemplo, el artículo <a href="/wiki/Historia_de_Francia" title="Historia de Francia">Historia de Francia</a> tiene una sección por cada época. A su vez, cada sección puede tener subsecciones.
+</p><p>El título de la sección se sitúa entre dos o más signos de igual <code>== Sección ==</code>. Los espacios entre los signos de igual y el título no se tienen en cuenta. Es lo mismo poner <code>==Filmografía==</code> que <code>== Filmografía ==</code>. Aunque sí es obligatorio pegar el primer signo de igual al margen izquierdo.
+</p><p>El número de signos de igual define el nivel de jerarquía de la sección del siguiente modo:
+</p>
+<dl><dd><code>== Sección 1 ==</code><br /></dd>
+<dd><code>=== Sección 1.1 ===</code><br /></dd>
+<dd><code>==== Sección 1.1.1 ====</code><br /></dd>
+<dd><code>==== Sección 1.1.2 ====</code><br /></dd>
+<dd><code>=== Sección 1.2 ===</code><br /></dd>
+<dd><code>== Sección 2 ==</code><br /></dd>
+<dd><code>== Sección 3 ==</code><br /></dd></dl>
+<p>También puedes crear secciones utilizando la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a> pulsando el menú desplegable «Encabezado».
+</p>
+<div class="center"><div class="floatnone"><a href="/wiki/Archivo:Vector_toolbar_full-es.png" class="image" title="Barra de herramientas"><img alt="Barra de herramientas" src="//upload.wikimedia.org/wikipedia/commons/4/49/Vector_toolbar_full-es.png" decoding="async" width="700" height="67" data-file-width="700" data-file-height="67" /></a></div></div>
+<p>Junto a las secciones aparece un enlace [<font color="blue">editar</font>], que permite modificar solo esa sección. Esto facilita la edición de artículos largos.
+</p><p>En el caso de que, por tener la página un diseño especial, no convenga que aparezcan esos enlaces, puedes eliminarlos poniendo <code>__NOEDITSECTION__</code>.
+</p>
+<h2><span class="mw-headline" id="Archivos">Archivos</span></h2>
+<p>En Wikipedia en español únicamente pueden utilizarse los <b>archivos</b> disponibles en el repositorio multimedia <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a>. Por ello, si quieres insertar una imagen o recurso en un artículo, antes debes subirlos a Wikimedia Commons (ir al <b><a href="https://commons.wikimedia.org/wiki/Special:UploadWizard" class="extiw" title="commons:Special:UploadWizard">formulario de subida</a></b>).
+</p>
+<center><div style="width: 90%;border: 1px solid gray;padding: 5px;background-color: #FFCCCC;">Recuerda que <b>solo se permiten archivos con <a href="https://commons.wikimedia.org/wiki/Commons:Sobre_las_licencias" class="extiw" title="commons:Commons:Sobre las licencias">licencias libres</a></b> (como <a href="/wiki/Creative_Commons" title="Creative Commons">Creative Commons</a> en sus variantes CC-BY y CC-BY-SA, <a href="/wiki/Licencia_Arte_Libre" title="Licencia Arte Libre">Licencia Arte Libre</a> o <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a>).
+<p>La mayoría de las imágenes y recursos de otros sitios web de Internet no son libres (si no indican nada, se consideran «Todos los derechos reservados»), por lo que no sirven para Wikipedia (y si los subes, serán borrados).
+</p>
+Las imágenes, audio y vídeo creados por ti sirven, siempre que decidas publicarlos con una de las licencias libres mencionadas anteriormente.</div></center>
+<p>Una vez que has subido el archivo a Wikimedia Commons, tienes que insertar un código en el artículo de Wikipedia para que se muestre. Este código se compone de dos partes fundamentales: el <b>nombre del archivo</b> y las <b>opciones</b> de visualización.
+</p>
+<center><code>[[Archivo:<i>Nombre del archivo</i>|<i>opciones</i>]]</code></center>
+<p>Puedes hacerlo con el botón <img alt="Archivo empotrado" src="//upload.wikimedia.org/wikipedia/commons/d/d8/Vector_toolbar_insert_image_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> que aparece en la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>. Escribe y selecciona el nombre del archivo y el texto alternativo —separados por una barra «|»— y pulsa el botón. Escribirá <tt><b>[[Archivo:</b></tt> adelante y <tt><b>]]</b></tt> detrás.
+</p><p>El <b>nombre del archivo</b> siempre debe tener una extensión (la mayoría de las imágenes son <a href="/wiki/JPG" class="mw-redirect" title="JPG">JPG/JPEG</a>, <a href="/wiki/PNG" class="mw-redirect" title="PNG">PNG</a> o <a href="/wiki/Scalable_Vector_Graphics" class="mw-redirect" title="Scalable Vector Graphics">SVG</a>; para audio o vídeo puedes usar <a href="/wiki/OGG" class="mw-redirect" title="OGG">OGG</a> y para documentos <a href="/wiki/PDF" title="PDF">PDF</a> o <a href="/wiki/DjVu" title="DjVu">DjVu</a>). Debes tener cuidado con las mayúsculas y minúsculas. Por ejemplo, si subes una imagen con el nombre «<i>Mi Imagen.jpg</i>» (atención a la «<i>i</i>» mayúscula) pero luego no escribes su nombre exactamente igual, no funcionará y dicha imagen no se verá (saldrá un enlace rojo indicando que la imagen no existe). Sin embargo, da igual escribir espacios o guiones bajos «<code>_</code>», los nombres «<i>Mi Imagen.jpg</i>» y «<i>Mi_Imagen.jpg</i>» son equivalentes.
+</p><p>Algunas de las <b>opciones</b> de visualización avanzadas al insertar archivos son las siguientes:
+</p>
+<ul><li><b>Formato</b>: <code>miniatura</code> o <code>thumb</code> (miniatura y con recuadro), <code>frame</code> (marco) o <code>border</code> (con un borde gris). Es recomendable utilizar <code>miniatura</code>.</li>
+<li><b>Alineación</b>: posición del archivo en la pantalla (se puede indicar en español o inglés). Puede ser: <code>left</code> o <code>izquierda</code>, <code>center</code> o <code>centro</code>, <code>right</code> o <code>derecha</code>. Lo común es en la derecha.</li>
+<li><b>Tamaño</b>: se indica en <a href="/wiki/P%C3%ADxeles" class="mw-redirect" title="Píxeles">píxeles</a> de ancho. Por ejemplo <code>200px</code> ó <code>300px</code>. Si no existe la necesidad de usarlo más grande, lo mejor es algo menor o igual a <code>220px</code>. Recuerda que aún hay gente con <a href="/wiki/Resoluciones_de_pantalla" class="mw-redirect" title="Resoluciones de pantalla">resoluciones de pantalla</a> pequeñas. También puede especificarse el tamaño del alto de la imagen colocando la letra <code>x</code> antes del valor en píxeles, como por ejemplo <code>x220px</code>. Ten en cuenta que no es posible especificar ambos; en esos casos se da prioridad al ancho.</li>
+<li><b>Descripción</b>: es el texto que explica el contenido del archivo (en el caso de las imágenes es el pie de foto). Puede ser todo lo detallado que se quiera.</li>
+<li><b>Texto alternativo</b>: se indica mediante el código <code>alt=</code>. Allí puedes añadir un texto narrativo de lo que se ve. Es recomendable ponerlo siempre, de esta forma, los <a href="/wiki/Invidentes" class="mw-redirect" title="Invidentes">invidentes</a> que utilizan <a href="/wiki/Lectores_de_pantalla" class="mw-redirect" title="Lectores de pantalla">lectores de pantalla</a> pueden hacerse una idea de qué se muestra en el archivo.</li>
+<li><b>Enlace</b>: se indica mediante el código <code>link=</code>. Añadir el nombre de una página de Wikipedia o una dirección web allí, hará que la imagen lleve hacia esa página al hacer clic sobre ella, en lugar de la <a href="/wiki/Ayuda:P%C3%A1gina_de_descripci%C3%B3n_de_las_im%C3%A1genes" title="Ayuda:Página de descripción de las imágenes">página de descripción</a> por defecto.</li></ul>
+<p>A un archivo se le puede pasar ninguna opción, una, varias o todas (y en cualquier orden, la única obligación es poner el nombre del archivo al principio y separar las opciones con barras verticales «|»).
+</p>
+<h3><span id="Im.C3.A1genes"></span><span class="mw-headline" id="Imágenes">Imágenes</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Im%C3%A1genes" title="Ayuda:Imágenes"> Ayuda:Imágenes</a></i></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/Archivo:The_Great_wall_-_by_Hao_Wei.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Great_wall_-_by_Hao_Wei.jpg/300px-The_Great_wall_-_by_Hao_Wei.jpg" decoding="async" width="300" height="200" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Great_wall_-_by_Hao_Wei.jpg/450px-The_Great_wall_-_by_Hao_Wei.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Great_wall_-_by_Hao_Wei.jpg/600px-The_Great_wall_-_by_Hao_Wei.jpg 2x" data-file-width="4606" data-file-height="3071" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:The_Great_wall_-_by_Hao_Wei.jpg" class="internal" title="Aumentar"></a></div>Esta imagen de la <a href="/wiki/Gran_Muralla_China" title="Gran Muralla China">Gran Muralla China</a> se ha insertado mediante el código:<br /><code>[[Archivo:The_Great_wall_-_by_Hao_Wei.jpg|thumb|right|300px|...]]</code><br />Tiene licencia CC-BY-2.0 (Creative Commons Attribution 2.0). Puedes ver más información sobre la imagen pulsando en ella.</div></div></div>
+<p>A continuación se detallan algunos ejemplos para insertar <b>imágenes</b> en artículos:
+</p>
+<ul><li><code>[[Archivo:Mi imagen.jpg]]</code>: no hemos indicado nada. Quedará a tamaño máximo y flotando a la izquierda.</li>
+<li><code>[[Archivo:Mi imagen.jpg|thumb]]</code>: saldrá con un recuadro alrededor. Por defecto, debido al <code>thumb</code>, la posición será a la derecha y con 180 píxeles de tamaño (a menos que el lector lo haya cambiado en sus preferencias).</li>
+<li><code>[[Archivo:Mi imagen.jpg|border|100px]]</code>: con un borde gris alrededor y a 100 píxeles.</li>
+<li><code>[[Archivo:Mi imagen.jpg|thumb|left]]</code>: con recuadro y a la izquierda. El tamaño será de 180 píxeles (indicados por el <code>thumb</code> por defecto).</li>
+<li><code>[[Archivo:Mi imagen.jpg|thumb|right|350px]]</code>: con recuadro, a la derecha y a 350 píxeles.</li>
+<li><code>[[Archivo:Mi imagen.jpg|thumb|right|200px|La descripción de mi imagen.]]</code>: con recuadro, a la derecha, a 200 píxeles y con una descripción útil.</li></ul>
+<p>Lo más recomendable es utilizar <code>[[Archivo:Mi imagen.jpg|thumb|La descripción de mi imagen.]]</code>. Debido al <code>thumb</code> se mostrará con un recuadro, a la derecha y a 180 píxeles. Si el lector ha elegido otros valores en sus preferencias, se mostrará con ellos, por lo que estamos dejándole esa libertad de elección (lo cual es bueno).
+</p>
+<h3><span id="Audio_y_v.C3.ADdeo"></span><span class="mw-headline" id="Audio_y_vídeo">Audio y vídeo</span></h3>
+<div class="rellink noprint"> Para obtener ayuda sobre cómo reproducir archivos multimedia, véase <a href="/wiki/Ayuda:Multimedia" title="Ayuda:Multimedia">Ayuda:Multimedia</a>.</div>
+<p>En Wikipedia se utilizan únicamente los <a href="/wiki/Formato_abierto" title="Formato abierto">formatos abiertos</a> <a href="/wiki/Ogg" title="Ogg">Ogg</a> y <a href="/wiki/WebM" title="WebM">WebM</a> para recursos multimedia. Por ende, los archivos de sonido y vídeo que encuentres, usarán los códecs libres <a href="/wiki/Vorbis" title="Vorbis">Vorbis</a>, <a href="/wiki/Theora" title="Theora">Theora</a> y <a href="/wiki/WebM" title="WebM">WebM</a>, los cuales son similares en su funcionamiento a formatos más conocidos como <a href="/wiki/MP3" title="MP3">MP3</a> y <a href="/wiki/MPEG-2" title="MPEG-2">MPEG-2</a>/<a href="/wiki/MPEG-4" title="MPEG-4">4</a>. Dichos formatos (como el caso de MP3) están protegidos por patentes y derechos de autor por lo que no se permiten aquí.
+</p><p>La manera más fácil de añadir un recurso multimedia (especialmente audio) es usando la plantilla <code>{{<a href="/wiki/Plantilla:Multimedia" title="Plantilla:Multimedia">Multimedia</a>}}</code>; haz clic en su enlace para ver una descripción detallada de cómo utilizarla. A continuación se resumen sus parámetros más comunes:
+</p>
+<dl><dd><code>{{Multimedia|archivo=<i>NOMBRE</i>.ogg|título=<i>TÍTULO</i>|descripción=<i>DESCRIPCIÓN</i>}}</code></dd></dl>
+<table class="infobox_v2 noprint" style="border:1px solid #CCC; width:250px; margin:.5em 0 .5em 1.5em; padding:3px">
+
+<tbody><tr>
+<td class="mbox-image" style="vertical-align:middle;padding:7px"><div class="center"><div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gnome-speakernotes.svg/45px-Gnome-speakernotes.svg.png" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gnome-speakernotes.svg/68px-Gnome-speakernotes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gnome-speakernotes.svg/90px-Gnome-speakernotes.svg.png 2x" data-file-width="128" data-file-height="128" /></div></div>
+</td><td class="mbox-text"><table style="width:100%; background-color:transparent; border-collapse:collapse; padding:0; margin:0"><tbody><tr>
+	<td style="line-height:1.1em; font-size:95%; padding:5px"><a href="/wiki/Archivo:Accordion_chords-01.ogg" title="Archivo:Accordion chords-01.ogg">Acordeón</a></td>
+</tr>
+<tr>
+	<td style="line-height:1.1em; font-size:95%; padding:0.4em 4px 0.4em 0"><div class="mediaContainer" style="width:180px"><audio id="mwe_player_1" controls="" preload="none" style="width:180px" class="kskin" data-durationhint="11.798027210884" data-startoffset="0" data-mwtitle="Accordion_chords-01.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/8/81/Accordion_chords-01.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Archivo Ogg original (100 kbps)" data-shorttitle="Fuente Ogg" data-width="0" data-height="0" data-bandwidth="100272" /><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/81/Accordion_chords-01.ogg/Accordion_chords-01.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="113064" /></audio></div></td>
+</tr>
+<tr>
+	<td style="line-height:1.1em; font-size:90%; padding:0 4px 0.5em 0">Acordes siendo interpretados en un acordeón.</td>
+</tr>
+</tbody></table></td></tr>
+<tr><td colspan="2"><hr /><div style="line-height:1.1em; text-align:center; font-size:smaller;" class="problemas_sonido"><i><a href="/wiki/Ayuda:Multimedia" title="Ayuda:Multimedia">¿Problemas al reproducir este archivo?</a></i></div></td></tr>
+</tbody></table>
+<p>Ejemplo (ver resultado a la derecha):
+</p>
+<dl><dd><code>{{Multimedia|archivo=Accordion chords-01.ogg|título=Acordeón|descripción=Acordes siendo interpretados en un acordeón.}}</code></dd></dl>
+<p>Existen muchas otras plantillas de audio, utilizadas principalmente para demostrar la pronunciación de términos en idiomas extranjeros, como las plantillas <code>{{<a href="/wiki/Plantilla:Audio" title="Plantilla:Audio">audio</a>}}</code>/<code>{{<a href="/wiki/Plantilla:Audio-IPA" class="mw-redirect" title="Plantilla:Audio-IPA">audio-IPA</a>}}</code>. Además, la plantilla <code>{{<a href="/wiki/Plantilla:Wikipedia_grabada" title="Plantilla:Wikipedia grabada">Wikipedia grabada</a>}}</code> permite insertar fragmentos hablados en artículos, previa lectura y grabación (mira <a href="/wiki/Wikiproyecto:Wikipedia_grabada" title="Wikiproyecto:Wikipedia grabada">Wikiproyecto:Wikipedia grabada</a> para conocer más). Cuando añadas un archivo de sonido a un artículo, evita el uso de plantillas o código que enlacen al archivo de sonido directamente, ya que esto ocultaría la información de licencia que permite a los lectores ver quién creó el archivo, su fuente y la licencia bajo la que se publicó.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><div id="mwe_player_2" class="PopUpMediaTransform" style="width:200px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:320px&quot;&gt;&lt;video id=&quot;mwe_player_3&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/A11v_1094228.ogv/320px--A11v_1094228.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:320px;height:240px&quot; class=&quot;kskin&quot; data-durationhint=&quot;74.583333333333&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;A11v_1094228.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/A11v_1094228.ogv/A11v_1094228.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 pequeño (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;271120&quot; data-framerate=&quot;24&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/A11v_1094228.ogv/A11v_1094228.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM pequeño (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;293552&quot; data-framerate=&quot;24&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/8/8e/A11v_1094228.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Archivo Ogg original, 320 × 240 (489 kbps)&quot; data-shorttitle=&quot;Fuente Ogg&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;489462&quot; data-framerate=&quot;24&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/A11v_1094228.ogv/A11v_1094228.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;160&quot; data-height=&quot;120&quot; data-bandwidth=&quot;151912&quot; data-framerate=&quot;24&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/A11v_1094228.ogv/A11v_1094228.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Bajo ancho de banda, WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;214&quot; data-height=&quot;160&quot; data-bandwidth=&quot;172368&quot; data-framerate=&quot;24&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/A11v_1094228.ogv/A11v_1094228.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;240&quot; data-height=&quot;180&quot; data-bandwidth=&quot;204960&quot; data-framerate=&quot;24&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="Archivo:A11v 1094228.ogv" style="width:200px;height:150px" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/A11v_1094228.ogv/200px--A11v_1094228.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/8/8e/A11v_1094228.ogv" title="Reproducir contenido multimedia" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Reproducir contenido multimedia</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:A11v_1094228.ogv" class="internal" title="Aumentar"></a></div>Clip de televisión que muestra a Buzz Aldrin descendiendo de una escalera y pisando terreno lunar.</div></div></div>
+<p>En el caso de clips de <b>vídeo</b>, además de usar la plantilla <code>{{<a href="/wiki/Plantilla:Multimedia" title="Plantilla:Multimedia">multimedia</a>}}</code>, puedes usar la misma etiqueta <code>[[Archivo:]]</code> que con las imágenes. El resultado se muestra a la derecha.
+</p>
+<dl><dd><code>[[Archivo:A11v 1094228.ogv|thumb|200px|Clip de televisión que muestra a Buzz Aldrin descendiendo de una escalera y pisando terreno lunar.]]</code></dd></dl>
+<p>De manera predeterminada, se mostrará un <a href="/wiki/Fotograma" title="Fotograma">fotograma</a> perteneciente a la mitad del vídeo. Para usar uno distinto, utiliza el parámetro <code>thumbtime</code>. Por ejemplo:
+</p>
+<dl><dd><code>[[Archivo:Bombers of WW1.ogg|thumbtime=3|thumb|200px|Bombarderos de la Primera Guerra Mundial. Fotograma a los 3 segundos.]]</code></dd></dl>
+<p>Específica el tiempo en segundos, o utiliza dos puntos «<code>:</code>» para separar horas, minutos y segundos «HH:MM:SS».
+</p>
+<table>
+<tbody><tr>
+<td valign="top"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><div id="mwe_player_4" class="PopUpMediaTransform" style="width:200px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:400px&quot;&gt;&lt;video id=&quot;mwe_player_5&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bombers_of_WW1.ogv/400px--Bombers_of_WW1.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:400px;height:288px&quot; class=&quot;kskin&quot; data-durationhint=&quot;71.738333333333&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Bombers_of_WW1.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/f/fc/Bombers_of_WW1.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Archivo Ogg original, 400 × 288 (342 kbps)&quot; data-shorttitle=&quot;Fuente Ogg&quot; data-width=&quot;400&quot; data-height=&quot;288&quot; data-bandwidth=&quot;342318&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;166&quot; data-height=&quot;120&quot; data-bandwidth=&quot;167056&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Bajo ancho de banda, WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;222&quot; data-height=&quot;160&quot; data-bandwidth=&quot;195912&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;250&quot; data-height=&quot;180&quot; data-bandwidth=&quot;200408&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 pequeño (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;334&quot; data-height=&quot;240&quot; data-bandwidth=&quot;229568&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM pequeño (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;334&quot; data-height=&quot;240&quot; data-bandwidth=&quot;309152&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="Archivo:Bombers of WW1.ogv" style="width:200px;height:144px" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bombers_of_WW1.ogv/200px--Bombers_of_WW1.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/f/fc/Bombers_of_WW1.ogv" title="Reproducir contenido multimedia" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Reproducir contenido multimedia</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Bombers_of_WW1.ogv" class="internal" title="Aumentar"></a></div>Bombarderos de la Primera Guerra Mundial. Fotograma a la mitad (debido a que no se indica ningún <code>thumbtime</code>). Da la casualidad que en ese momento la pantalla está en blanco, por lo que no queda bien.</div></div></div>
+</td>
+<td valign="top"><div class="thumb tright"><div class="thumbinner" style="width:202px;"><div id="mwe_player_6" class="PopUpMediaTransform" style="width:200px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:400px&quot;&gt;&lt;video id=&quot;mwe_player_7&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bombers_of_WW1.ogv/400px--Bombers_of_WW1.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:400px;height:288px&quot; class=&quot;kskin&quot; data-durationhint=&quot;71.738333333333&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Bombers_of_WW1.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/f/fc/Bombers_of_WW1.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;&quot; data-title=&quot;Archivo Ogg original, 400 × 288 (342 kbps)&quot; data-shorttitle=&quot;Fuente Ogg&quot; data-width=&quot;400&quot; data-height=&quot;288&quot; data-bandwidth=&quot;342318&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;166&quot; data-height=&quot;120&quot; data-bandwidth=&quot;167056&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Bajo ancho de banda, WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;222&quot; data-height=&quot;160&quot; data-bandwidth=&quot;195912&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;250&quot; data-height=&quot;180&quot; data-bandwidth=&quot;200408&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 pequeño (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;334&quot; data-height=&quot;240&quot; data-bandwidth=&quot;229568&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/Bombers_of_WW1.ogv/Bombers_of_WW1.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM pequeño (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;334&quot; data-height=&quot;240&quot; data-bandwidth=&quot;309152&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="Archivo:Bombers of WW1.ogv" style="width:200px;height:144px" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bombers_of_WW1.ogv/200px-seek%3D3-Bombers_of_WW1.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/f/fc/Bombers_of_WW1.ogv" title="Reproducir contenido multimedia" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Reproducir contenido multimedia</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Bombers_of_WW1.ogv" class="internal" title="Aumentar"></a></div>Bombarderos de la Primera Guerra Mundial. Fotograma a los 3 segundos (eligiendo <code>thumbtime=3</code>).</div></div></div>
+</td></tr></tbody></table>
+<p>Para dar un enlace al vídeo (sin permitir su visualización en el artículo), inserta dos puntos antes de la llamada al archivo:
+</p>
+<dl><dd><code>[[:Archivo:A11v 1094228.ogv|el vídeo]]</code> → <code><a href="/wiki/Archivo:A11v_1094228.ogv" title="Archivo:A11v 1094228.ogv">el vídeo</a></code></dd></dl>
+<h3><span id="Notaci.C3.B3n_musical"></span><span class="mw-headline" id="Notación_musical">Notación musical</span></h3>
+<p>También se pueden insertar fragmentos de notación musical y secuencias de audio <a href="/wiki/MIDI" title="MIDI">MIDI</a> en Wikipedia usando las etiquetas <code>&lt;score&gt;&lt;/score&gt;</code> mediante el software <a href="/wiki/LilyPond" title="LilyPond">LilyPond</a> incorporado en el código de <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> (<a class="external text" href="https://www.mediawiki.org/wiki/Extension:Score/es">Score Extension</a>).
+</p><p>Por ejemplo, el siguiente fragmento de código...
+</p>
+<pre style="overflow:auto">&lt;score&gt;\relative c' { f d f a d f e d cis a cis e a g f e }&lt;/score&gt;
+</pre>
+<p>...se convierte en la siguiente notación musical.
+</p>
+<div class="mw-ext-score" data-midi="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.midi" data-source="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.ly"><img src="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.png" width="434" height="52" alt="\relative c&#39; { f d f a d f e d cis a cis e a g f e }" /></div>
+<p>El anterior ejemplo es una versión simplificada del <a href="/w/index.php?title=Solfeggietto&amp;action=edit&amp;redlink=1" class="new" title="Solfeggietto (aún no redactado)">Solfeggietto</a> en do menor de <a href="/wiki/Carl_Philipp_Emanuel_Bach" title="Carl Philipp Emanuel Bach">Carl Philipp Emanuel Bach</a>.
+</p><p>Si se quiere generar un archivo de audio que coincida con el ejemplo, solo se debe agregar el parámetro <code>|vorbis=1</code> tras la etiqueta de apertura <code>&lt;score&gt;</code> y se hará automáticamente:
+</p>
+<pre style="overflow:auto">&lt;score vorbis="1"&gt;\relative c' { f d f a d f e d cis a cis e a g f e }&lt;/score&gt;
+</pre>
+<div class="mw-ext-score" data-midi="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.midi" data-source="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.ly"><img src="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.png" width="434" height="52" alt="\relative c&#39; { f d f a d f e d cis a cis e a g f e }" /><div class="mediaContainer" style="width:300px"><audio id="mwe_player_0" controls="" preload="none" style="width:300px" class="kskin" data-disablecontrols="options,timedText" data-durationhint="9.6029024943311"><source src="//upload.wikimedia.org/score/r/5/r5jd72zh3jw655tykroq3sepak6ea0a/r5jd72zh.ogg" type="application/ogg" /></audio></div></div>
+<p>Además de ejemplos cortos, es posible insertar notación musical o partituras más complejas (incluyendo letras de voz) usando códigos LilyPond. Puedes visitar <a rel="nofollow" class="external text" href="http://lilypond.org/doc/v2.14/Documentation/learning-big-page#common-notation">este enlace</a> para obtener más información sobre la notación corriente de LilyPond.
+</p>
+<h3><span class="mw-headline" id="PDF_y_DjVu">PDF y DjVu</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Una_traducci%C3%B3n_del_Quijote_(1).djvu" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Una_traducci%C3%B3n_del_Quijote_%281%29.djvu/page1-220px-Una_traducci%C3%B3n_del_Quijote_%281%29.djvu.jpg" decoding="async" width="220" height="350" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Una_traducci%C3%B3n_del_Quijote_%281%29.djvu/page1-330px-Una_traducci%C3%B3n_del_Quijote_%281%29.djvu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Una_traducci%C3%B3n_del_Quijote_%281%29.djvu/page1-440px-Una_traducci%C3%B3n_del_Quijote_%281%29.djvu.jpg 2x" data-file-width="2554" data-file-height="4062" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Una_traducci%C3%B3n_del_Quijote_(1).djvu" class="internal" title="Aumentar"></a></div>Fichero DjVu con la novela <i>Una traducción del Quijote</i> de <a href="/wiki/Florencio_Moreno_Godino" title="Florencio Moreno Godino">Florencio Moreno Godino</a>.</div></div></div>
+<p>También es posible agregar archivos <b>PDF y DjVu</b> a los artículos. Se sigue el mismo método que para las imágenes.
+</p><p>El fichero de la derecha aunque parezca una imagen no lo es. Si pulsas sobre él, irás a una página donde se puede navegar por el documento completo. Se ha insertado con el código:
+</p>
+<dl><dd><code>[[Archivo:Una traducción del Quijote (1).djvu|thumb|right|Fichero DjVu con la novela ''Una traducción del Quijote'' de [[Florencio Moreno Godino]].]]</code></dd></dl>
+<p>Este tipo de archivos admite una opción especial llamada «<code>page</code>» que permite escoger qué página del documento se mostrará. Si en vez de la página 1 como se muestra por defecto, nos interesara mostrar la página 4, haríamos lo siguiente:
+</p>
+<dl><dd><code>[[Archivo:Una traducción del Quijote (1).djvu|thumb|right|page=4|Fichero DjVu con la novela ''Una traducción del Quijote'' de [[Florencio Moreno Godino]].]]</code></dd></dl>
+<p>La mayoría de las veces que añadas un fichero de este tipo, sus letras no quedarán lo suficientemente grandes como para permitir su lectura. No importa. La finalidad es mostrar que existe ese documento para que el usuario haga clic y lo cargue en otra página.
+</p><p>El procedimiento para los ficheros PDF es análogo.
+</p>
+<h2><span class="mw-headline" id="Listas">Listas</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Listas" title="Ayuda:Listas"> Ayuda:Listas</a></i></div>
+<p>Las <b>listas</b> permiten organizar visualmente la información.
+</p>
+<h3><span class="mw-headline" id="Numeradas">Numeradas</span></h3>
+<p>Las <b>listas numeradas</b> se crean utilizando el símbolo <code>#</code> pegado al margen izquierdo. Para añadir una fácilmente, utiliza el botón <img alt="Lista numerada" src="//upload.wikimedia.org/wikipedia/commons/3/30/Vector_toolbar_numbered_list_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> situado en la sección «Avanzado» de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p><p>Las listas numeradas se utilizan cuando se necesita indicar la posición de cada elemento, por ejemplo al describir una secuencia de pasos.
+</p><p>Este es un ejemplo de una lista numerada:
+</p><p><code># Ítem uno</code><br />
+<code># Ítem dos</code><br />
+<code>## Se pueden anidar poniendo dos o más # seguidos</code><br />
+<code>## Otra</code><br />
+<code>### Todavía más...</code><br />
+<code># Ítem tres</code><br />
+</p><p>Que genera lo siguiente:
+</p>
+<ol><li>Ítem uno</li>
+<li>Ítem dos
+<ol><li>Se pueden anidar poniendo dos o más <code>#</code> seguidos</li>
+<li>Otra
+<ol><li>Todavía más...</li></ol></li></ol></li>
+<li>Ítem tres</li></ol>
+<h3><span class="mw-headline" id="No_numeradas">No numeradas</span></h3>
+<p>Las <b>listas no numeradas</b> (o viñeteadas) se crean con el signo de asterisco <code>*</code>. Si no quieres escribirlos a mano, utiliza el botón <img alt="Lista viñeteada" src="//upload.wikimedia.org/wikipedia/commons/2/25/Vector_toolbar_bulleted_list_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p><p>Las listas no numeradas son las más comunes, y se utilizan cuando el orden de los puntos no es relevante.
+</p><p>Con el siguiente código para listas no numeradas:
+</p><p><code>* Un punto</code><br />
+<code>* Otro punto</code><br />
+<code>** Podemos tener también sublistas (usando varios * seguidos)</code><br />
+<code>*** Y seguir, y seguir...</code><br />
+<code>* Último punto</code><br />
+</p><p>Tendremos esto:
+</p>
+<ul><li>Un punto</li>
+<li>Otro punto
+<ul><li>Podemos tener también sublistas (usando varios <code>*</code> seguidos)
+<ul><li>Y seguir, y seguir...</li></ul></li></ul></li>
+<li>Último punto</li></ul>
+<h3><span class="mw-headline" id="Otras_listas">Otras listas</span></h3>
+<p>Las <b>listas de definición</b> se generan empezando la línea con el signo de punto y coma <code>;</code>. El resto de elementos de la lista se generan poniendo el signo de dos puntos <code>:</code> ya sea en la misma línea del título de la lista (si es de solo un elemento) o en una nueva línea. Si necesitas incluir los dos puntos como signo de puntuación dentro del título de la lista, tendrás que sustituirlo por su codificación en HTML (<code>&amp;#58;</code>).
+</p><p>Las listas de definición se utilizan poco en artículos. En cambio, se utilizan para realizar comentarios en las páginas de discusión.
+</p><p>Si introducimos este código:
+</p><p><code>; Este es el título de la lista de definición : Este es un elemento.</code><br />
+<code>: este es otro elemento.</code><br />
+<code>:: uno más.</code><br />
+<code>: y este otro.</code><br />
+</p><p>Veremos esta salida:
+</p>
+<dl><dt>Este es el título de la lista de definición&#160;</dt>
+<dd>Este es un elemento.</dd>
+<dd>este es otro elemento.
+<dl><dd>uno más.</dd></dl></dd>
+<dd>y este otro.</dd></dl>
+<h2><span class="mw-headline" id="Tablas">Tablas</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Tablas" title="Ayuda:Tablas"> Ayuda:Tablas</a></i></div>
+<p>Es posible crear <b>tablas</b> de dos formas, con la sintaxis propia de Wikipedia (forma recomendada) o a través de código <a href="/wiki/HTML" title="HTML">HTML</a> (<code>&lt;table&gt;&lt;/table&gt;</code>). Si encuentras alguna tabla en forma HTML, puedes usar este <a rel="nofollow" class="external text" href="http://www.uni-bonn.de/~manfear/html2wiki-tables.php#wiki">conversor automático</a> para pasarla a formato wiki.
+</p><p>Para insertar una tabla personalizada fácilmente, haz clic en el botón <img alt="Tabla" src="//upload.wikimedia.org/wikipedia/commons/d/dc/Vector_toolbar_insert_table_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" />, el cual se encuentra bajo la sección «Avanzado» de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p>
+<table border="1" style="float:right; margin:0 0 1em 1em">
+<tbody><tr>
+<th>Encabezado 1</th>
+<th>Encabezado 2</th>
+<th>Encabezado 3
+</th></tr>
+<tr>
+<td>celda 1</td>
+<td>celda 2</td>
+<td>celda 3
+</td></tr>
+<tr>
+<td>celda 4</td>
+<td>celda 5</td>
+<td>celda 6
+</td></tr></tbody></table>
+<p>La tabla de la derecha se ha generado con el siguiente código:
+</p>
+<pre>{| border="1" style="float:right; margin:0 0 1em 1em"
+! Encabezado 1&#160;!! Encabezado 2&#160;!! Encabezado 3
+|-
+| celda 1 || celda 2 || celda 3
+|-
+| celda 4 || celda 5 || celda 6
+|}
+</pre>
+<table class="wikitable" align="right">
+<tbody><tr>
+<th>Encabezado 1</th>
+<th>Encabezado 2</th>
+<th>Encabezado 3
+</th></tr>
+<tr>
+<td>celda 1</td>
+<td>celda 2</td>
+<td>celda 3
+</td></tr>
+<tr>
+<td>celda 4</td>
+<td>celda 5</td>
+<td>celda 6
+</td></tr></tbody></table>
+<p>Como habrás observado, el diseño no es muy estilizado. Por ello existen «clases» que definen estilos predeterminados. Es el caso de la clase «wikitable», que se inserta con el código <code>class="wikitable"</code>.
+</p>
+<pre>{| class="wikitable" align=right
+! Encabezado 1&#160;!! Encabezado 2&#160;!! Encabezado 3
+|-
+| celda 1 || celda 2 || celda 3
+|-
+| celda 4 || celda 5 ||celda 6
+|}
+</pre>
+<h3><span id=".C3.8Dndice"></span><span class="mw-headline" id="Índice">Índice</span></h3>
+<p>En esta misma página hay al principio un <b>índice</b>, pero si intentas editarlo, verás que no puedes. ¿Por qué? Los índices se generan automáticamente cuando hay más de tres <a href="#Secciones">secciones</a> en la página. Las secciones se numeran según la jerarquía. Se da el número 1 a la primera sección que haya, independientemente del nivel que tenga y será considerada la raíz del árbol jerárquico. Por eso esta página, aunque empieza en un nivel 2, en el índice aparece el título como 1 y no como 1.1.
+</p><p>Para un control más preciso de los índices, hay una serie de órdenes que puedes poner en el texto del artículo. Se recomienda usarlas solo cuando el índice puede crear algún problema (por ejemplo, en listas de artículos o diseños especiales):
+</p>
+<ul><li><code>__FORCETOC__</code> hace aparecer el índice, aunque no haya suficientes secciones. Debes ponerlo al principio o al final del artículo.</li>
+<li><code>__TOC__</code> hace aparecer el índice en la parte de la página donde lo pongas.</li>
+<li><code>__NOTOC__</code> hace que el índice no aparezca, por muchas secciones que tenga el artículo. Ponlo al principio o al final del artículo.</li></ul>
+<h2><span id="F.C3.B3rmulas"></span><span class="mw-headline" id="Fórmulas">Fórmulas</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:F%C3%B3rmulas" class="mw-redirect" title="Ayuda:Fórmulas"> Ayuda:Fórmulas</a></i></div>
+<p>En algunos artículos, por ejemplo los de matemáticos, es necesario incluir <b>fórmulas</b> más o menos complejas. Para ello se utiliza <a href="/wiki/TeX" title="TeX">TeX</a>. Por ejemplo, con el código <code>&lt;math&gt;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}&lt;/math&gt;</code>, se obtiene:
+</p>
+<center><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>b</mi>
+              <mo>&#x00B1;<!-- ± --></mo>
+              <mrow class="MJX-TeXAtom-ORD">
+                <msqrt>
+                  <msup>
+                    <mi>b</mi>
+                    <mrow class="MJX-TeXAtom-ORD">
+                      <mn>2</mn>
+                    </mrow>
+                  </msup>
+                  <mo>&#x2212;<!-- − --></mo>
+                  <mn>4</mn>
+                  <mi>a</mi>
+                  <mi>c</mi>
+                </msqrt>
+              </mrow>
+            </mrow>
+            <mrow>
+              <mn>2</mn>
+              <mi>a</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/00c22777378f9c594c71158fea8946f2495f2a28" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -1.838ex; width:21.525ex; height:6.176ex;" alt="x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}"/></span></center>
+<h2><span id="L.C3.ADneas_de_tiempo"></span><span class="mw-headline" id="Líneas_de_tiempo">Líneas de tiempo</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:L%C3%ADneas_de_tiempo" class="mw-redirect" title="Ayuda:Líneas de tiempo"> Ayuda:Líneas de tiempo</a></i></div>
+<p>Se pueden crear <b>líneas del tiempo</b> como esta, aunque su uso no está muy extendido por Wikipedia:
+</p>
+<center><div class="timeline-wrapper"><map name="timeline_3e02f7ef67c458763e909cd98a0d804a"><area shape="rect" href="/wiki/Leonid_Brezhnev" coords="477,14,558,35" title="Leonid Brezhnev" /><area shape="rect" href="/wiki/Nikita_Jruschov" coords="339,14,419,35" title="Nikita Jruschov" /><area shape="rect" href="/wiki/Stalin" coords="144,14,214,35" title="Stalin" /><area shape="rect" href="/wiki/Lenin" coords="-14,14,49,35" title="Lenin" /></map><img usemap="#timeline_3e02f7ef67c458763e909cd98a0d804a" src="//upload.wikimedia.org/wikipedia/es/timeline/3e02f7ef67c458763e909cd98a0d804a.png" /></div></center>
+<h2><span class="mw-headline" id="Referencias">Referencias</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Referencias" class="mw-redirect" title="Ayuda:Referencias"> Ayuda:Referencias</a></i></div>
+<p>Cómo agregar referencias.
+</p>
+<h2><span class="mw-headline" id="Plantillas">Plantillas</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas"> Ayuda:Plantillas</a></i></div>
+<p>Cómo agregar plantillas.
+</p>
+<h2><span id="Categor.C3.ADas"></span><span class="mw-headline" id="Categorías">Categorías</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Categor%C3%ADas" class="mw-redirect" title="Ayuda:Categorías"> Ayuda:Categorías</a></i></div>
+<p>Cómo agregar categorías.
+</p>
+<h2><span class="mw-headline" id="Interwikis">Interwikis</span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Interwikis" class="mw-redirect" title="Ayuda:Interwikis"> Ayuda:Interwikis</a></i></div>
+<p>Cómo enlazar interwikis a través de <a href="https://www.wikidata.org/wiki/" class="extiw" title="d:">Wikidata</a>.
+</p>
+<h2><span id="Otros_tipos_de_p.C3.A1ginas"></span><span class="mw-headline" id="Otros_tipos_de_páginas">Otros tipos de páginas</span></h2>
+<p>El contenido de la enciclopedia recae principalmente en los artículos, aunque existen <b>otros tipos de páginas</b> que sirven de apoyo y tienen otras finalidades, como las categorías, discusiones y plantillas.
+</p>
+<h3><span id="C.C3.B3mo_se_edita_una_categor.C3.ADa"></span><span class="mw-headline" id="Cómo_se_edita_una_categoría">Cómo se edita una categoría</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Categor%C3%ADas" class="mw-redirect" title="Ayuda:Categorías"> Ayuda:Categorías</a></i></div>
+<p>Jerarquía de categorías.
+</p>
+<h3><span id="C.C3.B3mo_se_edita_una_discusi.C3.B3n"></span><span class="mw-headline" id="Cómo_se_edita_una_discusión">Cómo se edita una discusión</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Tutorial_(p%C3%A1ginas_de_discusi%C3%B3n)" title="Ayuda:Tutorial (páginas de discusión)"> Ayuda:Tutorial (páginas de discusión)</a></i></div>
+<p>Separación de conversaciones por secciones. Archivos de discusiones antiguas. Firmas.
+</p>
+<h4><span class="mw-headline" id="Firmar_un_comentario">Firmar un comentario</span></h4>
+<table style="border: 1px solid #aaa; background: #fff; margin: 0 0 1em 1em; padding: 3px; float: right; width: 67px; font-size: 90%;" class="noprint plainlinks">
+
+<tbody><tr>
+<th id="shortcut" style="text-align:center; vertical-align:top; border: none; background: transparent;"><a href="/wiki/Ayuda:Atajos" title="Ayuda:Atajos">Atajo</a><hr /><span class="sin-enlace" style="display:none">A:FC</span><a class="external text" href="https://es.wikipedia.org/w/index.php?title=A:FC&amp;redirect=no">A:FC</a>
+</th></tr></tbody></table>
+<div class="VT rellink"><span style="font-size:88%">Véase también:</span> <i><a href="/wiki/Wikipedia:Firma_de_usuario" title="Wikipedia:Firma de usuario">Wikipedia:Firma de usuario</a></i></div>
+<p>En muchos sitios de Wikipedia, como las <a href="/wiki/Wikipedia:P%C3%A1ginas_de_discusi%C3%B3n" title="Wikipedia:Páginas de discusión">páginas de discusión</a>, el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a>, y en los <a href="/wiki/Wikipedia:Tabl%C3%B3n_de_anuncios_de_los_bibliotecarios/Portal2" title="Wikipedia:Tablón de anuncios de los bibliotecarios/Portal2">tablones de bibliotecario</a> como la lista de vandalizadas, cuando escribes un mensaje o comentario, se te pide que lo firmes. Para ello no tienes que hacerlo «a mano» sino poniendo cuatro <a href="/wiki/Virgulilla" title="Virgulilla">virgulillas</a> ~~~~. Este símbolo se corresponde con el <a href="/wiki/ASCII" title="ASCII">ASCII</a> 126 y puede consultar <a href="/wiki/Virgulilla#Escritura_con_teclado_de_ordenador" title="Virgulilla">aquí</a> como escribirlas en su teclado. Debido al uso frecuente del proceso de firma, Wikipedia permite que se firme, de forma más accesible, pulsando el botón <a href="/wiki/Archivo:OOUI_JS_signature_icon_LTR.svg" class="image" title="Firma y fecha"><img alt="Firma y fecha" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OOUI_JS_signature_icon_LTR.svg/22px-OOUI_JS_signature_icon_LTR.svg.png" decoding="async" width="22" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OOUI_JS_signature_icon_LTR.svg/33px-OOUI_JS_signature_icon_LTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/OOUI_JS_signature_icon_LTR.svg/44px-OOUI_JS_signature_icon_LTR.svg.png 2x" data-file-width="20" data-file-height="20" /></a> que encontrará en la barra de tareas cuando edite texto. En los artículos, sin embargo, no se espera que haya firmas y, de hecho, existe una política <a href="/wiki/Wikipedia:Acerca_de_firmar_art%C3%ADculos" title="Wikipedia:Acerca de firmar artículos">aprobada por la mayoría</a> de los colaboradores de Wikipedia en contra de las firmas en artículos.
+</p><p>Adicionalmente, el uso de sangría puede mejorar considerablemente la distribución de una página de discusión, haciéndola más fácil de leer. Un estándar practicado en Wikipedia es poner sangría a tus comentarios un nivel más que el comentario de la persona a la que estás respondiendo. Puedes llevarlo a la práctica siguiendo las recomendaciones mencionadas en el apartado de <a href="#Sangría">sangría</a>.
+</p>
+<h3><span id="C.C3.B3mo_se_edita_una_p.C3.A1gina_de_usuario"></span><span class="mw-headline" id="Cómo_se_edita_una_página_de_usuario">Cómo se edita una página de usuario</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:P%C3%A1ginas_de_usuario" class="mw-redirect" title="Ayuda:Páginas de usuario"> Ayuda:Páginas de usuario</a></i></div>
+<h3><span id="C.C3.B3mo_se_edita_una_plantilla"></span><span class="mw-headline" id="Cómo_se_edita_una_plantilla">Cómo se edita una plantilla</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas"> Ayuda:Plantillas</a></i></div>
+<p>Noinclude, includeonly y onlyinclude.
+</p>
+<h3><span id="C.C3.B3mo_se_edita_una_redirecci.C3.B3n"></span><span class="mw-headline" id="Cómo_se_edita_una_redirección">Cómo se edita una redirección</span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Ayuda:Redirecciones" class="mw-redirect" title="Ayuda:Redirecciones"> Ayuda:Redirecciones</a></i></div>
+<p>Si deseas redirigir el tráfico de una página hacia otra (alguna con un mejor título, por ejemplo), puedes usar el comando "<code>#REDIRECCIÓN: [[nombre de página]]</code>" al comienzo de la descripción de la página o bien, presionar el botón <img alt="Redirección" src="//upload.wikimedia.org/wikipedia/commons/1/13/Vector_toolbar_redirect_button.png" decoding="async" width="28" height="28" data-file-width="28" data-file-height="28" /> para añadirlo automáticamente; este botón se encuentra bajo la sección «Avanzado» de la <a href="/wiki/Ayuda:Barra_de_herramientas" class="mw-redirect" title="Ayuda:Barra de herramientas">barra de herramientas</a>.
+</p><p>Ve a <a href="/wiki/Patata" class="mw-redirect" title="Patata">patata</a>, por ejemplo. Para consultar el historial de la página antigua, pulsa sobre el enlace <b>"Redirigido desde <u>página antigua</u>"</b> en la zona superior de la página nueva.
+</p>
+<h2><span class="mw-headline" id="Consejos_y_recomendaciones">Consejos y recomendaciones</span></h2>
+<p>Prohibido:
+</p>
+<ul><li>La <b>propaganda</b>: este es un trabajo desinteresado y gratuito hecho con esfuerzo y no lucrativo.</li>
+<li>El <b>insulto</b>, por razones obvias. Somos muchos con historias, vivencias, cultura y lugares diferentes... y distintas ideas.</li>
+<li>La <b>copia</b>. No se puede copiar textos ni imágenes si tienen derechos de autor a menos que estos mismos derechos autoricen tal copia, y su modificación y redistribución de manera compatible con la licencia <a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>.</li>
+<li><b>Firmar</b> los artículos. Las enciclopedias en general y Wikipedia en particular son obras colaborativas; por lo tanto, nadie puede otorgarse su autoría. Sí deben firmarse los comentarios que se escriban en el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a>, en las votaciones y en la discusión de artículos y de páginas de otros usuarios.</li>
+<li><b>En imágenes</b>, incluir las notas de copyright, autorización, autoría y enlaces de los pies de foto (véase <a href="/wiki/Wikipedia:Votaciones/2004/Sobre_el_uso_de_los_pies_de_foto" title="Wikipedia:Votaciones/2004/Sobre el uso de los pies de foto">Wikipedia:Votaciones/2004/Sobre el uso de los pies de foto</a>).</li></ul>
+<p>Evita, dentro de los límites que dicta la lógica, escribir:
+</p>
+<ul><li><b>«Actualmente»</b>, pues pasado un tiempo queda obsoleto. Es mejor poner la fecha. Ejemplo: sustituir "La moneda actualmente es el euro" por "desde 1999 la moneda es el euro".</li>
+<li><b>«Ahora»</b>: tal vez mañana ya no lo sea.</li>
+<li><b>Comparaciones</b>: "Las <b>mejores</b> playas del mediterráneo" (Casi seguro que esto no sea cierto o cuanto menos sostenible en el tiempo).</li>
+<li><b>Exageraciones</b>: "Podemos ver <b>todas</b> las aves" (algunas faltarán).</li>
+<li><b>No escribas en primera persona</b>: no deben utilizarse ninguna de las primeras personas, ni del plural ni del singular, tipo “yo”, “nosotros”, “mi”, “nuestros”, etc.</li></ul>
+<p>Modifica sin miedo, pero con justificación:
+</p>
+<ul><li>Es mejor no poner nada que sea un <b>dato erróneo</b>.</li>
+<li>Pon un <b>resumen</b> (al lado del botón "Guardar cambios"): les ahorrarás tiempo a los bibliotecarios, y la descripción breve de tu cambio quedará incluida en el historial de la página/del artículo.</li>
+<li>No <b>borres</b> nada si no has comprobado antes que era erróneo.</li></ul>
+<p>Si son datos variables en el tiempo: 
+</p>
+<ul><li>Coloca la <b>fecha</b> en que se tomaron:</li></ul>
+<dl><dd><dl><dd>ej. La población es de 10&#160;600 habitantes <font size="-1">(2003)</font></dd></dl></dd></dl>
+<ul><li>Coloca la <b>fuente</b> de la que fueron tomadas:</li></ul>
+<dl><dd><dl><dd>ej. La población es de 10&#160;600 habitantes <font size="-1">(2003 <a href="/wiki/Instituto_Nacional_de_Estad%C3%ADstica_de_Espa%C3%B1a" class="mw-redirect" title="Instituto Nacional de Estadística de España">Instituto Nacional de Estadística</a>)</font></dd></dl></dd></dl>
+<p>Es de muy mal gusto:
+</p>
+<ul><li><b>Corregir</b> algo escrito en el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a> (excepto casos extremos) sin el permiso del autor. No olvides que errar es de humanos... (la prisa y las ganas hacen cometer faltas ortográficas).</li>
+<li><b>No firmar</b> cuando se hacen comentarios en el <a href="/wiki/Wikipedia:Caf%C3%A9" title="Wikipedia:Café">Café</a> o en la discusión de artículos y de páginas de otros usuarios: es como tirar la piedra y esconder la mano (no decir ni por qué ni quién).</li></ul>
+<p>La virtud más apreciada es la <b>paciencia</b>. Encontrarás textos desviados, con malas ideas, provocadores, enjuiciadores, insultantes, vandálicos... a esto... paciencia. Y si quieres y puedes, corrígelo siguiendo las normas del <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">Manual de estilo</a> de la <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.
+</p><p>En Wikipedia suelen realizarse <a href="/wiki/Wikipedia:Votaciones" title="Wikipedia:Votaciones">votaciones</a>, sobre todo para buscar el consenso. Para eso debes de saber cómo funcionan. Se considera que con 500 ediciones y seis meses de antigüedad puedes votar. (Véase <a href="/wiki/Wikipedia:Votaciones/2015/Requisitos_m%C3%ADnimos_para_derecho_a_voto" title="Wikipedia:Votaciones/2015/Requisitos mínimos para derecho a voto">Wikipedia:Votaciones/2015/Requisitos mínimos para derecho a voto</a>.)
+</p>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span></h2>
+<div class="VT rellink"><span style="font-size:88%">Véanse también:</span> <i><a href="/wiki/Wikipedia:Introducci%C3%B3n" class="mw-redirect" title="Wikipedia:Introducción">Wikipedia:Introducción</a></i><span style="font-size:88%">,&#32;</span><i><a href="/wiki/Ayuda:Tutorial" title="Ayuda:Tutorial"> Tutorial</a></i><span style="font-size:88%">,&#32;</span><i><a href="/wiki/Ayuda:Referencia_r%C3%A1pida" title="Ayuda:Referencia rápida"> Referencia rápida</a></i><span style="font-size:88%">&#32;y&#32;</span><i><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página"> Cómo empezar una página</a></i>.</div>
+<div class="columns" style="-moz-column-count:2; -webkit-column-count:2; column-count:2;">
+<ul><li><a href="/wiki/Ayuda:Edici%C3%B3n" title="Ayuda:Edición">Ayuda:Edición</a></li>
+<li><a href="/wiki/Ayuda:Referencia_r%C3%A1pida" title="Ayuda:Referencia rápida">Ayuda:Referencia rápida</a></li>
+<li><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página">Cómo empezar una página</a></li>
+<li><a href="/wiki/Ayuda:FAQ" class="mw-redirect" title="Ayuda:FAQ">FAQ de Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:Pol%C3%ADticas" class="mw-redirect" title="Wikipedia:Políticas">Política de Wikipedia</a></li>
+<li><a href="/wiki/Wikipedia:Manual_de_Estilo" class="mw-redirect" title="Wikipedia:Manual de Estilo">Manual de Estilo</a></li>
+<li><a href="/wiki/Wikipedia:Qu%C3%A9_es_un_art%C3%ADculo_destacado" title="Wikipedia:Qué es un artículo destacado">Wikipedia:Qué es un artículo destacado</a></li>
+<li><a href="/wiki/Wikipedia:Qu%C3%A9_es_un_art%C3%ADculo_bueno" title="Wikipedia:Qué es un artículo bueno">Wikipedia:Qué es un artículo bueno</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="Enlaces_externos_2">Enlaces externos</span></h2>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/15px-Wikibooks-logo.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/23px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /> <a href="/wiki/Wikilibros" title="Wikilibros">Wikilibros</a> alberga un libro o manual sobre <b><a href="https://es.wikibooks.org/wiki/Manual_de_edici%C3%B3n_wiki" class="extiw" title="b:Manual de edición wiki">Manual de edición wiki</a></b>.</li>
+<li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/15px-Wikimedia_Community_Logo.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/23px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/30px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /> <a href="/wiki/Meta-Wiki" class="mw-redirect" title="Meta-Wiki">Meta</a> contiene información sobre <b><a href="https://meta.wikimedia.org/wiki/Help:Editing" class="extiw" title="meta:Help:Editing">Cómo se edita una página</a></b>.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1374
+Cached time: 20200228102211
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.404 seconds
+Real time usage: 0.706 seconds
+Preprocessor visited node count: 3195/1000000
+Post‐expand include size: 32149/2097152 bytes
+Template argument size: 5867/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 32/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 7683/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.033/10.000 seconds
+Lua memory usage: 1.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  463.042      1 -total
+  9.52%   44.079      2 Plantilla:Otros_usos
+  8.90%   41.225      3 Plantilla:Texto_de_la_coletilla_del_título
+  8.44%   39.101      1 Wikipedia:Zona_de_pruebas/Selector
+  7.81%   36.160      1 Plantilla:Ayuda_de_edición
+  7.10%   32.870      1 Plantilla:Ficha
+  6.75%   31.252     16 Plantilla:AP
+  4.93%   22.822      2 Plantilla:ZDP_número_libres
+  4.32%   19.994      1 Plantilla:Multimedia
+  3.33%   15.408      2 Plantilla:VT
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:434-0!canonical!math=5 and timestamp 20200228102210 and revision id 121438251
+ -->
+</div><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Ayuda:Cómo_se_edita_una_página&amp;oldid=121438251">https://es.wikipedia.org/w/index.php?title=Ayuda:Cómo_se_edita_una_página&amp;oldid=121438251</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Ayuda:C%C3%B3mo" title="Categoría:Ayuda:Cómo">Ayuda:Cómo</a></li><li><a href="/wiki/Categor%C3%ADa:Ayuda:Editando_Wikipedia" title="Categoría:Ayuda:Editando Wikipedia">Ayuda:Editando Wikipedia</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categoría oculta: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:P%C3%A1ginas_que_utilizan_Timeline" title="Categoría:Wikipedia:Páginas que utilizan Timeline">Wikipedia:Páginas que utilizan Timeline</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Ayuda%3AC%C3%B3mo+se+edita+una+p%C3%A1gina" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Ayuda%3AC%C3%B3mo+se+edita+una+p%C3%A1gina" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-help" class="selected"><a href="/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" title="Ver la página de ayuda [c]" accesskey="c">Ayuda</a></li><li id="ca-talk"><a href="/wiki/Ayuda_discusi%C3%B3n:C%C3%B3mo_se_edita_una_p%C3%A1gina" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina">Leer</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina&amp;action=edit" title="Esta página está protegida, pero puedes ver su código fuente [e]" accesskey="e">Ver código</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		En otros proyectos
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wikipedia_editing" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/Help:Editing" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Help:Editing" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Help:Editing" hreflang="en">Wikiespecies</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://es.wikiquote.org/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" hreflang="es">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://es.wikivoyage.org/wiki/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" hreflang="es">Wikiviajes</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://es.wiktionary.org/wiki/Wikcionario:C%C3%B3mo_se_edita_una_p%C3%A1gina" hreflang="es">Wikcionario</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Ayuda%3AC%C3%B3mo+se+edita+una+p%C3%A1gina">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Ayuda%3AC%C3%B3mo+se+edita+una+p%C3%A1gina&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina&amp;oldid=121438251" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q151637" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Hilfe:Seite_bearbeiten" title="Hilfe:Seite bearbeiten (Alemannisch)" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Aduya:C%C3%B3mo_s%27edita_una_pachina" title="Aduya:Cómo s&#039;edita una pachina (aragonés)" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Wikip%C7%A3dia:How_to_edit_a_page" title="Wikipǣdia:How to edit a page (inglés antiguo)" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9:%D8%AA%D8%AD%D8%B1%D9%8A%D8%B1_%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A7%D8%AA" title="مساعدة:تحرير الصفحات (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%B8%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A6%BC:%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A6%BE" title="সহায়:সম্পাদনা (asamés)" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/K%C3%B6m%C9%99k:M%C9%99qal%C9%99l%C9%99rin_redakt%C9%99_qaydalar%C4%B1" title="Kömək:Məqalələrin redaktə qaydaları (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B5%D1%88%D0%BC%D3%99:%D0%9D%D0%B8%D1%81%D0%B5%D0%BA_%D0%BC%D3%99%D2%A1%D3%99%D0%BB%D3%99%D0%BD%D0%B5_%D1%82%D3%A9%D2%99%D3%99%D1%82%D0%B5%D1%80%D0%B3%D3%99" title="Белешмә:Нисек мәҡәләне төҙәтергә (baskir)" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Huif:Seite_bearbeiten" title="Huif:Seite bearbeiten (Bavarian)" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Pagelba:K%C4%81p_redagout%C4%97" title="Pagelba:Kāp redagoutė (Samogitian)" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Tabang:Pagliwat_nin_Artikulo" title="Tabang:Pagliwat nin Artikulo (Central Bikol)" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%8B%D1%8F:%D0%AF%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D1%96%D1%86%D1%8C_%D0%B0%D1%80%D1%82%D1%8B%D0%BA%D1%83%D0%BB" title="Вікіпедыя:Як правіць артыкул (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D1%8D%D0%B4%D1%8B%D1%8F:%D0%AF%D0%BA_%D1%80%D1%8D%D0%B4%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0%D1%86%D1%8C_%D1%96%D1%81%D0%BD%D1%8B_%D0%B0%D1%80%D1%82%D1%8B%D0%BA%D1%83%D0%BB" title="Вікіпэдыя:Як рэдагаваць існы артыкул (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8" title="Уикипедия:Редактиране на страници (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%AE%E0%A4%A6%E0%A4%A6:%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8" title="मदद:संपादन (Bhojpuri)" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-bjn"><a href="https://bjn.wikipedia.org/wiki/Wikipidia:Mambabak_sabuting_tungkaran" title="Wikipidia:Mambabak sabuting tungkaran (Banjar)" lang="bjn" hreflang="bjn" class="interlanguage-link-target">Banjar</a></li><li class="interlanguage-link interwiki-bm"><a href="https://bm.wikipedia.org/wiki/Aide:Syntaxe" title="Aide:Syntaxe (bambara)" lang="bm" hreflang="bm" class="interlanguage-link-target">Bamanankan</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF:%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%A8%E0%A6%BE" title="সাহায্য:সম্পাদনা (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Skoazell:Penaos_degas_kemmo%C3%B9_en_ur_bajenn" title="Skoazell:Penaos degas kemmoù en ur bajenn (bretón)" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Wikipedia:Kako_izmijeniti_stranicu" title="Wikipedia:Kako izmijeniti stranicu (bosnio)" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ajuda:Com_es_modifica_una_p%C3%A0gina" title="Ajuda:Com es modifica una pàgina (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9C%D1%83%D1%85%D0%B0_%D0%BD%D0%B8%D1%81%D0%B9%D0%BE_%D0%B0%D0%B3%D3%80%D0%BE%D0%BD%D0%B0%D1%88" title="Википеди:Муха нисйо агӀонаш (checheno)" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/N%C3%A1pov%C4%9Bda:Jak_editovat_str%C3%A1nku" title="Nápověda:Jak editovat stránku (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D1%81%D0%B5%D0%BD%D0%B5_%D1%82%D3%B3%D1%80%D0%BB%D0%B5%D1%82%D0%B5%D1%81%D1%81%D0%B8" title="Википеди:Статьясене тӳрлетесси (chuvasio)" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Wicipedia:Sut_i_olygu_tudalen" title="Wicipedia:Sut i olygu tudalen (galés)" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hj%C3%A6lp:Redigering" title="Hjælp:Redigering (danés)" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hilfe:Seite_bearbeiten" title="Hilfe:Seite bearbeiten (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Pomoc:Tekstowe_wug%C3%B3towanje" title="Pomoc:Tekstowe wugótowanje (bajo sorbio)" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-dv"><a href="https://dv.wikipedia.org/wiki/%DE%88%DE%A8%DE%86%DE%A8%DE%95%DE%A9%DE%91%DE%A8%DE%94%DE%A7:_%DE%9E%DE%A6%DE%8A%DE%B0%DE%80%DE%A7_%DE%87%DE%A6%DE%86%DE%A6%DE%81%DE%B0_%DE%82%DE%AA%DE%88%DE%A6%DE%8C%DE%A6_%DE%8D%DE%A8%DE%94%DE%AC%DE%88%DE%A8%DE%8A%DE%A6%DE%87%DE%A8%DE%88%DE%A7_%DE%89%DE%A6%DE%92%DE%B0%DE%89%DE%AB%DE%82%DE%A6%DE%86%DE%A6%DE%81%DE%B0_%DE%84%DE%A6%DE%8B%DE%A6%DE%8D%DE%AA_%DE%8E%DE%AC%DE%82%DE%A6%DE%87%DE%AA%DE%89%DE%A6%DE%81%DE%B0_%DE%87%DE%AC%DE%80%DE%A9_%DE%87%DE%AC%DE%87%DE%B0" title="ވިކިޕީޑިޔާ: ޞަފްހާ އަކަށް ނުވަތަ ލިޔެވިފައިވާ މަޒްމޫނަކަށް ބަދަލު ގެނައުމަށް އެހީ އެއް (divehi)" lang="dv" hreflang="dv" class="interlanguage-link-target">ދިވެހިބަސް</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Help:Editing" title="Help:Editing (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Helpo:Redakti" title="Helpo:Redakti (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Juhend:Lehek%C3%BClje_muutmine" title="Juhend:Lehekülje muutmine (estonio)" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Laguntza:Artikuluak_nola_aldatzen_diren" title="Laguntza:Artikuluak nola aldatzen diren (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C_%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4_%D8%B5%D9%81%D8%AD%D9%87%E2%80%8C%D9%87%D8%A7" title="ویکی‌پدیا:راهنمای ویرایش صفحه‌ها (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ohje:Kuinka_sivuja_muokataan" title="Ohje:Kuinka sivuja muokataan (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Aide:Comment_modifier_une_page" title="Aide:Comment modifier une page (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fur"><a href="https://fur.wikipedia.org/wiki/Vichipedie:Cem%C3%BBt_modific%C3%A2_une_pagjine" title="Vichipedie:Cemût modificâ une pagjine (friulano)" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Vicip%C3%A9id:Conas_alt_a_chur_in_eagar" title="Vicipéid:Conas alt a chur in eagar (irlandés)" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Axuda:Como_editar_unha_p%C3%A1xina" title="Axuda:Como editar unha páxina (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%AE%E0%AA%A6%E0%AA%A6:%E0%AA%B8%E0%AA%82%E0%AA%AA%E0%AA%BE%E0%AA%A6%E0%AA%A8" title="મદદ:સંપાદન (guyaratí)" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-gv"><a href="https://gv.wikipedia.org/wiki/Wikipedia:Kanys_duillag_dy_reaghey" title="Wikipedia:Kanys duillag dy reaghey (manés)" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%96%D7%A8%D7%94:%D7%A2%D7%A8%D7%99%D7%9B%D7%AA_%D7%A7%D7%95%D7%93_%D7%9E%D7%A7%D7%95%D7%A8" title="עזרה:עריכת קוד מקור (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B2%E0%A5%87%E0%A4%96_%E0%A4%95%E0%A5%8B_%E0%A4%95%E0%A5%88%E0%A4%B8%E0%A5%87_%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A5%87%E0%A4%82%3F" title="विकिपीडिया:लेख को कैसे बदलें? (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Wikipedija:Kako_ure%C4%91ivati_stranicu" title="Wikipedija:Kako uređivati stranicu (croata)" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Pomoc:Strony_wobd%C5%BA%C4%9B%C5%82a%C4%87" title="Pomoc:Strony wobdźěłać (alto sorbio)" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Wikipedya:Kouman_pou_nou_korije_yon_paj" title="Wikipedya:Kouman pou nou korije yon paj (criollo haitiano)" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Szerkeszt%C3%A9s" title="Wikipédia:Szerkesztés (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AB%D6%84%D5%AB%D5%BA%D5%A5%D5%A4%D5%AB%D5%A1:%D4%BB%D5%B6%D5%B9%D5%BA%D5%A5%D5%BD_%D5%AD%D5%B4%D5%A2%D5%A1%D5%A3%D6%80%D5%A5%D5%AC_%D5%A7%D5%BB%D5%A8" title="Վիքիպեդիա:Ինչպես խմբագրել էջը (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Wikipedia:Como_formatar_texto" title="Wikipedia:Como formatar texto (interlingua)" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia:Menyunting_sebuah_halaman" title="Wikipedia:Menyunting sebuah halaman (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Tulong:Panagurnos" title="Tulong:Panagurnos (ilocano)" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-inh"><a href="https://inh.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8:%D0%9C%D0%B8%D1%88%D1%82%D0%B0_%D1%82%D0%BE%D0%B0%D0%B5_%D0%B5%D0%B7%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D1%88" title="Википеди:Мишта тоае еза статьяш (ingush)" lang="inh" hreflang="inh" class="interlanguage-link-target">ГӀалгӀай</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aiuto:Modifica" title="Aiuto:Modifica (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Help:%E3%83%9A%E3%83%BC%E3%82%B8%E3%81%AE%E7%B7%A8%E9%9B%86" title="Help:ページの編集 (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/uikipedi%27as:galfi_lo_ckupau_ta%27i_ma_kau" title="uikipedi&#039;as:galfi lo ckupau ta&#039;i ma kau (lojban)" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Wikipedia:Mbesut_kaca" title="Wikipedia:Mbesut kaca (javanés)" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Tallat:Amek_ara_nbeddel_asebter%3F" title="Tallat:Amek ara nbeddel asebter? (cabila)" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9C%D0%B0%D2%9B%D0%B0%D0%BB%D0%B0%D0%BD%D1%8B_%D2%9B%D0%B0%D0%BB%D0%B0%D0%B9_%D3%A9%D2%A3%D0%B4%D0%B5%D1%83_%D0%BA%D0%B5%D1%80%D0%B5%D0%BA" title="Уикипедия:Мақаланы қалай өңдеу керек (kazajo)" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%87%E1%9F%86%E1%9E%93%E1%9E%BD%E1%9E%99:%E1%9E%80%E1%9E%B6%E1%9E%9A%E1%9E%80%E1%9F%82%E1%9E%9F%E1%9E%98%E1%9F%92%E1%9E%9A%E1%9E%BD%E1%9E%9B" title="ជំនួយ:ការកែសម្រួល (jemer)" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%B9%E0%B2%BE%E0%B2%AF:%E0%B2%B8%E0%B2%82%E0%B2%AA%E0%B2%BE%E0%B2%A6%E0%B2%A8%E0%B3%86" title="ಸಹಾಯ:ಸಂಪಾದನೆ (canarés)" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8F%84%EC%9B%80%EB%A7%90:%EB%AC%B8%EC%84%9C_%ED%8E%B8%EC%A7%91%ED%95%98%EA%B8%B0" title="도움말:문서 편집하기 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-krc"><a href="https://krc.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BB%D0%B0%D0%BD%D1%8B_%D1%82%D1%8E%D1%80%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D1%80%D0%B8%D1%83" title="Википедия:Статьяланы тюрлендириу (karachay-balkar)" lang="krc" hreflang="krc" class="interlanguage-link-target">Къарачай-малкъар</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Wikipedia:H%C3%B6lp/Wie_%C3%A4nndere_Mer_en_Sigg%3F" title="Wikipedia:Hölp/Wie änndere Mer en Sigg? (kölsch)" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Vicipaedia:De_recensendo" title="Vicipaedia:De recensendo (latín)" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Wikipedia:Syntaxe" title="Wikipedia:Syntaxe (lingala)" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%A7%E0%BA%B4%E0%BA%81%E0%BA%B4%E0%BA%9E%E0%BA%B5%E0%BB%80%E0%BA%94%E0%BA%8D:%E0%BA%82%E0%BB%8D%E0%BB%83%E0%BA%AB%E0%BB%89%E0%BA%82%E0%BA%B0%E0%BA%AB%E0%BA%8D%E0%BA%B2%E0%BA%8D" title="ວິກິພີເດຍ:ຂໍໃຫ້ຂະຫຍາຍ (lao)" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Pagalba:Kaip_redaguoti_puslap%C4%AF" title="Pagalba:Kaip redaguoti puslapį (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ltg"><a href="https://ltg.wikipedia.org/wiki/Vikipedeja:Kai_papi%C4%BCdeit_rakst%C4%ABni" title="Vikipedeja:Kai papiļdeit rakstīni (Latgalian)" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latgaļu</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Pal%C4%ABdz%C4%ABba:K%C4%81_labot_lapu" title="Palīdzība:Kā labot lapu (letón)" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Wikipedia:Ahoana_no_fanovana_pejy" title="Wikipedia:Ahoana no fanovana pejy (malgache)" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B9:%D0%92%D0%B8%D0%BA%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B9" title="Википедий:Викификаций (Eastern Mari)" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%88:%D0%9A%D0%B0%D0%BA%D0%BE_%D0%B4%D0%B0_%D1%83%D1%80%D0%B5%D0%B4%D0%B0%D0%BC_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Помош:Како да уредам страница (macedonio)" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%B9%E0%B4%BE%E0%B4%AF%E0%B4%82:%E0%B4%A4%E0%B4%BF%E0%B4%B0%E0%B5%81%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B5%BD_%E0%B4%B5%E0%B4%B4%E0%B4%BF%E0%B4%95%E0%B4%BE%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF" title="സഹായം:തിരുത്തൽ വഴികാട്ടി (malayalam)" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A2%D1%83%D1%81%D0%BB%D0%B0%D0%BC%D0%B6:%D0%90%D1%85%D0%B8%D1%81%D0%B0%D0%BD_%D1%82%D2%AF%D0%B2%D1%88%D0%B8%D0%BD%D0%B4_%D1%8D%D1%85_%D0%B7%D0%B0%D1%81%D0%B2%D0%B0%D1%80%D0%BB%D0%B0%D1%85_%D1%82%D0%B0%D0%BB%D0%B0%D0%B0%D1%80" title="Тусламж:Ахисан түвшинд эх засварлах талаар (mongol)" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Bantuan:Menyunting" title="Bantuan:Menyunting (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/G%C4%A7ajnuna:Kif_timmodifika_artiklu" title="Għajnuna:Kif timmodifika artiklu (maltés)" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Wikipedia:%E1%80%86%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8%E1%80%95%E1%80%AB%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8%E1%80%80%E1%80%AD%E1%80%AF_%E1%80%90%E1%80%8A%E1%80%BA%E1%80%B8%E1%80%96%E1%80%BC%E1%80%90%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8" title="Wikipedia:ဆောင်းပါးများကို တည်းဖြတ်ခြင်း (birmano)" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Wikipedia:Handbook" title="Wikipedia:Handbook (bajo alemán)" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Hulpe:Uutleg_ovver_bewarken" title="Hulpe:Uutleg ovver bewarken (bajo sajón)" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%97%E0%A4%A5%E0%A5%87_%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A4%BE_%E0%A4%AA%E0%A5%8C_%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%A8_%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A5%8D%E2%80%8C%E0%A4%97%E0%A5%81" title="विकिपिडिया:गथे याना पौ सम्पादन याय्‌गु (newari)" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Help:Uitleg" title="Help:Uitleg (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Hjelp:Endra_ei_side" title="Hjelp:Endra ei side (noruego nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Hjelp:Redigering" title="Hjelp:Redigering (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-ny"><a href="https://ny.wikipedia.org/wiki/Wikipedia:Chithandizo_cha_Kulemba_pa_Wikipedia" title="Wikipedia:Chithandizo cha Kulemba pa Wikipedia (nyanja)" lang="ny" hreflang="ny" class="interlanguage-link-target">Chi-Chewa</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%89%E0%AC%87%E0%AC%95%E0%AC%BF%E0%AC%AA%E0%AC%BF%E0%AC%A1%E0%AC%BC%E0%AC%BF%E0%AC%86:%E0%AC%95%E0%AC%BF%E0%AC%AA%E0%AC%B0%E0%AC%BF_%E0%AC%97%E0%AD%8B%E0%AC%9F%E0%AC%BF%E0%AC%8F_%E0%AC%AA%E0%AD%83%E0%AC%B7%E0%AD%8D%E0%AC%A0%E0%AC%BE%E0%AC%B0%E0%AD%87_%E0%AC%85%E0%AC%A6%E0%AC%B3_%E0%AC%AC%E0%AC%A6%E0%AC%B3_%E0%AC%95%E0%AC%B0%E0%AC%BF%E0%AC%AC%E0%AD%87" title="ଉଇକିପିଡ଼ିଆ:କିପରି ଗୋଟିଏ ପୃଷ୍ଠାରେ ଅଦଳ ବଦଳ କରିବେ (oriya)" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-os"><a href="https://os.wikipedia.org/wiki/%C3%86%D1%85%D1%85%D1%83%D1%8B%D1%81:%D0%98%D0%B2%D1%8B%D0%BD" title="Æххуыс:Ивын (osético)" lang="os" hreflang="os" class="interlanguage-link-target">Ирон</a></li><li class="interlanguage-link interwiki-pam"><a href="https://pam.wikipedia.org/wiki/Wikipedia:Nung_makananung_mag-edit_bulung" title="Wikipedia:Nung makananung mag-edit bulung (pampanga)" lang="pam" hreflang="pam" class="interlanguage-link-target">Kapampangan</a></li><li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Wikipedia:Kon_pa_edit%C3%A1_artikulo" title="Wikipedia:Kon pa editá artikulo (papiamento)" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pomoc:Edytowanie" title="Pomoc:Edytowanie (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Agiut:Modifich%C3%A9" title="Agiut:Modifiché (Piedmontese)" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1%DA%9A%D9%88%D8%AF:%D8%B3%D9%85%D9%88%D9%86" title="لارښود:سمون (pastún)" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Formata%C3%A7%C3%A3o" title="Ajuda:Guia de edição/Formatação (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ajutor:Sintaxa_paginilor" title="Ajutor:Sintaxa paginilor (rumano)" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Как править статьи (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D1%96%D1%87:%D0%AF%D0%BA_%D0%B5%D0%B4%D1%96%D1%82%D0%BE%D0%B2%D0%B0%D1%82%D0%B8_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D1%83" title="Поміч:Як едітовати сторінку (Rusyn)" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Help:Eeditin" title="Help:Eeditin (escocés)" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%85%D8%AF%D8%AF:%D8%AA%D8%B1%D9%85%D9%8A%D9%85" title="مدد:ترميم (sindhi)" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Pomo%C4%87:Ure%C4%91ivanje" title="Pomoć:Uređivanje (serbocroata)" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%8B%E0%B6%AF%E0%B7%80%E0%B7%94:%E0%B7%83%E0%B6%82%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA" title="උදවු:සංස්කරණය (cingalés)" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Help:How_to_change_pages" title="Help:How to change pages (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Pomoc:Ako_upravova%C5%A5_str%C3%A1nku" title="Pomoc:Ako upravovať stránku (eslovaco)" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Pomo%C4%8D:Urejanje_strani" title="Pomoč:Urejanje strani (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Wikipedia:How_to_edit_a_page" title="Wikipedia:How to edit a page (somalí)" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Ndihm%C3%AB:Redaktimi_i_faqeve" title="Ndihmë:Redaktimi i faqeve (albanés)" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%9B:%D0%A3%D1%80%D0%B5%D1%92%D0%B8%D0%B2%D0%B0%D1%9A%D0%B5" title="Помоћ:Уређивање (serbio)" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-stq"><a href="https://stq.wikipedia.org/wiki/Wikipedia:H%C3%A4lpe_bie_de_Wiki-Programmasproake" title="Wikipedia:Hälpe bie de Wiki-Programmasproake (Saterland Frisian)" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wikipedia:Cara_ng%C3%A9dit_eusi_kaca" title="Wikipedia:Cara ngédit eusi kaca (sundanés)" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wikipedia:Redigering" title="Wikipedia:Redigering (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AF%E0%AF%82%E0%AE%9F%E0%AE%95%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%87%E0%AE%9F%E0%AF%81/%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%8A%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D,_%E0%AE%A4%E0%AF%8A%E0%AE%9F%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AF%8D" title="விக்கிப்பீடியா:தமிழ் விக்கியூடகக் கையேடு/கட்டுரையைத் தொகுத்தல், தொடங்கல் (tamil)" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%A6%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%A6%E0%B1%81%E0%B0%AC%E0%B0%BE%E0%B0%9F%E0%B1%8D%E0%B0%B2%E0%B1%81_%E0%B0%8E%E0%B0%B2%E0%B0%BE_%E0%B0%9A%E0%B1%86%E0%B0%AF%E0%B1%8D%E0%B0%AF%E0%B0%BE%E0%B0%B2%E0%B0%BF" title="వికీపీడియా:దిద్దుబాట్లు ఎలా చెయ్యాలి (telugu)" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0:%D0%92%D0%B8%D1%80%D0%BE%D0%B8%D1%88%D0%B8_%D0%BC%D0%B0%D2%9B%D0%BE%D0%BB%D0%B0%D2%B3%D0%BE" title="Википедиа:Вироиши мақолаҳо (tayiko)" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82" title="วิธีใช้:การแก้ไข (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tk"><a href="https://tk.wikipedia.org/wiki/%C3%9Dardam:Editing" title="Ýardam:Editing (turcomano)" lang="tk" hreflang="tk" class="interlanguage-link-target">Türkmençe</a></li><li class="interlanguage-link interwiki-tpi"><a href="https://tpi.wikipedia.org/wiki/Wikipedia:Save_long_senisim_pes" title="Wikipedia:Save long senisim pes (tok pisin)" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Yard%C4%B1m:Sayfa_de%C4%9Fi%C5%9Ftirme" title="Yardım:Sayfa değiştirme (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%AF%D1%80%D0%B4%D3%99%D0%BC:%D2%AE%D0%B7%D0%B3%D3%99%D1%80%D1%82%D2%AF" title="Ярдәм:Үзгәртү (tártaro)" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BE%D1%81_%D1%82%D1%83%D0%BF%D0%B0%D1%82%D0%BE%D0%BD_%D0%BD%D0%BE_%D1%88%D0%BE%D0%BD%D0%B5%D1%80%D1%82%D0%BE%D0%BD" title="Википедия:Статьяос тупатон но шонертон (udmurt)" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%AF%D0%BA_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D1%82%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8E" title="Довідка:Як редагувати статтю (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%85%D8%B9%D8%A7%D9%88%D9%86%D8%AA:%D8%AA%D8%B1%D9%85%DB%8C%D9%85" title="معاونت:ترمیم (urdu)" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Yordam:Maqola_qanday_yoziladi%3F" title="Yordam:Maqola qanday yoziladi? (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Ajuto:Canbia" title="Ajuto:Canbia (Venetian)" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Tr%E1%BB%A3_gi%C3%BAp:S%E1%BB%ADa_%C4%91%E1%BB%95i" title="Trợ giúp:Sửa đổi (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Wikipedia:C%C3%B4de_wiki" title="Wikipedia:Côde wiki (valón)" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91" title="Help:编辑 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%94%D7%99%D7%9C%D7%A3:%D7%A8%D7%A2%D7%93%D7%90%D7%A7%D7%98%D7%99%D7%A8%D7%9F_%D7%90_%D7%91%D7%9C%D7%90%D7%98" title="הילף:רעדאקטירן א בלאט (yidis)" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%8Cr%C3%A0nw%E1%BB%8D%CC%81:B%C3%A1wo_l%E1%BA%B9%E1%B9%A3e_le_%E1%B9%A3e_%C3%A0t%C3%BAn%E1%B9%A3e_oj%C3%BAew%C3%A9" title="Ìrànwọ́:Báwo lẹṣe le ṣe àtúnṣe ojúewé (yoruba)" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Help:%E7%BC%96%E8%BE%91%E9%A1%B5%E9%9D%A2" title="Help:编辑页面 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%B9%AB%E5%8A%A9:%E5%85%B1%E7%AD%86%E6%B4%A5%E9%80%AE" title="幫助:共筆津逮 (Classical Chinese)" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Pang-ch%C4%81n:Pian-chi%CC%8Dp" title="Pang-chān:Pian-chi̍p (Chinese (Min Nan))" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/Wikipedia:%E9%BB%9E%E6%94%B9%E5%98%A2" title="Wikipedia:點改嘢 (Cantonese)" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q151637#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 19 nov 2019 a las 21:27.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Ayuda:C%C3%B3mo_se_edita_una_p%C3%A1gina&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.706","ppvisitednodes":{"value":3195,"limit":1000000},"postexpandincludesize":{"value":32149,"limit":2097152},"templateargumentsize":{"value":5867,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":32,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":7683,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  463.042      1 -total","  9.52%   44.079      2 Plantilla:Otros_usos","  8.90%   41.225      3 Plantilla:Texto_de_la_coletilla_del_título","  8.44%   39.101      1 Wikipedia:Zona_de_pruebas/Selector","  7.81%   36.160      1 Plantilla:Ayuda_de_edición","  7.10%   32.870      1 Plantilla:Ficha","  6.75%   31.252     16 Plantilla:AP","  4.93%   22.822      2 Plantilla:ZDP_número_libres","  4.32%   19.994      1 Plantilla:Multimedia","  3.33%   15.408      2 Plantilla:VT"]},"scribunto":{"limitreport-timeusage":{"value":"0.033","limit":"10.000"},"limitreport-memusage":{"value":1604683,"limit":52428800}},"cachereport":{"origin":"mw1374","timestamp":"20200228102211","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1263"});});</script></body></html>

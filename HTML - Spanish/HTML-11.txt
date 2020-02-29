@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljI-gpAMFsAAIEjHFkAAABY","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=R"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"R","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='R' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Quiliman" title="Especial:Todas">Página anterior (Quiliman)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Recacho" title="Especial:Todas">Página siguiente (Recacho)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/R" title="R">R</a></li>
+<li><a href="/wiki/R.I.P." title="R.I.P.">R.I.P.</a></li>
+<li><a href="/wiki/R._Dom." title="R. Dom.">R. Dom.</a></li>
+<li><a href="/wiki/RAE" title="RAE">RAE</a></li>
+<li><a href="/wiki/RAM" title="RAM">RAM</a></li>
+<li><a href="/wiki/RCP" title="RCP">RCP</a></li>
+<li><a href="/wiki/REL" title="REL">REL</a></li>
+<li><a href="/wiki/REM" title="REM">REM</a></li>
+<li><a href="/wiki/RER" title="RER">RER</a></li>
+<li><a href="/wiki/RFC" title="RFC">RFC</a></li>
+<li><a href="/wiki/RIP" title="RIP">RIP</a></li>
+<li><a href="/wiki/ROFL" title="ROFL">ROFL</a></li>
+<li><a href="/wiki/ROI" title="ROI">ROI</a></li>
+<li><a href="/wiki/ROLAP" title="ROLAP">ROLAP</a></li>
+<li><a href="/wiki/RPM" title="RPM">RPM</a></li>
+<li><a href="/wiki/RSC" title="RSC">RSC</a></li>
+<li><a href="/wiki/RSS" title="RSS">RSS</a></li>
+<li><a href="/wiki/RWM" title="RWM">RWM</a></li>
+<li><a href="/wiki/Ra" title="Ra">Ra</a></li>
+<li><a href="/wiki/Rabasa" title="Rabasa">Rabasa</a></li>
+<li><a href="/wiki/Rabat" title="Rabat">Rabat</a></li>
+<li><a href="/wiki/Rabaza" title="Rabaza">Rabaza</a></li>
+<li><a href="/wiki/Rabe" title="Rabe">Rabe</a></li>
+<li><a href="/wiki/Rabeneck" title="Rabeneck">Rabeneck</a></li>
+<li><a href="/wiki/Rabenstein" title="Rabenstein">Rabenstein</a></li>
+<li><a href="/wiki/Rachel" title="Rachel">Rachel</a></li>
+<li><a href="/wiki/Rachet" title="Rachet">Rachet</a></li>
+<li><a href="/wiki/Rackwitz" title="Rackwitz">Rackwitz</a></li>
+<li><a href="/wiki/Rad" title="Rad">Rad</a></li>
+<li><a href="/wiki/Rada" title="Rada">Rada</a></li>
+<li><a href="/wiki/Radamanto" title="Radamanto">Radamanto</a></li>
+<li><a href="/wiki/Raddatz" title="Raddatz">Raddatz</a></li>
+<li><a href="/wiki/Rademacher" title="Rademacher">Rademacher</a></li>
+<li><a href="/wiki/Rades" title="Rades">Rades</a></li>
+<li><a href="/wiki/Radio_Macuto" title="Radio Macuto">Radio Macuto</a></li>
+<li><a href="/wiki/Radium" title="Radium">Radium</a></li>
+<li><a href="/wiki/Radkappe" title="Radkappe">Radkappe</a></li>
+<li><a href="/wiki/Radmacher" title="Radmacher">Radmacher</a></li>
+<li><a href="/wiki/Radomiro" title="Radomiro">Radomiro</a></li>
+<li><a href="/wiki/Radon" title="Radon">Radon</a></li>
+<li class="allpagesredirect"><a href="/wiki/Radulescu" class="mw-redirect" title="Radulescu">Radulescu</a></li>
+<li><a href="/wiki/Rafael" title="Rafael">Rafael</a></li>
+<li><a href="/wiki/Rafaela" title="Rafaela">Rafaela</a></li>
+<li><a href="/wiki/Rafa%C5%82" title="Rafał">Rafał</a></li>
+<li><a href="/wiki/Rafe" title="Rafe">Rafe</a></li>
+<li><a href="/wiki/Raffaele" title="Raffaele">Raffaele</a></li>
+<li><a href="/wiki/Raffaello" title="Raffaello">Raffaello</a></li>
+<li><a href="/wiki/Raffarin" title="Raffarin">Raffarin</a></li>
+<li><a href="/wiki/Ragazzo" title="Ragazzo">Ragazzo</a></li>
+<li><a href="/wiki/Ragileo" title="Ragileo">Ragileo</a></li>
+<li><a href="/wiki/Ragiman" title="Ragiman">Ragiman</a></li>
+<li><a href="/wiki/Ragninqueo" title="Ragninqueo">Ragninqueo</a></li>
+<li><a href="/wiki/Raguil" title="Raguil">Raguil</a></li>
+<li><a href="/wiki/Raguile" title="Raguile">Raguile</a></li>
+<li><a href="/wiki/Raguilebu" title="Raguilebu">Raguilebu</a></li>
+<li><a href="/wiki/Raguileo" title="Raguileo">Raguileo</a></li>
+<li><a href="/wiki/Raguim%C3%A1n" title="Raguimán">Raguimán</a></li>
+<li><a href="/wiki/Raguinao" title="Raguinao">Raguinao</a></li>
+<li><a href="/wiki/Raguinqueo" title="Raguinqueo">Raguinqueo</a></li>
+<li><a href="/wiki/Raguiqueo" title="Raguiqueo">Raguiqueo</a></li>
+<li><a href="/wiki/Ragusa" title="Ragusa">Ragusa</a></li>
+<li><a href="/wiki/Ragusano" title="Ragusano">Ragusano</a></li>
+<li><a href="/wiki/Rag%C3%B1ileo" title="Ragñileo">Ragñileo</a></li>
+<li><a href="/wiki/Rahihuanque" title="Rahihuanque">Rahihuanque</a></li>
+<li><a href="/wiki/Rahm" title="Rahm">Rahm</a></li>
+<li><a href="/wiki/Rai" title="Rai">Rai</a></li>
+<li><a href="/wiki/Raialaf" title="Raialaf">Raialaf</a></li>
+<li><a href="/wiki/Raian" title="Raian">Raian</a></li>
+<li><a href="/wiki/Raicahu%C3%ADn" title="Raicahuín">Raicahuín</a></li>
+<li><a href="/wiki/Raican" title="Raican">Raican</a></li>
+<li><a href="/wiki/Raien" title="Raien">Raien</a></li>
+<li><a href="/wiki/Raigan" title="Raigan">Raigan</a></li>
+<li><a href="/wiki/Raiguanque" title="Raiguanque">Raiguanque</a></li>
+<li><a href="/wiki/Raihuaique" title="Raihuaique">Raihuaique</a></li>
+<li><a href="/wiki/Raihuan" title="Raihuan">Raihuan</a></li>
+<li><a href="/wiki/Raihuanque" title="Raihuanque">Raihuanque</a></li>
+<li><a href="/wiki/Raihuante" title="Raihuante">Raihuante</a></li>
+<li><a href="/wiki/Raihuaque" title="Raihuaque">Raihuaque</a></li>
+<li><a href="/wiki/Raihueque" title="Raihueque">Raihueque</a></li>
+<li><a href="/wiki/Rail" title="Rail">Rail</a></li>
+<li><a href="/wiki/Railaf" title="Railaf">Railaf</a></li>
+<li><a href="/wiki/Railal" title="Railal">Railal</a></li>
+<li><a href="/wiki/Railao" title="Railao">Railao</a></li>
+<li><a href="/wiki/Railea" title="Railea">Railea</a></li>
+<li><a href="/wiki/Railef" title="Railef">Railef</a></li>
+<li><a href="/wiki/Raileo" title="Raileo">Raileo</a></li>
+<li><a href="/wiki/Raillacan" title="Raillacan">Raillacan</a></li>
+<li><a href="/wiki/Raillan" title="Raillan">Raillan</a></li>
+<li><a href="/wiki/Raillanaca" title="Raillanaca">Raillanaca</a></li>
+<li><a href="/wiki/Raillanca" title="Raillanca">Raillanca</a></li>
+<li><a href="/wiki/Raillen" title="Raillen">Raillen</a></li>
+<li><a href="/wiki/Railo" title="Railo">Railo</a></li>
+<li><a href="/wiki/Railof" title="Railof">Railof</a></li>
+<li><a href="/wiki/Rail%C3%A9n" title="Railén">Railén</a></li>
+<li><a href="/wiki/Raiman" title="Raiman">Raiman</a></li>
+<li><a href="/wiki/Raimann" title="Raimann">Raimann</a></li>
+<li><a href="/wiki/Raimapo" title="Raimapo">Raimapo</a></li>
+<li><a href="/wiki/Raimapu" title="Raimapu">Raimapu</a></li>
+<li><a href="/wiki/Raimil" title="Raimil">Raimil</a></li>
+<li><a href="/wiki/Raimilla" title="Raimilla">Raimilla</a></li>
+<li><a href="/wiki/Raimond" title="Raimond">Raimond</a></li>
+<li><a href="/wiki/Raimondas" title="Raimondas">Raimondas</a></li>
+<li><a href="/wiki/Raimondo" title="Raimondo">Raimondo</a></li>
+<li><a href="/wiki/Raimonds" title="Raimonds">Raimonds</a></li>
+<li><a href="/wiki/Raimpo" title="Raimpo">Raimpo</a></li>
+<li><a href="/wiki/Raimul" title="Raimul">Raimul</a></li>
+<li><a href="/wiki/Raimund" title="Raimund">Raimund</a></li>
+<li><a href="/wiki/Raimundo" title="Raimundo">Raimundo</a></li>
+<li><a href="/wiki/Raimundus" title="Raimundus">Raimundus</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a></li>
+<li><a href="/wiki/Rainahuel" title="Rainahuel">Rainahuel</a></li>
+<li><a href="/wiki/Rainahueque" title="Rainahueque">Rainahueque</a></li>
+<li><a href="/wiki/Rainante" title="Rainante">Rainante</a></li>
+<li><a href="/wiki/Rainao" title="Rainao">Rainao</a></li>
+<li><a href="/wiki/Raineman" title="Raineman">Raineman</a></li>
+<li><a href="/wiki/Raineo" title="Raineo">Raineo</a></li>
+<li><a href="/wiki/Rainequeo" title="Rainequeo">Rainequeo</a></li>
+<li><a href="/wiki/Rainiqueo" title="Rainiqueo">Rainiqueo</a></li>
+<li><a href="/wiki/Rainleo" title="Rainleo">Rainleo</a></li>
+<li><a href="/wiki/Rainpill%C3%A1n" title="Rainpillán">Rainpillán</a></li>
+<li><a href="/wiki/Rainqueo" title="Rainqueo">Rainqueo</a></li>
+<li><a href="/wiki/Rainun" title="Rainun">Rainun</a></li>
+<li><a href="/wiki/Raio" title="Raio">Raio</a></li>
+<li><a href="/wiki/Raipallan" title="Raipallan">Raipallan</a></li>
+<li><a href="/wiki/Raipane" title="Raipane">Raipane</a></li>
+<li><a href="/wiki/Raipani" title="Raipani">Raipani</a></li>
+<li><a href="/wiki/Raipe" title="Raipe">Raipe</a></li>
+<li><a href="/wiki/Raipill%C3%A1n" title="Raipillán">Raipillán</a></li>
+<li><a href="/wiki/Raip%C3%A1n" title="Raipán">Raipán</a></li>
+<li><a href="/wiki/Raiqueo" title="Raiqueo">Raiqueo</a></li>
+<li><a href="/wiki/Raiqu%C3%A9n" title="Raiquén">Raiquén</a></li>
+<li><a href="/wiki/Raitul" title="Raitul">Raitul</a></li>
+<li><a href="/wiki/Raiyan" title="Raiyan">Raiyan</a></li>
+<li><a href="/wiki/Raizabal" title="Raizabal">Raizabal</a></li>
+<li><a href="/wiki/Rai%C3%B1inao" title="Raiñinao">Raiñinao</a></li>
+<li><a href="/wiki/Rajmund" title="Rajmund">Rajmund</a></li>
+<li><a href="/wiki/Rajmundo" title="Rajmundo">Rajmundo</a></li>
+<li><a href="/wiki/Rakousko" title="Rakousko">Rakousko</a></li>
+<li><a href="/wiki/Rak%C3%BAsko" title="Rakúsko">Rakúsko</a></li>
+<li><a href="/wiki/Ralaf" title="Ralaf">Ralaf</a></li>
+<li><a href="/wiki/Ralde" title="Ralde">Ralde</a></li>
+<li><a href="/wiki/Raldua" title="Raldua">Raldua</a></li>
+<li><a href="/wiki/Ralil" title="Ralil">Ralil</a></li>
+<li><a href="/wiki/Ralliman" title="Ralliman">Ralliman</a></li>
+<li><a href="/wiki/Rallumil" title="Rallumil">Rallumil</a></li>
+<li><a href="/wiki/Ralnahuen" title="Ralnahuen">Ralnahuen</a></li>
+<li><a href="/wiki/Ralph" title="Ralph">Ralph</a></li>
+<li><a href="/wiki/Ramacha" title="Ramacha">Ramacha</a></li>
+<li><a href="/wiki/Ramallah" title="Ramallah">Ramallah</a></li>
+<li><a href="/wiki/Ramallo" title="Ramallo">Ramallo</a></li>
+<li><a href="/wiki/Ramal%C3%A1" title="Ramalá">Ramalá</a></li>
+<li><a href="/wiki/Ramendi" title="Ramendi">Ramendi</a></li>
+<li><a href="/wiki/Ramenteria" title="Ramenteria">Ramenteria</a></li>
+<li><a href="/wiki/Ramery" title="Ramery">Ramery</a></li>
+<li><a href="/wiki/Ramil" title="Ramil">Ramil</a></li>
+<li><a href="/wiki/Ramila" title="Ramila">Ramila</a></li>
+<li><a href="/wiki/Ramilef" title="Ramilef">Ramilef</a></li>
+<li><a href="/wiki/Ramileo" title="Ramileo">Ramileo</a></li>
+<li><a href="/wiki/Ramilla" title="Ramilla">Ramilla</a></li>
+<li><a href="/wiki/Ramillanca" title="Ramillanca">Ramillanca</a></li>
+<li><a href="/wiki/Raminao" title="Raminao">Raminao</a></li>
+<li><a href="/wiki/Raminqueo" title="Raminqueo">Raminqueo</a></li>
+<li><a href="/wiki/Ramipillan" title="Ramipillan">Ramipillan</a></li>
+<li><a href="/wiki/Ramiqueo" title="Ramiqueo">Ramiqueo</a></li>
+<li><a href="/wiki/Ramirez" title="Ramirez">Ramirez</a></li>
+<li><a href="/wiki/Ramiro" title="Ramiro">Ramiro</a></li>
+<li><a href="/wiki/Ramis" title="Ramis">Ramis</a></li>
+<li><a href="/wiki/Ramon" title="Ramon">Ramon</a></li>
+<li><a href="/wiki/Ramona" title="Ramona">Ramona</a></li>
+<li><a href="/wiki/Ramondegui" title="Ramondegui">Ramondegui</a></li>
+<li><a href="/wiki/Ramones" title="Ramones">Ramones</a></li>
+<li><a href="/wiki/Ramonez" title="Ramonez">Ramonez</a></li>
+<li><a href="/wiki/Ramos" title="Ramos">Ramos</a></li>
+<li><a href="/wiki/Ramospe" title="Ramospe">Ramospe</a></li>
+<li><a href="/wiki/Rampill%C3%A1n" title="Rampillán">Rampillán</a></li>
+<li><a href="/wiki/Rampiman" title="Rampiman">Rampiman</a></li>
+<li><a href="/wiki/Rampul" title="Rampul">Rampul</a></li>
+<li><a href="/wiki/Ramundo" title="Ramundo">Ramundo</a></li>
+<li><a href="/wiki/Ramus" title="Ramus">Ramus</a></li>
+<li><a href="/wiki/Ram%C3%ADrez" title="Ramírez">Ramírez</a></li>
+<li><a href="/wiki/Ram%C3%B3n" title="Ramón">Ramón</a></li>
+<li><a href="/wiki/Ram%C3%B3nez" title="Ramónez">Ramónez</a></li>
+<li><a href="/wiki/Ran" title="Ran">Ran</a></li>
+<li><a href="/wiki/Rancagua" title="Rancagua">Rancagua</a></li>
+<li><a href="/wiki/Rancan" title="Rancan">Rancan</a></li>
+<li><a href="/wiki/Ranchos" title="Ranchos">Ranchos</a></li>
+<li><a href="/wiki/Ranco" title="Ranco">Ranco</a></li>
+<li><a href="/wiki/Rancuiman" title="Rancuiman">Rancuiman</a></li>
+<li><a href="/wiki/Rancumil" title="Rancumil">Rancumil</a></li>
+<li><a href="/wiki/Randa" title="Randa">Randa</a></li>
+<li><a href="/wiki/Ranedo" title="Ranedo">Ranedo</a></li>
+<li><a href="/wiki/Ranero" title="Ranero">Ranero</a></li>
+<li><a href="/wiki/Rangole" title="Rangole">Rangole</a></li>
+<li><a href="/wiki/Rangoline" title="Rangoline">Rangoline</a></li>
+<li><a href="/wiki/Ranguetat" title="Ranguetat">Ranguetat</a></li>
+<li><a href="/wiki/Ranguileo" title="Ranguileo">Ranguileo</a></li>
+<li><a href="/wiki/Ranguiman" title="Ranguiman">Ranguiman</a></li>
+<li><a href="/wiki/Ranguinotte" title="Ranguinotte">Ranguinotte</a></li>
+<li><a href="/wiki/Ranguiqueo" title="Ranguiqueo">Ranguiqueo</a></li>
+<li><a href="/wiki/Rang%C3%BAn" title="Rangún">Rangún</a></li>
+<li><a href="/wiki/Ranil" title="Ranil">Ranil</a></li>
+<li><a href="/wiki/Ranilao" title="Ranilao">Ranilao</a></li>
+<li><a href="/wiki/Ranileo" title="Ranileo">Ranileo</a></li>
+<li><a href="/wiki/Ranillan" title="Ranillan">Ranillan</a></li>
+<li><a href="/wiki/Raniman" title="Raniman">Raniman</a></li>
+<li><a href="/wiki/Raninao" title="Raninao">Raninao</a></li>
+<li><a href="/wiki/Ranineo" title="Ranineo">Ranineo</a></li>
+<li><a href="/wiki/Raninqueo" title="Raninqueo">Raninqueo</a></li>
+<li><a href="/wiki/Ranipe" title="Ranipe">Ranipe</a></li>
+<li><a href="/wiki/Raniqueo" title="Raniqueo">Raniqueo</a></li>
+<li><a href="/wiki/Ranitul" title="Ranitul">Ranitul</a></li>
+<li><a href="/wiki/Ranque" title="Ranque">Ranque</a></li>
+<li><a href="/wiki/Ranquel" title="Ranquel">Ranquel</a></li>
+<li><a href="/wiki/Ranqueo" title="Ranqueo">Ranqueo</a></li>
+<li><a href="/wiki/Ranquetat" title="Ranquetat">Ranquetat</a></li>
+<li><a href="/wiki/Ranquilche" title="Ranquilche">Ranquilche</a></li>
+<li><a href="/wiki/Ranquileo" title="Ranquileo">Ranquileo</a></li>
+<li><a href="/wiki/Ranquilque" title="Ranquilque">Ranquilque</a></li>
+<li><a href="/wiki/Ranquiman" title="Ranquiman">Ranquiman</a></li>
+<li><a href="/wiki/Ranquine" title="Ranquine">Ranquine</a></li>
+<li><a href="/wiki/Ranquinqueo" title="Ranquinqueo">Ranquinqueo</a></li>
+<li><a href="/wiki/Ranska" title="Ranska">Ranska</a></li>
+<li><a href="/wiki/Rantul" title="Rantul">Rantul</a></li>
+<li><a href="/wiki/Ranzani" title="Ranzani">Ranzani</a></li>
+<li><a href="/wiki/Ran%C3%ADn" title="Ranín">Ranín</a></li>
+<li><a href="/wiki/Rapa_Nui" title="Rapa Nui">Rapa Nui</a></li>
+<li><a href="/wiki/Rapatout" title="Rapatout">Rapatout</a></li>
+<li><a href="/wiki/Rapayan" title="Rapayan">Rapayan</a></li>
+<li><a href="/wiki/Raphael" title="Raphael">Raphael</a></li>
+<li><a href="/wiki/Rapha%C3%ABl" title="Raphaël">Raphaël</a></li>
+<li><a href="/wiki/Rapi" title="Rapi">Rapi</a></li>
+<li><a href="/wiki/Rapihual" title="Rapihual">Rapihual</a></li>
+<li><a href="/wiki/Rapimam" title="Rapimam">Rapimam</a></li>
+<li><a href="/wiki/Rapimon" title="Rapimon">Rapimon</a></li>
+<li><a href="/wiki/Rapim%C3%A1n" title="Rapimán">Rapimán</a></li>
+<li><a href="/wiki/Rapin" title="Rapin">Rapin</a></li>
+<li><a href="/wiki/Rappaport" title="Rappaport">Rappaport</a></li>
+<li><a href="/wiki/Raqqa" title="Raqqa">Raqqa</a></li>
+<li><a href="/wiki/Raquel" title="Raquel">Raquel</a></li>
+<li><a href="/wiki/Raquian" title="Raquian">Raquian</a></li>
+<li><a href="/wiki/Raquil" title="Raquil">Raquil</a></li>
+<li><a href="/wiki/Raquileo" title="Raquileo">Raquileo</a></li>
+<li><a href="/wiki/Raquiman" title="Raquiman">Raquiman</a></li>
+<li><a href="/wiki/Raquinao" title="Raquinao">Raquinao</a></li>
+<li><a href="/wiki/Raquinqueo" title="Raquinqueo">Raquinqueo</a></li>
+<li><a href="/wiki/Rarivil" title="Rarivil">Rarivil</a></li>
+<li><a href="/wiki/Ras_al_Jaima" title="Ras al Jaima">Ras al Jaima</a></li>
+<li><a href="/wiki/Rasenm%C3%A4her" title="Rasenmäher">Rasenmäher</a></li>
+<li><a href="/wiki/Rasht" title="Rasht">Rasht</a></li>
+<li><a href="/wiki/Raso" title="Raso">Raso</a></li>
+<li><a href="/wiki/Rasquin" title="Rasquin">Rasquin</a></li>
+<li><a href="/wiki/Rassist" title="Rassist">Rassist</a></li>
+<li><a href="/wiki/Rathaus" title="Rathaus">Rathaus</a></li>
+<li><a href="/wiki/Rathgeb" title="Rathgeb">Rathgeb</a></li>
+<li><a href="/wiki/Ratisbona" title="Ratisbona">Ratisbona</a></li>
+<li><a href="/wiki/Ratte" title="Ratte">Ratte</a></li>
+<li><a href="/wiki/Ratti" title="Ratti">Ratti</a></li>
+<li><a href="/wiki/Ratulen" title="Ratulen">Ratulen</a></li>
+<li><a href="/wiki/Rau" title="Rau">Rau</a></li>
+<li><a href="/wiki/Raub" title="Raub">Raub</a></li>
+<li><a href="/wiki/Rauca" title="Rauca">Rauca</a></li>
+<li><a href="/wiki/Rauch" title="Rauch">Rauch</a></li>
+<li><a href="/wiki/Raudu_Dziesmas" title="Raudu Dziesmas">Raudu Dziesmas</a></li>
+<li><a href="/wiki/Raud%C5%B3_knyga" title="Raudų knyga">Raudų knyga</a></li>
+<li><a href="/wiki/Raul" title="Raul">Raul</a></li>
+<li><a href="/wiki/Raum" title="Raum">Raum</a></li>
+<li><a href="/wiki/Rauman" title="Rauman">Rauman</a></li>
+<li><a href="/wiki/Rauque" title="Rauque">Rauque</a></li>
+<li><a href="/wiki/Rauqueo" title="Rauqueo">Rauqueo</a></li>
+<li><a href="/wiki/Rausch" title="Rausch">Rausch</a></li>
+<li><a href="/wiki/Rauschenberg" title="Rauschenberg">Rauschenberg</a></li>
+<li><a href="/wiki/Rauscher" title="Rauscher">Rauscher</a></li>
+<li><a href="/wiki/Rautenberg" title="Rautenberg">Rautenberg</a></li>
+<li><a href="/wiki/Rautenstrauch" title="Rautenstrauch">Rautenstrauch</a></li>
+<li><a href="/wiki/Ravanal" title="Ravanal">Ravanal</a></li>
+<li><a href="/wiki/Ravanales" title="Ravanales">Ravanales</a></li>
+<li><a href="/wiki/Ravena" title="Ravena">Ravena</a></li>
+<li><a href="/wiki/Ravinet" title="Ravinet">Ravinet</a></li>
+<li><a href="/wiki/Rawlings" title="Rawlings">Rawlings</a></li>
+<li><a href="/wiki/Raya" title="Raya">Raya</a></li>
+<li><a href="/wiki/Rayehuanque" title="Rayehuanque">Rayehuanque</a></li>
+<li><a href="/wiki/Rayempan" title="Rayempan">Rayempan</a></li>
+<li><a href="/wiki/Rayenpam" title="Rayenpam">Rayenpam</a></li>
+<li><a href="/wiki/Rayenpan" title="Rayenpan">Rayenpan</a></li>
+<li><a href="/wiki/Rayepan" title="Rayepan">Rayepan</a></li>
+<li><a href="/wiki/Rayeupan" title="Rayeupan">Rayeupan</a></li>
+<li><a href="/wiki/Rayhuanque" title="Rayhuanque">Rayhuanque</a></li>
+<li><a href="/wiki/Rayianque" title="Rayianque">Rayianque</a></li>
+<li><a href="/wiki/Rayiman" title="Rayiman">Rayiman</a></li>
+<li><a href="/wiki/Rayin" title="Rayin">Rayin</a></li>
+<li><a href="/wiki/Raylef" title="Raylef">Raylef</a></li>
+<li><a href="/wiki/Rayllan" title="Rayllan">Rayllan</a></li>
+<li><a href="/wiki/Rayman" title="Rayman">Rayman</a></li>
+<li><a href="/wiki/Raymann" title="Raymann">Raymann</a></li>
+<li><a href="/wiki/Raymond" title="Raymond">Raymond</a></li>
+<li><a href="/wiki/Raymundo" title="Raymundo">Raymundo</a></li>
+<li><a href="/wiki/Raynanku" title="Raynanku">Raynanku</a></li>
+<li><a href="/wiki/Raynante" title="Raynante">Raynante</a></li>
+<li><a href="/wiki/Rayo" title="Rayo">Rayo</a></li>
+<li><a href="/wiki/Rayuinqueo" title="Rayuinqueo">Rayuinqueo</a></li>
+<li><a href="/wiki/Rayumil" title="Rayumil">Rayumil</a></li>
+<li><a href="/wiki/Rayunpan" title="Rayunpan">Rayunpan</a></li>
+<li><a href="/wiki/Ray%C3%A9n" title="Rayén">Rayén</a></li>
+<li><a href="/wiki/Razinger" title="Razinger">Razinger</a></li>
+<li><a href="/wiki/Razquin" title="Razquin">Razquin</a></li>
+<li><a href="/wiki/Razuri" title="Razuri">Razuri</a></li>
+<li><a href="/wiki/Ra%C3%ADn" title="Raín">Raín</a></li>
+<li><a href="/wiki/Ra%C3%B1eta" title="Rañeta">Rañeta</a></li>
+<li><a href="/wiki/Ra%C3%B1il" title="Rañil">Rañil</a></li>
+<li><a href="/wiki/Ra%C3%B1ilao" title="Rañilao">Rañilao</a></li>
+<li><a href="/wiki/Ra%C3%B1ilebu" title="Rañilebu">Rañilebu</a></li>
+<li><a href="/wiki/Ra%C3%B1ileo" title="Rañileo">Rañileo</a></li>
+<li><a href="/wiki/Ra%C3%B1ileufu" title="Rañileufu">Rañileufu</a></li>
+<li><a href="/wiki/Ra%C3%B1ilevu" title="Rañilevu">Rañilevu</a></li>
+<li><a href="/wiki/Ra%C3%B1iman" title="Rañiman">Rañiman</a></li>
+<li><a href="/wiki/Ra%C3%B1inao" title="Rañinao">Rañinao</a></li>
+<li><a href="/wiki/Ra%C3%B1inqueo" title="Rañinqueo">Rañinqueo</a></li>
+<li><a href="/wiki/Ra%C3%B1io" title="Rañio">Rañio</a></li>
+<li><a href="/wiki/Ra%C3%B1ipe" title="Rañipe">Rañipe</a></li>
+<li><a href="/wiki/Ra%C3%B1ipi" title="Rañipi">Rañipi</a></li>
+<li><a href="/wiki/Ra%C3%B1ique" title="Rañique">Rañique</a></li>
+<li><a href="/wiki/Ra%C3%B1iqueo" title="Rañiqueo">Rañiqueo</a></li>
+<li><a href="/wiki/Ra%C3%B1itruf" title="Rañitruf">Rañitruf</a></li>
+<li><a href="/wiki/Ra%C3%B1olao" title="Rañolao">Rañolao</a></li>
+<li><a href="/wiki/Ra%C3%B1umir" title="Rañumir">Rañumir</a></li>
+<li><a href="/wiki/Ra%C3%BAl" title="Raúl">Raúl</a></li>
+<li><a href="/wiki/Rea" title="Rea">Rea</a></li>
+<li><a href="/wiki/Reader" title="Reader">Reader</a></li>
+<li><a href="/wiki/Reading" title="Reading">Reading</a></li>
+<li><a href="/wiki/Reagan" title="Reagan">Reagan</a></li>
+<li><a href="/wiki/Real" title="Real">Real</a></li>
+<li><a href="/wiki/Real_de_Azua" title="Real de Azua">Real de Azua</a></li>
+<li><a href="/wiki/Real_de_Catorce" title="Real de Catorce">Real de Catorce</a></li>
+<li><a href="/wiki/Reategui" title="Reategui">Reategui</a></li>
+<li><a href="/wiki/Rebeca" title="Rebeca">Rebeca</a></li>
+<li><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></li>
+<li><a href="/wiki/Rebolledo" title="Rebolledo">Rebolledo</a></li>
+<li><a href="/wiki/Rebollo" title="Rebollo">Rebollo</a></li>
+<li><a href="/wiki/Rebolloso" title="Rebolloso">Rebolloso</a></li>
+<li><a href="/wiki/Reca" title="Reca">Reca</a></li>
+<li><a href="/wiki/Recabal" title="Recabal">Recabal</a></li>
+<li><a href="/wiki/Recabarren" title="Recabarren">Recabarren</a></li>
+<li><a href="/wiki/Recabaster" title="Recabaster">Recabaster</a></li>
+<li><a href="/wiki/Recabeitia" title="Recabeitia">Recabeitia</a></li>
+<li><a href="/wiki/Recaborde" title="Recaborde">Recaborde</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Quiliman" title="Especial:Todas">Página anterior (Quiliman)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Recacho" title="Especial:Todas">Página siguiente (Recacho)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DR" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DR" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=R" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=R&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=R&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":291,"wgHostname":"mw1256"});});</script></body></html>

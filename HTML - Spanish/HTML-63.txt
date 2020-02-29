@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljPKApAICkAALSW8-8AAAAR","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=x"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"x","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='x' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=wohk%C3%B3" title="Especial:Todas">Página anterior (wohkó)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=xerografiar%C3%ADan" title="Especial:Todas">Página siguiente (xerografiarían)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/x" title="x">x</a></li>
+<li><a href="/wiki/x%27ain" title="x&#039;ain">x&#039;ain</a></li>
+<li><a href="/wiki/x-" title="x-">x-</a></li>
+<li><a href="/wiki/x-D" title="x-D">x-D</a></li>
+<li><a href="/wiki/x-ray" title="x-ray">x-ray</a></li>
+<li><a href="/wiki/xD" title="xD">xD</a></li>
+<li><a href="/wiki/x_ma%27_jaajil_p%27un" title="x ma&#039; jaajil p&#039;un">x ma&#039; jaajil p&#039;un</a></li>
+<li><a href="/wiki/xa" title="xa">xa</a></li>
+<li class="allpagesredirect"><a href="/wiki/xa%27" class="mw-redirect" title="xa&#039;">xa&#039;</a></li>
+<li><a href="/wiki/xa%27ak%27" title="xa&#039;ak&#039;">xa&#039;ak&#039;</a></li>
+<li class="allpagesredirect"><a href="/wiki/xa%27an" class="mw-redirect" title="xa&#039;an">xa&#039;an</a></li>
+<li class="allpagesredirect"><a href="/wiki/xa%27ay" class="mw-redirect" title="xa&#039;ay">xa&#039;ay</a></li>
+<li><a href="/wiki/xa%27xokotl" title="xa&#039;xokotl">xa&#039;xokotl</a></li>
+<li><a href="/wiki/xa-f" title="xa-f">xa-f</a></li>
+<li><a href="/wiki/xaach" title="xaach">xaach</a></li>
+<li><a href="/wiki/xaajli" title="xaajli">xaajli</a></li>
+<li><a href="/wiki/xaas" title="xaas">xaas</a></li>
+<li><a href="/wiki/xaashi" title="xaashi">xaashi</a></li>
+<li><a href="/wiki/xabalconada" title="xabalconada">xabalconada</a></li>
+<li><a href="/wiki/xabalconadas" title="xabalconadas">xabalconadas</a></li>
+<li><a href="/wiki/xabalconado" title="xabalconado">xabalconado</a></li>
+<li><a href="/wiki/xabalconados" title="xabalconados">xabalconados</a></li>
+<li><a href="/wiki/xabalconando" title="xabalconando">xabalconando</a></li>
+<li><a href="/wiki/xabalconar" title="xabalconar">xabalconar</a></li>
+<li><a href="/wiki/xabalc%C3%B3n" title="xabalcón">xabalcón</a></li>
+<li><a href="/wiki/xabalonada" title="xabalonada">xabalonada</a></li>
+<li><a href="/wiki/xabalonadas" title="xabalonadas">xabalonadas</a></li>
+<li><a href="/wiki/xabalonado" title="xabalonado">xabalonado</a></li>
+<li><a href="/wiki/xabalonados" title="xabalonados">xabalonados</a></li>
+<li><a href="/wiki/xabalonando" title="xabalonando">xabalonando</a></li>
+<li><a href="/wiki/xabalonar" title="xabalonar">xabalonar</a></li>
+<li><a href="/wiki/xabal%C3%B3n" title="xabalón">xabalón</a></li>
+<li><a href="/wiki/xaboi" title="xaboi">xaboi</a></li>
+<li><a href="/wiki/xabr%C3%B3n" title="xabrón">xabrón</a></li>
+<li><a href="/wiki/xab%C3%B3n" title="xabón">xabón</a></li>
+<li><a href="/wiki/xab%C3%BA" title="xabú">xabú</a></li>
+<li><a href="/wiki/xacal" title="xacal">xacal</a></li>
+<li><a href="/wiki/xacalli" title="xacalli">xacalli</a></li>
+<li><a href="/wiki/xacals" title="xacals">xacals</a></li>
+<li><a href="/wiki/xacena" title="xacena">xacena</a></li>
+<li><a href="/wiki/xadiid" title="xadiid">xadiid</a></li>
+<li><a href="/wiki/xadin" title="xadin">xadin</a></li>
+<li><a href="/wiki/xadrez" title="xadrez">xadrez</a></li>
+<li><a href="/wiki/xadrezista" title="xadrezista">xadrezista</a></li>
+<li><a href="/wiki/xaggaa" title="xaggaa">xaggaa</a></li>
+<li><a href="/wiki/xagolha" title="xagolha">xagolha</a></li>
+<li><a href="/wiki/xag%C4%A7ar" title="xagħar">xagħar</a></li>
+<li><a href="/wiki/xahar" title="xahar">xahar</a></li>
+<li><a href="/wiki/xahuania" title="xahuania">xahuania</a></li>
+<li><a href="/wiki/xah%C3%A1mat" title="xahámat">xahámat</a></li>
+<li><a href="/wiki/xai" title="xai">xai</a></li>
+<li><a href="/wiki/xaia" title="xaia">xaia</a></li>
+<li><a href="/wiki/xajab" title="xajab">xajab</a></li>
+<li><a href="/wiki/xajkali" title="xajkali">xajkali</a></li>
+<li><a href="/wiki/xajxokotl" title="xajxokotl">xajxokotl</a></li>
+<li><a href="/wiki/xaka" title="xaka">xaka</a></li>
+<li><a href="/wiki/xakaj" title="xakaj">xakaj</a></li>
+<li><a href="/wiki/xakali" title="xakali">xakali</a></li>
+<li><a href="/wiki/xakalli" title="xakalli">xakalli</a></li>
+<li><a href="/wiki/xake" title="xake">xake</a></li>
+<li><a href="/wiki/xakualoa" title="xakualoa">xakualoa</a></li>
+<li><a href="/wiki/xal" title="xal">xal</a></li>
+<li><a href="/wiki/xalamatl" title="xalamatl">xalamatl</a></li>
+<li><a href="/wiki/xalapa" title="xalapa">xalapa</a></li>
+<li><a href="/wiki/xalape%C3%B1o" title="xalapeño">xalapeño</a></li>
+<li><a href="/wiki/xalcanauhtli" title="xalcanauhtli">xalcanauhtli</a></li>
+<li><a href="/wiki/xali" title="xali">xali</a></li>
+<li><a href="/wiki/xalli" title="xalli">xalli</a></li>
+<li><a href="/wiki/xallo" title="xallo">xallo</a></li>
+<li><a href="/wiki/xalmichi" title="xalmichi">xalmichi</a></li>
+<li><a href="/wiki/xalmichin" title="xalmichin">xalmichin</a></li>
+<li><a href="/wiki/xaloh" title="xaloh">xaloh</a></li>
+<li><a href="/wiki/xalpatlajkan" title="xalpatlajkan">xalpatlajkan</a></li>
+<li><a href="/wiki/xaltentli" title="xaltentli">xaltentli</a></li>
+<li><a href="/wiki/xaltik" title="xaltik">xaltik</a></li>
+<li><a href="/wiki/xaltlapalli" title="xaltlapalli">xaltlapalli</a></li>
+<li><a href="/wiki/xaltlapaltic" title="xaltlapaltic">xaltlapaltic</a></li>
+<li><a href="/wiki/xaltocamecatl" title="xaltocamecatl">xaltocamecatl</a></li>
+<li><a href="/wiki/xaltomatl" title="xaltomatl">xaltomatl</a></li>
+<li><a href="/wiki/xaltozan" title="xaltozan">xaltozan</a></li>
+<li><a href="/wiki/xaltumal" title="xaltumal">xaltumal</a></li>
+<li><a href="/wiki/xalxocol" title="xalxocol">xalxocol</a></li>
+<li><a href="/wiki/xalxocotl" title="xalxocotl">xalxocotl</a></li>
+<li><a href="/wiki/xalxocul" title="xalxocul">xalxocul</a></li>
+<li><a href="/wiki/xalxokot" title="xalxokot">xalxokot</a></li>
+<li><a href="/wiki/xalxokotl" title="xalxokotl">xalxokotl</a></li>
+<li><a href="/wiki/xal%C3%A7a" title="xalça">xalça</a></li>
+<li><a href="/wiki/xam" title="xam">xam</a></li>
+<li><a href="/wiki/xaman" title="xaman">xaman</a></li>
+<li><a href="/wiki/xamani" title="xamani">xamani</a></li>
+<li><a href="/wiki/xambel" title="xambel">xambel</a></li>
+<li><a href="/wiki/xamitl" title="xamitl">xamitl</a></li>
+<li><a href="/wiki/xamma" title="xamma">xamma</a></li>
+<li><a href="/wiki/xamni%CA%94" title="xamniʔ">xamniʔ</a></li>
+<li><a href="/wiki/xampiny%C3%B3" title="xampinyó">xampinyó</a></li>
+<li><a href="/wiki/xamp%C3%BA" title="xampú">xampú</a></li>
+<li class="allpagesredirect"><a href="/wiki/xamu%27u" class="mw-redirect" title="xamu&#039;u">xamu&#039;u</a></li>
+<li><a href="/wiki/xamu%CA%BCu" title="xamuʼu">xamuʼu</a></li>
+<li><a href="/wiki/xamxam" title="xamxam">xamxam</a></li>
+<li><a href="/wiki/xamxasi" title="xamxasi">xamxasi</a></li>
+<li><a href="/wiki/xam%C3%B3n" title="xamón">xamón</a></li>
+<li><a href="/wiki/xana" title="xana">xana</a></li>
+<li><a href="/wiki/xanab" title="xanab">xanab</a></li>
+<li><a href="/wiki/xanab%27" title="xanab&#039;">xanab&#039;</a></li>
+<li><a href="/wiki/xanabo%E2%80%99ob" title="xanabo’ob">xanabo’ob</a></li>
+<li><a href="/wiki/xancha" title="xancha">xancha</a></li>
+<li><a href="/wiki/xandia" title="xandia">xandia</a></li>
+<li><a href="/wiki/xaneiro" title="xaneiro">xaneiro</a></li>
+<li><a href="/wiki/xankajli" title="xankajli">xankajli</a></li>
+<li><a href="/wiki/xankju%CC%B7" title="xankju̷">xankju̷</a></li>
+<li><a href="/wiki/xantano" title="xantano">xantano</a></li>
+<li><a href="/wiki/xantanos" title="xantanos">xantanos</a></li>
+<li><a href="/wiki/xantatge" title="xantatge">xantatge</a></li>
+<li><a href="/wiki/xantina" title="xantina">xantina</a></li>
+<li><a href="/wiki/xantli" title="xantli">xantli</a></li>
+<li><a href="/wiki/xantofila" title="xantofila">xantofila</a></li>
+<li><a href="/wiki/xantofobia" title="xantofobia">xantofobia</a></li>
+<li><a href="/wiki/xantojkonetl" title="xantojkonetl">xantojkonetl</a></li>
+<li><a href="/wiki/xantojnana" title="xantojnana">xantojnana</a></li>
+<li><a href="/wiki/xantojtata" title="xantojtata">xantojtata</a></li>
+<li><a href="/wiki/xantoma" title="xantoma">xantoma</a></li>
+<li><a href="/wiki/xantosis" title="xantosis">xantosis</a></li>
+<li><a href="/wiki/xanu" title="xanu">xanu</a></li>
+<li><a href="/wiki/xanuun" title="xanuun">xanuun</a></li>
+<li><a href="/wiki/xan%C3%A4n" title="xanän">xanän</a></li>
+<li><a href="/wiki/xan%C4%B1m" title="xanım">xanım</a></li>
+<li><a href="/wiki/xapa%C3%AD" title="xapaí">xapaí</a></li>
+<li><a href="/wiki/xapnen" title="xapnen">xapnen</a></li>
+<li><a href="/wiki/xapo" title="xapo">xapo</a></li>
+<li><a href="/wiki/xapoatl" title="xapoatl">xapoatl</a></li>
+<li><a href="/wiki/xapoh" title="xapoh">xapoh</a></li>
+<li><a href="/wiki/xapontlacatl" title="xapontlacatl">xapontlacatl</a></li>
+<li><a href="/wiki/xapontlahtolli" title="xapontlahtolli">xapontlahtolli</a></li>
+<li><a href="/wiki/xapon%C3%A9s" title="xaponés">xaponés</a></li>
+<li><a href="/wiki/xapouia" title="xapouia">xapouia</a></li>
+<li><a href="/wiki/xap%C3%B3o" title="xapóo">xapóo</a></li>
+<li><a href="/wiki/xap%C3%BAni" title="xapúni">xapúni</a></li>
+<li><a href="/wiki/xar" title="xar">xar</a></li>
+<li><a href="/wiki/xaraf" title="xaraf">xaraf</a></li>
+<li><a href="/wiki/xarampi%C3%B3" title="xarampió">xarampió</a></li>
+<li><a href="/wiki/xarbi" title="xarbi">xarbi</a></li>
+<li><a href="/wiki/xarbotar" title="xarbotar">xarbotar</a></li>
+<li><a href="/wiki/xargos" title="xargos">xargos</a></li>
+<li><a href="/wiki/xariir" title="xariir">xariir</a></li>
+<li><a href="/wiki/xark%C3%A1wes" title="xarkáwes">xarkáwes</a></li>
+<li><a href="/wiki/xarq%27eche%27" title="xarq&#039;eche&#039;">xarq&#039;eche&#039;</a></li>
+<li><a href="/wiki/xarrupar" title="xarrupar">xarrupar</a></li>
+<li><a href="/wiki/xarxa" title="xarxa">xarxa</a></li>
+<li><a href="/wiki/xar%C3%AD" title="xarí">xarí</a></li>
+<li><a href="/wiki/xar%C3%BA" title="xarú">xarú</a></li>
+<li><a href="/wiki/xass%C3%ADs" title="xassís">xassís</a></li>
+<li><a href="/wiki/xat" title="xat">xat</a></li>
+<li><a href="/wiki/xat%27e" title="xat&#039;e">xat&#039;e</a></li>
+<li><a href="/wiki/xatay" title="xatay">xatay</a></li>
+<li><a href="/wiki/xatj" title="xatj">xatj</a></li>
+<li><a href="/wiki/xaua" title="xaua">xaua</a></li>
+<li><a href="/wiki/xaval" title="xaval">xaval</a></li>
+<li><a href="/wiki/xavala" title="xavala">xavala</a></li>
+<li><a href="/wiki/xavalla" title="xavalla">xavalla</a></li>
+<li><a href="/wiki/xawatu" title="xawatu">xawatu</a></li>
+<li><a href="/wiki/xax" title="xax">xax</a></li>
+<li><a href="/wiki/xaxakualtik" title="xaxakualtik">xaxakualtik</a></li>
+<li><a href="/wiki/xaxamaktsi" title="xaxamaktsi">xaxamaktsi</a></li>
+<li><a href="/wiki/xaxantik" title="xaxantik">xaxantik</a></li>
+<li><a href="/wiki/xaxayaktli" title="xaxayaktli">xaxayaktli</a></li>
+<li><a href="/wiki/xaxne" title="xaxne">xaxne</a></li>
+<li><a href="/wiki/xayacatl" title="xayacatl">xayacatl</a></li>
+<li><a href="/wiki/xayakalistli" title="xayakalistli">xayakalistli</a></li>
+<li><a href="/wiki/xayakat" title="xayakat">xayakat</a></li>
+<li><a href="/wiki/xayaktli" title="xayaktli">xayaktli</a></li>
+<li><a href="/wiki/xayawaano" title="xayawaano">xayawaano</a></li>
+<li><a href="/wiki/xazoj" title="xazoj">xazoj</a></li>
+<li><a href="/wiki/xazoj_coospoj" title="xazoj coospoj">xazoj coospoj</a></li>
+<li><a href="/wiki/xa%C3%A1na" title="xaána">xaána</a></li>
+<li><a href="/wiki/xa%C3%B1a" title="xaña">xaña</a></li>
+<li><a href="/wiki/xa%CA%BC" title="xaʼ">xaʼ</a></li>
+<li><a href="/wiki/xa%CA%BCan" title="xaʼan">xaʼan</a></li>
+<li><a href="/wiki/xa%CA%BCay" title="xaʼay">xaʼay</a></li>
+<li class="allpagesredirect"><a href="/wiki/xa%CC%A0%27an" class="mw-redirect" title="xa̠&#039;an">xa̠&#039;an</a></li>
+<li><a href="/wiki/xa%CC%B1jli" title="xa̱jli">xa̱jli</a></li>
+<li><a href="/wiki/xbe%27e" title="xbe&#039;e">xbe&#039;e</a></li>
+<li><a href="/wiki/xchanul_chab" title="xchanul chab">xchanul chab</a></li>
+<li><a href="/wiki/xchel" title="xchel">xchel</a></li>
+<li><a href="/wiki/xcure" title="xcure">xcure</a></li>
+<li><a href="/wiki/xcurgu%C3%AD%27" title="xcurguí&#039;">xcurguí&#039;</a></li>
+<li><a href="/wiki/xe" title="xe">xe</a></li>
+<li><a href="/wiki/xear" title="xear">xear</a></li>
+<li><a href="/wiki/xeedxe%27" title="xeedxe&#039;">xeedxe&#039;</a></li>
+<li><a href="/wiki/xeenej" title="xeenej">xeenej</a></li>
+<li><a href="/wiki/xeenoj" title="xeenoj">xeenoj</a></li>
+<li class="allpagesredirect"><a href="/wiki/xeet%27" class="mw-redirect" title="xeet&#039;">xeet&#039;</a></li>
+<li><a href="/wiki/xeet%CA%BC" title="xeetʼ">xeetʼ</a></li>
+<li><a href="/wiki/xeezej" title="xeezej">xeezej</a></li>
+<li><a href="/wiki/xefe" title="xefe">xefe</a></li>
+<li><a href="/wiki/xefi" title="xefi">xefi</a></li>
+<li><a href="/wiki/xefo" title="xefo">xefo</a></li>
+<li><a href="/wiki/xek" title="xek">xek</a></li>
+<li><a href="/wiki/xeliui" title="xeliui">xeliui</a></li>
+<li><a href="/wiki/xeliwi" title="xeliwi">xeliwi</a></li>
+<li><a href="/wiki/xeloa" title="xeloa">xeloa</a></li>
+<li><a href="/wiki/xelolistli" title="xelolistli">xelolistli</a></li>
+<li><a href="/wiki/xelu" title="xelu">xelu</a></li>
+<li><a href="/wiki/xemeneia" title="xemeneia">xemeneia</a></li>
+<li><a href="/wiki/xemg%C4%A7a" title="xemgħa">xemgħa</a></li>
+<li><a href="/wiki/xemx" title="xemx">xemx</a></li>
+<li><a href="/wiki/xem%C3%A9ra" title="xeméra">xeméra</a></li>
+<li><a href="/wiki/xenec" title="xenec">xenec</a></li>
+<li><a href="/wiki/xeneise" title="xeneise">xeneise</a></li>
+<li><a href="/wiki/xeneize" title="xeneize">xeneize</a></li>
+<li><a href="/wiki/xeneral" title="xeneral">xeneral</a></li>
+<li><a href="/wiki/xenismos" title="xenismos">xenismos</a></li>
+<li><a href="/wiki/xenital" title="xenital">xenital</a></li>
+<li><a href="/wiki/xenitales" title="xenitales">xenitales</a></li>
+<li><a href="/wiki/xeno" title="xeno">xeno</a></li>
+<li><a href="/wiki/xeno-" title="xeno-">xeno-</a></li>
+<li><a href="/wiki/xenobi%C3%B3ticos" title="xenobióticos">xenobióticos</a></li>
+<li><a href="/wiki/xenofilia" title="xenofilia">xenofilia</a></li>
+<li><a href="/wiki/xenofobia" title="xenofobia">xenofobia</a></li>
+<li><a href="/wiki/xenofobias" title="xenofobias">xenofobias</a></li>
+<li><a href="/wiki/xenoglosia" title="xenoglosia">xenoglosia</a></li>
+<li><a href="/wiki/xenoglosofobia" title="xenoglosofobia">xenoglosofobia</a></li>
+<li><a href="/wiki/xenograf%C3%ADa" title="xenografía">xenografía</a></li>
+<li><a href="/wiki/xenoinjerto" title="xenoinjerto">xenoinjerto</a></li>
+<li><a href="/wiki/xenolitos" title="xenolitos">xenolitos</a></li>
+<li><a href="/wiki/xenophobia" title="xenophobia">xenophobia</a></li>
+<li><a href="/wiki/xente" title="xente">xente</a></li>
+<li><a href="/wiki/xenthe" title="xenthe">xenthe</a></li>
+<li><a href="/wiki/xentilicio" title="xentilicio">xentilicio</a></li>
+<li><a href="/wiki/xentu" title="xentu">xentu</a></li>
+<li><a href="/wiki/xenxiva" title="xenxiva">xenxiva</a></li>
+<li><a href="/wiki/xenxival" title="xenxival">xenxival</a></li>
+<li><a href="/wiki/xen%C3%B3foba" title="xenófoba">xenófoba</a></li>
+<li><a href="/wiki/xen%C3%B3fobas" title="xenófobas">xenófobas</a></li>
+<li><a href="/wiki/xen%C3%B3fobo" title="xenófobo">xenófobo</a></li>
+<li><a href="/wiki/xen%C3%B3fobos" title="xenófobos">xenófobos</a></li>
+<li><a href="/wiki/xen%C3%B3n" title="xenón">xenón</a></li>
+<li><a href="/wiki/xeo" title="xeo">xeo</a></li>
+<li><a href="/wiki/xeograf%C3%ADa" title="xeografía">xeografía</a></li>
+<li><a href="/wiki/xeolox%C3%ADa" title="xeoloxía">xeoloxía</a></li>
+<li><a href="/wiki/xeometr%C3%ADa" title="xeometría">xeometría</a></li>
+<li><a href="/wiki/xeonllo" title="xeonllo">xeonllo</a></li>
+<li><a href="/wiki/xepe" title="xepe">xepe</a></li>
+<li><a href="/wiki/xepenoh%C3%A9epni" title="xepenohéepni">xepenohéepni</a></li>
+<li><a href="/wiki/xep%C3%BAp" title="xepúp">xepúp</a></li>
+<li><a href="/wiki/xeral" title="xeral">xeral</a></li>
+<li><a href="/wiki/xerar" title="xerar">xerar</a></li>
+<li><a href="/wiki/xerarqu%C3%ADa" title="xerarquía">xerarquía</a></li>
+<li><a href="/wiki/xerasia" title="xerasia">xerasia</a></li>
+<li><a href="/wiki/xerda" title="xerda">xerda</a></li>
+<li><a href="/wiki/xereta" title="xereta">xereta</a></li>
+<li><a href="/wiki/xero-" title="xero-">xero-</a></li>
+<li><a href="/wiki/xerocopia" title="xerocopia">xerocopia</a></li>
+<li><a href="/wiki/xerocopiaba" title="xerocopiaba">xerocopiaba</a></li>
+<li><a href="/wiki/xerocopiabais" title="xerocopiabais">xerocopiabais</a></li>
+<li><a href="/wiki/xerocopiaban" title="xerocopiaban">xerocopiaban</a></li>
+<li><a href="/wiki/xerocopiabas" title="xerocopiabas">xerocopiabas</a></li>
+<li><a href="/wiki/xerocopiad" title="xerocopiad">xerocopiad</a></li>
+<li><a href="/wiki/xerocopiada" title="xerocopiada">xerocopiada</a></li>
+<li><a href="/wiki/xerocopiadas" title="xerocopiadas">xerocopiadas</a></li>
+<li><a href="/wiki/xerocopiado" title="xerocopiado">xerocopiado</a></li>
+<li><a href="/wiki/xerocopiados" title="xerocopiados">xerocopiados</a></li>
+<li><a href="/wiki/xerocopiamos" title="xerocopiamos">xerocopiamos</a></li>
+<li><a href="/wiki/xerocopian" title="xerocopian">xerocopian</a></li>
+<li><a href="/wiki/xerocopiando" title="xerocopiando">xerocopiando</a></li>
+<li><a href="/wiki/xerocopiar" title="xerocopiar">xerocopiar</a></li>
+<li><a href="/wiki/xerocopiara" title="xerocopiara">xerocopiara</a></li>
+<li><a href="/wiki/xerocopiarais" title="xerocopiarais">xerocopiarais</a></li>
+<li><a href="/wiki/xerocopiaran" title="xerocopiaran">xerocopiaran</a></li>
+<li><a href="/wiki/xerocopiaras" title="xerocopiaras">xerocopiaras</a></li>
+<li><a href="/wiki/xerocopiare" title="xerocopiare">xerocopiare</a></li>
+<li><a href="/wiki/xerocopiareis" title="xerocopiareis">xerocopiareis</a></li>
+<li><a href="/wiki/xerocopiaremos" title="xerocopiaremos">xerocopiaremos</a></li>
+<li><a href="/wiki/xerocopiaren" title="xerocopiaren">xerocopiaren</a></li>
+<li><a href="/wiki/xerocopiares" title="xerocopiares">xerocopiares</a></li>
+<li><a href="/wiki/xerocopiaron" title="xerocopiaron">xerocopiaron</a></li>
+<li><a href="/wiki/xerocopiar%C3%A1" title="xerocopiará">xerocopiará</a></li>
+<li><a href="/wiki/xerocopiar%C3%A1n" title="xerocopiarán">xerocopiarán</a></li>
+<li><a href="/wiki/xerocopiar%C3%A1s" title="xerocopiarás">xerocopiarás</a></li>
+<li><a href="/wiki/xerocopiar%C3%A9" title="xerocopiaré">xerocopiaré</a></li>
+<li><a href="/wiki/xerocopiar%C3%A9is" title="xerocopiaréis">xerocopiaréis</a></li>
+<li><a href="/wiki/xerocopiar%C3%ADa" title="xerocopiaría">xerocopiaría</a></li>
+<li><a href="/wiki/xerocopiar%C3%ADais" title="xerocopiaríais">xerocopiaríais</a></li>
+<li><a href="/wiki/xerocopiar%C3%ADamos" title="xerocopiaríamos">xerocopiaríamos</a></li>
+<li><a href="/wiki/xerocopiar%C3%ADan" title="xerocopiarían">xerocopiarían</a></li>
+<li><a href="/wiki/xerocopiar%C3%ADas" title="xerocopiarías">xerocopiarías</a></li>
+<li><a href="/wiki/xerocopias" title="xerocopias">xerocopias</a></li>
+<li><a href="/wiki/xerocopiase" title="xerocopiase">xerocopiase</a></li>
+<li><a href="/wiki/xerocopiaseis" title="xerocopiaseis">xerocopiaseis</a></li>
+<li><a href="/wiki/xerocopiasen" title="xerocopiasen">xerocopiasen</a></li>
+<li><a href="/wiki/xerocopiases" title="xerocopiases">xerocopiases</a></li>
+<li><a href="/wiki/xerocopiaste" title="xerocopiaste">xerocopiaste</a></li>
+<li><a href="/wiki/xerocopiasteis" title="xerocopiasteis">xerocopiasteis</a></li>
+<li><a href="/wiki/xerocopie" title="xerocopie">xerocopie</a></li>
+<li><a href="/wiki/xerocopiemos" title="xerocopiemos">xerocopiemos</a></li>
+<li><a href="/wiki/xerocopien" title="xerocopien">xerocopien</a></li>
+<li><a href="/wiki/xerocopies" title="xerocopies">xerocopies</a></li>
+<li><a href="/wiki/xerocopio" title="xerocopio">xerocopio</a></li>
+<li><a href="/wiki/xerocopi%C3%A1" title="xerocopiá">xerocopiá</a></li>
+<li><a href="/wiki/xerocopi%C3%A1bamos" title="xerocopiábamos">xerocopiábamos</a></li>
+<li><a href="/wiki/xerocopi%C3%A1is" title="xerocopiáis">xerocopiáis</a></li>
+<li><a href="/wiki/xerocopi%C3%A1ramos" title="xerocopiáramos">xerocopiáramos</a></li>
+<li><a href="/wiki/xerocopi%C3%A1remos" title="xerocopiáremos">xerocopiáremos</a></li>
+<li><a href="/wiki/xerocopi%C3%A1s" title="xerocopiás">xerocopiás</a></li>
+<li><a href="/wiki/xerocopi%C3%A1semos" title="xerocopiásemos">xerocopiásemos</a></li>
+<li><a href="/wiki/xerocopi%C3%A9" title="xerocopié">xerocopié</a></li>
+<li><a href="/wiki/xerocopi%C3%A9is" title="xerocopiéis">xerocopiéis</a></li>
+<li><a href="/wiki/xerocopi%C3%A9s" title="xerocopiés">xerocopiés</a></li>
+<li><a href="/wiki/xerocopi%C3%B3" title="xerocopió">xerocopió</a></li>
+<li><a href="/wiki/xerofobia" title="xerofobia">xerofobia</a></li>
+<li><a href="/wiki/xeroftalmias" title="xeroftalmias">xeroftalmias</a></li>
+<li><a href="/wiki/xeroftalm%C3%ADa" title="xeroftalmía">xeroftalmía</a></li>
+<li><a href="/wiki/xeroftalm%C3%ADas" title="xeroftalmías">xeroftalmías</a></li>
+<li><a href="/wiki/xerof%C3%ADtica" title="xerofítica">xerofítica</a></li>
+<li><a href="/wiki/xerof%C3%ADticas" title="xerofíticas">xerofíticas</a></li>
+<li><a href="/wiki/xerof%C3%ADticos" title="xerofíticos">xerofíticos</a></li>
+<li><a href="/wiki/xerografiaba" title="xerografiaba">xerografiaba</a></li>
+<li><a href="/wiki/xerografiabais" title="xerografiabais">xerografiabais</a></li>
+<li><a href="/wiki/xerografiaban" title="xerografiaban">xerografiaban</a></li>
+<li><a href="/wiki/xerografiabas" title="xerografiabas">xerografiabas</a></li>
+<li><a href="/wiki/xerografiad" title="xerografiad">xerografiad</a></li>
+<li><a href="/wiki/xerografiada" title="xerografiada">xerografiada</a></li>
+<li><a href="/wiki/xerografiadas" title="xerografiadas">xerografiadas</a></li>
+<li><a href="/wiki/xerografiado" title="xerografiado">xerografiado</a></li>
+<li><a href="/wiki/xerografiados" title="xerografiados">xerografiados</a></li>
+<li><a href="/wiki/xerografiamos" title="xerografiamos">xerografiamos</a></li>
+<li><a href="/wiki/xerografiando" title="xerografiando">xerografiando</a></li>
+<li><a href="/wiki/xerografiar" title="xerografiar">xerografiar</a></li>
+<li><a href="/wiki/xerografiara" title="xerografiara">xerografiara</a></li>
+<li><a href="/wiki/xerografiarais" title="xerografiarais">xerografiarais</a></li>
+<li><a href="/wiki/xerografiaran" title="xerografiaran">xerografiaran</a></li>
+<li><a href="/wiki/xerografiaras" title="xerografiaras">xerografiaras</a></li>
+<li><a href="/wiki/xerografiare" title="xerografiare">xerografiare</a></li>
+<li><a href="/wiki/xerografiareis" title="xerografiareis">xerografiareis</a></li>
+<li><a href="/wiki/xerografiaremos" title="xerografiaremos">xerografiaremos</a></li>
+<li><a href="/wiki/xerografiaren" title="xerografiaren">xerografiaren</a></li>
+<li><a href="/wiki/xerografiares" title="xerografiares">xerografiares</a></li>
+<li><a href="/wiki/xerografiaron" title="xerografiaron">xerografiaron</a></li>
+<li><a href="/wiki/xerografiar%C3%A1" title="xerografiará">xerografiará</a></li>
+<li><a href="/wiki/xerografiar%C3%A1n" title="xerografiarán">xerografiarán</a></li>
+<li><a href="/wiki/xerografiar%C3%A1s" title="xerografiarás">xerografiarás</a></li>
+<li><a href="/wiki/xerografiar%C3%A9" title="xerografiaré">xerografiaré</a></li>
+<li><a href="/wiki/xerografiar%C3%A9is" title="xerografiaréis">xerografiaréis</a></li>
+<li><a href="/wiki/xerografiar%C3%ADa" title="xerografiaría">xerografiaría</a></li>
+<li><a href="/wiki/xerografiar%C3%ADais" title="xerografiaríais">xerografiaríais</a></li>
+<li><a href="/wiki/xerografiar%C3%ADamos" title="xerografiaríamos">xerografiaríamos</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=wohk%C3%B3" title="Especial:Todas">Página anterior (wohkó)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=xerografiar%C3%ADan" title="Especial:Todas">Página siguiente (xerografiarían)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dx" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dx" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=x" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=x&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=x&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":342,"wgHostname":"mw1320"});});</script></body></html>

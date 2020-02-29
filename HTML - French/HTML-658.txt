@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikinews, la source d'informations que vous pouvez écrire</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XllYeApAAD8AAD@Rw8YAAAAO","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Accueil","wgTitle":"Accueil","wgCurRevisionId":814996,"wgRevisionId":814996,"wgArticleId":923,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages avec des liens de fichiers brisés"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Accueil","wgRelevantArticleId":923,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":814996,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikinews","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!1,"wgSiteNoticeId":"2.1"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready",
+"oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","ext.flaggedRevs.advanced","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.ui.button%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/1200px-Wikinews-logo.svg.png"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikinews.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikinews.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikinews (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikinews.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by/2.5/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikinews" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikinews.org/wiki/Accueil"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Accueil rootpage-Accueil skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Emasquer\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003Ccenter\u003E\n\u003Cdiv style=\"border:1px solid #a7d7f9; background:transparent; display: table; width: 100%; vertical-align:top; margin:1em auto 1em auto; padding: 0.5ex;\"\u003E\n\u003Ctable style=\"background:transparent; width: 100%; cellspacing:0; cellpadding:3;\"\u003E\n\u003Ctbody\u003E\u003Ctr style=\"width: 100%\"\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Monde\" title=\"Page:Monde\"\u003E\u003Cimg alt=\"Sciences de la terre.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sciences_de_la_terre.svg/25px-Sciences_de_la_terre.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sciences_de_la_terre.svg/38px-Sciences_de_la_terre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sciences_de_la_terre.svg/50px-Sciences_de_la_terre.svg.png 2x\" data-file-width=\"256\" data-file-height=\"256\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Monde\" title=\"Page:Monde\"\u003E\u003Cfont size=\"3.5\"\u003EMonde\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:%C3%89conomie_et_affaires\" title=\"Page:Économie et affaires\"\u003E\u003Cimg alt=\"Emblem-money.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/25px-Emblem-money.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/38px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/50px-Emblem-money.svg.png 2x\" data-file-width=\"48\" data-file-height=\"48\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:%C3%89conomie_et_affaires\" title=\"Page:Économie et affaires\"\u003E\u003Cfont size=\"3.5\"\u003EÉconomie\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Politique_et_conflits\" title=\"Page:Politique et conflits\"\u003E\u003Cimg alt=\"Society.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Society.svg/25px-Society.svg.png\" decoding=\"async\" width=\"25\" height=\"10\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Society.svg/38px-Society.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Society.svg/50px-Society.svg.png 2x\" data-file-width=\"96\" data-file-height=\"38\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Politique_et_conflits\" title=\"Page:Politique et conflits\"\u003E\u003Cfont size=\"3.5\"\u003EPolitique\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Science_et_technologie\" title=\"Page:Science et technologie\"\u003E\u003Cimg alt=\"Sciences exactes.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sciences_exactes.svg/25px-Sciences_exactes.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sciences_exactes.svg/38px-Sciences_exactes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sciences_exactes.svg/50px-Sciences_exactes.svg.png 2x\" data-file-width=\"256\" data-file-height=\"256\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Science_et_technologie\" title=\"Page:Science et technologie\"\u003E\u003Cfont size=\"3.5\"\u003ESciences\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Catastrophes_et_accidents\" title=\"Page:Catastrophes et accidents\"\u003E\u003Cimg alt=\"Biohazard symbol.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/25px-Biohazard_symbol.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/38px-Biohazard_symbol.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Biohazard_symbol.svg/50px-Biohazard_symbol.svg.png 2x\" data-file-width=\"520\" data-file-height=\"520\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Catastrophes_et_accidents\" title=\"Page:Catastrophes et accidents\"\u003E\u003Cfont size=\"3.5\"\u003ECatastrophes\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Culture\" title=\"Page:Culture\"\u003E\u003Cimg alt=\"Wiki-black.png\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Wiki-black.png/25px-Wiki-black.png\" decoding=\"async\" width=\"25\" height=\"23\" data-file-width=\"2000\" data-file-height=\"1825\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Culture\" title=\"Page:Culture\"\u003E\u003Cfont size=\"3.5\"\u003ECulture\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Sport\" title=\"Page:Sport\"\u003E\u003Cimg alt=\"Sport3 icone.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sport3_icone.svg/25px-Sport3_icone.svg.png\" decoding=\"async\" width=\"25\" height=\"25\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sport3_icone.svg/38px-Sport3_icone.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Sport3_icone.svg/50px-Sport3_icone.svg.png 2x\" data-file-width=\"600\" data-file-height=\"600\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Sport\" class=\"mw-redirect\" title=\"Page:Sport\"\u003E\u003Cfont size=\"3.5\"\u003ESport\u003C/font\u003E\u003C/a\u003E\u003C/th\u003E\n\u003C/tr\u003E\n\u003Ctr\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Environnement\" title=\"Page:Environnement\"\u003E\u003Cimg alt=\"Terra.png\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/20px-Terra.png\" decoding=\"async\" width=\"20\" height=\"20\" data-file-width=\"599\" data-file-height=\"599\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Environnement\" title=\"Page:Environnement\"\u003EEnvironnement\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Crimes_et_d%C3%A9lits\" title=\"Page:Crimes et délits\"\u003E\u003Cimg alt=\"Crime.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crime.svg/20px-Crime.svg.png\" decoding=\"async\" width=\"20\" height=\"17\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crime.svg/30px-Crime.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crime.svg/40px-Crime.svg.png 2x\" data-file-width=\"346\" data-file-height=\"300\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Crimes_et_d%C3%A9lits\" title=\"Page:Crimes et délits\"\u003ECrimes et délits\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Transports\" title=\"Page:Transports\"\u003E\u003Cimg alt=\"WV Transport Logo.png\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/WV_Transport_Logo.png/20px-WV_Transport_Logo.png\" decoding=\"async\" width=\"20\" height=\"20\" data-file-width=\"1187\" data-file-height=\"1187\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Transports\" title=\"Page:Transports\"\u003ETransports\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Musique\" title=\"Page:Musique\"\u003E\u003Cimg alt=\"GClef.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/10px-GClef.svg.png\" decoding=\"async\" width=\"10\" height=\"27\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/15px-GClef.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/20px-GClef.svg.png 2x\" data-file-width=\"15\" data-file-height=\"41\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Musique\" title=\"Page:Musique\"\u003EMusique\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:N%C3%A9crologies\" title=\"Page:Nécrologies\"\u003E\u003Cimg alt=\"Black Ribbon.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Ribbon.svg/20px-Black_Ribbon.svg.png\" decoding=\"async\" width=\"20\" height=\"31\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Ribbon.svg/30px-Black_Ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Black_Ribbon.svg/40px-Black_Ribbon.svg.png 2x\" data-file-width=\"455\" data-file-height=\"700\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:N%C3%A9crologies\" title=\"Page:Nécrologies\"\u003ENécrologie\u003C/a\u003E\u003C/th\u003E\n\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:Droit\" title=\"Page:Droit\"\u003E\u003Cimg alt=\"Scale of justice 2.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/20px-Scale_of_justice_2.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/30px-Scale_of_justice_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scale_of_justice_2.svg/40px-Scale_of_justice_2.svg.png 2x\" data-file-width=\"204\" data-file-height=\"208\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:Droit\" title=\"Page:Droit\"\u003EJustice\u003C/a\u003E\u003C/th\u003E\n \u003Cth\u003E\u003Ca href=\"/wiki/Page:M%C3%A9t%C3%A9o\" title=\"Page:Météo\"\u003E\u003Cimg alt=\"Weather-more-clouds.svg\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/20px-Weather-more-clouds.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/30px-Weather-more-clouds.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Weather-more-clouds.svg/40px-Weather-more-clouds.svg.png 2x\" data-file-width=\"48\" data-file-height=\"48\" /\u003E\u003C/a\u003E \u003Ca href=\"/wiki/Page:M%C3%A9t%C3%A9o\" title=\"Page:Météo\"\u003EMétéo\u003C/a\u003E\u003C/th\u003E\n\u003C/tr\u003E\n\u003C/tbody\u003E\u003C/table\u003E\n\u003Ccenter\u003E\u003Cb\u003E\u003Ca href=\"/wiki/Page:Sommaire\" title=\"Page:Sommaire\"\u003EListe des portails thématiques\u003C/a\u003E\u003C/b\u003E\u003C/center\u003E\n\u003C/div\u003E\n\u003C/center\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Accueil</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Une nouvelle de Wikinews, la source d&#039;informations que vous pouvez écrire.</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="margin-top: 10px; position:absolute; right:70px;">
+<div id="articlecount" class="plainlinks" style="font-family:Sans-serif; font-size: 85%; text-align:center;margin-bottom:8px;"><a class="external text" href="https://fr.m.wikinews.org">Version pour appareil mobile</a> &#160;&#8226;&#160; <a href="/wiki/Wikinews:R%C3%A9seaux_sociaux" title="Wikinews:Réseaux sociaux">Wikinews sur les réseaux sociaux</a></div>
+<table cellspacing="10" style="font-size:90%; color:#868686; text-align:center;">
+
+<tbody><tr>
+<td>
+</td>
+<td><a href="/wiki/Aide:Cr%C3%A9er_du_contenu" title="Aide:Créer du contenu"><span class="mw-ui-button mw-ui-progressive" role="button"><span class="mw-ui-text">Créer un article</span></span></a>
+</td>
+<td>
+</td>
+<td><a href="/wiki/Wikinews:Ce_qu%27est_Wikinews" title="Wikinews:Ce qu&#39;est Wikinews"><span class="mw-ui-button mw-ui-progressive" role="button"><span class="mw-ui-text">Qu'est-ce que Wikinews ?</span></span></a>
+</td></tr></tbody></table>
+</div>
+<div style="overflow: hidden; margin: 3em -1.7em 3 -1.7em; background: #EDF4F7; background: linear-gradient(top, #fff 0%,#e8f2f8 100%); background: -moz-linear-gradient(top, #fff 0%, #e8f2f8 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fff), color-stop(100%,#e8f2f8)); background: -webkit-linear-gradient(top, #fff 0%,#e8f2f8 100%); background: -o-linear-gradient(top, #fff 0%,#e8f2f8 100%); background: -ms-linear-gradient(top, #fff 0%,#e8f2f8 100%); background: linear-gradient(top, #fff 0%,#e8f2f8 100%);">
+  <div style="margin: -1em -1em 0; padding: 1em 1em 0; box-shadow: inset 0 0 5px #a8d7fc; border-bottom: solid 1px #a8d7fc;">
+    <table class="layout" style="box-sizing: border-box; width: 100%; height: 120px; margin: 0 0 -1px; padding: 0; border: 0; border-spacing: 0; border-collapse:collapse;">
+      <tbody><tr>
+        <td style="overflow: hidden; width: 50%; height: 0; width: 100px;padding: 0;"><div style="overflow: hidden; height: 119px;"><div style="margin: 5px 0 0 -110px;"><img alt="Wikinews-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/300px-Wikinews-logo.svg.png" decoding="async" width="300" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/450px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/600px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /></div></div></td><td style="overflow: hidden; width: .5em; height: 0; padding: 0;"><div style="overflow: hidden; width: .5em; height: 0;">&#160;</div></td>
+        <td><div style="display: inline; display: inline-block; margin: 0; text-align: left; line-height: 1.6; color: #457; margin-left:50px;"><h2 style="margin: 0; padding: 0; border: none; font-size: 200%; font-weight: bold; color: #457; font-family: Sans-serif;"><span class="mw-headline" id="Bienvenue_sur_Wikinews">Bienvenue sur Wikinews</span></h2><p style="margin: 0; padding: 0; font-size: 85%; font-family: Sans-serif;">La source d'information que <i><b>vous</b></i> pouvez écrire</p><br /><div id="singleTickerForPage" class="Ticker_engine-std Ticker_speed-2" style="display:none;"><ul>
+<li><a href="/wiki/WikiLeaks_:_Gen%C3%A8ve_demande_un_visa_humanitaire_pour_Julian_Assange" title="WikiLeaks&#160;: Genève demande un visa humanitaire pour Julian Assange">WikiLeaks&#160;: Genève demande un visa humanitaire pour Julian Assange</a></li> 
+<li><a href="/wiki/Lancement_de_Starlink-4" title="Lancement de Starlink-4">Lancement de Starlink-4</a></li> 
+<li><a href="/wiki/Championnat_de_France_2019-2020_de_Ligue_2_:_les_r%C3%A9sultats_de_la_vingt-sixi%C3%A8me_journ%C3%A9e" title="Championnat de France 2019-2020 de Ligue 2&#160;: les résultats de la vingt-sixième journée">Championnat de France 2019-2020 de Ligue 2&#160;: les résultats de la vingt-sixième journée</a></li> 
+<li><a href="/wiki/Hosni_Moubarak,_ancien_pr%C3%A9sident_de_l%27%C3%89gypte,_est_mort" title="Hosni Moubarak, ancien président de l&#39;Égypte, est mort">Hosni Moubarak, ancien président de l'Égypte, est mort</a></li> 
+<li><a href="/wiki/Coronavirus_:_l%27Italie_r%C3%A9unit_les_ministres_de_la_Sant%C3%A9_frontaliers" title="Coronavirus&#160;: l&#39;Italie réunit les ministres de la Santé frontaliers">Coronavirus&#160;: l'Italie réunit les ministres de la Santé frontaliers</a></li> 
+<li><a href="/wiki/Coronavirus_:_un_h%C3%B4tel_de_Tenerife_confin%C3%A9_apr%C3%A8s_la_d%C3%A9tection_d%27un_touriste_italien_contamin%C3%A9" title="Coronavirus&#160;: un hôtel de Tenerife confiné après la détection d&#39;un touriste italien contaminé">Coronavirus&#160;: un hôtel de Tenerife confiné après la détection d'un touriste italien contaminé</a></li> 
+<li><a href="/wiki/Championnat_d%27Espagne_de_football_2019-2020_:_les_r%C3%A9sultats_de_la_vingt-cinqui%C3%A8me_journ%C3%A9e" title="Championnat d&#39;Espagne de football 2019-2020&#160;: les résultats de la vingt-cinquième journée">Championnat d'Espagne de football 2019-2020&#160;: les résultats de la vingt-cinquième journée</a></li> 
+<li><a href="/wiki/Championnat_de_France_2019-2020_de_Ligue_1_:_les_r%C3%A9sultats_de_la_vingt-sixi%C3%A8me_journ%C3%A9e" title="Championnat de France 2019-2020 de Ligue 1&#160;: les résultats de la vingt-sixième journée">Championnat de France 2019-2020 de Ligue 1&#160;: les résultats de la vingt-sixième journée</a></li> 
+<li><a href="/wiki/Championnat_de_Ligue_celtique_2019-2020_:_les_r%C3%A9sultats_de_la_douzi%C3%A8me_journ%C3%A9e" title="Championnat de Ligue celtique 2019-2020&#160;: les résultats de la douzième journée">Championnat de Ligue celtique 2019-2020&#160;: les résultats de la douzième journée</a></li> 
+<li><a href="/wiki/Championnat_de_France_de_rugby_2019-2020_:_les_r%C3%A9sultats_de_la_seizi%C3%A8me_journ%C3%A9e" title="Championnat de France de rugby 2019-2020&#160;: les résultats de la seizième journée">Championnat de France de rugby 2019-2020&#160;: les résultats de la seizième journée</a></li> 
+<li><a href="/wiki/Tournoi_des_6_Nations_2020_:_les_r%C3%A9sultats_de_la_troisi%C3%A8me_journ%C3%A9e" title="Tournoi des 6 Nations 2020&#160;: les résultats de la troisième journée">Tournoi des 6 Nations 2020&#160;: les résultats de la troisième journée</a></li> 
+<li><a href="/wiki/Championnat_de_France_de_rugby_Pro_D2_2019-2020_:_les_r%C3%A9sultats_de_la_vingt-et-uni%C3%A8me_journ%C3%A9e" title="Championnat de France de rugby Pro D2 2019-2020&#160;: les résultats de la vingt-et-unième journée">Championnat de France de rugby Pro D2 2019-2020&#160;: les résultats de la vingt-et-unième journée</a></li> 
+<li><a href="/wiki/Championnat_d%27Angleterre_du_Premiership_de_rugby_2019-2020_:_les_r%C3%A9sultats_de_la_onzi%C3%A8me_journ%C3%A9e" title="Championnat d&#39;Angleterre du Premiership de rugby 2019-2020&#160;: les résultats de la onzième journée">Championnat d'Angleterre du Premiership de rugby 2019-2020&#160;: les résultats de la onzième journée</a></li> 
+<li><a href="/wiki/Championnat_du_Super_Rugby_2020_:_les_r%C3%A9sultats_de_la_quatri%C3%A8me_journ%C3%A9e" title="Championnat du Super Rugby 2020&#160;: les résultats de la quatrième journée">Championnat du Super Rugby 2020&#160;: les résultats de la quatrième journée</a></li> 
+<li><a href="/wiki/Paris_:_un_premier_d%C3%A9c%C3%A8s_%C3%A0_la_suite_du_Covid-19_en_Europe" title="Paris&#160;: un premier décès à la suite du Covid-19 en Europe">Paris&#160;: un premier décès à la suite du Covid-19 en Europe</a></li></ul>
+</div>
+</div></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+<table style="margin-top:10px; background:none;">
+<tbody><tr>
+<td style="width:65%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 10px 10px 0px;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:transparent;">
+<tbody><tr>
+<td>
+<div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/92px-Wikinews_banner_5.png" decoding="async" width="92" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/138px-Wikinews_banner_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/183px-Wikinews_banner_5.png 2x" data-file-width="402" data-file-height="88" /></div><div style="margin:0; background:#3399FF; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#FFFFFF; padding:0.2em 0.4em;">À la Une</div>
+</td></tr>
+<tr>
+<td style="color:#000; font-size:100%" id="mp-tfa"><div id="mf-lumieresur" title="À la Une"><small><span style="color:#808080">28 février 2020</span></small><br />
+<p><span style="font-size: 130%; font-weight: bold; line-height: 1.2em"><a href="/wiki/WikiLeaks_:_Gen%C3%A8ve_demande_un_visa_humanitaire_pour_Julian_Assange" title="WikiLeaks : Genève demande un visa humanitaire pour Julian Assange">WikiLeaks&#160;: Genève demande un visa humanitaire pour Julian Assange</a></span> 
+</p>
+<div style="padding: .2em .0em .0em;">
+<div style="float: right; margin-left: 1em"><a href="/wiki/WikiLeaks_:_Gen%C3%A8ve_demande_un_visa_humanitaire_pour_Julian_Assange" title="WikiLeaks&#160;: Genève demande un visa humanitaire pour Julian Assange"><img alt="RUEDA DE PRENSA CONJUNTA ENTRE CANCILLER RICARDO PATIÑO Y JULIAN ASSANGE - 14953880621.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg/200px-RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg" decoding="async" width="200" height="281" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg/300px-RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg/400px-RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg 2x" data-file-width="3744" data-file-height="5264" /></a></div>
+<b>Julian Assange</b>, fondateur du site <b>WikiLeaks</b>, à qui les États-Unis demande l'extradition, un dossier examiné au Royaume-Uni, pourrait bien obtenir un visa humanitaire, soit obtenir l'asile politique à Genève. En effet, le canton de Genève ...<br /><small class="plainlinks" style="float: right;">[<a class="external text" href="https://fr.wikinews.org/w/index.php?title=Mod%C3%A8le:Une_1&amp;action=edit">Modifier</a>] - <a href="/wiki/Fichier:RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATI%C3%91O_Y_JULIAN_ASSANGE_-_14953880621.jpg" title="Fichier:RUEDA DE PRENSA CONJUNTA ENTRE CANCILLER RICARDO PATIÑO Y JULIAN ASSANGE - 14953880621.jpg">Crédit image</a></small><a href="/wiki/WikiLeaks_:_Gen%C3%A8ve_demande_un_visa_humanitaire_pour_Julian_Assange" title="WikiLeaks : Genève demande un visa humanitaire pour Julian Assange">&#160;→&#160;Lire&#160;la&#160;suite</a></div><br clear="all" />
+<hr />
+<p><small><span style="color:#808080">26 février 2020</span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2em"><a href="/wiki/Lancement_de_Starlink-4" title="Lancement de Starlink-4">Lancement de Starlink-4</a></span> 
+</p>
+<div style="padding: .2em .0em .0em;">
+<div style="float: right; margin-left: 1em"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?wpDestFile=SpaceX_Starlink-4_Falcon_9_launch.jpg" class="new" title="Fichier:SpaceX Starlink-4 Falcon 9 launch.jpg">Fichier:SpaceX Starlink-4 Falcon 9 launch.jpg</a></div>
+Le lundi 17 février 2020 à 15:05 UTC, la compagnie aérospatiale SpaceX a lancé une fusée de type Falcon 9  à partir du complexe de lancement 40 (SLC-40) de Cap Canaveral, en Floride, dans le cadre du projet Starlink-4...<br /><small class="plainlinks" style="float: right;">[<a class="external text" href="https://fr.wikinews.org/w/index.php?title=Mod%C3%A8le:Une_2&amp;action=edit">Modifier</a>] - <a href="/w/index.php?title=Fichier:SpaceX_Starlink-4_Falcon_9_launch.jpg&amp;action=edit&amp;redlink=1" class="new" title="Fichier:SpaceX Starlink-4 Falcon 9 launch.jpg (page inexistante)">Crédit image</a></small><a href="/wiki/Lancement_de_Starlink-4" title="Lancement de Starlink-4">&#160;→&#160;Lire&#160;la&#160;suite</a></div><br clear="all" />
+<hr />
+<p><small><span style="color:#808080">25 février 2020</span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2em"><a href="/wiki/Hosni_Moubarak,_ancien_pr%C3%A9sident_de_l%27%C3%89gypte,_est_mort" title="Hosni Moubarak, ancien président de l&#39;Égypte, est mort">Hosni Moubarak, ancien président de l'Égypte, est mort</a></span> 
+</p>
+<div style="padding: .2em .0em .0em;">
+<div style="float: right; margin-left: 1em"><a href="/wiki/Hosni_Moubarak,_ancien_pr%C3%A9sident_de_l%27%C3%89gypte,_est_mort" title="Hosni Moubarak, ancien président de l&#39;Égypte, est mort"><img alt="Hosni Mubarak ritratto.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hosni_Mubarak_ritratto.jpg/200px-Hosni_Mubarak_ritratto.jpg" decoding="async" width="200" height="250" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hosni_Mubarak_ritratto.jpg/300px-Hosni_Mubarak_ritratto.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hosni_Mubarak_ritratto.jpg/400px-Hosni_Mubarak_ritratto.jpg 2x" data-file-width="800" data-file-height="1000" /></a></div>
+Hosni Moubarak, ancien président de l'Égypte, est mort à l'âge de 91 ans a fait savoir sa famille. Président de 1981 à 2011, il quitte le pouvoir poussé à la démission par la révolution égyptienne et le printemps arabe...<br /><small class="plainlinks" style="float: right;">[<a class="external text" href="https://fr.wikinews.org/w/index.php?title=Mod%C3%A8le:Une_3&amp;action=edit">Modifier</a>] - <a href="/wiki/Fichier:Hosni_Mubarak_ritratto.jpg" title="Fichier:Hosni Mubarak ritratto.jpg">Crédit image</a></small><a href="/wiki/Hosni_Moubarak,_ancien_pr%C3%A9sident_de_l%27%C3%89gypte,_est_mort" title="Hosni Moubarak, ancien président de l&#39;Égypte, est mort">&#160;→&#160;Lire&#160;la&#160;suite</a></div><br clear="all" />
+<center><small><a href="/wiki/Wikinews:Article_principal" title="Wikinews:Article principal">Actualisation rapide de la Une</a></small></center>
+</div> <div align="right"></div>
+</td></tr>
+
+
+
+
+<tr>
+<td>
+<div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/92px-Wikinews_banner_5.png" decoding="async" width="92" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/138px-Wikinews_banner_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/183px-Wikinews_banner_5.png 2x" data-file-width="402" data-file-height="88" /></div><div style="margin:0; background:#3399FF; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#FFFFFF; padding:0.2em 0.4em;">Actualités et évènements</div>
+</td></tr>
+<tr>
+<td style="color:#000; font-size:100%" id="mp-tfa"><div id="mf-dnouvelles" title="">
+<p><span style="font-size: 0.9em">La liste des articles publiés est automatiquement mise à jour.</span> <a href="https://fr.wikinews.org/w/index.php?title=Sp%C3%A9cial:Nouvelles_pages&amp;feed=atom&amp;hideredirs=1&amp;limit=50&amp;namespace=0&amp;Reviewed=1&amp;Patrolled=1" title="Flux Atom."><img alt="Flux Atom." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/15px-Feed-icon.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/23px-Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Feed-icon.svg/30px-Feed-icon.svg.png 2x" data-file-width="128" data-file-height="128" /></a> <a href="http://www.twitter.com/fr_wikinews" title="Wikinews en français sur Twitter." rel="nofollow"><img alt="Wikinews en français sur Twitter." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twitter_logo_initial.svg/15px-Twitter_logo_initial.svg.png" decoding="async" width="15" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twitter_logo_initial.svg/23px-Twitter_logo_initial.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twitter_logo_initial.svg/30px-Twitter_logo_initial.svg.png 2x" data-file-width="50" data-file-height="69" /></a> <a href="https://www.facebook.com/pages/Wikinews-francophone/302201046489840" title="Wikinews francophone sur Facebook." rel="nofollow"><img alt="Wikinews francophone sur Facebook." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/15px-Facebook_f_logo_%282019%29.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/23px-Facebook_f_logo_%282019%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/30px-Facebook_f_logo_%282019%29.svg.png 2x" data-file-width="1280" data-file-height="1280" /></a> <a href="https://mamot.fr/@fr_wikinews" title="Wikinews sur Mastodon" rel="nofollow"><img alt="Wikinews sur Mastodon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/15px-Mastodon_Logotype_%28Simple%29.svg.png" decoding="async" width="15" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/23px-Mastodon_Logotype_%28Simple%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/30px-Mastodon_Logotype_%28Simple%29.svg.png 2x" data-file-width="216" data-file-height="232" /></a> <small class="plainlinks"><a href="//fr.wikinews.org/w/index.php?title=Accueil&amp;action=purge" title="Actualiser la page"><img alt="Actualiser la page" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Reload_page.png/15px-Reload_page.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Reload_page.png/23px-Reload_page.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Reload_page.png/30px-Reload_page.png 2x" data-file-width="48" data-file-height="48" /></a></small>
+</p>
+<ul>
+<li>28 février 2020&#160;: <a href="/wiki/WikiLeaks_:_Gen%C3%A8ve_demande_un_visa_humanitaire_pour_Julian_Assange?dpl_id=84164" title="WikiLeaks&#160;: Genève demande un visa humanitaire pour Julian Assange">WikiLeaks&#160;: Genève demande un visa humanitaire pour Julian Assange</a></li> 
+<li>26 février 2020&#160;: <a href="/wiki/Lancement_de_Starlink-4?dpl_id=84154" title="Lancement de Starlink-4">Lancement de Starlink-4</a></li> 
+<li>25 février 2020&#160;: <a href="/wiki/Championnat_de_France_2019-2020_de_Ligue_2_:_les_r%C3%A9sultats_de_la_vingt-sixi%C3%A8me_journ%C3%A9e?dpl_id=84150" title="Championnat de France 2019-2020 de Ligue 2&#160;: les résultats de la vingt-sixième journée">Championnat de France 2019-2020 de Ligue 2&#160;: les résultats de la vingt-sixième journée</a></li> 
+<li>25 février 2020&#160;: <a href="/wiki/Hosni_Moubarak,_ancien_pr%C3%A9sident_de_l%27%C3%89gypte,_est_mort?dpl_id=84149" title="Hosni Moubarak, ancien président de l&#39;Égypte, est mort">Hosni Moubarak, ancien président de l'Égypte, est mort</a></li> 
+<li>25 février 2020&#160;: <a href="/wiki/Coronavirus_:_l%27Italie_r%C3%A9unit_les_ministres_de_la_Sant%C3%A9_frontaliers?dpl_id=84148" title="Coronavirus&#160;: l&#39;Italie réunit les ministres de la Santé frontaliers">Coronavirus&#160;: l'Italie réunit les ministres de la Santé frontaliers</a></li> 
+<li>25 février 2020&#160;: <a href="/wiki/Coronavirus_:_un_h%C3%B4tel_de_Tenerife_confin%C3%A9_apr%C3%A8s_la_d%C3%A9tection_d%27un_touriste_italien_contamin%C3%A9?dpl_id=84146" title="Coronavirus&#160;: un hôtel de Tenerife confiné après la détection d&#39;un touriste italien contaminé">Coronavirus&#160;: un hôtel de Tenerife confiné après la détection d'un touriste italien contaminé</a></li> 
+<li>24 février 2020&#160;: <a href="/wiki/Championnat_d%27Espagne_de_football_2019-2020_:_les_r%C3%A9sultats_de_la_vingt-cinqui%C3%A8me_journ%C3%A9e?dpl_id=84132" title="Championnat d&#39;Espagne de football 2019-2020&#160;: les résultats de la vingt-cinquième journée">Championnat d'Espagne de football 2019-2020&#160;: les résultats de la vingt-cinquième journée</a></li> 
+<li>24 février 2020&#160;: <a href="/wiki/Championnat_de_France_2019-2020_de_Ligue_1_:_les_r%C3%A9sultats_de_la_vingt-sixi%C3%A8me_journ%C3%A9e?dpl_id=84131" title="Championnat de France 2019-2020 de Ligue 1&#160;: les résultats de la vingt-sixième journée">Championnat de France 2019-2020 de Ligue 1&#160;: les résultats de la vingt-sixième journée</a></li> 
+<li>23 février 2020&#160;: <a href="/wiki/Championnat_de_Ligue_celtique_2019-2020_:_les_r%C3%A9sultats_de_la_douzi%C3%A8me_journ%C3%A9e?dpl_id=84126" title="Championnat de Ligue celtique 2019-2020&#160;: les résultats de la douzième journée">Championnat de Ligue celtique 2019-2020&#160;: les résultats de la douzième journée</a></li> 
+<li>23 février 2020&#160;: <a href="/wiki/Championnat_de_France_de_rugby_2019-2020_:_les_r%C3%A9sultats_de_la_seizi%C3%A8me_journ%C3%A9e?dpl_id=84119" title="Championnat de France de rugby 2019-2020&#160;: les résultats de la seizième journée">Championnat de France de rugby 2019-2020&#160;: les résultats de la seizième journée</a></li> 
+<li>23 février 2020&#160;: <a href="/wiki/Tournoi_des_6_Nations_2020_:_les_r%C3%A9sultats_de_la_troisi%C3%A8me_journ%C3%A9e?dpl_id=84123" title="Tournoi des 6 Nations 2020&#160;: les résultats de la troisième journée">Tournoi des 6 Nations 2020&#160;: les résultats de la troisième journée</a></li> 
+<li>23 février 2020&#160;: <a href="/wiki/Championnat_de_France_de_rugby_Pro_D2_2019-2020_:_les_r%C3%A9sultats_de_la_vingt-et-uni%C3%A8me_journ%C3%A9e?dpl_id=84118" title="Championnat de France de rugby Pro D2 2019-2020&#160;: les résultats de la vingt-et-unième journée">Championnat de France de rugby Pro D2 2019-2020&#160;: les résultats de la vingt-et-unième journée</a></li> 
+<li>23 février 2020&#160;: <a href="/wiki/Championnat_d%27Angleterre_du_Premiership_de_rugby_2019-2020_:_les_r%C3%A9sultats_de_la_onzi%C3%A8me_journ%C3%A9e?dpl_id=84120" title="Championnat d&#39;Angleterre du Premiership de rugby 2019-2020&#160;: les résultats de la onzième journée">Championnat d'Angleterre du Premiership de rugby 2019-2020&#160;: les résultats de la onzième journée</a></li> 
+<li>22 février 2020&#160;: <a href="/wiki/Championnat_du_Super_Rugby_2020_:_les_r%C3%A9sultats_de_la_quatri%C3%A8me_journ%C3%A9e?dpl_id=84122" title="Championnat du Super Rugby 2020&#160;: les résultats de la quatrième journée">Championnat du Super Rugby 2020&#160;: les résultats de la quatrième journée</a></li> 
+<li>19 février 2020&#160;: <a href="/wiki/Paris_:_un_premier_d%C3%A9c%C3%A8s_%C3%A0_la_suite_du_Covid-19_en_Europe?dpl_id=84115" title="Paris&#160;: un premier décès à la suite du Covid-19 en Europe">Paris&#160;: un premier décès à la suite du Covid-19 en Europe</a></li></ul>
+<div align="right"><a href="/wiki/Mod%C3%A8le:Accueil/DNouvelles" title="Modèle:Accueil/DNouvelles">→ Voir plus</a></div>
+</div> <div align="right"></div>
+</td></tr>
+
+
+
+
+</tbody></table>
+</td>
+<td style="border:1px solid transparent;">
+</td>
+<td style="width:35%; border:1px solid #a7d7f9; vertical-align:top; padding: 0px 10px 10px 0px;">
+<table id="mp-right" cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:#f5faff; background:transparent; text-align: left;">
+<tbody><tr>
+<td>
+<div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/92px-Wikinews_banner_5.png" decoding="async" width="92" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/138px-Wikinews_banner_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/183px-Wikinews_banner_5.png 2x" data-file-width="402" data-file-height="88" /></div><div style="margin:0; background:#3399FF; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#FFFFFF; padding:0.2em 0.4em;">Présentation</div>
+</td></tr>
+<tr>
+<td style="color:#000; font-size:100%" id="mp-tfa"><b><a href="/wiki/Wikinews:Ce_qu%27est_Wikinews" title="Wikinews:Ce qu&#39;est Wikinews">Wikinews</a></b> est un projet de recueil d’actualité, multilingue et fonctionnant sur le principe du <a href="https://fr.wikipedia.org/wiki/wiki" class="extiw" title="w:wiki">wiki</a>. Wikinews a pour objectif d’offrir un contenu librement réutilisable, objectif et vérifiable, que <a href="/wiki/Wikinews:Accueil_des_nouveaux_arrivants" title="Wikinews:Accueil des nouveaux arrivants">chacun</a> peut <a href="/wiki/Wikinews:Salle_de_r%C3%A9daction" title="Wikinews:Salle de rédaction">modifier et améliorer</a>. <div align="right"></div>
+</td></tr>
+
+
+
+
+<tr>
+<td>
+<div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/92px-Wikinews_banner_5.png" decoding="async" width="92" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/138px-Wikinews_banner_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/183px-Wikinews_banner_5.png 2x" data-file-width="402" data-file-height="88" /></div><div style="margin:0; background:#3399FF; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#FFFFFF; padding:0.2em 0.4em;">Les sujets d'actualité</div>
+</td></tr>
+<tr>
+<td style="color:#000; font-size:100%" id="mp-tfa"><div id="mf-dossiers" title="Dossiers en cours">
+<ul><li><b><a href="/wiki/Cat%C3%A9gorie:%C3%89pid%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2019-2020" title="Catégorie:Épidémie de maladie à coronavirus de 2019-2020">Épidémie de Covid-19</a></b></li>
+<li><a href="https://fr.wikipedia.org/wiki/Gr%C3%A8ve_contre_la_r%C3%A9forme_des_retraites" class="extiw" title="w:Grève contre la réforme des retraites">Grève contre la réforme des retraites</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Crise_am%C3%A9ricano-iranienne_de_2019-2020" class="extiw" title="w:Crise américano-iranienne de 2019-2020">Crise américano-iranienne de 2019-2020</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Mouvement_des_gilets_jaunes" title="Catégorie:Mouvement des gilets jaunes">Mouvement des gilets jaunes</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Manifestations_de_2019_en_Alg%C3%A9rie" class="extiw" title="w:Manifestations de 2019 en Algérie">Manifestations en Algérie</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Manifestations_de_2019_%C3%A0_Hong_Kong" title="Catégorie:Manifestations de 2019 à Hong Kong">Manifestations à Hong Kong</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Crise_pr%C3%A9sidentielle_de_2019_au_Venezuela" class="extiw" title="w:Crise présidentielle de 2019 au Venezuela">Crise présidentielle au Venezuela</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Gr%C3%A8ve_%C3%A9tudiante_pour_le_climat" class="extiw" title="w:Grève étudiante pour le climat">Grève étudiante pour le climat</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Guerre_civile_y%C3%A9m%C3%A9nite" class="extiw" title="w:Guerre civile yéménite">Guerre civile yéménite</a></li>
+<li><a href="/wiki/Dossier:Guerre_civile_syrienne" title="Dossier:Guerre civile syrienne">Guerre civile syrienne</a></li></ul>
+</div> <div align="right"><small><a href="/wiki/Mod%C3%A8le:Accueil/Hotspot" title="Modèle:Accueil/Hotspot">[Modifier]</a></small></div>
+</td></tr>
+
+
+
+
+
+<tr>
+<td>
+<div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/92px-Wikinews_banner_5.png" decoding="async" width="92" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/138px-Wikinews_banner_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/183px-Wikinews_banner_5.png 2x" data-file-width="402" data-file-height="88" /></div><div style="margin:0; background:#3399FF; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#FFFFFF; padding:0.2em 0.4em;">Éphéméride</div>
+</td></tr>
+<tr>
+<td style="color:#000; font-size:100%" id="mp-tfa"><div id="mf-ephemeride" title="">
+<div>
+<table border="0" cellpadding="2" cellspacing="0" style="width:100%;margin-bottom: 1em;">
+<tbody><tr>
+<td style="padding-top: 4px; font-size:110%;text-align: center;"><b><a href="https://fr.wikipedia.org/wiki/28_f%C3%A9vrier" class="extiw" title="w:28 février">Éphéméride du jour</a></b>
+</td></tr>
+<tr>
+<td style="padding-top: 4px; font-size:100%;text-align:left;">
+<div style="font-size: 95%; text-align: left; margin: .5em 0 1em">
+<div class="floatleft"><a href="/wiki/Fichier:Olof_Palme_1968.JPG" class="image" title="Olof Palme prononçant un discours sur un camion, probablement à Almedalen, Visby, en 1968."><img alt="Olof Palme prononçant un discours sur un camion, probablement à Almedalen, Visby, en 1968." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Olof_Palme_1968.JPG/115px-Olof_Palme_1968.JPG" decoding="async" width="115" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Olof_Palme_1968.JPG/173px-Olof_Palme_1968.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Olof_Palme_1968.JPG/230px-Olof_Palme_1968.JPG 2x" data-file-width="598" data-file-height="451" /></a></div>
+<p><b><a href="https://fr.wikipedia.org/wiki/1986" class="extiw" title="w:1986">1986</a></b> - <a href="/wiki/Fichier:Flag_of_Sweden.svg" class="image"><img alt="Flag of Sweden.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/20px-Flag_of_Sweden.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/30px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/40px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" /></a>&#160;<a href="/wiki/Page:Su%C3%A8de" title="Page:Suède">Suède</a>&#160;: <a href="https://fr.wikipedia.org/wiki/Assassinat_d%27Olof_Palme" class="extiw" title="w:Assassinat d&#39;Olof Palme">assassinat</a> du premier ministre <a href="https://fr.wikipedia.org/wiki/Olof_Palme" class="extiw" title="w:Olof Palme">Olof Palme</a>.<br /><br /><a href="/wiki/Fichier:Olof_Palme_place_of_death.jpg" class="image" title="Plaque commémorative sur le lieu de l&#39;assasinat d&#39;Olof Palme au Tunnelgatan–Sveavägen, à Stockholm. Inscription: «Sur ce site, le Premier ministre suédois, Olof Palme, a été assassiné le 28 Février 1986&quot;."><img alt="Plaque commémorative sur le lieu de l&#39;assasinat d&#39;Olof Palme au Tunnelgatan–Sveavägen, à Stockholm. Inscription: «Sur ce site, le Premier ministre suédois, Olof Palme, a été assassiné le 28 Février 1986&quot;." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olof_Palme_place_of_death.jpg/77px-Olof_Palme_place_of_death.jpg" decoding="async" width="77" height="51" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olof_Palme_place_of_death.jpg/116px-Olof_Palme_place_of_death.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Olof_Palme_place_of_death.jpg/154px-Olof_Palme_place_of_death.jpg 2x" data-file-width="3504" data-file-height="2336" /></a>
+</p>
+<p align="right"><small><b><a href="/wiki/Cat%C3%A9gorie:28_f%C3%A9vrier" title="Catégorie:28 février">Plus d'éphémérides...</a></b></small></p>
+</div>
+</td></tr></tbody></table>
+</div>
+</div> <div align="right"><small><i><a href="/wiki/Wikinews:%C3%89ph%C3%A9m%C3%A9ride" title="Wikinews:Éphéméride">D'hier et de demain...</a></i></small></div>
+</td></tr>
+
+
+
+
+<tr>
+<td>
+<div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/92px-Wikinews_banner_5.png" decoding="async" width="92" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/138px-Wikinews_banner_5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Wikinews_banner_5.png/183px-Wikinews_banner_5.png 2x" data-file-width="402" data-file-height="88" /></div><div style="margin:0; background:#3399FF; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#FFFFFF; padding:0.2em 0.4em;">Dans les archives</div>
+</td></tr>
+<tr>
+<td style="color:#000; font-size:100%" id="mp-tfa"><div id="mf-archives" title="">
+<table width="100%">
+
+<tbody><tr>
+<td><div align="left">
+<div class="mw-collapsed mw-collapsible" style="clear:both; margin-bottom:; width:; border:1px solid&#32;; -moz-border-radius:; -webkit-border-radius:; background-color:;" title="">
+<div class="NavHead" align="centre" style="height:; background-color:#a7d7f9; color:;">Par type d'article</div>
+<div class="mw-collapsible-content" style="margin:0px; background:; display:block;" align="left">
+<div style="font-size:1em;">Consulter&#160;:
+<ul><li>les <a href="/wiki/Cat%C3%A9gorie:Reportage_original" title="Catégorie:Reportage original">articles originaux</a> écrits par des «&#160;<a href="/wiki/Wikinews:Wikinewsiens" class="mw-redirect" title="Wikinews:Wikinewsiens">Wikinewsiens</a>&#160;»</li>
+<li>les <a href="/wiki/Cat%C3%A9gorie:Principale" title="Catégorie:Principale">archives</a> de Wikinews par catégories
+<ul><li><a href="/wiki/Cat%C3%A9gorie:Article_publi%C3%A9" title="Catégorie:Article publié">Articles de Wikinews</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Br%C3%A8ves" title="Catégorie:Brèves">Brèves de Wikinews</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Dossiers_de_Wikinews" title="Catégorie:Dossiers de Wikinews">Dossiers de Wikinews</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Interview" title="Catégorie:Interview">Interviews de Wikinews</a></li>
+<li><span class="plainlinks"><b><a class="external text" href="https://fr.wikinews.org/w/index.php?title=Special:CategoryTree&amp;target=Principale&amp;mode=0">Arborescence des catégories</a></b></span></li></ul></li></ul></div></div>
+<div class="NavEnd">&#160;</div>
+</div></div>
+</td></tr>
+<tr>
+<td colspan="2" align="center"><b>Chronologiques</b>&#160;: <a href="/wiki/Wikinews:2020/f%C3%A9vrier" title="Wikinews:2020/février">Mois en cours</a> <div align="left">
+<div class="mw-collapsed mw-collapsible" style="clear:both; margin-bottom:; width:; border:1px solid&#32;; -moz-border-radius:; -webkit-border-radius:; background-color:;" title="">
+<div class="NavHead" align="centre" style="height:; background-color:#a7d7f9; color:;">Année par année</div>
+<div class="mw-collapsible-content" style="margin:0px; background:; display:block;" align="left">
+<div style="font-size:1em;"><center>
+<ul><li><a href="/wiki/Wikinews:2020" title="Wikinews:2020">2020</a></li>
+<li><a href="/wiki/Wikinews:2019" title="Wikinews:2019">2019</a></li>
+<li><a href="/wiki/Wikinews:2018" title="Wikinews:2018">2018</a></li>
+<li><a href="/wiki/Wikinews:2017" title="Wikinews:2017">2017</a></li>
+<li><a href="/wiki/Wikinews:2016" title="Wikinews:2016">2016</a></li>
+<li><a href="/wiki/Wikinews:2015" title="Wikinews:2015">2015</a></li>
+<li><a href="/wiki/Wikinews:2014" title="Wikinews:2014">2014</a></li>
+<li><a href="/wiki/Wikinews:2013" title="Wikinews:2013">2013</a></li>
+<li><a href="/wiki/Wikinews:2012" title="Wikinews:2012">2012</a></li>
+<li><a href="/wiki/Wikinews:2011" title="Wikinews:2011">2011</a></li>
+<li><a href="/wiki/Wikinews:2010" title="Wikinews:2010">2010</a></li>
+<li><a href="/wiki/Wikinews:2009" title="Wikinews:2009">2009</a></li>
+<li><a href="/wiki/Wikinews:2008" title="Wikinews:2008">2008</a></li>
+<li><a href="/wiki/Wikinews:2007" title="Wikinews:2007">2007</a></li>
+<li><a href="/wiki/Wikinews:2006" title="Wikinews:2006">2006</a></li>
+<li><a href="/wiki/Wikinews:2005" title="Wikinews:2005">2005</a></li></ul></center></div></div>
+<div class="NavEnd">&#160;</div>
+</div></div><div align="left">
+<div class="mw-collapsed mw-collapsible" style="clear:both; margin-bottom:; width:; border:1px solid&#32;; -moz-border-radius:; -webkit-border-radius:; background-color:;" title="">
+<div class="NavHead" align="centre" style="height:; background-color:#a7d7f9; color:;">Il y a un mois</div>
+<div class="mw-collapsible-content" style="margin:0px; background:; display:block;" align="left">
+<div style="font-size:1em;"><h3><span class="mw-headline" id="Il_y_a_un_mois">Il y a un mois</span></h3>
+<div class="journee" id="Mardi_28_janvier_2020">
+<div class="titre_journee">Mardi 28 janvier 2020</div>
+<p><br />
+</p>
+</div></div></div>
+<div class="NavEnd">&#160;</div>
+</div></div><div align="left">
+<div class="mw-collapsed mw-collapsible" style="clear:both; margin-bottom:; width:; border:1px solid&#32;; -moz-border-radius:; -webkit-border-radius:; background-color:;" title="">
+<div class="NavHead" align="centre" style="height:; background-color:#a7d7f9; color:;">Il y a un an</div>
+<div class="mw-collapsible-content" style="margin:0px; background:; display:block;" align="left">
+<div style="font-size:1em;"><h3><span class="mw-headline" id="Il_y_a_un_an">Il y a un an</span></h3>
+<div class="journee" id="Jeudi_28_février_2019">
+<div class="titre_journee">Jeudi 28 février 2019</div>
+<p><br />
+</p>
+</div></div></div>
+<div class="NavEnd">&#160;</div>
+</div></div>
+</td></tr></tbody></table></div> <div align="right"></div>
+</td></tr>
+
+
+
+
+</tbody></table>
+</td></tr></tbody></table>
+<table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;">
+<tbody><tr>
+<td style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px;">
+<table width="100%" style="padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;">
+<tbody><tr>
+<td align="center"><b>Projets frères</b>
+</td></tr>
+<tr>
+<td>
+<table style="border-collapse:collapse;width:100%;margin:1em; padding-right:6px;font-size:95%; background:none;">
+
+<tbody><tr>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wikipedia.org/wiki/" title="Wikipédia"><img alt="Wikipédia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/35px-Wikipedia-logo-v2.svg.png" decoding="async" width="35" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/53px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/70px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" class="extiw" title="w:Wikipédia:Accueil principal"><b>Wikipédia</b></a><br />Encyclopédie libre
+</td>
+<td style="text-align:center;"><div style="padding-bottom:0.5em;"><a href="http://commons.wikimedia.org/wiki/Accueil?uselang=fr" title="Commons"><img alt="Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div>
+</td>
+<td class="plainlinks" style="line-height:120%;vertical-align:middle"><a class="external text" href="https://commons.wikimedia.org/wiki/Accueil?uselang=fr"><b>Wikimedia Commons</b></a><br />Base de données multimédia
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%27accueil" title="Wiktionnaire"><img alt="Wiktionnaire" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/35px-Wiktionary-logo.svg.png" decoding="async" width="35" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/53px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/70px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil" class="extiw" title="wikt:Wiktionnaire:Page d’accueil"><b>Wiktionnaire</b></a><br />Dictionnaire universel
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wikibooks.org/wiki/Accueil" title="Wikibooks"><img alt="Wikibooks" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wikibooks.org/wiki/Accueil" class="extiw" title="b:Accueil"><b>Wikibooks</b></a><br />Livres et textes didactiques
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wikiquote.org/wiki/Wikiquote:Accueil" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" decoding="async" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wikiquote.org/wiki/Wikiquote:Accueil" class="extiw" title="q:Wikiquote:Accueil"><b>Wikiquote</b></a><br />Recueil de citations
+</td></tr>
+<tr>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wikisource.org/wiki/Accueil" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png" decoding="async" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/45px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wikisource.org/wiki/Wikisource:Accueil" class="extiw" title="s:Wikisource:Accueil"><b>Wikisource</b></a><br />Bibliothèque universelle
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil" title="Wikiversité"><img alt="Wikiversité" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/35px-Wikiversity-logo.svg.png" decoding="async" width="35" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/53px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/70px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil" class="extiw" title="v:Wikiversité:Accueil"><b>Wikiversité</b></a><br />Communauté pédagogique libre
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://species.wikimedia.org/wiki/Accueil" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://species.wikimedia.org/wiki/Accueil" class="extiw" title="wikispecies:Accueil"><b>Wikispecies</b></a><br />Inventaire du vivant
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://www.wikidata.org/wiki/Wikidata:Accueil_principal" title="d:Wikidata:Accueil principal"><img alt="Wikidata-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png" decoding="async" width="40" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/60px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/80px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://www.wikidata.org/wiki/Wikidata:Accueil_principal" class="extiw" title="d:Wikidata:Accueil principal"> <b>Wikidata</b></a><br />Base de connaissance libre
+</td>
+<td style="text-align:center"><div style="padding-bottom:0.5em;"><a href="https://fr.wikivoyage.org/wiki/Accueil" title="Wikivoyage"><img alt="Wikivoyage" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div>
+</td>
+<td style="line-height:120%;vertical-align:middle"><a href="https://fr.wikivoyage.org/wiki/Accueil" class="extiw" title="voy:Accueil"><b>Wikivoyage</b></a><br />Guide touristique libre
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<table style="margin:0 0 0 0; background:none; width:100%; margin-top:12px; background:transparent;">
+<tbody><tr>
+<td style="width:100%; border:1px solid #a7d7f9; vertical-align:top; color:#000; padding: 0px 0px 0px 0px;">
+<table width="100%" style="padding:0px; margin-top:0px; margin-bottom:0px; background:transparent;">
+
+<tbody><tr>
+<td align="center"><a href="/wiki/Wikinews:Avertissements_g%C3%A9n%C3%A9raux" title="Wikinews:Avertissements généraux">Wikinews ne garantit pas le contenu mis en ligne</a>.<br /><small>La <a href="https://fr.wikipedia.org/wiki/Wikimedia_Foundation" class="extiw" title="w:Wikimedia Foundation">Wikimedia Foundation</a> étant un hébergeur, elle ne saurait être tenue responsable des erreurs éventuelles contenues sur ce site.<br /> Chaque rédacteur est responsable de ses contributions.</small>
+</td></tr></tbody></table>
+<table align="center">
+<tbody><tr>
+<td><div style="position:relative;width:32px;height:32px;z-index:2;overflow:hidden;"><a href="/wiki/Fichier:Crystal_128_mail.png" class="image"><img alt="Crystal 128 mail.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/32px-Crystal_128_mail.png" decoding="async" width="32" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/48px-Crystal_128_mail.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Crystal_128_mail.png/64px-Crystal_128_mail.png 2x" data-file-width="128" data-file-height="128" /></a><div class="nodeco" style="position:absolute;top:0;left:0;z-index:3;"><a href="/wiki/Wikinews:Contact" title="Wikinews:Contact"><span style="float:left;width:32px;height:32px;font-size:32px;line-height:32px;word-spacing:32px;cursor:pointer;">&#160; &#160;</span></a></div></div>
+</td>
+<td style="padding-left: 0.5em"><a href="/wiki/Wikinews:Contact" title="Wikinews:Contact">Contact</a>
+</td></tr></tbody></table>
+<p><br /> 
+</p>
+</td>
+</tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1368
+Cached time: 20200228175339
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.208 seconds
+Real time usage: 0.349 seconds
+Preprocessor visited node count: 1289/1000000
+Post‐expand include size: 61607/2097152 bytes
+Template argument size: 27409/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 37/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9003/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  265.186      1 -total
+ 83.54%  221.527      6 Modèle:Accueil/Cadre
+ 81.03%  214.869      6 Modèle:Accueil/Cadre_old
+ 25.22%   66.892      1 Modèle:Accueil/Archives
+ 23.13%   61.338     13 Modèle:W
+ 22.59%   59.910      4 Modèle:Boîte_déroulante
+ 20.31%   53.857      1 Modèle:Accueil/Hotspot
+ 14.45%   38.319      1 Modèle:Accueil/ZoneG1
+ 12.45%   33.007      1 Modèle:Éphéméride-28_février
+ 12.29%   32.584      1 Modèle:Accueil/Entête
+-->
+
+<!-- Saved in parser cache with key frwikinews:stable-pcache:idhash:923-0!canonical and timestamp 20200228175339 and revision id 814996
+ -->
+</div><noscript><img src="//fr.wikinews.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Récupérée de «&#160;<a dir="ltr" href="https://fr.wikinews.org/w/index.php?title=Accueil&amp;oldid=814996">https://fr.wikinews.org/w/index.php?title=Accueil&amp;oldid=814996</a>&#160;»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Pages_avec_des_liens_de_fichiers_bris%C3%A9s" title="Catégorie:Pages avec des liens de fichiers brisés">Pages avec des liens de fichiers brisés</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Accueil" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Accueil" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Accueil" title="Voir le contenu de la page [c]" accesskey="c">Accueil</a></li><li id="ca-talk"><a href="/wiki/Discussion:Accueil" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Accueil">Lire</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Accueil&amp;action=edit" title="Cette page est protégée en écriture.&#10;Vous pouvez toutefois en visualiser la source. [e]" accesskey="e">Voir le texte source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Accueil&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikinews" title="Rechercher dans Wikinews [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Accueil"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/Accueil" title="Visiter la page d’accueil du site [z]" accesskey="z">Accueil</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Afficher une page au hasard [x]" accesskey="x">Page au hasard</a></li><li id="n-Wikinews-Radio"><a href="/wiki/Wikinews:Radio">Wikinews Radio</a></li><li id="n-Portails-thématiques"><a href="/wiki/Page:Sommaire">Portails thématiques</a></li><li id="n-Archives"><a href="/wiki/Wikinews:Archives">Archives</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-currentevents"><a href="/wiki/Wikinews:Salle_de_r%C3%A9daction" title="Trouver plus d’informations sur les actualités en cours">Salle de rédaction</a></li><li id="n-help"><a href="/wiki/Aide:Sommaire" title="Accès à l’aide">Sommaire de l'aide</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikinews.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Communauté"  aria-labelledby="p-Communauté-label">
+	<h3  id="p-Communauté-label">
+		Communauté
+	</h3>
+	<div class="body">
+		<ul><li id="n-Accueil-communauté"><a href="/wiki/Wikinews:Accueil">Accueil communauté</a></li><li id="n-portal"><a href="/wiki/Wikinews:Salle_caf%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Salle café</a></li><li id="n-Annonces"><a href="/wiki/Wikinews:Annonces">Annonces</a></li><li id="n-contact"><a href="/wiki/Wikinews:Contact">Contacter Wikinews</a></li><li id="n-livechat"><a href="/wiki/Wikinews:IRC">Wikinews sur IRC</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		Dans d’autres projets
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">Mediawiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Méta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikispecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://fr.wikibooks.org/wiki/Accueil" hreflang="fr">Wikilivres</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikimania"><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">Wikimania</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal" hreflang="fr">Wikipédia</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://fr.wikiquote.org/wiki/Wikiquote:Accueil" hreflang="fr">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://fr.wikisource.org/wiki/Wikisource:Accueil" hreflang="fr">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://fr.wikiversity.org/wiki/Wikiversit%C3%A9:Accueil" hreflang="fr">Wikiversité</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://fr.wikivoyage.org/wiki/Accueil" hreflang="fr">Wikivoyage</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://fr.wiktionary.org/wiki/Wiktionnaire:Page_d%E2%80%99accueil" hreflang="fr">Wiktionnaire</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Accueil">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Accueil&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Accueil&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Accueil" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Accueil" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Accueil&amp;oldid=814996" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Accueil&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Accueil&amp;id=814996" title="Informations sur la manière de citer cette page">Citer cette page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikinews.org/wiki/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9" title="الصفحة الرئيسية — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikinews.org/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Начална страница — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikinews.org/wiki/Po%C4%8Detna_strana" title="Početna strana — bosniaque" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikinews.org/wiki/Portada" title="Portada — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikinews.org/wiki/Wikizpr%C3%A1vy:Hlavn%C3%AD_strana" title="Wikizprávy:Hlavní strana — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikinews.org/wiki/Hauptseite" title="Hauptseite — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikinews.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CE%BD%CE%AD%CE%B1:%CE%9A%CF%8D%CF%81%CE%B9%CE%B1_%CE%A3%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1" title="Βικινέα:Κύρια Σελίδα — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikinews.org/wiki/Main_Page" title="Main Page — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikinews.org/wiki/%C4%88efpa%C4%9Do" title="Ĉefpaĝo — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikinews.org/wiki/Portada" title="Portada — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikinews.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C" title="صفحهٔ اصلی — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikinews.org/wiki/Wikiuutiset:Etusivu" title="Wikiuutiset:Etusivu — finnois" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikinews.org/wiki/%D7%A2%D7%9E%D7%95%D7%93_%D7%A8%D7%90%D7%A9%D7%99" title="עמוד ראשי — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikinews.org/wiki/Kezd%C5%91lap" title="Kezdőlap — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikinews.org/wiki/Pagina_principale" title="Pagina principale — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikinews.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8" title="メインページ — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikinews.org/wiki/%EC%9C%84%ED%82%A4%EB%89%B4%EC%8A%A4:%EB%8C%80%EB%AC%B8" title="위키뉴스:대문 — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikinews.org/wiki/Veurblaad" title="Veurblaad — limbourgeois" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikinews.org/wiki/Wikinieuws:Hoofdpagina" title="Wikinieuws:Hoofdpagina — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikinews.org/wiki/Wikinytt:Forside" title="Wikinytt:Forside — norvégien" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikinews.org/wiki/Strona_g%C5%82%C3%B3wna" title="Strona główna — polonais" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikinews.org/wiki/P%C3%A1gina_principal" title="Página principal — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikinews.org/wiki/Pagina_principal%C4%83" title="Pagina principală — roumain" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikinews.org/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Заглавная страница — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikinews.org/wiki/%D9%BE%D9%87%D8%B1%D9%8A%D9%88%D9%86_%D8%B5%D9%81%D8%AD%D9%88" title="پهريون صفحو — sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikinews.org/wiki/Faqja_kryesore" title="Faqja kryesore — albanais" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikinews.org/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B0" title="Главна страна — serbe" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikinews.org/wiki/Huvudsida" title="Huvudsida — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikinews.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B1%E0%AF%8D_%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" title="முதற் பக்கம் — tamoul" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikinews.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="หน้าหลัก — thaï" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikinews.org/wiki/Anasayfa" title="Anasayfa — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikinews.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" title="Головна — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikinews.org/wiki/Wikinews:%E9%A6%96%E9%A1%B5" title="Wikinews:首页 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296#sitelinks-wikinews" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 3 février 2020 à 22:27.</li>
+		<li id="footer-info-copyright"><div class="footer_license">Texte sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by/2.5/">Creative Commons Attribution 2.5</a>, sauf mention contraire. Voir le <a href="//wikimediafoundation.org/wiki/Terms_of_Use/fr" title="Conditions d’utilisation">Conditions d’utilisation</a>.
+
+</div><div class="trademark plainlinks internal">Wikinews® est une marque déposée de la <a href="//www.wikimediafoundation.org" title="Fondation Wikimedia">Wikimedia Foundation, Inc.</a>, association<br />de bienfaisance régie par le paragraphe <a href="//en.wikipedia.org/wiki/501(c)" title="501(c)">501(c)(3)</a> du code fiscal des États-Unis.</div></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikinews:Accueil_des_nouveaux_arrivants" title="Wikinews:Accueil des nouveaux arrivants">À propos de Wikinews</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikinews:Avertissements_g%C3%A9n%C3%A9raux" title="Wikinews:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikinews.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikinews.org/w/index.php?title=Accueil&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.349","ppvisitednodes":{"value":1289,"limit":1000000},"postexpandincludesize":{"value":61607,"limit":2097152},"templateargumentsize":{"value":27409,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":37,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9003,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  265.186      1 -total"," 83.54%  221.527      6 Modèle:Accueil/Cadre"," 81.03%  214.869      6 Modèle:Accueil/Cadre_old"," 25.22%   66.892      1 Modèle:Accueil/Archives"," 23.13%   61.338     13 Modèle:W"," 22.59%   59.910      4 Modèle:Boîte_déroulante"," 20.31%   53.857      1 Modèle:Accueil/Hotspot"," 14.45%   38.319      1 Modèle:Accueil/ZoneG1"," 12.45%   33.007      1 Modèle:Éphéméride-28_février"," 12.29%   32.584      1 Modèle:Accueil/Entête"]},"cachereport":{"origin":"mw1368","timestamp":"20200228175339","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Accueil","url":"https:\/\/fr.wikinews.org\/wiki\/Accueil","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-28T23:10:15Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/24\/Wikinews-logo.svg","headline":"page d'accueil des projets Wiki"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":190,"wgHostname":"mw1268"});});</script></body></html>

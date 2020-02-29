@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljJDApAMFYAAHXCi6EAAADI","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=P"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"P","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='P' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Orue" title="Especial:Todas">Página anterior (Orue)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Palacio" title="Especial:Todas">Página siguiente (Palacio)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/P" title="P">P</a></li>
+<li><a href="/wiki/PAN" title="PAN">PAN</a></li>
+<li><a href="/wiki/PBC" title="PBC">PBC</a></li>
+<li><a href="/wiki/PBI" title="PBI">PBI</a></li>
+<li><a href="/wiki/PC" title="PC">PC</a></li>
+<li><a href="/wiki/PCI-X" title="PCI-X">PCI-X</a></li>
+<li><a href="/wiki/PCUS" title="PCUS">PCUS</a></li>
+<li><a href="/wiki/PDF417" title="PDF417">PDF417</a></li>
+<li><a href="/wiki/PDI" title="PDI">PDI</a></li>
+<li><a href="/wiki/PGMO" title="PGMO">PGMO</a></li>
+<li><a href="/wiki/PIB" title="PIB">PIB</a></li>
+<li><a href="/wiki/PIL" title="PIL">PIL</a></li>
+<li><a href="/wiki/PLC" title="PLC">PLC</a></li>
+<li><a href="/wiki/PMMA" title="PMMA">PMMA</a></li>
+<li><a href="/wiki/PNB" title="PNB">PNB</a></li>
+<li><a href="/wiki/PNG" title="PNG">PNG</a></li>
+<li><a href="/wiki/PNL" title="PNL">PNL</a></li>
+<li><a href="/wiki/PNT" title="PNT">PNT</a></li>
+<li><a href="/wiki/POJO" title="POJO">POJO</a></li>
+<li><a href="/wiki/PRIAN" title="PRIAN">PRIAN</a></li>
+<li><a href="/wiki/PST" title="PST">PST</a></li>
+<li><a href="/wiki/Pa" title="Pa">Pa</a></li>
+<li><a href="/wiki/Pabla" title="Pabla">Pabla</a></li>
+<li><a href="/wiki/Pablo" title="Pablo">Pablo</a></li>
+<li><a href="/wiki/Pachakamaq" title="Pachakamaq">Pachakamaq</a></li>
+<li><a href="/wiki/Pachamama" title="Pachamama">Pachamama</a></li>
+<li><a href="/wiki/Pache" title="Pache">Pache</a></li>
+<li><a href="/wiki/Pacheco" title="Pacheco">Pacheco</a></li>
+<li><a href="/wiki/Pacheo" title="Pacheo">Pacheo</a></li>
+<li><a href="/wiki/Pachicoa" title="Pachicoa">Pachicoa</a></li>
+<li><a href="/wiki/Pachilef" title="Pachilef">Pachilef</a></li>
+<li><a href="/wiki/Pacho" title="Pacho">Pacho</a></li>
+<li><a href="/wiki/Pachyohcan" title="Pachyohcan">Pachyohcan</a></li>
+<li><a href="/wiki/Pacific" title="Pacific">Pacific</a></li>
+<li><a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a></li>
+<li><a href="/wiki/Pacifico" title="Pacifico">Pacifico</a></li>
+<li><a href="/wiki/Pacifique" title="Pacifique">Pacifique</a></li>
+<li><a href="/wiki/Paco" title="Paco">Paco</a></li>
+<li><a href="/wiki/Pac%C3%ADfico" title="Pacífico">Pacífico</a></li>
+<li><a href="/wiki/Pac%C3%ADficos" title="Pacíficos">Pacíficos</a></li>
+<li><a href="/wiki/Padilla" title="Padilla">Padilla</a></li>
+<li><a href="/wiki/Padre" title="Padre">Padre</a></li>
+<li><a href="/wiki/Padua" title="Padua">Padua</a></li>
+<li><a href="/wiki/Padura" title="Padura">Padura</a></li>
+<li><a href="/wiki/Pad%C3%ADn" title="Padín">Padín</a></li>
+<li><a href="/wiki/Paese_basco" title="Paese basco">Paese basco</a></li>
+<li><a href="/wiki/Paesi_Bassi" title="Paesi Bassi">Paesi Bassi</a></li>
+<li><a href="/wiki/Pafian" title="Pafian">Pafian</a></li>
+<li><a href="/wiki/Pagadaburu" title="Pagadaburu">Pagadaburu</a></li>
+<li><a href="/wiki/Pagadi" title="Pagadi">Pagadi</a></li>
+<li><a href="/wiki/Pagadigorria" title="Pagadigorria">Pagadigorria</a></li>
+<li><a href="/wiki/Pagadizabal" title="Pagadizabal">Pagadizabal</a></li>
+<li><a href="/wiki/Pagadoi" title="Pagadoi">Pagadoi</a></li>
+<li><a href="/wiki/Pagadoy" title="Pagadoy">Pagadoy</a></li>
+<li><a href="/wiki/Pagaduigorria" title="Pagaduigorria">Pagaduigorria</a></li>
+<li><a href="/wiki/Pagaegui" title="Pagaegui">Pagaegui</a></li>
+<li><a href="/wiki/Pagagartundua" title="Pagagartundua">Pagagartundua</a></li>
+<li><a href="/wiki/Pagagazaurtundua" title="Pagagazaurtundua">Pagagazaurtundua</a></li>
+<li><a href="/wiki/Pagalday" title="Pagalday">Pagalday</a></li>
+<li><a href="/wiki/Pagalde" title="Pagalde">Pagalde</a></li>
+<li><a href="/wiki/Pagamendi" title="Pagamendi">Pagamendi</a></li>
+<li><a href="/wiki/Pagamuno" title="Pagamuno">Pagamuno</a></li>
+<li><a href="/wiki/Pagardoy" title="Pagardoy">Pagardoy</a></li>
+<li><a href="/wiki/Pagate" title="Pagate">Pagate</a></li>
+<li><a href="/wiki/Pagay" title="Pagay">Pagay</a></li>
+<li><a href="/wiki/Pagaza" title="Pagaza">Pagaza</a></li>
+<li><a href="/wiki/Pagazantundua" title="Pagazantundua">Pagazantundua</a></li>
+<li><a href="/wiki/Pagazaondo" title="Pagazaondo">Pagazaondo</a></li>
+<li><a href="/wiki/Pagazaurtundua" title="Pagazaurtundua">Pagazaurtundua</a></li>
+<li><a href="/wiki/Pagazaurtunduagogenengoa" title="Pagazaurtunduagogenengoa">Pagazaurtunduagogenengoa</a></li>
+<li><a href="/wiki/Pago" title="Pago">Pago</a></li>
+<li><a href="/wiki/Pago_Pago" title="Pago Pago">Pago Pago</a></li>
+<li><a href="/wiki/Pagoa" title="Pagoa">Pagoa</a></li>
+<li><a href="/wiki/Pagoaga" title="Pagoaga">Pagoaga</a></li>
+<li><a href="/wiki/Pagoarte" title="Pagoarte">Pagoarte</a></li>
+<li><a href="/wiki/Pagobide" title="Pagobide">Pagobide</a></li>
+<li><a href="/wiki/Pagocelay" title="Pagocelay">Pagocelay</a></li>
+<li><a href="/wiki/Pagoeta" title="Pagoeta">Pagoeta</a></li>
+<li><a href="/wiki/Pagola" title="Pagola">Pagola</a></li>
+<li><a href="/wiki/Pagolaondo" title="Pagolaondo">Pagolaondo</a></li>
+<li><a href="/wiki/Pagonabarraga" title="Pagonabarraga">Pagonabarraga</a></li>
+<li><a href="/wiki/Pagouape" title="Pagouape">Pagouape</a></li>
+<li><a href="/wiki/Paguaga" title="Paguaga">Paguaga</a></li>
+<li><a href="/wiki/Paguape" title="Paguape">Paguape</a></li>
+<li><a href="/wiki/Pagueguy" title="Pagueguy">Pagueguy</a></li>
+<li><a href="/wiki/Paguinao" title="Paguinao">Paguinao</a></li>
+<li><a href="/wiki/Pag%C3%A8s" title="Pagès">Pagès</a></li>
+<li><a href="/wiki/Pag%C3%B1ian" title="Pagñian">Pagñian</a></li>
+<li><a href="/wiki/Pahuelan" title="Pahuelan">Pahuelan</a></li>
+<li><a href="/wiki/Pahuelpan" title="Pahuelpan">Pahuelpan</a></li>
+<li><a href="/wiki/Paichil" title="Paichil">Paichil</a></li>
+<li><a href="/wiki/Paicil" title="Paicil">Paicil</a></li>
+<li><a href="/wiki/Paici%C3%B1anco" title="Paiciñanco">Paiciñanco</a></li>
+<li><a href="/wiki/Paidanca" title="Paidanca">Paidanca</a></li>
+<li><a href="/wiki/Paidil" title="Paidil">Paidil</a></li>
+<li><a href="/wiki/Paidimil" title="Paidimil">Paidimil</a></li>
+<li><a href="/wiki/Paige" title="Paige">Paige</a></li>
+<li><a href="/wiki/Paigeao" title="Paigeao">Paigeao</a></li>
+<li><a href="/wiki/Paiguano" title="Paiguano">Paiguano</a></li>
+<li><a href="/wiki/Paiguinao" title="Paiguinao">Paiguinao</a></li>
+<li><a href="/wiki/Paig%C3%B1an" title="Paigñan">Paigñan</a></li>
+<li><a href="/wiki/Paihuan" title="Paihuan">Paihuan</a></li>
+<li><a href="/wiki/Paihuano" title="Paihuano">Paihuano</a></li>
+<li><a href="/wiki/Paihuanque" title="Paihuanque">Paihuanque</a></li>
+<li><a href="/wiki/Paihuen" title="Paihuen">Paihuen</a></li>
+<li><a href="/wiki/Paihueque" title="Paihueque">Paihueque</a></li>
+<li><a href="/wiki/Paila" title="Paila">Paila</a></li>
+<li><a href="/wiki/Pailacan" title="Pailacan">Pailacan</a></li>
+<li><a href="/wiki/Pailachao" title="Pailachao">Pailachao</a></li>
+<li><a href="/wiki/Pailacheo" title="Pailacheo">Pailacheo</a></li>
+<li><a href="/wiki/Pailacheuque" title="Pailacheuque">Pailacheuque</a></li>
+<li><a href="/wiki/Pailacoi" title="Pailacoi">Pailacoi</a></li>
+<li><a href="/wiki/Pailacoy" title="Pailacoy">Pailacoy</a></li>
+<li><a href="/wiki/Pailacura" title="Pailacura">Pailacura</a></li>
+<li><a href="/wiki/Pailaf" title="Pailaf">Pailaf</a></li>
+<li><a href="/wiki/Pailafil" title="Pailafil">Pailafil</a></li>
+<li><a href="/wiki/Pailahual" title="Pailahual">Pailahual</a></li>
+<li><a href="/wiki/Pailahueque" title="Pailahueque">Pailahueque</a></li>
+<li><a href="/wiki/Pailahuete" title="Pailahuete">Pailahuete</a></li>
+<li><a href="/wiki/Pailahueuque" title="Pailahueuque">Pailahueuque</a></li>
+<li><a href="/wiki/Pailalaf" title="Pailalaf">Pailalaf</a></li>
+<li><a href="/wiki/Pailalafquien" title="Pailalafquien">Pailalafquien</a></li>
+<li><a href="/wiki/Pailalao" title="Pailalao">Pailalao</a></li>
+<li><a href="/wiki/Pailalef" title="Pailalef">Pailalef</a></li>
+<li><a href="/wiki/Pailaleo" title="Pailaleo">Pailaleo</a></li>
+<li><a href="/wiki/Pailalfe" title="Pailalfe">Pailalfe</a></li>
+<li><a href="/wiki/Pailallan" title="Pailallan">Pailallan</a></li>
+<li><a href="/wiki/Pailalleo" title="Pailalleo">Pailalleo</a></li>
+<li><a href="/wiki/Pailamanqui" title="Pailamanqui">Pailamanqui</a></li>
+<li><a href="/wiki/Pailamilla" title="Pailamilla">Pailamilla</a></li>
+<li><a href="/wiki/Pailanca" title="Pailanca">Pailanca</a></li>
+<li><a href="/wiki/Pailao" title="Pailao">Pailao</a></li>
+<li><a href="/wiki/Pailapich%C3%BAn" title="Pailapichún">Pailapichún</a></li>
+<li><a href="/wiki/Pailap%C3%A1n" title="Pailapán">Pailapán</a></li>
+<li><a href="/wiki/Pailaqueo" title="Pailaqueo">Pailaqueo</a></li>
+<li><a href="/wiki/Pailavil" title="Pailavil">Pailavil</a></li>
+<li><a href="/wiki/Pailaweque" title="Pailaweque">Pailaweque</a></li>
+<li><a href="/wiki/Pailaya" title="Pailaya">Pailaya</a></li>
+<li><a href="/wiki/Pailaye" title="Pailaye">Pailaye</a></li>
+<li><a href="/wiki/Paila%C3%B1il" title="Pailañil">Pailañil</a></li>
+<li><a href="/wiki/Paila%C3%B1ir" title="Pailañir">Pailañir</a></li>
+<li><a href="/wiki/Pailcura" title="Pailcura">Pailcura</a></li>
+<li><a href="/wiki/Pailef" title="Pailef">Pailef</a></li>
+<li><a href="/wiki/Pailemilla" title="Pailemilla">Pailemilla</a></li>
+<li><a href="/wiki/Pailla" title="Pailla">Pailla</a></li>
+<li><a href="/wiki/Paillacal" title="Paillacal">Paillacal</a></li>
+<li><a href="/wiki/Paillacan" title="Paillacan">Paillacan</a></li>
+<li><a href="/wiki/Paillacar" title="Paillacar">Paillacar</a></li>
+<li><a href="/wiki/Paillache" title="Paillache">Paillache</a></li>
+<li><a href="/wiki/Paillacheo" title="Paillacheo">Paillacheo</a></li>
+<li><a href="/wiki/Paillaco" title="Paillaco">Paillaco</a></li>
+<li><a href="/wiki/Paillacoi" title="Paillacoi">Paillacoi</a></li>
+<li><a href="/wiki/Paillacol" title="Paillacol">Paillacol</a></li>
+<li><a href="/wiki/Paillacon" title="Paillacon">Paillacon</a></li>
+<li><a href="/wiki/Paillacoy" title="Paillacoy">Paillacoy</a></li>
+<li><a href="/wiki/Paillacura" title="Paillacura">Paillacura</a></li>
+<li><a href="/wiki/Paillac%C3%A1n" title="Paillacán">Paillacán</a></li>
+<li><a href="/wiki/Paillaf" title="Paillaf">Paillaf</a></li>
+<li><a href="/wiki/Paillafil" title="Paillafil">Paillafil</a></li>
+<li><a href="/wiki/Paillafquen" title="Paillafquen">Paillafquen</a></li>
+<li><a href="/wiki/Paillagual" title="Paillagual">Paillagual</a></li>
+<li><a href="/wiki/Paillaguala" title="Paillaguala">Paillaguala</a></li>
+<li><a href="/wiki/Paillaguin" title="Paillaguin">Paillaguin</a></li>
+<li><a href="/wiki/Paillahual" title="Paillahual">Paillahual</a></li>
+<li><a href="/wiki/Paillahuala" title="Paillahuala">Paillahuala</a></li>
+<li><a href="/wiki/Paillahuara" title="Paillahuara">Paillahuara</a></li>
+<li><a href="/wiki/Paillahue" title="Paillahue">Paillahue</a></li>
+<li><a href="/wiki/Paillahueque" title="Paillahueque">Paillahueque</a></li>
+<li><a href="/wiki/Paillahuin" title="Paillahuin">Paillahuin</a></li>
+<li><a href="/wiki/Paillain" title="Paillain">Paillain</a></li>
+<li><a href="/wiki/Paillal" title="Paillal">Paillal</a></li>
+<li><a href="/wiki/Paillalaf" title="Paillalaf">Paillalaf</a></li>
+<li><a href="/wiki/Paillalafqu%C3%A9n" title="Paillalafquén">Paillalafquén</a></li>
+<li><a href="/wiki/Paillalao" title="Paillalao">Paillalao</a></li>
+<li><a href="/wiki/Paillale" title="Paillale">Paillale</a></li>
+<li><a href="/wiki/Paillalebu" title="Paillalebu">Paillalebu</a></li>
+<li><a href="/wiki/Paillalef" title="Paillalef">Paillalef</a></li>
+<li><a href="/wiki/Paillaleo" title="Paillaleo">Paillaleo</a></li>
+<li><a href="/wiki/Paillaleve" title="Paillaleve">Paillaleve</a></li>
+<li><a href="/wiki/Paillali" title="Paillali">Paillali</a></li>
+<li><a href="/wiki/Paillalid" title="Paillalid">Paillalid</a></li>
+<li><a href="/wiki/Paillalin" title="Paillalin">Paillalin</a></li>
+<li><a href="/wiki/Paillallao" title="Paillallao">Paillallao</a></li>
+<li><a href="/wiki/Paillallef" title="Paillallef">Paillallef</a></li>
+<li><a href="/wiki/Paillaly" title="Paillaly">Paillaly</a></li>
+<li><a href="/wiki/Paillam" title="Paillam">Paillam</a></li>
+<li><a href="/wiki/Paillama" title="Paillama">Paillama</a></li>
+<li><a href="/wiki/Paillamanca" title="Paillamanca">Paillamanca</a></li>
+<li><a href="/wiki/Paillamanque" title="Paillamanque">Paillamanque</a></li>
+<li><a href="/wiki/Paillamanqui" title="Paillamanqui">Paillamanqui</a></li>
+<li><a href="/wiki/Paillamaque" title="Paillamaque">Paillamaque</a></li>
+<li><a href="/wiki/Paillamara" title="Paillamara">Paillamara</a></li>
+<li><a href="/wiki/Paillamil" title="Paillamil">Paillamil</a></li>
+<li><a href="/wiki/Paillamilla" title="Paillamilla">Paillamilla</a></li>
+<li><a href="/wiki/Paillampel" title="Paillampel">Paillampel</a></li>
+<li><a href="/wiki/Paillam%C3%A1n" title="Paillamán">Paillamán</a></li>
+<li><a href="/wiki/Paillanao" title="Paillanao">Paillanao</a></li>
+<li><a href="/wiki/Paillanca" title="Paillanca">Paillanca</a></li>
+<li><a href="/wiki/Paillante" title="Paillante">Paillante</a></li>
+<li><a href="/wiki/Paillao" title="Paillao">Paillao</a></li>
+<li><a href="/wiki/Paillao%C3%B1irri" title="Paillaoñirri">Paillaoñirri</a></li>
+<li><a href="/wiki/Paillape" title="Paillape">Paillape</a></li>
+<li><a href="/wiki/Paillapi" title="Paillapi">Paillapi</a></li>
+<li><a href="/wiki/Paillapichun" title="Paillapichun">Paillapichun</a></li>
+<li><a href="/wiki/Paillapil" title="Paillapil">Paillapil</a></li>
+<li><a href="/wiki/Paillap%C3%A1n" title="Paillapán">Paillapán</a></li>
+<li><a href="/wiki/Paillaque" title="Paillaque">Paillaque</a></li>
+<li><a href="/wiki/Paillaquen" title="Paillaquen">Paillaquen</a></li>
+<li><a href="/wiki/Paillaqueo" title="Paillaqueo">Paillaqueo</a></li>
+<li><a href="/wiki/Paillar" title="Paillar">Paillar</a></li>
+<li><a href="/wiki/Paillaran" title="Paillaran">Paillaran</a></li>
+<li><a href="/wiki/Paillatru" title="Paillatru">Paillatru</a></li>
+<li><a href="/wiki/Paillave" title="Paillave">Paillave</a></li>
+<li><a href="/wiki/Paillavil" title="Paillavil">Paillavil</a></li>
+<li><a href="/wiki/Paillaya" title="Paillaya">Paillaya</a></li>
+<li><a href="/wiki/Paillayao" title="Paillayao">Paillayao</a></li>
+<li><a href="/wiki/Pailla%C3%B1ir" title="Paillañir">Paillañir</a></li>
+<li><a href="/wiki/Pailleleo" title="Pailleleo">Pailleleo</a></li>
+<li><a href="/wiki/Pailleo" title="Pailleo">Pailleo</a></li>
+<li><a href="/wiki/Paillepe" title="Paillepe">Paillepe</a></li>
+<li><a href="/wiki/Paillevil" title="Paillevil">Paillevil</a></li>
+<li><a href="/wiki/Paill%C3%A1n" title="Paillán">Paillán</a></li>
+<li><a href="/wiki/Pail%C3%A9n" title="Pailén">Pailén</a></li>
+<li><a href="/wiki/Paimenilla" title="Paimenilla">Paimenilla</a></li>
+<li><a href="/wiki/Paimican" title="Paimican">Paimican</a></li>
+<li><a href="/wiki/Paimilla" title="Paimilla">Paimilla</a></li>
+<li><a href="/wiki/Painahuel" title="Painahuel">Painahuel</a></li>
+<li><a href="/wiki/Painalafquen" title="Painalafquen">Painalafquen</a></li>
+<li><a href="/wiki/Painamal" title="Painamal">Painamal</a></li>
+<li><a href="/wiki/Painaman" title="Painaman">Painaman</a></li>
+<li><a href="/wiki/Painamilla" title="Painamilla">Painamilla</a></li>
+<li><a href="/wiki/Painan" title="Painan">Painan</a></li>
+<li><a href="/wiki/Painao" title="Painao">Painao</a></li>
+<li><a href="/wiki/Painapi" title="Painapi">Painapi</a></li>
+<li><a href="/wiki/Painapichun" title="Painapichun">Painapichun</a></li>
+<li><a href="/wiki/Painaqueo" title="Painaqueo">Painaqueo</a></li>
+<li><a href="/wiki/Painavilo" title="Painavilo">Painavilo</a></li>
+<li><a href="/wiki/Painchual" title="Painchual">Painchual</a></li>
+<li><a href="/wiki/Paine" title="Paine">Paine</a></li>
+<li><a href="/wiki/Paineano" title="Paineano">Paineano</a></li>
+<li><a href="/wiki/Painebil" title="Painebil">Painebil</a></li>
+<li><a href="/wiki/Painebilu" title="Painebilu">Painebilu</a></li>
+<li><a href="/wiki/Painecan" title="Painecan">Painecan</a></li>
+<li><a href="/wiki/Painechun" title="Painechun">Painechun</a></li>
+<li><a href="/wiki/Painecual" title="Painecual">Painecual</a></li>
+<li><a href="/wiki/Painecur" title="Painecur">Painecur</a></li>
+<li><a href="/wiki/Painecura" title="Painecura">Painecura</a></li>
+<li><a href="/wiki/Painecuro" title="Painecuro">Painecuro</a></li>
+<li><a href="/wiki/Painefil" title="Painefil">Painefil</a></li>
+<li><a href="/wiki/Painefilo" title="Painefilo">Painefilo</a></li>
+<li><a href="/wiki/Paineguilo" title="Paineguilo">Paineguilo</a></li>
+<li><a href="/wiki/Paineguir" title="Paineguir">Paineguir</a></li>
+<li><a href="/wiki/Painehilo" title="Painehilo">Painehilo</a></li>
+<li><a href="/wiki/Painehual" title="Painehual">Painehual</a></li>
+<li><a href="/wiki/Painehue" title="Painehue">Painehue</a></li>
+<li><a href="/wiki/Painehuel" title="Painehuel">Painehuel</a></li>
+<li><a href="/wiki/Painein" title="Painein">Painein</a></li>
+<li><a href="/wiki/Painem" title="Painem">Painem</a></li>
+<li><a href="/wiki/Painema" title="Painema">Painema</a></li>
+<li><a href="/wiki/Painemal" title="Painemal">Painemal</a></li>
+<li><a href="/wiki/Painemalo" title="Painemalo">Painemalo</a></li>
+<li><a href="/wiki/Painemao" title="Painemao">Painemao</a></li>
+<li><a href="/wiki/Painemen" title="Painemen">Painemen</a></li>
+<li><a href="/wiki/Painemil" title="Painemil">Painemil</a></li>
+<li><a href="/wiki/Painemila" title="Painemila">Painemila</a></li>
+<li><a href="/wiki/Painemill" title="Painemill">Painemill</a></li>
+<li><a href="/wiki/Painemilla" title="Painemilla">Painemilla</a></li>
+<li><a href="/wiki/Painemillo" title="Painemillo">Painemillo</a></li>
+<li><a href="/wiki/Painem%C3%A1n" title="Painemán">Painemán</a></li>
+<li><a href="/wiki/Painenahuel" title="Painenahuel">Painenahuel</a></li>
+<li><a href="/wiki/Painenao" title="Painenao">Painenao</a></li>
+<li><a href="/wiki/Painene" title="Painene">Painene</a></li>
+<li><a href="/wiki/Paineneao" title="Paineneao">Paineneao</a></li>
+<li><a href="/wiki/Paineneo" title="Paineneo">Paineneo</a></li>
+<li><a href="/wiki/Painenir" title="Painenir">Painenir</a></li>
+<li><a href="/wiki/Paineno" title="Paineno">Paineno</a></li>
+<li><a href="/wiki/Paineo" title="Paineo">Paineo</a></li>
+<li><a href="/wiki/Paineoan" title="Paineoan">Paineoan</a></li>
+<li><a href="/wiki/Painepe" title="Painepe">Painepe</a></li>
+<li><a href="/wiki/Painepi" title="Painepi">Painepi</a></li>
+<li><a href="/wiki/Painepichul" title="Painepichul">Painepichul</a></li>
+<li><a href="/wiki/Painepichun" title="Painepichun">Painepichun</a></li>
+<li><a href="/wiki/Painepil" title="Painepil">Painepil</a></li>
+<li><a href="/wiki/Painep%C3%A1n" title="Painepán">Painepán</a></li>
+<li><a href="/wiki/Paineque" title="Paineque">Paineque</a></li>
+<li><a href="/wiki/Painequeo" title="Painequeo">Painequeo</a></li>
+<li><a href="/wiki/Painequiel" title="Painequiel">Painequiel</a></li>
+<li><a href="/wiki/Painequil" title="Painequil">Painequil</a></li>
+<li><a href="/wiki/Painequin" title="Painequin">Painequin</a></li>
+<li><a href="/wiki/Painequir" title="Painequir">Painequir</a></li>
+<li><a href="/wiki/Painequiri" title="Painequiri">Painequiri</a></li>
+<li><a href="/wiki/Paines" title="Paines">Paines</a></li>
+<li><a href="/wiki/Painetal" title="Painetal">Painetal</a></li>
+<li><a href="/wiki/Painetre" title="Painetre">Painetre</a></li>
+<li><a href="/wiki/Painetrul" title="Painetrul">Painetrul</a></li>
+<li><a href="/wiki/Painetun" title="Painetun">Painetun</a></li>
+<li><a href="/wiki/Paineuqueo" title="Paineuqueo">Paineuqueo</a></li>
+<li><a href="/wiki/Paineval" title="Paineval">Paineval</a></li>
+<li><a href="/wiki/Painevil" title="Painevil">Painevil</a></li>
+<li><a href="/wiki/Painevilo" title="Painevilo">Painevilo</a></li>
+<li><a href="/wiki/Painevilu" title="Painevilu">Painevilu</a></li>
+<li><a href="/wiki/Painevur" title="Painevur">Painevur</a></li>
+<li><a href="/wiki/Paine%C3%A1n" title="Paineán">Paineán</a></li>
+<li><a href="/wiki/Paine%C3%B1anco" title="Paineñanco">Paineñanco</a></li>
+<li><a href="/wiki/Paine%C3%B1ir" title="Paineñir">Paineñir</a></li>
+<li><a href="/wiki/Painicura" title="Painicura">Painicura</a></li>
+<li><a href="/wiki/Painien" title="Painien">Painien</a></li>
+<li><a href="/wiki/Painifilo" title="Painifilo">Painifilo</a></li>
+<li><a href="/wiki/Painil" title="Painil">Painil</a></li>
+<li><a href="/wiki/Painimil" title="Painimil">Painimil</a></li>
+<li><a href="/wiki/Painin" title="Painin">Painin</a></li>
+<li><a href="/wiki/Paininao" title="Paininao">Paininao</a></li>
+<li><a href="/wiki/Painiqueo" title="Painiqueo">Painiqueo</a></li>
+<li><a href="/wiki/Painiquir" title="Painiquir">Painiquir</a></li>
+<li><a href="/wiki/Paini%C3%A1n" title="Painián">Painián</a></li>
+<li><a href="/wiki/Paini%C3%B1ao" title="Painiñao">Painiñao</a></li>
+<li><a href="/wiki/Paino" title="Paino">Paino</a></li>
+<li><a href="/wiki/Painqueo" title="Painqueo">Painqueo</a></li>
+<li><a href="/wiki/Pain%C3%A9n" title="Painén">Painén</a></li>
+<li><a href="/wiki/Paipichun" title="Paipichun">Paipichun</a></li>
+<li><a href="/wiki/Pairic%C3%A1n" title="Pairicán">Pairicán</a></li>
+<li><a href="/wiki/Pairo" title="Pairo">Pairo</a></li>
+<li><a href="/wiki/Paisil" title="Paisil">Paisil</a></li>
+<li><a href="/wiki/Paisillo" title="Paisillo">Paisillo</a></li>
+<li><a href="/wiki/Pai%C3%B1aleo" title="Paiñaleo">Paiñaleo</a></li>
+<li><a href="/wiki/Pai%C3%B1amil" title="Paiñamil">Paiñamil</a></li>
+<li><a href="/wiki/Pai%C3%B1egur" title="Paiñegur">Paiñegur</a></li>
+<li><a href="/wiki/Pai%C3%B1el" title="Paiñel">Paiñel</a></li>
+<li><a href="/wiki/Pai%C3%B1emil" title="Paiñemil">Paiñemil</a></li>
+<li><a href="/wiki/Pai%C3%B1en" title="Paiñen">Paiñen</a></li>
+<li><a href="/wiki/Pai%C3%B1enao" title="Paiñenao">Paiñenao</a></li>
+<li><a href="/wiki/Pai%C3%B1equir" title="Paiñequir">Paiñequir</a></li>
+<li><a href="/wiki/Pai%C3%B1e%C3%B1anco" title="Paiñeñanco">Paiñeñanco</a></li>
+<li><a href="/wiki/Pai%C3%B1ian" title="Paiñian">Paiñian</a></li>
+<li><a href="/wiki/Pai%C3%B1iel" title="Paiñiel">Paiñiel</a></li>
+<li><a href="/wiki/Pai%C3%B1imil" title="Paiñimil">Paiñimil</a></li>
+<li><a href="/wiki/Pai%C3%B1%C3%A1n" title="Paiñán">Paiñán</a></li>
+<li><a href="/wiki/Pajarito" title="Pajarito">Pajarito</a></li>
+<li><a href="/wiki/Pakartoto_%C4%AEstatymo_knyga" title="Pakartoto Įstatymo knyga">Pakartoto Įstatymo knyga</a></li>
+<li><a href="/wiki/Pakasmayu" title="Pakasmayu">Pakasmayu</a></li>
+<li><a href="/wiki/Pakawaja" title="Pakawaja">Pakawaja</a></li>
+<li><a href="/wiki/Pakistan" title="Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Pakistania" title="Pakistania">Pakistania</a></li>
+<li><a href="/wiki/Pakist%C3%A1n" title="Pakistán">Pakistán</a></li>
+<li><a href="/wiki/Pakiszt%C3%A1n" title="Pakisztán">Pakisztán</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Orue" title="Especial:Todas">Página anterior (Orue)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Palacio" title="Especial:Todas">Página siguiente (Palacio)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DP" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DP" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=P" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=P&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=P&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":277,"wgHostname":"mw1251"});});</script></body></html>

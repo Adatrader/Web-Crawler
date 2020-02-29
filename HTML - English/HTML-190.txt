@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikimedia - Wikibooks, open books for an open world</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgSFgpAAD8AACFWI-IAAAER","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wikimedia","wgTitle":"Wikimedia","wgCurRevisionId":3650444,"wgRevisionId":3650444,"wgArticleId":252008,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages needing sources","Subject:Web applications","Subject:Web applications/all books","Subject:Computer software/all books","Subject:Computing/all books","Subject:Books by subject/all books","Subject:Internet/all books",
+"Book:Wikibooks Stacks/Books","Shelf:Web applications/all books","Shelf:Computer software/all books","Department:Computing/all books","Shelf:Internet/all books","Alphabetical/W","Freshly started books","Books by completion status/all books","Book:Wikimedia","Shelf:Web applications"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikimedia","wgRelevantArticleId":252008,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"value":{"levels":3,"quality":2,"pristine":3}}},"wgStableRevisionId":3650444,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikibooks",
+"wgWikibaseItemId":"Q3568028","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.flaggedRevs.advanced","ext.gadget.wikidialog","ext.gadget.commons-file","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Wikimedia&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Wikimedia&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikibooks.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikibooks (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikibooks.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikibooks Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikibooks.org/wiki/Wikimedia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wikimedia rootpage-Wikimedia skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikimedia</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikibooks, open books for an open world</div>
+		<div id="contentSub"><div class="mw-revision warningbox"><div id="mw-revision-info-current"><table id="revision-info-current" class="plainlinks fmbox fmbox-warning" style="">
+<tbody><tr>
+
+<td class="mbox-text" style=""> <b>This is the <a href="/wiki/Help:Tracking_changes#Page_history" title="Help:Tracking changes">current revision</a> of this page, as edited by <span id="mw-revision-name"><a href="/wiki/User:Mrjulesd" class="mw-userlink" title="User:Mrjulesd"><bdi>Mrjulesd</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Mrjulesd" class="mw-usertoollinks-talk" title="User talk:Mrjulesd">discuss</a> | <a href="/wiki/Special:Contributions/Mrjulesd" class="mw-usertoollinks-contribs" title="Special:Contributions/Mrjulesd">contribs</a>)</span></span> at <span id="mw-revision-date">10:53, 7 January 2020</span>. The present address (<a href="https://en.wikipedia.org/wiki/Uniform_Resource_Locator" class="extiw" title="w:Uniform Resource Locator">URL</a>) is a permanent link to this version. </b></td>
+</tr>
+</tbody></table><div id="revision-info-current-plain" style="display: none;">Revision as of 10:53, 7 January 2020 by <a href="/wiki/User:Mrjulesd" class="mw-userlink" title="User:Mrjulesd"><bdi>Mrjulesd</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Mrjulesd" class="mw-usertoollinks-talk" title="User talk:Mrjulesd">discuss</a> | <a href="/wiki/Special:Contributions/Mrjulesd" class="mw-usertoollinks-contribs" title="Special:Contributions/Mrjulesd">contribs</a>)</span></div></div><div id="mw-revision-nav">(<a href="/w/index.php?title=Wikimedia&amp;diff=prev&amp;oldid=3650444" title="Wikimedia">diff</a>) <a href="/w/index.php?title=Wikimedia&amp;direction=prev&amp;oldid=3650444" title="Wikimedia">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div id='mw-fr-revisiontag-old' class='flaggedrevs_notice plainlinks noprint'>A <a class="external text" href="https://en.wikibooks.org/w/index.php?title=Wikimedia&amp;stableid=3650444">reviewed version</a> of this page, <a class="external text" href="https://en.wikibooks.org/w/index.php?title=Special:Log&amp;type=review&amp;page=Wikimedia">approved</a> on <i>7 January 2020</i>, was based off this revision.<a id="mw-fr-revisiontoggle" class="fr-toggle-symbol" style="display:none;" title="show/hide details" >(+)</a><div id='mw-fr-revisiondetails'>It was rated:&#160;<span class='fr-marker-40'><strong>Quality</strong>: <span class='fr-text-value'>minimal&#160;</span>&#160;</span>
+</div></div><div class="mw-parser-output"><p>This book is about the Wikimedia Foundation, its goals, websites, criticisms and culture and how people can contribute to it. 
+</p><p>Administrative:
+</p>
+<ul><li><a href="/wiki/Wikimedia/Contributing_to_this_book" title="Wikimedia/Contributing to this book">Contributing to this book</a></li></ul>
+<p>Chapters:
+</p>
+<ul><li><a href="/wiki/Wikimedia/What_is_Wikimedia%3F" title="Wikimedia/What is Wikimedia?">What is Wikimedia?</a></li>
+<li><a href="/wiki/Wikimedia/How_to_Use_Wikis" title="Wikimedia/How to Use Wikis">How to Use Wikis</a>
+<ul><li><a href="/wiki/Wikimedia/Editing" title="Wikimedia/Editing">Editing</a></li>
+<li><a href="/wiki/Wikimedia/Basic_Markup_Language" title="Wikimedia/Basic Markup Language">Basic Markup Language</a></li>
+<li><a href="/wiki/Wikimedia/Images" title="Wikimedia/Images">Images</a></li>
+<li><a href="/wiki/Wikimedia/Templates" title="Wikimedia/Templates">Templates</a></li>
+<li><a href="/wiki/Wikimedia/Categories" title="Wikimedia/Categories">Categories</a></li>
+<li><a href="/w/index.php?title=Wikimedia/What_are_namespaces%3F&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/What are namespaces? (does not exist)">What are namespaces?</a></li>
+<li><a href="/w/index.php?title=Wikimedia/Administrative_Namespaces&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Administrative Namespaces (does not exist)">Administrative Namespaces</a></li>
+<li><a href="/w/index.php?title=Wikimedia/User_Namespaces&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/User Namespaces (does not exist)">User Namespaces</a></li>
+<li><a href="/wiki/Wikimedia/Administrators" title="Wikimedia/Administrators">Administrators</a></li>
+<li><a href="/wiki/Wikimedia/User_Rights" title="Wikimedia/User Rights">User Rights</a></li>
+<li><a href="/w/index.php?title=Wikimedia/Protection&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Protection (does not exist)">Protection</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/The_Wikis_of_Wikimedia,_and_What_Goes_Where" title="Wikimedia/The Wikis of Wikimedia, and What Goes Where">The Wikis of Wikimedia, and What Goes Where</a></li>
+<li><a href="/wiki/Wikimedia/Wikipedia" title="Wikimedia/Wikipedia">Wikipedia</a>
+<ul><li><a href="/wiki/Wikimedia/The_History_of_Wikipedia" title="Wikimedia/The History of Wikipedia">The History of Wikipedia</a></li>
+<li><a href="/wiki/Wikimedia/The_Culture_of_Wikipedia" title="Wikimedia/The Culture of Wikipedia">The Culture of Wikipedia</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikipedia_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikipedia MOS (does not exist)">The Wikipedia MOS</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/Wikimedia_Commons" title="Wikimedia/Wikimedia Commons">Wikimedia Commons</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikimedia_Commons&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikimedia Commons (does not exist)">The History of Wikimedia Commons</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikimedia_Commons&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikimedia Commons (does not exist)">The Culture of Wikimedia Commons</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikicommons_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikicommons MOS (does not exist)">The Wikicommons MOS</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/Wikibooks" title="Wikimedia/Wikibooks">Wikibooks</a>
+<ul><li><a href="/wiki/Wikimedia/The_History_of_Wikibooks" title="Wikimedia/The History of Wikibooks">The History of Wikibooks</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikibooks&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikibooks (does not exist)">The Culture of Wikibooks</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikibooks_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikibooks MOS (does not exist)">The Wikibooks MOS</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/Wikinews" title="Wikimedia/Wikinews">Wikinews</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikinews&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikinews (does not exist)">The History of Wikinews</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikinews&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikinews (does not exist)">The Culture of Wikinews</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikinews_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikinews MOS (does not exist)">The Wikinews MOS</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/Wiktionary" title="Wikimedia/Wiktionary">Wiktionary</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wiktionary&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wiktionary (does not exist)">The History of Wiktionary</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wiktionary&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wiktionary (does not exist)">The Culture of Wiktionary</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wiktionary_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wiktionary MOS (does not exist)">The Wiktionary MOS</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/Wikisource" title="Wikimedia/Wikisource">Wikisource</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikisource&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikisource (does not exist)">The History of Wikisource</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikisource&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikisource (does not exist)">The Culture of Wikisource</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikisource_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikisource MOS (does not exist)">The Wikisource MOS</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Wikiquote&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Wikiquote (does not exist)">Wikiquote</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikiquote&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikiquote (does not exist)">The History of Wikiquote</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikiquote&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikiquote (does not exist)">The Culture of Wikiquote</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikiquote_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikiquote MOS (does not exist)">The Wikiquote MOS</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Wikispecies&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Wikispecies (does not exist)">Wikispecies</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikispecies&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikispecies (does not exist)">The History of Wikispecies</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikispecies&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikispecies (does not exist)">The Culture of Wikispecies</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikispecies_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikispecies MOS (does not exist)">The Wikispecies MOS</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Wikiversity&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Wikiversity (does not exist)">Wikiversity</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikiversity&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikiversity (does not exist)">The History of Wikiversity</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikiversity&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikiversity (does not exist)">The Culture of Wikiversity</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikiversity_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikiversity MOS (does not exist)">The Wikiversity MOS</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Meta&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Meta (does not exist)">Meta</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Meta&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Meta (does not exist)">The History of Meta</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Meta&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Meta (does not exist)">The Culture of Meta</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Meta_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Meta MOS (does not exist)">The Meta MOS</a></li>
+<li><a href="/w/index.php?title=Wikimedia/Global_Rights&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Global Rights (does not exist)">Global Rights</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Wikidata (does not exist)">Wikidata</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikidata (does not exist)">The History of Wikidata</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikidata&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikidata (does not exist)">The Culture of Wikidata</a></li>
+<li><a href="/wiki/Wikimedia/How_Wikidata_works" title="Wikimedia/How Wikidata works">How Wikidata works</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Wikivoyage&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Wikivoyage (does not exist)">Wikivoyage</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikivoyage&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikivoyage (does not exist)">The History of Wikivoyage</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikivoyage&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikivoyage (does not exist)">The Culture of Wikivoyage</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Wikivoyage_MOS&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Wikivoyage MOS (does not exist)">The Wikivoyage MOS</a></li></ul></li>
+<li><a href="/w/index.php?title=Wikimedia/Wikimedia_Incubator&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/Wikimedia Incubator (does not exist)">Wikimedia Incubator</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikimedia_Incubator&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikimedia Incubator (does not exist)">The History of Wikimedia Incubator</a></li>
+<li><a href="/w/index.php?title=Wikimedia/The_Culture_of_Wikimedia_Incubator&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The Culture of Wikimedia Incubator (does not exist)">The Culture of Wikimedia Incubator</a></li></ul></li>
+<li><a href="/wiki/Wikimedia/Wikimedia_Labs" title="Wikimedia/Wikimedia Labs">Wikimedia Labs</a>
+<ul><li><a href="/w/index.php?title=Wikimedia/The_History_of_Wikimedia_Labs&amp;action=edit&amp;redlink=1" class="new" title="Wikimedia/The History of Wikimedia Labs (does not exist)">The History of Wikimedia Labs</a></li></ul></li></ul>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Acknowledgements"><span class="tocnumber">1</span> <span class="toctext">Acknowledgements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Outside_agitators"><span class="tocnumber">1.1</span> <span class="toctext">Outside agitators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Technical_note_for_contributors"><span class="tocnumber">2</span> <span class="toctext">Technical note for contributors</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Local_manual_of_style"><span class="tocnumber">2.1</span> <span class="toctext">Local manual of style</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Introduction"><span class="tocnumber">3</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Overview"><span class="tocnumber">4</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Shared_policies_and_philosophies"><span class="tocnumber">5</span> <span class="toctext">Shared policies and philosophies</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Divergent_policies_and_philosophies"><span class="tocnumber">6</span> <span class="toctext">Divergent policies and philosophies</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Shared_Structures,_Different_Functions"><span class="tocnumber">7</span> <span class="toctext">Shared Structures, Different Functions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Portals"><span class="tocnumber">7.1</span> <span class="toctext">Portals</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Projects"><span class="tocnumber">7.2</span> <span class="toctext">Projects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Shared_problems"><span class="tocnumber">8</span> <span class="toctext">Shared problems</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Advocacy_agendas"><span class="tocnumber">9</span> <span class="toctext">Advocacy agendas</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Wikigames"><span class="tocnumber">10</span> <span class="toctext">Wikigames</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Major_WMF_projects"><span class="tocnumber">11</span> <span class="toctext">Major WMF projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Wikibooks"><span class="tocnumber">11.1</span> <span class="toctext">Wikibooks</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Wikipedia"><span class="tocnumber">11.2</span> <span class="toctext">Wikipedia</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Wikisource"><span class="tocnumber">11.3</span> <span class="toctext">Wikisource</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#Wikimedia_Foundation_projects_focused_on_policy"><span class="tocnumber">12</span> <span class="toctext">Wikimedia Foundation projects focused on policy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#Wikimedia_Outreach"><span class="tocnumber">12.1</span> <span class="toctext">Wikimedia Outreach</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Meta-focused_wiki:Strategy_wiki"><span class="tocnumber">12.2</span> <span class="toctext">Meta-focused wiki:Strategy wiki</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Meta-focused_backstage_project:_MediaWiki"><span class="tocnumber">12.3</span> <span class="toctext">Meta-focused backstage project: MediaWiki</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Technologically-focused_backstage_projects"><span class="tocnumber">13</span> <span class="toctext">Technologically-focused backstage projects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Bugzilla"><span class="tocnumber">13.1</span> <span class="toctext">Bugzilla</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Incubator"><span class="tocnumber">13.2</span> <span class="toctext">Incubator</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Wikimedia_Mailservices"><span class="tocnumber">13.3</span> <span class="toctext">Wikimedia Mailservices</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Wikitech"><span class="tocnumber">13.4</span> <span class="toctext">Wikitech</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Test_Wikipedia"><span class="tocnumber">13.5</span> <span class="toctext">Test Wikipedia</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Wikistats"><span class="tocnumber">13.6</span> <span class="toctext">Wikistats</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Bibliography"><span class="tocnumber">13.7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Wikimedia_Laboratories"><span class="tocnumber">13.8</span> <span class="toctext">Wikimedia Laboratories</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Appendixes_and_Afterword"><span class="tocnumber">14</span> <span class="toctext">Appendixes and Afterword</span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="#Appendix_A:_List_of_Wikimedia_Foundation_Projects"><span class="tocnumber">14.1</span> <span class="toctext">Appendix A: List of Wikimedia Foundation Projects</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Appendix_B:_List_Non-WMF_Wiki_Projects_(Non-Profit)"><span class="tocnumber">14.2</span> <span class="toctext">Appendix B: List Non-WMF Wiki Projects (Non-Profit)</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#Contributors_and_copyright_information"><span class="tocnumber">14.3</span> <span class="toctext">Contributors and copyright information</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Other_anticipated_contributors_welcome"><span class="tocnumber">14.4</span> <span class="toctext">Other anticipated contributors welcome</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#If_you_wish_to_republish"><span class="tocnumber">14.5</span> <span class="toctext">If you wish to republish</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#References"><span class="tocnumber">15</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Acknowledgements">Acknowledgements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=1" title="Edit section: Acknowledgements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The creators of Wikibooks, those who contributed financially and so generously of their time, the administrators who assist in copyright compliance, layout and copyediting, the co-editors this book is expected to attract, and most of all the readers whom, though they may not edit, contribute by reading and pondering the writing, for, without readers, there would be no point to writing. In particular, Adrignoli was very helpful with an earlier book by this book's lead author, and by establishing a tone of genuine academic and bibliophilic collegiality, made wikibooks a true refuge in a wikiworld often full of wicked ways.
+</p>
+<h3><span class="mw-headline" id="Outside_agitators">Outside agitators</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=2" title="Edit section: Outside agitators">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the wikipaediae outside of wikibooks, <a class="external text" href="https://en.wikiversity.org/wiki/User:Jtneill">James Neill</a>, an administrator and bureacrat at wikiversity has really been a very positive and welcoming force which is reciprocally quite welcome indeed. On Wiktionary, <a href="/wiki/User:Internoob" title="User:Internoob">User: Internoob</a> has been a sage and innovative source of information, insight and encouragement in often contentious debates.
+</p>
+<h2><span class="mw-headline" id="Technical_note_for_contributors">Technical note for contributors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=3" title="Edit section: Technical note for contributors">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Please feel free to peruse Things to Do on the discussion page. You are also invited to the discussion page to suggest possible ways to handle the layout, which is at this time under study. Contributors are requested to read the text, unless making grammatical corrections,adding citations, or similar contributions which are not contingent upon understanding the overall vision of the book. The purpose of this request is to establish the unity which underlies that which is, in fact, a book, and to help contributors establish a feel for what this book is about. Of course, suggestions are always welcome for those who do not have the time to read the whole book but who have a burning desire to contribute an insight. Comments are also welcome on this request, whether it is regarded as draconian, or as an invitation to a reckless free for all of under-qualified editorial experiments!
+</p>
+<h3><span class="mw-headline" id="Local_manual_of_style"><a href="/wiki/Wikimedia/MOS" title="Wikimedia/MOS">Local manual of style</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=4" title="Edit section: Local manual of style">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=5" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wikipaediae is the evolving culture of collaborative internet creativity utilizing wiki software. It includes the various projects of Wikimedia Foundation and separate groups which utilize similar software and collective protocol. It includes an ever-expanding array of projects, which in turn has fostered a subset of projects to provide intellectual<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and technical,<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikibooks:OR" class="mw-redirect" title="Wikibooks:OR"><span title="This claim needs references to reliable sources">citation needed</span></a></i>&#93;</sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> infrastructure and support. Sometimes these are referred to as backstage projects.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>Included are variants of Wikipedia in multiple languages, but also collaborative media which utilize similar or derivative software and interactional models. These include wiktionary,
+wikibooks,wikiversity, which are respectively online dictionary, publishing consortium and (as yet unaccredited) university in cyberspace. Some accredited institutes of higher education utilize one or more resources in the world of wikipaediae, including wikiversity courses.
+</p><p>Other species of wikipaediae provide support to Wikipedia and its offshoots. These include wikicommons, which provides content, and mediawiki,which provides developer support in utilizing the software. The latter is not to be confused with Wikimedia,which hosts strategic planning papers and discussion.
+</p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=6" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Different wikis or projects necessarily encounter different issues depending upon the underlying structure of the wiki, its language, audience, contributors and administrators.
+Disputes inevitably arise and the mechanisms for disposing of disputes itself has an effect upon the contributors and content attracted.
+</p>
+<h2><span class="mw-headline" id="Shared_policies_and_philosophies">Shared policies and philosophies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=7" title="Edit section: Shared policies and philosophies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>An underlying ethic across wiki projects is well expressed by the strategic planning motto:
+"Imagine a world in which every single human being can freely share in the sum of all knowledge."
+Consistent with this motto, many wikipaediae are interested in proliferating the benefits of their project. This reaches across linguistic barriers, a difficulty facilitated by translation software. Wikiversity Beta is a multilingual hub for the coordination of Wikiversity projects in different languages.
+<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Divergent_policies_and_philosophies">Divergent policies and philosophies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=8" title="Edit section: Divergent policies and philosophies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wikimedia projects have divergent policies with regard to content and administration. For instance, the rule of thumb on Wikipedia is to encourage contributions based upon primary sources. Commensurately, Wikipedia discourages original research. However, throughout the world of wikipaedie, there are different views in this matter. For instance wikinews, which aspires to a specific vision of journalism, has a policy page titled "Original reporting" which establishes guidelines for preparing material which is novel in the world of publishing.
+</p><p>Wikiversity specifically encourages original research as long as it is consistent with its guidelines.
+</p>
+<h2><span id="Shared_Structures.2C_Different_Functions"></span><span class="mw-headline" id="Shared_Structures,_Different_Functions">Shared Structures, Different Functions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=9" title="Edit section: Shared Structures, Different Functions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Portals">Portals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=10" title="Edit section: Portals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Portals are designed as an easy user interface to facilitate reading. They originated in the Polish and German Wikipedias. In early 2005, the concept was imported to the English Wikipedia.
+</p>
+<h3><span class="mw-headline" id="Projects">Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=11" title="Edit section: Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Projects are similar to portals in that they aggregate content but they are not as user friendly and are more apt to be used by editors.
+</p>
+<h2><span class="mw-headline" id="Shared_problems">Shared problems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=12" title="Edit section: Shared problems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wikipaediae, not unlike frontiers in the gold rush days, is disproportionately comprised of men. Many Wikimedia projects report under-representation of women in its editorial and administrative teams.
+<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+Editor retention is also a frequently discussed problem area.<sup class="Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikibooks:OR" class="mw-redirect" title="Wikibooks:OR"><span title="This claim needs references to reliable sources from May 2011">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Advocacy_agendas">Advocacy agendas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=13" title="Edit section: Advocacy agendas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wikimedia projects tend to emphasize non-ideological, policy-neutral approaches to content, but with regard to the fundamental social contract which is the matrix of its operations, Wikipedians of all type can be fiercely protective. Free speech, censorship and public policy which impacts internet infrastructure are issues of concern across all WMF projects and other internet enterprises.
+<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Wikigames">Wikigames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=14" title="Edit section: Wikigames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wikigame is a competition to see who can reach a "homebase" or destination wiki article from a random starting point solely by clicking links within wiki articles. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Major_WMF_projects">Major WMF projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=15" title="Edit section: Major WMF projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Wikibooks"><a href="/wiki/Wikimedia/Wikibooks" title="Wikimedia/Wikibooks">Wikibooks</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=16" title="Edit section: Wikibooks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Wikipedia"><a href="/wiki/Wikimedia/Wikipedia" title="Wikimedia/Wikipedia">Wikipedia</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=17" title="Edit section: Wikipedia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Wikisource"><a href="/wiki/Wikimedia/Wikisource" title="Wikimedia/Wikisource">Wikisource</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=18" title="Edit section: Wikisource">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="Wikimedia_Foundation_projects_focused_on_policy">Wikimedia Foundation projects focused on policy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=19" title="Edit section: Wikimedia Foundation projects focused on policy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Wikimedia_Outreach">Wikimedia Outreach</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=20" title="Edit section: Wikimedia Outreach">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikimedia Outreach is an offshoot of WikiMedia and is focused on building the numerical strength of foundation projects. It purports to serve as a home for multiple outreach and collaborative initiatives with "a bookshelf, a collection of best practices, and a coordination point for any activity that is directed to the public, to cultural institutions or to universities."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Meta-focused_wiki:Strategy_wiki">Meta-focused wiki:Strategy wiki</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=21" title="Edit section: Meta-focused wiki:Strategy wiki">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Strategic planning for Wikimedia projects is an outgrowth of metawiki. In July 2009, the project began the first strategy-development project with the intention of producing a five-year strategic plan for the entire Wikimedia movement. More than 1,000 people from around the world contributed in more than 50 languages. Technologies deployed included IRC, [[Skype, mailing lists and wiki pages. The Bridgespan Group provided data andanalysis. Other important participants included Eugene Eric Kim of Blue Oxen Associates and  Wikipedian Philippe Beaudette.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Meta-focused_backstage_project:_MediaWiki">Meta-focused backstage project: MediaWiki</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=22" title="Edit section: Meta-focused backstage project: MediaWiki">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>MediaWiki<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> provides software documentation and technical discussion for projects utilizing wiki software. Meta-focused wikis such as Wikimedia Outreach and Wikimedia Strategy are specialized projects that have their roots in Meta-Wiki.
+</p>
+<h2><span class="mw-headline" id="Technologically-focused_backstage_projects">Technologically-focused backstage projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=23" title="Edit section: Technologically-focused backstage projects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Bugzilla">Bugzilla</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=24" title="Edit section: Bugzilla">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bugzilla is a bug tracker for MediaWiki. To use bugzilla you need to create an account. <sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Incubator">Incubator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=25" title="Edit section: Incubator">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Incubator is a project for potential new language versions of wiki projects.
+</p>
+<h3><span class="mw-headline" id="Wikimedia_Mailservices">Wikimedia Mailservices</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=26" title="Edit section: Wikimedia Mailservices">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikimedia Mailservices administers Wikimedia Mailing Lists.
+</p>
+<h3><span class="mw-headline" id="Wikitech">Wikitech</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=27" title="Edit section: Wikitech">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikitech is similar to mediawiki but includes server issues and overall Wikimedia technical documentation.
+</p>
+<h3><span class="mw-headline" id="Test_Wikipedia">Test Wikipedia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=28" title="Edit section: Test Wikipedia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Test Wikipedia is for testing software changes
+</p>
+<h3><span class="mw-headline" id="Wikistats">Wikistats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=29" title="Edit section: Wikistats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikistats is for collecting and processing Wikimedia statistics.
+</p>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=30" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a rel="nofollow" class="external autonumber" href="http://itdl.org/journal/jan_07/article02.htm">[1]</a>
+</p>
+<h3><span class="mw-headline" id="Wikimedia_Laboratories">Wikimedia Laboratories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=31" title="Edit section: Wikimedia Laboratories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wikimedia Laboratories is for developing new extensions and features.
+</p>
+<h2><span class="mw-headline" id="Appendixes_and_Afterword">Appendixes and Afterword</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=32" title="Edit section: Appendixes and Afterword">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Appendix_A:_List_of_Wikimedia_Foundation_Projects">Appendix A: List of Wikimedia Foundation Projects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=33" title="Edit section: Appendix A: List of Wikimedia Foundation Projects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span id="Appendix_B:_List_Non-WMF_Wiki_Projects_.28Non-Profit.29"></span><span class="mw-headline" id="Appendix_B:_List_Non-WMF_Wiki_Projects_(Non-Profit)">Appendix B: List Non-WMF Wiki Projects (Non-Profit)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=34" title="Edit section: Appendix B: List Non-WMF Wiki Projects (Non-Profit)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Contributors_and_copyright_information">Contributors and copyright information</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=35" title="Edit section: Contributors and copyright information">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Geoffery Bard initiated this wikibook and all content in the first post was based upon a Wikipedia article of which he was, at that time, the sole contributor. Much of the information was found at the introductory pages of various WMF projects.
+</p>
+<h3><span class="mw-headline" id="Other_anticipated_contributors_welcome">Other anticipated contributors welcome</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=36" title="Edit section: Other anticipated contributors welcome">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Adrignoli is an active administrator at Wikibooks and it is anticipated that Adrignoli will provide/has provided the usually excellent support and technical oversight of this project.
+Other contributors are welcome but are requested to read all text and contributor notes in place and as they may arise, including the discussion page, in order to maintain consistency of style and relevance to the topic.
+</p>
+<h3><span class="mw-headline" id="If_you_wish_to_republish">If you wish to republish</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=37" title="Edit section: If you wish to republish">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Please comply with the following, taken from <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/wiki/Home">Wikimedia website</a>: 
+</p><p>Re-use of text:
+</p><p>"Attribution: To re-distribute a text page in any form, provide credit to the authors either by including a) a hyperlink (where possible) or URL to the page or pages you are re-using, b) a hyperlink (where possible) or URL to an alternative, stable online copy which is freely accessible, which conforms with the license, and which provides credit to the authors in a manner equivalent to the credit given on this website, or c) a list of all authors. (Any list of authors may be filtered to exclude very small or irrelevant contributions.) This applies to text developed by the Wikimedia community."
+</p><p>CC-BY-SA 3.0 License and the GFDL. By using this text, you agree to provide a hyperlink or URL back to this wikibook or a lawful successor site and that is sufficient attribution under the Creative Commons license. 
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikimedia&amp;action=edit&amp;section=38" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist references" style="">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Communication_Projects_Group">"Communication Projects Group"</a><span class="printonly">.&#32;<a class="external free" href="https://meta.wikimedia.org/wiki/Communication_Projects_Group">http://meta.wikimedia.org/wiki/Communication_Projects_Group</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Communication+Projects+Group&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FCommunication_Projects_Group&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Interwiki_map">"interwiki"</a><span class="printonly">.&#32;<a class="external free" href="https://meta.wikimedia.org/wiki/Interwiki_map">http://meta.wikimedia.org/wiki/Interwiki_map</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=interwiki&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FInterwiki_map&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Wikimedia_projects">"Wikimedia projects"</a><span class="printonly">.&#32;<a class="external free" href="https://meta.wikimedia.org/wiki/Wikimedia_projects">http://meta.wikimedia.org/wiki/Wikimedia_projects</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Wikimedia+projects&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FWikimedia_projects&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://beta.wikiversity.org/wiki/Main_Page">"http://beta.wikiversity.org/wiki/Main_Page"</a><span class="printonly">.&#32;<a class="external free" href="https://beta.wikiversity.org/wiki/Main_Page">http://beta.wikiversity.org/wiki/Main_Page</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=http%3A%2F%2Fbeta.wikiversity.org%2Fwiki%2FMain_Page&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fbeta.wikiversity.org%2Fwiki%2FMain_Page&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a class="external free" href="https://strategy.wikimedia.org/wiki/Wikimedia_Movement_Strategic_Plan_Summary">http://strategy.wikimedia.org/wiki/Wikimedia_Movement_Strategic_Plan_Summary</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a class="external free" href="https://strategy.wikimedia.org/wiki/Advocacy_agendas">http://strategy.wikimedia.org/wiki/Advocacy_agendas</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://webtrends.about.com/od/wiki/a/wiki_game.htm">http://webtrends.about.com/od/wiki/a/wiki_game.htm</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://outreach.wikimedia.org/wiki/Main_Page">"Wikimedia Outreach"</a><span class="printonly">.&#32;<a class="external free" href="https://outreach.wikimedia.org/wiki/Main_Page">http://outreach.wikimedia.org/wiki/Main_Page</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Wikimedia+Outreach&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Foutreach.wikimedia.org%2Fwiki%2FMain_Page&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://strategy.wikimedia.org/wiki/Wikimedia_Movement_Strategic_Plan_Summary">"Board approved summary"</a><span class="printonly">.&#32;<a class="external free" href="https://strategy.wikimedia.org/wiki/Wikimedia_Movement_Strategic_Plan_Summary">http://strategy.wikimedia.org/wiki/Wikimedia_Movement_Strategic_Plan_Summary</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=Board+approved+summary&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fstrategy.wikimedia.org%2Fwiki%2FWikimedia_Movement_Strategic_Plan_Summary&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://www.mediawiki.org/w/index.php?title=MediaWiki&amp;oldid=65192">"MediaWiki contributors, "MediaWiki," MediaWiki, The Free Wiki Engine,"</a><span class="printonly">.&#32;<a class="external free" href="https://www.mediawiki.org/w/index.php?title=MediaWiki&amp;oldid=65192">http://www.mediawiki.org/w/index.php?title=MediaWiki&amp;oldid=65192</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=MediaWiki+contributors%2C+%22MediaWiki%2C%22+MediaWiki%2C+The+Free+Wiki+Engine%2C&amp;rft.atitle=&amp;rft_id=http%3A%2F%2Fwww.mediawiki.org%2Fw%2Findex.php%3Ftitle%3DMediaWiki%26oldid%3D65192&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation web"><a class="external text" href="https://bugzilla.wikimedia.org/docs/en/html/myaccount.html">"omitted"</a><span class="printonly">.&#32;<a class="external free" href="https://bugzilla.wikimedia.org/docs/en/html/myaccount.html">https://bugzilla.wikimedia.org/docs/en/html/myaccount.html</a></span><span class="reference-accessdate">.&#32;Retrieved May 14, 2011</span>.</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.btitle=omitted&amp;rft.atitle=&amp;rft_id=https%3A%2F%2Fbugzilla.wikimedia.org%2Fdocs%2Fen%2Fhtml%2Fmyaccount.html&amp;rfr_id=info:sid/en.wikibooks.org:Wikimedia"><span style="display: none;">&#160;</span></span></span>
+</li>
+</ol></div><div class="metadata topicon" id="status-icon"><a href="/wiki/Help:Development_stages" title="0% developed"><img alt="0% developed" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/00_percent.svg/24px-00_percent.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/00_percent.svg/36px-00_percent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/00_percent.svg/48px-00_percent.svg.png 2x" data-file-width="9" data-file-height="9" /></a></div>
+<!-- 
+NewPP limit report
+Parsed by mw1286
+Cached time: 20200201100659
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.344 seconds
+Real time usage: 0.473 seconds
+Preprocessor visited node count: 5616/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42234/2097152 bytes
+Template argument size: 11729/2097152 bytes
+Highest expansion depth: 30/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 9044/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.146/10.000 seconds
+Lua memory usage: 2.15 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  406.587      1 -total
+ 59.80%  243.130      1 Template:Shelves
+ 22.95%   93.295      1 Template:Reflist
+ 22.30%   90.657      1 Template:Subjects/leaf
+ 21.65%   88.013      1 Template:Subjects/0
+ 19.82%   80.576      8 Template:Cite_web
+ 18.02%   73.283      8 Template:Citation/core
+ 14.36%   58.376      4 Template:Subjects/1
+ 12.52%   50.910     14 Template:Evalx
+ 11.81%   48.018     14 Template:Parsable
+-->
+
+<!-- Saved in parser cache with key enwikibooks:pcache:idhash:252008-0!canonical and timestamp 20200201100658 and revision id 3650444
+ -->
+</div><noscript><img src="//en.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikibooks.org/w/index.php?title=Wikimedia&amp;oldid=3650444">https://en.wikibooks.org/w/index.php?title=Wikimedia&amp;oldid=3650444</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Book:Wikimedia" title="Category:Book:Wikimedia">Book:Wikimedia</a></li><li><a href="/wiki/Category:Shelf:Web_applications" title="Category:Shelf:Web applications">Shelf:Web applications</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_needing_sources" title="Category:Pages needing sources">Pages needing sources</a></li><li><a href="/wiki/Category:Subject:Web_applications" title="Category:Subject:Web applications">Subject:Web applications</a></li><li><a href="/wiki/Category:Subject:Web_applications/all_books" title="Category:Subject:Web applications/all books">Subject:Web applications/all books</a></li><li><a href="/wiki/Category:Subject:Computer_software/all_books" title="Category:Subject:Computer software/all books">Subject:Computer software/all books</a></li><li><a href="/wiki/Category:Subject:Computing/all_books" title="Category:Subject:Computing/all books">Subject:Computing/all books</a></li><li><a href="/wiki/Category:Subject:Books_by_subject/all_books" title="Category:Subject:Books by subject/all books">Subject:Books by subject/all books</a></li><li><a href="/wiki/Category:Subject:Internet/all_books" title="Category:Subject:Internet/all books">Subject:Internet/all books</a></li><li><a href="/wiki/Category:Book:Wikibooks_Stacks/Books" title="Category:Book:Wikibooks Stacks/Books">Book:Wikibooks Stacks/Books</a></li><li><a href="/wiki/Category:Shelf:Web_applications/all_books" title="Category:Shelf:Web applications/all books">Shelf:Web applications/all books</a></li><li><a href="/wiki/Category:Shelf:Computer_software/all_books" title="Category:Shelf:Computer software/all books">Shelf:Computer software/all books</a></li><li><a href="/wiki/Category:Department:Computing/all_books" title="Category:Department:Computing/all books">Department:Computing/all books</a></li><li><a href="/wiki/Category:Shelf:Internet/all_books" title="Category:Shelf:Internet/all books">Shelf:Internet/all books</a></li><li><a href="/wiki/Category:Alphabetical/W" title="Category:Alphabetical/W">Alphabetical/W</a></li><li><a href="/wiki/Category:Freshly_started_books" title="Category:Freshly started books">Freshly started books</a></li><li><a href="/wiki/Category:Books_by_completion_status/all_books" title="Category:Books by completion status/all books">Books by completion status/all books</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Discussion for this IP address</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikimedia&amp;returntoquery=oldid%3D3650444" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikimedia&amp;returntoquery=oldid%3D3650444" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Wikimedia" title="View the content page [c]" accesskey="c">Book</a></li><li id="ca-talk"><a href="/wiki/Talk:Wikimedia" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikimedia">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikimedia&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikimedia&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikibooks" title="Search Wikibooks [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Navigation"  aria-labelledby="p-Navigation-label">
+	<h3  id="p-Navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main Page</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="Find help on how to use and edit Wikibooks">Help</a></li><li id="n-Browse"><a href="/wiki/Wikibooks:Card_Catalog_Office" title="Check out what Wikibooks has to offer">Browse</a></li><li id="n-Cookbook"><a href="/wiki/Cookbook:Table_of_Contents" title="Learn recipes from around the world">Cookbook</a></li><li id="n-Wikijunior"><a href="/wiki/Wikijunior" title="Books for children">Wikijunior</a></li><li id="n-Featured-books"><a href="/wiki/Wikibooks:Featured_books" title="The best of Wikibooks">Featured books</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikibooks.org&amp;uselang=en" title="Support Wikibooks">Donations</a></li><li id="n-randomrootpage"><a href="/wiki/Special:RandomInCategory/Book:Wikibooks_Stacks/Books">Random book</a></li><li id="n-Using-Wikibooks"><a href="/wiki/Using_Wikibooks">Using Wikibooks</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Community"  aria-labelledby="p-Community-label">
+	<h3  id="p-Community-label">
+		Community
+	</h3>
+	<div class="body">
+		<ul><li id="n-Reading-room"><a href="/wiki/Wikibooks:Reading_room" title="Discuss Wikibooks-related questions and concerns with others">Reading room</a></li><li id="n-portal"><a href="/wiki/Wikibooks:Community_Portal" title="Find your way around the Wikibooks community">Community portal</a></li><li id="n-currentevents"><a href="/wiki/Wikibooks:Reading_room/Bulletin_Board" title="Important community news">Bulletin Board</a></li><li id="n-maintenance"><a href="/wiki/Wikibooks:Maintenance" title="Frequent tasks that you can help with">Help out!</a></li><li id="n-Policies-and-guidelines"><a href="/wiki/Wikibooks:Policies_and_guidelines" title="Pages detailing important rules and procedures">Policies and guidelines</a></li><li id="n-contact"><a href="/wiki/Wikibooks:Contact_us" title="Alternative methods of communication">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikimedia" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikimedia" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikimedia&amp;oldid=3650444" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikimedia&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3568028" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wikimedia&amp;id=3650444" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-az"><a href="https://az.wikibooks.org/wiki/Vikimedia" title="Vikimedia – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikibooks.org/wiki/Manual_wiki" title="Manual wiki – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikibooks.org/wiki/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C_%D8%A8%D8%A7_%D9%88%DB%8C%DA%A9%DB%8C_%D9%87%D8%A7" title="آشنایی با ویکی ها – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikibooks.org/wiki/Wikimedia" title="Wikimedia – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikibooks.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AE%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="विकिमीडिया – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikibooks.org/wiki/Wikimedia" title="Wikimedia – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3568028#sitelinks-wikibooks" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Sister projects"  aria-labelledby="p-Sister projects-label">
+	<h3  id="p-Sister projects-label">
+		Sister projects
+	</h3>
+	<div class="body">
+		<ul><li id="n-Wikipedia"><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li><li id="n-Wikiversity"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page">Wikiversity</a></li><li id="n-Wiktionary"><a href="https://en.wiktionary.org/wiki/Wiktionary:Main_Page">Wiktionary</a></li><li id="n-Wikiquote"><a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></li><li id="n-Wikisource"><a href="https://en.wikisource.org/wiki/Main_Page">Wikisource</a></li><li id="n-Wikinews"><a href="https://en.wikinews.org/wiki/Main_Page">Wikinews</a></li><li id="n-Wikivoyage"><a href="https://en.wikivoyage.org/wiki/Main_Page">Wikivoyage</a></li><li id="n-Commons"><a href="https://commons.wikimedia.org/wiki/Main_Page">Commons</a></li><li id="n-Wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page">Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		In other projects
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wikimedia_movement" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Wikimedia_movement" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Help:Wikimedia" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://en.wikinews.org/wiki/Category:Wikimedia" hreflang="en">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://en.wikipedia.org/wiki/Wikimedia_movement" hreflang="en">Wikipedia</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Wikimedia" hreflang="en">Wikiversity</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikimedia">Create a collection</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikimedia&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikimedia&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 7 January 2020, at 10:53.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License.</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikibooks:Welcome" title="Wikibooks:Welcome">About Wikibooks</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikibooks:General_disclaimer" title="Wikibooks:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikibooks.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikibooks.org/w/index.php?title=Wikimedia&amp;oldid=3650444&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.473","ppvisitednodes":{"value":5616,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42234,"limit":2097152},"templateargumentsize":{"value":11729,"limit":2097152},"expansiondepth":{"value":30,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":9044,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  406.587      1 -total"," 59.80%  243.130      1 Template:Shelves"," 22.95%   93.295      1 Template:Reflist"," 22.30%   90.657      1 Template:Subjects/leaf"," 21.65%   88.013      1 Template:Subjects/0"," 19.82%   80.576      8 Template:Cite_web"," 18.02%   73.283      8 Template:Citation/core"," 14.36%   58.376      4 Template:Subjects/1"," 12.52%   50.910     14 Template:Evalx"," 11.81%   48.018     14 Template:Parsable"]},"scribunto":{"limitreport-timeusage":{"value":"0.146","limit":"10.000"},"limitreport-memusage":{"value":2258257,"limit":52428800}},"cachereport":{"origin":"mw1286","timestamp":"20200201100659","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wikimedia","url":"https:\/\/en.wikibooks.org\/wiki\/Wikimedia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3568028","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3568028","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-05T00:42:01Z","dateModified":"2020-01-07T10:53:06Z","headline":"social movement around Wikimedia including content publications, Wikimedia organizations, and independent editors"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1268"});});</script></body></html>

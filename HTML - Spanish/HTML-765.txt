@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="uk" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Вікіцитати</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","січень","лютий","березень","квітень","травень","червень","липень","серпень","вересень","жовтень","листопад","грудень"],"wgMonthNamesShort":["","січ","лют","бер","квіт","трав","чер","лип","сер","вер","жов","лис","груд"],"wgRequestId":"XldB2ApAICwAAEtqJ7oAAABU","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Головна_сторінка","wgTitle":"Головна сторінка","wgCurRevisionId":92289,"wgRevisionId":92289,"wgArticleId":1,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Головна"],"wgPageContentLanguage":"uk",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Головна_сторінка","wgRelevantArticleId":1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgIsMainPage":!0,"wgRedirectedFrom":"Головна_стаття","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"uk","pageLanguageDir":"ltr","pageVariantFallbacks":"uk"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"українська","wgNoticeProject":"wikiquote","wgInternalRedirectTargetUrl":"/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready"
+,"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1tqge",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"uk"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=uk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="shortcut icon" href="/static/favicon/wikiquote.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Вікіцитати (uk)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//uk.wikiquote.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Вікіцитати — Atom-стрічка" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&amp;feed=atom"/>
+<link rel="canonical" href="https://uk.wikiquote.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Головна_сторінка rootpage-Головна_сторінка skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="uk">Головна сторінка</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Матеріал з Вікіцитат</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Перенаправлено з <a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F&amp;redirect=no" class="mw-redirect" title="Головна стаття">Головна стаття</a>)</span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти до навігації</a>
+		<a class="mw-jump-link" href="#p-search">Перейти до пошуку</a>
+		<div id="mw-content-text" lang="uk" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="margin:0px 0px 0px 0px; background:none;">
+<tbody><tr>
+<td class="MainPageBG" style="width:10%; border:3px solid #CEDFF2; background:white; vertical-align:top; color:#000;">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:white;">
+
+<tbody><tr>
+<td style="color:#000;"><div style="text-align:left; margin: 0; padding: 0; font-size:190%;"><b>Ласкаво просимо до українських <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D1%80%D0%BE_%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Вікіцитати:Про Вікіцитати">Вікіцитат</a>,</b><div class="floatright"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikiquote-it-Testata.jpg" class="image"><img alt="Wikiquote-it-Testata.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wikiquote-it-Testata.jpg/395px-Wikiquote-it-Testata.jpg" decoding="async" width="395" height="92" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Wikiquote-it-Testata.jpg/593px-Wikiquote-it-Testata.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/6a/Wikiquote-it-Testata.jpg 2x" data-file-width="608" data-file-height="142" /></a></div></div>
+<div style="text-align:left; padding: 0; margin: 0; font-size:96%;">вільної збірки цитат і афоризмів, яку кожний може редагувати. <br />Станом на 27 лютого 2020 року проект налічує <b><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Спеціальна:Статистика">6188</a></b> статей.</div>
+<p><br />
+<br />
+</p>
+<hr />
+<center> <small><b> Категорії: <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" title="Категорія:Головна">Головна</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Категорія:Вікіцитати">Службові</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0" title="Категорія:Культура">Культура</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B0" title="Категорія:Природа">Природа</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A0%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D1%8F" title="Категорія:Релігія">Релігія</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F" title="Категорія:Історія">Історія</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%96%D1%97" title="Категорія:Персоналії">Персоналії</a>&#160;— <a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D0%BA%D0%B0" title="Категорія:Економіка">Економіка</a> </b></small> </center>
+<hr />
+<center> <small>English: <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0" title="Вікіцитати:Кнайпа">Forum</a>&#160;— <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%91%D0%BE%D1%82%D0%B8" title="Вікіцитати:Боти">Bot status</a>&#160;— <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%97%D0%B0%D0%BF%D0%B8%D1%82%D0%B8_%D0%B4%D0%BE_%D0%B0%D0%B4%D0%BC%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%96%D0%B2" title="Вікіцитати:Запити до адміністраторів">Requests to sysops &amp; 'crats</a></small> </center>
+<hr />
+</td></tr></tbody></table>
+<table style="background:none;">
+</table><table style="margin:0px 0px 0px 0px; background:none;">
+<tbody><tr>
+<td style="width:50%; border:2px solid #CEDFF2; background:white; vertical-align:top; color:#000;">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:none;">
+<tbody><tr>
+<th><h2 style="margin:0; background:#CEDFF2; font-weight:bold; font-size:120%; border:1px solid lightblue; text-align:left; color:#000; padding:0.2em 0.4em;"><span id="_.D0.A6.D0.B8.D1.82.D0.B0.D1.82.D0.B0_.D0.B4.D0.BD.D1.8F"></span><span class="mw-headline" id="_Цитата_дня"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Nuvola_filesystems_services.svg" class="image" title="Цитата дня"><img alt="Цитата дня" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nuvola_filesystems_services.svg/20px-Nuvola_filesystems_services.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nuvola_filesystems_services.svg/30px-Nuvola_filesystems_services.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nuvola_filesystems_services.svg/40px-Nuvola_filesystems_services.svg.png 2x" data-file-width="160" data-file-height="160" /></a>&#160;<font color="blue"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0_%D0%B4%D0%BD%D1%8F" title="Вікіцитати:Цитата дня">Цитата дня</a></font></span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">
+<table style="width:100%">
+
+<tbody><tr>
+<td>
+<table style="width:100%;">
+
+<tbody><tr>
+<td>
+<table cellspacing="0" style="background-color:transparent;text-align:left;padding-bottom:1ex">
+
+<tbody><tr>
+<td valign="top" style="width:1em;"><ul style="margin-top:-0.5ex;"><li>&#160;</li></ul></td>
+<td><div style="margin-top:-1ex;margin-bottom:-1ex" class="poem">
+<p>У порівнянні з письменництвом скачки — солідний, надійний <a href="/wiki/%D0%91%D1%96%D0%B7%D0%BD%D0%B5%D1%81" title="Бізнес">бізнес</a>
+</p>
+</div>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>&#160;
+</td>
+<td style="color:#666666;font-style:italic;padding-left:4ex"><div style="margin-top:-1ex;margin-bottom:-1ex" class="poem">
+<p>The profession of book-writing makes horse-racing seem like a solid, stable business
+</p>
+</div>
+</td></tr>
+<tr>
+<td>&#160;
+</td>
+<td style="padding-left:4ex;">— <a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%A1%D1%82%D0%B5%D0%B9%D0%BD%D0%B1%D0%B5%D0%BA" title="Джон Стейнбек">Джон Стейнбек</a>
+</td></tr>
+
+</tbody></table>
+</td></tr>
+<tr>
+<td style="text-align:right; font-size:90%;">Цю та інші цитати Ви можете знайти на сторінці <a href="/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%A1%D1%82%D0%B5%D0%B9%D0%BD%D0%B1%D0%B5%D0%BA" title="Джон Стейнбек">Джон Стейнбек</a>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td>
+<td style="border:1px solid transparent">
+</td>
+<td style="width:50%; border:2px solid #CEDFF2; background:white; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:none;">
+<tbody><tr>
+<th><h2 style="margin:0; background:#CEDFF2; font-size:120%; font-weight:bold; border:1px solid lightblue; text-align:left; color:#000; padding:0.2em 0.4em;"><span id="_.D0.97.D0.BC.D1.96.D1.81.D1.82"></span><span class="mw-headline" id="_Зміст"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Postscript-viewer.svg" class="image" title="Зміст"><img alt="Зміст" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postscript-viewer.svg/20px-Postscript-viewer.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postscript-viewer.svg/30px-Postscript-viewer.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postscript-viewer.svg/40px-Postscript-viewer.svg.png 2x" data-file-width="60" data-file-height="60" /></a>&#160;<font color="blue">Зміст</font></span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;"><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%96%D1%97_%D0%B7%D0%B0_%D0%BF%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%96%D1%94%D1%8E" title="Категорія:Персоналії за професією">Автори за фахом</a></b>: <small>
+</small><p><small><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%BA%D1%82%D0%BE%D1%80%D0%B8" title="Категорія:Актори">Актори</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D1%80%D1%85%D1%96%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8" title="Категорія:Архітектори">Архітектори</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D1%84%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8" title="Категорія:Афористи">Афористи‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D0%B8" title="Категорія:Богослови">Богослови</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%91%D0%BE%D1%82%D0%B0%D0%BD%D1%96%D0%BA%D0%B8" title="Категорія:Ботаніки">Ботаніки</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8" title="Категорія:Військовики">Військовики‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D0%B8%D0%BD%D0%B0%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8" title="Категорія:Винахідники">Винахідники‎</a> •  
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D0%B8" title="Категорія:Генерали">Генерали‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8" title="Категорія:Географи">Географи</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%81%D1%8C%D0%BA%D1%96_%D0%B4%D1%96%D1%8F%D1%87%D1%96" title="Категорія:Громадські діячі">Громадські діячі</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D1%83%D0%BC%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8" title="Категорія:Гумористи">Гумористи‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D0%B8%D0%BA%D1%82%D0%B0%D1%82%D0%BE%D1%80%D0%B8" title="Категорія:Диктатори">Диктатори</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D0%B8" title="Категорія:Дипломати">Дипломати</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3%D0%B8" title="Категорія:Драматурги">Драматурги</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%94%D1%83%D0%B5%D1%82%D0%B8" title="Категорія:Дуети">Дуети‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%95%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%81%D1%82%D0%B8" title="Категорія:Економісти">Економісти‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%96%D1%83%D1%80%D0%BD%D0%B0%D0%BB%D1%96%D1%81%D1%82%D0%B8" title="Категорія:Журналісти">Журналісти</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%97%D0%BB%D0%BE%D1%87%D0%B8%D0%BD%D1%86%D1%96" title="Категорія:Злочинці">Злочинці‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8" title="Категорія:Композитори">Композитори‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BD%D0%B0%D0%B2%D1%82%D0%B8" title="Категорія:Космонавти">Космонавти</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D0%BA%D0%B8" title="Категорія:Критики">Критики</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9B%D1%96%D0%BA%D0%B0%D1%80%D1%96" title="Категорія:Лікарі">Лікарі‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9B%D1%8C%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B8" title="Категорія:Льотчики">Льотчики‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9C%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B8" title="Категорія:Математики">Математики‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9C%D0%BE%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D1%86%D1%96" title="Категорія:Мовознавці">Мовознавці‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9C%D1%83%D0%B7%D0%B8%D0%BA%D0%B0%D0%BD%D1%82%D0%B8" title="Категорія:Музиканти">Музиканти‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9D%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D1%86%D1%96" title="Категорія:Науковці">Науковці</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9E%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8" title="Категорія:Оратори">Оратори‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D1%96%D0%B4%D0%BF%D1%80%D0%B8%D1%94%D0%BC%D1%86%D1%96" title="Категорія:Підприємці">Підприємці</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8" title="Категорія:Педагоги">Педагоги</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D1%87%D1%96" title="Категорія:Перекладачі">Перекладачі‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%B8" title="Категорія:Письменники">Письменники‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B8" title="Категорія:Політики">Політики</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%96%D1%81%D1%82%D0%B8" title="Категорія:Програмісти">Програмісти‎</a> • 
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A0%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D0%BE%D0%BD%D0%B5%D1%80%D0%B8" title="Категорія:Революціонери">Революціонери‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A0%D0%B5%D0%B6%D0%B8%D1%81%D0%B5%D1%80%D0%B8" title="Категорія:Режисери">‎Режисери‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A0%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D0%B9%D0%BD%D1%96_%D0%B4%D1%96%D1%8F%D1%87%D1%96" title="Категорія:Релігійні діячі">Релігійні діячі‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D0%B0%D1%82%D0%B8%D1%80%D0%B8%D0%BA%D0%B8" title="Категорія:Сатирики">‎Сатирики</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D0%B8" title="Категорія:Скульптори">‎Скульптори‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D0%BF%D1%96%D0%B2%D0%B0%D0%BA%D0%B8" title="Категорія:Співаки">Співаки‎‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D0%B8" title="Категорія:Спортсмени">‎Спортсмени‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%B8" title="Категорія:Сценаристи">Сценаристи‎‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A4%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8" title="Категорія:Філософи">Філософи‎‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%96%D1%81%D1%82%D0%B8" title="Категорія:Футболісти">Футболісти</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A5%D1%96%D0%BC%D1%96%D0%BA%D0%B8" title="Категорія:Хіміки">‎Хіміки‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8" title="Категорія:Художники">Художники‎‎</a> •
+<a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A8%D0%B0%D1%85%D1%96%D1%81%D1%82%D0%B8" title="Категорія:Шахісти">‎Шахісти</a></small>
+</p>
+<b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8_%D0%B7%D0%B0_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D1%96%D1%82%D0%BE%D0%BC" title="Категорія:Автори за алфавітом">Автори за алфавітом</a></b>: <center><small>
+<table class="wikitable" align="center">
+
+<tbody><tr>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%90" title="Категорія:Автори-А">А</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%91" title="Категорія:Автори-Б">Б</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%92" title="Категорія:Автори-В">В</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%93" title="Категорія:Автори-Г">Г</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D2%90" title="Категорія:Автори-Ґ">Ґ</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%94" title="Категорія:Автори-Д">Д</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%95" title="Категорія:Автори-Е">Е</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%84" title="Категорія:Автори-Є">Є</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%96" title="Категорія:Автори-Ж">Ж</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%97" title="Категорія:Автори-З">З</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%98" title="Категорія:Автори-И">И</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%86" title="Категорія:Автори-І">І</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%87" title="Категорія:Автори-Ї">Ї</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%99" title="Категорія:Автори-Й">Й</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%9A" title="Категорія:Автори-К">К</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%9B" title="Категорія:Автори-Л">Л</a></b>
+</td></tr>
+<tr>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%9C" title="Категорія:Автори-М">М</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%9D" title="Категорія:Автори-Н">Н</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%9E" title="Категорія:Автори-О">О</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%9F" title="Категорія:Автори-П">П</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A0" title="Категорія:Автори-Р">Р</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A1" title="Категорія:Автори-С">С</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A2" title="Категорія:Автори-Т">Т</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A3" title="Категорія:Автори-У">У</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A4" title="Категорія:Автори-Ф">Ф</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A5" title="Категорія:Автори-Х">Х</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A6" title="Категорія:Автори-Ц">Ц</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A7" title="Категорія:Автори-Ч">Ч</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A8" title="Категорія:Автори-Ш">Ш</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%A9" title="Категорія:Автори-Щ">Щ</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%AE" title="Категорія:Автори-Ю">Ю</a></b></td>
+<td><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8-%D0%AF" title="Категорія:Автори-Я">Я</a></b>
+</td></tr></tbody></table></small></center>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table style="margin:0px 0px 0px 0px; background:none;">
+<tbody><tr>
+<td style="width:68%; border:2px solid #CEDFF2; background:white; vertical-align:top; color:#000;">
+<table width="100%" cellpadding="1" cellspacing="5" style="vertical-align:top; background:none;">
+<tbody><tr>
+<th><h2 style="margin:0; background:#CEDFF2; font-size:120%; font-weight:bold; border:1px solid lightblue; text-align:left; color:#000; padding:0.2em 0.4em;"><span id="_.D0.92.D0.B8.D0.B1.D1.80.D0.B0.D0.BD.D1.96_.D1.81.D1.82.D0.B0.D1.82.D1.82.D1.96"></span><span class="mw-headline" id="_Вибрані_статті"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pergamena.png" class="image" title="Вибрані статті"><img alt="Вибрані статті" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pergamena.png/20px-Pergamena.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pergamena.png/30px-Pergamena.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pergamena.png/40px-Pergamena.png 2x" data-file-width="205" data-file-height="205" /></a>&#160;<font color="blue"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Вікіцитати:Вибрані цитати">Вибрані статті</a></font></span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;"><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%96%D1%97" title="Категорія:Персоналії">Персоналії</a></b>:<small>
+</small><p><small><b><a href="/wiki/Oxxxymiron" title="Oxxxymiron">Oxxxymiron</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+•
+<a href="/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82%D0%B5%D1%80" title="Вольтер">Вольтер</a> • 
+<a href="/wiki/%D0%99%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B3%D0%B0%D0%BD%D0%B3_%D1%84%D0%BE%D0%BD_%D0%93%D0%B5%D1%82%D0%B5" title="Йоганн Вольфганг фон Гете">Йоганн Вольфганг фон Ґете</a> • 
+<a href="/wiki/%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%B4%D0%B5_%D0%A1%D0%B5%D0%BD%D1%82-%D0%95%D0%BA%D0%B7%D1%8E%D0%BF%D0%B5%D1%80%D1%96" title="Антуан де Сент-Екзюпері">Антуан де Сент-Екзюпері</a> • 
+<b><a href="/wiki/%D0%9C%D1%96%D0%BA%D0%B5%D0%BB%D0%B0%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%BE_%D0%91%D1%83%D0%BE%D0%BD%D0%B0%D1%80%D1%80%D0%BE%D1%82%D1%96" title="Мікеланджело Буонарроті">Мікеланджело Буонарроті</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<a href="/wiki/%D0%94%D0%BE%D0%B2%D0%B6%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Довженко Олександр Петрович">Олександр Довженко</a> • 
+<a href="/wiki/%D0%94%D0%BE%D1%81%D1%82%D0%BE%D1%94%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%A4%D0%B5%D0%B4%D1%96%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Достоєвський Федір Михайлович">Федір Достоєвський</a> • 
+<a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%95%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD" title="Альберт Ейнштейн">Альберт Ейнштейн</a> • 
+<a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D1%83%D1%86%D1%96%D0%B9" title="Конфуцій">Конфуцій</a> • 
+<a href="/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE_(%D0%B0%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D0%BB)" title="Павло (апостол)">Павло (апостол)</a> • 
+<a href="/wiki/%D0%A1%D0%B0%D0%B4%D0%BE%D0%B2%D0%B8%D0%B9_%D0%90%D0%BD%D0%B4%D1%80%D1%96%D0%B9_%D0%86%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Садовий Андрій Іванович">Андрій&#160;Садовий</a> • 
+<a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D1%96%D1%81%D0%BB%D0%B0%D0%B2_%D0%84%D0%B6%D0%B8_%D0%9B%D1%94%D1%86" title="Станіслав Єжи Лєц">Станіслав Єжи Лєц</a> • 
+<a href="/wiki/%D0%A1%D0%BA%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%B4%D0%B0_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%96%D0%B9_%D0%A1%D0%B0%D0%B2%D0%B8%D1%87" title="Сковорода Григорій Савич">Григорій Сковорода</a> • 
+<b><a href="/wiki/%D0%A1%D0%BB%D1%96%D0%BF%D0%B0%D0%BA_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BE%D0%B2%D0%B8%D1%87" title="Сліпак Василь Ярославович">Василь Сліпак</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+•
+<a href="/wiki/%D0%A1%D0%BE%D0%BA%D1%80%D0%B0%D1%82" title="Сократ">Сократ</a> • 
+<a href="/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%BC%D0%BB%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Сухомлинський Василь Олександрович">Василь Сухомлинський</a> • 
+<b><a href="/wiki/%D0%A4%D0%B5%D0%B4%D1%83%D0%BD_%D0%9F%D0%B5%D1%82%D1%80%D0%BE_%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%D0%BE%D0%B2%D0%B8%D1%87" title="Федун Петро Миколайович">Петро Федун</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+•
+<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE_%D0%86%D0%B2%D0%B0%D0%BD_%D0%AF%D0%BA%D0%BE%D0%B2%D0%B8%D1%87" title="Франко Іван Якович">Іван Франко</a> • 
+<a href="/wiki/%D0%86%D1%81%D1%83%D1%81_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81" title="Ісус Христос">Ісус Христос</a> •
+<a href="/wiki/%D0%92%D1%96%D0%BD%D1%81%D1%82%D0%BE%D0%BD_%D0%A7%D0%B5%D1%80%D1%87%D0%B8%D0%BB%D0%BB%D1%8C" title="Вінстон Черчилль">Вінстон Черчилль</a> • 
+<a href="/wiki/%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%A2%D0%B0%D1%80%D0%B0%D1%81_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Шевченко Тарас Григорович">Тарас Шевченко</a> • 
+<a href="/wiki/%D0%92%D1%96%D0%BB%D1%8C%D1%8F%D0%BC_%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D1%96%D1%80" title="Вільям Шекспір">Вільям Шекспір</a> • 
+<a href="/wiki/%D0%99%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD-%D0%A4%D1%80%D1%96%D0%B4%D1%80%D1%96%D1%85_%D0%A8%D0%B8%D0%BB%D0%BB%D0%B5%D1%80" title="Йоганн-Фрідріх Шиллер">Йоганн-Фрідріх Шиллер</a> • 
+<a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4_%D0%A8%D0%BE%D1%83" title="Бернард Шоу">Бернард Шоу</a> </small>
+</p><p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9B%D1%96%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D1%96_%D1%82%D0%B2%D0%BE%D1%80%D0%B8" title="Категорія:Літературні твори">Літературні твори</a></b>:<small>
+</small></p><p><small><b><a href="/wiki/%D0%91%D0%B5%D1%80%D0%B5%D1%81%D1%82%D0%B5%D1%87%D0%BA%D0%BE_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Берестечко (роман)">Берестечко</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+•
+<a href="/wiki/%D0%93%D1%96%D0%BC%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Гімн (роман)">Гімн</a> •
+<a href="/wiki/%D0%93%D1%80%D0%B5%D0%BA_%D0%97%D0%BE%D1%80%D0%B1%D0%B0" title="Грек Зорба">Грек Зорба</a> •
+<b><a href="/wiki/%D0%97%D0%B0%D1%85%D0%B0%D1%80_%D0%91%D0%B5%D1%80%D0%BA%D1%83%D1%82_(%D0%BF%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C)" title="Захар Беркут (повість)">Захар Беркут</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<b><a href="/wiki/%D0%9B%D1%96%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D1%96%D1%81%D0%BD%D1%8F" title="Лісова пісня">Лісова пісня</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<a href="/wiki/%D0%9C%D1%96%D1%81%D1%82%D0%BE_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Місто (роман)">Місто</a> •
+<a href="/wiki/%D0%9D%D0%B0_%D0%97%D0%B0%D1%85%D1%96%D0%B4%D0%BD%D0%BE%D0%BC%D1%83_%D1%84%D1%80%D0%BE%D0%BD%D1%82%D1%96_%D0%B1%D0%B5%D0%B7_%D0%B7%D0%BC%D1%96%D0%BD" title="На Західному фронті без змін">На Західному фронті без змін</a> •
+<a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%B8%D0%B9_%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9_%D1%81%D0%B2%D1%96%D1%82" title="Прекрасний новий світ">Прекрасний новий світ</a> •
+<a href="/wiki/%D0%9F%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C_%D0%B2%D1%80%D0%B5%D0%BC%27%D1%8F%D0%BD%D0%B8%D1%85_%D0%BB%D1%96%D1%82" title="Повість врем&#39;яних літ">Повість врем'яних літ</a> •
+<a href="/wiki/%D0%A0%D0%B5%D0%B2%D1%96%D0%B7%D0%BE%D1%80" title="Ревізор">Ревізор</a> •
+<a href="/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD_%D0%BF%D1%80%D0%BE_%D0%BB%D1%8E%D0%B4%D1%81%D1%8C%D0%BA%D0%B5_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F" title="Роман про людське призначення">Роман про людське призначення</a> •
+<a href="/wiki/%D0%A1%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C_%D1%83_%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96" title="Самотність у мережі">Самотність у мережі</a> •
+<a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D1%87%D0%B5_%D1%81%D0%B5%D1%80%D1%86%D0%B5" title="Собаче серце">Собаче серце</a> •
+<a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)" title="Собор (роман)">Собор</a> •
+<b><a href="/wiki/%D0%A2%D0%B0%D0%BA_%D0%BA%D0%B0%D0%B7%D0%B0%D0%B2_%D0%97%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%81%D1%82%D1%80%D0%B0" title="Так казав Заратустра">Так казав Заратустра</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+</small>
+</p><p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A4%D1%96%D0%BB%D1%8C%D0%BC%D0%B8" title="Категорія:Фільми">Фільми</a></b>:<small>
+</small></p><p><small><a href="/wiki/007:_%D0%9A%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%82%D0%B8_%C2%AB%D0%A1%D0%BA%D0%B0%D0%B9%D1%84%D0%BE%D0%BB%D0%BB%C2%BB" title="007: Координати «Скайфолл»">007: Координати «Скайфолл»</a> • 
+<a href="/wiki/%D0%86%D0%B3%D1%80%D0%B8_%D1%80%D0%BE%D0%B7%D1%83%D0%BC%D1%83_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="Ігри розуму (фільм)">Ігри розуму</a> • 
+<a href="/wiki/%D0%91%D1%96%D0%B9%D1%86%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="Бійцівський клуб (фільм)">Бійцівський клуб</a> • 
+<a href="/wiki/%D0%91%D0%B5%D0%B7%D1%81%D0%BB%D0%B0%D0%B2%D0%BD%D1%96_%D0%B2%D0%B8%D1%80%D0%BE%D0%B4%D0%BA%D0%B8" title="Безславні виродки">Безславні виродки</a> • 
+<a href="/wiki/%D0%91%D1%80%D0%B0%D1%82_2" title="Брат 2">Брат 2</a> • 
+<a href="/wiki/%D0%92%D1%82%D0%B5%D1%87%D0%B0_%D0%B7_%D0%A8%D0%BE%D1%83%D1%88%D0%B5%D0%BD%D0%BA%D0%B0" title="Втеча з Шоушенка">Втеча з Шоушенка</a> • 
+<a href="/wiki/%D0%94%D0%B5%D0%B4%D0%BF%D1%83%D0%BB_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="Дедпул (фільм)">Дедпул</a> • 
+<a href="/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B8%D0%BB%D1%8F_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="Зелена миля (фільм)">Зелена миля</a> • 
+<a href="/wiki/%D0%86%D0%BD%D1%82%D0%B5%D1%80%D1%81%D1%82%D0%B5%D0%BB%D0%BB%D0%B0%D1%80" title="Інтерстеллар">Інтерстеллар</a> • 
+<b><a href="/wiki/%D0%9A%D1%96%D0%BC%D0%BD%D0%B0%D1%82%D0%B0_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC,_2003)" title="Кімната (фільм, 2003)">Кімната</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<a href="/wiki/%D0%9A%D1%80%D0%B8%D0%BC%D1%96%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5_%D1%87%D1%82%D0%B8%D0%B2%D0%BE" title="Кримінальне чтиво">Кримінальне чтиво</a> • 
+<a href="/wiki/%D0%9B%D0%BE%D2%91%D0%B0%D0%BD:_%D0%A0%D0%BE%D1%81%D0%BE%D0%BC%D0%B0%D1%85%D0%B0" title="Лоґан: Росомаха">Лоґан: Росомаха</a> • 
+<a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0_%D1%81%D0%BB%D1%8C%D0%BE%D0%B7%D0%B0%D0%BC_%D0%BD%D0%B5_%D0%B2%D1%96%D1%80%D0%B8%D1%82%D1%8C" title="Москва сльозам не вірить">Москва сльозам не вірить</a> • 
+<a href="/wiki/%D0%9E%D1%81%D1%96%D0%BD%D0%BD%D1%96%D0%B9_%D0%BC%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD" title="Осінній марафон">Осінній марафон</a> • 
+<a href="/wiki/%D0%9F%D1%96%D1%80%D0%B0%D1%82%D0%B8_%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F:_%D0%9F%D0%BE%D0%BC%D1%81%D1%82%D0%B0_%D0%A1%D0%B0%D0%BB%D0%B0%D0%B7%D0%B0%D1%80%D0%B0" title="Пірати Карибського моря: Помста Салазара">Пірати Карибського моря: Помста Салазара</a> • 
+<a href="/wiki/%D0%9F%D0%BE%D1%85%D0%BC%D1%96%D0%BB%D0%BB%D1%8F_%D1%83_%D0%92%D0%B5%D0%B3%D0%B0%D1%81%D1%96" title="Похмілля у Вегасі">Похмілля у Вегасі</a> • 
+<a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%A8%D0%B8%D0%BD%D0%B4%D0%BB%D0%B5%D1%80%D0%B0" title="Список Шиндлера">Список Шиндлера</a> • 
+<a href="/wiki/%D0%A2%D0%BE%D0%B9%D0%A5%D1%82%D0%BE%D0%9F%D1%80%D0%BE%D0%B9%D1%88%D0%BE%D0%B2%D0%9A%D1%80%D1%96%D0%B7%D1%8C%D0%92%D0%BE%D0%B3%D0%BE%D0%BD%D1%8C" title="ТойХтоПройшовКрізьВогонь">ТойХтоПройшовКрізьВогонь</a> • 
+<a href="/wiki/%D0%A5%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B9_%D0%B1%D0%B0%D1%82%D1%8C%D0%BA%D0%BE_(%D1%84%D1%96%D0%BB%D1%8C%D0%BC)" title="Хрещений батько (фільм)">Хрещений батько</a></small>
+</p><p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9C%D1%83%D0%B7%D0%B8%D1%87%D0%BD%D1%96_%D0%B3%D1%83%D1%80%D1%82%D0%B8" title="Категорія:Музичні гурти">Музичні гурти</a></b>:<small>
+</small></p><p><small><a href="/wiki/DZIDZIO" title="DZIDZIO">DZIDZIO</a> • 
+<b><a href="/wiki/Morphine_Suffering" title="Morphine Suffering">Morphine Suffering</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<b><a href="/wiki/Muse" title="Muse">Muse</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a> • 
+<a href="/wiki/%D0%91%D1%80%D0%B0%D1%82%D0%B8_%D0%93%D0%B0%D0%B4%D1%8E%D0%BA%D1%96%D0%BD%D0%B8" title="Брати Гадюкіни">Брати Гадюкіни</a> • 
+<a href="/wiki/%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD_%D0%95%D0%BB%D1%8C%D0%B7%D0%B8" title="Океан Ельзи">Океан Ельзи</a> • 
+<a href="/wiki/%D0%A1%D0%9A%D0%90%D0%99" title="СКАЙ">СКАЙ</a> • 
+<a href="/wiki/%D0%A2%D0%B0%D0%BD%D0%BE%D0%BA_%D0%BD%D0%B0_%D0%BC%D0%B0%D0%B9%D0%B4%D0%B0%D0%BD%D1%96_%D0%9A%D0%BE%D0%BD%D2%91%D0%BE" title="Танок на майдані Конґо">Танок на майдані Конґо</a></small>
+</p><p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%9F%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F_%D1%82%D0%B0_%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D1%96%D0%B2_%D1%81%D0%B2%D1%96%D1%82%D1%83" title="Категорія:Прислів&#39;я та приказки народів світу">Прислів'я та приказки</a></b>:<small>
+</small></p><p><small><b><a href="/wiki/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F_%D1%82%D0%B0_%D0%BF%D1%80%D0%B8%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8" title="Українські прислів&#39;я та приказки">Українські</a></b> • 
+<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Англійські прислів&#39;я">Англійські</a> • 
+<a href="/wiki/%D0%90%D1%80%D0%B0%D0%B1%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Арабські прислів&#39;я">Арабські</a> • 
+<a href="/wiki/%D0%86%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Іспанські прислів&#39;я">Іспанські</a> • 
+<a href="/wiki/%D0%86%D1%82%D0%B0%D0%BB%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Італійські прислів&#39;я">Італійські</a> • 
+<a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Китайські прислів&#39;я">Китайські</a> • 
+<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%B2%D0%B8%D1%80%D0%B0%D0%B7%D0%B8" title="Латинські вирази">Латинські</a> • 
+<a href="/wiki/%D0%9D%D1%96%D0%BC%D0%B5%D1%86%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Німецькі прислів&#39;я">Німецькі</a> •
+<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Російські прислів&#39;я">Російські</a> •
+<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Французькі прислів&#39;я">Французькі</a> •
+<a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D1%8C%D0%BA%D1%96_%D0%BF%D1%80%D0%B8%D1%81%D0%BB%D1%96%D0%B2%27%D1%8F" title="Японські прислів&#39;я">Японські</a></small>
+</p><p><b><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A2%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Категорія:Тематичні статті">Інші статті</a></b>:<small>
+</small></p><p><small><a href="/wiki/%D0%86%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82" title="Інтернет">Інтернет</a> • 
+<a href="/wiki/%D0%86%D0%BD%D1%84%D0%BB%D1%8F%D1%86%D1%96%D1%8F" title="Інфляція">Інфляція</a> • 
+<a href="/wiki/%D0%86%D1%81%D1%82%D0%BE%D1%80%D1%96%D1%8F" title="Історія">Історія</a> • 
+<a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C" title="Автомобіль">Автомобіль</a> • 
+<a href="/wiki/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C" title="Алкоголь">Алкоголь</a> • 
+<a href="/wiki/%D0%91%D0%BE%D0%B3" title="Бог">Бог</a> • 
+<a href="/wiki/%D0%92%D1%96%D0%B9%D0%BD%D0%B0" title="Війна">Війна</a> • 
+<b><a href="/wiki/%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9A%D0%BB%D0%B8%D1%87%D0%BA%D0%BE_%D0%BF%D1%80%D0%BE%D1%82%D0%B8_%D0%A2%D0%B0%D0%B9%D1%81%D0%BE%D0%BD%D0%B0_%D0%A4%27%D1%8E%D1%80%D1%96" title="Володимир Кличко проти Тайсона Ф&#39;юрі">Володимир Кличко проти Тайсона Ф'юрі</a></b> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D0%B8%D0%B1%D1%80%D0%B0%D0%BD%D1%96_%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8" title="Ця стаття належить до вибраних цитат."><img alt="Вибрана цитата" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/14px-Utmarkt_Guld.svg.png" decoding="async" width="14" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/21px-Utmarkt_Guld.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Utmarkt_Guld.svg/28px-Utmarkt_Guld.svg.png 2x" data-file-width="462" data-file-height="438" /></a>
+• 
+<a href="/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82" title="Всесвіт">Всесвіт</a> • 
+<a href="/wiki/%D0%93%D1%80%D0%BE%D1%88%D1%96" title="Гроші">Гроші</a> • 
+<a href="/wiki/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%B0" title="Держава">Держава</a> • 
+<a href="/wiki/%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B0" title="Дружба">Дружба</a> • 
+<a href="/wiki/%D0%95%D1%82%D0%B8%D0%BA%D0%B0" title="Етика">Етика</a> • 
+<a href="/wiki/%D0%96%D1%96%D0%BD%D0%BA%D0%B0" title="Жінка">Жінка</a> • 
+<a href="/wiki/%D0%96%D0%B8%D1%82%D1%82%D1%8F" title="Життя">Життя</a> • 
+<a href="/wiki/%D0%97%D0%B2%D0%B8%D1%87%D0%BA%D0%B0" title="Звичка">Звичка</a> • 
+<a href="/wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0" title="Книга">Книга</a> • 
+<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%27%D1%8E%D1%82%D0%B5%D1%80" title="Комп&#39;ютер">Комп'ютер</a> • 
+<a href="/wiki/%D0%9A%D0%BE%D0%BC%D1%83%D0%BD%D1%96%D0%B7%D0%BC" title="Комунізм">Комунізм</a> • 
+<a href="/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0" title="Культура">Культура</a> • 
+<a href="/wiki/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2" title="Любов">Любов</a> • 
+<a href="/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%BE" title="Мистецтво">Мистецтво</a> • 
+<a href="/wiki/%D0%9C%D0%BE%D1%80%D0%B0%D0%BB%D1%8C" title="Мораль">Мораль</a> • 
+<a href="/wiki/%D0%9C%D1%83%D0%B7%D0%B8%D0%BA%D0%B0" title="Музика">Музика</a> • 
+<a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0" title="Наука">Наука</a> • 
+<a href="/wiki/%D0%9E%D1%81%D0%B2%D1%96%D1%82%D0%B0" title="Освіта">Освіта</a> • 
+<a href="/wiki/%D0%A1%D0%B5%D0%BA%D1%81" title="Секс">Секс</a> • 
+<a href="/wiki/%D0%A1%D1%83%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE" title="Суспільство">Суспільство</a> • 
+<a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82" title="Транспорт">Транспорт</a> •  
+<a href="/wiki/%D0%A4%D1%96%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D1%96%D1%8F" title="Філософія">Філософія</a> • 
+<a href="/wiki/%D0%A7%D0%B0%D1%81" title="Час">Час</a></small>
+</p>
+</td></tr></tbody></table>
+</td>
+<td style="border:1px solid transparent">
+</td>
+<td style="width:32%; border:2px solid #CEDFF2; background:white; vertical-align:top; color:#000;">
+<table cellpadding="2" cellspacing="5" style="width:100%; vertical-align:top; background:none;">
+<tbody><tr>
+<th><h2 style="margin:0; background:#CEDFF2; font-size:120%; font-weight:bold; border:1px solid lightblue; text-align:left; color:#000; padding:0.2em 0.4em;"><span id="_.D0.9D.D0.BE.D0.B2.D1.96_.D1.81.D1.82.D0.B0.D1.82.D1.82.D1.96"></span><span class="mw-headline" id="_Нові_статті"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Exquisite-kalarm.png" class="image" title="Нові статті"><img alt="Нові статті" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Exquisite-kalarm.png/20px-Exquisite-kalarm.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Exquisite-kalarm.png/30px-Exquisite-kalarm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Exquisite-kalarm.png/40px-Exquisite-kalarm.png 2x" data-file-width="128" data-file-height="128" /></a>&#160;<font color="blue"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Спеціальна:Нові сторінки">Нові статті</a></font></span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">
+<div class="center"><div class="floatnone"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Exquisite-kalarm.png" class="image"><img alt="Exquisite-kalarm.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Exquisite-kalarm.png/60px-Exquisite-kalarm.png" decoding="async" width="60" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Exquisite-kalarm.png/90px-Exquisite-kalarm.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Exquisite-kalarm.png/120px-Exquisite-kalarm.png 2x" data-file-width="128" data-file-height="128" /></a></div></div>
+<p><a href="/wiki/%D0%A0%D0%B5%D0%BB%D1%96%D0%B3%D1%96%D1%8F_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96" title="Релігія в Україні">Релігія в Україні</a>, <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD_%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0_%D0%92%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%96%D0%B2%D0%BD%D0%B0" title="Богдан Олена Володимирівна">Богдан Олена Володимирівна</a>, <a href="/wiki/%D0%A1%D0%BF%D0%B0%D0%BB%D0%B0%D1%85_%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81%D1%83_2019-nCoV" title="Спалах коронавірусу 2019-nCoV">Спалах коронавірусу 2019-nCoV</a>, <a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%BE%D0%B2_%D0%92%D1%8F%D1%87%D0%B5%D1%81%D0%BB%D0%B0%D0%B2_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%96%D0%B9%D0%BE%D0%B2%D0%B8%D1%87" title="Климов Вячеслав Валерійович">Климов Вячеслав Валерійович</a>, <a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B0" title="Політична свобода">Політична свобода</a>, <a href="/wiki/%D0%94%D0%BE%D0%BD" title="Дон">Дон</a>, <a href="/wiki/%D0%9F%D1%82%D0%B0%D1%85%D0%B8" title="Птахи">Птахи</a>, <a href="/wiki/%D0%84%D0%B2%D0%B0" title="Єва">Єва</a>, <a href="/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B0%D1%86%D1%96%D1%8F" title="Прокрастинація">Прокрастинація</a>, <a href="/wiki/%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0_%D0%86%D1%81%D1%83%D1%81%D1%83_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D1%83" title="Слава Ісусу Христу">Слава Ісусу Христу</a>, <a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B5%D0%B9" title="Михей">Михей</a>, <a href="/wiki/%D0%90%D1%81%D1%81%D0%B8%D1%80%D1%96%D1%8F" title="Ассирія">Ассирія</a>, <a href="/wiki/%D0%92%D0%BE%D0%BB%D0%B8%D0%BD%D1%8C" title="Волинь">Волинь</a>, <a href="/wiki/%D0%9E%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B0_%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%27%D1%8F_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96" title="Охорона здоров&#39;я в Україні">Охорона здоров'я в Україні</a>, <a href="/wiki/%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D0%BB%D1%8F" title="Поділля">Поділля</a>, <a href="/wiki/%D0%A0%D1%96%D1%87%D0%B0%D1%80%D0%B4_%D0%94%D0%BE%D0%BA%D1%96%D0%BD%D0%B7" title="Річард Докінз">Річард Докінз</a>, <a href="/wiki/%D0%86%D0%BD%D0%B2%D0%B0%D0%BB%D1%96%D0%B4%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Інвалідність">Інвалідність</a>, <a href="/wiki/%D0%9E%D0%BB%D0%B5%D0%BD%D1%8C" title="Олень">Олень</a>, <a href="/wiki/%D0%9A%D0%BE%D0%B1%D1%80%D0%B0" title="Кобра">Кобра</a>, <a href="/wiki/%D0%92%D0%B5%D0%B4%D0%BC%D1%96%D0%B4%D1%8C" title="Ведмідь">Ведмідь</a>, <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B0" title="Корова">Корова</a>, <a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%B5%D0%BB_%D1%81%D0%B2%D1%96%D0%B9%D1%81%D1%8C%D0%BA%D0%B8%D0%B9" title="Козел свійський">Козел свійський</a>, <a href="/wiki/%D0%A8%D1%80%D0%B5%D0%BA_2" title="Шрек 2">Шрек 2</a>, <a href="/wiki/The_Hardkiss" title="The Hardkiss">The Hardkiss</a>, <a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%9F%D0%B5%D0%BD%D0%BD_%D0%92%D0%BE%D1%80%D1%80%D0%B5%D0%BD" title="Роберт Пенн Воррен">Роберт Пенн Воррен</a>
+</p>
+<div align="right" style="font-size:xx-small;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0/%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Шаблон:Головна сторінка/Нові статті">Шаблон</a>|<a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Спеціальна:Нові сторінки">Нові статті</a></div>
+</td></tr>
+</tbody></table>
+</td></tr></tbody></table>
+</td></tr><tr><td></td></tr></tbody></table>
+<table style="margin:0px 0px 0px 0px; background:none;">
+<tbody><tr>
+<td class="MainPageBG" style="width:10%; border:2px solid #CEDFF2; background:white; vertical-align:top; color:#000;">
+<table width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top; background:white;">
+<tbody><tr>
+<th><h2 style="margin:0; background:#CEDFF2; font-size:120%; font-weight:bold; border:1px solid lightblue; text-align:left; color:#000; padding:0.2em 0.4em;"><span id="_.D0.A1.D0.B5.D1.81.D1.82.D1.80.D0.B8.D0.BD.D1.81.D1.8C.D0.BA.D1.96_.D0.BF.D1.80.D0.BE.D0.B5.D0.BA.D1.82.D0.B8"></span><span class="mw-headline" id="_Сестринські_проекти"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wikimedia-logo.svg" class="image" title="Сестринські проекти"><img alt="Сестринські проекти" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/20px-Wikimedia-logo.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/30px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/40px-Wikimedia-logo.svg.png 2x" data-file-width="1024" data-file-height="1024" /></a>&#160;<font color="blue">Сестринські проекти</font></span></h2>
+</th></tr>
+<tr>
+<td style="color:#000;">
+<table align="center" cellpadding="2" width="100%" class="plainlinks">
+<tbody><tr>
+<td><a href="https://uk.wiktionary.org/wiki/" title="wikt:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/35px-Wiktionary-logo.svg.png" decoding="async" width="35" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/53px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/70px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a>
+</td>
+<td><a href="https://uk.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Вікісловник</b></a><br />Словник та тезаурус
+</td>
+<td><a href="https://uk.wikibooks.org/wiki/" title="b:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a>
+</td>
+<td><a href="https://uk.wikibooks.org/wiki/" class="extiw" title="b:"><b>Вікіпідручник</b></a><br />Книги на Вікі
+</td>
+<td><a href="https://uk.wikipedia.org/wiki/" title="w:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/35px-Wikipedia-logo-v2.svg.png" decoding="async" width="35" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/53px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/70px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></a>
+</td>
+<td><a href="https://uk.wikipedia.org/wiki/" class="extiw" title="w:"><b>Вікіпедія</b></a><br />Вікіпедія
+</td>
+<td><a href="https://uk.wikisource.org/wiki/" title="s:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" decoding="async" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>
+</td>
+<td><a href="https://uk.wikisource.org/wiki/" class="extiw" title="s:"><b>Вікіджерела</b></a><br />Першоджерела
+</td></tr>
+
+<tr>
+<td colspan="8">
+<table align="center">
+
+<tbody><tr>
+<td><a href="https://beta.wikiversity.org/wiki/" title="betawikiversity:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/35px-Wikiversity-logo.svg.png" decoding="async" width="35" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/53px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/70px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a>
+</td>
+<td><a href="https://beta.wikiversity.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" class="extiw" title="betawikiversity:Головна сторінка"><b>Віківерситет</b></a><br />Вільний університет
+</td>
+<td><a href="https://uk.wikisource.org/wiki/" title="s:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/35px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/53px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/70px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a>
+</td>
+<td><a href="https://uk.wikivoyage.org/wiki/" class="extiw" title="voy:"><b>Вікімандри</b></a><br />Вільний путівник
+</td>
+<td><a href="https://uk.wikinews.org/wiki/" title="n:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/35px-Wikinews-logo.png" decoding="async" width="35" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/53px-Wikinews-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikinews-logo.png/70px-Wikinews-logo.png 2x" data-file-width="800" data-file-height="415" /></a>
+</td>
+<td><a href="https://uk.wikinews.org/wiki/" class="extiw" title="n:"><b>Вікіновини</b></a><br />Джерело вільних новин
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><a href="https://species.wikimedia.org/wiki/" title="wikispecies:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wikispecies-logo.png/35px-Wikispecies-logo.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wikispecies-logo.png/53px-Wikispecies-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Wikispecies-logo.png/70px-Wikispecies-logo.png 2x" data-file-width="913" data-file-height="1070" /></a>
+</td>
+<td><a href="https://species.wikimedia.org/wiki/" class="extiw" title="wikispecies:"><b>Віківиди</b></a><br />Довідник біологічних видів
+</td>
+<td><a href="https://www.wikidata.org/wiki/" title="d:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/35px-Wikidata-logo.svg.png" decoding="async" width="35" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/53px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/70px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a>
+</td>
+<td><a class="external text" href="https://www.wikidata.org/wiki/Wikidata:Головна_сторінка?uselang=uk"><b>Вікідані</b></a><br />База даних інтервікі та інфобоксів
+</td>
+<td><a href="https://meta.wikimedia.org/wiki/" title="m:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/35px-Wikimedia-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/53px-Wikimedia-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/70px-Wikimedia-logo.svg.png 2x" data-file-width="1024" data-file-height="1024" /></a>
+</td>
+<td><a class="external text" href="https://www.meta.wikimedia.org/wiki/Головна_сторінка/uk"><b>Мета-Вікі</b></a><br />Координація всіх Вікі-проектів
+</td>
+<td><a href="https://commons.wikimedia.org/wiki/" title="commons:"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" decoding="async" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>
+</td>
+<td><a class="external text" href="https://www.commons.wikimedia.org/wiki/Головна_сторінка?uselang=uk"><b>Вікісховище</b></a><br />Медіа-файли для спільного користування
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1381
+Cached time: 20200227041007
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.164 seconds
+Real time usage: 0.234 seconds
+Preprocessor visited node count: 233/1000000
+Post‐expand include size: 24145/2097152 bytes
+Template argument size: 612/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3950/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   78.624      1 -total
+ 36.98%   29.075      1 Шаблон:Головна_сторінка/Нові_статті
+ 27.61%   21.706      1 Шаблон:Цитата_дня
+ 17.86%   14.045      1 Вікіцитати:Цитата_дня/27_лютого_2016
+ 14.41%   11.331      1 Шаблон:ЦД
+ 10.98%    8.634      1 Шаблон:Головна_сторінка/Вибрані_статті
+ 10.38%    8.165      1 Шаблон:Q
+ 10.15%    7.977      1 Шаблон:Головна_сторінка/Сестринські_проекти
+  7.35%    5.776      1 Шаблон:Nobots
+  5.63%    4.427      1 Шаблон:Головна_сторінка/Зміст
+-->
+
+<!-- Saved in parser cache with key ukwikiquote:pcache:idhash:1-0!canonical and timestamp 20200227041007 and revision id 92289
+ -->
+</div><noscript><img src="//uk.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Отримано з <a dir="ltr" href="https://uk.wikiquote.org/w/index.php?title=Головна_сторінка&amp;oldid=92289">https://uk.wikiquote.org/w/index.php?title=Головна_сторінка&amp;oldid=92289</a></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%97" title="Спеціальна:Категорії">Категорія</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" title="Категорія:Головна">Головна</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Навігаційне меню</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Особисті інструменти</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Ви не увійшли до системи</li>
+		<li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D0%BE%D1%94_%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" title="Обговорення редагувань з цієї IP-адреси [n]" accesskey="n">Обговорення</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D1%96%D0%B9_%D0%B2%D0%BD%D0%B5%D1%81%D0%BE%D0%BA" title="Список редагувань, зроблених з цієї IP-адреси [y]" accesskey="y">Внесок</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8_%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81&amp;returnto=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Пропонуємо створити обліковий запис і увійти в систему; однак, це не обов&#039;язково">Створити обліковий запис</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Заохочуємо Вас увійти в систему, але це необов&#039;язково. [o]" accesskey="o">Увійти</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Простори назв</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Вміст статті [c]" accesskey="c">Головна</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F:%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" rel="discussion" title="Обговорення змісту сторінки [t]" accesskey="t">Обговорення</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Варіанти</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Перегляди</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0">Читати</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=edit" title="Ця сторінка захищена від змін. Ви можете переглянути і скопіювати її вихідний текст. [e]" accesskey="e">Перегляд</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=history" title="Журнал змін сторінки [h]" accesskey="h">Переглянути історію</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Ще</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Пошук</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Пошук у Вікіцитатах" title="Шукати у Вікіцитат [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Спеціальна:Пошук" name="title"/>
+			<input type="submit" name="fulltext" value="Знайти" title="Знайти сторінки, що містять зазначений текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Перейти" title="Перейти до сторінки, що має точно таку назву (якщо вона існує)" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Перейти на головну сторінку" class="mw-wiki-logo" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Навігація
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на Головну сторінку [z]" accesskey="z">Головна сторінка</a></li><li id="n-currentevents"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Список поточних подій">Поточні події</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Список останніх змін у цій вікі [r]" accesskey="r">Нові редагування</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8">Нові сторінки</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Переглянути випадкову сторінку [x]" accesskey="x">Випадкова стаття</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Участь"  aria-labelledby="p-Участь-label">
+	<h3  id="p-Участь-label">
+		Участь
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B8" title="Про проект, про те, що Ви можете зробити, і що де шукати">Портал спільноти</a></li><li id="n-Кнайпа"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0">Кнайпа</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Довідка з проекту">Довідка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_uk.wikiquote.org&amp;uselang=uk" title="Підтримайте проект">Пожертвувати</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Інструменти
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%8E%D0%B4%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перелік усіх сторінок, які посилаються на цю сторінку [j]" accesskey="j">Посилання сюди</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D0%B2%27%D1%8F%D0%B7%D0%B0%D0%BD%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" rel="nofollow" title="Останні зміни на сторінках, на які посилається ця сторінка [k]" accesskey="k">Пов'язані редагування</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=uk" title="Завантажити файли [u]" accesskey="u">Завантажити файл</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Перелік спеціальних сторінок [q]" accesskey="q">Спеціальні сторінки</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;oldid=92289" title="Постійне посилання на цю версію сторінки">Постійне посилання</a></li><li id="t-info"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=info" title="Додаткові відомості про цю сторінку">Інформація про сторінку</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Посилання на пов’язаний елемент сховища даних [g]" accesskey="g">Елемент Вікіданих</a></li><li id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;id=92289" title="Інформація про те, як цитувати цю сторінку">Цитувати сторінку</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		В інших проектах
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Вікісховище</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Мета-вікі</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Віківиди</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://uk.wikibooks.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">Вікіпідручник</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Вікідані</a></li><li class="wb-otherproject-link wb-otherproject-wikimania"><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">Вікіманія</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://uk.wikinews.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" hreflang="uk">Вікіновини</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">Вікіпедія</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://uk.wikisource.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">Вікіджерела</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://uk.wikivoyage.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">Вікімандри</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://uk.wiktionary.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" hreflang="uk">Вікісловник</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Друк/експорт
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=book_creator&amp;referer=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0">Створити книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:ElectronPdf&amp;page=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0+%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;action=show-download-screen">Завантажити як PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;printable=yes" title="Версія цієї сторінки для друку [p]" accesskey="p">Версія до друку</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Іншими мовами
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikiquote.org/wiki/" title="болгарська" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikiquote.org/wiki/" title="боснійська" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikiquote.org/wiki/" title="чеська" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikiquote.org/wiki/" title="німецька" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikiquote.org/wiki/" title="грецька" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikiquote.org/wiki/" title="англійська" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikiquote.org/wiki/" title="есперанто" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikiquote.org/wiki/" title="іспанська" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikiquote.org/wiki/" title="французька" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikiquote.org/wiki/" title="іврит" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikiquote.org/wiki/" title="італійська" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikiquote.org/wiki/" title="литовська" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikiquote.org/wiki/" title="польська" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikiquote.org/wiki/" title="портуґальська" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikiquote.org/wiki/" title="російська" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikiquote.org/wiki/" title="словацька" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikiquote.org/wiki/" title="словенська" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikiquote.org/wiki/" title="турецька" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikiquote.org/wiki/" title="китайська" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Цю сторінку востаннє відредаговано о 22:31, 7 січня 2019.</li>
+		<li id="footer-info-copyright">Текст доступний на умовах ліцензії <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a>;
+також можуть діяти додаткові умови.
+Детальніше див. <a href="https://foundation.wikimedia.org/wiki/Умови_використання">Умови використання</a>.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Політика конфіденційності</a></li>
+		<li id="footer-places-about"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%9F%D1%80%D0%BE" class="mw-redirect" title="Вікіцитати:Про">Про Вікіцитати</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%B8:%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіцитати:Відмова від відповідальності">Відмова від відповідальності</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Розробники</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/uk.wikiquote.org">Статистика</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Куки</a></li>
+		<li id="footer-places-mobileview"><a href="//uk.m.wikiquote.org/w/index.php?title=%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобільний вигляд</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.164","walltime":"0.234","ppvisitednodes":{"value":233,"limit":1000000},"postexpandincludesize":{"value":24145,"limit":2097152},"templateargumentsize":{"value":612,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3950,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   78.624      1 -total"," 36.98%   29.075      1 Шаблон:Головна_сторінка/Нові_статті"," 27.61%   21.706      1 Шаблон:Цитата_дня"," 17.86%   14.045      1 Вікіцитати:Цитата_дня/27_лютого_2016"," 14.41%   11.331      1 Шаблон:ЦД"," 10.98%    8.634      1 Шаблон:Головна_сторінка/Вибрані_статті"," 10.38%    8.165      1 Шаблон:Q"," 10.15%    7.977      1 Шаблон:Головна_сторінка/Сестринські_проекти","  7.35%    5.776      1 Шаблон:Nobots","  5.63%    4.427      1 Шаблон:Головна_сторінка/Зміст"]},"cachereport":{"origin":"mw1381","timestamp":"20200227041007","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0413\u043e\u043b\u043e\u0432\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0430","url":"https:\/\/uk.wikiquote.org\/wiki\/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"\u0423\u0447\u0430\u0441\u043d\u0438\u043a\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0456\u0432 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-18T15:33:06Z","dateModified":"2019-01-07T22:31:10Z","headline":"\u0433\u043e\u043b\u043e\u0432\u043d\u0430 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0456\u0432 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1323"});});</script></body></html>

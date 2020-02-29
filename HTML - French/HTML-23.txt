@@ -1,0 +1,956 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Modification de Wikimedia Foundation — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XlnjngpAADgAAJnHY@wAAACH","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wikimedia_Foundation","wgTitle":"Wikimedia Foundation","wgCurRevisionId":167715205,"wgRevisionId":0,"wgArticleId":20333,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikimedia_Foundation","wgRelevantArticleId":20333,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgEditMessage":"editing","wgAjaxEditStash":!0,"wgEditSubmitButtonLabelPublish":!0,"wgCentralAuthMobileDomain":!1};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.wikiEditor.styles":"ready","mediawiki.action.edit.styles":"ready","mediawiki.editfont.styles":"ready","oojs-ui-core.styles":"ready",
+"oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","ext.charinsert.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.wikiEditor","ext.TemplateWizard","mediawiki.action.edit","mediawiki.action.edit.editWarning","wikibase.client.action.edit.collapsibleFooter","mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.tablesorter","ext.charinsert","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","ext.CodeMirror","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.charinsert.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.action.edit.styles%7Cmediawiki.editfont.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.ui.button%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.wikiEditor.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wikimedia_Foundation_logo_-_vertical.svg/1200px-Wikimedia_Foundation_logo_-_vertical.svg.png"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Wikimedia_Foundation&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Wikimedia_Foundation&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Wikimedia_Foundation"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wikimedia_Foundation rootpage-Wikimedia_Foundation skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Modification de Wikimedia Foundation</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text"><div id="mw-anon-edit-warning" class="warningbox">
+<div class="plainlinks"><div class="bandeau-simple bandeau-niveau-neutre plainlinks" style="border-left-width:6px;background-color: #f9eaea; border-color: #C00; box-sizing: border-box;"><div class="bandeau-cell">
+<p><big class="aa-titre-rouge"><b>Attention&#160;:</b></big>
+</p><p>Vous modifiez actuellement cette page en tant qu’<b>utilisateur non enregistré</b>. Si vous publiez vos modifications, votre <a href="/wiki/Wikip%C3%A9dia:Utilisateur_sous_IP" title="Wikipédia:Utilisateur sous IP">adresse IP</a> sera conservée dans <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Wikimedia_Foundation&amp;action=history">l’historique public de cette page</a>. En <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Connexion/signup&amp;campaign=anoneditwarning&amp;returnto=Wikimedia_Foundation&amp;returntoquery=action%3Dedit">créant un compte</a>, vous pouvez masquer votre adresse IP et bénéficier <a href="/wiki/Aide:Compte_utilisateur#Avantages" title="Aide:Compte utilisateur">d’autres avantages</a>.<br />Pour vous familiariser avec l'édition, voyez <a href="/wiki/Aide:Comment_modifier_une_page" title="Aide:Comment modifier une page">comment modifier une page</a>.
+</p><p><a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Connexion/signup&amp;campaign=anoneditwarning&amp;returnto=Wikimedia_Foundation&amp;returntoquery=action%3Dedit"><span class="mw-ui-button mw-ui-progressive" role="button">Créer un compte</span></a> &#160; <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikimedia_Foundation&amp;returntoquery=action%3Dedit"><span class="mw-ui-button mw-ui-neutral" role="button">Se connecter</span></a>
+</p>
+</div></div></div>
+</div><div id="wikiPreview" class="ontop" style="display: none;"><div lang="fr" dir="ltr" class="mw-content-ltr"></div></div><form class="mw-editform" id="editform" name="editform" method="post" action="/w/index.php?title=Wikimedia_Foundation&amp;action=submit" enctype="multipart/form-data"><input type="hidden" value="ℳ𝒲♥𝓊𝓃𝒾𝒸ℴ𝒹ℯ" name="wpUnicodeCheck"/><div id="antispam-container" style="display: none;"><label for="wpAntispam">Vérification anti-pourriel.
+Ne <strong>rien</strong> inscrire ici&#160;!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div><input type="hidden" name="editingStatsId" id="editingStatsId" value="8b8236faa831d186c5c174775feed8d3" /><input type="hidden" name="wpSection"/><input type="hidden" value="20200229040758" name="wpStarttime"/><input type="hidden" value="20200223101517" name="wpEdittime"/><input type="hidden" value="167715205" name="editRevId"/><input id="wpScrolltop" type="hidden" name="wpScrolltop"/><input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="167715205" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="fr" dir="ltr" name="wpTextbox1">{{Langue du titre|en}}
+{{Confusion|MediaWiki}}
+{{Infobox Organisation2}}
+
+'''Wikimedia Foundation, Inc.''' est une organisation à but non lucratif ([[501c|''{{langue|en|foundation}}'' 501(c)(3)]])&lt;ref>{{en}} A non-profit charitable organization (un organisme de charité à but non lucratif)&lt;/ref> régie par les lois de l'État de [[Floride]] aux [[États-Unis]]&lt;ref>{{Lien brisé|url=http://www.sunbiz.org/COR/2003/0620/90039369.tif |titre=Corporate Charter of Wikimedia Foundation Inc.}} : première version des statuts (2003)&lt;/ref> chargée de centraliser certains aspects administratifs du [[mouvement Wikimédia]] dans sa globalité. Son existence officielle a été annoncée&lt;ref>[http://lists.wikimedia.org/pipermail/wikien-l/2003-June/004719.html Annonce de la fondation de la Wikimedia Foundation] (en anglais)&lt;/ref> le {{date|20|juin|2003}}, par [[Jimmy Wales]], cofondateur de [[Wikipédia]]. Elle est souvent appelée la '''fondation Wikimédia''' en [[français]].
+
+Wikimedia Foundation, Inc. est l'organisation qui héberge l'encyclopédie libre [[Wikipédia]] bien connue du grand public, mais aussi d'autres projets moins connus tel que : [[Wiktionnaire]], [[Wikiquote]], [[Wikibooks]], [[Wikimedia Commons]], [[Wikisource]], [[Wikispecies]], [[Wikinews]], [[Wikiversité]], [[Wikivoyage]], [[Wikidata]], etc. tous reposant sur le logiciel de plate-forme web collaborative [[MediaWiki]]. 
+
+== Objectifs ==
+[[Fichier:Wikipedia - FactsMatter2016.webm|vignette|Un exemple de film promotionnel pour Wikipédia réalisé par la fondation Wikimedia.]]
+La Wikimedia Foundation&lt;ref>La Wikimedia Foundation fait précéder son nom de l'article « la » sur la [https://wikimediafoundation.org/wiki/FAQ/fr version francophone] de sa page de questions fréquemment posées.&lt;/ref> a pour finalité de promouvoir la croissance et le développement de projets contenant du [[Culture libre|savoir ''libre'']] fondés sur le principe du [[wiki]], et d'en distribuer le contenu publiquement et [[Gratuité (économie)|gratuitement]]&lt;ref>{{en}} [{{fullurl:wmf:Wikimedia Foundation bylaws#ARTICLE II - STATEMENT OF PURPOSE|oldid=20641}} Objectif de l'association]&lt;/ref>.
+
+L'association à but non lucratif possède tous les serveurs sur lesquels sont [[Hébergeur web|hébergés]] les projets Wikimedia, installés aux [[États-Unis]], aux [[Pays-Bas]] et à [[Singapour]]&lt;ref>{{en}} [[m:Wikimedia servers|Serveurs Wikimedia]]&lt;/ref>. La Wikimedia Foundation possède de nombreux [[nom de domaine|noms de domaines]], les [[droit d'auteur|droits]] sur les [[Logotype|logos]] et certains noms de [[Droit des marques|marque]]&lt;ref>à commencer par ses 12 projets majeurs, incluant [[Wikipédia]].&lt;/ref>.
+
+Les usagers et participants aux projets Wikimedia peuvent se rencontrer à la conférence annuelle internationale [[Wikimania]].
+
+== Conseil d'administration ==
+En janvier [[2004]], [[Jimmy Wales]] a nommé [[Tim Shell]] et Michael Davis membres du [[conseil d'administration]]&lt;ref>[[wikimedia:Conseil d'administration|Conseil d'administration de Wikimedia Foundation]] - composition actuelle&lt;/ref> de la Wikimedia Foundation. En juin [[2004]], une élection a été menée au sein des communautés des différents projets pour élire deux membres supplémentaires. Après un mois de campagne, puis une élection tenue en ligne pendant deux semaines, [[Angela Beesley]] et [[Florence Devouard]] ont été élues&lt;ref>[[m:Election results 2004|Résultat des élections au conseil d'administration 2004]]&lt;/ref> au conseil, en tant que représentantes de tous les participants des différents projets Wikimedia. Toutes deux ont été réélues en juin [[2005]]&lt;ref>[[m:Election results 2005|Résultat des élections au conseil d'administration 2005]]&lt;/ref>. Le 28 octobre [[2006]], Florence Devouard a été élue présidente du conseil d'administration&lt;ref>[[m:Press releases/Un nouveau conseil d'administration pour la Wikimedia Foundation|Communiqué de presse informant de l'élection]].&lt;/ref>. Elle est remplacée, le 17 juillet 2008, par [[Michael Snow (avocat)|Michael Snow]], avocat allemand&lt;ref>{{en}} [[wmf:Press releases/Board Changes July 2008|Communiqué de presse : Wikimedia Foundation Announces New Appointments to Board of Trustees]].&lt;/ref>. En [[2009]], [[Matt Halprin]] a été désigné comme neuvième membre du ''Board'' après un don de deux millions de dollars&lt;ref>{{en}} [[wmf:Press releases/Omidyar Network Grant August 2009|Communiqué de presse de la Wikimedia Foundation sur le don de Omidyar Network]]&lt;/ref> d'[[Omidyar Network]]. Son mandat a été prolongé d'un an par le conseil d'administration de la Wikimedia Foundation&lt;ref>{{en}} [[wmf:Resolution:Reappointment of Matt Halprin|Résolution unanime de la Wikimedia Foundation au mois de décembre 2009 prolongeant le mandat de Matt Halprin pour un an]]&lt;/ref>.
+
+=== Chronologie des directeurs généraux et présidents ===
+{{Liste des dirigeants successifs
+|types=directeur général, président
+|portrait=oui
+|nationalité=oui
+|titre directeur général=Directrices générales de la Fondation
+|titre président=Présidents de la Fondation
+}}
+
+== Création ==
+[[Fichier:Wikimedia Foundation organization chart.svg|thumb|Organigramme (janvier 2008).]]
+Le nom « Wikimedia » a été proposé en mars 2003 par Sheldon Rampton&lt;ref>[http://mail.wikipedia.org/pipermail/wikien-l/2003-March/001887.html création du néologisme Wikimedia par Sheldon Ramptom]&lt;/ref>. L'annonce de la création de la Wikimedia Foundation a été faite par Jimmy Wales en juin 2003 en ces termes :
+{{Citation bloc| Je suis heureux d'annoncer la création de la Wikimedia Foundation Inc., une organisation à but non lucratif régie par la loi de [[Floride]], [[États-Unis]]. Je transfère à cette nouvelle organisation les actifs suivants :
+# Tous les noms de domaine Nupedia.com/net/org/etc.
+# Tous les noms de domaine Wikipedia.com/net/org/etc.
+# Tous les [[droit d'auteur|copyrights]] pour les logiciels ou les articles qui étaient auparavant la propriété de [[Bomis]], Inc. et qui sont déjà sous une licence « ''[[copyleft]]'' » (Ceci inclut les travaux réalisés sous contrat par Jason, Tim, Larry, Toan, Liz, et moi-même, ainsi que d'autres employés de Bomis qui auraient travaillé sur ces projets pendant leur travail, mais n'inclut pas ceux réalisés en dehors de leur temps de travail ou lorsqu'ils n'étaient pas employés de Bomis.)
+#: (Tout cela était déjà sous licence [[Licence publique générale GNU|GNU GPL]] ou [[Licence de documentation libre GNU|GNU FDL]], c'est donc simplement une formalité. Mais même dans ce cas, nous voulons donner un bon exemple.)
+# De plus, je donne tout le résultat de mon travail personnel sous copyright déjà sous licence [[Licence publique générale GNU|GNU GPL]] ou [[Licence de documentation libre GNU|GNU FDL]], pour [[Wikipédia]] et [[Nupedia]] à la Wikimedia Fondation.}}
+
+== Budgets et ressources ==
+[[File:Wikimedia_Foundation_financial_development_multilanguage.svg|thumb|Développement financier de la Wikimedia Fondation depuis 2003
+Wikimedia Foundation financial development 2003–2018
+{{Légende/Début}}
+{{Légende|green|Revenus}}
+{{Légende|red|Dépenses}}
+{{Légende|black|Avoirs nets à la fin de l'année}}
+{{Légende/Fin}}
+Wikimedia Foundation, Inc. Financial Statements (Sameboat et al., 2019)]]
+[[Fichier:Évolution des dépenses de la fondation Wikimédia.png|vignette|Répartition et évolution des dépenses de la Wikimedia Foundation de 2004 à 2018 (Scheepmans, 2019).]]
+La Wikimedia Foundation fonctionne pour l'essentiel par l'intermédiaire de dons, qui, en 2017, représentent une collecte de {{unité|91|millions}} de dollars (soit {{unité|78|millions}} d'euros)&lt;ref name=":0" />.
+
+Depuis 2007, un excédent de [[trésorerie]] correspondant à près du tiers de ses ressources annuelles est mis en [[Réserve comptable|réserves]]. Sur son budget de {{unité|20.4|millions}} de dollars sur l'exercice 2010/2011, seize millions proviennent de {{formatnum:500000}} {{citation|petits dons}}&lt;ref>[[n:Wikipédia célèbre son dixième anniversaire en ligne|Wikipédia célèbre son dixième anniversaire en ligne]]&lt;/ref>. Une très faible partie des revenus provient de la gestion des droits des marques : seuls [[Orange (entreprise)|Orange]] et le réseau social [[Facebook]] payent pour utiliser la marque et les contenus de [[Wikipédia]]&lt;ref>« Wikipédia, la production collaborative gratuite à laquelle personne ne croyait », Édouard Laugier, ''[[Le Nouvel Économiste]]'', nº 1559, 24 mars 2011, p. 31&lt;/ref>.
+
+Au niveau des dépenses, une grande majorité du budget est consacrée aux traitements, salaires et frais de fonctionnements dont bénéficient les employés de la fondation&lt;ref>{{Lien web|langue=en|titre=Statistical analysis of Wikimedia Foundation financial reports - Wikiversity|url=https://en.wikiversity.org/wiki/Statistical_analysis_of_Wikimedia_Foundation_financial_reports|site=en.wikiversity.org|consulté le=2018-06-26}}.&lt;/ref>.
+
+=== Profils des donateurs ===
+[[Fichier:Donations by Continent From FY1819 Wikimedia Fundraising Report.png|alt=Répartitions des dons 2018-2019 par continent. L'Amérique du Nord représente 60% et l'Europe 30%.|vignette|Répartitions des dons 2018-2019 par continent. L'[[Amérique du Nord]] représente 68,5 % et l'[[Europe]], 36,8 % (TSkaff, 2019).]]
+La Wikimedia Foundation garantit son indépendance en sollicitant des contributions financières auprès d'un large nombre de donateurs&lt;ref>{{en}} [http://strategy.wikimedia.org/wiki/Strategic_Plan/What_do_we_believe%3F-Principles_of_the_Wikimedia_movement#Knowledge_is_a_public_good.2C_and_must_remain_independent_and_free_from_commercialism What we believe]&lt;/ref>, répartis principalement en Amérique du Nord et en Europe.
+
+En 2017 les dons inférieurs à {{unité|1000|dollars}} — {{unité|850|euros}} — représentent un total d'environ 80 millions de dollars — 68 millions d'euros — collectés auprès de 6 millions de personnes ou organisations&lt;ref name=":0">{{Lien web|langue=anglais|auteur1=Sam Patton|titre=Fundraising report 2016-2017 (Rapport de collecte de fonds)|url=https://wikimediafoundation.org/wiki/2016-2017_Fundraising_Report|site=wikimediafoundation.org|date=29 septembre 2017|consulté le=26 mai 2018}}.&lt;/ref>.
+
+La répartition par continent des dons 2016-2017 montre une prédominance de ressources nord-américaines pour environ 60%, suivies par l'Europe (30%)&lt;ref name=":0" />.
+
+Wikimedia se réserve le droit de refuser certains dons, afin de rester libre de toute influence. Ses principaux donateurs&lt;ref>{{Lien brisé|langue=en|titre=Bienfaiteurs - Wikimedia Foundation|url=https://wikimediafoundation.org/wiki/Sponsors|site=wikimediafoundation.org|consulté le=2018-05-26}}.&lt;/ref> sont :
+
+* 2007 : [[Virgin Unite]]&lt;ref>{{Lien brisé|langue=en|titre=Wikimedia remercie tous les donateurs - Wikimedia Foundation|url=https://wikimediafoundation.org/wiki/Wikimedia%20remercie%20tous%20les%20donateurs#Principaux_bienfaiteurs_(50_000_USD_ou_plus)|site=wikimediafoundation.org|consulté le=2018-05-26}}.&lt;/ref>
+* 2008 : {{unité|3 millions|$}} d’[[Alfred P. Sloan Foundation]]
+* 2009 : {{unité|2 millions|$}} d’[[Omidyar Network]]
+* 2010 : {{unité|2 millions|$}} de [[Google]]&lt;ref>[http://www.zdnet.fr/actualites/scoop-google-donne-deux-millions-de-dollars-a-wikipedia-39713111.htm Scoop : Google donne deux millions de dollars à Wikipédia].&lt;/ref>
+
+Le rapport annuel 2016-2017&lt;ref name=":0" /> indique que 1400 personnes ou institutions ont fait un don de plus de {{unité|1000|dollars}}, pour un total de 10 millions de dollars — 8,5 millions d'euros.
+
+=== Partenariat avec Orange ===
+En [[avril 2009]], la Wikimedia Foundation signe un partenariat avec [[Orange (entreprise)|Orange]] (filiale du groupe français [[France Télécom]]) afin de développer des fonctionnalités de l’encyclopédie Wikipédia susceptibles d’élargir le libre accès à la [[connaissance]]&lt;ref>[[wmf:Press releases/Orange and Wikimedia announce partnership April 2009/fr|Communiqué de presse]]&lt;/ref>. Orange est autorisé à utiliser la marque « Wikipédia » pour proposer à ses clients un « accès privilégié » et particulier aux contenus des projets Wikimedia.
+
+Les détails financiers du partenariat n'ont pas été publiés&lt;ref>{{Lien web|langue=fr|date =04/2009|titre=Partenariat entre Orange et Wikipédia|url =http://www.lalibre.be/economie/actualite/partenariat-entre-orange-et-wikipedia-51b8a9dae4b0de6db9b66b8d|site=Lalibre.be|consulté le=19/04/2016 }}.&lt;/ref>. Dans un premier temps, Orange a proposé l'intégration du contenu de l'encyclopédie Wikipédia à ses portails internet et mobile ; par la suite, l'opérateur devrait mettre à disposition des utilisateurs des services innovants comme l'accès à l'encyclopédie directement depuis la [[télévision]] dans le cadre d'une offre internet [[Triple play (télécommunications)|triple-play]] ou encore grâce à la création de [[Widget interactif|widgets]] web et [[Téléphonie mobile|mobiles]]&lt;ref>[http://www.zone-numerique.com/news_4808_orange_et_wikipedia_travailleront_ensemble.htm Orange et Wikipédia travailleront ensemble]&lt;/ref>.
+
+En 2012, l'intégration sur les portails Orange était toujours effective&lt;ref>{{lien web|url=http://www.numerama.com/magazine/22182-contribuer-a-wikipedia-c-est-aussi-enrichir-orange.html |auteur=Guillaume Champeau |titre=Contribuer à Wikipédia c'est aussi enrichir Orange |éditeur=[[Numerama]]|date=29 mars 2012|site=numerama.com|consulté le=21 décembre 2012}}.&lt;/ref>.
+
+=== Partenariat avec Facebook ===
+{{…}}
+En [[avril 2010]], [[Facebook]] a signé un partenariat avec la fondation Wikimedia sur l’utilisation de la [[Wikimedia|marque Wikipédia]]. Facebook apporte un soutien technique aux équipes de la Wikimedia Foundation (pour [[Répartition de charge|faire face aux montées en charge]] dues à la fréquentation du site) et génère du [[Trafic Internet|trafic]] vers [[Wikipédia]]{{Référence nécessaire||date=13 janvier 2020}}.
+
+=== Fonds de dotation Wikimedia ===
+Lors du {{15e}} anniversaire de Wikipédia, en janvier 2016, la Wikimedia Foundation annonce la création d'un [[fonds de dotation]] pour garantir la pérennité des projets Wikimedia pour le futur. Son objectif initial est de recueillir 100 millions de dollars en 10 ans. Le fonds de dotation Wikimedia&lt;ref>Plus d'informations sur la page [[meta:Wikimedia Endowment/fr|Wikimedia Endowment]] du site Meta-wiki.&lt;/ref> (en anglais Wikimedia Endowment) est créé en tant que fonds d'action collective de la Fondation Tides, un organisme public de [[Association caritative|bienfaisance]] qui détient et gère des fonds de bienfaisance pour des [[Organisme sans but lucratif|organismes sans but lucratif]]&lt;ref>{{Lien web|langue=en-US|titre=Wikipedia celebrates 15 years of free knowledge|url=https://wikimediafoundation.org/2016/01/14/wikipedia-15-foundation-endowment/|site=Wikimedia Foundation|date=2016-01-14|consulté le=2019-01-01}}.&lt;/ref>{{,}}&lt;ref>{{Article|langue=en-GB|prénom1=Stuart|nom1=Dredge|titre=Wikipedia launching $100m fund to secure long-term future as site turns 15|périodique=The Guardian|date=2016-01-15|issn=0261-3077|lire en ligne=https://www.theguardian.com/technology/2016/jan/15/wikipedia-fund-future|consulté le=2019-01-01}}.&lt;/ref>.
+
+[[Craig Newmark]] est l'un des premiers donateurs dès 2016, avec une donation d'un million de dollars&lt;ref>{{Lien web|titre=Craigslist founder donates $1M to Wikipedia|url=https://www.cbsnews.com/news/craigslist-founder-donates-1-million-dollars-to-wikipedia/|site=www.cbsnews.com|consulté le=2019-01-01}}.&lt;/ref>. L'année 2017 est marquée par la plus importante donation, 5 millions de dollars, faite par [[Peter Baldwin (professeur)|Peter Baldwin]], membre du [[conseil consultatif]], et son épouse [[Lisbet Rausing]], tous deux fondateurs de la fondation britannique Arcadia Fund&lt;ref>{{Lien web|langue=en-US|titre=Matching gift grows Wikimedia Endowment by $10 million|url=https://wikimediafoundation.org/2017/09/25/wikimedia-endowment-matching-gift/|site=Wikimedia Foundation|date=2017-09-25|consulté le=2019-01-01}}.&lt;/ref>.
+
+En 2018, les donations conséquentes se multiplient avec celles d'[[Amazon (entreprise)|Amazon]] pour 1 million de dollars&lt;ref>{{Lien web|langue=fr|titre=Amazon fait un don d’un million de dollars à la Fondation Wikimedia|url=https://www.zdnet.fr/actualites/amazon-fait-un-don-d-un-million-de-dollars-a-la-fondation-wikimedia-39874139.htm|site=ZDNet France|consulté le=2019-01-01}}.&lt;/ref>, de [[George Soros|Georges Soros]] pour 2 millions de dollars&lt;ref>{{Lien web|langue=en-US|titre=George Soros, founder of Open Society Foundations, invests in the future of free and open knowledge|url=https://wikimediafoundation.org/2018/10/15/george-soros-invests-future-free-open-knowledge/|site=Wikimedia Foundation|date=2018-10-15|consulté le=2019-01-01}}.&lt;/ref> et la dernière de [[Facebook (entreprise)|Facebook]] pour 1 million de dollars&lt;ref>{{Lien web|langue=fr|titre=Facebook offre 1 million de dollars à Wikipédia|url=https://www.lesnumeriques.com/vie-du-net/facebook-offre-1-million-dollars-a-wikipedia-n81859.html|site=www.lesnumeriques.com|date=2018-12-21|consulté le=2019-01-01}}.&lt;/ref>. En 2019 ce sera au tour de Google d'investir 2 millions de dollars &lt;ref>{{Lien web|langue=en-US|titre=Google and Wikimedia Foundation partner to increase knowledge equity online|url=https://wikimediafoundation.org/news/2019/01/22/google-and-wikimedia-foundation-partner-to-increase-knowledge-equity-online/|site=Wikimedia Foundation|date=2019-01-22|consulté le=2020-01-22}}&lt;/ref>et le couple [[Peter Baldwin (professeur)|Peter Baldwin]], [[Lisbet Rausing]], de verser 3.5 millions de dollars&lt;ref>{{Lien web|langue=en-US|titre=Peter Baldwin, Lisbet Rausing give an additional $3.5 million to the Wikimedia Endowment|url=https://wikimediafoundation.org/news/2019/04/24/peter-baldwin-lisbet-rausing-give-an-additional-3-5-million-to-the-wikimedia-endowment/|site=Wikimedia Foundation|date=2019-04-24|consulté le=2020-01-22}}&lt;/ref>.
+
+== Projets ==
+[[Fichier:Wikimedia logo family complete-2013.svg|thumb|Logos des différents projets.]]
+Tous les projets fonctionnent avec le moteur de [[wiki]] [[MediaWiki]], développé par le premier salarié de la fondation payé à temps plein, Brion Vibber&lt;ref>[https://www.youtube.com/watch?v=DWef69ItVrU 1 heure de présentation de Mediawiki par Brion Vibber chez Google]&lt;/ref>. Le développement du logiciel et son suivi dans sa [[Version d'un logiciel|version]] actuelle sont sous la responsabilité de Tim Starling, époux d'[[Angela Beesley]].
+
+En 2013 et 2014, l'[[Audience d'un site Web|audience des projets Wikimedia]] a été stable. Mais depuis 2015, elle a diminué à moins de 20 milliards de pages vues par mois&lt;ref>{{Lien web|titre=Limn|url=http://reportcard.wmflabs.org/|site=reportcard.wmflabs.org|consulté le=2016-08-22}}.&lt;/ref>.
+
+&lt;small> classés par défaut suivant leur ordre de création&lt;/small>
+{| class="wikitable sortable"
+|- style="background: #ececec;"
+| Logo
+| Projet
+| Description
+| Site web
+| Date de création
+|- 
+| [[Fichier:Wikipedia-logo.png|24px]]
+| [[Wikipédia]]
+| Encyclopédie
+| {{url|https://wikipedia.org}}
+| 15 janvier [[2001]]
+|- 
+| [[Fichier:Wikimedia Community Logo.svg|24px]]
+| [[Méta-Wiki]]
+| Wiki consacré à la coordination des projets Wikimedia
+| {{url|https://meta.wikimedia.org}}
+| 9 novembre [[2001]]
+|- 
+| [[Fichier:Wiktprintable without text.svg|24px]]
+| [[Wiktionnaire]]
+| Dictionnaire et thésaurus
+| {{url|https://wiktionary.org}}
+| 12 décembre [[2002]]
+|-
+| [[Fichier:Wikiquote-logo.svg|24px]]
+| [[Wikiquote]]
+| Recueil de citations
+| {{url|https://wikiquote.org}}
+| 27 juin [[2003]]
+|-
+| [[Fichier:Wikibooks-logo.svg|24px]]
+| [[Wikibooks]]
+| Ensemble de textes didactiques
+| {{url|https://wikibooks.org}}
+| 10 juillet [[2003]]
+|-
+| [[Fichier:Wikisource-logo.svg|24px]]
+| [[Wikisource]]
+| Recueil de textes dans le domaine public
+| {{url|https://wikisource.org}}
+| 23 novembre [[2003]]
+|-
+| [[Fichier:Commons-logo.svg|24px]]
+| [[Wikimedia Commons]]
+| Bibliothèque multimédia
+| {{url|https://commons.wikimedia.org}}
+| 7 septembre [[2004]]
+|-
+| [[Fichier:Wikinews-logo.svg|24px]]
+| [[Wikinews]]
+| Site d'informations
+| {{url|https://wikinews.org}}
+| décembre 2004
+|-
+| [[Fichier:Wikispecies-logo.svg|24px]]
+| [[Wikispecies]]
+| Répertoire du vivant
+| {{url|https://species.wikimedia.org}}
+| août 2004
+|-
+| [[Fichier:Wikimania.svg|24px]]
+| [[Wikimania]]
+| Conférence internationale annuelle
+| {{url|https://wikimania.wikimedia.org/}}
+| août 2005
+|-
+| [[Fichier:Incubator-notext.svg|24px]]
+| Incubator
+| Communauté linguistique
+| {{url|https://incubator.wikimedia.org/}}
+| juin 2006
+|-
+| [[Fichier:Wikiversity-logo.svg|24px]]
+| [[Wikiversité]]
+| Communauté pédagogique
+| {{url|https://wikiversity.org}}
+| décembre 2006
+|-
+| [[Fichier:Wikivoyage-Logo-v3-icon.svg|24px]]
+| [[Wikivoyage]]
+| Guide de voyage
+| {{url|https://wikivoyage.org/}}
+| octobre 2012
+|-
+| [[Fichier:Wikidata-logo.svg|24px]]
+| [[Wikidata]]
+| Base de connaissances
+| {{url|https://wikidata.org/}}
+| novembre 2012
+|}
+
+D'autres projets sont également accessibles dans les coulisses de metawiki&lt;ref>[[m:Wikimedia projects|Wikimedia projects]]&lt;/ref>.
+
+=== Licences ===
+En [[mars 2009]], la ''Wikimedia Foundation'' invite la communauté Wikimedia à voter sa proposition de changer les termes de la licence des contenus Wikimedia de façon que ces contenus soient disponibles sous [[Creative Commons]] Attribution-ShareAlike license (CC-BY-SA), tout en maintenant une double licence avec la [[GNU Free Documentation License]] (GFDL)&lt;ref>[[n:La fondation Wikimedia passe sous licence Creative Commons|La fondation Wikimedia passe sous licence Creative Commons]]&lt;/ref>, à l'exception de [[Wikinews]] (sous CC-BY) et de [[Wikidata]] (sous CC0).
+
+=== Organisations locales ===
+[[Fichier:Wikimedia movement 2013 FR.pdf|thumb|Schéma organisationnel début 2013]]
+La Wikimedia Foundation fédère un réseau international d'organisations associées, appelées ''[[m:Wikimedia chapters|chapitres locaux]]'' (''{{Citation étrangère|langue=en|chapters}}'' en anglais). Ces derniers ne sont pas les hébergeurs des projets de la Wikimedia Foundation, ils n'ont donc aucun pouvoir de contrôle sur ces sites mais travaillent en soutien des différentes versions linguistiques&lt;ref>{{lien web|url=https://www.actualitte.com/article/lecture-numerique/rendez-vous-a-lyon-pour-le-hackathon-europeen-de-wikimedia/55321|titre=Rendez-vous à Lyon pour le hackathon européen de Wikimédia|site=actualitte.com|auteur=Antoine Oury|consulté le=8 septembre 2015|date=18 mai 2015}}.&lt;/ref>.
+
+{| class="wikitable sortable"
+! scope="col" | Zone
+! scope="col" | Titre
+! scope="col" | URL
+! scope="col" | Depuis
+|-
+| {{Allemagne}}
+| [[m:Wikimedia Deutschland|Wikimedia Deutschland]]
+| [http://www.wikimedia.de/ wikimedia.de]
+| {{Date-|13/06/2004}}
+|-
+| {{Argentine}}
+| [[m:Wikimedia Argentina|Wikimedia Argentina]]
+| [http://www.wikimedia.org.ar/ wikimedia.org.ar]
+| {{Date-|01/09/2007}}
+|-
+| {{Australie}}
+| [[m:Wikimedia Australia|Wikimedia Australia]]
+| [http://www.wikimedia.org.au wikimedia.org.au]
+| {{Date-|01/03/2008}}
+|-
+| {{Autriche}}
+| [[m:Wikimedia Österreich|Wikimedia Österreich]]
+| [http://www.wikimedia.at wikimedia.at]
+| {{Date-|26/02/2008}}
+|-
+| {{Belgique}}
+| [[m:Wikimedia Belgium|Wikimedia Belgium]]
+| [https://be.wikimedia.org be.wikimedia.org]
+| {{Date-|08/10/2014}}
+|-
+| {{Canada}}
+| [[m:Wikimedia Canada|Wikimedia Canada]]
+| [//ca.wikimedia.org ca.wikimedia.org]
+| {{Date-|24/05/2011}}
+|-
+| {{Chili}}
+| [[m:Wikimedia Chile|Wikimedia Chile]]
+| [http://www.wikimediachile.cl wikimediachile.cl]
+| {{Date-|16/07/2011}}
+|-
+| {{Danemark}}
+| [[m:Wikimedia Danmark|Wikimedia Danmark]]
+| [http://www.wikimedia.dk wikimedia.dk]
+| {{Date-|03/07/2009}}
+|-
+| {{Espagne}}
+| [[m:Wikimedia España|Wikimedia España]]
+| [http://wikimedia.org.es wikimedia.org.es]
+| {{Date-|07/02/2011}}
+|-
+| {{Estonie}}
+| [[m:Wikimedia Eesti|Wikimedia Eesti]]
+| [http://et.wikimedia.org et.wikimedia.org]
+| {{Date-|31/08/2010}}
+|-
+| {{Finlande}}
+| [[m:Wikimedia Suomi|Wikimedia Suomi]]
+| [http://fi.wikimedia.org fi.wikimedia.org]
+| {{Date-|21/09/2009}}
+|-
+| {{France}}
+| [[m:Wikimédia France|Wikimédia France]]
+| [http://www.wikimedia.fr/ wikimedia.fr]
+| {{Date-|23/10/2004}}
+|-
+| {{Hong Kong}}
+| [[m:Wikimedia Hong Kong|香港維基媒體協會]]
+| [https://web.archive.org/web/20130708143648/https://wikimedia.hk/ wikimedia.hk]
+| {{Date-|01/03/2008}}
+|-
+| {{Hongrie}}
+| [[m:Wikimédia Magyarország|Wikimédia Magyarország]]
+| [http://wiki.media.hu/ wiki.media.hu]
+| {{Date-|27/09/2008}}
+|-
+| {{Inde}}
+| [[m:Wikimedia India|Wikimedia India]]
+| [http://wikimedia.in/ wikimedia.in]
+| {{Date-|03/01/2011}}
+|-
+| {{Indonésie}}
+| [[m:Wikimedia Indonesia|Wikimedia Indonesia]]
+| [http://wikimedia.or.id wikimedia.or.id]
+| {{Date-|07/10/2008}}
+|-
+| {{Israël}}
+| [[m:Wikimedia Israel|Wikimedia Israel]]
+| [http://www.wikimedia.org.il/ wikimedia.org.il]
+| {{Date-|26/06/2007}}
+|-
+| {{Italie}}
+| [[m:Wikimedia Italia|Wikimedia Italia]]
+| [http://www.wikimedia.it/ wikimedia.it]
+| {{Date-|17/06/2005}}
+|-
+| {{Macédoine du Nord}}
+| [[m:Wikimedia Macedonia|Викимедија Македонија]]
+| [http://mk.wikimedia.org/ mk.wikimedia.org]
+| {{Date-|01/02/2010}}
+|-
+| {{Mexique}}
+| [[m:Wikimedia Mexico|Wikimedia Mexico]]
+| [http://mk.wikimedia.org/ mk.wikimedia.org]
+| {{Date-|03/08/2011}}
+|-
+| [[Fichier:Flag of New York City.svg|20px]] [[New York]]
+| [[m:Wikimedia New York City|Wikimedia New York City]]
+| [http://nyc.wikimedia.org nyc.wikimedia.org]
+| {{Date-|12/01/2009}}
+|-
+| {{Norvège}}
+| [[m:Wikimedia Norge|Wikimedia Norge]]
+| [http://no.wikimedia.org/ no.wikimedia.org]
+| {{Date-|23/06/2007}}
+|-
+| {{Pays-Bas}}
+| [[m:Wikimedia Nederland|Wikimedia Nederland]]
+| [http://nl.wikimedia.org/ nl.wikimedia.org]
+| {{Date-|27/03/2006}}
+|-
+| {{Philippines}}
+| [[m:Wikimedia Philippines|Wikimedia Philippines]]
+| {{lien brisé|url=http://www.wikimedia.org.ph/ |titre=wikimedia.org.ph }}
+| {{Date-|12/04/2010}}
+|-
+| {{Pologne}}
+| [[m:Wikimedia Polska|Wikimedia Polska]]
+| [http://pl.wikimedia.org/ pl.wikimedia.org]
+| {{Date-|18/11/2005}}
+|-
+| {{Portugal}}
+| [[m:Wikimedia Portugal|Wikimedia Portugal]]
+| [http://www.wikimedia.pt/ wikimedia.pt]
+| {{Date-|03/07/2009}}
+|-
+| {{République tchèque}}
+| [[m:Wikimedia Czech Republic|Wikimedia Česká republika]]
+| [http://www.wikimedia.cz wikimedia.cz]
+| {{Date-|06/03/2008}}
+|-
+| {{Royaume-Uni}}
+| [[m:Wikimedia UK|Wikimedia UK]]
+| [http://uk.wikimedia.org/ uk.wikimedia.org]
+| {{Date-|12/01/2009}}
+|-
+| {{Russie}}
+| [[m:Wikimedia Russia|Wikimedia РУ]]
+| [http://wikimedia.ru/ wikimedia.ru]
+| {{Date-|24/05/2008}}
+|-
+| {{Serbie}}
+| [[m:Wikimedia Serbia|Wikimedia Србије]]
+| [http://rs.wikimedia.org/ rs.wikimedia.org]
+| {{Date-|03/12/2005}}
+|-
+| {{Suède}}
+| [[m:Wikimedia Sverige|Wikimedia Sverige]]
+| [http://se.wikimedia.org/wiki/Huvudsida se.wikimedia.org]
+| {{Date-|11/12/2007}}
+|-
+| {{Suisse}}
+| [[m:Wikimedia CH|Wikimedia CH]]
+| [http://www.wikimedia.ch/ wikimedia.ch]
+| {{Date-|14/05/2006}}
+|-
+| {{Taïwan}}
+| [[m:Wikimedia Taiwan|中華民國維基媒體協會]]
+| [http://www.wikimedia.tw/ wikimedia.tw]
+| {{Date-|04/07/2007}}
+|-
+| {{Ukraine}}
+| [[m:Wikimedia Ukraine|Wikimedia Україна]]
+| {{lien brisé|url=http://www.wikimedia.org.ua/ |titre=wikimedia.org.ua }}
+| {{Date-|03/07/2009}}
+|}
+
+Ces associations peuvent rejoindre l'association des chapitres Wikimedia (Wikimedia Chapters Association).
+
+== Lobbying ==
+Wikimedia Foundation est inscrit depuis 2014 au registre de transparence des [[Lobby|représentants d'intérêts]] auprès de la [[Commission européenne]], et déclare en 2018 pour cette activité des dépenses annuelles d'un montant compris entre {{Unité|10000|et=25000|euros}}&lt;ref>{{Lien web|titre=Registre de transparence|url=http://ec.europa.eu/transparencyregister/public/consultation/displaylobbyist.do?id=596597913132-95|site=le site de la Commission européenne|consulté le=7/5/2019}}&lt;/ref>.
+
+== Notes et références ==
+{{Références}}
+
+== Voir aussi ==
+{{Autres projets
+| commons=Wikimedia Foundation
+| wikiquote=Wikimedia Foundation
+| wikinews=Catégorie:Wikimedia
+| wikibooks=Wikipédia/Découvrir Wikipédia/Les projets associés à Wikipédia
+}}
+
+=== Liens externes ===
+* {{Site officiel}}
+
+{{Palette|Wikimedia Foundation}}
+
+{{Portail|Wikimedia|Associations|Humanitaire et développement}}
+
+[[Catégorie:Wikimedia|Foundation]]
+</textarea><div class='editOptions'>
+<div id='wpSummaryLabel' class='mw-summary oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='wpSummary' class='oo-ui-labelElement-label'><span id="MediaWiki-summary">Afin que les participants à cette page puissent rapidement comprendre vos modifications, merci de les <a href="/wiki/Aide:Bo%C3%AEte_de_r%C3%A9sum%C3%A9" title="Aide:Boîte de résumé">résumer</a> ci-dessous (par exemple, <i>ajout d'un paragraphe</i>, <i>mise en forme</i>…)&#160;:<br /></span></label></span><div class='oo-ui-fieldLayout-field'><div id='wpSummaryWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":500,"name":"wpSummary","inputId":"wpSummary","tabIndex":1,"title":"Entrez un bref r\u00e9sum\u00e9","accessKey":"b"}'><input type='text' tabindex='1' aria-disabled='false' title='Entrez un bref résumé [b]' accesskey='b' name='wpSummary' value='' id='wpSummary' maxlength='500' spellcheck='true' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div class='editCheckboxes'><div class='oo-ui-layout oo-ui-horizontalLayout'></div></div>
+<div id="editpage-copywarn">
+<div id="cpwarn" class="bandeau-systeme bandeau-niveau-modere noarchive" style="margin:0.5em 0"><div class="grosse-icone information">
+<ul><li><strong style="font-size:115%;">Ne copiez pas de texte, ni d'une page web, ni d'un autre support</strong>&#160;: respectez le <a href="/wiki/Wikip%C3%A9dia:Droit_d%27auteur" title="Wikipédia:Droit d&#39;auteur">droit d'auteur</a> (<a href="/wiki/Aide:Republication" title="Aide:Republication">aide</a>).</li>
+<li><strong style="font-size:115%;">Vos apports doivent être vérifiables</strong>&#160;: <a href="/wiki/Wikip%C3%A9dia:Citez_vos_sources" title="Wikipédia:Citez vos sources">citez vos sources</a> (<a href="/wiki/Aide:Pr%C3%A9sentez_vos_sources" title="Aide:Présentez vos sources">aide</a>).</li></ul>
+<p style="font-size:90%; text-align:center;"> En enregistrant votre contribution, vous acceptez de la placer irrévocablement sous licence <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">CC BY-SA 3.0</a> et <a rel="nofollow" class="external text" href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>. Vous acceptez d’être crédité via un hyperlien ou une URL vers l’article auquel vous contribuez. Voyez les <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/fr" class="extiw" title="foundation:Terms of Use/fr">conditions d’utilisation</a> pour plus de détails (<a href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Wikipédia:Citation et réutilisation du contenu de Wikipédia">aide</a>).</p>
+</div></div>
+</div><div class='editButtons'>
+<span id='wpSaveWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpSave","inputId":"wpSave","tabIndex":3,"title":"Publier vos modifications","accessKey":"s","label":"Publier les modifications","flags":["progressive","primary"]}'><input type='submit' tabindex='3' aria-disabled='false' title='Publier vos modifications [s]' accesskey='s' name='wpSave' id='wpSave' value='Publier les modifications' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpPreviewWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpPreview","inputId":"wpPreview","tabIndex":4,"title":"Merci de pr\u00e9visualiser vos modifications avant de les publier.","accessKey":"p","label":"Pr\u00e9visualiser"}'><input type='submit' tabindex='4' aria-disabled='false' title='Merci de prévisualiser vos modifications avant de les publier. [p]' accesskey='p' name='wpPreview' id='wpPreview' value='Prévisualiser' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpDiffWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpDiff","inputId":"wpDiff","tabIndex":5,"title":"Afficher les modifications que vous avez apport\u00e9es au texte","accessKey":"v","label":"Voir les modifications"}'><input type='submit' tabindex='5' aria-disabled='false' title='Afficher les modifications que vous avez apportées au texte [v]' accesskey='v' name='wpDiff' id='wpDiff' value='Voir les modifications' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+	<span class='cancelLink'><span id='mw-editform-cancel' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-destructive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"\/wiki\/Wikimedia_Foundation","rel":["nofollow"],"framed":false,"label":{"html":"Annuler"},"flags":["destructive"]}'><a role='button' tabindex='0' aria-disabled='false' href='/wiki/Wikimedia_Foundation' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-destructive'></span><span class='oo-ui-labelElement-label'>Annuler</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-destructive'></span></a></span></span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Aide:Comment_modifier_une_page">Aide pour la modification</a> (s’ouvre dans une nouvelle fenêtre)</span>
+</div><!-- editButtons -->
+<span id="templatesandbox-editform"><input id="wpTemplateSandboxTemplate" type="hidden" value="Wikimedia Foundation" name="wpTemplateSandboxTemplate"/><input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/></span>
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"><div class="plainlinks" style="margin-top:1px;border-width:1px;border-style:solid;border-color:#aaaaaa;padding:5px;">
+<p>Caractères spéciaux&#160;:
+<a data-mw-charinsert-start="æ" data-mw-charinsert-end="" class="mw-charinsert-item">æ</a>
+<a data-mw-charinsert-start="Æ" data-mw-charinsert-end="" class="mw-charinsert-item">Æ</a>
+<a data-mw-charinsert-start="à" data-mw-charinsert-end="" class="mw-charinsert-item">à</a>
+<a data-mw-charinsert-start="À" data-mw-charinsert-end="" class="mw-charinsert-item">À</a>
+<a data-mw-charinsert-start="â" data-mw-charinsert-end="" class="mw-charinsert-item">â</a>
+<a data-mw-charinsert-start="Â" data-mw-charinsert-end="" class="mw-charinsert-item">Â</a>
+<a data-mw-charinsert-start="ä" data-mw-charinsert-end="" class="mw-charinsert-item">ä</a>
+<a data-mw-charinsert-start="Ä" data-mw-charinsert-end="" class="mw-charinsert-item">Ä</a>
+<a data-mw-charinsert-start="á" data-mw-charinsert-end="" class="mw-charinsert-item">á</a>
+<a data-mw-charinsert-start="Á" data-mw-charinsert-end="" class="mw-charinsert-item">Á</a> ·
+<a data-mw-charinsert-start="ç" data-mw-charinsert-end="" class="mw-charinsert-item">ç</a>
+<a data-mw-charinsert-start="Ç" data-mw-charinsert-end="" class="mw-charinsert-item">Ç</a> ·
+<a data-mw-charinsert-start="€" data-mw-charinsert-end="" class="mw-charinsert-item">€</a>
+<a data-mw-charinsert-start="é" data-mw-charinsert-end="" class="mw-charinsert-item">é</a>
+<a data-mw-charinsert-start="É" data-mw-charinsert-end="" class="mw-charinsert-item">É</a>
+<a data-mw-charinsert-start="è" data-mw-charinsert-end="" class="mw-charinsert-item">è</a>
+<a data-mw-charinsert-start="È" data-mw-charinsert-end="" class="mw-charinsert-item">È</a>
+<a data-mw-charinsert-start="ê" data-mw-charinsert-end="" class="mw-charinsert-item">ê</a>
+<a data-mw-charinsert-start="Ê" data-mw-charinsert-end="" class="mw-charinsert-item">Ê</a>
+<a data-mw-charinsert-start="ë" data-mw-charinsert-end="" class="mw-charinsert-item">ë</a>
+<a data-mw-charinsert-start="Ë" data-mw-charinsert-end="" class="mw-charinsert-item">Ë</a> ·
+<a data-mw-charinsert-start="î" data-mw-charinsert-end="" class="mw-charinsert-item">î</a>
+<a data-mw-charinsert-start="Î" data-mw-charinsert-end="" class="mw-charinsert-item">Î</a>
+<a data-mw-charinsert-start="ï" data-mw-charinsert-end="" class="mw-charinsert-item">ï</a>
+<a data-mw-charinsert-start="Ï" data-mw-charinsert-end="" class="mw-charinsert-item">Ï</a>
+<a data-mw-charinsert-start="í" data-mw-charinsert-end="" class="mw-charinsert-item">í</a>
+<a data-mw-charinsert-start="Í" data-mw-charinsert-end="" class="mw-charinsert-item">Í</a> ·
+<a data-mw-charinsert-start="œ" data-mw-charinsert-end="" class="mw-charinsert-item">œ</a>
+<a data-mw-charinsert-start="Œ" data-mw-charinsert-end="" class="mw-charinsert-item">Œ</a>
+<a data-mw-charinsert-start="ô" data-mw-charinsert-end="" class="mw-charinsert-item">ô</a>
+<a data-mw-charinsert-start="Ô" data-mw-charinsert-end="" class="mw-charinsert-item">Ô</a>
+<a data-mw-charinsert-start="ö" data-mw-charinsert-end="" class="mw-charinsert-item">ö</a>
+<a data-mw-charinsert-start="Ö" data-mw-charinsert-end="" class="mw-charinsert-item">Ö</a>
+<a data-mw-charinsert-start="ó" data-mw-charinsert-end="" class="mw-charinsert-item">ó</a>
+<a data-mw-charinsert-start="Ó" data-mw-charinsert-end="" class="mw-charinsert-item">Ó</a> ·
+<a data-mw-charinsert-start="ù" data-mw-charinsert-end="" class="mw-charinsert-item">ù</a>
+<a data-mw-charinsert-start="Ù" data-mw-charinsert-end="" class="mw-charinsert-item">Ù</a>
+<a data-mw-charinsert-start="û" data-mw-charinsert-end="" class="mw-charinsert-item">û</a>
+<a data-mw-charinsert-start="Û" data-mw-charinsert-end="" class="mw-charinsert-item">Û</a>
+<a data-mw-charinsert-start="ü" data-mw-charinsert-end="" class="mw-charinsert-item">ü</a>
+<a data-mw-charinsert-start="Ü" data-mw-charinsert-end="" class="mw-charinsert-item">Ü</a>
+<a data-mw-charinsert-start="ú" data-mw-charinsert-end="" class="mw-charinsert-item">ú</a>
+<a data-mw-charinsert-start="Ú" data-mw-charinsert-end="" class="mw-charinsert-item">Ú</a> ·
+<a data-mw-charinsert-start="ÿ" data-mw-charinsert-end="" class="mw-charinsert-item">ÿ</a>
+<a data-mw-charinsert-start="Ÿ" data-mw-charinsert-end="" class="mw-charinsert-item">Ÿ</a> ·
+<a data-mw-charinsert-start="«&#160;" data-mw-charinsert-end="&#160;»" class="mw-charinsert-item">«&#160; »</a>
+<a data-mw-charinsert-start="{{subst:" data-mw-charinsert-end="}}" class="mw-charinsert-item">{{subst:}}</a>
+<a data-mw-charinsert-start="{{" data-mw-charinsert-end="}}" class="mw-charinsert-item">{{}}</a>
+<a data-mw-charinsert-start="{{|" data-mw-charinsert-end="}}" class="mw-charinsert-item">{{|}}</a>
+<a data-mw-charinsert-start="[[" data-mw-charinsert-end="]]" class="mw-charinsert-item">[[]]</a>
+<a data-mw-charinsert-start="[[|" data-mw-charinsert-end="]]" class="mw-charinsert-item">[[|]]</a>
+<a data-mw-charinsert-start="[" data-mw-charinsert-end="]" class="mw-charinsert-item">[]</a>
+<a data-mw-charinsert-start="“" data-mw-charinsert-end="”" class="mw-charinsert-item">“”</a> ·
+<a data-mw-charinsert-start="—" data-mw-charinsert-end="" class="mw-charinsert-item">—</a>
+<a data-mw-charinsert-start="–" data-mw-charinsert-end="" class="mw-charinsert-item">–</a>
+<a data-mw-charinsert-start="→" data-mw-charinsert-end="" class="mw-charinsert-item">→</a>
+<a data-mw-charinsert-start="•" data-mw-charinsert-end="" class="mw-charinsert-item">•</a>
+<a data-mw-charinsert-start="’" data-mw-charinsert-end="" class="mw-charinsert-item">’</a>
+<a data-mw-charinsert-start="|" data-mw-charinsert-end="" class="mw-charinsert-item">|</a>
+<a data-mw-charinsert-start="…" data-mw-charinsert-end="" class="mw-charinsert-item">…</a>
+<a data-mw-charinsert-start="~" data-mw-charinsert-end="" class="mw-charinsert-item">~</a>
+<a data-mw-charinsert-start="±" data-mw-charinsert-end="" class="mw-charinsert-item">±</a>
+<a data-mw-charinsert-start="#" data-mw-charinsert-end="" class="mw-charinsert-item">#</a>
+<a data-mw-charinsert-start="@" data-mw-charinsert-end="" class="mw-charinsert-item">@</a>
+<a data-mw-charinsert-start="¹" data-mw-charinsert-end="" class="mw-charinsert-item">¹</a>
+<a data-mw-charinsert-start="²" data-mw-charinsert-end="" class="mw-charinsert-item">²</a>
+<a data-mw-charinsert-start="³" data-mw-charinsert-end="" class="mw-charinsert-item">³</a>
+<a data-mw-charinsert-start="⁴" data-mw-charinsert-end="" class="mw-charinsert-item">⁴</a>
+<a data-mw-charinsert-start="⁵" data-mw-charinsert-end="" class="mw-charinsert-item">⁵</a>
+<a data-mw-charinsert-start="⁶" data-mw-charinsert-end="" class="mw-charinsert-item">⁶</a>
+<a data-mw-charinsert-start="⁷" data-mw-charinsert-end="" class="mw-charinsert-item">⁷</a>
+<a data-mw-charinsert-start="⁸" data-mw-charinsert-end="" class="mw-charinsert-item">⁸</a>
+<a data-mw-charinsert-start="⁹" data-mw-charinsert-end="" class="mw-charinsert-item">⁹</a>
+<a data-mw-charinsert-start="⁰" data-mw-charinsert-end="" class="mw-charinsert-item">⁰</a>
+<a data-mw-charinsert-start="½" data-mw-charinsert-end="" class="mw-charinsert-item">½</a>
+<a data-mw-charinsert-start="&#160;" data-mw-charinsert-end="" class="mw-charinsert-item">&#160;</a>
+&#160;&#160;&#160;&#160;&#160;<small>(<a href="/wiki/Aide:Caract%C3%A8res_sp%C3%A9ciaux" title="Aide:Caractères spéciaux">aide sur les caractères spéciaux</a>)</small>
+</p>
+<div id="specialcharsets" class="plainlinks" style="margin-top:1px; border-left-width:0; border-right-width:0; padding:2px;">
+<p class="specialbasic" title="Wiki" style="display:none;">
+<span> [[Catégorie:+]] [[Fichier:+]] [[Media:+]] [[Spécial:Diff/+]] [[Spécial:Contribs/+]] #REDIRECTION\ [[+]] </span>·
+<span> [[commons:+|]] [[m:+|]] [[n:+|]] [[q:+|]] [[s:+|]] [[b:+|]] [[wikt:+|]] [[v:+|]] [[d:+|]]</span>·
+<span> &lt;&gt;+&lt;/&gt; &lt;code&gt;+&lt;/code&gt; &lt;math&gt;+&lt;/math&gt; &lt;nowiki&gt;+&lt;/nowiki&gt; &lt;small&gt;+&lt;/small&gt; &lt;u&gt;+&lt;/u&gt; &lt;ref&gt;+&lt;/ref&gt; &lt;ref\ name=""&gt;+&lt;/ref&gt; {{Références|taille=+}} &lt;references\ /&gt; &lt;noinclude&gt;+&lt;/noinclude&gt; &lt;includeonly&gt;+&lt;/includeonly&gt; &lt;br&gt;  {{DEFAULTSORT:+}} {{CLEDETRI:+}} {{formatnum:+}} {{Portail|+}} {{Langue|xx|texte=+}}</span>·
+<span> ~~~ ~~~~ ~~~~~ {{Notif|+}}</span>...
+</p>
+<p class="specialbasic" title="Math" style="display: none;">
+<span>≠ ≤ ≥ &lt; &gt; ≡ ≈ ≅ ∝ </span> · 
+<span> − × ÷ ± ⊥ ⊕ ⊗ ∗ </span> · 
+<span> … ¼ ½ ¾ ¹ ² ³ ° ‰ </span> · 
+<span> ∂ ∫ ∑ ∞ ∏ √ ∇ </span> · 
+<span> ← → ↔ ⇐ ⇒ ⇔ </span> · 
+<span> ⌈ ⌉ ⌊ ⌋ </span> · 
+<span> ¬ ∧ ∨ ∃ ∀ </span> · 
+<span> ∈ ∉ ∋ ∅ ⊆ ⊇ ⊃ ⊂ ⊄ ∪ ∩ ℵ </span><br />
+
+Simples&#160;: <span>^{+} _{+} \sqrt[+]{} \frac{+}{} \int_{+}^{} \lim_{+\rightarrow} \sum_{+=}^{} &#160;</span><br />
+
+Fonctions standard&#160;: <span>\sin{+} \cos{+} \tan{+} </span> · 
+<span>\cot{+} \sec{+} \csc{+} </span> ·
+<span>\exp{+} \ln{+} \log{+} </span> · 
+<span>\sinh{+} \cosh{+} \tanh{+} \coth{+} </span> ·
+<span>\arcsin{+} \arccos{+} \arctan{+} </span><br />
+
+Diactritiques&#160;: <span>\acute{+} \breve{+} \check{+} \grave{+} \tilde{+}</span><br />
+
+<a href="https://meta.wikimedia.org/wiki/Aide:Formule" class="extiw" title="meta:Aide:Formule">Aide pour les formules</a>
+</p>
+<p class="specialbasic" title="API" style="display: none;">
+(française)&#160;:
+<span> a ɑ e ɛ ə i o ɔ u y ø œ </span> ·
+<span> ɔ̃ ɑ̃ ɛ̃ œ̃ </span> ·
+<span> j w ɥ </span> ·
+<span> ː ‿ _́ _̀ _̌ _̂ </span> ·
+<span> b k ʃ d f ɡ h ʒ l m n ɲ ŋ p r s t v z ʀ ʁ </span>
+&#160;&#160;&#160;(autres)&#160;:
+<span>ʈ ɖ c ɟ q ɢ ʔ ɱ ɳ ɴ ʙ ɾ ɽ ɸ β θ ð ʂ ʐ ç ʝ x ɣ χ ħ ʕ ɦ ʋ ɹ ɻ ɰ ɫ ɮ ɭ ʎ ʟ ƥ ɓ ƭ ɗ ƈ ʄ ƙ ɠ ʠ ʛ ʍ ʜ ʢ ʡ ɕ ʑ ɧ</span> ·
+<span>ʘ ǀ ǃ ǂ ǁ ɺ t͡s d͡z t͡ʃ d͡ʒ t͡ɕ d͡ʑ</span> ·
+<span> ɚ ɝ ˈ ˌ ˑ ɨ ʉ ɯ ɪ ɜ ʏ ʊ ɤ ɵ ʌ æ ɐ ɶ ɒ </span> ·
+<span>ᵊ ʰ ˤ ˠ ʲ ʷ ⁿ ᵑ ᵐ ʳ </span> ·
+<span>˥ ˦ ˧ ˨ ˩</span><br />
+
+<a href="/wiki/Alphabet_phon%C3%A9tique_international" title="Alphabet phonétique international">Alphabet phonétique international</a>
+</p>
+<p class="specialbasic" title="Latin" style="display: none;">
+<span>Á á Ć ć É é Í í Ó ó Ś ś Ú ú Ý ý Ǿ ǿ </span> ·
+<span>À à È è Ì ì Ò ò Ù ù </span> ·
+<span>Â â Ĉ ĉ Ê ê Ĝ ĝ Ĥ ĥ Î î Ĵ ĵ Ô ô ŝ Ŝ Û û </span> ·
+<span>Ä ä Ë ë Ï ï Ö ö Ü ü ÿ </span> ·
+<span>Ã ã Ñ ñ Õ õ </span> ·
+<span>Å å </span> ·
+<span>Ç ç </span> ·
+<span>Č č Š š ŭ </span> ·
+<span>Ł ł </span> ·
+<span>Ő ő Ű ű </span> ·
+<span>Ø ø </span> ·
+<span>Ā ā Ē ē Ī ī Ō ō Ū ū Ȳ ȳ</span> ·
+<span>Ă ă Ĕ ĕ Ğ ğ Ĭ ĭ Ŏ ŏ Ŭ ŭ Y̆ y̆</span> ...
+<span>ß </span> ...
+<span>Æ æ Œ œ </span> · 
+<span>Ð ð Þ þ |</span> <br />
+</p>
+<p class="specialbasic" title="Grec" style="display: none;">
+Alphabet&#160;:
+<span>Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω</span> - <span>Ϝ Ϻ ϟ Ϡ Ϛ Ϸ Ῥ</span>  — 
+<span> α β ϐ γ δ ε ζ η θ ϑ ι κ ϰ λ μ ν ξ ο π ϖ ρ ϱ σ ς τ υ φ ϕ χ ψ ω</span> - <span>ϝ ϻ ϟ ϡ ϛ ϸ ῤ ῥ</span>
+<br />
+<u>sans esprit&#160;:</u> accent aigu&#160;: <span>Ά Έ Ή Ί Ό Ύ Ώ</span> — <span>ά έ ή ί ό ύ ώ</span> — <span>ᾴ ῄ ῴ </span> — accent grave&#160;: <span>Ὰ Ὲ Ὴ Ὶ Ὸ Ὺ Ὼ</span> — <span>ὰ ὲ ὴ ὶ ὸ ὺ ὼ</span> — <span>ᾲ ῂ ῲ</span><br />
+accent circonflexe&#160;: <span>ᾶ ῆ ῖ ῦ ῶ </span> — <span>ᾷ ῇ ῷ</span> — tréma&#160;: <span> ῗ ῧ</span> — <span> ῒ ῢ </span> — <span> ΐ ΰ</span> — diphtongues&#160;: <span>ᾼ ῌ ῼ </span> — <span>ᾳ ῃ ῳ</span><br />
+<u>esprit doux&#160;:</u> sans accent&#160;: <span>Ἀ Ἐ Ἠ Ἰ Ὀ Υ̓ Ὠ</span> — <span> ᾈ ᾘ ᾨ</span> — <span>ἀ ἐ ἠ ἰ ὀ ὐ ὠ</span> — <span>ᾀ ᾐ ᾠ </span> — 
+accent aigu&#160;: <span>Ἄ Ἔ Ἤ Ἴ Ὄ Ὤ</span> — <span>ᾌ ᾜ ᾬ</span> — <span>ἄ ἔ ἤ ἴ ὄ ὔ ὤ</span> — <span>ᾄ ᾔ ᾤ</span><br />
+accent grave&#160;: <span>Ἂ Ἒ Ἢ Ἲ Ὂ Ὢ</span> — <span>ᾊ ᾚ ᾪ</span> — <span>ἂ ἒ ἢ ἲ ὂ ὒ ὢ</span> — <span>ᾂ ᾒ ᾢ</span> —
+accent circonflexe&#160;: <span>Ἆ Ἦ Ἶ Ὦ</span> — <span>ᾎ ᾞ ᾮ</span> — <span>ἆ ἦ ἶ ὖ ὦ</span> — <span>ᾆ ᾖ ᾦ</span><br />
+<u>esprit rude&#160;:</u> sans accent&#160;: <span>Ἁ Ἑ Ἡ Ἱ Ὁ Ὑ Ὡ</span> — <span>ἁ ἑ ἡ  ἱ  ὁ ὑ ὡ</span> —
+accent aigu&#160;: <span>Ἅ Ἕ Ἥ Ἵ Ὅ Ὕ Ὥ</span> — <span>ᾍ ᾝ ᾭ</span> — <span>ἅ ἕ ἥ ἵ ὅ ὕ ὥ</span> — <span>ᾅ ᾕ ᾥ</span><br />
+accent grave&#160;: <span>Ἃ Ἓ Ἣ Ἳ Ὃ Ὓ Ὣ</span> — <span>ᾋ ᾛ ᾫ </span> — <span>ἃ ἓ ἣ ἳ ὃ ὓ ὣ</span> — <span>ᾃ ᾓ ᾣ</span> —
+accent circonflexe&#160;: <span>Ἇ Ἧ Ἷ Ὗ</span> — <span>ᾏ ᾟ ᾯ</span> — <span>ἇ ἧ ἷ ὗ ὧ</span> — <span>ᾇ ᾗ ᾧ</span> <br />
+Voyelles courtes&#160;: <span>Ᾰ ᾰ Ῐ ῐ Ῠ ῠ</span> — Voyelles longues&#160;: <span>Ᾱ ᾱ Ῑ ῑ Ῡ ῡ</span>
+</p>
+<p class="specialbasic" title="Cyrillique" style="display: none;">
+<span>А Б В Г Д Е Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я</span> · 
+<span>а б в г д е ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я</span><br />
+Serbe&#160;: <span>Ђ ђ Ј ј Љ љ Њ њ Ћ ћ Џ џ</span>
+</p>
+<p class="specialbasic" title="AHD" style="display: none;">
+<span>ā ă ä â ē ĕ ī ĭ î ō ŏ ô ŭ o͞o </span> ("food") <span>o͝o </span> ("foot") <span>û ə </span> · 
+</p>
+<p class="specialbasic" title="Diacritiques" style="display: none;">
+<span>ʾ ʿ ḇ č ḍ ḏ ǧ ḡ ǵ ḥ ḫ ḳ ḵ p̄ ṣ š ś ṭ ṯ ẓ ž ā ă á ǝ ē ĕ ī ĭ ō ŏ ū ŭ</span>
+</p>
+<p class="speciallang" title="Allemand" style="display: none;">
+<span>Ä ä Ö ö ß Ü ü</span>
+</p>
+<p title="Arabe" class="speciallang" style="display: none;"><br />
+<span lang="ar" title="Arabic text" dir="rtl" class="spanAr" style="font-size:110%;font-family:monospace">ﺍ ﺑ ﺗ ﺛ ﺟ ﺣ ﺧ ﺩ ﺫ ﺭ ﺯ ﺳ ﺷ ﺻ ﺿ ﻃ ﻇ ﻋ ﻏ ﻓ ﻗ ﻛ ﻟ ﻣ ﻧ ﻫ ﻭ ﻳ </span> · Initial<br />
+<span lang="ar" title="Arabic text" dir="rtl" class="spanAr" style="font-size:110%;font-family:monospace">ﺍ ﺒ ﺘ ﺜ ﺠ ﺤ ﺨ ﺪ ﺬ ﺮ ﺰ ﺴ ﺸ ﺼ ﻀ ﻄ ﻈ ﻌ ﻐ ﻔ ﻘ ﻜ ﻠ ﻤ ﻨ ﻬ ﻮ ﻴ </span> · Médial<br />
+<span lang="ar" title="Arabic text" dir="rtl" class="spanAr" style="font-size:110%;font-family:monospace">ﺎ ﺐ ﺖ ﺚ ﺞ ﺢ ﺦ ﺪ ﺬ ﺮ ﺰ ﺲ ﺶ ﺺ ﺾ ﻂ ﻆ ﻊ ﻎ ﻒ ﻖ ﻚ ﻞ ﻢ ﻦ ﻪ ﻮ ﻲ </span> · Final<br />
+<span lang="ar" title="Arabic text" dir="rtl" class="spanAr" style="font-size:110%;font-family:monospace">ﺍ ﺏ ﺕ ﺙ ﺝ ﺡ ﺥ ﺩ ﺫ ﺭ ﺯ ﺱ ﺵ ﺹ ﺽ ﻁ ﻅ ﻉ ﻍ ﻑ ﻕ ﻙ ﻝ ﻡ ﻥ ﻩ ﻭ ﻱ </span> · Seul<br />
+Diacritiques majuscules&#160;: <span>Ṭ Ṯ Ḥ Ḫ Ḏ Ḍ Ṣ Š Ẓ Ḡ Ā Ī Ū</span><br />
+Diacritiques minuscules&#160;: <span>ṭ ṯ ḥ ḫ ḏ ḍ ṣ š ẓ ḡ ā ī ū ʾ ʿ</span><br /> 
+</p>
+<p class="speciallang" title="Berbère" style="display: none;">
+Tifinagh&#160;: <span>ⴰⴱ</span>(ⴲ) <span>ⴳ</span>(ⴴ) <span>ⴷ</span>(ⴸ) <span>ⴺ</span>(ⴹ) <span>ⴻ ⴼ ⴽ</span>(ⴿ) <span>ⵀ ⵃ ⵄ ⵅ ⵇ ⵉ ⵊ ⵍ ⵎ ⵏ</span>(ⵒ) <span>ⵓ ⵔ ⵕ ⵖ ⵙ ⵚ ⵛ ⵜ</span>(ⵝ) <span>ⵟ </span>(ⵠ) <span>ⵡ ⵢ ⵣ ⵥ ⵯ</span><br />
+Latin, majuscules&#160;: <span>Ɛ Č Ḍ Ğ Ḥ Γ(Ɣ) Ṛ Ṣ Ṭ Ț Ẓ Ž</span><br />
+Latin, minuscules&#160;: <span>ε č ḍ ğ ḥ ɣ ṛ ṣ ṭ ţ ẓ ž</span><br />
+Latin, labio-vélarisation&#160;: <span>ʷ</span><br />
+</p>
+<p class="speciallang" title="Catalan" style="display: none;">
+<span>À à Ç ç É é È è Í í Ï ï Ó ó Ò ò Ú ú Ü ü L·L l·l ·</span>
+</p>
+<p class="speciallang" title="Croate" style="display: none;">
+<span>Č č Ć ć Dž dž Đ đ Š š Ž ž</span>
+</p>
+<p class="speciallang" title="Espagnol" style="display: none;">
+<span>¿+? ¡+! Á á É é Í í Ñ ñ Ó ó Ú ú Ü ü ª º</span>
+</p>
+<p class="speciallang" title="Espéranto" style="display: none;">
+<span>Ĉ ĉ Ĝ ĝ Ĥ ĥ Ĵ ĵ Ŝ ŝ Ŭ ŭ</span>
+</p>
+<p class="speciallang" title="Estonien" style="display: none;">
+<span>Č č Š š Ž ž Õ õ Ä ä Ö ö Ü ü</span>
+</p>
+<p class="speciallang" title="Gallois" style="display: none;">
+<span>Á á À à Â â Ä ä É é È è Ê ê Ë ë Ì ì Î î Ï ï Ó ó Ò ò Ô ô Ö ö Ù ù Û û Ẁ ẁ Ŵ ŵ Ẅ ẅ Ý ý Ỳ ỳ Ŷ ŷ Ÿ ÿ</span>
+</p>
+<p class="speciallang" title="Hawaïen" style="display: none;">
+<span>Ā ā Ē ē Ī ī Ō ō Ū ū ʻ</span>
+</p>
+<p title="Hébreu" class="speciallang" style="display: none;">
+<span>א ב ג ד ה ו ז ח ט י כ ך ל מ ם נ ן ס ע פ ף צ ץ ק ר ש ת ׳ ״</span>
+</p>
+<p class="speciallang" title="Hiéroglyphes" style="display: none;">
+<span>ȝ ỉ ˁ ḥ ḫ ẖ ś š ḳ ṯ ḏ</span>
+<span>Ȝ Ỉ ˁ Ḥ Ḫ ẖ Ś Š Ḳ Ṯ Ḏ</span>
+<span>&lt;hiero&gt;+&lt;/hiero&gt;</span>
+<a href="https://www.mediawiki.org/wiki/Extension:WikiHiero/Syntax/fr" class="extiw" title="mw:Extension:WikiHiero/Syntax/fr">Aide pour les hiéroglyphes</a>
+</p>
+<p title="Hongrois" class="speciallang" style="display: none;">
+<span>Á á É é Í í Ó ó Ö ö Ő ő Ú ú Ü ü Ű ű</span>
+</p>
+<p title="Indo-européen" class="speciallang" style="display: none;">
+<span>ḱ ǵ ʰ ʷ h₁ h₂ h₃ m̥ n̥ l̥ r̥ ē ō þ ð ƕ</span>
+</p>
+<p title="Irlandais" class="speciallang" style="display: none;">
+<span>Á á Ḃ ḃ Ċ ċ Ḋ ḋ É é Ḟ ḟ Ġ ġ Í í Ṁ ṁ Ó ó Ṗ ṗ Ṡ ṡ Ṫ ṫ Ú ú</span>
+</p>
+<p class="speciallang" title="Islandais" style="display: none;">
+<span>Á á Ð ð É é Í í Ó ó Ú ú Ý ý Þ þ Æ æ Ö ö</span>
+</p>
+<p class="speciallang" title="Italien" style="display: none;">
+<span>Á á À à É é È è Í í Ì ì Ó ó Ò ò Ú ú Ù ù</span>
+</p>
+<p title="Letton" class="speciallang" style="display: none;">
+<span>Ā ā Č č Ē ē Ģ ģ Ī ī Ķ ķ Ļ ļ Ņ ņ Ō ō Ŗ ŗ Š š Ū ū Ž ž</span>
+</p>
+<p title="Lituanien" class="speciallang" style="display: none;">
+<span>Ą ą Č č Ę ę Ė ė Į į Š š Ų ų Ū ū Ž ž</span>
+</p>
+<p class="speciallang" title="Maltais" style="display: none;">
+<span>Ċ ċ Ġ ġ Ħ ħ Ż ż</span>
+</p>
+<p title="Navajo &amp; Apache" class="speciallang" style="display: none;">
+<span>’ Á á Ą ą Ą́ ą́ É é Ę ę Ę́ ę́ Í í Į į Į́ į́ Ł ł Ó ó Ǫ ǫ Ǫ́ ǫ́ Ú ú Ų ų Ų́ ų́</span>
+</p>
+<p title="Néerlandais" class="speciallang" style="display: none;">
+<span>Ä ä  Ë ë  Ï ï  Ö ö  Ü ü  Ÿ ÿ </span> · 
+<span>Á á  É é  Í í  Ó ó  Ú ú </span> · 
+<span>À à  È è  Ì ì  Ò ò  Ù ù </span> · 
+<span>Â â  Ê ê  Î î  Ô ô  Û û </span> · 
+<span>Ĳ ĳ  ſ ƒ € </span>
+</p>
+<p class="speciallang" title="Pinyin" style="display: none;">
+<span>Ā ā Á á Ǎ ǎ À à Ē ē É é Ě ě È è Ī ī Í í Ǐ ǐ Ì ì Ō ō Ó ó Ǒ ǒ Ò ò Ū ū Ú ú Ǔ ǔ Ù ù Ǖ ǖ Ǘ ǘ Ǚ ǚ Ǜ ǜ Ü ü</span>
+</p>
+<p class="speciallang" title="Polonais" style="display: none;">
+<span>ą Ą ć Ć ę Ę ł Ł ń Ń ó Ó ś Ś ź Ź ż Ż</span>
+</p>
+<p class="speciallang" title="Portugais" style="display: none;">
+<span>Á á À à Â â Ã ã Ç ç É é Ê ê Í í Ó ó Ô ô Õ õ Ú ú Ü ü</span>
+</p>
+<p class="speciallang" title="Romaji" style="display: none;">
+<span>Ā ā Ē ē Ī ī Ō ō Ū ū</span>
+</p>
+<p class="speciallang" title="Roumain" style="display: none;">
+<span>Ă ă Â â Î î Ș ș Ț ț</span>
+</p>
+<p class="speciallang" title="Scandinave" style="display: none;">
+<span>À à É é Å å Æ æ Ä ä Ø ø Ö ö</span>
+</p>
+<p class="speciallang" title="Tchèque" style="display: none;">
+<span>Á á Č č Ď ď É é Ě ě Í í Ň ň Ó ó Ř ř Š š Ť ť Ú ú Ů ů Ý ý Ž ž</span>
+</p>
+<p title="Turc" class="speciallang" style="display: none;">
+<span>Ç ç Ə ə Ä ä Ğ ğ G‘ g‘ İ ı Ž ž Ň ň Ö ö O‘ o‘ Ş ş Ţ ţ Ü ü Ý ý</span>
+</p>
+<p class="speciallang" title="Vieil anglais" style="display: none;">
+<span>Ā ā Æ æ Ǣ ǣ Ǽ ǽ Ċ ċ Ð ð Ē ē Ġ ġ Ī ī Ō ō Ū ū Ƿ ƿ Ȳ ȳ Þ þ Ȝ ȝ</span>
+</p>
+<p class="speciallang" title="Vietnamien" style="display: none;">
+<span>À à Ả ả Á á Ạ ạ Ã ã Ă ă Ằ ằ Ẳ ẳ Ẵ ẵ Ắ ắ Ặ ặ Â â Ầ ầ Ẩ ẩ Ẫ ẫ Ấ ấ Ậ ậ Đ đ È è Ẻ ẻ Ẽ ẽ É é Ẹ ẹ Ê ê Ề ề Ể ể Ễ ễ Ế ế Ệ ệ Ỉ ỉ Ĩ ĩ Í í Ị ị Ì ì Ỏ ỏ Ó ó Ọ ọ Ò ò Õ õ Ô ô Ồ ồ Ổ ổ Ỗ ỗ Ố ố Ộ ộ Ơ ơ Ờ ờ Ở ở Ỡ ỡ Ớ ớ Ợ ợ Ù ù Ủ ủ Ũ ũ Ú ú Ụ ụ Ư ư Ừ ừ Ử ử Ữ ữ Ứ ứ Ự ự Ỳ ỳ Ỷ ỷ Ỹ ỹ Ỵ ỵ Ý ý</span>
+</p>
+<p title="Yiddish" class="speciallang" style="display: none;">
+<span>א אַ אָ ב בֿ ג ד ה ו וּ װ ױ ז ח ט י יִ ײ ײַ כ כּ ך ל מ ם נ ן ס ע פּ פֿ ף צ ץ ק ר ש שׂ ת תּ ׳ ״</span>
+</p>
+</div>
+</div>
+<div id="edittoolsinfo"></div></div><div class="wikibase-entity-usage"><div class="wikibase-entityusage-explanation"><p>Entités de Wikidata utilisées sur cette page
+</p></div>
+<ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P1059">identifiant CVR</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P1297">IRS Employer Identification Number</a> : Déclaration&#160;: P3303, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P1320">identifiant OpenCorporates d'une entreprise</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P1616">numéro SIREN</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P2333">numéro d'organisation norvégienne</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P2391">identifiant OKPO</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P2619">identifiant d'entreprise hongroise</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P2622">identifiant Companies House d'une entreprise</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P3202">code UAI</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P3206">identifiant d'organisation data.gouv.fr</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P3215">numéro SIRET</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P3376">numéro d'entreprise (Belgique)</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P3608">numéro européen de TVA</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P3918">numéro RNA</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P5531">Central Index Key</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/P6671">identifiant sur l'annuaire du service public français</a> : Déclaration&#160;: P1630, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1195372">Frank Stanton</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1200258">Alfred P. Sloan Foundation</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1288412">Hewlett Foundation</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1313036">Fondation Ford</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q149067">Pavel Dourov</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q14943340">Jan-Bart de Vreede</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Liens de site, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q155076">personne morale</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q157031">fondation</a> : Libellé&#160;: fr, Titre, Autre (déclarations), Déclaration&#160;: P279</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15735639">María Sefidari</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15735712">Patricio Lorente</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Liens de site, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q15911314">association</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16334295">groupe d'humains</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q163740">organisme sans but lucratif</a> : Déclaration&#160;: P279, Autre (déclarations), Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16741739">Lila Tretikov</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16743867">directeur général de la Wikimedia Foundation</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q17088752">Laura and John Arnold Foundation</a> : Libellé&#160;: fr, Liens de site, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q171">wiki</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1726129">fondation Stavros Niarchos</a> : Libellé&#160;: fr, Liens de site, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q180">Fondation Wikimedia</a> : Titre, Autre (déclarations), Liens de site, Libellé&#160;: fr, Quelques déclarations</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q181">Jimmy Wales</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P18, Déclaration&#160;: P569, Déclaration&#160;: P570, Déclaration&#160;: P21, Déclaration&#160;: P27, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18219536">Christophe Henner</a> : Libellé&#160;: fr, Titre, Liens de site, Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18325436">association 501(c)(3)</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P101, Déclaration&#160;: P279, Déclaration&#160;: P361, Déclaration&#160;: P366, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18355352">Two Sigma Investments</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q18392821">Stanton Foundation</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q23034479">Katherine Maher</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P18, Déclaration&#160;: P569, Déclaration&#160;: P570, Déclaration&#160;: P21, Déclaration&#160;: P27, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q240625">501c</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q24229398">agent</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q243969">Gordon Earle Moore</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q266722">Florence Devouard</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q26986295">Laura Arnold</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2719386">Michael Snow</a> : Déclaration&#160;: P18, Déclaration&#160;: P569, Déclaration&#160;: P570, Déclaration&#160;: P21, Déclaration&#160;: P27, Autre (déclarations), Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q28444691">LOT Network</a> : Libellé&#160;: fr, Libellé&#160;: en, Titre, Déclaration&#160;: P749, Déclaration&#160;: P127, Déclaration&#160;: P112, Autre (déclarations), Liens de site</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q30">États-Unis</a> : Libellé&#160;: fr</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3070474">Gordon and Betty Moore Foundation</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q33090271">Siegel Family Endowment</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations), Liens de site</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q33092670">David Siegel</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3352030">Omidyar Network</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3529173">Ting Chen</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37033">World Wide Web Consortium</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3778211">personnalité juridique</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q380467">William Hewlett</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q43229">organisation</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q45135687">Brin Wojcicki Foundation</a> : Libellé&#160;: en, Libellé&#160;: fr, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations), Liens de site</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48204">association</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4917">dollar américain</a> : Déclaration&#160;: P5061, Libellé&#160;: fr, Autre (déclarations), Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q53729922">Joint Roadmap for Open Science Tools</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations), Liens de site</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q55100612">Carolyn Doran</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Titre, Liens de site</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q55862998">OSM Innovation Award</a> : Libellé&#160;: fr, Titre, Déclaration&#160;: P1027, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q62">San Francisco</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6228096">John D. Arnold</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6256434">Fondation John S. and James L. Knight</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6542248">Fondation OpenStreetMap</a> : Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q6986957">Neeru Khosla</a> : Libellé&#160;: fr, Liens de site, Titre, Déclaration&#160;: P112, Déclaration&#160;: P127, Déclaration&#160;: P749, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q708676">association caritative</a> : Libellé&#160;: fr, Titre, Autre (déclarations), Déclaration&#160;: P279</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q738005">Vinod Khosla</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7524">Sue Gardner</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7545">Kat Walsh</a> : Déclaration&#160;: P18, Déclaration&#160;: P21, Déclaration&#160;: P27, Déclaration&#160;: P569, Déclaration&#160;: P570, Libellé&#160;: fr, Autre (déclarations), Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q786194">Open Society Foundations</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q79913">organisation non gouvernementale</a> : Déclaration&#160;: P279, Autre (déclarations)</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q95">Google</a> : Libellé&#160;: fr, Titre</li><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q974541">Craig Newmark</a> : Libellé&#160;: fr, Titre</li></ul></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Modèles utilisés par cette page&#160;:
+</p></div><ul>
+<li><a href="/wiki/Mod%C3%A8le:," title="Modèle:,">Modèle:,</a> (<a href="/w/index.php?title=Mod%C3%A8le:,&amp;action=edit" title="Modèle:,">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:15e" title="Modèle:15e">Modèle:15e</a> (<a href="/w/index.php?title=Mod%C3%A8le:15e&amp;action=edit" title="Modèle:15e">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Allemagne" title="Modèle:Allemagne">Modèle:Allemagne</a> (<a href="/w/index.php?title=Mod%C3%A8le:Allemagne&amp;action=edit" title="Modèle:Allemagne">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Argentine" title="Modèle:Argentine">Modèle:Argentine</a> (<a href="/w/index.php?title=Mod%C3%A8le:Argentine&amp;action=edit" title="Modèle:Argentine">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Article" title="Modèle:Article">Modèle:Article</a> (<a href="/w/index.php?title=Mod%C3%A8le:Article&amp;action=edit" title="Modèle:Article">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Australie" title="Modèle:Australie">Modèle:Australie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Australie&amp;action=edit" title="Modèle:Australie">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Autres_projets" title="Modèle:Autres projets">Modèle:Autres projets</a> (<a href="/w/index.php?title=Mod%C3%A8le:Autres_projets&amp;action=edit" title="Modèle:Autres projets">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Autres_projets/styles.css" title="Modèle:Autres projets/styles.css">Modèle:Autres projets/styles.css</a> (<a href="/w/index.php?title=Mod%C3%A8le:Autres_projets/styles.css&amp;action=edit" title="Modèle:Autres projets/styles.css">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Autriche" title="Modèle:Autriche">Modèle:Autriche</a> (<a href="/w/index.php?title=Mod%C3%A8le:Autriche&amp;action=edit" title="Modèle:Autriche">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Belgique" title="Modèle:Belgique">Modèle:Belgique</a> (<a href="/w/index.php?title=Mod%C3%A8le:Belgique&amp;action=edit" title="Modèle:Belgique">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:CIO-d" title="Modèle:CIO-d">Modèle:CIO-d</a> (<a href="/w/index.php?title=Mod%C3%A8le:CIO-d&amp;action=edit" title="Modèle:CIO-d">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Canada" title="Modèle:Canada">Modèle:Canada</a> (<a href="/w/index.php?title=Mod%C3%A8le:Canada&amp;action=edit" title="Modèle:Canada">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Cat%C3%A9gorisation_badges" title="Modèle:Catégorisation badges">Modèle:Catégorisation badges</a> (<a href="/w/index.php?title=Mod%C3%A8le:Cat%C3%A9gorisation_badges&amp;action=edit" title="Modèle:Catégorisation badges">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Chili" title="Modèle:Chili">Modèle:Chili</a> (<a href="/w/index.php?title=Mod%C3%A8le:Chili&amp;action=edit" title="Modèle:Chili">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Citation" title="Modèle:Citation">Modèle:Citation</a> (<a href="/w/index.php?title=Mod%C3%A8le:Citation&amp;action=edit" title="Modèle:Citation">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Citation_bloc" title="Modèle:Citation bloc">Modèle:Citation bloc</a> (<a href="/w/index.php?title=Mod%C3%A8le:Citation_bloc&amp;action=edit" title="Modèle:Citation bloc">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Citation_%C3%A9trang%C3%A8re" title="Modèle:Citation étrangère">Modèle:Citation étrangère</a> (<a href="/w/index.php?title=Mod%C3%A8le:Citation_%C3%A9trang%C3%A8re&amp;action=edit" title="Modèle:Citation étrangère">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Confusion" title="Modèle:Confusion">Modèle:Confusion</a> (<a href="/w/index.php?title=Mod%C3%A8le:Confusion&amp;action=edit" title="Modèle:Confusion">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Allemagne" title="Modèle:Country data Allemagne">Modèle:Country data Allemagne</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Allemagne&amp;action=edit" title="Modèle:Country data Allemagne">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Argentine" title="Modèle:Country data Argentine">Modèle:Country data Argentine</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Argentine&amp;action=edit" title="Modèle:Country data Argentine">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Australie" title="Modèle:Country data Australie">Modèle:Country data Australie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Australie&amp;action=edit" title="Modèle:Country data Australie">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Autriche" title="Modèle:Country data Autriche">Modèle:Country data Autriche</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Autriche&amp;action=edit" title="Modèle:Country data Autriche">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Belgique" title="Modèle:Country data Belgique">Modèle:Country data Belgique</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Belgique&amp;action=edit" title="Modèle:Country data Belgique">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Canada" title="Modèle:Country data Canada">Modèle:Country data Canada</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Canada&amp;action=edit" title="Modèle:Country data Canada">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Chili" title="Modèle:Country data Chili">Modèle:Country data Chili</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Chili&amp;action=edit" title="Modèle:Country data Chili">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Danemark" title="Modèle:Country data Danemark">Modèle:Country data Danemark</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Danemark&amp;action=edit" title="Modèle:Country data Danemark">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Espagne" title="Modèle:Country data Espagne">Modèle:Country data Espagne</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Espagne&amp;action=edit" title="Modèle:Country data Espagne">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Estonie" title="Modèle:Country data Estonie">Modèle:Country data Estonie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Estonie&amp;action=edit" title="Modèle:Country data Estonie">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Country_data_Finlande" title="Modèle:Country data Finlande">Modèle:Country data Finlande</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Finlande&amp;action=edit" title="Modèle:Country data Finlande">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_France" title="Modèle:Country data France">Modèle:Country data France</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_France&amp;action=edit" title="Modèle:Country data France">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Hong_Kong" title="Modèle:Country data Hong Kong">Modèle:Country data Hong Kong</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Hong_Kong&amp;action=edit" title="Modèle:Country data Hong Kong">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Country_data_Hongrie" title="Modèle:Country data Hongrie">Modèle:Country data Hongrie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Hongrie&amp;action=edit" title="Modèle:Country data Hongrie">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Inde" title="Modèle:Country data Inde">Modèle:Country data Inde</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Inde&amp;action=edit" title="Modèle:Country data Inde">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Indon%C3%A9sie" title="Modèle:Country data Indonésie">Modèle:Country data Indonésie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Indon%C3%A9sie&amp;action=edit" title="Modèle:Country data Indonésie">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Country_data_Isra%C3%ABl" title="Modèle:Country data Israël">Modèle:Country data Israël</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Isra%C3%ABl&amp;action=edit" title="Modèle:Country data Israël">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Italie" title="Modèle:Country data Italie">Modèle:Country data Italie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Italie&amp;action=edit" title="Modèle:Country data Italie">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Mac%C3%A9doine_du_Nord" title="Modèle:Country data Macédoine du Nord">Modèle:Country data Macédoine du Nord</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Mac%C3%A9doine_du_Nord&amp;action=edit" title="Modèle:Country data Macédoine du Nord">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Country_data_Mexique" title="Modèle:Country data Mexique">Modèle:Country data Mexique</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Mexique&amp;action=edit" title="Modèle:Country data Mexique">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Norv%C3%A8ge" title="Modèle:Country data Norvège">Modèle:Country data Norvège</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Norv%C3%A8ge&amp;action=edit" title="Modèle:Country data Norvège">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Pays-Bas" title="Modèle:Country data Pays-Bas">Modèle:Country data Pays-Bas</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Pays-Bas&amp;action=edit" title="Modèle:Country data Pays-Bas">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Philippines" title="Modèle:Country data Philippines">Modèle:Country data Philippines</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Philippines&amp;action=edit" title="Modèle:Country data Philippines">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Country_data_Pologne" title="Modèle:Country data Pologne">Modèle:Country data Pologne</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Pologne&amp;action=edit" title="Modèle:Country data Pologne">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Portugal" title="Modèle:Country data Portugal">Modèle:Country data Portugal</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Portugal&amp;action=edit" title="Modèle:Country data Portugal">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Russie" title="Modèle:Country data Russie">Modèle:Country data Russie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Russie&amp;action=edit" title="Modèle:Country data Russie">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_R%C3%A9publique_tch%C3%A8que" title="Modèle:Country data République tchèque">Modèle:Country data République tchèque</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_R%C3%A9publique_tch%C3%A8que&amp;action=edit" title="Modèle:Country data République tchèque">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Serbie" title="Modèle:Country data Serbie">Modèle:Country data Serbie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Serbie&amp;action=edit" title="Modèle:Country data Serbie">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Suisse" title="Modèle:Country data Suisse">Modèle:Country data Suisse</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Suisse&amp;action=edit" title="Modèle:Country data Suisse">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Su%C3%A8de" title="Modèle:Country data Suède">Modèle:Country data Suède</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Su%C3%A8de&amp;action=edit" title="Modèle:Country data Suède">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Country_data_Ta%C3%AFwan" title="Modèle:Country data Taïwan">Modèle:Country data Taïwan</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Ta%C3%AFwan&amp;action=edit" title="Modèle:Country data Taïwan">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Country_data_Ukraine" title="Modèle:Country data Ukraine">Modèle:Country data Ukraine</a> (<a href="/w/index.php?title=Mod%C3%A8le:Country_data_Ukraine&amp;action=edit" title="Modèle:Country data Ukraine">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Danemark" title="Modèle:Danemark">Modèle:Danemark</a> (<a href="/w/index.php?title=Mod%C3%A8le:Danemark&amp;action=edit" title="Modèle:Danemark">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Date" title="Modèle:Date">Modèle:Date</a> (<a href="/w/index.php?title=Mod%C3%A8le:Date&amp;action=edit" title="Modèle:Date">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Date-" title="Modèle:Date-">Modèle:Date-</a> (<a href="/w/index.php?title=Mod%C3%A8le:Date-&amp;action=edit" title="Modèle:Date-">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:En" title="Modèle:En">Modèle:En</a> (<a href="/w/index.php?title=Mod%C3%A8le:En&amp;action=edit" title="Modèle:En">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Espace" title="Modèle:Espace">Modèle:Espace</a> (<a href="/w/index.php?title=Mod%C3%A8le:Espace&amp;action=edit" title="Modèle:Espace">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Espagne" title="Modèle:Espagne">Modèle:Espagne</a> (<a href="/w/index.php?title=Mod%C3%A8le:Espagne&amp;action=edit" title="Modèle:Espagne">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Estonie" title="Modèle:Estonie">Modèle:Estonie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Estonie&amp;action=edit" title="Modèle:Estonie">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Finlande" title="Modèle:Finlande">Modèle:Finlande</a> (<a href="/w/index.php?title=Mod%C3%A8le:Finlande&amp;action=edit" title="Modèle:Finlande">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Fix" title="Modèle:Fix">Modèle:Fix</a> (<a href="/w/index.php?title=Mod%C3%A8le:Fix&amp;action=edit" title="Modèle:Fix">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:France" title="Modèle:France">Modèle:France</a> (<a href="/w/index.php?title=Mod%C3%A8le:France&amp;action=edit" title="Modèle:France">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:GBR-d" title="Modèle:GBR-d">Modèle:GBR-d</a> (<a href="/w/index.php?title=Mod%C3%A8le:GBR-d&amp;action=edit" title="Modèle:GBR-d">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Hong_Kong" title="Modèle:Hong Kong">Modèle:Hong Kong</a> (<a href="/w/index.php?title=Mod%C3%A8le:Hong_Kong&amp;action=edit" title="Modèle:Hong Kong">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Hongrie" title="Modèle:Hongrie">Modèle:Hongrie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Hongrie&amp;action=edit" title="Modèle:Hongrie">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Inde" title="Modèle:Inde">Modèle:Inde</a> (<a href="/w/index.php?title=Mod%C3%A8le:Inde&amp;action=edit" title="Modèle:Inde">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Indication_de_langue" title="Modèle:Indication de langue">Modèle:Indication de langue</a> (<a href="/w/index.php?title=Mod%C3%A8le:Indication_de_langue&amp;action=edit" title="Modèle:Indication de langue">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Indon%C3%A9sie" title="Modèle:Indonésie">Modèle:Indonésie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Indon%C3%A9sie&amp;action=edit" title="Modèle:Indonésie">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Infobox_Organisation2" title="Modèle:Infobox Organisation2">Modèle:Infobox Organisation2</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox_Organisation2&amp;action=edit" title="Modèle:Infobox Organisation2">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Infobox_en_Lua" title="Modèle:Infobox en Lua">Modèle:Infobox en Lua</a> (<a href="/w/index.php?title=Mod%C3%A8le:Infobox_en_Lua&amp;action=edit" title="Modèle:Infobox en Lua">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Isra%C3%ABl" title="Modèle:Israël">Modèle:Israël</a> (<a href="/w/index.php?title=Mod%C3%A8le:Isra%C3%ABl&amp;action=edit" title="Modèle:Israël">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Italie" title="Modèle:Italie">Modèle:Italie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Italie&amp;action=edit" title="Modèle:Italie">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Langue" title="Modèle:Langue">Modèle:Langue</a> (<a href="/w/index.php?title=Mod%C3%A8le:Langue&amp;action=edit" title="Modèle:Langue">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Langue_du_titre" title="Modèle:Langue du titre">Modèle:Langue du titre</a> (<a href="/w/index.php?title=Mod%C3%A8le:Langue_du_titre&amp;action=edit" title="Modèle:Langue du titre">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Lien_bris%C3%A9" title="Modèle:Lien brisé">Modèle:Lien brisé</a> (<a href="/w/index.php?title=Mod%C3%A8le:Lien_bris%C3%A9&amp;action=edit" title="Modèle:Lien brisé">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Lien_web" title="Modèle:Lien web">Modèle:Lien web</a> (<a href="/w/index.php?title=Mod%C3%A8le:Lien_web&amp;action=edit" title="Modèle:Lien web">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Liste_des_dirigeants_successifs" title="Modèle:Liste des dirigeants successifs">Modèle:Liste des dirigeants successifs</a> (<a href="/w/index.php?title=Mod%C3%A8le:Liste_des_dirigeants_successifs&amp;action=edit" title="Modèle:Liste des dirigeants successifs">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Liste_%C3%A9l%C3%A9ments" title="Modèle:Liste éléments">Modèle:Liste éléments</a> (<a href="/w/index.php?title=Mod%C3%A8le:Liste_%C3%A9l%C3%A9ments&amp;action=edit" title="Modèle:Liste éléments">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Liste_%C3%A9l%C3%A9ments/styles.css" title="Modèle:Liste éléments/styles.css">Modèle:Liste éléments/styles.css</a> (<a href="/w/index.php?title=Mod%C3%A8le:Liste_%C3%A9l%C3%A9ments/styles.css&amp;action=edit" title="Modèle:Liste éléments/styles.css">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:L%C3%A9gende" title="Modèle:Légende">Modèle:Légende</a> (<a href="/w/index.php?title=Mod%C3%A8le:L%C3%A9gende&amp;action=edit" title="Modèle:Légende">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:L%C3%A9gende/D%C3%A9but" title="Modèle:Légende/Début">Modèle:Légende/Début</a> (<a href="/w/index.php?title=Mod%C3%A8le:L%C3%A9gende/D%C3%A9but&amp;action=edit" title="Modèle:Légende/Début">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:L%C3%A9gende/Fin" title="Modèle:Légende/Fin">Modèle:Légende/Fin</a> (<a href="/w/index.php?title=Mod%C3%A8le:L%C3%A9gende/Fin&amp;action=edit" title="Modèle:Légende/Fin">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:L%C3%A9gende/styles.css" title="Modèle:Légende/styles.css">Modèle:Légende/styles.css</a> (<a href="/w/index.php?title=Mod%C3%A8le:L%C3%A9gende/styles.css&amp;action=edit" title="Modèle:Légende/styles.css">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Mac%C3%A9doine_du_Nord" title="Modèle:Macédoine du Nord">Modèle:Macédoine du Nord</a> (<a href="/w/index.php?title=Mod%C3%A8le:Mac%C3%A9doine_du_Nord&amp;action=edit" title="Modèle:Macédoine du Nord">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Mexique" title="Modèle:Mexique">Modèle:Mexique</a> (<a href="/w/index.php?title=Mod%C3%A8le:Mexique&amp;action=edit" title="Modèle:Mexique">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Multiparam%C3%A8tres-Lien" title="Modèle:Multiparamètres-Lien">Modèle:Multiparamètres-Lien</a> (<a href="/w/index.php?title=Mod%C3%A8le:Multiparam%C3%A8tres-Lien&amp;action=edit" title="Modèle:Multiparamètres-Lien">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_bandeau_de_note" title="Modèle:Méta bandeau de note">Modèle:Méta bandeau de note</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_bandeau_de_note&amp;action=edit" title="Modèle:Méta bandeau de note">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_bandeau_de_section" title="Modèle:Méta bandeau de section">Modèle:Méta bandeau de section</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_bandeau_de_section&amp;action=edit" title="Modèle:Méta bandeau de section">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_lien_vers_portail" title="Modèle:Méta lien vers portail">Modèle:Méta lien vers portail</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_lien_vers_portail&amp;action=edit" title="Modèle:Méta lien vers portail">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_lien_vers_portail/Cat%C3%A9gorisation" title="Modèle:Méta lien vers portail/Catégorisation">Modèle:Méta lien vers portail/Catégorisation</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_lien_vers_portail/Cat%C3%A9gorisation&amp;action=edit" title="Modèle:Méta lien vers portail/Catégorisation">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:M%C3%A9ta_palette_de_navigation" title="Modèle:Méta palette de navigation">Modèle:Méta palette de navigation</a> (<a href="/w/index.php?title=Mod%C3%A8le:M%C3%A9ta_palette_de_navigation&amp;action=edit" title="Modèle:Méta palette de navigation">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Nobr" title="Modèle:Nobr">Modèle:Nobr</a> (<a href="/w/index.php?title=Mod%C3%A8le:Nobr&amp;action=edit" title="Modèle:Nobr">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Norv%C3%A8ge" title="Modèle:Norvège">Modèle:Norvège</a> (<a href="/w/index.php?title=Mod%C3%A8le:Norv%C3%A8ge&amp;action=edit" title="Modèle:Norvège">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Ordinal" title="Modèle:Ordinal">Modèle:Ordinal</a> (<a href="/w/index.php?title=Mod%C3%A8le:Ordinal&amp;action=edit" title="Modèle:Ordinal">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Palette" title="Modèle:Palette">Modèle:Palette</a> (<a href="/w/index.php?title=Mod%C3%A8le:Palette&amp;action=edit" title="Modèle:Palette">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Palette_Wikimedia_Foundation" title="Modèle:Palette Wikimedia Foundation">Modèle:Palette Wikimedia Foundation</a> (<a href="/w/index.php?title=Mod%C3%A8le:Palette_Wikimedia_Foundation&amp;action=edit" title="Modèle:Palette Wikimedia Foundation">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Pays" title="Modèle:Pays">Modèle:Pays</a> (<a href="/w/index.php?title=Mod%C3%A8le:Pays&amp;action=edit" title="Modèle:Pays">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Pays-Bas" title="Modèle:Pays-Bas">Modèle:Pays-Bas</a> (<a href="/w/index.php?title=Mod%C3%A8le:Pays-Bas&amp;action=edit" title="Modèle:Pays-Bas">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Pays/callback" title="Modèle:Pays/callback">Modèle:Pays/callback</a> (<a href="/w/index.php?title=Mod%C3%A8le:Pays/callback&amp;action=edit" title="Modèle:Pays/callback">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Philippines" title="Modèle:Philippines">Modèle:Philippines</a> (<a href="/w/index.php?title=Mod%C3%A8le:Philippines&amp;action=edit" title="Modèle:Philippines">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Pologne" title="Modèle:Pologne">Modèle:Pologne</a> (<a href="/w/index.php?title=Mod%C3%A8le:Pologne&amp;action=edit" title="Modèle:Pologne">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Portail" title="Modèle:Portail">Modèle:Portail</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portail&amp;action=edit" title="Modèle:Portail">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Portail_Associations" class="mw-redirect" title="Modèle:Portail Associations">Modèle:Portail Associations</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portail_Associations&amp;action=edit" class="mw-redirect" title="Modèle:Portail Associations">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Portail_Humanitaire_et_d%C3%A9veloppement" class="mw-redirect" title="Modèle:Portail Humanitaire et développement">Modèle:Portail Humanitaire et développement</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portail_Humanitaire_et_d%C3%A9veloppement&amp;action=edit" class="mw-redirect" title="Modèle:Portail Humanitaire et développement">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Portail_Wikimedia" title="Modèle:Portail Wikimedia">Modèle:Portail Wikimedia</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portail_Wikimedia&amp;action=edit" title="Modèle:Portail Wikimedia">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Portail_associations" title="Modèle:Portail associations">Modèle:Portail associations</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portail_associations&amp;action=edit" title="Modèle:Portail associations">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Portail_humanitaire_et_d%C3%A9veloppement" title="Modèle:Portail humanitaire et développement">Modèle:Portail humanitaire et développement</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portail_humanitaire_et_d%C3%A9veloppement&amp;action=edit" title="Modèle:Portail humanitaire et développement">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:Portugal" title="Modèle:Portugal">Modèle:Portugal</a> (<a href="/w/index.php?title=Mod%C3%A8le:Portugal&amp;action=edit" title="Modèle:Portugal">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Royaume-Uni" title="Modèle:Royaume-Uni">Modèle:Royaume-Uni</a> (<a href="/w/index.php?title=Mod%C3%A8le:Royaume-Uni&amp;action=edit" title="Modèle:Royaume-Uni">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Russie" title="Modèle:Russie">Modèle:Russie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Russie&amp;action=edit" title="Modèle:Russie">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:R%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Modèle:Référence nécessaire">Modèle:Référence nécessaire</a> (<a href="/w/index.php?title=Mod%C3%A8le:R%C3%A9f%C3%A9rence_n%C3%A9cessaire&amp;action=edit" title="Modèle:Référence nécessaire">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:R%C3%A9f%C3%A9rences" title="Modèle:Références">Modèle:Références</a> (<a href="/w/index.php?title=Mod%C3%A8le:R%C3%A9f%C3%A9rences&amp;action=edit" title="Modèle:Références">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:R%C3%A9publique_tch%C3%A8que" title="Modèle:République tchèque">Modèle:République tchèque</a> (<a href="/w/index.php?title=Mod%C3%A8le:R%C3%A9publique_tch%C3%A8que&amp;action=edit" title="Modèle:République tchèque">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Section_vide_ou_incompl%C3%A8te" title="Modèle:Section vide ou incomplète">Modèle:Section vide ou incomplète</a> (<a href="/w/index.php?title=Mod%C3%A8le:Section_vide_ou_incompl%C3%A8te&amp;action=edit" title="Modèle:Section vide ou incomplète">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Serbie" title="Modèle:Serbie">Modèle:Serbie</a> (<a href="/w/index.php?title=Mod%C3%A8le:Serbie&amp;action=edit" title="Modèle:Serbie">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Site_officiel" title="Modèle:Site officiel">Modèle:Site officiel</a> (<a href="/w/index.php?title=Mod%C3%A8le:Site_officiel&amp;action=edit" title="Modèle:Site officiel">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Suisse" title="Modèle:Suisse">Modèle:Suisse</a> (<a href="/w/index.php?title=Mod%C3%A8le:Suisse&amp;action=edit" title="Modèle:Suisse">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Suivi_des_biographies" title="Modèle:Suivi des biographies">Modèle:Suivi des biographies</a> (<a href="/w/index.php?title=Mod%C3%A8le:Suivi_des_biographies&amp;action=edit" title="Modèle:Suivi des biographies">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Su%C3%A8de" title="Modèle:Suède">Modèle:Suède</a> (<a href="/w/index.php?title=Mod%C3%A8le:Su%C3%A8de&amp;action=edit" title="Modèle:Suède">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Ta%C3%AFwan" title="Modèle:Taïwan">Modèle:Taïwan</a> (<a href="/w/index.php?title=Mod%C3%A8le:Ta%C3%AFwan&amp;action=edit" title="Modèle:Taïwan">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Tnavbar" title="Modèle:Tnavbar">Modèle:Tnavbar</a> (<a href="/w/index.php?title=Mod%C3%A8le:Tnavbar&amp;action=edit" title="Modèle:Tnavbar">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Tri" title="Modèle:Tri">Modèle:Tri</a> (<a href="/w/index.php?title=Mod%C3%A8le:Tri&amp;action=edit" title="Modèle:Tri">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Tri1" class="mw-redirect" title="Modèle:Tri1">Modèle:Tri1</a> (<a href="/w/index.php?title=Mod%C3%A8le:Tri1&amp;action=edit" class="mw-redirect" title="Modèle:Tri1">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Trim" title="Modèle:Trim">Modèle:Trim</a> (<a href="/w/index.php?title=Mod%C3%A8le:Trim&amp;action=edit" title="Modèle:Trim">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:URL" title="Modèle:URL">Modèle:URL</a> (<a href="/w/index.php?title=Mod%C3%A8le:URL&amp;action=edit" title="Modèle:URL">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Mod%C3%A8le:Ukraine" title="Modèle:Ukraine">Modèle:Ukraine</a> (<a href="/w/index.php?title=Mod%C3%A8le:Ukraine&amp;action=edit" title="Modèle:Ukraine">voir la source</a>) (semi-protégé)</li><li><a href="/wiki/Mod%C3%A8le:Unit%C3%A9" title="Modèle:Unité">Modèle:Unité</a> (<a href="/w/index.php?title=Mod%C3%A8le:Unit%C3%A9&amp;action=edit" title="Modèle:Unité">voir la source</a>) (protégé)</li><li><a href="/wiki/Mod%C3%A8le:Url" class="mw-redirect" title="Modèle:Url">Modèle:Url</a> (<a href="/w/index.php?title=Mod%C3%A8le:Url&amp;action=edit" class="mw-redirect" title="Modèle:Url">modifier</a>) </li><li><a href="/wiki/Mod%C3%A8le:%E2%80%A6" class="mw-redirect" title="Modèle:…">Modèle:…</a> (<a href="/w/index.php?title=Mod%C3%A8le:%E2%80%A6&amp;action=edit" class="mw-redirect" title="Modèle:…">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Bandeau" title="Module:Bandeau">Module:Bandeau</a> (<a href="/w/index.php?title=Module:Bandeau&amp;action=edit" title="Module:Bandeau">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Bandeau/Class" title="Module:Bandeau/Class">Module:Bandeau/Class</a> (<a href="/w/index.php?title=Module:Bandeau/Class&amp;action=edit" title="Module:Bandeau/Class">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Biblio" title="Module:Biblio">Module:Biblio</a> (<a href="/w/index.php?title=Module:Biblio&amp;action=edit" title="Module:Biblio">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Biblio/Article" title="Module:Biblio/Article">Module:Biblio/Article</a> (<a href="/w/index.php?title=Module:Biblio/Article&amp;action=edit" title="Module:Biblio/Article">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Biblio/Commun" title="Module:Biblio/Commun">Module:Biblio/Commun</a> (<a href="/w/index.php?title=Module:Biblio/Commun&amp;action=edit" title="Module:Biblio/Commun">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Biblio/Lien_web" title="Module:Biblio/Lien web">Module:Biblio/Lien web</a> (<a href="/w/index.php?title=Module:Biblio/Lien_web&amp;action=edit" title="Module:Biblio/Lien web">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Biblio/R%C3%A9f%C3%A9rences" title="Module:Biblio/Références">Module:Biblio/Références</a> (<a href="/w/index.php?title=Module:Biblio/R%C3%A9f%C3%A9rences&amp;action=edit" title="Module:Biblio/Références">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Carte" title="Module:Carte">Module:Carte</a> (<a href="/w/index.php?title=Module:Carte&amp;action=edit" title="Module:Carte">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Carte/Points" title="Module:Carte/Points">Module:Carte/Points</a> (<a href="/w/index.php?title=Module:Carte/Points&amp;action=edit" title="Module:Carte/Points">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Cat%C3%A9gorisation_badges" title="Module:Catégorisation badges">Module:Catégorisation badges</a> (<a href="/w/index.php?title=Module:Cat%C3%A9gorisation_badges&amp;action=edit" title="Module:Catégorisation badges">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Citation_bloc" title="Module:Citation bloc">Module:Citation bloc</a> (<a href="/w/index.php?title=Module:Citation_bloc&amp;action=edit" title="Module:Citation bloc">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Conversion" title="Module:Conversion">Module:Conversion</a> (<a href="/w/index.php?title=Module:Conversion&amp;action=edit" title="Module:Conversion">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Conversion/Donn%C3%A9es" title="Module:Conversion/Données">Module:Conversion/Données</a> (<a href="/w/index.php?title=Module:Conversion/Donn%C3%A9es&amp;action=edit" title="Module:Conversion/Données">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Coordinates" title="Module:Coordinates">Module:Coordinates</a> (<a href="/w/index.php?title=Module:Coordinates&amp;action=edit" title="Module:Coordinates">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Correction_syntaxique" title="Module:Correction syntaxique">Module:Correction syntaxique</a> (<a href="/w/index.php?title=Module:Correction_syntaxique&amp;action=edit" title="Module:Correction syntaxique">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data" title="Module:Country data">Module:Country data</a> (<a href="/w/index.php?title=Module:Country_data&amp;action=edit" title="Module:Country data">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data/allemagne" title="Module:Country data/allemagne">Module:Country data/allemagne</a> (<a href="/w/index.php?title=Module:Country_data/allemagne&amp;action=edit" title="Module:Country data/allemagne">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data/argentine" title="Module:Country data/argentine">Module:Country data/argentine</a> (<a href="/w/index.php?title=Module:Country_data/argentine&amp;action=edit" title="Module:Country data/argentine">modifier</a>) </li><li><a href="/wiki/Module:Country_data/canada" title="Module:Country data/canada">Module:Country data/canada</a> (<a href="/w/index.php?title=Module:Country_data/canada&amp;action=edit" title="Module:Country data/canada">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data/chine" title="Module:Country data/chine">Module:Country data/chine</a> (<a href="/w/index.php?title=Module:Country_data/chine&amp;action=edit" title="Module:Country data/chine">modifier</a>) </li><li><a href="/wiki/Module:Country_data/espagne" title="Module:Country data/espagne">Module:Country data/espagne</a> (<a href="/w/index.php?title=Module:Country_data/espagne&amp;action=edit" title="Module:Country data/espagne">modifier</a>) </li><li><a href="/wiki/Module:Country_data/france" title="Module:Country data/france">Module:Country data/france</a> (<a href="/w/index.php?title=Module:Country_data/france&amp;action=edit" title="Module:Country data/france">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data/liste" title="Module:Country data/liste">Module:Country data/liste</a> (<a href="/w/index.php?title=Module:Country_data/liste&amp;action=edit" title="Module:Country data/liste">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data/pays-bas" title="Module:Country data/pays-bas">Module:Country data/pays-bas</a> (<a href="/w/index.php?title=Module:Country_data/pays-bas&amp;action=edit" title="Module:Country data/pays-bas">modifier</a>) </li><li><a href="/wiki/Module:Country_data/royaume-uni" title="Module:Country data/royaume-uni">Module:Country data/royaume-uni</a> (<a href="/w/index.php?title=Module:Country_data/royaume-uni&amp;action=edit" title="Module:Country data/royaume-uni">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Country_data/russie" title="Module:Country data/russie">Module:Country data/russie</a> (<a href="/w/index.php?title=Module:Country_data/russie&amp;action=edit" title="Module:Country data/russie">modifier</a>) </li><li><a href="/wiki/Module:Country_data/%C3%A9tats-unis" title="Module:Country data/états-unis">Module:Country data/états-unis</a> (<a href="/w/index.php?title=Module:Country_data/%C3%A9tats-unis&amp;action=edit" title="Module:Country data/états-unis">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Date" title="Module:Date">Module:Date</a> (<a href="/w/index.php?title=Module:Date&amp;action=edit" title="Module:Date">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Date_complexe" title="Module:Date complexe">Module:Date complexe</a> (<a href="/w/index.php?title=Module:Date_complexe&amp;action=edit" title="Module:Date complexe">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Date/Data" title="Module:Date/Data">Module:Date/Data</a> (<a href="/w/index.php?title=Module:Date/Data&amp;action=edit" title="Module:Date/Data">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Dictionnaire_Wikidata/Codes_langue" title="Module:Dictionnaire Wikidata/Codes langue">Module:Dictionnaire Wikidata/Codes langue</a> (<a href="/w/index.php?title=Module:Dictionnaire_Wikidata/Codes_langue&amp;action=edit" title="Module:Dictionnaire Wikidata/Codes langue">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Drapeau/Data" title="Module:Drapeau/Data">Module:Drapeau/Data</a> (<a href="/w/index.php?title=Module:Drapeau/Data&amp;action=edit" title="Module:Drapeau/Data">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Dur%C3%A9e" title="Module:Durée">Module:Durée</a> (<a href="/w/index.php?title=Module:Dur%C3%A9e&amp;action=edit" title="Module:Durée">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Fix" title="Module:Fix">Module:Fix</a> (<a href="/w/index.php?title=Module:Fix&amp;action=edit" title="Module:Fix">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Format" title="Module:Format">Module:Format</a> (<a href="/w/index.php?title=Module:Format&amp;action=edit" title="Module:Format">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Infobox" title="Module:Infobox">Module:Infobox</a> (<a href="/w/index.php?title=Module:Infobox&amp;action=edit" title="Module:Infobox">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Infobox/Fonctions" title="Module:Infobox/Fonctions">Module:Infobox/Fonctions</a> (<a href="/w/index.php?title=Module:Infobox/Fonctions&amp;action=edit" title="Module:Infobox/Fonctions">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Infobox/Fonctions/G%C3%A9olocalisation" title="Module:Infobox/Fonctions/Géolocalisation">Module:Infobox/Fonctions/Géolocalisation</a> (<a href="/w/index.php?title=Module:Infobox/Fonctions/G%C3%A9olocalisation&amp;action=edit" title="Module:Infobox/Fonctions/Géolocalisation">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Infobox/Fonctions/Organisation" title="Module:Infobox/Fonctions/Organisation">Module:Infobox/Fonctions/Organisation</a> (<a href="/w/index.php?title=Module:Infobox/Fonctions/Organisation&amp;action=edit" title="Module:Infobox/Fonctions/Organisation">modifier</a>) </li><li><a href="/wiki/Module:Infobox/Localdata" title="Module:Infobox/Localdata">Module:Infobox/Localdata</a> (<a href="/w/index.php?title=Module:Infobox/Localdata&amp;action=edit" title="Module:Infobox/Localdata">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Infobox/Organisation" title="Module:Infobox/Organisation">Module:Infobox/Organisation</a> (<a href="/w/index.php?title=Module:Infobox/Organisation&amp;action=edit" title="Module:Infobox/Organisation">modifier</a>) </li><li><a href="/wiki/Module:Langue" title="Module:Langue">Module:Langue</a> (<a href="/w/index.php?title=Module:Langue&amp;action=edit" title="Module:Langue">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Langue/Data" title="Module:Langue/Data">Module:Langue/Data</a> (<a href="/w/index.php?title=Module:Langue/Data&amp;action=edit" title="Module:Langue/Data">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Linguistique" title="Module:Linguistique">Module:Linguistique</a> (<a href="/w/index.php?title=Module:Linguistique&amp;action=edit" title="Module:Linguistique">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Liste_%C3%A9l%C3%A9ments" title="Module:Liste éléments">Module:Liste éléments</a> (<a href="/w/index.php?title=Module:Liste_%C3%A9l%C3%A9ments&amp;action=edit" title="Module:Liste éléments">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Math" title="Module:Math">Module:Math</a> (<a href="/w/index.php?title=Module:Math&amp;action=edit" title="Module:Math">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Multiparam%C3%A8tres" title="Module:Multiparamètres">Module:Multiparamètres</a> (<a href="/w/index.php?title=Module:Multiparam%C3%A8tres&amp;action=edit" title="Module:Multiparamètres">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:No_globals" title="Module:No globals">Module:No globals</a> (<a href="/w/index.php?title=Module:No_globals&amp;action=edit" title="Module:No globals">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Nombre2texte" title="Module:Nombre2texte">Module:Nombre2texte</a> (<a href="/w/index.php?title=Module:Nombre2texte&amp;action=edit" title="Module:Nombre2texte">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Outils" title="Module:Outils">Module:Outils</a> (<a href="/w/index.php?title=Module:Outils&amp;action=edit" title="Module:Outils">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Palette" title="Module:Palette">Module:Palette</a> (<a href="/w/index.php?title=Module:Palette&amp;action=edit" title="Module:Palette">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Romain" title="Module:Romain">Module:Romain</a> (<a href="/w/index.php?title=Module:Romain&amp;action=edit" title="Module:Romain">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Site_officiel" title="Module:Site officiel">Module:Site officiel</a> (<a href="/w/index.php?title=Module:Site_officiel&amp;action=edit" title="Module:Site officiel">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Suivi_des_biographies" title="Module:Suivi des biographies">Module:Suivi des biographies</a> (<a href="/w/index.php?title=Module:Suivi_des_biographies&amp;action=edit" title="Module:Suivi des biographies">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Suivi_des_biographies/donn%C3%A9es" title="Module:Suivi des biographies/données">Module:Suivi des biographies/données</a> (<a href="/w/index.php?title=Module:Suivi_des_biographies/donn%C3%A9es&amp;action=edit" title="Module:Suivi des biographies/données">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:TableBuilder" title="Module:TableBuilder">Module:TableBuilder</a> (<a href="/w/index.php?title=Module:TableBuilder&amp;action=edit" title="Module:TableBuilder">voir la source</a>) (protégé)</li><li><a href="/wiki/Module:Titulaires" title="Module:Titulaires">Module:Titulaires</a> (<a href="/w/index.php?title=Module:Titulaires&amp;action=edit" title="Module:Titulaires">modifier</a>) </li><li><a href="/wiki/Module:URL" title="Module:URL">Module:URL</a> (<a href="/w/index.php?title=Module:URL&amp;action=edit" title="Module:URL">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Unit%C3%A9" title="Module:Unité">Module:Unité</a> (<a href="/w/index.php?title=Module:Unit%C3%A9&amp;action=edit" title="Module:Unité">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Unit%C3%A9/Data" title="Module:Unité/Data">Module:Unité/Data</a> (<a href="/w/index.php?title=Module:Unit%C3%A9/Data&amp;action=edit" title="Module:Unité/Data">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Weblink" title="Module:Weblink">Module:Weblink</a> (<a href="/w/index.php?title=Module:Weblink&amp;action=edit" title="Module:Weblink">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Wikidata" title="Module:Wikidata">Module:Wikidata</a> (<a href="/w/index.php?title=Module:Wikidata&amp;action=edit" title="Module:Wikidata">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Wikidata/Globes" title="Module:Wikidata/Globes">Module:Wikidata/Globes</a> (<a href="/w/index.php?title=Module:Wikidata/Globes&amp;action=edit" title="Module:Wikidata/Globes">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Wikidata/I18n" title="Module:Wikidata/I18n">Module:Wikidata/I18n</a> (<a href="/w/index.php?title=Module:Wikidata/I18n&amp;action=edit" title="Module:Wikidata/I18n">voir la source</a>) (semi-protection étendue)</li><li><a href="/wiki/Module:Yesno" title="Module:Yesno">Module:Yesno</a> (<a href="/w/index.php?title=Module:Yesno&amp;action=edit" title="Module:Yesno">voir la source</a>) (protégé)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>Catégories cachées dont cette page fait partie&#160;:
+</p></div><ul>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te" title="Catégorie:Article avec une section vide ou incomplète">Catégorie:Article avec une section vide ou incomplète</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_lien_mort" title="Catégorie:Article contenant un lien mort">Catégorie:Article contenant un lien mort</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_g%C3%A9olocalis%C3%A9_aux_%C3%89tats-Unis" title="Catégorie:Article géolocalisé aux États-Unis">Catégorie:Article géolocalisé aux États-Unis</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_utilisant_l%27infobox_Organisation" title="Catégorie:Article utilisant l&#039;infobox Organisation">Catégorie:Article utilisant l&#039;infobox Organisation</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox" title="Catégorie:Article utilisant une Infobox">Catégorie:Article utilisant une Infobox</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Article_%C3%A0_r%C3%A9f%C3%A9rence_n%C3%A9cessaire" title="Catégorie:Article à référence nécessaire">Catégorie:Article à référence nécessaire</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Bon_article_en_esp%C3%A9ranto" title="Catégorie:Bon article en espéranto">Catégorie:Bon article en espéranto</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_diff%C3%A9rent_sur_Wikidata" title="Catégorie:Catégorie Commons avec lien local différent sur Wikidata">Catégorie:Catégorie Commons avec lien local différent sur Wikidata</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_avec_des_cartes" title="Catégorie:Page avec des cartes">Catégorie:Page avec des cartes</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_g%C3%A9olocalis%C3%A9e_par_Wikidata" title="Catégorie:Page géolocalisée par Wikidata">Catégorie:Page géolocalisée par Wikidata</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P112" title="Catégorie:Page utilisant P112">Catégorie:Page utilisant P112</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P1128" title="Catégorie:Page utilisant P1128">Catégorie:Page utilisant P1128</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P1297" title="Catégorie:Page utilisant P1297">Catégorie:Page utilisant P1297</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P1451" title="Catégorie:Page utilisant P1451">Catégorie:Page utilisant P1451</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P1454" title="Catégorie:Page utilisant P1454">Catégorie:Page utilisant P1454</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P154" title="Catégorie:Page utilisant P154">Catégorie:Page utilisant P154</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P159" title="Catégorie:Page utilisant P159">Catégorie:Page utilisant P159</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P166" title="Catégorie:Page utilisant P166">Catégorie:Page utilisant P166</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P169" title="Catégorie:Page utilisant P169">Catégorie:Page utilisant P169</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P17" title="Catégorie:Page utilisant P17">Catégorie:Page utilisant P17</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P18" title="Catégorie:Page utilisant P18">Catégorie:Page utilisant P18</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P2139" title="Catégorie:Page utilisant P2139">Catégorie:Page utilisant P2139</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P2541" title="Catégorie:Page utilisant P2541">Catégorie:Page utilisant P2541</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P2770" title="Catégorie:Page utilisant P2770">Catégorie:Page utilisant P2770</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P31" title="Catégorie:Page utilisant P31">Catégorie:Page utilisant P31</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P3320" title="Catégorie:Page utilisant P3320">Catégorie:Page utilisant P3320</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P452" title="Catégorie:Page utilisant P452">Catégorie:Page utilisant P452</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P463" title="Catégorie:Page utilisant P463">Catégorie:Page utilisant P463</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P488" title="Catégorie:Page utilisant P488">Catégorie:Page utilisant P488</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P571" title="Catégorie:Page utilisant P571">Catégorie:Page utilisant P571</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P856" title="Catégorie:Page utilisant P856">Catégorie:Page utilisant P856</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Page_utilisant_P859" title="Catégorie:Page utilisant P859">Catégorie:Page utilisant P859</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Associations/Articles_li%C3%A9s" title="Catégorie:Portail:Associations/Articles liés">Catégorie:Portail:Associations/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Humanitaire_et_d%C3%A9veloppement/Articles_li%C3%A9s" title="Catégorie:Portail:Humanitaire et développement/Articles liés">Catégorie:Portail:Humanitaire et développement/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Internet/Articles_li%C3%A9s" title="Catégorie:Portail:Internet/Articles liés">Catégorie:Portail:Internet/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s" title="Catégorie:Portail:Langues/Articles liés">Catégorie:Portail:Langues/Articles liés</a></li>
+<li><a href="/wiki/Cat%C3%A9gorie:Portail:Wikimedia/Articles_li%C3%A9s" title="Catégorie:Portail:Wikimedia/Articles liés">Catégorie:Portail:Wikimedia/Articles liés</a></li>
+</ul></div><div class="limitreport"></div><input id="mw-edit-mode" type="hidden" value="text" name="mode"/><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+<noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/wiki/Wikimedia_Foundation">https://fr.wikipedia.org/wiki/Wikimedia_Foundation</a>&#160;».</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Wikimedia+Foundation&amp;returntoquery=action%3Dedit" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikimedia+Foundation&amp;returntoquery=action%3Dedit" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Wikimedia_Foundation" title="Voir le contenu de la page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Discussion:Wikimedia_Foundation" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible"><a href="/wiki/Wikimedia_Foundation">Lire</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Wikimedia_Foundation&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible selected"><a href="/w/index.php?title=Wikimedia_Foundation&amp;action=edit" title="Vous pouvez modifier cette page !">Modifier le code</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikimedia_Foundation&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Wikimedia_Foundation" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Wikimedia_Foundation" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-info"><a href="/w/index.php?title=Wikimedia_Foundation&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q180" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Wikimedia_Foundation&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":775,"wgHostname":"mw1261"});});</script></body></html>

@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikinoticias</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XliRpgpAMMUAANYKJZUAAACV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Portada","wgTitle":"Portada","wgCurRevisionId":675162,"wgRevisionId":675162,"wgArticleId":45098,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Portada","wgRelevantArticleId":45098,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],
+"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2,"quality":2,"pristine":4}}},"wgStableRevisionId":675162,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikinews","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!1,"wgSiteNoticeId":"2.2"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready",
+"oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","ext.flaggedRevs.advanced","ext.gadget.wikidialog","ext.gadget.a-commons-directo","ext.gadget.Carousel","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.dismissableSiteNotice.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.ui.button%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikinews.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikinews.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikinoticias (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikinews.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by/2.5/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikinoticias" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikinews.org/wiki/Portada"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Portada rootpage-Portada skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Eocultar\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"es\" dir=\"ltr\"\u003E\u003Ccenter\u003ENo lo olvides: en Wikinoticias ¡tú eres el periodista! Si hay un tema que quieres que Wikinoticias cubra, ¡\u003Ca href=\"/wiki/Especial:Crear_una_cuenta\" title=\"Especial:Crear una cuenta\"\u003Ecrea una cuenta\u003C/a\u003E y \u003Ca href=\"/wiki/Wikinoticias:Escribir_un_art%C3%ADculo\" class=\"mw-redirect\" title=\"Wikinoticias:Escribir un artículo\"\u003Eescribe tu propia noticia\u003C/a\u003E!\u003C/center\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Portada</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikinoticias, la fuente libre de noticias</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="mf-mobile-only">
+<table class="plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">En portada</span><br /><b><a href="/wiki/Cientos_de_evacuados_por_erupci%C3%B3n_del_volc%C3%A1n_Taal_en_Filipinas" title="Cientos de evacuados por erupción del volcán Taal en Filipinas">Cientos de evacuados por erupción del volcán Taal en Filipinas</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:Taal_Volcano_-_12_January_2020.jpg" class="image"><img alt="Taal Volcano - 12 January 2020.jpg" src="//upload.wikimedia.org/wikipedia/commons/b/b6/Taal_Volcano_-_12_January_2020.jpg" decoding="async" width="960" height="540" data-file-width="960" data-file-height="540" /></a></div></div></div></div>Cientos de personas fueron evacuadas por las autoridades debido a la erupción del volcán Taal ubicado en un lago a 70 kilómetros de Manila, capital de Filipinas. La erupción arrojó hasta cenizas hasta 15 kilómetros de altura el domingo, y cancelando de vuelos y advertencias de una posible erupción explosiva y un tsunami volcánico.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Cientos_de_evacuados_por_erupci%C3%B3n_del_volc%C3%A1n_Taal_en_Filipinas" title="Cientos de evacuados por erupción del volcán Taal en Filipinas"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+<h3 style="border-bottom:1px solid #000"><span class="mw-headline" id="Titulares_de_la_semana">Titulares de la semana</span></h3>
+<table class="nomobile" style="width:100%">
+<tbody><tr>
+<td rowspan="2" valign="top">
+<p><small><span style="color:#808080">12 de enero de 2020 • <span class="plainlinks"><a href="/wiki/Categor%C3%ADa:Estados_Unidos" title="Categoría:Estados Unidos"><b>Estados Unidos</b></a></span></span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2px"><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos">Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos</a></span><br />
+Este sábado, fuertes tormentas han afectado partes del sur y el centro norte de Estados Unidos dejando un saldo de al menos 11 personas fallecidas, entre ellas un política y un bombero durante el tiempo en que ventarrones, tornados e incesantes lluvias azotaron grandes franjas del país.
+</p>
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/200px-Flag_of_the_United_States.svg.png" decoding="async" width="200" height="105" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/300px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/400px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div>
+</td></tr></tbody></table>
+<table class="mf-mobile-only plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">12 de enero de 2020</span><br /><b><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos">Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png" decoding="async" width="1235" height="650" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1853px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2470px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div></div></div></div>Este sábado, fuertes tormentas han afectado partes del sur y el centro norte de Estados Unidos dejando un saldo de al menos 11 personas fallecidas, entre ellas un política y un bombero durante el tiempo en que ventarrones, tornados e incesantes lluvias azotaron grandes franjas del país.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+<table class="nomobile" style="width:100%">
+<tbody><tr>
+<td rowspan="2" valign="top">
+<p><small><span style="color:#808080">8 de enero de 2020 • <span class="plainlinks"><a href="/wiki/Categor%C3%ADa:Ir%C3%A1n" title="Categoría:Irán"><b>Irán</b></a></span></span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2px"><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo">Avión ucraniano se estrella en Teherán con 176 personas a bordo</a></span><br />
+Un avión ucraniano explotó poco después del despegue del aeropuerto de Teherán temprano el miércoles, sin ningún sobreviviente entre las 176 personas que iban a bordo.
+</p>
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:CID_post-impact_3.jpg" class="image"><img alt="CID post-impact 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/CID_post-impact_3.jpg/200px-CID_post-impact_3.jpg" decoding="async" width="200" height="135" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/CID_post-impact_3.jpg/300px-CID_post-impact_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/CID_post-impact_3.jpg/400px-CID_post-impact_3.jpg 2x" data-file-width="3030" data-file-height="2040" /></a></div>
+</td></tr></tbody></table>
+<table class="mf-mobile-only plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">8 de enero de 2020</span><br /><b><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo">Avión ucraniano se estrella en Teherán con 176 personas a bordo</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:CID_post-impact_3.jpg" class="image"><img alt="CID post-impact 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/9/92/CID_post-impact_3.jpg" decoding="async" width="3030" height="2040" data-file-width="3030" data-file-height="2040" /></a></div></div></div></div>Un avión ucraniano explotó poco después del despegue del aeropuerto de Teherán temprano el miércoles, sin ningún sobreviviente entre las 176 personas que iban a bordo.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+<table class="nomobile" style="width:100%">
+<tbody><tr>
+<td rowspan="2" valign="top">
+<p><small><span style="color:#808080">8 de enero de 2020 • <span class="plainlinks"><a href="/wiki/Categor%C3%ADa:Oriente_Medio" title="Categoría:Oriente Medio"><b>Oriente Medio</b></a></span></span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2px"><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta">Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta</a></span><br />
+Irán disparó más de una decena de misiles balísticos contra dos bases aéreas en Iraq donde hay fuerzas estadounidenses, en una aparente represalia contra el ataque de Estados Unidos que mató al general iraní Qassem Soleimani.
+</p>
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/200px-Flag_of_the_United_States.svg.png" decoding="async" width="200" height="105" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/300px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/400px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div>
+</td></tr></tbody></table>
+<table class="mf-mobile-only plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">8 de enero de 2020</span><br /><b><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta">Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png" decoding="async" width="1235" height="650" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1853px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2470px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div></div></div></div>Irán disparó más de una decena de misiles balísticos contra dos bases aéreas en Iraq donde hay fuerzas estadounidenses, en una aparente represalia contra el ataque de Estados Unidos que mató al general iraní Qassem Soleimani.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+<h3 style="border-bottom:1px solid #000"><span id="Informaci.C3.B3n_actualizada_en_vivo"></span><span class="mw-headline" id="Información_actualizada_en_vivo">Información actualizada en vivo</span></h3>
+<div style="line-height: 1; padding:15px">
+<ul>
+<li><a href="/wiki/Indigna_asesinato_de_Ingrid_Escamilla_en_la_Ciudad_de_M%C3%A9xico?dpl_id=60772" title="Indigna asesinato de Ingrid Escamilla en la Ciudad de México">Indigna asesinato de Ingrid Escamilla en la Ciudad de México</a></li></ul>
+</div>
+<h3 style="border-bottom:1px solid #000"><span class="mw-headline" id="Reportajes_originales"><a href="/wiki/Categor%C3%ADa:Reportajes_originales" title="Categoría:Reportajes originales"><font color="#OOO">Reportajes originales</font></a></span></h3>
+<div style="line-height: 1; padding:15px">
+<ul>
+<li>3 nov 2019: <a href="/wiki/Avesar_ofrece_una_rueda_de_prensa_por_la_suspensi%C3%B3n_del_reparto_de_alimentos?dpl_id=59903" title="Avesar ofrece una rueda de prensa por la suspensión del reparto de alimentos">Avesar ofrece una rueda de prensa por la suspensión del reparto de alimentos</a></li> 
+<li>16 sep 2019: <a href="/wiki/Wikinoticias_entrevista_a_Julioprofe_con_motivo_de_su_primer_libro?dpl_id=59722" title="Wikinoticias entrevista a Julioprofe con motivo de su primer libro">Wikinoticias entrevista a Julioprofe con motivo de su primer libro</a></li> 
+<li>30 ago 2019: <a href="/wiki/El_libro_de_Wikipedia_en_la_Educaci%C3%B3n_es_presentado_en_Uruguay?dpl_id=59681" title="El libro de Wikipedia en la Educación es presentado en Uruguay">El libro de Wikipedia en la Educación es presentado en Uruguay</a></li> 
+<li>12 ago 2019: <a href="/wiki/Sarraute,_Salvagno,_Cetraro_y_Gonz%C3%A1lez_ganaron_la_medalla_de_oro_en_remo?dpl_id=59633" title="Sarraute, Salvagno, Cetraro y González ganaron la medalla de oro en remo">Sarraute, Salvagno, Cetraro y González ganaron la medalla de oro en remo</a></li> 
+<li>1 ago 2019: <a href="/wiki/Falleci%C3%B3_Mar%C3%ADa_Auxiliadora_Delgado?dpl_id=59607" title="Falleció María Auxiliadora Delgado">Falleció María Auxiliadora Delgado</a></li></ul>
+</div>
+<h3 style="border-bottom:1px solid #000"><span id="Presentaci.C3.B3n"></span><span class="mw-headline" id="Presentación">Presentación</span></h3>
+<p><b>Wikinoticias</b> es un medio de comunicación formado por voluntarios y <a href="/wiki/Wikinoticias:Nuestra_misi%C3%B3n" title="Wikinoticias:Nuestra misión">cuya misión</a> es construir un sitio con contenido actualizado al momento, <a href="/wiki/Wikinoticias:Gu%C3%ADa_de_contenido" title="Wikinoticias:Guía de contenido">relevante, de interés</a> y entretenido, <a href="/wiki/Wikinoticias:Punto_de_vista_neutral" title="Wikinoticias:Punto de vista neutral">sin prejuicios, manipulación ni parcialidad</a>. Comenzamos nuestra andadura el <b>29 de enero de 2005</b>.
+</p><p><a href="/wiki/Wikinoticias:%C2%A1Wikinoticias_te_necesita!" class="mw-redirect" title="Wikinoticias:¡Wikinoticias te necesita!">¡Wikinoticias te necesita!</a> Queremos crear una comunidad diversa donde los ciudadanos de todas partes del mundo puedan colaborar para informar acerca de los eventos actuales. Si deseas redactar, publicar o editar artículos, visita nuestra <a href="/wiki/Wikinoticias:Sala_de_redacci%C3%B3n" title="Wikinoticias:Sala de redacción">sala de redacción</a> y lee nuestra <a href="/wiki/Ayuda:Introducci%C3%B3n" title="Ayuda:Introducción">introducción</a>. Cualquier contribución es bienvenida.
+</p>
+<h3 style="border-bottom:1px solid #000"><span class="mw-headline" id="Familia_Wikimedia">Familia Wikimedia</span></h3>
+<div class="nomobile" style="line-height: 1.3; margin-bottom:30px;">
+<p>Wikinoticias es uno de los <a href="https://foundation.wikimedia.org/wiki/Nuestros_proyectos" class="extiw" title="wmf:Nuestros proyectos">múltiples proyectos</a> de la <b><a href="https://foundation.wikimedia.org/wiki/Portada" class="extiw" title="wmf:Portada"> Fundación Wikimedia</a></b>,<br />una organización sin ánimo de lucro dedicada a promover el <a href="https://commons.wikimedia.org/wiki/Commons:Licensing/es" class="extiw" title="c:Commons:Licensing/es">contenido libre</a>.
+</p>
+</div>
+<table align="center" style="font-size:100%; line-height: 1.3;" width="100%">
+
+<tbody><tr>
+<td><div class="center"><div class="floatnone"><a href="https://es.wikipedia.org/wiki/" title="Wikipedia"><img alt="Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/40px-Wikipedia-logo.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/60px-Wikipedia-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/80px-Wikipedia-logo.png 2x" data-file-width="200" data-file-height="200" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wikipedia.org/wiki/" class="extiw" title="w:"><b>Wikipedia</b></a><br /><span style="font-size:85%;">La enciclopedia libre</span>
+</td>
+<td><div class="center"><div class="floatnone"><a href="https://commons.wikimedia.org/wiki/" title="Wikimedia Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://commons.wikimedia.org/wiki/" class="extiw" title="c:"><b>Commons</b></a><br /><span style="font-size:85%;">Mediateca libre</span>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><div class="center"><div class="floatnone"><a href="https://es.wikibooks.org/wiki/" title="Wikilibros"><img alt="Wikilibros" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wikibooks.org/wiki/" class="extiw" title="b:"><b>Wikilibros</b></a><br /><span style="font-size:85%;">Libros y manuales</span>
+</td>
+<td><div class="center"><div class="floatnone"><a href="https://es.wiktionary.org/wiki/" title="Wikcionario"><img alt="Wikcionario" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/35px-Wiktionary_small.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/53px-Wiktionary_small.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/70px-Wiktionary_small.svg.png 2x" data-file-width="350" data-file-height="350" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Wikcionario</b></a><br /><span style="font-size:85%;">Diccionario libre</span>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><div class="center"><div class="floatnone"><a href="https://es.wikivoyage.org/wiki/" title="Wikiviajes"><img alt="Wikiviajes" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wikivoyage_favicon.svg/35px-Wikivoyage_favicon.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wikivoyage_favicon.svg/53px-Wikivoyage_favicon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Wikivoyage_favicon.svg/70px-Wikivoyage_favicon.svg.png 2x" data-file-width="32" data-file-height="32" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wikivoyage.org/wiki/" class="extiw" title="voy:"><b>Wikiviajes</b></a><br /><span style="font-size:85%;">Guía de viajes libre</span>
+</td>
+<td><div class="center"><div class="floatnone"><a href="https://es.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" decoding="async" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wikiquote.org/wiki/" class="extiw" title="q:"><b>Wikiquote</b></a><br /><span style="font-size:85%;">Citas célebres</span>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><div class="center"><div class="floatnone"><a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://species.wikimedia.org/wiki/" class="extiw" title="species:"><b>Wikispecies</b></a><br /><span style="font-size:85%;">Datos de especies</span>
+</td>
+<td><div class="center"><div class="floatnone"><a href="https://es.wikiversity.org/wiki/" title="Wikiversidad"><img alt="Wikiversidad" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" decoding="async" width="40" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wikiversity.org/wiki/" class="extiw" title="v:"><b>Wikiversidad</b></a><br /><span style="font-size:85%;">Academia libre</span>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><div class="center"><div class="floatnone"><a href="https://es.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" decoding="async" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://es.wikisource.org/wiki/" class="extiw" title="s:"><b>Wikisource</b></a><br /><span style="font-size:85%;">La biblioteca libre</span>
+</td>
+<td><div class="center"><div class="floatnone"><a href="https://www.wikidata.org/wiki/" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" decoding="async" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/90px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://www.wikidata.org/wiki/" class="extiw" title="d:"><b>Wikidata</b></a><br /><span style="font-size:85%;">Bases de datos</span>
+</td></tr>
+<tr>
+<td>
+</td></tr>
+<tr>
+<td><div class="center"><div class="floatnone"><a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/35px-Wikimedia_Community_Logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/53px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/70px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://meta.wikimedia.org/wiki/" class="extiw" title="m:"><b>Meta-Wiki</b></a><br /><span style="font-size:85%;">Comunidad global</span>
+</td>
+<td><div class="center"><div class="floatnone"><a href="https://incubator.wikimedia.org/wiki/" title="Incubadora"><img alt="Incubadora" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/30px-Incubator-logo.svg.png" decoding="async" width="30" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/45px-Incubator-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/60px-Incubator-logo.svg.png 2x" data-file-width="800" data-file-height="1000" /></a></div></div>
+</td>
+<td style="padding-left:10px;"><a href="https://incubator.wikimedia.org/wiki/" class="extiw" title="incubator:"><b>Incubadora</b></a><br /><span style="font-size:85%;">Nuevas versiones</span>
+</td></tr></tbody></table>
+<p><br />
+</p>
+</div>
+
+<div style="margin-top:-10px;">
+<div class="main-top nomobile" style="margin-bottom:0; background:none">
+<div class="main-top-left" style="line-height: 1.7; margin-top: 1em; background:none">
+<span class="main-top-header" style="font-size: 200%; font-weight: bold; font-family: Myriad Pro;">Bienvenido a Wikinoticias,</span><p style="margin-top: -10px; font-size: 100%;">la fuente de noticias libres de la que puedes ser reportero.</p>
+</div>
+<div class="main-top-right">
+<div id="articlecount" class="plainlinks" style="font-family:Sans-serif; font-size: 85%; text-align:right; color:#FFF; margin-top: 2.5em;"><a href="https://es.wikinews.org/w/index.php?title=Especial:NewsFeed&amp;feed=atom&amp;hideredirs=1&amp;limit=75&amp;offset=&amp;namespace=0&amp;username=&amp;tagfilter=&amp;size=0&amp;categories=Art%C3%ADculos%20publicados" title="RSS"><img alt="RSS" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Generic_Feed-icon.svg/18px-Generic_Feed-icon.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Generic_Feed-icon.svg/27px-Generic_Feed-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Generic_Feed-icon.svg/36px-Generic_Feed-icon.svg.png 2x" data-file-width="256" data-file-height="256" /></a> <a href="//www.facebook.com/Wikinoticias" title="Facebook" rel="nofollow"><img alt="Facebook" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Facebook_Logo.png/18px-Facebook_Logo.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Facebook_Logo.png/27px-Facebook_Logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Facebook_Logo.png/36px-Facebook_Logo.png 2x" data-file-width="512" data-file-height="513" /></a> <a href="//twitter.com/wikinoticias" title="Twitter" rel="nofollow"><img alt="Twitter" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitter_Logo.png/18px-Twitter_Logo.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitter_Logo.png/27px-Twitter_Logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitter_Logo.png/36px-Twitter_Logo.png 2x" data-file-width="512" data-file-height="513" /></a> <a href="https://lists.wikimedia.org/mailman/listinfo/wikinews-l" title="Correo"><img alt="Correo" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EMAIL.png/18px-EMAIL.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EMAIL.png/27px-EMAIL.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/EMAIL.png/36px-EMAIL.png 2x" data-file-width="500" data-file-height="500" /></a> <a href="//kiwiirc.com/client/irc.freenode.net/wikinews-es?nick=wnportada?" title="freenode" rel="nofollow"><img alt="freenode" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Speech_balloon_green_icon.svg/19px-Speech_balloon_green_icon.svg.png" decoding="async" width="19" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Speech_balloon_green_icon.svg/29px-Speech_balloon_green_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Speech_balloon_green_icon.svg/38px-Speech_balloon_green_icon.svg.png 2x" data-file-width="215" data-file-height="215" /></a></div>
+<p class="main-top-articleCount"><b><a href="/wiki/Especial:Estad%C3%ADsticas" title="Especial:Estadísticas">11&#160;474</a></b> artículos en español<br />Viernes, 28 de febrero de 2020<br />
+<a href="/wiki/Especial:Entrar" title="Especial:Entrar"><span class="mw-ui-button mw-ui-quiet"> Registrarse</span></a><a href="/wiki/Wikinoticias:Sala_de_redacci%C3%B3n" title="Wikinoticias:Sala de redacción"><span class="mw-ui-button mw-ui-quiet"> Crear un artículo</span></a><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector" class="extiw" title="donate:Special:FundraiserRedirector"><span class="mw-ui-button mw-ui-quiet"> Donaciones</span></a><a href="/wiki/Wikinoticias:Contacto" title="Wikinoticias:Contacto"><span class="mw-ui-button mw-ui-quiet"> Contacto</span></a></p>
+</div>
+</div>
+<p><span class="inicio-noticias nomobile"><b>Últimas noticias</b></span>
+</p>
+<div class="ticker-container nomobile">
+<div id="showticker" style="font-size: 100%; padding: .5em; height: 20px; margin-left: 1em;"></div>
+</div>
+</div>
+<table style="height:5px;">
+
+<tbody><tr>
+<td>
+</td></tr>
+</tbody></table>
+<div class="nomobile" style="position: relative; margin: 0 -1em; padding: 0; background-color: transparent; border: 1px none #ddd; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; border: 1px solid #cccccc; height: 1%; border-radius:5px;">
+<div style="position: relative; overflow: hidden; height:500px; border-radius:5px;">
+<div id="resizable" style="position: absolute; overflow: hidden; margin: 0; border-radius:5px;"><a href="/wiki/Archivo:Taal_Volcano_-_12_January_2020.jpg" class="image"><img alt="Taal Volcano - 12 January 2020.jpg" src="//upload.wikimedia.org/wikipedia/commons/b/b6/Taal_Volcano_-_12_January_2020.jpg" decoding="async" width="1200" height="675" data-file-width="960" data-file-height="540" /></a></div>
+</div>
+<div style="position: absolute; left: 2em; top: 2em; z-index: 10; width: 80%; border: none; background-color:none;">
+<div style="opacity: 0.90; -moz-opacity: 0.90;">
+<div class="main-box" style="width:40%"><div class="main-box-section">En portada</div><h2 class="main-header main-box-header"><span id="Cientos_de_evacuados_por_erupci.C3.B3n_del_volc.C3.A1n_Taal_en_Filipinas"></span><span class="mw-headline" id="Cientos_de_evacuados_por_erupción_del_volcán_Taal_en_Filipinas"><a href="/wiki/Cientos_de_evacuados_por_erupci%C3%B3n_del_volc%C3%A1n_Taal_en_Filipinas" title="Cientos de evacuados por erupción del volcán Taal en Filipinas">Cientos de evacuados por erupción del volcán Taal en Filipinas</a></span></h2>
+<p>Cientos de personas fueron evacuadas por las autoridades debido a la erupción del volcán Taal ubicado en un lago a 70 kilómetros de Manila, capital de Filipinas. La erupción arrojó hasta cenizas hasta 15 kilómetros de altura el domingo, y cancelando de vuelos y advertencias de una posible erupción explosiva y un tsunami volcánico.
+<br style="clear:both" />
+</p>
+<div class="main-footer">
+<div class="main-footer-actions main-plainlist">
+<p><span class="mw-ui-button mw-ui-neutral plainlinks" role="button"><span class="mw-ui-text"> <a href="/wiki/Cientos_de_evacuados_por_erupci%C3%B3n_del_volc%C3%A1n_Taal_en_Filipinas" title="Cientos de evacuados por erupción del volcán Taal en Filipinas"> Ver noticia completa</a></span></span>
+</p>
+</div><div class="main-footer-menu mw-collapsible mw-collapsed nomobile">
+<div class="main-footer-menuToggle mw-collapsible-toggle mw-customtoggle-main"><img alt="Acciones adicionales" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" decoding="async" title="Acciones adicionales" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" data-file-width="20" data-file-height="20" /></div>
+<div class="main-footer-menuDropdown mw-collapsible-content main-plainlist">
+<p><a href="/wiki/Plantilla:Destacada/data" title="Plantilla:Destacada/data"><span class="mw-ui-button mw-ui-quiet"> Editar</span></a>
+<a href="https://commons.wikimedia.org/wiki/File:Taal_Volcano_-_12_January_2020.jpg" class="extiw" title="c:File:Taal Volcano - 12 January 2020.jpg"><span class="mw-ui-button mw-ui-quiet"> Créditos de la imagen</span></a>
+</p>
+</div></div></div>
+</div>
+</div></div></div>
+</div>
+<table style="height:15px;">
+
+<tbody><tr>
+<td>
+</td></tr>
+</tbody></table>
+<div class="main-wrapper nomobile">
+<div class="main-wrapper-column">
+<span class="nomobile"><div id="main-tfa" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="28_de_febrero_de_2020" class="main-box-section">28 de febrero de 2020</div><h2 class="main-header main-box-header"><span id="Tambi.C3.A9n_destacamos..."></span><span class="mw-headline" id="También_destacamos...">También destacamos...</span></h2>
+<div class="radius-img">
+<p><span class="plainlinks">
+</span></p>
+<table class="nomobile" style="width:100%">
+<tbody><tr>
+<td rowspan="2" valign="top">
+<p><small><span style="color:#808080">12 de enero de 2020 • <span class="plainlinks"><a href="/wiki/Categor%C3%ADa:Estados_Unidos" title="Categoría:Estados Unidos"><b>Estados Unidos</b></a></span></span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2px"><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos">Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos</a></span><br />
+Este sábado, fuertes tormentas han afectado partes del sur y el centro norte de Estados Unidos dejando un saldo de al menos 11 personas fallecidas, entre ellas un política y un bombero durante el tiempo en que ventarrones, tornados e incesantes lluvias azotaron grandes franjas del país.
+</p>
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/200px-Flag_of_the_United_States.svg.png" decoding="async" width="200" height="105" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/300px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/400px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div>
+</td></tr></tbody></table>
+<table class="mf-mobile-only plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">12 de enero de 2020</span><br /><b><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos">Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png" decoding="async" width="1235" height="650" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1853px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2470px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div></div></div></div>Este sábado, fuertes tormentas han afectado partes del sur y el centro norte de Estados Unidos dejando un saldo de al menos 11 personas fallecidas, entre ellas un política y un bombero durante el tiempo en que ventarrones, tornados e incesantes lluvias azotaron grandes franjas del país.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+<p>
+<span class="plainlinks" style="padding-top:10px">
+</span></p>
+<table class="nomobile" style="width:100%">
+<tbody><tr>
+<td rowspan="2" valign="top">
+<p><small><span style="color:#808080">8 de enero de 2020 • <span class="plainlinks"><a href="/wiki/Categor%C3%ADa:Ir%C3%A1n" title="Categoría:Irán"><b>Irán</b></a></span></span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2px"><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo">Avión ucraniano se estrella en Teherán con 176 personas a bordo</a></span><br />
+Un avión ucraniano explotó poco después del despegue del aeropuerto de Teherán temprano el miércoles, sin ningún sobreviviente entre las 176 personas que iban a bordo.
+</p>
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:CID_post-impact_3.jpg" class="image"><img alt="CID post-impact 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/CID_post-impact_3.jpg/200px-CID_post-impact_3.jpg" decoding="async" width="200" height="135" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/CID_post-impact_3.jpg/300px-CID_post-impact_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/CID_post-impact_3.jpg/400px-CID_post-impact_3.jpg 2x" data-file-width="3030" data-file-height="2040" /></a></div>
+</td></tr></tbody></table>
+<table class="mf-mobile-only plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">8 de enero de 2020</span><br /><b><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo">Avión ucraniano se estrella en Teherán con 176 personas a bordo</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:CID_post-impact_3.jpg" class="image"><img alt="CID post-impact 3.jpg" src="//upload.wikimedia.org/wikipedia/commons/9/92/CID_post-impact_3.jpg" decoding="async" width="3030" height="2040" data-file-width="3030" data-file-height="2040" /></a></div></div></div></div>Un avión ucraniano explotó poco después del despegue del aeropuerto de Teherán temprano el miércoles, sin ningún sobreviviente entre las 176 personas que iban a bordo.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+<p>
+<span class="plainlinks" style="padding-top:10px">
+</span></p>
+<table class="nomobile" style="width:100%">
+<tbody><tr>
+<td rowspan="2" valign="top">
+<p><small><span style="color:#808080">8 de enero de 2020 • <span class="plainlinks"><a href="/wiki/Categor%C3%ADa:Oriente_Medio" title="Categoría:Oriente Medio"><b>Oriente Medio</b></a></span></span></small><br />
+<span style="font-size: 130%; font-weight: bold; line-height: 1.2px"><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta">Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta</a></span><br />
+Irán disparó más de una decena de misiles balísticos contra dos bases aéreas en Iraq donde hay fuerzas estadounidenses, en una aparente represalia contra el ataque de Estados Unidos que mató al general iraní Qassem Soleimani.
+</p>
+</td>
+<td><div class="floatright"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/200px-Flag_of_the_United_States.svg.png" decoding="async" width="200" height="105" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/300px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/400px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div>
+</td></tr></tbody></table>
+<table class="mf-mobile-only plainlinks" style="border: 1px solid #DDD; margin-bottom: 10px; border-radius: 2px; -moz-border-radius: 2px; -webkit-border-radius: 2px; -khtml-border-radius: 2px; width:100%">
+
+<tbody><tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0.7em 0.35em 0.7em; border-bottom: none; font-size: 1.3em;">
+<p><span style="font-size: 70%; color:#808080">8 de enero de 2020</span><br /><b><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta">Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta</a></b>
+</p>
+</td></tr>
+<tr valign="top">
+<td style="padding:0.8em;">
+<div style="position: relative; margin: -1em -1.2em 1em -1.2em; padding: 0; background-color: transparent; height: 1%;">
+<div style="position: relative; margin: 0 auto; background: #DED3CF; width: 97%; height: 1%;">
+<div style="position: relative; overflow: hidden; height:190px;">
+<div style="position: absolute; overflow: hidden; margin: 0 0 0 0;"><a href="/wiki/Archivo:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1235px-Flag_of_the_United_States.svg.png" decoding="async" width="1235" height="650" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1853px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2470px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></div></div></div></div>Irán disparó más de una decena de misiles balísticos contra dos bases aéreas en Iraq donde hay fuerzas estadounidenses, en una aparente represalia contra el ataque de Estados Unidos que mató al general iraní Qassem Soleimani.
+</td></tr>
+<tr>
+<td colspan="2" style="line-height: 20px; background: #EEE; margin-top: 0; margin-bottom: 0.4em; padding: 0.45em 0 0 0; border-bottom: none; text-align:center">
+<p><b><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta"><font color="#000">Leer más</font></a></b>
+</p>
+</td></tr></tbody></table>
+</div>
+<p><br style="clear:both" />
+</p>
+<div class="main-footer"><div class="main-footer-actions main-plainlist &#91;&#91;:Plantilla:Yesno&#93;&#93;">
+<ul><li><a href="/wiki/Wikinoticias:Titulares_en_Portada" title="Wikinoticias:Titulares en Portada"><span class="mw-ui-button mw-ui-quiet"> Actualizar noticias</span></a></li></ul>
+</div></div>
+</div></span>
+<div id="main-tfa" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="Información_detallada_en_vivo" class="main-box-section">Información detallada en vivo</div><h2 class="main-header main-box-header"><span id=".C3.9Altimas_noticias"></span><span class="mw-headline" id="Últimas_noticias">Últimas noticias</span></h2>
+<ul>
+<li><a href="/wiki/Cientos_de_evacuados_por_erupci%C3%B3n_del_volc%C3%A1n_Taal_en_Filipinas?dpl_id=60011" title="Cientos de evacuados por erupción del volcán Taal en Filipinas">Cientos de evacuados por erupción del volcán Taal en Filipinas</a></li> 
+<li><a href="/wiki/Fuertes_tormentas_azotan_el_centro_y_sur_de_Estados_Unidos_dejando_11_muertos?dpl_id=60012" title="Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos">Fuertes tormentas azotan el centro y sur de Estados Unidos dejando 11 muertos</a></li> 
+<li><a href="/wiki/Avi%C3%B3n_ucraniano_se_estrella_en_Teher%C3%A1n_con_176_personas_a_bordo?dpl_id=60000" title="Avión ucraniano se estrella en Teherán con 176 personas a bordo">Avión ucraniano se estrella en Teherán con 176 personas a bordo</a></li> 
+<li><a href="/wiki/Ir%C3%A1n_lanza_misiles_a_bases_que_albergan_fuerzas_de_EE.UU._en_Iraq,_Trump_examina_respuesta?dpl_id=59999" title="Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta">Irán lanza misiles a bases que albergan fuerzas de EE.UU. en Iraq, Trump examina respuesta</a></li> 
+<li><a href="/wiki/Se_registran_tormentas_que_pueden_provocar_m%C3%A1s_incendios_en_Australia?dpl_id=60001" title="Se registran tormentas que pueden provocar más incendios en Australia">Se registran tormentas que pueden provocar más incendios en Australia</a></li> 
+<li><a href="/wiki/Trump_aprueba_fondos_de_emergencias_para_Puerto_Rico_despu%C3%A9s_de_sismo?dpl_id=60002" title="Trump aprueba fondos de emergencias para Puerto Rico después de sismo">Trump aprueba fondos de emergencias para Puerto Rico después de sismo</a></li> 
+<li><a href="/wiki/Siguen_evacuaciones_en_Australia_por_los_incendios_forestales?dpl_id=59994" title="Siguen evacuaciones en Australia por los incendios forestales">Siguen evacuaciones en Australia por los incendios forestales</a></li> 
+<li><a href="/wiki/Espa%C3%B1a_recomienda_evitar_viajes_a_Ir%C3%A1n_e_Iraq_por_las_tensiones_entre_Estados_Unidos_e_Ir%C3%A1n?dpl_id=59991" title="España recomienda evitar viajes a Irán e Iraq por las tensiones entre Estados Unidos e Irán">España recomienda evitar viajes a Irán e Iraq por las tensiones entre Estados Unidos e Irán</a></li> 
+<li><a href="/wiki/Qasem_Soleimani_muri%C3%B3_en_un_bombardeo_en_el_aeropuerto_de_Bagdad?dpl_id=59989" title="Qasem Soleimani murió en un bombardeo en el aeropuerto de Bagdad">Qasem Soleimani murió en un bombardeo en el aeropuerto de Bagdad</a></li> 
+<li><a href="/wiki/Delf%C3%ADn_se_proclama_campe%C3%B3n_de_la_Liga_Pro_de_Ecuador_2019?dpl_id=59980" title="Delfín se proclama campeón de la Liga Pro de Ecuador 2019">Delfín se proclama campeón de la Liga Pro de Ecuador 2019</a></li></ul>
+<p><br style="clear:both" />
+</p>
+<div class="main-footer"><div class="main-footer-actions main-plainlist &#91;&#91;:Plantilla:Yesno&#93;&#93;">
+<ul><li><a href="/w/index.php?title=Wikinoticias:Archivo/2020/01&amp;action=edit&amp;redlink=1" class="new" title="Wikinoticias:Archivo/2020/01 (la página no existe)"><span class="mw-ui-button mw-ui-quiet"> Enero de 2020 </span></a></li>
+<li><span class="mw-ui-button mw-ui-neutral plainlinks" role="button"><span class="mw-ui-text"> <a href="/w/index.php?title=Wikinoticias:Archivo/2020/02&amp;action=edit&amp;redlink=1" class="new" title="Wikinoticias:Archivo/2020/02 (la página no existe)">Febrero de 2020</a></span></span></li></ul>
+</div><div id="mw-customcollapsible-tfa" class="main-footer-menu mw-collapsible mw-collapsed nomobile">
+<div class="main-footer-menuToggle mw-collapsible-toggle mw-customtoggle-main-tfa"><img alt="Acciones adicionales" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" decoding="async" title="Acciones adicionales" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" data-file-width="20" data-file-height="20" /></div>
+<div class="main-footer-menuDropdown mw-collapsible-content main-plainlist">
+<ul><li><a href="/wiki/Wikinoticias:Archivo" title="Wikinoticias:Archivo"><span class="mw-ui-button mw-ui-quiet"> Archivo</span></a></li>
+<li><span class="mw-ui-button mw-ui-quiet"><span class="plainlinks"><a class="external text" href="https://es.wikinews.org/w/index.php?title=Portada&amp;action=purge">Purgar</a></span></span></li></ul>
+</div></div></div>
+</div>
+<div id="main-itd" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="Más_a_fondo" class="main-box-section">Más a fondo</div><h2 class="main-header main-box-header"><span class="mw-headline" id="Reportajes_originales_2"><a href="/wiki/Categor%C3%ADa:Reportajes_originales" title="Categoría:Reportajes originales">Reportajes originales</a></span></h2>
+<ul>
+<li>3 nov 2019: <a href="/wiki/Avesar_ofrece_una_rueda_de_prensa_por_la_suspensi%C3%B3n_del_reparto_de_alimentos?dpl_id=59903" title="Avesar ofrece una rueda de prensa por la suspensión del reparto de alimentos">Avesar ofrece una rueda de prensa por la suspensión del reparto de alimentos</a></li> 
+<li>16 sep 2019: <a href="/wiki/Wikinoticias_entrevista_a_Julioprofe_con_motivo_de_su_primer_libro?dpl_id=59722" title="Wikinoticias entrevista a Julioprofe con motivo de su primer libro">Wikinoticias entrevista a Julioprofe con motivo de su primer libro</a></li> 
+<li>30 ago 2019: <a href="/wiki/El_libro_de_Wikipedia_en_la_Educaci%C3%B3n_es_presentado_en_Uruguay?dpl_id=59681" title="El libro de Wikipedia en la Educación es presentado en Uruguay">El libro de Wikipedia en la Educación es presentado en Uruguay</a></li> 
+<li>12 ago 2019: <a href="/wiki/Sarraute,_Salvagno,_Cetraro_y_Gonz%C3%A1lez_ganaron_la_medalla_de_oro_en_remo?dpl_id=59633" title="Sarraute, Salvagno, Cetraro y González ganaron la medalla de oro en remo">Sarraute, Salvagno, Cetraro y González ganaron la medalla de oro en remo</a></li> 
+<li>1 ago 2019: <a href="/wiki/Falleci%C3%B3_Mar%C3%ADa_Auxiliadora_Delgado?dpl_id=59607" title="Falleció María Auxiliadora Delgado">Falleció María Auxiliadora Delgado</a></li> 
+<li>28 jul 2019: <a href="/wiki/Egan_Bernal_gana_el_Tour_de_Francia?dpl_id=59475" title="Egan Bernal gana el Tour de Francia">Egan Bernal gana el Tour de Francia</a></li></ul>
+<p><br style="clear:both" />
+</p>
+<div class="main-footer"><div class="main-footer-actions main-plainlist &#91;&#91;:Plantilla:Yesno&#93;&#93;">
+<ul><li><span class="mw-ui-button mw-ui-neutral plainlinks" role="button"><span class="mw-ui-text"> <a href="/wiki/Categor%C3%ADa:Reportajes_originales" title="Categoría:Reportajes originales">Todos los reportajes</a></span></span></li></ul>
+</div></div>
+</div>
+</div>
+<div class="main-wrapper-column">
+<div id="main-itd" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="Un_proyecto_de_la_Fundación_Wikimedia" class="main-box-section">Un proyecto de la Fundación Wikimedia</div><h2 class="main-header main-box-header"><span id=".C2.BFQu.C3.A9_es_Wikinoticias.3F"></span><span class="mw-headline" id="¿Qué_es_Wikinoticias?">¿Qué es Wikinoticias?</span></h2>
+<div style="text-align:left">
+<p><b>Wikinoticias</b> es un medio de comunicación formado por voluntarios y <a href="/wiki/Wikinoticias:Nuestra_misi%C3%B3n" title="Wikinoticias:Nuestra misión">cuya misión</a> es construir un sitio con contenido actualizado al momento, <a href="/wiki/Wikinoticias:Gu%C3%ADa_de_contenido" title="Wikinoticias:Guía de contenido">relevante, de interés</a> y entretenido, <a href="/wiki/Wikinoticias:Punto_de_vista_neutral" title="Wikinoticias:Punto de vista neutral">sin prejuicios, manipulación ni parcialidad</a>. Comenzamos nuestra andadura el <b>29 de enero de 2005</b>.
+</p><p><a href="/wiki/Wikinoticias:%C2%A1Wikinoticias_te_necesita!" class="mw-redirect" title="Wikinoticias:¡Wikinoticias te necesita!">¡Wikinoticias te necesita!</a> Queremos crear una comunidad diversa donde los ciudadanos de todas partes del mundo puedan colaborar para informar acerca de los eventos actuales. Si deseas redactar, publicar o editar artículos, visita nuestra <a href="/wiki/Wikinoticias:Sala_de_redacci%C3%B3n" title="Wikinoticias:Sala de redacción">sala de redacción</a> y lee nuestra <a href="/wiki/Ayuda:Introducci%C3%B3n" title="Ayuda:Introducción">introducción</a>. Cualquier contribución es bienvenida.
+</p>
+</div>
+<p><br style="clear:both" />
+</p>
+<div class="main-footer"><div class="main-footer-actions main-plainlist &#91;&#91;:Plantilla:Yesno&#93;&#93;">
+<ul><li><a href="/wiki/Wikinoticias:Nuestra_misi%C3%B3n" title="Wikinoticias:Nuestra misión"><span class="mw-ui-button mw-ui-quiet"> Nuestra misión</span></a></li>
+<li><a href="/wiki/Wikinoticias:Pol%C3%ADticas" title="Wikinoticias:Políticas"><span class="mw-ui-button mw-ui-quiet"> Políticas</span></a></li>
+<li><a href="/wiki/Wikinoticias:Caf%C3%A9" title="Wikinoticias:Café"><span class="mw-ui-button mw-ui-quiet"> Café</span></a></li></ul>
+</div><div id="mw-customcollapsible-itd" class="main-footer-menu mw-collapsible mw-collapsed nomobile">
+<div class="main-footer-menuToggle mw-collapsible-toggle mw-customtoggle-main-itd"><img alt="Acciones adicionales" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" decoding="async" title="Acciones adicionales" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" data-file-width="20" data-file-height="20" /></div>
+<div class="main-footer-menuDropdown mw-collapsible-content main-plainlist">
+<ul><li><a href="/wiki/Ayuda:Introducci%C3%B3n" title="Ayuda:Introducción"><span class="mw-ui-button mw-ui-quiet"> Introducción</span></a></li>
+<li><a href="/wiki/Ayuda:C%C3%B3mo_empezar_una_p%C3%A1gina" title="Ayuda:Cómo empezar una página"><span class="mw-ui-button mw-ui-quiet"> Primeros pasos</span></a></li>
+<li><a href="/wiki/Ayuda:Contenidos" title="Ayuda:Contenidos"><span class="mw-ui-button mw-ui-quiet"> Ayuda</span></a></li>
+<li><a href="/wiki/Ayuda:Estructura_b%C3%A1sica_de_un_art%C3%ADculo" title="Ayuda:Estructura básica de un artículo"><span class="mw-ui-button mw-ui-quiet"> Modelo de artículos</span></a></li>
+<li><a href="/wiki/Wikinoticias:Tabl%C3%B3n_de_anuncios_de_los_administradores" title="Wikinoticias:Tablón de anuncios de los administradores"><span class="mw-ui-button mw-ui-quiet"> Tablón de anuncios de Admin.</span></a></li>
+<li><a href="/wiki/Wikinoticias:Solicitudes_a_bur%C3%B3cratas" title="Wikinoticias:Solicitudes a burócratas"><span class="mw-ui-button mw-ui-quiet"> Solicitudes a burócratas</span></a></li></ul>
+</div></div></div>
+</div>
+<div id="main-itd" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="Tal_día_como_hoy..." class="main-box-section">Tal día como hoy...</div><h2 class="main-header main-box-header"><span id="Efem.C3.A9rides"></span><span class="mw-headline" id="Efemérides">Efemérides</span></h2>
+<div class="portada-cronologia-item">
+<div class="portada-cronologia-avuifa">Hace 1 mes • <b>28 de enero de 2020</b></div>
+<div class="portada-cronologia-efemeride"></div>
+</div>
+<div class="portada-cronologia-item">
+<div class="portada-cronologia-avuifa">Hace 1 año • <b>28 de febrero de 2019</b></div>
+<div class="portada-cronologia-efemeride"></div>
+</div>
+<p><br style="clear:both" />
+</p>
+<div class="main-footer"><div class="main-footer-actions main-plainlist &#91;&#91;:Plantilla:Yesno&#93;&#93;">
+<ul><li><a href="/wiki/Categor%C3%ADa:27_de_febrero" title="Categoría:27 de febrero"><span class="mw-ui-button mw-ui-quiet"> 27 de febrero </span></a></li>
+<li><span class="mw-ui-button mw-ui-neutral plainlinks" role="button"><span class="mw-ui-text"> <a href="/wiki/Categor%C3%ADa:28_de_febrero" title="Categoría:28 de febrero"> 28 de febrero</a> </span></span></li>
+<li><a href="/wiki/Categor%C3%ADa:29_de_febrero" title="Categoría:29 de febrero"><span class="mw-ui-button mw-ui-quiet"> 29 de febrero </span></a></li></ul>
+</div><div id="mw-customcollapsible-itd" class="main-footer-menu mw-collapsible mw-collapsed nomobile">
+<div class="main-footer-menuToggle mw-collapsible-toggle mw-customtoggle-main-itd"><img alt="Acciones adicionales" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/20px-OOjs_UI_icon_ellipsis.svg.png" decoding="async" title="Acciones adicionales" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/30px-OOjs_UI_icon_ellipsis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/OOjs_UI_icon_ellipsis.svg/40px-OOjs_UI_icon_ellipsis.svg.png 2x" data-file-width="20" data-file-height="20" /></div>
+<div class="main-footer-menuDropdown mw-collapsible-content main-plainlist">
+<ul><li><a href="/w/index.php?title=Efem%C3%A9rides-28_de_febrero&amp;action=edit&amp;redlink=1" class="new" title="Efemérides-28 de febrero (la página no existe)"><span class="mw-ui-button mw-ui-quiet"> Efemérides </span></a></li></ul>
+</div></div></div>
+</div>
+<div id="main-potd" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="&#91;&#91;c:&#124;Wikimedia_Commons&#93;&#93;" class="main-box-section"><a href="https://commons.wikimedia.org/wiki/" class="extiw" title="c:">Wikimedia Commons</a></div><h2 class="main-header main-box-header"><span id="Imagen_del_D.C3.ADa"></span><span class="mw-headline" id="Imagen_del_Día">Imagen del Día</span></h2>
+<div class="main-box-content radius-img"><div class="floatleft"><a href="/wiki/Archivo:Portrait_of_Paul_Trappen.jpg" class="image"><img alt="Portrait of Paul Trappen.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Paul_Trappen.jpg/250px-Portrait_of_Paul_Trappen.jpg" decoding="async" width="250" height="382" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Paul_Trappen.jpg/375px-Portrait_of_Paul_Trappen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Paul_Trappen.jpg/500px-Portrait_of_Paul_Trappen.jpg 2x" data-file-width="4263" data-file-height="6514" /></a></div></div>
+<div style="text-align:left;">Retrato de <a href="https://commons.wikimedia.org/wiki/Category:Paul_Trappen" class="extiw" title="c:Category:Paul Trappen">Paul Trappen</a> (1887-1957), un <a href="https://es.wikipedia.org/wiki/Lucha_(deporte)" class="extiw" title="w:Lucha (deporte)">luchador</a>, <a href="https://es.wikipedia.org/wiki/Halterofilia" class="extiw" title="w:Halterofilia">levantador de pesas</a> y <a href="https://es.wikipedia.org/wiki/Atletismo_de_fuerza" class="extiw" title="w:Atletismo de fuerza">atleta de fuerza</a> alemán.</div>
+<p><br style="clear:both" />
+</p>
+<div class="main-footer"><div class="main-footer-actions main-plainlist &#91;&#91;:Plantilla:Yesno&#93;&#93;">
+<ul><li><a href="https://commons.wikimedia.org/wiki/Archivo:Portrait_of_Paul_Trappen.jpg" class="extiw" title="c:Archivo:Portrait of Paul Trappen.jpg"><span class="mw-ui-button mw-ui-quiet"> Créditos de la imagen</span></a></li></ul>
+</div></div>
+</div>
+<div id="main-itd" class="main-box &#91;&#91;:Plantilla:Yesno&#93;&#93; &#91;&#91;:Plantilla:Yesno&#93;&#93;"><div id="Aviso_legal" class="main-box-section">Aviso legal</div><h2 class="main-header main-box-header"><span id="Limitaci.C3.B3n_general_de_responsabilidad"></span><span class="mw-headline" id="Limitación_general_de_responsabilidad"><a href="/wiki/Wikinoticias:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikinoticias:Limitación general de responsabilidad">Limitación general de responsabilidad</a></span></h2>
+<p>Este es un sitio web de participación voluntaria. La información que encuentre no ha sido necesariamente revisada por expertos. Esto no significa que no vaya a encontrar información exacta, sin embargo, Wikinoticias no puede garantizar su validez.
+<br style="clear:both" />
+</p>
+</div>
+</div>
+</div>
+<div class="nomobile" style="position: relative; margin: auto; margin-top: 1em; padding: 0; background-color: transparent;">
+<div style="position: relative; margin: auto; width:100%; height: 1%; border:1px solid #000; border-radius:5px">
+<div style="position: relative; overflow: hidden; height:360px;">
+<div id="resizable" style="position: absolute; overflow: hidden; height: auto; width: 100%; margin-left: -220px; margin-top:20px; opacity: 0.90; -moz-opacity: 0.90;"><img alt="Wikimedia-logo black.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/550px-Wikimedia-logo_black.svg.png" decoding="async" width="550" height="550" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/825px-Wikimedia-logo_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/1100px-Wikimedia-logo_black.svg.png 2x" data-file-width="512" data-file-height="512" /></div>
+<div style="position: absolute; right: 1em; top: 2em; z-index:10px; width: 80%; border: none; background-color:none;"><div style="display: inline; display: inline-block; margin: 0; line-height: 1.2; margin-left:250px; font-size:120%;">
+<p>Wikinoticias es uno de los <a href="https://foundation.wikimedia.org/wiki/Nuestros_proyectos" class="extiw" title="wmf:Nuestros proyectos">múltiples proyectos</a> de la <b><a href="https://foundation.wikimedia.org/wiki/Portada" class="extiw" title="wmf:Portada"> Fundación Wikimedia</a></b>,<br />una organización sin ánimo de lucro dedicada a promover el <a href="https://commons.wikimedia.org/wiki/Commons:Licensing/es" class="extiw" title="c:Commons:Licensing/es">contenido libre</a>.
+</p>
+<div style="border-bottom:1px solid #000; margin:3px;&#32;; margin-right:5px; margin-left:5px;"></div>
+</div>
+<div style="width:85%; display: inline; display: inline-block; line-height: 1.3; margin-left:110px; margin-top:20px;">
+<table align="center" cellpadding="0" style="font-size:100%;">
+
+<tbody><tr>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wikipedia.org/wiki/" title="Wikipedia"><img alt="Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/40px-Wikipedia-logo.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/60px-Wikipedia-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/80px-Wikipedia-logo.png 2x" data-file-width="200" data-file-height="200" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wikipedia.org/wiki/" class="extiw" title="w:"><b>Wikipedia</b></a><br /><span style="font-size:85%;">La enciclopedia libre</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wiktionary.org/wiki/" title="Wikcionario"><img alt="Wikcionario" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/40px-Wiktionary-logo.svg.png" decoding="async" width="40" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/60px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/80px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wiktionary.org/wiki/" class="extiw" title="wikt:"><b>Wikcionario</b></a><br /><span style="font-size:85%;">El diccionario libre</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wikibooks.org/wiki/" title="Wikilibros"><img alt="Wikilibros" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/60px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/80px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wikibooks.org/wiki/" class="extiw" title="b:"><b>Wikilibros</b></a><br /><span style="font-size:85%;">Libros, manuales y tutoriales</span>
+<hr />
+</td></tr>
+<tr>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://commons.wikimedia.org/wiki/" title="Wikimedia Commons"><img alt="Wikimedia Commons" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://commons.wikimedia.org/wiki/" class="extiw" title="c:"><b>Wikimedia Commons</b></a><br /><span style="font-size:85%;">Mediateca de archivos</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wikivoyage.org/wiki/" title="Wikiviajes"><img alt="Wikiviajes" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/35px-Wikivoyage-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/53px-Wikivoyage-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Wikivoyage-logo.svg/70px-Wikivoyage-logo.svg.png 2x" data-file-width="193" data-file-height="193" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wikivoyage.org/wiki/" class="extiw" title="voy:"><b>Wikiviajes</b></a><br /><span style="font-size:85%;">La guía de viajes libre</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/30px-Wikiquote-logo.svg.png" decoding="async" width="30" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/45px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/60px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wikiquote.org/wiki/" class="extiw" title="q:"><b>Wikiquote</b></a><br /><span style="font-size:85%;">Colección de citas</span>
+<hr />
+</td></tr>
+<tr>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://species.wikimedia.org/wiki/" title="Wikispecies"><img alt="Wikispecies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/30px-Wikispecies-logo.svg.png" decoding="async" width="30" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/45px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/60px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://species.wikimedia.org/wiki/" class="extiw" title="species:"><b>Wikispecies</b></a><br /><span style="font-size:85%;">Directorio de especies</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wikiversity.org/wiki/" title="Wikiversidad"><img alt="Wikiversidad" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" decoding="async" width="40" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wikiversity.org/wiki/" class="extiw" title="v:"><b>Wikiversidad</b></a><br /><span style="font-size:85%;">Contenido académico</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://es.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/30px-Wikisource-logo.svg.png" decoding="async" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/45px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/60px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://es.wikisource.org/wiki/" class="extiw" title="s:"><b>Wikisource</b></a><br /><span style="font-size:85%;">La biblioteca libre</span>
+<hr />
+</td></tr>
+<tr>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://www.wikidata.org/wiki/" title="Wikidata"><img alt="Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/45px-Wikidata-logo.svg.png" decoding="async" width="45" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/68px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/90px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://www.wikidata.org/wiki/" class="extiw" title="d:"><b>Wikidata</b></a><br /><span style="font-size:85%;">Base de conocimiento</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://meta.wikimedia.org/wiki/" title="Meta-Wiki"><img alt="Meta-Wiki" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/40px-Wikimedia_Community_Logo.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/60px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/80px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://meta.wikimedia.org/wiki/" class="extiw" title="m:"><b>Meta-Wiki</b></a><br /><span style="font-size:85%;">Comunidad global</span>
+<hr />
+</td>
+<td style="width:10%;"><div class="center"><div class="floatnone"><a href="https://incubator.wikimedia.org/wiki/" title="Incubadora"><img alt="Incubadora" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/32px-Incubator-logo.svg.png" decoding="async" width="32" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/48px-Incubator-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/64px-Incubator-logo.svg.png 2x" data-file-width="800" data-file-height="1000" /></a></div></div>
+</td>
+<td style="width:20%;"><a href="https://incubator.wikimedia.org/wiki/" class="extiw" title="incubator:"><b>Incubadora</b></a><br /><span style="font-size:85%;">Nuevas versiones de idioma</span>
+<hr />
+</td></tr></tbody></table>
+</div>
+<div style="position: absolute; right: 1em; top: 20em; z-index:10px; width: 80%; border: none; background-color:none;"><div style="display: inline; display: inline-block; margin: 0; line-height: 1.2; margin-left:190px; font-size:100%;">
+<p><i>Para más información, visite <span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.wikimediafoundation.org"><b>wikimediafoundation.org</b></a></span></i>
+</p>
+</div>
+</div>
+</div></div></div>
+<p><br />
+</p></div>
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20200228033827
+Cache expiry: 3600
+Dynamic content: true
+Complications: []
+CPU time usage: 0.176 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 1276/1000000
+Post‐expand include size: 96686/2097152 bytes
+Template argument size: 23969/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 5785/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  403.533      1 -total
+ 46.38%  187.147      7 Plantilla:Portada:Sección
+ 44.33%  178.884      1 Plantilla:Portada:Versión_móvil
+  4.22%   17.024      1 Plantilla:Destacada
+  3.95%   15.951      1 Plantilla:Portada:En_este_día
+  3.39%   13.679      1 Plantilla:Destacada/Core
+  3.02%   12.184      2 Plantilla:Portada:En_este_día/Item
+  2.94%   11.862      1 Plantilla:Portada:En_portada
+  2.22%    8.956      1 Plantilla:Portada:Cabecera
+  2.19%    8.835      2 Plantilla:Portada:Titular_1
+-->
+
+<!-- Saved in parser cache with key eswikinews:stable-pcache:idhash:45098-0!canonical and timestamp 20200228033827 and revision id 675162
+ -->
+</div><noscript><img src="//es.wikinews.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikinews.org/w/index.php?title=Portada&amp;oldid=675162">https://es.wikinews.org/w/index.php?title=Portada&amp;oldid=675162</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Portada" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Portada" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Portada" title="Ver la página de contenido [c]" accesskey="c">Página principal</a></li><li id="ca-talk"><a href="/wiki/Discusi%C3%B3n:Portada" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Portada">Leer</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Portada&amp;action=edit" title="Esta página está protegida.&#10;Puedes ver su código fuente [e]" accesskey="e">Ver código fuente</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Portada&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikinoticias" title="Busca en esta wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Navigation"  aria-labelledby="p-Navigation-label">
+	<h3  id="p-Navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-currentevents"><a href="/wiki/Wikinoticias:Sala_de_redacci%C3%B3n" title="Encuentra información de contexto sobre acontecimientos actuales">Sala de redacción</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Regiones"  aria-labelledby="p-Regiones-label">
+	<h3  id="p-Regiones-label">
+		Regiones
+	</h3>
+	<div class="body">
+		<ul><li id="n-Africa"><a href="/wiki/Categor%C3%ADa:%C3%81frica">África</a></li><li id="n-Asia"><a href="/wiki/Categor%C3%ADa:Asia">Asia</a></li><li id="n-Antillas"><a href="/wiki/Categor%C3%ADa:Antillas">Antillas</a></li><li id="n-CentralAmerica"><a href="/wiki/Categor%C3%ADa:Centroam%C3%A9rica">Centroamérica</a></li><li id="n-Europe"><a href="/wiki/Categor%C3%ADa:Europa">Europa</a></li><li id="n-MiddleEast"><a href="/wiki/Categor%C3%ADa:Oriente_Medio">Medio Oriente</a></li><li id="n-NorthAmerica"><a href="/wiki/Categor%C3%ADa:Norteam%C3%A9rica">Norteamérica</a></li><li id="n-Oceania"><a href="/wiki/Categor%C3%ADa:Ocean%C3%ADa">Oceanía</a></li><li id="n-SouthAmerica"><a href="/wiki/Categor%C3%ADa:Sudam%C3%A9rica">Sudamérica</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Wikinoticias"  aria-labelledby="p-Wikinoticias-label">
+	<h3  id="p-Wikinoticias-label">
+		Wikinoticias
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Wikinoticias:Caf%C3%A9" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Café</a></li><li id="n-Políticas"><a href="/wiki/Wikinoticias:Pol%C3%ADticas">Políticas</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikinews.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		En otros proyectos
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Main_Page" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-mediawiki"><a href="https://www.mediawiki.org/wiki/MediaWiki" hreflang="en">MediaWiki</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Main_Page" hreflang="en">Meta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Main_Page" hreflang="en">Wikiespecies</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://es.wikibooks.org/wiki/Portada" hreflang="es">Wikilibros</a></li><li class="wb-otherproject-link wb-otherproject-wikidata"><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" hreflang="en">Wikidata</a></li><li class="wb-otherproject-link wb-otherproject-wikimania"><a href="https://wikimania.wikimedia.org/wiki/Wikimania" hreflang="en">Wikimanía</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" hreflang="es">Wikipedia</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://es.wikiquote.org/wiki/Portada" hreflang="es">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://es.wikisource.org/wiki/Portada" hreflang="es">Wikisource</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://es.wikiversity.org/wiki/Portada" hreflang="es">Wikiversidad</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://es.wikivoyage.org/wiki/P%C3%A1gina_principal" hreflang="es">Wikiviajes</a></li><li class="wb-otherproject-link wb-otherproject-wiktionary"><a href="https://es.wiktionary.org/wiki/Wikcionario:Portada" hreflang="es">Wikcionario</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Portada">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Portada&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Portada&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Portada" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Portada" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios relacionados</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Portada&amp;oldid=675162" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Portada&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Portada&amp;id=675162" title="Información sobre cómo citar esta página">Citar esta página</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikinews.org/wiki/" title="árabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikinews.org/wiki/" title="búlgaro" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikinews.org/wiki/" title="bosnio" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikinews.org/wiki/" title="catalán" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikinews.org/wiki/" title="checo" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikinews.org/wiki/" title="alemán" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikinews.org/wiki/" title="griego" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikinews.org/wiki/" title="inglés" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikinews.org/wiki/" title="esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikinews.org/wiki/" title="persa" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikinews.org/wiki/" title="finés" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikinews.org/wiki/" title="francés" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikinews.org/wiki/" title="hebreo" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikinews.org/wiki/Kezd%C5%91lap" title="Kezdőlap (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikinews.org/wiki/" title="italiano" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikinews.org/wiki/" title="japonés" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikinews.org/wiki/" title="coreano" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikinews.org/wiki/Veurblaad" title="Veurblaad (limburgués)" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikinews.org/wiki/Wikinieuws:Hoofdpagina" title="Wikinieuws:Hoofdpagina (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikinews.org/wiki/" title="noruego" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikinews.org/wiki/" title="polaco" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikinews.org/wiki/" title="portugués" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikinews.org/wiki/" title="rumano" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikinews.org/wiki/" title="ruso" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikinews.org/wiki/%D9%BE%D9%87%D8%B1%D9%8A%D9%88%D9%86_%D8%B5%D9%81%D8%AD%D9%88" title="پهريون صفحو (sindhi)" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikinews.org/wiki/Faqja_kryesore" title="Faqja kryesore (albanés)" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikinews.org/wiki/" title="serbio" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikinews.org/wiki/Huvudsida" title="Huvudsida (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikinews.org/wiki/" title="tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikinews.org/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="หน้าหลัก (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikinews.org/wiki/" title="turco" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikinews.org/wiki/" title="ucraniano" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikinews.org/wiki/" title="chino" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5296#sitelinks-wikinews" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 7 dic 2019 a las 12:16.</li>
+		<li id="footer-info-copyright">Todo el contenido creado después del 25 de septiembre de 2005 está disponible bajo los términos de la licencia <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by/2.5/">Creative Commons Attribution 2.5</a>. Lee los <a href="//wikimediafoundation.org/wiki/Terms_of_Use/es">Términos y condiciones de uso</a> para más información.
+<div align="center" style="margin-top:1em; margin-bottom:1em;"><a rel="license" href="//creativecommons.org/licenses/by/2.5/deed.es"><img class="floatright" alt="Licencia Creative Commons Atribución 2.5" border="0" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png"/></a></div>
+Wikinoticias&reg; y el logotipo de Wikinoticias son marcas registradas de <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a>, organización sin ánimo de lucro regida por la sección <a href="//en.wikipedia.org/wiki/501(c)#501.28c.29.283.29"> 501(c)(3)</a> del Código Fiscal de los Estados Unidos.<br /></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikinoticias:Acerca_de" class="mw-redirect" title="Wikinoticias:Acerca de">Acerca de Wikinoticias</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikinoticias:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikinoticias:Limitación general de responsabilidad">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikinews.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikinews.org/w/index.php?title=Portada&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.514","ppvisitednodes":{"value":1276,"limit":1000000},"postexpandincludesize":{"value":96686,"limit":2097152},"templateargumentsize":{"value":23969,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":5785,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  403.533      1 -total"," 46.38%  187.147      7 Plantilla:Portada:Sección"," 44.33%  178.884      1 Plantilla:Portada:Versión_móvil","  4.22%   17.024      1 Plantilla:Destacada","  3.95%   15.951      1 Plantilla:Portada:En_este_día","  3.39%   13.679      1 Plantilla:Destacada/Core","  3.02%   12.184      2 Plantilla:Portada:En_este_día/Item","  2.94%   11.862      1 Plantilla:Portada:En_portada","  2.22%    8.956      1 Plantilla:Portada:Cabecera","  2.19%    8.835      2 Plantilla:Portada:Titular_1"]},"cachereport":{"origin":"mw1253","timestamp":"20200228033827","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Portada","url":"https:\/\/es.wikinews.org\/wiki\/Portada","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-29T05:36:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a4\/Flag_of_the_United_States.svg","headline":"p\u00e1gina principal de un proyecto Wikimedia"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":177,"wgHostname":"mw1355"});});</script></body></html>

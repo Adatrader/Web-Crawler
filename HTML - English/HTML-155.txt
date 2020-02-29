@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Manual of Style/Self-references to avoid - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgQsApAICEAAI4rTW8AAACL","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Manual_of_Style/Self-references_to_avoid","wgTitle":"Manual of Style/Self-references to avoid","wgCurRevisionId":932308083,"wgRevisionId":932308083,"wgArticleId":273430,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia Manual of Style (content)"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Wikipedia:Manual_of_Style/Self-references_to_avoid","wgRelevantArticleId":273430,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wikipedia:Avoid_self-references","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Wikipedia:Manual_of_Style/Self-references_to_avoid","wgWikibaseItemId":"Q11888427","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Self-references_to_avoid"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject mw-editable page-Wikipedia_Manual_of_Style_Self-references_to_avoid rootpage-Wikipedia_Manual_of_Style skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Manual of Style/Self-references to avoid</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">Wikipedia:Manual of Style</a></span><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Wikipedia:Avoid_self-references&amp;redirect=no" class="mw-redirect" title="Wikipedia:Avoid self-references">Wikipedia:Avoid self-references</a>)</span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This page is about the guideline for Wikipedia self-references to avoid. For the guideline on autobiographies, see <a href="/wiki/Wikipedia:Autobiography" title="Wikipedia:Autobiography">Wikipedia:Autobiography</a>. For self-published sources, see <a href="/wiki/Wikipedia:SPS" class="mw-redirect" title="Wikipedia:SPS">WP:SPS</a>. For the <code>&#123;&#123;selfref&#125;&#125;</code> template, see <a href="/wiki/Template:Selfref" title="Template:Selfref">Template:Selfref</a>. For the guideline against using Wikipedia articles as references, see <a href="/wiki/Wikipedia:CIRCULAR" class="mw-redirect" title="Wikipedia:CIRCULAR">WP:CIRCULAR</a>.</div>
+<table class="plainlinks ombox ombox-notice" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blue_check.svg/30px-Blue_check.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blue_check.svg/45px-Blue_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blue_check.svg/60px-Blue_check.svg.png 2x" data-file-width="600" data-file-height="600" /></td><td class="mbox-text"><div style="padding-top: 6px; padding-bottom: 5px;"><b>This <a href="/wiki/Wikipedia:Policies_and_guidelines#guide" title="Wikipedia:Policies and guidelines">guideline</a> is a part of the English Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">Manual of Style</a></b>.<br /><div style="font-size: 90%;"> It is a generally accepted standard that editors should attempt to follow, though it is best treated with <a href="/wiki/Wikipedia:What_%22Ignore_all_rules%22_means#Use_common_sense" title="Wikipedia:What &quot;Ignore all rules&quot; means">common sense</a>, and <a href="/wiki/Wikipedia:Ignore_all_rules" title="Wikipedia:Ignore all rules">occasional exceptions</a> may apply. Any <i>substantive</i> edit to this page should reflect <a href="/wiki/Wikipedia:Consensus" title="Wikipedia:Consensus">consensus</a>. When in doubt, discuss first on the <a href="/wiki/Wikipedia_talk:Manual_of_Style/Self-references_to_avoid" title="Wikipedia talk:Manual of Style/Self-references to avoid">talk page</a>.</div></div></td><td class="mbox-imageright"><div role="note" class="shortcutbox noprint" style="float: right; border: 1px solid #aaa; padding: .4em 1em .4em 1em; text-align: center; line-height: 1.4em; font-weight: bold; font-size: smaller; background-color:white;"><span id="MOS:SELFREF"></span><span id="WP:SRTA"></span><span id="WP:SELF"></span><div style="display: inline-block; border-bottom: 1px solid #aaa; line-height: 1.5em; font-weight: normal; margin-bottom: .2em;"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcuts</a></div><div class="plainlist"><ul><li><span class="nowrap"><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=MOS:SELFREF&amp;redirect=no">MOS:SELFREF</a></span></span></li><li><span class="nowrap"><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:SRTA&amp;redirect=no">WP:SRTA</a></span></span></li><li><span class="nowrap"><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:SELF&amp;redirect=no">WP:SELF</a></span></span></li></ul></div>
+</div></td></tr></tbody></table>
+<table class="plainlinks ombox ombox-notice" role="presentation"><tbody><tr><td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walnut.png/30px-Walnut.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walnut.png/45px-Walnut.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Walnut.png/60px-Walnut.png 2x" data-file-width="192" data-file-height="192" /></td><td class="mbox-text"><b>This page in a nutshell:</b> Wikipedia's <a href="/wiki/Free_content" title="Free content">free content</a> is reused in many places: do not assume that the reader is reading Wikipedia, or indeed any website.  Articles may refer to themselves, but they shouldn't refer to Wikipedia in a non-neutral fashion except under special circumstances.</td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">Manual of Style (MoS)</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="style-searchbox"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="25" dir="ltr" /><input type="hidden" value="Wikipedia:Manual of Style" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the MoS" /><input type="hidden" value="Search" name="fulltext" /></form></div></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(content)" title="Category:Wikipedia Manual of Style (content)">Content</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Accessibility" title="Wikipedia:Manual of Style/Accessibility">Accessibility</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Biography" title="Wikipedia:Manual of Style/Biography">Biography</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Disambiguation_pages" title="Wikipedia:Manual of Style/Disambiguation pages">Disambiguation pages</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Hidden_text" title="Wikipedia:Manual of Style/Hidden text">Hidden text</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Infoboxes" title="Wikipedia:Manual of Style/Infoboxes">Infoboxes</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">Linking</a></li>
+<li><a class="mw-selflink selflink">Self-references</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch" title="Wikipedia:Manual of Style/Words to watch">Words to watch</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(formatting)" title="Category:Wikipedia Manual of Style (formatting)">Formatting</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Abbreviations" title="Wikipedia:Manual of Style/Abbreviations">Abbreviations</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Capital_letters" title="Wikipedia:Manual of Style/Capital letters">Capital letters</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers" title="Wikipedia:Manual of Style/Dates and numbers">Dates and numbers</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Pronunciation" title="Wikipedia:Manual of Style/Pronunciation">Pronunciation</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Spelling" title="Wikipedia:Manual of Style/Spelling">Spelling</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Text_formatting" title="Wikipedia:Manual of Style/Text formatting">Text formatting</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Titles" title="Wikipedia:Manual of Style/Titles">Titles</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(images)" title="Category:Wikipedia Manual of Style (images)">Images</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Captions" title="Wikipedia:Manual of Style/Captions">Captions</a></li>
+<li><a href="/wiki/Wikipedia:Galleries" class="mw-redirect" title="Wikipedia:Galleries">Galleries</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Icons" title="Wikipedia:Manual of Style/Icons">Icons</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Images" title="Wikipedia:Manual of Style/Images">Images</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(layout)" title="Category:Wikipedia Manual of Style (layout)">Layout</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Layout" title="Wikipedia:Manual of Style/Layout">Layout</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">Lead section</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Tables" title="Wikipedia:Manual of Style/Tables">Tables</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Trivia_sections" title="Wikipedia:Manual of Style/Trivia sections">Trivia sections</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(lists)" title="Category:Wikipedia Manual of Style (lists)">Lists</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Lists" title="Wikipedia:Manual of Style/Lists">Lists</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Lists_of_works" title="Wikipedia:Manual of Style/Lists of works">Lists of works</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Road_junction_lists" title="Wikipedia:Manual of Style/Road junction lists">Road junctions</a></li>
+<li><a href="/wiki/Wikipedia:Stand-alone_lists" title="Wikipedia:Stand-alone lists">Stand-alone lists</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(legal)" title="Category:Wikipedia Manual of Style (legal)">Legal</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Legal" title="Wikipedia:Manual of Style/Legal">Legal</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Trademarks" title="Wikipedia:Manual of Style/Trademarks">Trademarks</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;">By topic area</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em">
+<hr /></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(arts)" title="Category:Wikipedia Manual of Style (arts)">Arts</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Comics" title="Wikipedia:Manual of Style/Comics">Comics</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Film" title="Wikipedia:Manual of Style/Film">Film</a></li>
+<li><a href="/wiki/Wikipedia:Lyrics_and_poetry" title="Wikipedia:Lyrics and poetry">Lyrics and Poetry</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Novels" title="Wikipedia:Manual of Style/Novels">Novels</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Philosophy" title="Wikipedia:Manual of Style/Philosophy">Philosophy</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Television" title="Wikipedia:Manual of Style/Television">Television</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Video_games" title="Wikipedia:Manual of Style/Video games">Video games</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Visual_arts" title="Wikipedia:Manual of Style/Visual arts">Visual arts</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Writing_about_fiction" title="Wikipedia:Manual of Style/Writing about fiction">Writing about fiction</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Wikipedia:Manual_of_Style/Music" title="Wikipedia:Manual of Style/Music">Music</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Music_samples" title="Wikipedia:Manual of Style/Music samples">Music samples</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Record_charts" title="Wikipedia:Manual of Style/Record charts">Record charts</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Stringed_instrument_tunings" title="Wikipedia:Manual of Style/Stringed instrument tunings">Stringed instruments</a></li>
+<li><a href="/wiki/Category:Wikipedia_Manual_of_Style_(music)" title="Category:Wikipedia Manual of Style (music)">Category</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(regional)" title="Category:Wikipedia Manual of Style (regional)">Regional</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)#Specific_topics" title="Wikipedia:Naming conventions (geographic names)">Specific naming conventions</a>
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Canada-related_articles" title="Wikipedia:Manual of Style/Canada-related articles">Canada</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/China_and_Chinese-related_articles" title="Wikipedia:Manual of Style/China and Chinese-related articles">China and Chinese-related</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/France_and_French-related_articles" title="Wikipedia:Manual of Style/France and French-related articles">France</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Hawaii-related_articles" title="Wikipedia:Manual of Style/Hawaii-related articles">Hawaii</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/India-related_articles" title="Wikipedia:Manual of Style/India-related articles">India</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Ireland-related_articles" title="Wikipedia:Manual of Style/Ireland-related articles">Ireland</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Japan-related_articles" title="Wikipedia:Manual of Style/Japan-related articles">Japan</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Korea-related_articles" title="Wikipedia:Manual of Style/Korea-related articles">Korea</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Pakistan-related_articles" title="Wikipedia:Manual of Style/Pakistan-related articles">Pakistan</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Philippine-related_articles" title="Wikipedia:Manual of Style/Philippine-related articles">Philippines</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Poland-related_articles" title="Wikipedia:Manual of Style/Poland-related articles">Poland</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Singapore-related_articles" title="Wikipedia:Manual of Style/Singapore-related articles">Singapore</a></li>
+<li><a href="/wiki/Wikipedia:Trinidad_and_Tobago_Wikipedians%27_notice_board/Style_guide" title="Wikipedia:Trinidad and Tobago Wikipedians&#39; notice board/Style guide">Trinidad and Tobago</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(religion)" title="Category:Wikipedia Manual of Style (religion)">Religion</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Islam-related_articles" title="Wikipedia:Manual of Style/Islam-related articles">Islam</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Latter_Day_Saints" title="Wikipedia:Manual of Style/Latter Day Saints">Latter Day Saints</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(science)" title="Category:Wikipedia Manual of Style (science)">Science</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Chemistry" title="Wikipedia:Manual of Style/Chemistry">Chemistry</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Computer_science/Manual_of_style" title="Wikipedia:WikiProject Computer science/Manual of style">Computer science</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Computing" title="Wikipedia:Manual of Style/Computing">Computing</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Mathematics" title="Wikipedia:Manual of Style/Mathematics">Mathematics</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Medicine-related_articles" title="Wikipedia:Manual of Style/Medicine-related articles">Medicine</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;"><a href="/wiki/Category:Wikipedia_Manual_of_Style_(sports)" title="Category:Wikipedia Manual of Style (sports)">Sports</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Cue_sports" title="Wikipedia:Manual of Style/Cue sports">Cue sports</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Snooker" title="Wikipedia:Manual of Style/Snooker">Snooker</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<hr /></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background-color: #def; padding-left: 2px;">Related guidelines</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Wikipedia:Article_size" title="Wikipedia:Article size">Article size</a></li>
+<li><a href="/wiki/Wikipedia:Article_titles" title="Wikipedia:Article titles">Article titles</a></li>
+<li><a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Categories, lists, and navigation templates</a></li>
+<li><a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">Citing sources</a></li>
+<li><a href="/wiki/Wikipedia:Hatnote" title="Wikipedia:Hatnote">Hatnotes</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Military_history" title="Wikipedia:Manual of Style/Military history">Military history</a></li>
+<li><a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">Signatures</a></li>
+<li><a href="/wiki/Wikipedia:Subpages" title="Wikipedia:Subpages">Subpages</a></li>
+<li><a href="/wiki/Wikipedia:Talk_page_guidelines" title="Wikipedia:Talk page guidelines">Talk page guidelines</a></li>
+<li><a href="/wiki/Wikipedia:Template_namespace" title="Wikipedia:Template namespace">Template namespace</a></li>
+<li><a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">Understandability</a></li>
+<li><a href="/wiki/Wikipedia:User_pages" title="Wikipedia:User pages">User pages</a></li>
+<li><a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">Wikimedia sister projects</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Guide" title="Wikipedia:WikiProject Council/Guide">WikiProjects</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<ul><li><a href="/wiki/Wikipedia:Simplified_Manual_of_Style" title="Wikipedia:Simplified Manual of Style">Overview</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Contents" title="Wikipedia:Manual of Style/Contents">Contents</a></li>
+<li><a href="/wiki/Wikipedia:Styletips" title="Wikipedia:Styletips">Tips</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Style" title="Template:Style"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Style" title="Template talk:Style"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Style&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>This guideline is about <a href="/wiki/Self-reference" title="Self-reference">self-references</a> and specifies which types of self-references should be avoided and which kinds are acceptable.  A self-reference in an article usually mentions Wikipedia directly or tells readers to take an action on Wikipedia, such as editing the article.
+</p><p>Typically, self-references within Wikipedia articles to the Wikipedia project should be avoided.  Others, such as maintenance templates, may be necessary. 
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Types_of_self-reference"><span class="tocnumber">1</span> <span class="toctext">Types of self-reference</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#This_Wikipedia_article_discusses_...,_While_Wikipedia_is_not_a_...,_Edit_this_page_..."><span class="tocnumber">1.1</span> <span class="toctext"><i>This Wikipedia article discusses&#160;...</i>, <i>While Wikipedia is not a&#160;...</i>, <i>Edit this page&#160;...</i></span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Note_that_...,_It_is_important_to_...,_What_is_...?,_Surprisingly_...,_Of_course_..."><span class="tocnumber">1.2</span> <span class="toctext"><i>Note that&#160;...</i>, <i>It is important to&#160;...</i>, <i>What is&#160;...?</i>, <i>Surprisingly&#160;...</i>, <i>Of course&#160;...</i></span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Click_here_to_see_more_(think_about_print)"><span class="tocnumber">1.3</span> <span class="toctext"><i>Click here to see more</i> (think about print)</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Free_content_projects,_such_as_this_website_..._(writing_about_Wikipedia_itself)"><span class="tocnumber">1.4</span> <span class="toctext"><i>Free content projects, such as this website&#160;...</i> (writing about Wikipedia itself)</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#This_article_was_criticised_by_..._(articles_are_about_their_subjects,_not_this_website)"><span class="tocnumber">1.5</span> <span class="toctext"><i>This article was criticised by&#160;...</i> (articles are about their subjects, not this website)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#In_templates_and_categories"><span class="tocnumber">2</span> <span class="toctext">In templates and categories</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Self-reference_tools"><span class="tocnumber">3</span> <span class="toctext">Self-reference tools</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Types_of_self-reference">Types of self-reference</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=1" title="Edit section: Types of self-reference">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="This_Wikipedia_article_discusses_....2C_While_Wikipedia_is_not_a_....2C_Edit_this_page_..."></span><span class="mw-headline" id="This_Wikipedia_article_discusses_...,_While_Wikipedia_is_not_a_...,_Edit_this_page_..."><i>This Wikipedia article discusses&#160;...</i>, <i>While Wikipedia is not a&#160;...</i>, <i>Edit this page&#160;...</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=2" title="Edit section: This Wikipedia article discusses ..., While Wikipedia is not a ..., Edit this page ...">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mentioning that the article is being read on Wikipedia, or referring to Wikipedia policy or technicalities of using Wikipedia, should be avoided where possible. This type of self-reference limits the use of Wikipedia as a <a href="/wiki/Free_content" title="Free content">free content</a> encyclopedia suitable for <a href="/wiki/Fork_(software_development)" title="Fork (software development)">forking</a>, as permitted by our <a href="/wiki/Wikipedia:Copyrights" title="Wikipedia:Copyrights">license</a>. The goal of Wikipedia is to create <i>an encyclopedia</i>, not merely to perpetuate itself, so the articles produced should be useful, even outside the context of the project used to create them. This means that while articles may refer to themselves, they should not refer to "Wikipedia" or to the Wikipedia project as a whole (e.g. "this website"). And our readers already know this is an encyclopedia; it is not useful to inject <a href="/wiki/Wikipedia:No_disclaimers_in_articles" title="Wikipedia:No disclaimers in articles">content disclaimers</a>, e.g., "While Wikipedia is not a dictionary&#160;..." at an article on a jargon term.
+</p><p>Mentioning the Wikipedia community, or website features, can confuse readers of <a href="/wiki/Wikipedia:Reusing_Wikipedia_content" title="Wikipedia:Reusing Wikipedia content">derived works</a>. Unless substantially part of the article topic, do not refer to the fact that the page can be edited, nor mention any Wikipedia project page or process, specialized Wikipedia jargon (e.g. "PoV" in place of "biased"), or any <a href="/wiki/MediaWiki" title="MediaWiki">MediaWiki</a> interface link in the sidebar or along the top of the screen. 
+</p><p>References that exist in a way that assumes the reader is using an encyclopedia, without reference to the specific encyclopedia (Wikipedia) or the manner of access (online), are acceptable. For instance, in the article on the <a href="/wiki/Kobe_Bryant_sexual_assault_case" title="Kobe Bryant sexual assault case">Kobe Bryant sexual assault case</a>, before the alleged victim's identification, it said that "Due to concerns over privacy, the name of the alleged victim is not being included in this article or at this time." That is a reference that makes sense on <a href="/wiki/Wikipedia:Mirrors_and_forks" title="Wikipedia:Mirrors and forks">mirrors and forks</a> and in print, and makes sense in a copy of Wikipedia that contains only the article space.  Similarly, many <a href="/wiki/Wikipedia:Stand-alone_lists" title="Wikipedia:Stand-alone lists">list articles</a> explicitly state their inclusion criteria in the lead section. The template <code>{{<a href="/wiki/Template:Printworthy_selfref" title="Template:Printworthy selfref">printworthy selfref</a>}}</code> can be used to mark such passages as intentional self-references that are generally printworthy and mirror-worthy, but which some reusers may wish to suppress. Other examples of permissible self-references of this sort include <a href="/wiki/Wikipedia:DLINKS" class="mw-redirect" title="Wikipedia:DLINKS">disambiguation links</a> (the <a href="/wiki/Category:Hatnote_templates" title="Category:Hatnote templates">templates for which</a> suppress their appearance in printed copies), and "See ..." <a href="/wiki/Category:Cross-reference_templates" title="Category:Cross-reference templates">cross-references</a> (which may or may not be printworthy, depending upon whether they are inter-article; <span role="note" class="hatnote navigation-not-searchable">see <a href="/wiki/Template:Crossreference/doc" title="Template:Crossreference/doc">Template:Crossreference/doc</a>)</span>.
+</p><p>The templates that render self-referencing messages for the maintenance needs of developing articles, such as <code>{{<a href="/wiki/Template:Stub" title="Template:Stub">stub</a>}}</code>, <code>{{<a href="/wiki/Template:Npov" class="mw-redirect" title="Template:Npov">npov</a>}}</code>, and <code>{{<a href="/wiki/Template:Refimprove" class="mw-redirect" title="Template:Refimprove">refimprove</a>}}</code>, are unavoidable (and may permissibly include things like "Edit this page&#160;..."), but articles should normally avoid self-referencing templates such as <code>{{<a href="/wiki/Template:Shortcut" title="Template:Shortcut">shortcut</a>}}</code> and the others.
+</p>
+<h3><span id="Note_that_....2C_It_is_important_to_....2C_What_is_....3F.2C_Surprisingly_....2C_Of_course_..."></span><span class="mw-headline" id="Note_that_...,_It_is_important_to_...,_What_is_...?,_Surprisingly_...,_Of_course_..."><i>Note that&#160;...</i>, <i>It is important to&#160;...</i>, <i>What is&#160;...?</i>, <i>Surprisingly&#160;...</i>, <i>Of course&#160;...</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=3" title="Edit section: Note that ..., It is important to ..., What is ...?, Surprisingly ..., Of course ...">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main page: <a href="/wiki/Wikipedia:Manual_of_Style#Instructional_and_presumptuous_language" title="Wikipedia:Manual of Style">Wikipedia:Manual of Style §&#160;Instructional and presumptuous language</a></div>
+<p>Avoid "breaking the <a href="/wiki/Fourth_wall" title="Fourth wall">fourth wall</a>" to <a href="/wiki/Imperative_mood" title="Imperative mood">address readers directly</a> in an <a href="/wiki/Wikipedia:Writing_better_articles#Tone" title="Wikipedia:Writing better articles">unencyclopedic tone</a>, either <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_manual,_guidebook,_textbook,_or_scientific_journal" title="Wikipedia:What Wikipedia is not">instructional</a> or <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">opinionated</a>.  This includes the pedagogical style of posing rhetorical questions to the reader (worst of all <a href="/wiki/Wikipedia:Manual_of_Style#Section_headings" title="Wikipedia:Manual of Style">in headings</a>). Neutral cross-references, e.g. <span class="example" style="font-family: Georgia, &#39;DejaVu Serif&#39;, serif; color: #006400;"><span role="note" class="hatnote navigation-not-searchable selfref">(See also <a href="/wiki/Cymric_cat" title="Cymric cat">Cymric cat</a>.)</span></span>, are permissible (and best done with the <code>{{<a href="/wiki/Template:Crossreference" title="Template:Crossreference">crossreference</a>}}</code> template), but are better reworded (<span class="example" style="font-family: Georgia, &#39;DejaVu Serif&#39;, serif; color: #006400;">The <a href="/wiki/Cymric_cat" title="Cymric cat">Cymric cat</a> is a recent breed developed from the Manx.</span>).
+</p>
+<h3><span id="Click_here_to_see_more_.28think_about_print.29"></span><span class="mw-headline" id="Click_here_to_see_more_(think_about_print)"><i>Click here to see more</i> (think about print)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=4" title="Edit section: Click here to see more (think about print)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="Think_about_print"></span>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r911143475">.mw-parser-output .module-shortcutboxplain{float:right;border:1px solid #aaa;background:#fff;margin:0 0 0 1em;padding:0.3em 0.6em 0.2em 0.6em;text-align:center;font-size:85%;font-weight:bold}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:0.2em;font-weight:normal}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}.mw-parser-output li .module-shortcutanchordiv{float:right}</style><div class="module-shortcutanchordiv"><span id="WP:CLICKHERE"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:CLICKHERE&amp;redirect=no">WP:CLICKHERE</a></span></li></ul></div>
+<p>Although <a href="/wiki/Wikipedia:NOTPAPER" class="mw-redirect" title="Wikipedia:NOTPAPER">Wikipedia is not a paper encyclopedia</a>, articles should be written in a manner that facilitates transmission in other forms such as print, spoken word, and via a <a href="/wiki/Screen_reader" title="Screen reader">screen reader</a>. So terms such as "this article" are preferable to "this webpage", and phrases like <a href="/wiki/Click_here" class="mw-redirect" title="Click here">"click here" should be avoided</a>. In determining what language is most suitable, it may be helpful to imagine writing the article for a print encyclopedia.
+</p>
+<h3><span id="Free_content_projects.2C_such_as_this_website_..._.28writing_about_Wikipedia_itself.29"></span><span class="mw-headline" id="Free_content_projects,_such_as_this_website_..._(writing_about_Wikipedia_itself)"><i>Free content projects, such as this website&#160;...</i> (writing about Wikipedia itself)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=5" title="Edit section: Free content projects, such as this website ... (writing about Wikipedia itself)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="Writing_about_Wikipedia_itself"></span>
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r911143475"/><div class="module-shortcutanchordiv"><span id="WP:WAWI"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:WAWI&amp;redirect=no">WP:WAWI</a></span></li></ul></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Wikipedia:About" title="Wikipedia:About">Wikipedia:About</a></div>
+<p>Articles about online communities may well discuss Wikipedia as an example, in a neutral tone, without specifically implying that the article in question is being read on&#8212;or is a part of&#8212;Wikipedia. In this framework, if you link from an article to a specific Wikipedia page, use external link style, so the link will make sense in any context.  The <code>{{<a href="/wiki/Template:Srlink" class="mw-redirect" title="Template:Srlink">srlink</a>}}</code> template will do this for you.
+</p><p>Such pages may include:
+</p>
+<ul><li>Articles where Wikipedia played a major role in the subject of the article, for example: <a href="/wiki/Uncyclopedia" title="Uncyclopedia">Uncyclopedia</a></li>
+<li>Articles about prominent people involved in Wikipedia, for example: <a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a></li>
+<li>Articles about <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a></li>
+<li>Articles where Wikipedia, or an individual incident related to it, is illustrative of the subject, such as <a href="/wiki/Virtual_community" title="Virtual community">virtual community</a>, <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> and <a href="/wiki/Streisand_effect" title="Streisand effect">Streisand effect</a></li></ul>
+<h3><span id="This_article_was_criticised_by_..._.28articles_are_about_their_subjects.2C_not_this_website.29"></span><span class="mw-headline" id="This_article_was_criticised_by_..._(articles_are_about_their_subjects,_not_this_website)"><i>This article was criticised by&#160;...</i> (articles are about their subjects, not this website)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=6" title="Edit section: This article was criticised by ... (articles are about their subjects, not this website)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span id="Articles_are_about_their_subjects"></span>
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r911143475"/><div class="module-shortcutanchordiv"><span id="WP:SUBJECT"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:SUBJECT&amp;redirect=no">WP:SUBJECT</a></span></li></ul></div>
+<p>Wikipedia is an encyclopedia, so its articles are about their subjects; they are <i>not</i> about the articles themselves (even if an article itself becomes famous, <a href="/wiki/Wikipedia:Articles_for_deletion/Elephant_(wikipedia_article)" title="Wikipedia:Articles for deletion/Elephant (wikipedia article)">it should not report this about itself</a>).
+</p><p>If publicity regarding an article is significant enough to be included in Wikipedia, that information would not be included in the article, <i>unless it is relevant to the topic of the article itself</i>. For example, a discussion of <a href="/wiki/Stephen_Colbert_(character)" title="Stephen Colbert (character)">Stephen Colbert's</a> call for vandalism of the <a href="/wiki/Elephant" title="Elephant">Elephant</a> article might be appropriate for the article on <i><a href="/wiki/The_Colbert_Report" title="The Colbert Report">The Colbert Report</a></i>, but not for the article on elephants&#8212;the incident had nothing to do with the actual animal. Protests regarding depictions of Muhammad in Wikipedia's <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> article are <i>not</i> addressed at <a href="/wiki/Muhammad" title="Muhammad">Muhammad</a> (the article on the prophet), but at <a href="/wiki/Depictions_of_Muhammad" title="Depictions of Muhammad">Depictions of Muhammad</a>, under a <a href="/wiki/Depictions_of_Muhammad#Wikipedia_article" title="Depictions of Muhammad">"recent controversies"</a> section.
+</p><p>A mention of Wikipedia by a notable person is unlikely to justify a mention in their Wikipedia article. To avoid self reference, a mention needs to reflect its <a href="/wiki/Wikipedia:DUE" class="mw-redirect" title="Wikipedia:DUE">importance in their overall body of work</a>. For example, a radio host mentioning that he read his Wikipedia biography is not a very important event in his overall career. On the other hand,  the media attention surrounding <a href="/wiki/John_Seigenthaler#Wikipedia_controversy" title="John Seigenthaler">John Seigenthaler</a>'s Wikipedia entry is now a <a href="/wiki/Wikipedia_Seigenthaler_biography_incident" title="Wikipedia Seigenthaler biography incident">notable event</a> in his public life.
+</p>
+<h2><span class="mw-headline" id="In_templates_and_categories">In templates and categories <span id="In_the_Template_and_Category_namespaces"></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=7" title="Edit section: In templates and categories">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Self-references are sometimes found in the <a href="/wiki/Help:Template" title="Help:Template">templates</a> and the <a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">categories</a>.  Some of these are necessary or intrinsic to the purpose of the page, as with disambiguation information at the top of category pages and in &#123;&#123;<a href="/wiki/Template:Stub" title="Template:Stub">stub</a>&#125;&#125; templates, which encourage readers to edit the page.  Unnecessary self-references are not encouraged in templates or categories, due to the need of third-party users to either delete those templates or modify them to remove the Wikipedia references.  For example, all &#123;&#123;<a href="/wiki/Template:Navbox" title="Template:Navbox">navbox</a>&#125;&#125; templates should provide a list of related articles, but none of them should label these pages as "Wikipedia articles" or as "Related articles on this website".  
+</p><p>When forced to use templates like this, you should use them in a way such that the article still makes sense when the template is removed, in order to facilitate automated removal.
+</p><p>Wikipedia project coordination pages should be under <a href="/wiki/Category:Wikipedia_administration" title="Category:Wikipedia administration">Category:Wikipedia administration</a>, not in categories that contain main-namespace articles by topic. (A small number of articles <i>about</i> Wikipedia are in the mainstream categories and this is OK.) User pages may be categorized under <a href="/wiki/Category:Wikipedians" title="Category:Wikipedians">Category:Wikipedians</a>, but not in any of the subcategories under <a href="/wiki/Category:People" title="Category:People">Category:People</a>.
+</p>
+<h2><span class="mw-headline" id="Self-reference_tools">Self-reference tools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=8" title="Edit section: Self-reference tools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r911143475"/><div class="module-shortcutanchordiv"><span id="WP:ITSELF"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:ITSELF&amp;redirect=no">WP:ITSELF</a></span></li></ul></div>
+<p>The self-reference template, <code>{{<a href="/wiki/Template:Selfref" title="Template:Selfref">selfref</a>}}</code>, is used to mark pieces of text and links that wouldn't make sense on copies of Wikipedia. This gives the ability to programmatically remove all such references or transform them into external links. Thus, the end product can have all of its self-references removed automatically for users, such as forks and mirrors. This template is most often used as a <a href="/wiki/Wikipedia:Hatnote" title="Wikipedia:Hatnote">hatnote template</a> to help guide editors from an article to a related Wikipedia policy or guideline page in the <a href="/wiki/Wikipedia:Project_namespace" title="Wikipedia:Project namespace">Wikipedia project namespace</a>.
+</p><p>In cases where a Wikipedia page should link to Wikipedia itself (for instance, at <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>) and this link should be kept on mirrors, the format <code>{{<a href="/wiki/Template:Srlink" class="mw-redirect" title="Template:Srlink">srlink</a>&#124;link}}</code> can be used to write the link as external, rather than internal when outside of Wikipedia, to prevent it breaking in mirrors. For instance: <a href="/wiki/Main_Page" title="Main Page">Wikipedia's Main Page</a> (made by <code>{{srlink|Main Page|Wikipedia's Main Page}}</code>) as opposed to <a href="/wiki/Main_Page" title="Main Page">Wikipedia's Main Page</a> (<code>[[Main Page|Wikipedia's Main Page]]</code>).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikipedia:Printability" title="Wikipedia:Printability">Wikipedia:Printability</a></li>
+<li><a href="/wiki/Wikipedia:Cross-namespace_redirects" title="Wikipedia:Cross-namespace redirects">Wikipedia:Cross-namespace redirects</a></li>
+<li><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Template:Selfref&amp;hidelinks=1&amp;hideredirs=1&amp;namespace=0">List of Wikipedia articles with self-references</a></li>
+<li><a class="external text" href="https://en.wikipedia.org/w/index.php?search=insource%3A%2F%5C%3Cref%5C%3Ehttps%5C%3A%5C%2F%5C%2Fen%5C.wikipedia%5C.org%2F&amp;title=Special:Search&amp;profile=default&amp;fulltext=1&amp;searchToken=638ux4kwthnryi3504znphiwo">List of Wikipedia articles with circular references</a></li>
+<li><a href="/wiki/Wikipedia:Verifiability#Wikipedia_and_sources_that_mirror_or_use_it" title="Wikipedia:Verifiability">Wikipedia:Verifiability §&#160;Wikipedia and sources that mirror or use it</a> – Do not use articles from Wikipedia as reference sources</li>
+<li><a href="/wiki/Wikipedia:Double_redirects" title="Wikipedia:Double redirects">Wikipedia:Double redirects</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Manual_of_Style" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Manual_of_Style" title="Template:Manual of Style"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Manual_of_Style" title="Template talk:Manual of Style"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Manual_of_Style&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Manual_of_Style" style="font-size:114%;margin:0 4em"><a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">Manual of Style</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div id="*_Overview&amp;#10;*_Directory&amp;#10;*_Tips">
+<ul><li><b><a href="/wiki/Wikipedia:Simplified_Manual_of_Style" title="Wikipedia:Simplified Manual of Style">Overview</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Manual_of_Style/Contents" title="Wikipedia:Manual of Style/Contents">Directory</a></b></li>
+<li><b><a href="/wiki/Wikipedia:Styletips" title="Wikipedia:Styletips">Tips</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Content</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Accessibility" title="Wikipedia:Manual of Style/Accessibility">Accessibility</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Biography" title="Wikipedia:Manual of Style/Biography">Biographies</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Disambiguation_pages" title="Wikipedia:Manual of Style/Disambiguation pages">Disambiguation pages</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Infoboxes" title="Wikipedia:Manual of Style/Infoboxes">Infoboxes</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">Linking</a></li>
+<li><a class="mw-selflink selflink">Self-references</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch" title="Wikipedia:Manual of Style/Words to watch">Words to watch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Formatting</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Abbreviations" title="Wikipedia:Manual of Style/Abbreviations">Abbreviations</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Capital_letters" title="Wikipedia:Manual of Style/Capital letters">Capitalization</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers" title="Wikipedia:Manual of Style/Dates and numbers">Dates and numbers</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Pronunciation" title="Wikipedia:Manual of Style/Pronunciation">Pronunciation</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Proper_names" class="mw-redirect" title="Wikipedia:Manual of Style/Proper names">Proper names</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Spelling" title="Wikipedia:Manual of Style/Spelling">Spelling</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Text_formatting" title="Wikipedia:Manual of Style/Text formatting">Text formatting</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Titles" title="Wikipedia:Manual of Style/Titles">Titles</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Images</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Captions" title="Wikipedia:Manual of Style/Captions">Captions</a></li>
+<li><a href="/wiki/Wikipedia:Galleries" class="mw-redirect" title="Wikipedia:Galleries">Galleries</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Icons" title="Wikipedia:Manual of Style/Icons">Icons</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Images" title="Wikipedia:Manual of Style/Images">Images</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Layout</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Layout" title="Wikipedia:Manual of Style/Layout">Layout</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">Lead section</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Tables" title="Wikipedia:Manual of Style/Tables">Tables</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Trivia_sections" title="Wikipedia:Manual of Style/Trivia sections">Trivia sections</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Embedded_lists" class="mw-redirect" title="Wikipedia:Manual of Style/Embedded lists">Embedded lists</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Lists" title="Wikipedia:Manual of Style/Lists">Lists</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Lists_of_works" title="Wikipedia:Manual of Style/Lists of works">Lists of works</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Road_junction_lists" title="Wikipedia:Manual of Style/Road junction lists">Road junctions</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Stand-alone_lists" class="mw-redirect" title="Wikipedia:Manual of Style/Stand-alone lists">Stand-alone lists</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Legal</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Legal" title="Wikipedia:Manual of Style/Legal">Legal</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Trademarks" title="Wikipedia:Manual of Style/Trademarks">Trademarks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Arts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Anime-_and_manga-related_articles" title="Wikipedia:Manual of Style/Anime- and manga-related articles">Anime &amp; Manga</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Comics" title="Wikipedia:Manual of Style/Comics">Comics</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Film" title="Wikipedia:Manual of Style/Film">Film</a></li>
+<li><a href="/wiki/Wikipedia:Lyrics_and_poetry" title="Wikipedia:Lyrics and poetry">Lyrics and Poetry</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Novels" title="Wikipedia:Manual of Style/Novels">Novels</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Television" title="Wikipedia:Manual of Style/Television">Television</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Video_games" title="Wikipedia:Manual of Style/Video games">Video games</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Visual_arts" title="Wikipedia:Manual of Style/Visual arts">Visual arts</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Writing_about_fiction" title="Wikipedia:Manual of Style/Writing about fiction">Writing about fiction</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Music</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Music" title="Wikipedia:Manual of Style/Music">Music</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Music_samples" title="Wikipedia:Manual of Style/Music samples">Music samples</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Record_charts" title="Wikipedia:Manual of Style/Record charts">Record charts</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Regional</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Canada-related_articles" title="Wikipedia:Manual of Style/Canada-related articles">Canada</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/China_and_Chinese-related_articles" title="Wikipedia:Manual of Style/China and Chinese-related articles">China</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/France_and_French-related_articles" title="Wikipedia:Manual of Style/France and French-related articles">France</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Hawaii-related_articles" title="Wikipedia:Manual of Style/Hawaii-related articles">Hawaii</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/India-related_articles" title="Wikipedia:Manual of Style/India-related articles">India</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Ireland-related_articles" title="Wikipedia:Manual of Style/Ireland-related articles">Ireland</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Japan-related_articles" title="Wikipedia:Manual of Style/Japan-related articles">Japan</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Korea-related_articles" title="Wikipedia:Manual of Style/Korea-related articles">Korea</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Malaysia-related_articles" title="Wikipedia:Manual of Style/Malaysia-related articles">Malaysia</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Philippine-related_articles" title="Wikipedia:Manual of Style/Philippine-related articles">Philippines</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Poland-related_articles" title="Wikipedia:Manual of Style/Poland-related articles">Poland</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Singapore-related_articles" title="Wikipedia:Manual of Style/Singapore-related articles">Singapore</a></li>
+<li><a href="/wiki/Wikipedia:Trinidad_and_Tobago_Wikipedians%27_notice_board/Style_guide" title="Wikipedia:Trinidad and Tobago Wikipedians&#39; notice board/Style guide">Trinidad and Tobago</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Religion</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Islam-related_articles" title="Wikipedia:Manual of Style/Islam-related articles">Islam</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Latter_Day_Saints" title="Wikipedia:Manual of Style/Latter Day Saints">Latter Day Saints</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Science</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Chemistry" title="Wikipedia:Manual of Style/Chemistry">Chemistry</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Command-line_examples" class="mw-redirect" title="Wikipedia:Manual of Style/Command-line examples">Computer commands</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Mathematics" title="Wikipedia:Manual of Style/Mathematics">Mathematics</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Medicine-related_articles" title="Wikipedia:Manual of Style/Medicine-related articles">Medicine</a></li>
+<li><a href="/wiki/Template:Taxobox/doc" title="Template:Taxobox/doc">Taxonomy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Sports</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Manual_of_Style/Cue_sports" title="Wikipedia:Manual of Style/Cue sports">Cue sports</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Snooker" title="Wikipedia:Manual of Style/Snooker">Snooker</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Article_size" title="Wikipedia:Article size">Article size</a></li>
+<li><a href="/wiki/Wikipedia:Article_titles" title="Wikipedia:Article titles">Article titles</a></li>
+<li><a href="/wiki/Wikipedia:Categories,_lists,_and_navigation_templates" title="Wikipedia:Categories, lists, and navigation templates">Categories, lists, and navigation templates</a></li>
+<li><a href="/wiki/Wikipedia:Categorization" title="Wikipedia:Categorization">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">Citing sources</a></li>
+<li><a href="/wiki/Wikipedia:Hatnote" title="Wikipedia:Hatnote">Hatnotes</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Military_history" title="Wikipedia:Manual of Style/Military history">Military history</a></li>
+<li><a href="/wiki/Wikipedia:Signatures" title="Wikipedia:Signatures">Signatures</a></li>
+<li><a href="/wiki/Wikipedia:Subpages" title="Wikipedia:Subpages">Subpages</a></li>
+<li><a href="/wiki/Wikipedia:Talk_page_guidelines" title="Wikipedia:Talk page guidelines">Talk page guidelines</a></li>
+<li><a href="/wiki/Wikipedia:Template_namespace" title="Wikipedia:Template namespace">Template namespace</a></li>
+<li><a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">Understandability</a></li>
+<li><a href="/wiki/Wikipedia:User_pages" title="Wikipedia:User pages">User pages</a></li>
+<li><a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">Wikimedia sister projects</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject_Council/Guide" title="Wikipedia:WikiProject Council/Guide">WikiProjects</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Search</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="inputbox-hidecheckboxes">
+<div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search" id="style-wide-searchbox"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="e.g. image placement" size="25" dir="ltr" /><input type="hidden" value="Wikipedia:Manual of Style" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the MoS" /><input type="hidden" value="Search" name="fulltext" /></form></div>
+</div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div>
+<ul><li><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/Book:Wikipedia_Manual_of_Style" title="Book:Wikipedia Manual of Style">Book</a></b></li>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Wikipedia_Manual_of_Style" title="Category:Wikipedia Manual of Style">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20200221015631
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.248 seconds
+Real time usage: 0.375 seconds
+Preprocessor visited node count: 1573/1000000
+Post‐expand include size: 101559/2097152 bytes
+Template argument size: 1470/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 3330/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  296.056      1 -total
+ 18.75%   55.512      1 Template:About
+ 17.12%   50.673      2 Template:Sidebar_with_collapsible_lists
+ 17.09%   50.596      1 Template:Style-guideline
+ 15.65%   46.330      2 Template:Mbox
+ 13.20%   39.081      1 Template:Style
+ 10.39%   30.759      4 Template:Shortcut
+ 10.29%   30.455      1 Template:Ombox/shortcut
+  9.84%   29.135      1 Template:Style_wide
+  9.15%   27.098      1 Template:Ubl
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:273430-0!canonical and timestamp 20200221015631 and revision id 932308083
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;oldid=932308083">https://en.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;oldid=932308083</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_Manual_of_Style_(content)" title="Category:Wikipedia Manual of Style (content)">Wikipedia Manual of Style (content)</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AManual+of+Style%2FSelf-references+to+avoid" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AManual+of+Style%2FSelf-references+to+avoid" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikipedia:Manual_of_Style/Self-references_to_avoid" title="View the project page [c]" accesskey="c">Project page</a></li><li id="ca-talk"><a href="/wiki/Wikipedia_talk:Manual_of_Style/Self-references_to_avoid" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikipedia:Manual_of_Style/Self-references_to_avoid">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Manual_of_Style/Self-references_to_avoid" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Manual_of_Style/Self-references_to_avoid" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;oldid=932308083" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11888427" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AManual+of+Style%2FSelf-references+to+avoid">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AManual+of+Style%2FSelf-references+to+avoid&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:Vermeide_Selbstreferenzen" title="Wikipedia:Vermeide Selbstreferenzen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%91%CF%80%CE%BF%CF%86%CF%85%CE%B3%CE%AE_%CE%B1%CF%85%CF%84%CE%BF%CE%B1%CE%BD%CE%B1%CF%86%CE%BF%CF%81%CF%8E%CE%BD" title="Βικιπαίδεια:Αποφυγή αυτοαναφορών – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia:Evita_las_autorreferencias" title="Wikipedia:Evita las autorreferencias – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Mention_de_Wikip%C3%A9dia_dans_les_articles" title="Wikipédia:Mention de Wikipédia dans les articles – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Wikipedia:Evita_as_autorreferencias" title="Wikipedia:Evita as autorreferencias – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia:Hindari_referensi_internal" title="Wikipedia:Hindari referensi internal – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Wikipedia:%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%B8%E3%81%AE%E8%87%AA%E5%B7%B1%E8%A8%80%E5%8F%8A" title="Wikipedia:ウィキペディアへの自己言及 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Evite_autorrefer%C3%AAncias" title="Wikipédia:Evite autorreferências – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F:Avoid_self-references" title="විකිපීඩියා:Avoid self-references – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%A3%D0%BD%D0%B8%D0%BA%D0%B0%D0%B9%D1%82%D0%B5_%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D1%8C" title="Вікіпедія:Уникайте самопосилань – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E6%A0%BC%E5%BC%8F%E6%89%8B%E5%86%8A/%E9%81%BF%E5%85%8D%E8%87%AA%E6%88%91%E6%8F%90%E5%8F%8A" title="Wikipedia:格式手冊/避免自我提及 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11888427#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 24 December 2019, at 22:44<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style/Self-references_to_avoid&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.375","ppvisitednodes":{"value":1573,"limit":1000000},"postexpandincludesize":{"value":101559,"limit":2097152},"templateargumentsize":{"value":1470,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3330,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  296.056      1 -total"," 18.75%   55.512      1 Template:About"," 17.12%   50.673      2 Template:Sidebar_with_collapsible_lists"," 17.09%   50.596      1 Template:Style-guideline"," 15.65%   46.330      2 Template:Mbox"," 13.20%   39.081      1 Template:Style"," 10.39%   30.759      4 Template:Shortcut"," 10.29%   30.455      1 Template:Ombox/shortcut","  9.84%   29.135      1 Template:Style_wide","  9.15%   27.098      1 Template:Ubl"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":3110052,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20200221015631","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1331"});});</script></body></html>

@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljI4QpAMMEAAVHUESsAAAAS","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=D"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"D","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='D' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Co%C3%B1uep%C3%A1n" title="Especial:Todas">Página anterior (Coñuepán)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Deoscopidesemp%C3%A9rides" title="Especial:Todas">Página siguiente (Deoscopidesempérides)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/D" title="D">D</a></li>
+<li><a href="/wiki/D.ieu" title="D.ieu">D.ieu</a></li>
+<li><a href="/wiki/D.%C2%AA" title="D.ª">D.ª</a></li>
+<li><a href="/wiki/DD.HH." title="DD.HH.">DD.HH.</a></li>
+<li><a href="/wiki/DD._HH." title="DD. HH.">DD. HH.</a></li>
+<li><a href="/wiki/DDHH" title="DDHH">DDHH</a></li>
+<li><a href="/wiki/DDT" title="DDT">DDT</a></li>
+<li><a href="/wiki/DD_HH" title="DD HH">DD HH</a></li>
+<li><a href="/wiki/DMA" title="DMA">DMA</a></li>
+<li><a href="/wiki/DNA" title="DNA">DNA</a></li>
+<li><a href="/wiki/DNI" title="DNI">DNI</a></li>
+<li><a href="/wiki/DNS" title="DNS">DNS</a></li>
+<li><a href="/wiki/DOC" title="DOC">DOC</a></li>
+<li><a href="/wiki/DPI" title="DPI">DPI</a></li>
+<li><a href="/wiki/DRAE" title="DRAE">DRAE</a></li>
+<li><a href="/wiki/DRP" title="DRP">DRP</a></li>
+<li><a href="/wiki/DSFI" title="DSFI">DSFI</a></li>
+<li><a href="/wiki/Da_Nang" title="Da Nang">Da Nang</a></li>
+<li><a href="/wiki/Dabadie" title="Dabadie">Dabadie</a></li>
+<li><a href="/wiki/Dabrowa_G%C3%B3rnicza" title="Dabrowa Górnicza">Dabrowa Górnicza</a></li>
+<li><a href="/wiki/Dacca" title="Dacca">Dacca</a></li>
+<li><a href="/wiki/Dach" title="Dach">Dach</a></li>
+<li><a href="/wiki/Dachaguer" title="Dachaguer">Dachaguer</a></li>
+<li><a href="/wiki/Dacharai" title="Dacharai">Dacharai</a></li>
+<li><a href="/wiki/Dacharay" title="Dacharay">Dacharay</a></li>
+<li><a href="/wiki/Dacharry" title="Dacharry">Dacharry</a></li>
+<li><a href="/wiki/Dachary" title="Dachary">Dachary</a></li>
+<li><a href="/wiki/Dachboden" title="Dachboden">Dachboden</a></li>
+<li><a href="/wiki/Dachgeschoss" title="Dachgeschoss">Dachgeschoss</a></li>
+<li><a href="/wiki/Dachs" title="Dachs">Dachs</a></li>
+<li><a href="/wiki/Dachstuhl" title="Dachstuhl">Dachstuhl</a></li>
+<li><a href="/wiki/Dacia" title="Dacia">Dacia</a></li>
+<li><a href="/wiki/Daciano" title="Daciano">Daciano</a></li>
+<li><a href="/wiki/Dacio" title="Dacio">Dacio</a></li>
+<li><a href="/wiki/Dadurueta" title="Dadurueta">Dadurueta</a></li>
+<li><a href="/wiki/Daegu" title="Daegu">Daegu</a></li>
+<li><a href="/wiki/Dafne" title="Dafne">Dafne</a></li>
+<li><a href="/wiki/Dagestan" title="Dagestan">Dagestan</a></li>
+<li><a href="/wiki/Dagestanem" title="Dagestanem">Dagestanem</a></li>
+<li><a href="/wiki/Dagestanie" title="Dagestanie">Dagestanie</a></li>
+<li><a href="/wiki/Dagestano" title="Dagestano">Dagestano</a></li>
+<li><a href="/wiki/Dagestanon" title="Dagestanon">Dagestanon</a></li>
+<li><a href="/wiki/Dagestanowi" title="Dagestanowi">Dagestanowi</a></li>
+<li><a href="/wiki/Dagestanu" title="Dagestanu">Dagestanu</a></li>
+<li><a href="/wiki/Dagest%C5%8Dn" title="Dagestōn">Dagestōn</a></li>
+<li><a href="/wiki/Dagoberto" title="Dagoberto">Dagoberto</a></li>
+<li><a href="/wiki/Dagomaro" title="Dagomaro">Dagomaro</a></li>
+<li><a href="/wiki/Dagorret" title="Dagorret">Dagorret</a></li>
+<li><a href="/wiki/Dagorreta" title="Dagorreta">Dagorreta</a></li>
+<li><a href="/wiki/Dagorrete" title="Dagorrete">Dagorrete</a></li>
+<li><a href="/wiki/Daguerre" title="Daguerre">Daguerre</a></li>
+<li><a href="/wiki/Daguerregaray" title="Daguerregaray">Daguerregaray</a></li>
+<li><a href="/wiki/Daguest%C3%A1n" title="Daguestán">Daguestán</a></li>
+<li><a href="/wiki/Daguierre" title="Daguierre">Daguierre</a></li>
+<li><a href="/wiki/Dahomey" title="Dahomey">Dahomey</a></li>
+<li><a href="/wiki/Dahr%C3%A1n" title="Dahrán">Dahrán</a></li>
+<li><a href="/wiki/Dai" title="Dai">Dai</a></li>
+<li><a href="/wiki/Daiana" title="Daiana">Daiana</a></li>
+<li><a href="/wiki/Daigre" title="Daigre">Daigre</a></li>
+<li><a href="/wiki/Daincinboure" title="Daincinboure">Daincinboure</a></li>
+<li><a href="/wiki/Daireaux" title="Daireaux">Daireaux</a></li>
+<li><a href="/wiki/Daisy" title="Daisy">Daisy</a></li>
+<li><a href="/wiki/Dai%C3%A7aguerre" title="Daiçaguerre">Daiçaguerre</a></li>
+<li><a href="/wiki/Dajla" title="Dajla">Dajla</a></li>
+<li><a href="/wiki/Dakar" title="Dakar">Dakar</a></li>
+<li><a href="/wiki/Dakota_del_Norte" title="Dakota del Norte">Dakota del Norte</a></li>
+<li><a href="/wiki/Dakota_del_Sur" title="Dakota del Sur">Dakota del Sur</a></li>
+<li><a href="/wiki/Dalberri" title="Dalberri">Dalberri</a></li>
+<li><a href="/wiki/Dalcahue" title="Dalcahue">Dalcahue</a></li>
+<li><a href="/wiki/Dalgabarrondo" title="Dalgabarrondo">Dalgabarrondo</a></li>
+<li><a href="/wiki/Dalgalarrondo" title="Dalgalarrondo">Dalgalarrondo</a></li>
+<li><a href="/wiki/Dalia" title="Dalia">Dalia</a></li>
+<li><a href="/wiki/Dalila" title="Dalila">Dalila</a></li>
+<li><a href="/wiki/Dallas" title="Dallas">Dallas</a></li>
+<li><a href="/wiki/Dallo" title="Dallo">Dallo</a></li>
+<li><a href="/wiki/Dalmacio" title="Dalmacio">Dalmacio</a></li>
+<li><a href="/wiki/Dalmatae" title="Dalmatae">Dalmatae</a></li>
+<li><a href="/wiki/Dalmau" title="Dalmau">Dalmau</a></li>
+<li><a href="/wiki/Dalmiro" title="Dalmiro">Dalmiro</a></li>
+<li><a href="/wiki/Daman" title="Daman">Daman</a></li>
+<li><a href="/wiki/Damanh%C3%BBr" title="Damanhûr">Damanhûr</a></li>
+<li><a href="/wiki/Damasco" title="Damasco">Damasco</a></li>
+<li><a href="/wiki/Dambol" title="Dambol">Dambol</a></li>
+<li><a href="/wiki/Dambolena" title="Dambolena">Dambolena</a></li>
+<li><a href="/wiki/Dambolenea" title="Dambolenea">Dambolenea</a></li>
+<li><a href="/wiki/Dambolinea" title="Dambolinea">Dambolinea</a></li>
+<li><a href="/wiki/Damboreana" title="Damboreana">Damboreana</a></li>
+<li><a href="/wiki/Damborearena" title="Damborearena">Damborearena</a></li>
+<li><a href="/wiki/Damborena" title="Damborena">Damborena</a></li>
+<li><a href="/wiki/Damborenea" title="Damborenea">Damborenea</a></li>
+<li><a href="/wiki/Damboriana" title="Damboriana">Damboriana</a></li>
+<li><a href="/wiki/Damboriena" title="Damboriena">Damboriena</a></li>
+<li><a href="/wiki/Damborinarena" title="Damborinarena">Damborinarena</a></li>
+<li><a href="/wiki/Damborinena" title="Damborinena">Damborinena</a></li>
+<li><a href="/wiki/Dame" title="Dame">Dame</a></li>
+<li><a href="/wiki/Damenbinde" title="Damenbinde">Damenbinde</a></li>
+<li><a href="/wiki/Damestoy" title="Damestoy">Damestoy</a></li>
+<li><a href="/wiki/Damiana" title="Damiana">Damiana</a></li>
+<li><a href="/wiki/Damien" title="Damien">Damien</a></li>
+<li><a href="/wiki/Dami%C3%A1n" title="Damián">Damián</a></li>
+<li><a href="/wiki/Damman" title="Damman">Damman</a></li>
+<li><a href="/wiki/Damwild" title="Damwild">Damwild</a></li>
+<li><a href="/wiki/Dan" title="Dan">Dan</a></li>
+<li><a href="/wiki/Danae" title="Danae">Danae</a></li>
+<li><a href="/wiki/Danara" title="Danara">Danara</a></li>
+<li><a href="/wiki/Danborena" title="Danborena">Danborena</a></li>
+<li><a href="/wiki/Dandaberry" title="Dandaberry">Dandaberry</a></li>
+<li><a href="/wiki/Dandong" title="Dandong">Dandong</a></li>
+<li><a href="/wiki/Danemarca" title="Danemarca">Danemarca</a></li>
+<li><a href="/wiki/Danemark" title="Danemark">Danemark</a></li>
+<li><a href="/wiki/Daneris" title="Daneris">Daneris</a></li>
+<li><a href="/wiki/Dania" title="Dania">Dania</a></li>
+<li><a href="/wiki/Daniel" title="Daniel">Daniel</a></li>
+<li><a href="/wiki/Daniela" title="Daniela">Daniela</a></li>
+<li><a href="/wiki/Daniele" title="Daniele">Daniele</a></li>
+<li><a href="/wiki/Danieliaus_knyga" title="Danieliaus knyga">Danieliaus knyga</a></li>
+<li><a href="/wiki/Daniella" title="Daniella">Daniella</a></li>
+<li><a href="/wiki/Danielle" title="Danielle">Danielle</a></li>
+<li><a href="/wiki/Daniels" title="Daniels">Daniels</a></li>
+<li><a href="/wiki/Danigueza" title="Danigueza">Danigueza</a></li>
+<li><a href="/wiki/Danija" title="Danija">Danija</a></li>
+<li><a href="/wiki/Danila" title="Danila">Danila</a></li>
+<li><a href="/wiki/Danilo" title="Danilo">Danilo</a></li>
+<li><a href="/wiki/Danimarca" title="Danimarca">Danimarca</a></li>
+<li><a href="/wiki/Danimarka" title="Danimarka">Danimarka</a></li>
+<li><a href="/wiki/Danio" title="Danio">Danio</a></li>
+<li><a href="/wiki/Danitza" title="Danitza">Danitza</a></li>
+<li><a href="/wiki/Daniza" title="Daniza">Daniza</a></li>
+<li><a href="/wiki/Danke" title="Danke">Danke</a></li>
+<li><a href="/wiki/Dankotago" title="Dankotago">Dankotago</a></li>
+<li><a href="/wiki/Danmark" title="Danmark">Danmark</a></li>
+<li><a href="/wiki/Danm%C3%B6rk" title="Danmörk">Danmörk</a></li>
+<li><a href="/wiki/Danny" title="Danny">Danny</a></li>
+<li><a href="/wiki/Danobeytia" title="Danobeytia">Danobeytia</a></li>
+<li><a href="/wiki/Danoveytia" title="Danoveytia">Danoveytia</a></li>
+<li><a href="/wiki/Danska" title="Danska">Danska</a></li>
+<li><a href="/wiki/Dante" title="Dante">Dante</a></li>
+<li><a href="/wiki/Danube" title="Danube">Danube</a></li>
+<li><a href="/wiki/Danubio" title="Danubio">Danubio</a></li>
+<li><a href="/wiki/Dany" title="Dany">Dany</a></li>
+<li><a href="/wiki/Danza" title="Danza">Danza</a></li>
+<li><a href="/wiki/Danzig" title="Danzig">Danzig</a></li>
+<li><a href="/wiki/Daoiz" title="Daoiz">Daoiz</a></li>
+<li><a href="/wiki/Daoj%C4%87%C5%82aond" title="Daojćłaond">Daojćłaond</a></li>
+<li><a href="/wiki/Daphne" title="Daphne">Daphne</a></li>
+<li><a href="/wiki/Dar_as_Salam" title="Dar as Salam">Dar as Salam</a></li>
+<li><a href="/wiki/Dar_es_Salaam" title="Dar es Salaam">Dar es Salaam</a></li>
+<li><a href="/wiki/Dar_es_Salam" title="Dar es Salam">Dar es Salam</a></li>
+<li><a href="/wiki/Daract" title="Daract">Daract</a></li>
+<li><a href="/wiki/Daran" title="Daran">Daran</a></li>
+<li><a href="/wiki/Daranats" title="Daranats">Daranats</a></li>
+<li><a href="/wiki/Daranatz" title="Daranatz">Daranatz</a></li>
+<li><a href="/wiki/Daray" title="Daray">Daray</a></li>
+<li><a href="/wiki/Darburo" title="Darburo">Darburo</a></li>
+<li><a href="/wiki/Dardan" title="Dardan">Dardan</a></li>
+<li><a href="/wiki/Dargain" title="Dargain">Dargain</a></li>
+<li><a href="/wiki/Dargains" title="Dargains">Dargains</a></li>
+<li><a href="/wiki/Darguibel" title="Darguibel">Darguibel</a></li>
+<li><a href="/wiki/Darhanpe" title="Darhanpe">Darhanpe</a></li>
+<li><a href="/wiki/Dariela" title="Dariela">Dariela</a></li>
+<li><a href="/wiki/Darieta" title="Darieta">Darieta</a></li>
+<li><a href="/wiki/Darm" title="Darm">Darm</a></li>
+<li><a href="/wiki/Darmendarits" title="Darmendarits">Darmendarits</a></li>
+<li><a href="/wiki/Darmendaritz" title="Darmendaritz">Darmendaritz</a></li>
+<li><a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a></li>
+<li><a href="/wiki/Daroca-Ochoa" title="Daroca-Ochoa">Daroca-Ochoa</a></li>
+<li><a href="/wiki/Darquibel" title="Darquibel">Darquibel</a></li>
+<li><a href="/wiki/Darraidou" title="Darraidou">Darraidou</a></li>
+<li><a href="/wiki/Darras" title="Darras">Darras</a></li>
+<li><a href="/wiki/Darreche" title="Darreche">Darreche</a></li>
+<li><a href="/wiki/Darretche" title="Darretche">Darretche</a></li>
+<li><a href="/wiki/Darri" title="Darri">Darri</a></li>
+<li><a href="/wiki/Darriba" title="Darriba">Darriba</a></li>
+<li><a href="/wiki/Darribehere" title="Darribehere">Darribehere</a></li>
+<li><a href="/wiki/Darricarrere" title="Darricarrere">Darricarrere</a></li>
+<li><a href="/wiki/Darrichon" title="Darrichon">Darrichon</a></li>
+<li><a href="/wiki/Darricou" title="Darricou">Darricou</a></li>
+<li><a href="/wiki/Darrigol" title="Darrigol">Darrigol</a></li>
+<li><a href="/wiki/Darrigot" title="Darrigot">Darrigot</a></li>
+<li><a href="/wiki/Darrigrande" title="Darrigrande">Darrigrande</a></li>
+<li><a href="/wiki/Darrigrandi" title="Darrigrandi">Darrigrandi</a></li>
+<li><a href="/wiki/Darritchon" title="Darritchon">Darritchon</a></li>
+<li><a href="/wiki/Darroquy" title="Darroquy">Darroquy</a></li>
+<li><a href="/wiki/Darruspe" title="Darruspe">Darruspe</a></li>
+<li><a href="/wiki/Dartayet" title="Dartayet">Dartayet</a></li>
+<li><a href="/wiki/Dartayeta" title="Dartayeta">Dartayeta</a></li>
+<li><a href="/wiki/Dartiguelongue" title="Dartiguelongue">Dartiguelongue</a></li>
+<li><a href="/wiki/Darwin" title="Darwin">Darwin</a></li>
+<li><a href="/wiki/Dar%C3%ADo" title="Darío">Darío</a></li>
+<li><a href="/wiki/Dastugue" title="Dastugue">Dastugue</a></li>
+<li><a href="/wiki/Datentabelle" title="Datentabelle">Datentabelle</a></li>
+<li><a href="/wiki/Dativ" title="Dativ">Dativ</a></li>
+<li><a href="/wiki/Dative" title="Dative">Dative</a></li>
+<li><a href="/wiki/Dativen" title="Dativen">Dativen</a></li>
+<li><a href="/wiki/Dativo" title="Dativo">Dativo</a></li>
+<li><a href="/wiki/Dativs" title="Dativs">Dativs</a></li>
+<li><a href="/wiki/Dato" title="Dato">Dato</a></li>
+<li><a href="/wiki/Dattel" title="Dattel">Dattel</a></li>
+<li><a href="/wiki/Datue" title="Datue">Datue</a></li>
+<li><a href="/wiki/Datuegaraya" title="Datuegaraya">Datuegaraya</a></li>
+<li><a href="/wiki/Datugaraya" title="Datugaraya">Datugaraya</a></li>
+<li><a href="/wiki/Datum" title="Datum">Datum</a></li>
+<li><a href="/wiki/Daugavpils" title="Daugavpils">Daugavpils</a></li>
+<li><a href="/wiki/Daumen" title="Daumen">Daumen</a></li>
+<li><a href="/wiki/Daurtua" title="Daurtua">Daurtua</a></li>
+<li><a href="/wiki/Davalos" title="Davalos">Davalos</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Davis" title="Davis">Davis</a></li>
+<li><a href="/wiki/Davison" title="Davison">Davison</a></li>
+<li><a href="/wiki/Dav%C3%ADdiz" title="Davídiz">Davídiz</a></li>
+<li><a href="/wiki/Dawson" title="Dawson">Dawson</a></li>
+<li><a href="/wiki/Dayan" title="Dayan">Dayan</a></li>
+<li><a href="/wiki/Dayton" title="Dayton">Dayton</a></li>
+<li><a href="/wiki/Daza" title="Daza">Daza</a></li>
+<li><a href="/wiki/Dazarola" title="Dazarola">Dazarola</a></li>
+<li><a href="/wiki/Da%C3%B1ileo" title="Dañileo">Dañileo</a></li>
+<li><a href="/wiki/Da%C3%B1obeitia" title="Dañobeitia">Dañobeitia</a></li>
+<li><a href="/wiki/De" title="De">De</a></li>
+<li><a href="/wiki/De_Barein" title="De Barein">De Barein</a></li>
+<li><a href="/wiki/De_On%C3%ADs" title="De Onís">De Onís</a></li>
+<li><a href="/wiki/De_la_Caballer%C3%ADa" title="De la Caballería">De la Caballería</a></li>
+<li><a href="/wiki/De_la_Cavaller%C3%ADa" title="De la Cavallería">De la Cavallería</a></li>
+<li><a href="/wiki/De_nederlandske_Antillene" title="De nederlandske Antillene">De nederlandske Antillene</a></li>
+<li><a href="/wiki/Debora" title="Debora">Debora</a></li>
+<li><a href="/wiki/Deborah" title="Deborah">Deborah</a></li>
+<li><a href="/wiki/Debra" title="Debra">Debra</a></li>
+<li><a href="/wiki/Debrecen" title="Debrecen">Debrecen</a></li>
+<li><a href="/wiki/December" title="December">December</a></li>
+<li><a href="/wiki/Decio" title="Decio">Decio</a></li>
+<li><a href="/wiki/Deck" title="Deck">Deck</a></li>
+<li><a href="/wiki/Decoroso" title="Decoroso">Decoroso</a></li>
+<li class="allpagesredirect"><a href="/wiki/Decreto_de_Nueva_Planta" class="mw-redirect" title="Decreto de Nueva Planta">Decreto de Nueva Planta</a></li>
+<li><a href="/wiki/Defaur" title="Defaur">Defaur</a></li>
+<li><a href="/wiki/Degenfechter" title="Degenfechter">Degenfechter</a></li>
+<li><a href="/wiki/Degenfechterin" title="Degenfechterin">Degenfechterin</a></li>
+<li><a href="/wiki/Dehiwala-Mount_Lavinia" title="Dehiwala-Mount Lavinia">Dehiwala-Mount Lavinia</a></li>
+<li><a href="/wiki/Dehra_Dun" title="Dehra Dun">Dehra Dun</a></li>
+<li><a href="/wiki/Dehydratation" title="Dehydratation">Dehydratation</a></li>
+<li><a href="/wiki/Deidamia" title="Deidamia">Deidamia</a></li>
+<li><a href="/wiki/Deigarzabal" title="Deigarzabal">Deigarzabal</a></li>
+<li><a href="/wiki/Deimos" title="Deimos">Deimos</a></li>
+<li><a href="/wiki/Deir_es_Zor" title="Deir es Zor">Deir es Zor</a></li>
+<li><a href="/wiki/Deismus" title="Deismus">Deismus</a></li>
+<li><a href="/wiki/Deka" title="Deka">Deka</a></li>
+<li><a href="/wiki/Deklaration" title="Deklaration">Deklaration</a></li>
+<li><a href="/wiki/Del_R%C3%ADo" title="Del Río">Del Río</a></li>
+<li><a href="/wiki/Delarue" title="Delarue">Delarue</a></li>
+<li><a href="/wiki/Delaware" title="Delaware">Delaware</a></li>
+<li><a href="/wiki/Delf" title="Delf">Delf</a></li>
+<li><a href="/wiki/Delfa" title="Delfa">Delfa</a></li>
+<li><a href="/wiki/Delfach" title="Delfach">Delfach</a></li>
+<li><a href="/wiki/Delfami" title="Delfami">Delfami</a></li>
+<li><a href="/wiki/Delfin" title="Delfin">Delfin</a></li>
+<li><a href="/wiki/Delfina" title="Delfina">Delfina</a></li>
+<li><a href="/wiki/Delfo" title="Delfo">Delfo</a></li>
+<li><a href="/wiki/Delfoj" title="Delfoj">Delfoj</a></li>
+<li><a href="/wiki/Delfojn" title="Delfojn">Delfojn</a></li>
+<li><a href="/wiki/Delfom" title="Delfom">Delfom</a></li>
+<li><a href="/wiki/Delfon" title="Delfon">Delfon</a></li>
+<li><a href="/wiki/Delfos" title="Delfos">Delfos</a></li>
+<li><a href="/wiki/Delfy" title="Delfy">Delfy</a></li>
+<li><a href="/wiki/Delf%C3%ADn" title="Delfín">Delfín</a></li>
+<li><a href="/wiki/Delgadillo" title="Delgadillo">Delgadillo</a></li>
+<li><a href="/wiki/Delgado" title="Delgado">Delgado</a></li>
+<li><a href="/wiki/Delgalarrondo" title="Delgalarrondo">Delgalarrondo</a></li>
+<li><a href="/wiki/Delgue" title="Delgue">Delgue</a></li>
+<li><a href="/wiki/Delgui" title="Delgui">Delgui</a></li>
+<li><a href="/wiki/Delguy" title="Delguy">Delguy</a></li>
+<li><a href="/wiki/Delhi" title="Delhi">Delhi</a></li>
+<li><a href="/wiki/Delia" title="Delia">Delia</a></li>
+<li><a href="/wiki/Delica" title="Delica">Delica</a></li>
+<li><a href="/wiki/Delicia" title="Delicia">Delicia</a></li>
+<li><a href="/wiki/Delissague" title="Delissague">Delissague</a></li>
+<li><a href="/wiki/Delissalde" title="Delissalde">Delissalde</a></li>
+<li><a href="/wiki/Deliz" title="Deliz">Deliz</a></li>
+<li><a href="/wiki/Delk%C3%A1der" title="Delkáder">Delkáder</a></li>
+<li><a href="/wiki/Delmira" title="Delmira">Delmira</a></li>
+<li><a href="/wiki/Delmuco" title="Delmuco">Delmuco</a></li>
+<li><a href="/wiki/Delmunao" title="Delmunao">Delmunao</a></li>
+<li><a href="/wiki/Delphin" title="Delphin">Delphin</a></li>
+<li><a href="/wiki/Delpiano" title="Delpiano">Delpiano</a></li>
+<li><a href="/wiki/Delta_Amacuro" title="Delta Amacuro">Delta Amacuro</a></li>
+<li><a href="/wiki/Delurto" title="Delurto">Delurto</a></li>
+<li><a href="/wiki/Del%C3%A9mont" title="Delémont">Delémont</a></li>
+<li><a href="/wiki/Demaleo" title="Demaleo">Demaleo</a></li>
+<li><a href="/wiki/Demesia" title="Demesia">Demesia</a></li>
+<li><a href="/wiki/Demeter" title="Demeter">Demeter</a></li>
+<li><a href="/wiki/Demetria" title="Demetria">Demetria</a></li>
+<li><a href="/wiki/Demetrio" title="Demetrio">Demetrio</a></li>
+<li><a href="/wiki/Demileo" title="Demileo">Demileo</a></li>
+<li><a href="/wiki/Demisia" title="Demisia">Demisia</a></li>
+<li><a href="/wiki/Democratic_Republic_of_the_Congo" title="Democratic Republic of the Congo">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Demokratie" title="Demokratie">Demokratie</a></li>
+<li><a href="/wiki/Demokratiese_Republiek_van_die_Kongo" title="Demokratiese Republiek van die Kongo">Demokratiese Republiek van die Kongo</a></li>
+<li><a href="/wiki/Demokratik_Kongo_Cumhuriyeti" title="Demokratik Kongo Cumhuriyeti">Demokratik Kongo Cumhuriyeti</a></li>
+<li><a href="/wiki/Demoleo" title="Demoleo">Demoleo</a></li>
+<li><a href="/wiki/Demonte" title="Demonte">Demonte</a></li>
+<li><a href="/wiki/Demosti" title="Demosti">Demosti</a></li>
+<li><a href="/wiki/Demuihual" title="Demuihual">Demuihual</a></li>
+<li><a href="/wiki/Demuleo" title="Demuleo">Demuleo</a></li>
+<li><a href="/wiki/Demunao" title="Demunao">Demunao</a></li>
+<li><a href="/wiki/Demupi" title="Demupi">Demupi</a></li>
+<li><a href="/wiki/Demut" title="Demut">Demut</a></li>
+<li><a href="/wiki/Dem%C3%A9ter" title="Deméter">Deméter</a></li>
+<li><a href="/wiki/Dem%C3%B3crito" title="Demócrito">Demócrito</a></li>
+<li><a href="/wiki/Den_Europ%C3%A6iske_Union" title="Den Europæiske Union">Den Europæiske Union</a></li>
+<li><a href="/wiki/Den_v%C3%ADt%C4%9Bzstv%C3%AD" title="Den vítězství">Den vítězství</a></li>
+<li><a href="/wiki/Dendaberea" title="Dendaberea">Dendaberea</a></li>
+<li><a href="/wiki/Dendacoechea" title="Dendacoechea">Dendacoechea</a></li>
+<li><a href="/wiki/Dendaletche" title="Dendaletche">Dendaletche</a></li>
+<li><a href="/wiki/Dendaluce" title="Dendaluce">Dendaluce</a></li>
+<li><a href="/wiki/Dendara" title="Dendara">Dendara</a></li>
+<li><a href="/wiki/Dendaretegui" title="Dendaretegui">Dendaretegui</a></li>
+<li><a href="/wiki/Dendari" title="Dendari">Dendari</a></li>
+<li><a href="/wiki/Dendaria" title="Dendaria">Dendaria</a></li>
+<li><a href="/wiki/Dendariaena" title="Dendariaena">Dendariaena</a></li>
+<li><a href="/wiki/Dendariarena" title="Dendariarena">Dendariarena</a></li>
+<li><a href="/wiki/Dendariena" title="Dendariena">Dendariena</a></li>
+<li><a href="/wiki/Dendarieta" title="Dendarieta">Dendarieta</a></li>
+<li><a href="/wiki/Dendarin" title="Dendarin">Dendarin</a></li>
+<li><a href="/wiki/Dendaritegui" title="Dendaritegui">Dendaritegui</a></li>
+<li><a href="/wiki/Dendary" title="Dendary">Dendary</a></li>
+<li><a href="/wiki/Dendategui" title="Dendategui">Dendategui</a></li>
+<li><a href="/wiki/Denebola" title="Denebola">Denebola</a></li>
+<li><a href="/wiki/Denemark" title="Denemark">Denemark</a></li>
+<li><a href="/wiki/Denemarken" title="Denemarken">Denemarken</a></li>
+<li><a href="/wiki/Denemearc" title="Denemearc">Denemearc</a></li>
+<li><a href="/wiki/Deng" title="Deng">Deng</a></li>
+<li><a href="/wiki/Denglisch" title="Denglisch">Denglisch</a></li>
+<li><a href="/wiki/Denia" title="Denia">Denia</a></li>
+<li><a href="/wiki/Deniger" title="Deniger">Deniger</a></li>
+<li><a href="/wiki/Denis" title="Denis">Denis</a></li>
+<li><a href="/wiki/Denisa" title="Denisa">Denisa</a></li>
+<li><a href="/wiki/Denise" title="Denise">Denise</a></li>
+<li><a href="/wiki/Denisse" title="Denisse">Denisse</a></li>
+<li><a href="/wiki/Denizli" title="Denizli">Denizli</a></li>
+<li><a href="/wiki/Denmacan" title="Denmacan">Denmacan</a></li>
+<li><a href="/wiki/Denmark" title="Denmark">Denmark</a></li>
+<li><a href="/wiki/Dennis" title="Dennis">Dennis</a></li>
+<li><a href="/wiki/Dennisse" title="Dennisse">Dennisse</a></li>
+<li><a href="/wiki/Dentaritegui" title="Dentaritegui">Dentaritegui</a></li>
+<li><a href="/wiki/Denver" title="Denver">Denver</a></li>
+<li><a href="/wiki/Den%C3%A9bola" title="Denébola">Denébola</a></li>
+<li><a href="/wiki/Deocan" title="Deocan">Deocan</a></li>
+<li><a href="/wiki/Deogracias" title="Deogracias">Deogracias</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Co%C3%B1uep%C3%A1n" title="Especial:Todas">Página anterior (Coñuepán)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Deoscopidesemp%C3%A9rides" title="Especial:Todas">Página siguiente (Deoscopidesempérides)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DD" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DD" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=D" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=D&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=D&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":312,"wgHostname":"mw1351"});});</script></body></html>

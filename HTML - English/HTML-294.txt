@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:FAQ/Contributing - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlcwjgpAIDAAALRiYZEAAABU","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:FAQ/Contributing","wgTitle":"FAQ/Contributing","wgCurRevisionId":872707161,"wgRevisionId":872707161,"wgArticleId":97161,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia FAQs","Wikipedia copyright"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:FAQ/Contributing","wgRelevantArticleId":97161,
+"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Wikipedia:Contributing_FAQ","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Wikipedia:FAQ/Contributing","wgWikibaseItemId":"Q11009849","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.ui.button":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents"
+,"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:FAQ/Contributing"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_FAQ_Contributing rootpage-Wikipedia_FAQ skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-directory-icon" class="mw-indicator"><a href="/wiki/Wikipedia:Directories_and_indexes" title="Part of Wikipedia&#39;s directories and indexes."><img alt="Part of Wikipedia&#39;s directories and indexes." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_flat_directory_icon.svg/25px-Blue_flat_directory_icon.svg.png" decoding="async" width="25" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_flat_directory_icon.svg/38px-Blue_flat_directory_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Blue_flat_directory_icon.svg/50px-Blue_flat_directory_icon.svg.png 2x" data-file-width="30" data-file-height="25" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:FAQ/Contributing</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="subpages">&lt; <a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Wikipedia:FAQ</a></span><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Wikipedia:Contributing_FAQ&amp;redirect=no" class="mw-redirect" title="Wikipedia:Contributing FAQ">Wikipedia:Contributing FAQ</a>)</span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><span style="margin-left: 10px; padding: 5px 5px 5px 5px; border-top: 1px solid #C0C0C0; border-bottom: 1px solid #C0C0C0;">
+<a href="/wiki/Help:Contents" title="Help:Contents"><img alt="Help-browser.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/20px-Help-browser.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/30px-Help-browser.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/Help-browser.svg/40px-Help-browser.svg.png 2x" data-file-width="48" data-file-height="48" /></a>&#160;<a href="/wiki/Help:Contents" title="Help:Contents">Help</a>&#160;<img alt="&gt;" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/12px-Breadcrumb_separator.svg.png" decoding="async" width="12" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/18px-Breadcrumb_separator.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/24px-Breadcrumb_separator.svg.png 2x" data-file-width="431" data-file-height="1150" /><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">FAQs</a>&#160;<img alt="&gt;" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/12px-Breadcrumb_separator.svg.png" decoding="async" width="12" height="32" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/18px-Breadcrumb_separator.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Breadcrumb_separator.svg/24px-Breadcrumb_separator.svg.png 2x" data-file-width="431" data-file-height="1150" /><a class="mw-selflink selflink">Contributing</a></span>
+</p>
+<div style="border: solid 2px #A3B1BF; background: #F5FAFF; padding: 1em;">
+<div style="background-color:#cedff2; border-bottom:0px; border: 1px solid #a3b0bf; text-align:center; padding:4px 0.17em; margin-bottom: 0.6em; color:#000 !important; font-size:150%"><strong>Contributing FAQ</strong>
+</div> 
+<div class="hlist" style="text-align: center; padding: 4px 1em; word-spacing: 2px; border: 1px solid #A3B1BF; background:#E6F2FF">
+<p><b>FAQs (Frequently Asked Questions)</b>
+</p>
+<ul><li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">Index of FAQs</a></li>
+<li><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Main FAQ</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Overview" title="Wikipedia:FAQ/Overview">Overview</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">Readers</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Schools" title="Wikipedia:FAQ/Schools">Schools</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Organizations" title="Wikipedia:FAQ/Organizations">Organizations</a></li>
+<li><a class="mw-selflink selflink">Contributing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Editing" title="Wikipedia:FAQ/Editing">Editing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Featured_articles" title="Wikipedia:FAQ/Featured articles">Featured articles</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Administration" title="Wikipedia:FAQ/Administration">Administration</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Blocks" title="Wikipedia:FAQ/Blocks">Blocks</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Technical" title="Wikipedia:FAQ/Technical">Technical</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Problems" title="Wikipedia:FAQ/Problems">Problems</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Article_subjects" title="Wikipedia:FAQ/Article subjects">Article&#160;subjects</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">Categories</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categorization" title="Wikipedia:FAQ/Categorization">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Copyright" title="Wikipedia:FAQ/Copyright">Copyright</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Forking" title="Wikipedia:FAQ/Forking">Forking</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Template" title="Wikipedia:FAQ/Template">Templates</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Miscellaneous" title="Wikipedia:FAQ/Miscellaneous">Miscellaneous</a>  <div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="22" dir="ltr" /><input type="hidden" value="Wikipedia:FAQ" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the FAQs" /><input type="hidden" value="Search" name="fulltext" /></form></div> </li></ul></div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r911143475">.mw-parser-output .module-shortcutboxplain{float:right;border:1px solid #aaa;background:#fff;margin:0 0 0 1em;padding:0.3em 0.6em 0.2em 0.6em;text-align:center;font-size:85%;font-weight:bold}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:0.2em;font-weight:normal}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}.mw-parser-output li .module-shortcutanchordiv{float:right}</style><div class="module-shortcutanchordiv"><span id="WP:COFAQ"></span></div><div class="module-shortcutboxplain plainlist noprint" role="note"><div class="module-shortcutlist"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><ul><li><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:COFAQ&amp;redirect=no">WP:COFAQ</a></span></li></ul></div>
+<p>This page of frequently asked questions is devoted to answering those questions commonly asked by contributors to Wikipedia.
+</p>
+ <div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Getting_started"><span class="tocnumber">1</span> <span class="toctext">Getting started</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#How_can_I_contribute?"><span class="tocnumber">1.1</span> <span class="toctext">How can I contribute?</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Why_would_I_want_to_contribute?"><span class="tocnumber">1.2</span> <span class="toctext">Why would I want to contribute?</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Do_I_have_to_register_to_edit_pages?"><span class="tocnumber">1.3</span> <span class="toctext">Do I have to register to edit pages?</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#What_is_the_point_of_getting_a_user_ID?"><span class="tocnumber">1.4</span> <span class="toctext">What is the point of getting a user ID?</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Is_there_a_minimum_age_requirement_to_contribute_or_register?"><span class="tocnumber">1.5</span> <span class="toctext">Is there a minimum age requirement to contribute or register?</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Do_I_have_to_use_my_real_name?"><span class="tocnumber">1.6</span> <span class="toctext">Do I have to use my real name?</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#How_do_I_change_my_own_username?"><span class="tocnumber">1.7</span> <span class="toctext">How do I change my own username?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Terminology"><span class="tocnumber">2</span> <span class="toctext">Terminology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#What_is_the_difference_between_a_page_and_an_article?"><span class="tocnumber">2.1</span> <span class="toctext">What is the difference between a page and an article?</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#What_is_an_orphan?"><span class="tocnumber">2.2</span> <span class="toctext">What is an orphan?</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#What_is_a_stub?"><span class="tocnumber">2.3</span> <span class="toctext">What is a stub?</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#What_is_disambiguation?"><span class="tocnumber">2.4</span> <span class="toctext">What is disambiguation?</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#What_is_a_minor_edit?_When_should_I_use_it?"><span class="tocnumber">2.5</span> <span class="toctext">What is a minor edit? When should I use it?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#General"><span class="tocnumber">3</span> <span class="toctext">General</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Where_do_I_find_more_information_beyond_this_FAQ?"><span class="tocnumber">3.1</span> <span class="toctext">Where do I find more information beyond this FAQ?</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Are_there_any_rules_or_guidelines_I_should_be_aware_of?"><span class="tocnumber">3.2</span> <span class="toctext">Are there any rules or guidelines I should be aware of?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#What_is_&quot;Recent_Changes&quot;,_and_what_do_the_abbreviations_used_there_mean?"><span class="tocnumber">3.3</span> <span class="toctext">What is "Recent Changes", and what do the abbreviations used there mean?</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Are_there_any_standard_formats,_for_things_like_dates_for_example?"><span class="tocnumber">3.4</span> <span class="toctext">Are there any standard formats, for things like dates for example?</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#What_do_I_do_if_I_find_two_articles_on_the_same_subjects?"><span class="tocnumber">3.5</span> <span class="toctext">What do I do if I find two articles on the same subjects?</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#What_is_the_ideal/maximum_length_of_an_article?_When_should_an_article_be_split_into_smaller_pieces?"><span class="tocnumber">3.6</span> <span class="toctext">What is the ideal/maximum length of an article?  When should an article be split into smaller pieces?</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Can_we_debate_or_talk_about_the_subjects_here?"><span class="tocnumber">3.7</span> <span class="toctext">Can we debate or talk about the subjects here?</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#I&#39;ve_found_vandalism,_or_I&#39;ve_damaged_a_page_by_mistake!_How_can_I_restore_it?"><span class="tocnumber">3.8</span> <span class="toctext">I've found vandalism, or I've damaged a page by mistake! How can I restore it?</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Which_languages_can_I_use?"><span class="tocnumber">3.9</span> <span class="toctext">Which languages can I use?</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Should_I_use_American_English_or_British_English?"><span class="tocnumber">3.10</span> <span class="toctext">Should I use American English or British English?</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#How_do_I_check_spelling_on_a_page?"><span class="tocnumber">3.11</span> <span class="toctext">How do I check spelling on a page?</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Why_are_some_links_red?"><span class="tocnumber">3.12</span> <span class="toctext">Why are some links red?</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#OK,_what_about_the_pale_blue_links?"><span class="tocnumber">3.13</span> <span class="toctext">OK, what about the pale blue links?</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#What_happens_when_two_users_edit_a_page_at_the_same_time?"><span class="tocnumber">3.14</span> <span class="toctext">What happens when two users edit a page at the same time?</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#What_happens_if_my_computer_or_browser_crashes_mid-edit,_or_if_the_server_does_not_respond?"><span class="tocnumber">3.15</span> <span class="toctext">What happens if my computer or browser crashes mid-edit, or if the server does not respond?</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#How_do_I_learn_about_changes_to_certain_topics_without_having_to_go_there_from_time_to_time?"><span class="tocnumber">3.16</span> <span class="toctext">How do I learn about changes to certain topics without having to go there from time to time?</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#What_file_formats_should_I_use_for_pictures/videos?"><span class="tocnumber">3.17</span> <span class="toctext">What file formats should I use for pictures/videos?</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#What_file_format_should_I_use_for_sound?"><span class="tocnumber">3.18</span> <span class="toctext">What file format should I use for sound?</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#One_of_the_contributors_is_being_unreasonable._Help!"><span class="tocnumber">3.19</span> <span class="toctext">One of the contributors is being unreasonable. Help!</span></a></li>
+<li class="toclevel-2 tocsection-35"><a href="#I&#39;ve_made_a_suggestion_on_an_article&#39;s_talk_page,_but_have_not_gotten_any_responses._How_long_should_I_wait_before_implementing_my_suggested_change?"><span class="tocnumber">3.20</span> <span class="toctext">I've made a suggestion on an article's talk page, but have not gotten any responses. How long should I wait before implementing my suggested change?</span></a></li>
+<li class="toclevel-2 tocsection-36"><a href="#Can_I_change_the_default_number_of_contributions_displayed_in_the_&quot;My_contributions&quot;_list?"><span class="tocnumber">3.21</span> <span class="toctext">Can I change the default number of contributions displayed in the "My contributions" list?</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Why_was_the_article_I_created_deleted?"><span class="tocnumber">3.22</span> <span class="toctext">Why was the article I created deleted?</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Why_was_the_edit_I_made_removed?"><span class="tocnumber">3.23</span> <span class="toctext">Why was the edit I made removed?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-39"><a href="#Links:_external_and_multilingual"><span class="tocnumber">4</span> <span class="toctext">Links: external and multilingual</span></a>
+<ul>
+<li class="toclevel-2 tocsection-40"><a href="#Should_I_translate_pages_across_the_various_Wikipedias?"><span class="tocnumber">4.1</span> <span class="toctext">Should I translate pages across the various Wikipedias?</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#What_about_using_machine_translation?"><span class="tocnumber">4.2</span> <span class="toctext">What about using machine translation?</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#How_can_I_tell_if_an_article_exists_in_another_language_Wikipedia?"><span class="tocnumber">4.3</span> <span class="toctext">How can I tell if an article exists in another language Wikipedia?</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Is_it_OK_to_link_to_other_sites,_as_long_as_the_material_is_not_copied_onto_Wikipedia?"><span class="tocnumber">4.4</span> <span class="toctext">Is it OK to link to other sites, as long as the material is not copied onto Wikipedia?</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#How_do_I_link_from_book_articles_to_the_online_text_at_Project_Gutenberg?"><span class="tocnumber">4.5</span> <span class="toctext">How do I link from book articles to the online text at Project Gutenberg?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-45"><a href="#Copyrights"><span class="tocnumber">5</span> <span class="toctext">Copyrights</span></a>
+<ul>
+<li class="toclevel-2 tocsection-46"><a href="#I_have,_or_can_get,_special_permission_to_copy_an_image_or_article_to_Wikipedia._Is_it_OK_to_do_that?"><span class="tocnumber">5.1</span> <span class="toctext">I have, or can get, special permission to copy an image or article to Wikipedia. Is it OK to do that?</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#I_have_an_out-of-copyright_image_(or_text)_that_is_reproduced_in_an_in-copyright_book._Can_I_scan_/_type_it_into_Wikipedia?"><span class="tocnumber">5.2</span> <span class="toctext">I have an out-of-copyright image (or text) that is reproduced in an in-copyright book. Can I scan / type it into Wikipedia?</span></a></li>
+<li class="toclevel-2 tocsection-48"><a href="#Does_using_a_GIF_image_in_Wikipedia_violate_its_patent?"><span class="tocnumber">5.3</span> <span class="toctext">Does using a GIF image in Wikipedia violate its patent?</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-49"><a href="#Miscellaneous"><span class="tocnumber">6</span> <span class="toctext">Miscellaneous</span></a>
+<ul>
+<li class="toclevel-2 tocsection-50"><a href="#How_do_I_donate_to_Wikipedia?"><span class="tocnumber">6.1</span> <span class="toctext">How do I donate to Wikipedia?</span></a></li>
+<li class="toclevel-2 tocsection-51"><a href="#Can_I_really_change_whatever_I_want_on_Wikipedia?"><span class="tocnumber">6.2</span> <span class="toctext">Can I really change whatever I want on Wikipedia?</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="#How_do_I_get_a_count_of_my_edits?"><span class="tocnumber">6.3</span> <span class="toctext">How do I get a count of my edits?</span></a></li>
+<li class="toclevel-2 tocsection-53"><a href="#Editing_the_Main_Page"><span class="tocnumber">6.4</span> <span class="toctext">Editing the Main Page</span></a></li>
+<li class="toclevel-2 tocsection-54"><a href="#Where_can_I_get_feedback?"><span class="tocnumber">6.5</span> <span class="toctext">Where can I get feedback?</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Getting_started">Getting started</span></h2>
+<h3><span id="How_can_I_contribute.3F"></span><span class="mw-headline" id="How_can_I_contribute?"><span id="HOW"></span>How can I contribute?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#HOW" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#HOW</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>For how to volunteer, see <a href="/wiki/Wikipedia:Contributing_to_Wikipedia" title="Wikipedia:Contributing to Wikipedia">Wikipedia:Contributing to Wikipedia</a>.</dd>
+<dd>For how to donate, see <a href="https://meta.wikimedia.org/wiki/Donations_FAQ" class="extiw" title="m:Donations FAQ">m:Donations FAQ</a>.</dd></dl>
+<h3><span id="Why_would_I_want_to_contribute.3F"></span><span class="mw-headline" id="Why_would_I_want_to_contribute?"><span id="WHY"></span>Why would I want to contribute?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#WHY" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#WHY</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See <a href="/wiki/Wikipedia:Why_on_Earth_would_I_want_to_contribute_to_a_wiki" class="mw-redirect" title="Wikipedia:Why on Earth would I want to contribute to a wiki">why on Earth would I want to contribute to a wiki</a>, and <a href="/wiki/Wikipedia:Why_Wikipedia_is_so_great" title="Wikipedia:Why Wikipedia is so great">why Wikipedia is so great</a>.</dd></dl>
+<h3><span id="Do_I_have_to_register_to_edit_pages.3F"></span><span class="mw-headline" id="Do_I_have_to_register_to_edit_pages?"><span id="REG"></span>Do I have to register to edit pages?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#REG" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#REG</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>No. <b>Anyone</b> can edit without any kind of registration (except disruptive users who have been banned).  (See <a href="/wiki/Wikipedia:Welcome_anonymous_editing" class="mw-redirect" title="Wikipedia:Welcome anonymous editing">Wikipedia:Welcome anonymous editing</a> and <a href="/wiki/Wikipedia:IPs_are_human_too" title="Wikipedia:IPs are human too">Wikipedia:IPs are human too</a>.)</dd></dl>
+<h3><span id="What_is_the_point_of_getting_a_user_ID.3F"></span><span class="mw-headline" id="What_is_the_point_of_getting_a_user_ID?"><span id="WHYREG"></span>What is the point of getting a user ID?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#WHYREG" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#WHYREG</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>There are many reasons: see <a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">Wikipedia:Why create an account?</a></dd></dl>
+<h3><span id="Is_there_a_minimum_age_requirement_to_contribute_or_register.3F"></span><span class="mw-headline" id="Is_there_a_minimum_age_requirement_to_contribute_or_register?"><span id="AGE"></span>Is there a minimum age requirement to contribute or register?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#AGE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#AGE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>No. <b>Anyone</b> of <b>any age</b> may edit articles or register. Wikipedia does not even require that users disclose their age when registering!</dd></dl>
+<dl><dd>Note that users who identify themselves as minors (generally children under 16 years of age) are encouraged, and where appropriate will be required, to protect their identities via safe practices where the posting of personal information is concerned. See <a href="/wiki/Wikipedia:Protecting_children%27s_privacy" title="Wikipedia:Protecting children&#39;s privacy">Wikipedia:Protecting children's privacy</a>.</dd></dl>
+<h3><span id="Do_I_have_to_use_my_real_name.3F"></span><span class="mw-headline" id="Do_I_have_to_use_my_real_name?"><span id="NAME"></span>Do I have to use my real name?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#NAME" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#NAME</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Real names are not required; some Wikipedians use real names, some don't: see <a href="/wiki/Wikipedia:Username" class="mw-redirect" title="Wikipedia:Username">Wikipedia:Username</a>.</dd></dl>
+<h3><span id="How_do_I_change_my_own_username.3F"></span><span class="mw-headline" id="How_do_I_change_my_own_username?"><span id="CHNGUSER"></span>How do I change my own username?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#CHNGUSER" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#CHNGUSER</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See <a href="/wiki/Wikipedia:Changing_username" title="Wikipedia:Changing username">Wikipedia:Changing username</a>.</dd></dl>
+<h2><span class="mw-headline" id="Terminology"><span id="TERM"></span> Terminology</span></h2>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#TERM" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#TERM</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>On talk pages and in the edit summaries of a page history, you will often see editors using terminology and abbreviations which are unique to Wikipedia. The terms most likely to be unfamiliar to a new user are;
+<dl><dd><b>rv</b> or <b>revert</b>, usually in an edit summary, indicates that the page has been reverted to a previous version, often because of vandalism.</dd>
+<dd><b>NPOV</b> means working towards a <a href="/wiki/Neutral_point_of_view" class="mw-disambig" title="Neutral point of view">Neutral point of view</a>, whilst its opposite, <b>POV</b>, is used to suggest that an edit was biased.</dd>
+<dd>To <b>Wikify</b> means to add internal links and other formatting to an article which was mostly plain text.</dd>
+<dd><b>dab</b> means a small touch, and can also be short for disambiguation, or improving a link so that it goes straight to the relevant article.</dd></dl></dd>
+<dd>For a more comprehensive list see <a href="/wiki/Wikipedia:Glossary" title="Wikipedia:Glossary">Wikipedia:Glossary</a>.</dd></dl>
+<h3><span id="What_is_the_difference_between_a_page_and_an_article.3F"></span><span class="mw-headline" id="What_is_the_difference_between_a_page_and_an_article?">What is the difference between a page and an article?</span></h3>
+<dl><dd>The term "page" encompasses all the material on Wikipedia, including encyclopedia topics, talk pages, documentation, and <a href="/wiki/Wikipedia:Special_pages" class="mw-redirect" title="Wikipedia:Special pages">special pages</a> such as <a href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent Changes</a>. "Article" is a narrower term referring to a page containing an encyclopedia entry. Thus, all articles are pages, but not all pages are articles. See <a href="/wiki/Wikipedia:What_is_an_article" class="mw-redirect" title="Wikipedia:What is an article">Wikipedia:What is an article</a> for more.</dd></dl>
+<h3><span id="What_is_an_orphan.3F"></span><span class="mw-headline" id="What_is_an_orphan?"><span id="ORPHAN"></span>What is an orphan?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#ORPHAN" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#ORPHAN</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>An <a href="/wiki/Wikipedia:ORPHAN" class="mw-redirect" title="Wikipedia:ORPHAN">orphan</a> is an article that no other article links to. Such articles can be found on Wikipedia, but it is preferable that another article should link to each article. You can find a list of orphans at <a href="/wiki/Category:Orphaned_articles" title="Category:Orphaned articles">Category:Orphaned articles</a>.</dd></dl>
+<h3><span id="What_is_a_stub.3F"></span><span class="mw-headline" id="What_is_a_stub?"><span id="STUB"></span>What is a stub?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#STUB" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#STUB</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>A stub on Wikipedia is a very short article, usually of one paragraph or less. Many excellent articles started out as short stubs. Likewise, our hope is that existing stubs will be expanded into proper articles. For general knowledge regarding stubs, please refer to <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">Wikipedia:Stub</a>.</dd></dl>
+<h3><span id="What_is_disambiguation.3F"></span><span class="mw-headline" id="What_is_disambiguation?"><span id="DISAMB"></span>What is disambiguation?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#DISAMB" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#DISAMB</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See <a href="/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">Wikipedia:Disambiguation</a>.</dd></dl>
+<h3><span id="What_is_a_minor_edit.3F_When_should_I_use_it.3F"></span><span class="mw-headline" id="What_is_a_minor_edit?_When_should_I_use_it?"><span id="MINOR"></span>What is a minor edit? When should I use it?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#MINOR" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#MINOR</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>When editing a page, a <a href="/wiki/Wikipedia:How_to_log_in" class="mw-redirect" title="Wikipedia:How to log in">logged-in</a> user has the option to flag an edit as "minor." Use of this flag is largely a matter of personal taste. A general rule of thumb is that an edit that corrects spelling or formatting, performs minor rearrangements of text, or tweaks only a few words, should generally be flagged as a "minor edit". A major edit, in contrast, generally performs a change that close watchers of the page are likely to want to review. Of course, if an edit performs a major semantic revision, but is limited to only a few words (for instance changing "freedom fighter" to "terrorist" or <i>vice versa</i> (see <a href="/wiki/Wikipedia:NPOV" class="mw-redirect" title="Wikipedia:NPOV">Wikipedia:NPOV</a>)), then the edit should <i>not</i> be flagged as minor.</dd></dl>
+<dl><dd>This feature is important because users can choose to <i>hide</i> minor edits in their view of the <a href="/wiki/Special:RecentChanges" title="Special:RecentChanges">Recent Changes</a> page, to keep the volume of edits down to a manageable level.</dd></dl>
+<dl><dd>Only <a href="/wiki/Wikipedia:How_to_log_in" class="mw-redirect" title="Wikipedia:How to log in">logged-in</a> users are allowed to mark an edit as minor.  The reason is that anonymous vandalism edits, if allowed to be marked as minor, could remain <i>hidden</i>, and therefore unnoticed, for longer than desired.  This limitation adds another reason to <a href="/wiki/Special:UserLogin" title="Special:UserLogin">create an account</a> and log in.</dd></dl>
+<dl><dd>See also: <a href="/wiki/Wikipedia:Minor_edit" class="mw-redirect" title="Wikipedia:Minor edit">Wikipedia:Minor edit</a>.</dd></dl>
+<h2><span class="mw-headline" id="General">General</span></h2>
+<h3><span id="Where_do_I_find_more_information_beyond_this_FAQ.3F"></span><span class="mw-headline" id="Where_do_I_find_more_information_beyond_this_FAQ?"><span id="MORE"></span>Where do I find more information beyond this FAQ?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#MORE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#MORE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>You can start by reading the introduction at <a href="/wiki/Wikipedia:Introduction" title="Wikipedia:Introduction">Wikipedia:Introduction</a>.  The main help page is <a href="/wiki/Help:Contents" title="Help:Contents">Help:Contents</a>.  <i>See also the</i> <a href="/wiki/Wikipedia:Department_directory" title="Wikipedia:Department directory">Wikipedia department directory</a>.</dd></dl>
+<h3><span id="Are_there_any_rules_or_guidelines_I_should_be_aware_of.3F"></span><span class="mw-headline" id="Are_there_any_rules_or_guidelines_I_should_be_aware_of?"><span id="RULES"></span>Are there any rules or guidelines I should be aware of?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#RULES" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#RULES</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See <a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">Wikipedia:Policies and guidelines</a>, which includes:</dd></dl>
+<dl><dd><ul><li>standard forms for page names: <a href="/wiki/Wikipedia:Article_titles" title="Wikipedia:Article titles">Wikipedia:Article titles</a></li>
+<li>dealing with different things with the same name: <a href="/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">Wikipedia:Disambiguation</a></li></ul></dd></dl>
+<h3><span id="What_is_.22Recent_Changes.22.2C_and_what_do_the_abbreviations_used_there_mean.3F"></span><span class="mw-headline" id="What_is_&quot;Recent_Changes&quot;,_and_what_do_the_abbreviations_used_there_mean?"><span id="RCENTCHNGS"></span>What is "Recent Changes", and what do the abbreviations used there mean?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#RCENTCHNGS" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#RCENTCHNGS</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Recent Changes lists all the edits that have been made over a given time period. See <a href="/wiki/Wikipedia:Recent_Changes" class="mw-redirect" title="Wikipedia:Recent Changes">Wikipedia:Recent Changes</a> for info.</dd></dl>
+<h3><span id="Are_there_any_standard_formats.2C_for_things_like_dates_for_example.3F"></span><span class="mw-headline" id="Are_there_any_standard_formats,_for_things_like_dates_for_example?"><span id="FORMAT"></span>Are there any standard formats, for things like dates for example?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#FORMAT" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#FORMAT</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See the <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">Manual of Style</a>.</dd></dl>
+<h3><span id="What_do_I_do_if_I_find_two_articles_on_the_same_subjects.3F"></span><span class="mw-headline" id="What_do_I_do_if_I_find_two_articles_on_the_same_subjects?"><span id="TWO"></span>What do I do if I find two articles on the same subjects?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#TWO" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#TWO</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>You could <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merge</a> them yourself if you are feeling <a href="/wiki/Wikipedia:Be_bold_in_updating_pages" class="mw-redirect" title="Wikipedia:Be bold in updating pages">bold</a>. Pick the <a href="/wiki/Wikipedia:Naming_conventions" class="mw-redirect" title="Wikipedia:Naming conventions">most suitable page name</a> (which may not necessarily be one of the existing ones!). If you're not sure which name to use, or whether the two articles should really be merged, use the procedure at <a href="/wiki/Help:Merging" class="mw-redirect" title="Help:Merging">Help:Merging</a>. You can also make a mention of the problem on the list of <a href="/wiki/Wikipedia:Proposed_mergers" class="mw-redirect" title="Wikipedia:Proposed mergers">Wikipedia:Proposed mergers</a>.</dd></dl>
+<h3><span id="What_is_the_ideal.2Fmaximum_length_of_an_article.3F_When_should_an_article_be_split_into_smaller_pieces.3F"></span><span class="mw-headline" id="What_is_the_ideal/maximum_length_of_an_article?_When_should_an_article_be_split_into_smaller_pieces?"><span id="SIZE"></span>What is the ideal/maximum length of an article?  When should an article be split into smaller pieces?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#SIZE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#SIZE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See <a href="/wiki/Wikipedia:Article_size" title="Wikipedia:Article size">Wikipedia:Article size</a>.</dd></dl>
+<h3><span id="Can_we_debate_or_talk_about_the_subjects_here.3F"></span><span class="mw-headline" id="Can_we_debate_or_talk_about_the_subjects_here?"><span id="TALK"></span>Can we debate or talk about the subjects here?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#TALK" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#TALK</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>This is an encyclopedia that strives to present subjects from the <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>. Debate intended to convince someone else of your point of view on a certain subject may take place on the <a href="/wiki/Wikipedia:IRC_channels" class="mw-redirect" title="Wikipedia:IRC channels">Wikipedia:IRC channels</a>. Discussion intended to improve articles is welcome here, however; it takes place in the <a href="/wiki/Wikipedia:Talk_page" class="mw-redirect" title="Wikipedia:Talk page">Talk: pages</a> attached to every article.</dd></dl>
+<h3><span id="I.27ve_found_vandalism.2C_or_I.27ve_damaged_a_page_by_mistake.21_How_can_I_restore_it.3F"></span><span class="mw-headline" id="I've_found_vandalism,_or_I've_damaged_a_page_by_mistake!_How_can_I_restore_it?">I've found vandalism, or I've damaged a page by mistake! How can I restore it?</span></h3>
+<dl><dd>See <a href="/wiki/Help:Reverting" title="Help:Reverting">Help:Reverting</a>.</dd></dl>
+<h3><span id="Which_languages_can_I_use.3F"></span><span class="mw-headline" id="Which_languages_can_I_use?"><span id="LANGUAGE"></span>Which languages can I use?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#LANGUAGE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#LANGUAGE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>On the English Wikipedia, use English, unless you're mentioning a name or abbreviation that has no known English translation. If you want to write using other languages there are many other Wikipedias in different languages. See <a href="/wiki/Wikipedia:Multilingual_coordination" title="Wikipedia:Multilingual coordination">Multilingual coordination</a> for links to these versions. If your language is not active yet, and you would like to change that, read the <a href="https://meta.wikimedia.org/wiki/Meta:Language_proposal_policy" class="extiw" title="m:Meta:Language proposal policy">language proposal policy</a> to find out how to create a new language edition of Wikipedia.</dd></dl>
+<h3><span id="Should_I_use_American_English_or_British_English.3F"></span><span class="mw-headline" id="Should_I_use_American_English_or_British_English?"><span id="ENGLISH"></span>Should I use <a href="/wiki/American_English" title="American English">American English</a> or <a href="/wiki/British_English" title="British English">British English</a>?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#ENGLISH" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#ENGLISH</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>People contribute to the <a href="/wiki/English_language" title="English language">English language</a> Wikipedia in every possible variety and dialect of formal written English. The English language Wikipedia particularly welcomes contributions from editors whose first language is not English. Still, it is generally good form to keep usage consistent within a given article. The official policy is to use British (AKA "<a href="/wiki/American_and_British_English_differences" class="mw-redirect" title="American and British English differences">Commonwealth</a>") spelling when writing about British (or <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth</a>) topics, and <a href="/wiki/American_English" title="American English">American</a> for topics relating to the <a href="/wiki/United_States" title="United States">United States</a>. General topics can use any one of the variants, but should generally strive to be consistent within an article. See Wikipedia's <a href="/wiki/Wikipedia:MoS#National_varieties_of_English" class="mw-redirect" title="Wikipedia:MoS">Manual of Style</a> for a more detailed explanation.</dd></dl>
+<dl><dd>Use of one English variation in article titles can cause a <i>Search</i> in another variant to fail. In this case, it is recommended that you create a new article using the alternative spelling which <a href="/wiki/Wikipedia:Redirect" title="Wikipedia:Redirect">redirects</a> to the main article.</dd></dl>
+<h3><span id="How_do_I_check_spelling_on_a_page.3F"></span><span class="mw-headline" id="How_do_I_check_spelling_on_a_page?"><span id="SPELL"></span>How do I check spelling on a page?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#SPELL" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#SPELL</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>A spelling checker has been requested for Wikipedia, but has not been implemented yet, except as a <a rel="nofollow" class="external text" href="https://code.google.com/p/wikimediaspellchecker/">third-party extension</a>. The <a href="/wiki/Firefox" title="Firefox">Firefox</a> 2.0 web browser automatically checks spelling in forms such as Wikipedia editing forms. When editing a larger article, it may be more convenient to paste the text into your favorite <a href="/wiki/Text_editor" title="Text editor">text editor</a> or <a href="/wiki/Word_processor" title="Word processor">word processor</a> first, to edit and check the spelling there, and then paste your corrected text back into Wikipedia editor to complete your contribution. You can also use an online spelling checker such as <a rel="nofollow" class="external text" href="http://www.spellonline.com">Spellonline</a>.</dd>
+<dd>There is a <a href="/wiki/Wikipedia:List_of_common_misspellings" class="mw-redirect" title="Wikipedia:List of common misspellings">list of common misspellings</a>, which you can use to check if a listed misspelling is on any page in the database, although this process fails to identify any misspelled words not on that list. <a rel="nofollow" class="external text" href="http://www.google.com">Google</a> checks the spelling of words submitted to its search. Type a misspelled word into Google's search input field and Google places at the top of its search results a correctly spelled suggestion for what you might have meant to write.  For those who have the Google toolbar, it has a handy internet spelling checker.</dd></dl>
+<h3><span id="Why_are_some_links_red.3F"></span><span class="mw-headline" id="Why_are_some_links_red?"><span id="LINKS"></span>Why are some links red?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#LINKS" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#LINKS</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>This indicates that a page with that name has not yet been started. You can click on that link and start a page with that name. But be careful: there may already be articles on similar topics, or an article on the same topic under a different name. It's pretty important to hunt around for similar topics first. See <a href="/wiki/Wikipedia:Article_titles" title="Wikipedia:Article titles">Wikipedia:Article titles</a> for information on naming pages, and <a href="/wiki/Wikipedia:Red_link" title="Wikipedia:Red link">Wikipedia:Red link</a> for more guidance on red links.</dd>
+<dd>If you just registered, your username is probably shown as linking to a page that doesn't exist. Don't worry! This just means you haven't filled out your user page yet. Click on the link and tell the world all about yourself! See <a href="/wiki/Wikipedia:User_page" class="mw-redirect" title="Wikipedia:User page">Wikipedia:User page</a> for more information.</dd></dl>
+<h3><span id="OK.2C_what_about_the_pale_blue_links.3F"></span><span class="mw-headline" id="OK,_what_about_the_pale_blue_links?"><span id="BLUELINK"></span>OK, what about the pale blue links?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#BLUELINK" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#BLUELINK</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Those are external links; i.e. those that link to pages outside Wikipedia. They look <a rel="nofollow" class="external text" href="http://www.example.org">like this</a>.</dd></dl>
+<h3><span id="What_happens_when_two_users_edit_a_page_at_the_same_time.3F"></span><span class="mw-headline" id="What_happens_when_two_users_edit_a_page_at_the_same_time?"><span id="CONFLICT"></span>What happens when two users edit a page at the same time?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#CONFLICT" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#CONFLICT</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>This is called an <a href="/wiki/Help:Edit_conflict" title="Help:Edit conflict">edit conflict</a>, and only happens when two users try to edit the same part of a page. You'll get a conflict screen that displays both versions in separate windows, along with a summary highlighting the differences (typically showing the edits of both users, except those which both have made exactly the same), and instructions on how you should proceed. It's virtually impossible to lose any data.</dd></dl>
+<h3><span id="What_happens_if_my_computer_or_browser_crashes_mid-edit.2C_or_if_the_server_does_not_respond.3F"></span><span class="mw-headline" id="What_happens_if_my_computer_or_browser_crashes_mid-edit,_or_if_the_server_does_not_respond?"><span id="CRASH"></span>What happens if my computer or browser crashes mid-edit, or if the server does not respond?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#CRASH" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#CRASH</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>In case of a crash you'll lose your edit. To some extent, you can guard against this by editing in a text editor, for major work (but note that with regard to a system crash this does not help, unless you save frequently to disk).</dd></dl>
+<dl><dd>When you get a time-out when you try to save, you might or might not lose your edit depending on your <a href="/wiki/Web_browser" title="Web browser">web browser</a>. Some browsers (e.g. <a href="/wiki/Opera_(Internet_suite)" class="mw-redirect" title="Opera (Internet suite)">Opera</a> and <a href="/wiki/Mozilla_Firefox" class="mw-redirect" title="Mozilla Firefox">Mozilla Firefox</a>) will recover the text you have tried to save if you use the back-button.  In other browsers you will lose your edit. You can protect against this by copying the text (at least to the clipboard of your system). If you did not do this, you can at least recover the latest reviewed version by using the back-button and refreshing the page.</dd></dl>
+<h3><span id="How_do_I_learn_about_changes_to_certain_topics_without_having_to_go_there_from_time_to_time.3F"></span><span class="mw-headline" id="How_do_I_learn_about_changes_to_certain_topics_without_having_to_go_there_from_time_to_time?"><span id="WATCH"></span>How do I learn about changes to certain topics without having to go there from time to time?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#WATCH" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#WATCH</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>If you are a logged-in user, on every page you will see either a link that says "Watch this article", or a small five-pointed star next to "View history". If you click on it, the article will be added to your <a href="/wiki/Special:Watchlist" title="Special:Watchlist">personal watchlist</a>. Your watchlist will show you the latest changes on your watched articles.</dd></dl>
+<h3><span id="What_file_formats_should_I_use_for_pictures.2Fvideos.3F"></span><span class="mw-headline" id="What_file_formats_should_I_use_for_pictures/videos?"><span id="FORMAT"></span>What file formats should I use for pictures/videos?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#FORMAT" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#FORMAT</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>For images, use <a href="/wiki/JPEG" title="JPEG">JPEG</a> for photographs, and <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">SVG</a> for drawings and logos. <a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">PNG</a> can also be used. Use <a href="/wiki/GIF" title="GIF">GIF</a> for inline animations.</dd></dl>
+<dl><dd>For video, <a href="/wiki/Ogg_Theora" class="mw-redirect" title="Ogg Theora">Ogg Theora</a> is currently the only recommended format. See <a href="/wiki/Wikipedia:Image_use_policy" title="Wikipedia:Image use policy">Wikipedia:Image use policy</a> for more.</dd></dl>
+<h3><span id="What_file_format_should_I_use_for_sound.3F"></span><span class="mw-headline" id="What_file_format_should_I_use_for_sound?"><span id="SFORMAT"></span>What file format should I use for sound?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#SFORMAT" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#SFORMAT</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Multiple encodings are encouraged. <a href="/wiki/WAV" title="WAV">WAV</a> and <a href="/wiki/Ogg_Vorbis" class="mw-redirect" title="Ogg Vorbis">Ogg Vorbis</a> are allowed, but <a href="/wiki/MP3" title="MP3">MP3</a> is not. See <a href="/wiki/Wikipedia:Media" class="mw-disambig" title="Wikipedia:Media">Wikipedia:Media</a> for more.</dd></dl>
+<h3><span id="One_of_the_contributors_is_being_unreasonable._Help.21"></span><span class="mw-headline" id="One_of_the_contributors_is_being_unreasonable._Help!"><span id="BAD"></span>One of the contributors is being unreasonable. Help!</span></h3>
+<dl><dd>See <a href="/wiki/Wikipedia:Etiquette" title="Wikipedia:Etiquette">Wikipedia:Etiquette</a> and <a href="/wiki/Wikipedia:Dispute_resolution" title="Wikipedia:Dispute resolution">Wikipedia:Dispute resolution</a>.</dd></dl>
+<h3><span id="I.27ve_made_a_suggestion_on_an_article.27s_talk_page.2C_but_have_not_gotten_any_responses._How_long_should_I_wait_before_implementing_my_suggested_change.3F"></span><span class="mw-headline" id="I've_made_a_suggestion_on_an_article's_talk_page,_but_have_not_gotten_any_responses._How_long_should_I_wait_before_implementing_my_suggested_change?"><span id="WAIT"></span>I've made a suggestion on an article's talk page, but have not gotten any responses. How long should I wait before implementing my suggested change?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#WAIT" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#WAIT</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Per <a href="/wiki/Wikipedia:Be_bold" title="Wikipedia:Be bold">Wikipedia:Be bold</a>, there's no need to wait at all. Simply make your change. If someone else disagrees with it, they can always revert the change, and then you can talk the issue out with that person.</dd></dl>
+<h3><span id="Can_I_change_the_default_number_of_contributions_displayed_in_the_.22My_contributions.22_list.3F"></span><span class="mw-headline" id="Can_I_change_the_default_number_of_contributions_displayed_in_the_&quot;My_contributions&quot;_list?"><span id="DEFAULTCONTRIB"></span>Can I change the default number of contributions displayed in the "My contributions" list?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#DEFAULTCONTRIB" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#DEFAULTCONTRIB</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Currently, no. You can, however, change the setting <i>on the page</i> and bookmark the resulting page.</dd></dl>
+<h3><span id="Why_was_the_article_I_created_deleted.3F"></span><span class="mw-headline" id="Why_was_the_article_I_created_deleted?"><span id="DELETE"></span>Why was the article I created deleted?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#DELETE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#DELETE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>New articles are deleted for not following Wikipedia <a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">policies and guidelines</a>. If your article was deleted, future contributions from you are still welcome.</dd>
+<dd>The reasons that may lead to the quick deletion of an article are:
+<ol><li>A very short page with little or no definition or context (e.g. "He is a funny man that has created Factory and the Hacienda. And, by the way, his wife is great.").</li>
+<li>No meaningful content or history (e.g. "sdhgdf"). See <a href="/wiki/Wikipedia:Patent_nonsense" title="Wikipedia:Patent nonsense">patent nonsense</a>.</li>
+<li>A test page (e.g. "Can I really create a page here?").</li>
+<li>Pure vandalism (see <a href="/wiki/Wikipedia:Dealing_with_vandalism" class="mw-redirect" title="Wikipedia:Dealing with vandalism">dealing with vandalism</a>). Note that if you're not being malicious, then your article probably didn't fall under this category.</li>
+<li>Reposted content that was deleted according to Wikipedia's <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">deletion policy</a> unless undeleted according to <a href="/wiki/Wikipedia:Undeletion_policy" class="mw-redirect" title="Wikipedia:Undeletion policy">undeletion policy</a>.</li>
+<li>A page created and edited solely by a banned user, after they were banned (see <a href="/wiki/Wikipedia:Bans_and_blocks" class="mw-redirect" title="Wikipedia:Bans and blocks">bans and blocks</a>).</li>
+<li>An article which has already been moved via the <a href="https://meta.wikimedia.org/wiki/transwiki" class="extiw" title="m:transwiki">transwiki</a> system.</li>
+<li>An article about a real person, group of people, band or club that does not assert the importance or significance of its subject.</li>
+<li>An article that is a <b>blatant copyright infringement</b>  and contains no non-infringing revisions in its history.</li></ol></dd></dl>
+<h3><span id="Why_was_the_edit_I_made_removed.3F"></span><span class="mw-headline" id="Why_was_the_edit_I_made_removed?"><span id="REMOVE"></span>Why was the edit I made removed?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#REMOVE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#REMOVE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>There are a variety of reasons (some <a href="/wiki/Wikipedia:Avoiding_common_mistakes" title="Wikipedia:Avoiding common mistakes">common reasons</a>).  The first thing you should do is look at the history page for the article you edited.  This will tell you who changed it, when they changed it, and hopefully a short reason why they changed it.  If it says something like <b>see talk</b>, then you should look at the talk page for the article. Also, you should look at your own talk page to see if you have a message there.  If you don't find a reason that is satisfactory, politely ask in the article's talk page about your proposed change, and maybe you will get suggestions about changes that you can make so that your change will go in, or you may get reasons why your change should not happen.</dd></dl>
+<h2><span class="mw-headline" id="Links:_external_and_multilingual">Links: external and multilingual</span></h2>
+<h3><span id="Should_I_translate_pages_across_the_various_Wikipedias.3F"></span><span class="mw-headline" id="Should_I_translate_pages_across_the_various_Wikipedias?"><span id="TRANS"></span>Should I translate pages across the various Wikipedias?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#TRANS" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#TRANS</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Yes, it's a good idea to cross-pollinate. Please give credit to the contributors of the original article by noting that you have done so, with a link to the original, in the edit summary or at the article's talk page. See <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a> for further information.</dd></dl>
+<h3><span id="What_about_using_machine_translation.3F"></span><span class="mw-headline" id="What_about_using_machine_translation?"><span id="MTRANS"></span>What about using machine translation?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#MTRANS" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#MTRANS</a>&#160;</small></th></tr></tbody></table>
+<dl><dd><a href="/wiki/Machine_translation" title="Machine translation">Machine translation</a> is useful for obtaining the general idea of a text in an unfamiliar language, but it produces poor translations and should not be used on its own. If you want to use machine translation as a translation <i>aid</i> and intend to edit the result, please go ahead if you think it would be helpful. However, please do not paste a machine translation directly into an article.</dd></dl>
+<h3><span id="How_can_I_tell_if_an_article_exists_in_another_language_Wikipedia.3F"></span><span class="mw-headline" id="How_can_I_tell_if_an_article_exists_in_another_language_Wikipedia?"><span id="OTHERLANG"></span>How can I tell if an article exists in another language Wikipedia?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#OTHERLANG" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#OTHERLANG</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>We try to build links between different language pages – that's one way of seeing if an article exists elsewhere. If you don't see the language links at the left of a page, go looking for the corresponding article(s) on foreign Wikipedias. If you find them, make a link both ways; if not, you can translate. Bear in mind that article may not be in one-to-one correspondence between Wikipedias. See <a href="/wiki/Wikipedia:Interlanguage_links" class="mw-redirect" title="Wikipedia:Interlanguage links">Wikipedia:Interlanguage links</a> and <a href="/wiki/Wikipedia:Multilingual_coordination" title="Wikipedia:Multilingual coordination">Wikipedia:Multilingual coordination</a> for more information.</dd></dl>
+<h3><span id="Is_it_OK_to_link_to_other_sites.2C_as_long_as_the_material_is_not_copied_onto_Wikipedia.3F"></span><span class="mw-headline" id="Is_it_OK_to_link_to_other_sites,_as_long_as_the_material_is_not_copied_onto_Wikipedia?"><span id="OTHER"></span>Is it OK to link to other sites, as long as the material is not copied onto Wikipedia?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#OTHER" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#OTHER</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>External links are certainly allowed. Properly used, they increase the usability of Wikipedia. Keep in mind, however, that Wikipedia is not a <a href="/wiki/Web_directory" title="Web directory">web directory</a>; external links should support the content of the article, not replace it.  An article should be more than a container for external links, and the content should not require the reader to leave the site to understand the subject.</dd></dl>
+<dl><dd>Please do not place advertising links in Wikipedia.  Commercial sites are obvious, but this prohibition <i>usually</i> includes links to fansites and discussion forums as well unless the site is a notable one in the field.  As a general rule of thumb: if you wish to place the link in Wikipedia in order to drive traffic to a site, it probably doesn't belong here.</dd></dl>
+<dl><dd>The current convention is to place external links in a separate "External links" section at the bottom of the article.  Sites used as references for the article should be listed under a "References" section, or sometimes placed within the article as a footnote. See <a href="/wiki/Wikipedia:How_to_edit_a_page" class="mw-redirect" title="Wikipedia:How to edit a page">Wikipedia:How to edit a page</a> for different ways to create external links.</dd></dl>
+<dl><dd>See the <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">relevant guideline</a> for more examples on when external links are appropriate.</dd></dl>
+<h3><span id="How_do_I_link_from_book_articles_to_the_online_text_at_Project_Gutenberg.3F"></span><span class="mw-headline" id="How_do_I_link_from_book_articles_to_the_online_text_at_Project_Gutenberg?"><span id="BOOK"></span>How do I link from book articles to the online text at <a href="/wiki/Project_Gutenberg" title="Project Gutenberg">Project Gutenberg</a>?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#BOOK" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#BOOK</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Use <a href="/wiki/Template:Gutenberg" class="mw-redirect" title="Template:Gutenberg">Template:Gutenberg</a>.</dd></dl>
+<h2><span class="mw-headline" id="Copyrights">Copyrights</span></h2>
+<h3><span id="I_have.2C_or_can_get.2C_special_permission_to_copy_an_image_or_article_to_Wikipedia._Is_it_OK_to_do_that.3F"></span><span class="mw-headline" id="I_have,_or_can_get,_special_permission_to_copy_an_image_or_article_to_Wikipedia._Is_it_OK_to_do_that?"><span id="IMAGE"></span>I have, or can get, special permission to copy an image or article to Wikipedia. Is it OK to do that?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#IMAGE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#IMAGE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>The text of Wikipedia is covered by the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">Creative Commons Attribution/Share-Alike License</a> (CC-BY-SA) and, in most cases, the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GNU Free Documentation License</a> (GFDL) (unversioned, with no invariant sections, front-cover texts, or back-cover texts). Images are covered by various free licenses (see the <a href="https://foundation.wikimedia.org/wiki/Resolution:Licensing_policy" class="extiw" title="wmf:Resolution:Licensing policy">Wikimedia Foundation Licensing Policy</a>). Unless the article you want to copy to Wikipedia is covered by CC-BY-SA, a CC-BY-SA-compatible license or is in the public domain, it cannot be used on Wikipedia. Images, too, must be public domain or licensed under one of allowed licenses at <a href="/wiki/Wikipedia:Image_copyright_tags" class="mw-redirect" title="Wikipedia:Image copyright tags">Wikipedia:Image copyright tags</a>. You have to ask the copyright holder of the material to license it so it can be used. See <a href="/wiki/Wikipedia:Requesting_copyright_permission" title="Wikipedia:Requesting copyright permission">Wikipedia:Requesting copyright permission</a>. Under very limited conditions we can use copyrighted material even if it is not licensed compatibly; see <a href="/wiki/Wikipedia:Non-free_content" title="Wikipedia:Non-free content">Wikipedia:Non-free content</a> for how and when.</dd></dl>
+<h3><span id="I_have_an_out-of-copyright_image_.28or_text.29_that_is_reproduced_in_an_in-copyright_book._Can_I_scan_.2F_type_it_into_Wikipedia.3F"></span><span class="mw-headline" id="I_have_an_out-of-copyright_image_(or_text)_that_is_reproduced_in_an_in-copyright_book._Can_I_scan_/_type_it_into_Wikipedia?">I have an out-of-copyright image (or text) that is reproduced in an in-copyright book. Can I scan / type it into Wikipedia?</span></h3>
+<dl><dd>Providing they haven't altered the image then they can't claim a copyright on it. If it was in the public domain before they used it, it's still in the public domain afterward.</dd></dl>
+<h3><span id="Does_using_a_GIF_image_in_Wikipedia_violate_its_patent.3F"></span><span class="mw-headline" id="Does_using_a_GIF_image_in_Wikipedia_violate_its_patent?">Does using a <a href="/wiki/GIF" title="GIF">GIF</a> image in Wikipedia violate its patent?</span></h3>
+<dl><dd>No. The patent of the <a href="/wiki/LZW" class="mw-redirect" title="LZW">LZW</a> compression algorithm used with the GIF format has expired.</dd></dl>
+<h2><span class="mw-headline" id="Miscellaneous">Miscellaneous</span></h2>
+<h3><span id="How_do_I_donate_to_Wikipedia.3F"></span><span class="mw-headline" id="How_do_I_donate_to_Wikipedia?"><span id="DONATE"></span>How do I donate to Wikipedia?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#DONATE" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#DONATE</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>See <a rel="nofollow" class="external free" href="https://wikimediafoundation.org/fundraising">http://wikimediafoundation.org/fundraising</a>.</dd></dl>
+<h3><span id="Can_I_really_change_whatever_I_want_on_Wikipedia.3F"></span><span class="mw-headline" id="Can_I_really_change_whatever_I_want_on_Wikipedia?"><span id="ALL"></span>Can I really change whatever I want on Wikipedia?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#ALL" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#ALL</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>Yes, you can on almost any page. There are some pages on Wikipedia that are <a href="/wiki/Wikipedia:Protected_page" class="mw-redirect" title="Wikipedia:Protected page">protected</a>, so that only <a href="/wiki/Wikipedia:Administrators" title="Wikipedia:Administrators">administrators</a> can modify them. This includes pages like the <a href="/wiki/Main_Page" title="Main Page">Main Page</a>, which are permanently protected, or normal articles which are temporarily protected during the resolution of an <a href="/wiki/Wikipedia:Edit_war" class="mw-redirect" title="Wikipedia:Edit war">edit war</a>. Some pages are also <a href="/wiki/Wikipedia:Semi-protection" class="mw-redirect" title="Wikipedia:Semi-protection">semi-protected</a>, so that anonymous and new users cannot edit them, to reduce vandalism. The vast majority of pages on Wikipedia are editable by anyone, at any time, and any changes made will be reflected instantly.</dd></dl>
+<h3><span id="How_do_I_get_a_count_of_my_edits.3F"></span><span class="mw-headline" id="How_do_I_get_a_count_of_my_edits?"><span id="COUNT"></span>How do I get a count of my edits?</span></h3>
+<table class="shortcutbox shortcutbox-compact noprint" style="clear:right; float:right; border:1px solid #aaa; background:#fff; margin: 0.1em 0.1em 0.1em 0.1em; padding:1px; text-align:center;"><tbody><tr><th><small>&#160;<a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a>: &#160;&#160;<a href="/wiki/Wikipedia:COFAQ#COUNT" class="mw-redirect" title="Wikipedia:COFAQ">WP:COFAQ#COUNT</a>&#160;</small></th></tr></tbody></table>
+<dl><dd>There are a number of tools called <a href="/wiki/Wikipedia:Tools#Edit_counters" title="Wikipedia:Tools">edit counters</a> that can display the total count of your edits as well as the number of edits in various namespaces.</dd></dl>
+<dl><dd>Your edit count, including deleted edits, is displayed when you enter <a href="/wiki/Special:Preferences" title="Special:Preferences">your preferences</a>.</dd></dl>
+<h3><span class="mw-headline" id="Editing_the_Main_Page"><span id="MAIN"></span>Editing the Main Page</span></h3>
+<dl><dd><i>See <a href="/wiki/Wikipedia:Editing_the_main_page" title="Wikipedia:Editing the main page">Wikipedia:Editing the main page</a>.</i></dd></dl>
+<h3><span id="Where_can_I_get_feedback.3F"></span><span class="mw-headline" id="Where_can_I_get_feedback?"><span id="FEEDBACK"></span>Where can I get feedback?</span></h3>
+<dl><dd>For useful feedback or constructive criticism of your article, see <a href="/wiki/Wikipedia:Requests_for_feedback" title="Wikipedia:Requests for feedback">Wikipedia:Requests for feedback</a>.</dd></dl>
+<div style="clear:both;"></div>
+<p><br />
+</p>
+<hr />
+<p><b>More FAQ topics</b>
+</p>
+<div class="hlist" style="text-align: center; padding: 4px 1em; word-spacing: 2px; border: 1px solid #A3B1BF; background:#E6F2FF">
+<p><b>FAQs (Frequently Asked Questions)</b>
+</p>
+<ul><li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">Index of FAQs</a></li>
+<li><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">Main FAQ</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Overview" title="Wikipedia:FAQ/Overview">Overview</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">Readers</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Schools" title="Wikipedia:FAQ/Schools">Schools</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Organizations" title="Wikipedia:FAQ/Organizations">Organizations</a></li>
+<li><a class="mw-selflink selflink">Contributing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Editing" title="Wikipedia:FAQ/Editing">Editing</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Featured_articles" title="Wikipedia:FAQ/Featured articles">Featured articles</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Administration" title="Wikipedia:FAQ/Administration">Administration</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Blocks" title="Wikipedia:FAQ/Blocks">Blocks</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Technical" title="Wikipedia:FAQ/Technical">Technical</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Problems" title="Wikipedia:FAQ/Problems">Problems</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Article_subjects" title="Wikipedia:FAQ/Article subjects">Article&#160;subjects</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categories" title="Wikipedia:FAQ/Categories">Categories</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Categorization" title="Wikipedia:FAQ/Categorization">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Copyright" title="Wikipedia:FAQ/Copyright">Copyright</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Forking" title="Wikipedia:FAQ/Forking">Forking</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Template" title="Wikipedia:FAQ/Template">Templates</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Miscellaneous" title="Wikipedia:FAQ/Miscellaneous">Miscellaneous</a>  <div class="mw-inputbox-centered" style=""><form name="searchbox" class="searchbox" action="/wiki/Special:Search"><input class="searchboxInput mw-ui-input mw-ui-input-inline" name="search" type="text" value="" placeholder="" size="22" dir="ltr" /><input type="hidden" value="Wikipedia:FAQ" name="prefix" /> <input type="submit" name="fulltext" class="mw-ui-button" value="Search the FAQs" /><input type="hidden" value="Search" name="fulltext" /></form></div> </li></ul></div>
+<div role="navigation" class="navbox" aria-labelledby="Wikipedia_help_pages" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align:center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Wikipedia_help_pages" title="Template:Wikipedia help pages"><abbr title="View this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wikipedia_help_pages" title="Template talk:Wikipedia help pages"><abbr title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Wikipedia_help_pages&amp;action=edit"><abbr title="Edit this template" style="text-align:center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Wikipedia_help_pages" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Directory" title="Help:Directory">Wikipedia help pages</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align:center;"><div id="*Visit_the_Teahouse_or_the_Help_desk_for_an_interactive_Q_&amp;amp;_A_forum.&amp;#10;----&amp;#10;*_FAQs_(?)&amp;#10;*_Reference_desks_(?)&amp;#10;*_Noticeboards_(?)&amp;#10;*_Cheatsheet_(?)&amp;#10;*_Directories_(?)">
+<ul><li><b>Visit the <i><a href="/wiki/Wikipedia:Teahouse" title="Wikipedia:Teahouse">Teahouse</a></i> or the <i><a href="/wiki/Wikipedia:Help_desk" title="Wikipedia:Help desk">Help desk</a></i> for an interactive <abbr title="questions and answers">Q &amp; A</abbr> forum.</b></li></ul>
+<hr />
+<ul><li><b><a href="/wiki/Wikipedia:FAQ" title="Wikipedia:FAQ">FAQs</a></b>&#160;<b><abbr title="This is a list of frequently asked questions about using and contributing to Wikipedia.">(?)</abbr></b></li>
+<li><b><a href="/wiki/Wikipedia:Reference_desk" title="Wikipedia:Reference desk">Reference desks</a></b>&#160;<b><abbr title="Works like a library reference desk. Ask a question here and Wikipedia volunteers will try to answer it.">(?)</abbr></b></li>
+<li><b><a href="/wiki/Wikipedia:Noticeboards" title="Wikipedia:Noticeboards">Noticeboards</a></b>&#160;<b><abbr title="Pages where editors can ask questions and request assistance from people who are familiar with the policies and guidelines covered by each individual board.">(?)</abbr></b></li>
+<li><b><a href="/wiki/Help:Cheatsheet" title="Help:Cheatsheet">Cheatsheet</a></b>&#160;<b><abbr title="For a list of the most commonly used Wiki markup and templates.">(?)</abbr></b></li>
+<li><b> <a href="/wiki/Wikipedia:Directories_and_indexes" title="Wikipedia:Directories and indexes">Directories</a></b>&#160;<b><abbr title="For a list of Wikipedia&#39;s directories and indexes.">(?)</abbr></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a>&#160;<abbr title="Wikipedia&#39;s governess and customs">(?)</abbr></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Administration" title="Wikipedia:Administration">Administration</a>
+<ul><li><a href="/wiki/Wikipedia:Purpose" title="Wikipedia:Purpose">Purpose</a></li>
+<li><a href="/wiki/Wikipedia:Five_pillars" title="Wikipedia:Five pillars">Principles</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">Policies and guidelines</a></li>
+<li><a href="/wiki/Wikipedia:What_Wikipedia_is_not" title="Wikipedia:What Wikipedia is not">What Wikipedia is not</a></li>
+<li><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimer</a>&#160;(<a href="/wiki/Wikipedia:Advice_for_parents" title="Wikipedia:Advice for parents">parental advice</a>)</li>
+<li><a href="/wiki/Wikipedia:Request_directory" title="Wikipedia:Request directory">Making requests</a></li>
+<li><a href="/wiki/Wikipedia:Who_writes_Wikipedia%3F" title="Wikipedia:Who writes Wikipedia?">Who writes Wikipedia?</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Wikipedia:Reader%27s_index_to_Wikipedia" title="Wikipedia:Reader&#39;s index to Wikipedia">Help for readers</a>&#160;<abbr title="Concerns and questions readers may have about Wikipedia">(?)</abbr></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:FAQ/Readers" title="Wikipedia:FAQ/Readers">FAQ</a></li>
+<li><a href="/wiki/Help:Copyright" title="Help:Copyright">Copyright</a></li>
+<li><a href="/wiki/Help:Glossary" title="Help:Glossary">Glossary</a></li>
+<li><a href="/wiki/Help:Mobile_access" title="Help:Mobile access">Mobile access</a></li>
+<li><a href="/wiki/Help:Navigation" title="Help:Navigation">Navigation</a></li>
+<li><a href="/wiki/Help:Other_languages" title="Help:Other languages">Other languages</a></li>
+<li><a href="/wiki/Help:Searching" title="Help:Searching">Searching</a></li>
+<li><a href="/wiki/Help:Student_help" title="Help:Student help">Students</a></li>
+<li><a href="/wiki/Help:Viewing_media" title="Help:Viewing media">Viewing media</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Wikipedia:Contributing_to_Wikipedia" title="Wikipedia:Contributing to Wikipedia">Contributing<br />to Wikipedia</a>&#160;<abbr title="Overviews and resources needed to comprehend, comment on, and edit">(?)</abbr></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Guidance_for_younger_editors" title="Wikipedia:Guidance for younger editors">Advice for young editors</a></li>
+<li><a href="/wiki/Wikipedia:Avoiding_common_mistakes" title="Wikipedia:Avoiding common mistakes">Avoiding common mistakes</a></li>
+<li><a href="/wiki/Wikipedia:Etiquette" title="Wikipedia:Etiquette">Etiquette</a></li>
+<li><a href="/wiki/Wikipedia:Simplified_Manual_of_Style" title="Wikipedia:Simplified Manual of Style">Simplified Manual of Style</a></li>
+<li><a href="/wiki/Wikipedia:Simplified_ruleset" title="Wikipedia:Simplified ruleset">Simplified rule-set</a>
+<ul><li><a href="/wiki/Wikipedia:Ignore_all_rules" title="Wikipedia:Ignore all rules">"Ignore all rules"</a></li>
+<li><a href="/wiki/Wikipedia:The_rules_are_principles" title="Wikipedia:The rules are principles">"The rules are principles"</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:Styletips" title="Wikipedia:Styletips">Style-tips</a></li>
+<li><a href="/wiki/Wikipedia:Tip_of_the_day" title="Wikipedia:Tip of the day">Tip of the day</a></li>
+<li><a href="/wiki/Help:Talk_pages" title="Help:Talk pages">Your first article</a>&#160;(<a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">article wizard</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Help:Getting_started" title="Help:Getting started">Getting started</a>&#160;<abbr title="Introductions and tutorials">(?)</abbr></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">Why create an account?</a></li>
+<li><a href="/wiki/Help:Introduction" title="Help:Introduction">Brief introductions by topic</a></li>
+<li><a href="/wiki/Wikipedia:The_Wikipedia_Adventure" title="Wikipedia:The Wikipedia Adventure">The Wikipedia Adventure</a></li>
+<li><a href="/wiki/Help:Wikipedia:_The_Missing_Manual" title="Help:Wikipedia: The Missing Manual">Missing Manual</a></li>
+<li><a href="/wiki/Wikipedia:Tutorial" title="Wikipedia:Tutorial">Tutorial</a>
+<ul><li><a href="/wiki/Wikipedia:Graphics_tutorials" title="Wikipedia:Graphics tutorials">Graphics tutorials</a></li>
+<li><a href="/wiki/Help:Pictures" title="Help:Pictures">Picture tutorial</a></li>
+<li><a href="/wiki/Wikipedia:IRC/Tutorial" title="Wikipedia:IRC/Tutorial">IRC <span style="font-size:90%;">(live chat)</span> tutorial</a></li></ul></li>
+<li><a href="/wiki/Wikipedia:VisualEditor/User_guide" title="Wikipedia:VisualEditor/User guide">VisualEditor user guide</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Wikipedia:Dos_and_don%27ts" title="Wikipedia:Dos and don&#39;ts">Dos and don'ts</a>&#160;<abbr title="Wikipedia policies, guidelines, and formatting standards in bullet points">(?)</abbr></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Accessibility_dos_and_don%27ts" title="Wikipedia:Accessibility dos and don&#39;ts">Accessibility</a></li>
+<li><a href="/wiki/Wikipedia:Biography_dos_and_don%27ts" title="Wikipedia:Biography dos and don&#39;ts">Biographies</a></li>
+<li><a href="/wiki/Wikipedia:Biographies_of_living_persons_dos_and_don%27ts" title="Wikipedia:Biographies of living persons dos and don&#39;ts">Biographies (living)</a></li>
+<li><a href="/wiki/Wikipedia:Categorization_dos_and_don%27ts" title="Wikipedia:Categorization dos and don&#39;ts">Categorization</a></li>
+<li><a href="/wiki/Wikipedia:Consensus_dos_and_don%27ts" title="Wikipedia:Consensus dos and don&#39;ts">Consensus</a></li>
+<li><a href="/wiki/Wikipedia:Talk_dos_and_don%27ts" title="Wikipedia:Talk dos and don&#39;ts">Discussions</a></li>
+<li><a href="/wiki/Wikipedia:Disambiguation_dos_and_don%27ts" title="Wikipedia:Disambiguation dos and don&#39;ts">Disambiguation</a></li>
+<li><a href="/wiki/Wikipedia:Image_dos_and_don%27ts" title="Wikipedia:Image dos and don&#39;ts">Images</a></li>
+<li><a href="/wiki/Wikipedia:Lead_dos_and_don%27ts" title="Wikipedia:Lead dos and don&#39;ts">Leads</a></li>
+<li><a href="/wiki/Wikipedia:Linking_dos_and_don%27ts" title="Wikipedia:Linking dos and don&#39;ts">Links</a></li>
+<li><a href="/wiki/Wikipedia:List_dos_and_don%27ts" title="Wikipedia:List dos and don&#39;ts">Lists</a></li>
+<li><a href="/wiki/Wikipedia:References_dos_and_don%27ts" title="Wikipedia:References dos and don&#39;ts">References</a></li>
+<li><a href="/wiki/Wikipedia:Table_dos_and_don%27ts" title="Wikipedia:Table dos and don&#39;ts">Tables</a></li>
+<li><a href="/wiki/Wikipedia:Article_title_dos_and_don%27ts" title="Wikipedia:Article title dos and don&#39;ts">Titles (of articles)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Category:Wikipedia_how-to" title="Category:Wikipedia how-to">How-to pages</a> and<br /><a href="/wiki/Category:Wikipedia_information_pages" title="Category:Wikipedia information pages">information pages</a>&#160;<abbr title="Topic specific informative and instructional pages">(?)</abbr></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Guide_to_appealing_blocks" title="Wikipedia:Guide to appealing blocks">Appealing blocks</a></li>
+<li><a href="/wiki/Wikipedia:Guide_to_deletion" title="Wikipedia:Guide to deletion">Article deletion</a></li>
+<li><a href="/wiki/Help:Category" title="Help:Category">Categories</a></li>
+<li><a href="/wiki/Help:Citations_quick_reference" title="Help:Citations quick reference">Citations/references</a>
+<ul><li><a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">Referencing for beginners</a></li>
+<li><a href="/wiki/Help:Citation_Style_1" title="Help:Citation Style 1">Citation Style 1</a></li>
+<li><a href="/wiki/Help:Cite_errors" title="Help:Cite errors">Cite errors</a></li>
+<li><a href="/wiki/Help:References_and_page_numbers" title="Help:References and page numbers">References and page numbers</a></li></ul></li>
+<li><a href="/wiki/Help:Convert" title="Help:Convert">Convert</a></li>
+<li><a href="/wiki/Help:Diff" title="Help:Diff">Diff</a></li>
+<li><a href="/wiki/Help:Editing" title="Help:Editing">Editing</a>
+<ul><li><a href="/wiki/Help:Minor_edit" title="Help:Minor edit">Minor edit</a></li>
+<li><a href="/wiki/Help:Edit_toolbar" title="Help:Edit toolbar">toolbar</a></li>
+<li><a href="/wiki/Help:Edit_conflict" title="Help:Edit conflict">edit conflict</a></li></ul></li>
+<li><a href="/wiki/Help:Find_sources" title="Help:Find sources">Find sources</a></li>
+<li><a href="/wiki/Help:Files" title="Help:Files">Files</a></li>
+<li><a href="/wiki/Help:Footnotes" title="Help:Footnotes">Footnotes</a></li>
+<li><a href="/wiki/Wikipedia:Guide_to_image_deletion" title="Wikipedia:Guide to image deletion">Image deletion</a></li>
+<li><a href="/wiki/Help:Infobox" title="Help:Infobox">Infoboxes</a></li>
+<li><a href="/wiki/Help:Link" title="Help:Link">Linking</a>&#160;(<a href="/wiki/Help:Link_color" title="Help:Link color">link color</a>)</li>
+<li><a href="/wiki/Help:Logging_in" title="Help:Logging in">Logging in</a></li>
+<li><a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">Merging</a></li>
+<li><a href="/wiki/Help:Page_name" title="Help:Page name">Page name</a>
+<ul><li><a href="/wiki/Help:How_to_move_a_page" title="Help:How to move a page">Renaming pages</a></li></ul></li>
+<li><a href="/wiki/Help:Redirect" title="Help:Redirect">Redirect</a></li>
+<li><a href="/wiki/Help:Reset_password" title="Help:Reset password">Passwords</a>
+<ul><li><a href="/wiki/Help:Email_confirmation" title="Help:Email confirmation">Email confirmation</a></li></ul></li>
+<li><a href="/wiki/Help:Reverting" title="Help:Reverting">Reverting</a></li>
+<li><a href="/wiki/Help:Talk_pages" title="Help:Talk pages">Talk pages</a>&#160;(<a href="/wiki/Help:Archiving_a_talk_page" title="Help:Archiving a talk page">archiving</a>)</li>
+<li><a href="/wiki/Help:User_contributions" title="Help:User contributions">User contributions</a></li>
+<li><a href="/wiki/Wikipedia:User_page_design_center" title="Wikipedia:User page design center">User page design center</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Wiki_markup" class="mw-redirect" title="Wiki markup">Coding</a>&#160;<abbr title="Wikitext information consists of the syntax used to format a page">(?)</abbr></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Help:Wikitext" title="Help:Wikitext">Wiki markup</a></li>
+<li><a href="/wiki/Help:Barchart" title="Help:Barchart">Barcharts</a></li>
+<li><a href="/wiki/Help:Calculation" title="Help:Calculation">Calculations</a></li>
+<li><a href="/wiki/Help:Special_characters" title="Help:Special characters">Characters</a></li>
+<li><a href="/wiki/Help:Columns" title="Help:Columns">Columns</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Hidden_text" title="Wikipedia:Manual of Style/Hidden text">Hidden text</a></li>
+<li><a href="/wiki/Help:HTML_in_wikitext" title="Help:HTML in wikitext">HTML</a></li>
+<li><a href="/wiki/Help:List" title="Help:List">Lists</a></li>
+<li><a href="/wiki/Help:Magic_words" title="Help:Magic words">Magic words</a></li>
+<li><a href="/wiki/Help:Musical_symbols" title="Help:Musical symbols">Music symbols</a></li>
+<li><a href="/wiki/Help:Section" title="Help:Section">Sections</a></li>
+<li><a href="/wiki/Help:Sound_file_markup" title="Help:Sound file markup">Sounds</a></li>
+<li><a href="/wiki/Help:Table" title="Help:Table">Tables</a></li>
+<li><a href="/wiki/Help:Template" title="Help:Template">Templates</a></li>
+<li><a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">Transclusion</a></li>
+<li><a href="/wiki/Help:URL" title="Help:URL">URL</a></li>
+<li><a href="/wiki/Help:Visual_file_markup" title="Help:Visual file markup">Visual files</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Wikipedia:Directories_and_indexes" title="Wikipedia:Directories and indexes">Directories</a>&#160;<abbr title="Wikipedia&#39;s directories and indexes">(?)</abbr></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wikipedia:Wikipedia_abbreviations" title="Wikipedia:Wikipedia abbreviations">Abbreviations</a></li>
+<li><a href="/wiki/Wikipedia:Contents" title="Wikipedia:Contents">Contents</a> <small>(Encyclopedia proper)</small></li>
+<li><a href="/wiki/Wikipedia:Department_directory" title="Wikipedia:Department directory">Departments</a></li>
+<li><a href="/wiki/Wikipedia:Editor%27s_index_to_Wikipedia" title="Wikipedia:Editor&#39;s index to Wikipedia">Editor's index</a></li>
+<li><a href="/wiki/Wikipedia:Essay_directory" title="Wikipedia:Essay directory">Essays</a></li>
+<li><a href="/wiki/Wikipedia:FAQ/Index" title="Wikipedia:FAQ/Index">FAQs</a></li>
+<li><a href="/wiki/Wikipedia:Glossary" title="Wikipedia:Glossary">Glossary</a></li>
+<li><a href="/wiki/Wikipedia:List_of_guidelines" title="Wikipedia:List of guidelines">Guidelines</a></li>
+<li><a href="/wiki/Wikipedia:Manual_of_Style/Contents" title="Wikipedia:Manual of Style/Contents">Manual of Style </a></li>
+<li><a href="/wiki/Wikipedia:List_of_policies" title="Wikipedia:List of policies">Policies</a></li>
+<li><a href="/wiki/Wikipedia:Maintenance" title="Wikipedia:Maintenance">Tasks</a></li>
+<li><a href="/wiki/Wikipedia:Tips" title="Wikipedia:Tips">Tips</a></li>
+<li><a href="/wiki/Wikipedia:Tools" title="Wikipedia:Tools">Tools</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align:center;"><div><span class="noprint plainlinks" title="Edit Special:MyTalk"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:MyTalk&amp;action=edit&amp;section=new&amp;preload=Help:Contents/helpmepreload&amp;preloadtitle=Help+me%21"><b>Ask for help on your talk page</b></a></span>&#160;<b><abbr title="If you need help, you can use this link to ask a question on your talk page; a volunteer will visit you there shortly!">(?)</abbr></b></div></td></tr></tbody></table></div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1295
+Cached time: 20200223164519
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.256 seconds
+Real time usage: 0.345 seconds
+Preprocessor visited node count: 1837/1000000
+Post‐expand include size: 56703/2097152 bytes
+Template argument size: 2797/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2471/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.053/10.000 seconds
+Lua memory usage: 1.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  211.312      1 -total
+ 47.11%   99.543      1 Wikipedia:FAQ/framework
+ 28.41%   60.030      1 Template:Help_navigation
+ 25.63%   54.153      1 Template:Navbox
+ 21.48%   45.383      1 Template:PartofHelpContents
+ 20.86%   44.085      1 Template:Breadcrumb2
+ 20.25%   42.801      1 Template:Top_icon
+ 13.41%   28.342      1 Template:Shortcut
+ 11.88%   25.112      1 Template:Category_handler
+ 10.93%   23.103     14 Template:Define
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:97161-0!canonical and timestamp 20200223164519 and revision id 872707161
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:FAQ/Contributing&amp;oldid=872707161">https://en.wikipedia.org/w/index.php?title=Wikipedia:FAQ/Contributing&amp;oldid=872707161</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_FAQs" title="Category:Wikipedia FAQs">Wikipedia FAQs</a></li><li><a href="/wiki/Category:Wikipedia_copyright" title="Category:Wikipedia copyright">Wikipedia copyright</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3AFAQ%2FContributing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3AFAQ%2FContributing" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikipedia:FAQ/Contributing" title="View the project page [c]" accesskey="c">Project page</a></li><li id="ca-talk"><a href="/wiki/Wikipedia_talk:FAQ/Contributing" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikipedia:FAQ/Contributing">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Wikipedia:FAQ/Contributing&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikipedia:FAQ/Contributing&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:FAQ/Contributing" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:FAQ/Contributing" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:FAQ/Contributing&amp;oldid=872707161" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:FAQ/Contributing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11009849" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3AFAQ%2FContributing">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3AFAQ%2FContributing&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:FAQ/Contributing&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%A3%D8%B3%D8%A6%D9%84%D8%A9_%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9/%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9" title="ويكيبيديا:أسئلة متكررة/مساهمة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%B8%E0%A6%A4%E0%A6%A4%E0%A7%87_%E0%A6%89%E0%A6%A6%E0%A6%BF%E0%A6%A4_%E0%A6%AA%E0%A7%8D%E0%A7%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9/%E0%A6%AC%E0%A7%B0%E0%A6%99%E0%A6%A3%E0%A6%BF" title="ৱিকিপিডিয়া:সততে উদিত প্ৰশ্নসমূহ/বৰঙণি – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%DA%86%D9%88%D8%AE_%D8%B3%D9%88%D8%B1%D9%88%D8%B4%D9%88%D9%84%D8%A7%D9%86_%D8%B3%D9%88%D8%A7%D9%84%D9%84%D8%A7%D8%B1/%DA%86%D8%A7%D9%84%DB%8C%D8%B4%D9%85%D8%A7" title="ویکی‌پدیا:چوخ سوروشولان سواللار/چالیشما – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%89%E0%A6%87%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%B6_%E0%A6%9C%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%B8%E0%A6%BF%E0%A6%A4_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B6%E0%A7%8D%E0%A6%A8/%E0%A6%85%E0%A6%AC%E0%A6%A6%E0%A6%BE%E0%A6%A8" title="উইকিপিডিয়া:প্রায়শ জিজ্ঞাসিত প্রশ্ন/অবদান – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A7%D0%97%D0%92_%D0%B7%D0%B0_%D1%81%D1%8A%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D1%86%D0%B8" title="Уикипедия:ЧЗВ за сътрудници – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/Wikipedia:%E0%BD%93%E0%BD%84%E0%BC%8B%E0%BD%96%E0%BD%9E%E0%BD%B4%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%98%E0%BD%B2%E0%BC%8B%E0%BD%A6%E0%BE%A3%E0%BD%A2%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BC%8B%E0%BD%8F%E0%BD%B4%E0%BC%8B%E0%BD%A0%E0%BD%95%E0%BE%B2%E0%BD%91%E0%BC%8B%E0%BD%A6%E0%BE%B2%E0%BD%B2%E0%BD%91%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%80%E0%BD%A0%E0%BC%8B%E0%BD%A2%E0%BE%99%E0%BD%BC%E0%BD%82%E0%BC%8B%E0%BD%A6%E0%BD%BA%E0%BD%A3%E0%BC%8B%E0%BD%90%E0%BD%96%E0%BD%A6%E0%BC%8D" title="Wikipedia:ནང་བཞུགས་མི་སྣར་རྟག་ཏུ་འཕྲད་སྲིད་པའི་དཀའ་རྙོག་སེལ་ཐབས། – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Hilfe:FAQ_f%C3%BCr_Mitarbeiter" title="Hilfe:FAQ für Mitarbeiter – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Vikipeedia:Kaast%C3%B6%C3%B6_KKK" title="Vikipeedia:Kaastöö KKK – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ayuda:Preguntas_frecuentes/Colaboradores" title="Ayuda:Preguntas frecuentes/Colaboradores – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%BE%D8%B1%D8%B3%D8%B4%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%B1%D8%A7%DB%8C%D8%AC/%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C" title="ویکی‌پدیا:پرسش‌های رایج/همکاری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Aide:FAQ/participants" title="Aide:FAQ/participants – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:FAQ/%EA%B8%B0%EC%97%AC" title="위키백과:FAQ/기여 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia:Tanya_jawab_(Menyunting)" title="Wikipedia:Tanya jawab (Menyunting) – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%A9%D7%90%D7%9C%D7%95%D7%AA_%D7%95%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA/%D7%AA%D7%95%D7%A8%D7%9E%D7%99%D7%9D" title="ויקיפדיה:שאלות ותשובות/תורמים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%A7%E0%BA%B4%E0%BA%81%E0%BA%B4%E0%BA%9E%E0%BA%B5%E0%BB%80%E0%BA%94%E0%BA%8D:%E0%BA%84%E0%BA%B3%E0%BA%96%E0%BA%B2%E0%BA%A1%E0%BA%A1%E0%BA%B5%E0%BB%80%E0%BA%A5%E0%BA%B7%E0%BB%89%E0%BA%AD%E0%BA%8D_%E0%BA%81%E0%BB%88%E0%BA%BD%E0%BA%A7%E0%BA%81%E0%BA%B1%E0%BA%9A_%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BA%9B%E0%BA%B0%E0%BA%81%E0%BA%AD%E0%BA%9A%E0%BA%AA%E0%BB%88%E0%BA%A7%E0%BA%99" title="ວິກິພີເດຍ:ຄຳຖາມມີເລື້ອຍ ກ່ຽວກັບ ການປະກອບສ່ວນ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Wikipedia:FAQ_Participanten" title="Wikipedia:FAQ Participanten – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia:FAQ_Menyumbang" title="Wikipedia:FAQ Menyumbang – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Biquip%C3%A9dia:FAQ_de_cuntribui%C3%A7on" title="Biquipédia:FAQ de cuntribuiçon – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/Wikipedia:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D0%B0%D0%B3_%D1%85%D3%A9%D0%B3%D0%B6%D2%AF%D2%AF%D0%BB%D1%8D%D1%85%D1%82%D1%8D%D0%B9_%D1%85%D0%BE%D0%BB%D0%B1%D0%BE%D0%BE%D1%82%D0%BE%D0%B9_%D0%B0%D1%81%D1%83%D1%83%D0%BB%D1%82%D1%83%D1%83%D0%B4" title="Wikipedia:Википедиаг хөгжүүлэхтэй холбоотой асуултууд – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Wikipedia:FAQ_%E6%8A%95%E7%A8%BF%E8%80%85%E5%90%91%E3%81%91" title="Wikipedia:FAQ 投稿者向け – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ajuda:Perguntas_frequentes/Contribui%C3%A7%C3%A3o" title="Ajuda:Perguntas frequentes/Contribuição – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%B4%E0%B7%93%E0%B6%A9%E0%B7%92%E0%B6%BA%E0%B7%8F:%E0%B6%B1%E0%B7%92%E0%B7%80%E0%B7%92%E0%B6%B4%E0%B7%8A%E2%80%8D%E0%B6%BB/%E0%B6%AF%E0%B7%8F%E0%B6%BA%E0%B6%9A%E0%B6%AD%E0%B7%8A%E0%B7%80" title="විකිපීඩියා:නිවිප්‍ර/දායකත්ව – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%D9%BE%DB%8C%D8%AF%DB%8C%D8%A7:%D9%BE%D8%B1%D8%B3%DB%8C%D8%A7%D8%B1%DB%95_%D8%AF%D9%88%D9%88%D9%BE%D8%A7%D8%AA%DA%A9%D8%B1%D8%A7%D9%88%DB%95%DA%A9%D8%A7%D9%86/%D8%A8%DB%95%D8%B4%D8%AF%D8%A7%D8%B1%DB%8C" title="ویکیپیدیا:پرسیارە دووپاتکراوەکان/بەشداری – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%98%D0%B0:%D0%9D%D0%9F%D0%9F/%D0%94%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%BE%D1%81%D0%B8" title="Википедија:НПП/Доприноси – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%B8%E0%B0%AE%E0%B0%B0%E0%B1%8D%E0%B0%AA%E0%B0%A3%E0%B0%B2_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%B6%E0%B1%8D%E0%B0%A8%E0%B0%B2%E0%B1%81" title="వికీపీడియా:సమర్పణల ప్రశ్నలు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikipedi:SSS/Katk%C4%B1" title="Vikipedi:SSS/Katkı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E5%8F%82%E4%B8%8E%E8%80%85%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E8%A7%A3%E7%AD%94" title="Wikipedia:参与者常见问题解答 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11009849#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 8 December 2018, at 17:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:FAQ/Contributing&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.345","ppvisitednodes":{"value":1837,"limit":1000000},"postexpandincludesize":{"value":56703,"limit":2097152},"templateargumentsize":{"value":2797,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2471,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  211.312      1 -total"," 47.11%   99.543      1 Wikipedia:FAQ/framework"," 28.41%   60.030      1 Template:Help_navigation"," 25.63%   54.153      1 Template:Navbox"," 21.48%   45.383      1 Template:PartofHelpContents"," 20.86%   44.085      1 Template:Breadcrumb2"," 20.25%   42.801      1 Template:Top_icon"," 13.41%   28.342      1 Template:Shortcut"," 11.88%   25.112      1 Template:Category_handler"," 10.93%   23.103     14 Template:Define"]},"scribunto":{"limitreport-timeusage":{"value":"0.053","limit":"10.000"},"limitreport-memusage":{"value":1723344,"limit":52428800}},"cachereport":{"origin":"mw1295","timestamp":"20200223164519","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1327"});});</script></body></html>

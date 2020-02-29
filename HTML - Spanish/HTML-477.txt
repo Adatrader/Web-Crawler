@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljvcwpAMFUAAAOvuyUAAABB","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=%C3%A9"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"\u00e9","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='é' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=%C3%A1perk-k%27%C3%A9jek" title="Especial:Todas">Página anterior (áperk-k&#039;éjek)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=%C3%ACl%C3%BA+%C5%84l%C3%A1" title="Especial:Todas">Página siguiente (ìlú ńlá)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/%C3%A9" title="é">é</a></li>
+<li><a href="/wiki/%C3%A9ad%C3%B3chas" title="éadóchas">éadóchas</a></li>
+<li><a href="/wiki/%C3%A9ag" title="éag">éag</a></li>
+<li><a href="/wiki/%C3%A9an" title="éan">éan</a></li>
+<li><a href="/wiki/%C3%A9b" title="éb">éb</a></li>
+<li><a href="/wiki/%C3%A9bahir" title="ébahir">ébahir</a></li>
+<li><a href="/wiki/%C3%A9bahissement" title="ébahissement">ébahissement</a></li>
+<li><a href="/wiki/%C3%A9bano" title="ébano">ébano</a></li>
+<li><a href="/wiki/%C3%A9banos" title="ébanos">ébanos</a></li>
+<li><a href="/wiki/%C3%A9barber" title="ébarber">ébarber</a></li>
+<li><a href="/wiki/%C3%A9barboir" title="ébarboir">ébarboir</a></li>
+<li><a href="/wiki/%C3%A9bat" title="ébat">ébat</a></li>
+<li><a href="/wiki/%C3%A9battement" title="ébattement">ébattement</a></li>
+<li><a href="/wiki/%C3%A9battre" title="ébattre">ébattre</a></li>
+<li><a href="/wiki/%C3%A9bauch%C3%A9" title="ébauché">ébauché</a></li>
+<li><a href="/wiki/%C3%A9ba%C3%AFr" title="ébaïr">ébaïr</a></li>
+<li><a href="/wiki/%C3%A9bola" title="ébola">ébola</a></li>
+<li><a href="/wiki/%C3%A9branler" title="ébranler">ébranler</a></li>
+<li><a href="/wiki/%C3%A9brouer" title="ébrouer">ébrouer</a></li>
+<li><a href="/wiki/%C3%A9br%C3%A9ch%C3%A9" title="ébréché">ébréché</a></li>
+<li><a href="/wiki/%C3%A9bulo" title="ébulo">ébulo</a></li>
+<li><a href="/wiki/%C3%A9bulos" title="ébulos">ébulos</a></li>
+<li><a href="/wiki/%C3%A9caille" title="écaille">écaille</a></li>
+<li><a href="/wiki/%C3%A9cart" title="écart">écart</a></li>
+<li><a href="/wiki/%C3%A9carter" title="écarter">écarter</a></li>
+<li><a href="/wiki/%C3%A9chantillon" title="échantillon">échantillon</a></li>
+<li><a href="/wiki/%C3%A9chapper" title="échapper">échapper</a></li>
+<li><a href="/wiki/%C3%A9chate" title="échate">échate</a></li>
+<li><a href="/wiki/%C3%A9chauffement" title="échauffement">échauffement</a></li>
+<li><a href="/wiki/%C3%A9chauffer" title="échauffer">échauffer</a></li>
+<li><a href="/wiki/%C3%A9chelle" title="échelle">échelle</a></li>
+<li><a href="/wiki/%C3%A9chense" title="échense">échense</a></li>
+<li><a href="/wiki/%C3%A9chese" title="échese">échese</a></li>
+<li><a href="/wiki/%C3%A9cho" title="écho">écho</a></li>
+<li><a href="/wiki/%C3%A9choir" title="échoir">échoir</a></li>
+<li><a href="/wiki/%C3%A9chole" title="échole">échole</a></li>
+<li><a href="/wiki/%C3%A9clogas" title="éclogas">éclogas</a></li>
+<li><a href="/wiki/%C3%A9cole" title="école">école</a></li>
+<li><a href="/wiki/%C3%A9cologie" title="écologie">écologie</a></li>
+<li><a href="/wiki/%C3%A9cologique" title="écologique">écologique</a></li>
+<li><a href="/wiki/%C3%A9cologiquement" title="écologiquement">écologiquement</a></li>
+<li><a href="/wiki/%C3%A9conomie" title="économie">économie</a></li>
+<li><a href="/wiki/%C3%A9conomiser" title="économiser">économiser</a></li>
+<li><a href="/wiki/%C3%A9conomiste" title="économiste">économiste</a></li>
+<li><a href="/wiki/%C3%A9corce" title="écorce">écorce</a></li>
+<li><a href="/wiki/%C3%A9corcer" title="écorcer">écorcer</a></li>
+<li><a href="/wiki/%C3%A9coulement" title="écoulement">écoulement</a></li>
+<li><a href="/wiki/%C3%A9couler" title="écouler">écouler</a></li>
+<li><a href="/wiki/%C3%A9coul%C3%A9e" title="écoulée">écoulée</a></li>
+<li><a href="/wiki/%C3%A9coute" title="écoute">écoute</a></li>
+<li><a href="/wiki/%C3%A9couter" title="écouter">écouter</a></li>
+<li><a href="/wiki/%C3%A9cran" title="écran">écran</a></li>
+<li><a href="/wiki/%C3%A9crire" title="écrire">écrire</a></li>
+<li><a href="/wiki/%C3%A9criture" title="écriture">écriture</a></li>
+<li><a href="/wiki/%C3%A9crivain" title="écrivain">écrivain</a></li>
+<li><a href="/wiki/%C3%A9cu" title="écu">écu</a></li>
+<li><a href="/wiki/%C3%A9cueil" title="écueil">écueil</a></li>
+<li><a href="/wiki/%C3%A9cuelle" title="écuelle">écuelle</a></li>
+<li><a href="/wiki/%C3%A9cureuil" title="écureuil">écureuil</a></li>
+<li><a href="/wiki/%C3%A9cusson" title="écusson">écusson</a></li>
+<li><a href="/wiki/%C3%A9cuyer" title="écuyer">écuyer</a></li>
+<li><a href="/wiki/%C3%A9c%C5%93urant" title="écœurant">écœurant</a></li>
+<li><a href="/wiki/%C3%A9c%C5%93urer" title="écœurer">écœurer</a></li>
+<li><a href="/wiki/%C3%A9dicter" title="édicter">édicter</a></li>
+<li><a href="/wiki/%C3%A9dification" title="édification">édification</a></li>
+<li><a href="/wiki/%C3%A9difier" title="édifier">édifier</a></li>
+<li><a href="/wiki/%C3%A9dition" title="édition">édition</a></li>
+<li><a href="/wiki/%C3%A9dredon" title="édredon">édredon</a></li>
+<li><a href="/wiki/%C3%A9ducation" title="éducation">éducation</a></li>
+<li><a href="/wiki/%C3%A9ducativement" title="éducativement">éducativement</a></li>
+<li><a href="/wiki/%C3%A9d%C3%A1" title="édá">édá</a></li>
+<li><a href="/wiki/%C3%A9d%C3%A1_el%C3%A8%C3%A9m%C3%AD" title="édá elèémí">édá elèémí</a></li>
+<li><a href="/wiki/%C3%A9d%C3%A1_ohunk%C3%B3hun" title="édá ohunkóhun">édá ohunkóhun</a></li>
+<li class="allpagesredirect"><a href="/wiki/%C3%A9ek%27" class="mw-redirect" title="éek&#039;">éek&#039;</a></li>
+<li><a href="/wiki/%C3%A9ek%27_abal" title="éek&#039; abal">éek&#039; abal</a></li>
+<li class="allpagesredirect"><a href="/wiki/%C3%A9ek%27_popos" class="mw-redirect" title="éek&#039; popos">éek&#039; popos</a></li>
+<li><a href="/wiki/%C3%A9ek%27_p%C3%ADip" title="éek&#039; píip">éek&#039; píip</a></li>
+<li><a href="/wiki/%C3%A9ek%27_u_neil" title="éek&#039; u neil">éek&#039; u neil</a></li>
+<li><a href="/wiki/%C3%A9ek%27aban" title="éek&#039;aban">éek&#039;aban</a></li>
+<li class="allpagesredirect"><a href="/wiki/%C3%A9ek%27i" class="mw-redirect" title="éek&#039;i">éek&#039;i</a></li>
+<li><a href="/wiki/%C3%A9ek%27joch%27e%27en" title="éek&#039;joch&#039;e&#039;en">éek&#039;joch&#039;e&#039;en</a></li>
+<li><a href="/wiki/%C3%A9eku" title="éeku">éeku</a></li>
+<li><a href="/wiki/%C3%A9ek%CA%BC" title="éekʼ">éekʼ</a></li>
+<li><a href="/wiki/%C3%A9ek%CA%BC_popos" title="éekʼ popos">éekʼ popos</a></li>
+<li><a href="/wiki/%C3%A9ek%CA%BCi" title="éekʼi">éekʼi</a></li>
+<li><a href="/wiki/%C3%A9emel_aal" title="éemel aal">éemel aal</a></li>
+<li><a href="/wiki/%C3%A9epux" title="éepux">éepux</a></li>
+<li><a href="/wiki/%C3%A9et_kaajal" title="éet kaajal">éet kaajal</a></li>
+<li><a href="/wiki/%C3%A9et_w%C3%ADinikil" title="éet wíinikil">éet wíinikil</a></li>
+<li><a href="/wiki/%C3%A9et_yuum" title="éet yuum">éet yuum</a></li>
+<li><a href="/wiki/%C3%A9etel" title="éetel">éetel</a></li>
+<li><a href="/wiki/%C3%A9ets%27" title="éets&#039;">éets&#039;</a></li>
+<li><a href="/wiki/%C3%A9foros" title="éforos">éforos</a></li>
+<li><a href="/wiki/%C3%A9g" title="ég">ég</a></li>
+<li><a href="/wiki/%C3%A9gal" title="égal">égal</a></li>
+<li><a href="/wiki/%C3%A9gale" title="égale">égale</a></li>
+<li><a href="/wiki/%C3%A9galement" title="également">également</a></li>
+<li><a href="/wiki/%C3%A9galit%C3%A9" title="égalité">égalité</a></li>
+<li><a href="/wiki/%C3%A9gide" title="égide">égide</a></li>
+<li><a href="/wiki/%C3%A9glise" title="église">église</a></li>
+<li><a href="/wiki/%C3%A9gloga" title="égloga">égloga</a></li>
+<li><a href="/wiki/%C3%A9glogas" title="églogas">églogas</a></li>
+<li><a href="/wiki/%C3%A9gophonie" title="égophonie">égophonie</a></li>
+<li><a href="/wiki/%C3%A9go%C3%AFste" title="égoïste">égoïste</a></li>
+<li><a href="/wiki/%C3%A9igean" title="éigean">éigean</a></li>
+<li><a href="/wiki/%C3%A9igin" title="éigin">éigin</a></li>
+<li><a href="/wiki/%C3%A9ikar" title="éikar">éikar</a></li>
+<li><a href="/wiki/%C3%A9irigh" title="éirigh">éirigh</a></li>
+<li><a href="/wiki/%C3%A9ir%C3%AD" title="éirí">éirí</a></li>
+<li><a href="/wiki/%C3%A9itqal" title="éitqal">éitqal</a></li>
+<li><a href="/wiki/%C3%A9iwol" title="éiwol">éiwol</a></li>
+<li><a href="/wiki/%C3%A9jaculation" title="éjaculation">éjaculation</a></li>
+<li><a href="/wiki/%C3%A9jale" title="éjale">éjale</a></li>
+<li><a href="/wiki/%C3%A9jok" title="éjok">éjok</a></li>
+<li><a href="/wiki/%C3%A9jpu" title="éjpu">éjpu</a></li>
+<li><a href="/wiki/%C3%A9ka" title="éka">éka</a></li>
+<li><a href="/wiki/%C3%A9l" title="él">él</a></li>
+<li><a href="/wiki/%C3%A9laboration" title="élaboration">élaboration</a></li>
+<li><a href="/wiki/%C3%A9laguer" title="élaguer">élaguer</a></li>
+<li><a href="/wiki/%C3%A9lection" title="élection">élection</a></li>
+<li><a href="/wiki/%C3%A9lectricit%C3%A9" title="électricité">électricité</a></li>
+<li><a href="/wiki/%C3%A9lectrique" title="électrique">électrique</a></li>
+<li><a href="/wiki/%C3%A9lectrochimie" title="électrochimie">électrochimie</a></li>
+<li><a href="/wiki/%C3%A9lectronique" title="électronique">électronique</a></li>
+<li><a href="/wiki/%C3%A9lega" title="élega">élega</a></li>
+<li><a href="/wiki/%C3%A9legas" title="élegas">élegas</a></li>
+<li><a href="/wiki/%C3%A9lego" title="élego">élego</a></li>
+<li><a href="/wiki/%C3%A9legos" title="élegos">élegos</a></li>
+<li><a href="/wiki/%C3%A9levage" title="élevage">élevage</a></li>
+<li><a href="/wiki/%C3%A9lfica" title="élfica">élfica</a></li>
+<li><a href="/wiki/%C3%A9lficas" title="élficas">élficas</a></li>
+<li><a href="/wiki/%C3%A9lfico" title="élfico">élfico</a></li>
+<li><a href="/wiki/%C3%A9lficos" title="élficos">élficos</a></li>
+<li><a href="/wiki/%C3%A9limination" title="élimination">élimination</a></li>
+<li><a href="/wiki/%C3%A9litisme" title="élitisme">élitisme</a></li>
+<li><a href="/wiki/%C3%A9litro" title="élitro">élitro</a></li>
+<li><a href="/wiki/%C3%A9litros" title="élitros">élitros</a></li>
+<li><a href="/wiki/%C3%A9loign%C3%A9" title="éloigné">éloigné</a></li>
+<li><a href="/wiki/%C3%A9loign%C3%A9e" title="éloignée">éloignée</a></li>
+<li><a href="/wiki/%C3%A9loquence" title="éloquence">éloquence</a></li>
+<li><a href="/wiki/%C3%A9lys%C3%A9e" title="élysée">élysée</a></li>
+<li><a href="/wiki/%C3%A9l%C3%A8ve" title="élève">élève</a></li>
+<li><a href="/wiki/%C3%A9l%C3%A9gantissime" title="élégantissime">élégantissime</a></li>
+<li><a href="/wiki/%C3%A9l%C3%A9gie" title="élégie">élégie</a></li>
+<li><a href="/wiki/%C3%A9l%C3%A9phant" title="éléphant">éléphant</a></li>
+<li><a href="/wiki/%C3%A9l%C3%A9phante" title="éléphante">éléphante</a></li>
+<li><a href="/wiki/%C3%A9l%C3%A9phanteau" title="éléphanteau">éléphanteau</a></li>
+<li><a href="/wiki/%C3%A9mail" title="émail">émail</a></li>
+<li><a href="/wiki/%C3%A9mailler" title="émailler">émailler</a></li>
+<li><a href="/wiki/%C3%A9mancipateur" title="émancipateur">émancipateur</a></li>
+<li><a href="/wiki/%C3%A9mancipation" title="émancipation">émancipation</a></li>
+<li><a href="/wiki/%C3%A9mbolo" title="émbolo">émbolo</a></li>
+<li><a href="/wiki/%C3%A9mbolos" title="émbolos">émbolos</a></li>
+<li><a href="/wiki/%C3%A9merger" title="émerger">émerger</a></li>
+<li><a href="/wiki/%C3%A9mi" title="émi">émi</a></li>
+<li><a href="/wiki/%C3%A9minentissime" title="éminentissime">éminentissime</a></li>
+<li><a href="/wiki/%C3%A9mission" title="émission">émission</a></li>
+<li><a href="/wiki/%C3%A9monder" title="émonder">émonder</a></li>
+<li><a href="/wiki/%C3%A9motionnel" title="émotionnel">émotionnel</a></li>
+<li><a href="/wiki/%C3%A9mouss%C3%A9" title="émoussé">émoussé</a></li>
+<li><a href="/wiki/%C3%A9mpo" title="émpo">émpo</a></li>
+<li><a href="/wiki/%C3%A9muka" title="émuka">émuka</a></li>
+<li><a href="/wiki/%C3%A9mulateur" title="émulateur">émulateur</a></li>
+<li><a href="/wiki/%C3%A9mulos" title="émulos">émulos</a></li>
+<li><a href="/wiki/%C3%A9nerg%C3%A9tique" title="énergétique">énergétique</a></li>
+<li><a href="/wiki/%C3%A9nerver" title="énerver">énerver</a></li>
+<li><a href="/wiki/%C3%A9nfasis" title="énfasis">énfasis</a></li>
+<li><a href="/wiki/%C3%A9nigmatique" title="énigmatique">énigmatique</a></li>
+<li><a href="/wiki/%C3%A9nigmatiquement" title="énigmatiquement">énigmatiquement</a></li>
+<li><a href="/wiki/%C3%A9nigme" title="énigme">énigme</a></li>
+<li><a href="/wiki/%C3%A9nonc%C3%A9" title="énoncé">énoncé</a></li>
+<li><a href="/wiki/%C3%A9norme" title="énorme">énorme</a></li>
+<li><a href="/wiki/%C3%A9norm%C3%A9ment" title="énormément">énormément</a></li>
+<li><a href="/wiki/%C3%A9ntasis" title="éntasis">éntasis</a></li>
+<li><a href="/wiki/%C3%A9ntrate" title="éntrate">éntrate</a></li>
+<li><a href="/wiki/%C3%A9ntrense" title="éntrense">éntrense</a></li>
+<li><a href="/wiki/%C3%A9ntrese" title="éntrese">éntrese</a></li>
+<li><a href="/wiki/%C3%A9on" title="éon">éon</a></li>
+<li><a href="/wiki/%C3%A9pa" title="épa">épa</a></li>
+<li><a href="/wiki/%C3%A9pais" title="épais">épais</a></li>
+<li><a href="/wiki/%C3%A9pale" title="épale">épale</a></li>
+<li><a href="/wiki/%C3%A9pargne" title="épargne">épargne</a></li>
+<li><a href="/wiki/%C3%A9pargner" title="épargner">épargner</a></li>
+<li><a href="/wiki/%C3%A9parsement" title="éparsement">éparsement</a></li>
+<li><a href="/wiki/%C3%A9patamment" title="épatamment">épatamment</a></li>
+<li><a href="/wiki/%C3%A9pater" title="épater">épater</a></li>
+<li><a href="/wiki/%C3%A9patez" title="épatez">épatez</a></li>
+<li><a href="/wiki/%C3%A9paule" title="épaule">épaule</a></li>
+<li><a href="/wiki/%C3%A9peler" title="épeler">épeler</a></li>
+<li><a href="/wiki/%C3%A9perdument" title="éperdument">éperdument</a></li>
+<li><a href="/wiki/%C3%A9ph%C3%A9m%C3%A8rement" title="éphémèrement">éphémèrement</a></li>
+<li><a href="/wiki/%C3%A9pica" title="épica">épica</a></li>
+<li><a href="/wiki/%C3%A9picamente" title="épicamente">épicamente</a></li>
+<li><a href="/wiki/%C3%A9picas" title="épicas">épicas</a></li>
+<li><a href="/wiki/%C3%A9pice" title="épice">épice</a></li>
+<li><a href="/wiki/%C3%A9picerie" title="épicerie">épicerie</a></li>
+<li><a href="/wiki/%C3%A9picier" title="épicier">épicier</a></li>
+<li><a href="/wiki/%C3%A9pico" title="épico">épico</a></li>
+<li><a href="/wiki/%C3%A9picos" title="épicos">épicos</a></li>
+<li><a href="/wiki/%C3%A9pigraphe" title="épigraphe">épigraphe</a></li>
+<li><a href="/wiki/%C3%A9pinard" title="épinard">épinard</a></li>
+<li><a href="/wiki/%C3%A9pingle" title="épingle">épingle</a></li>
+<li><a href="/wiki/%C3%A9pith%C3%A9lia" title="épithélia">épithélia</a></li>
+<li><a href="/wiki/%C3%A9pith%C3%A9lium" title="épithélium">épithélium</a></li>
+<li><a href="/wiki/%C3%A9pith%C3%A9liums" title="épithéliums">épithéliums</a></li>
+<li><a href="/wiki/%C3%A9plor%C3%A9" title="éploré">éploré</a></li>
+<li><a href="/wiki/%C3%A9poca" title="época">época</a></li>
+<li><a href="/wiki/%C3%A9pocas" title="épocas">épocas</a></li>
+<li><a href="/wiki/%C3%A9ponge" title="éponge">éponge</a></li>
+<li><a href="/wiki/%C3%A9pop%C3%A9e" title="épopée">épopée</a></li>
+<li><a href="/wiki/%C3%A9poque" title="époque">époque</a></li>
+<li><a href="/wiki/%C3%A9pouse" title="épouse">épouse</a></li>
+<li><a href="/wiki/%C3%A9pouvantablement" title="épouvantablement">épouvantablement</a></li>
+<li><a href="/wiki/%C3%A9poux" title="époux">époux</a></li>
+<li><a href="/wiki/%C3%A9preuve" title="épreuve">épreuve</a></li>
+<li><a href="/wiki/%C3%A9prouver" title="éprouver">éprouver</a></li>
+<li><a href="/wiki/%C3%A9psilon" title="épsilon">épsilon</a></li>
+<li><a href="/wiki/%C3%A9purer" title="épurer">épurer</a></li>
+<li><a href="/wiki/%C3%A9p%C3%A9e" title="épée">épée</a></li>
+<li><a href="/wiki/%C3%A9p%C3%A9e_b%C3%A2tarde" title="épée bâtarde">épée bâtarde</a></li>
+<li><a href="/wiki/%C3%A9quanimit%C3%A9" title="équanimité">équanimité</a></li>
+<li><a href="/wiki/%C3%A9quation" title="équation">équation</a></li>
+<li><a href="/wiki/%C3%A9quida" title="équida">équida</a></li>
+<li><a href="/wiki/%C3%A9quidas" title="équidas">équidas</a></li>
+<li><a href="/wiki/%C3%A9quidos" title="équidos">équidos</a></li>
+<li><a href="/wiki/%C3%A9quin" title="équin">équin</a></li>
+<li><a href="/wiki/%C3%A9quipage" title="équipage">équipage</a></li>
+<li><a href="/wiki/%C3%A9quite" title="équite">équite</a></li>
+<li><a href="/wiki/%C3%A9quit%C3%A9" title="équité">équité</a></li>
+<li><a href="/wiki/%C3%A9ra" title="éra">éra</a></li>
+<li><a href="/wiki/%C3%A9rable" title="érable">érable</a></li>
+<li><a href="/wiki/%C3%A9rable_champ%C3%AAtre" title="érable champêtre">érable champêtre</a></li>
+<li><a href="/wiki/%C3%A9rable_de_Montpellier" title="érable de Montpellier">érable de Montpellier</a></li>
+<li><a href="/wiki/%C3%A9rable_negundo" title="érable negundo">érable negundo</a></li>
+<li><a href="/wiki/%C3%A9radiquer" title="éradiquer">éradiquer</a></li>
+<li><a href="/wiki/%C3%A9raflure" title="éraflure">éraflure</a></li>
+<li><a href="/wiki/%C3%A9ramos" title="éramos">éramos</a></li>
+<li><a href="/wiki/%C3%A9ramos_pocos_y_pari%C3%B3_la_abuela" title="éramos pocos y parió la abuela">éramos pocos y parió la abuela</a></li>
+<li><a href="/wiki/%C3%A9rase_una_vez" title="érase una vez">érase una vez</a></li>
+<li><a href="/wiki/%C3%A9rrate" title="érrate">érrate</a></li>
+<li><a href="/wiki/%C3%A9rrense" title="érrense">érrense</a></li>
+<li><a href="/wiki/%C3%A9ructation" title="éructation">éructation</a></li>
+<li><a href="/wiki/%C3%A9s" title="és">és</a></li>
+<li><a href="/wiki/%C3%A9sa" title="ésa">ésa</a></li>
+<li><a href="/wiki/%C3%A9sas" title="ésas">ésas</a></li>
+<li><a href="/wiki/%C3%A9se" title="ése">ése</a></li>
+<li><a href="/wiki/%C3%A9skua" title="éskua">éskua</a></li>
+<li><a href="/wiki/%C3%A9sophage" title="ésophage">ésophage</a></li>
+<li><a href="/wiki/%C3%A9sos" title="ésos">ésos</a></li>
+<li><a href="/wiki/%C3%A9sta" title="ésta">ésta</a></li>
+<li><a href="/wiki/%C3%A9stas" title="éstas">éstas</a></li>
+<li><a href="/wiki/%C3%A9ste" title="éste">éste</a></li>
+<li><a href="/wiki/%C3%A9sto" title="ésto">ésto</a></li>
+<li><a href="/wiki/%C3%A9stos" title="éstos">éstos</a></li>
+<li><a href="/wiki/%C3%A9sulas" title="ésulas">ésulas</a></li>
+<li><a href="/wiki/%C3%A9tablissement" title="établissement">établissement</a></li>
+<li><a href="/wiki/%C3%A9tain" title="étain">étain</a></li>
+<li><a href="/wiki/%C3%A9tait" title="était">était</a></li>
+<li><a href="/wiki/%C3%A9teint" title="éteint">éteint</a></li>
+<li><a href="/wiki/%C3%A9tendu" title="étendu">étendu</a></li>
+<li><a href="/wiki/%C3%A9ter" title="éter">éter</a></li>
+<li><a href="/wiki/%C3%A9ternit%C3%A9" title="éternité">éternité</a></li>
+<li><a href="/wiki/%C3%A9ternuement" title="éternuement">éternuement</a></li>
+<li><a href="/wiki/%C3%A9ternuer" title="éternuer">éternuer</a></li>
+<li><a href="/wiki/%C3%A9tica" title="ética">ética</a></li>
+<li><a href="/wiki/%C3%A9ticamente" title="éticamente">éticamente</a></li>
+<li><a href="/wiki/%C3%A9ticas" title="éticas">éticas</a></li>
+<li><a href="/wiki/%C3%A9tico" title="ético">ético</a></li>
+<li><a href="/wiki/%C3%A9ticos" title="éticos">éticos</a></li>
+<li><a href="/wiki/%C3%A9timo" title="étimo">étimo</a></li>
+<li><a href="/wiki/%C3%A9timos" title="étimos">étimos</a></li>
+<li><a href="/wiki/%C3%A9tiologique" title="étiologique">étiologique</a></li>
+<li><a href="/wiki/%C3%A9tnica" title="étnica">étnica</a></li>
+<li><a href="/wiki/%C3%A9tnicas" title="étnicas">étnicas</a></li>
+<li><a href="/wiki/%C3%A9tnico" title="étnico">étnico</a></li>
+<li><a href="/wiki/%C3%A9tnicos" title="étnicos">étnicos</a></li>
+<li><a href="/wiki/%C3%A9toile" title="étoile">étoile</a></li>
+<li><a href="/wiki/%C3%A9touffer" title="étouffer">étouffer</a></li>
+<li><a href="/wiki/%C3%A9trange" title="étrange">étrange</a></li>
+<li><a href="/wiki/%C3%A9tranger" title="étranger">étranger</a></li>
+<li><a href="/wiki/%C3%A9trangissime" title="étrangissime">étrangissime</a></li>
+<li><a href="/wiki/%C3%A9treindre" title="étreindre">étreindre</a></li>
+<li><a href="/wiki/%C3%A9troit" title="étroit">étroit</a></li>
+<li><a href="/wiki/%C3%A9troitesse" title="étroitesse">étroitesse</a></li>
+<li><a href="/wiki/%C3%A9troitissime" title="étroitissime">étroitissime</a></li>
+<li><a href="/wiki/%C3%A9tui" title="étui">étui</a></li>
+<li><a href="/wiki/%C3%A9tymologie" title="étymologie">étymologie</a></li>
+<li><a href="/wiki/%C3%A9tymologiquement" title="étymologiquement">étymologiquement</a></li>
+<li><a href="/wiki/%C3%A9t%C3%A9" title="été">été</a></li>
+<li><a href="/wiki/%C3%A9uscaro" title="éuscaro">éuscaro</a></li>
+<li><a href="/wiki/%C3%A9uscaros" title="éuscaros">éuscaros</a></li>
+<li><a href="/wiki/%C3%A9ustilos" title="éustilos">éustilos</a></li>
+<li><a href="/wiki/%C3%A9valuation" title="évaluation">évaluation</a></li>
+<li><a href="/wiki/%C3%A9vasion" title="évasion">évasion</a></li>
+<li><a href="/wiki/%C3%A9ventuellement" title="éventuellement">éventuellement</a></li>
+<li><a href="/wiki/%C3%A9videmment" title="évidemment">évidemment</a></li>
+<li><a href="/wiki/%C3%A9volution" title="évolution">évolution</a></li>
+<li><a href="/wiki/%C3%A9v%C3%A9nement" title="événement">événement</a></li>
+<li><a href="/wiki/%C3%A9v%C3%AAque" title="évêque">évêque</a></li>
+<li><a href="/wiki/%C3%A9xito" title="éxito">éxito</a></li>
+<li><a href="/wiki/%C3%A9xitos" title="éxitos">éxitos</a></li>
+<li><a href="/wiki/%C3%A9xodo" title="éxodo">éxodo</a></li>
+<li><a href="/wiki/%C3%A9xodos" title="éxodos">éxodos</a></li>
+<li><a href="/wiki/%C3%A9xtasis" title="éxtasis">éxtasis</a></li>
+<li><a href="/wiki/%C3%AAsse" title="êsse">êsse</a></li>
+<li><a href="/wiki/%C3%AAtre" title="être">être</a></li>
+<li><a href="/wiki/%C3%AAtre_d%27accord" title="être d&#039;accord">être d&#039;accord</a></li>
+<li><a href="/wiki/%C3%AAtre_debout" title="être debout">être debout</a></li>
+<li><a href="/wiki/%C3%AAtre_tout_ou%C3%AFe" title="être tout ouïe">être tout ouïe</a></li>
+<li><a href="/wiki/%C3%AAtre_%C3%A0" title="être à">être à</a></li>
+<li><a href="/wiki/%C3%AAxito" title="êxito">êxito</a></li>
+<li><a href="/wiki/%C3%AB" title="ë">ë</a></li>
+<li><a href="/wiki/%C3%ABni" title="ëni">ëni</a></li>
+<li><a href="/wiki/%C3%ABv" title="ëv">ëv</a></li>
+<li><a href="/wiki/%C3%AB%CC%81%C3%ADsi" title="ë́ísi">ë́ísi</a></li>
+<li><a href="/wiki/%C3%ACb%C3%A1tan" title="ìbátan">ìbátan</a></li>
+<li><a href="/wiki/%C3%ACb%C3%A8b%C3%A8" title="ìbèbè">ìbèbè</a></li>
+<li><a href="/wiki/%C3%ACb%C3%A9%C3%A8r%C3%A8" title="ìbéèrè">ìbéèrè</a></li>
+<li><a href="/wiki/%C3%ACdar%C3%BAgb%C3%B3%C3%ACd%C3%A0gb%C3%A0gb%C3%B3%C3%AChew%C3%BA" title="ìdarúgbóìdàgbàgbóìhewú">ìdarúgbóìdàgbàgbóìhewú</a></li>
+<li><a href="/wiki/%C3%ACdun" title="ìdun">ìdun</a></li>
+<li><a href="/wiki/%C3%ACd%C3%ADl%C3%A9" title="ìdílé">ìdílé</a></li>
+<li><a href="/wiki/%C3%ACf%C3%A0y%C3%A0_bal%C3%A8" title="ìfàyà balè">ìfàyà balè</a></li>
+<li><a href="/wiki/%C3%ACf%C3%B2y%C3%A0" title="ìfòyà">ìfòyà</a></li>
+<li><a href="/wiki/%C3%ACgbako" title="ìgbako">ìgbako</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A0_ogb%C3%B2" title="ìgbà ogbò">ìgbà ogbò</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A0_r%C3%ADr%C3%BA_ew%C3%A9" title="ìgbà rírú ewé">ìgbà rírú ewé</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A0_%C3%A9r%C3%B9n%C3%ACgb%C3%A0_oru" title="ìgbà érùnìgbà oru">ìgbà érùnìgbà oru</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A0_%C3%B2t%C3%BAt%C3%B9" title="ìgbà òtútù">ìgbà òtútù</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A0_%C3%B3t%C3%A9%C3%A0k%C3%B3k%C3%B2_kanl%C3%AD_od%C3%BAn%C3%ACda%C3%A0y%C3%ADiwoyi" title="ìgbà ótéàkókò kanlí odúnìdaàyíiwoyi">ìgbà ótéàkókò kanlí odúnìdaàyíiwoyi</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A0%C3%A0k%C3%B3k%C3%B2%C3%A0s%C3%ACk%C3%B2%C3%ACday%C3%AC%C3%AD" title="ìgbààkókòàsìkòìdayìí">ìgbààkókòàsìkòìdayìí</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%A9s%C3%AD_ay%C3%A9" title="ìgbésí ayé">ìgbésí ayé</a></li>
+<li><a href="/wiki/%C3%ACgb%C3%B3n" title="ìgbón">ìgbón</a></li>
+<li><a href="/wiki/%C3%ACg%C3%A0nn%C3%A1" title="ìgànná">ìgànná</a></li>
+<li><a href="/wiki/%C3%ACj%C3%A0" title="ìjà">ìjà</a></li>
+<li><a href="/wiki/%C3%ACj%C3%AC%C3%A9f%C3%BAfu_l%C3%ADle%C3%ACkol%C3%B9" title="ìjìéfúfu líleìkolù">ìjìéfúfu líleìkolù</a></li>
+<li><a href="/wiki/%C3%ACj%C3%ADm%C3%A8r%C3%A8" title="ìjímèrè">ìjímèrè</a></li>
+<li><a href="/wiki/%C3%ACka" title="ìka">ìka</a></li>
+<li><a href="/wiki/%C3%ACka_%E1%BA%B9s%E1%BA%B9%CC%80" title="ìka ẹsẹ̀">ìka ẹsẹ̀</a></li>
+<li><a href="/wiki/%C3%ACka_%E1%BB%8Dw%E1%BB%8D%CC%81" title="ìka ọwọ́">ìka ọwọ́</a></li>
+<li><a href="/wiki/%C3%ACkok%C3%B2" title="ìkokò">ìkokò</a></li>
+<li><a href="/wiki/%C3%ACk%C3%ADrun" title="ìkírun">ìkírun</a></li>
+<li><a href="/wiki/%C3%ACk%C3%BA%C3%B9k%C3%B9%C3%A0w%C3%B3-s%C3%A1nm%C3%A0" title="ìkúùkùàwó-sánmà">ìkúùkùàwó-sánmà</a></li>
+<li><a href="/wiki/%C3%AClet%C3%B2ab%C3%BAl%C3%A9" title="ìletòabúlé">ìletòabúlé</a></li>
+<li><a href="/wiki/%C3%AClu" title="ìlu">ìlu</a></li>
+<li><a href="/wiki/%C3%ACl%C3%BA" title="ìlú">ìlú</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=%C3%A1perk-k%27%C3%A9jek" title="Especial:Todas">Página anterior (áperk-k&#039;éjek)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=%C3%ACl%C3%BA+%C5%84l%C3%A1" title="Especial:Todas">Página siguiente (ìlú ńlá)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3D%25C3%25A9" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3D%25C3%25A9" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=%C3%A9" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=%C3%A9&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=%C3%A9&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":530,"wgHostname":"mw1250"});});</script></body></html>

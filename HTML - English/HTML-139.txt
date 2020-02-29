@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Editing Medieval Latin - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgQCwpAMNYAA3lTR8QAAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Medieval_Latin","wgTitle":"Medieval Latin","wgCurRevisionId":940612536,"wgRevisionId":0,"wgArticleId":898044,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Medieval_Latin","wgRelevantArticleId":898044,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgEditMessage":"editing","wgAjaxEditStash":!0,"wgEditSubmitButtonLabelPublish":!0,"wgCentralAuthMobileDomain":!1};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.wikiEditor.styles":"ready","mediawiki.action.edit.styles":"ready","mediawiki.editfont.styles":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready",
+"oojs-ui-core.icons":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.charinsert.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.wikiEditor","ext.TemplateWizard","mediawiki.action.edit","mediawiki.action.edit.editWarning","wikibase.client.action.edit.collapsibleFooter","mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.charinsert","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.CodeMirror","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.charinsert.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.action.edit.styles%7Cmediawiki.editfont.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.wikiEditor.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.20"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/3/36/Carmina_Cantabrigiensia_Manuscr-C-fol436v.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Medieval_Latin&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Medieval_Latin&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Medieval_Latin"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Medieval_Latin rootpage-Medieval_Latin skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Editing Medieval Latin</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><div class="mw-editnotice-notext"><div class="editnotice-link editnotice-redlink sysop-show templateeditor-show extendedmover-show" style="clear: both; float: right; margin: 0px 0.8em; padding: 0; line-height: 1em; display: none;"> <small><a href="/w/index.php?title=Template:Editnotices/Page/Medieval_Latin&amp;action=edit&amp;redlink=1" class="new" title="Template:Editnotices/Page/Medieval Latin (page does not exist)">Page notice</a></small> </div></div><div id="mw-anon-edit-warning" class="warningbox">
+<div class="floatleft"><img alt="AnonEditWarning.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/de/AnonEditWarning.svg/9px-AnonEditWarning.svg.png" decoding="async" width="9" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/de/AnonEditWarning.svg/13px-AnonEditWarning.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/de/AnonEditWarning.svg/18px-AnonEditWarning.svg.png 2x" data-file-width="9" data-file-height="20" /></div> <span style="color:#d33; font-weight:bold;">You are not logged in.</span> Your <a href="/wiki/IP_address" title="IP address">IP address</a> will be publicly visible if you make any edits. If you <span class="plainlinks"><b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=Medieval_Latin">log in</a></b> or <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&amp;campaign=anoneditwarning&amp;returnto=Medieval_Latin">create an account</a></b></span>, your edits will be attributed to a user name, among <a href="/wiki/Wikipedia:Why_create_an_account%3F" title="Wikipedia:Why create an account?">other benefits</a>.
+</div><div class="editpage-head-copywarn">
+<p><i>Content that <a href="/wiki/Wikipedia:Copyright_violations" title="Wikipedia:Copyright violations">violates any copyrights</a> will be deleted. Encyclopedic content must be <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">verifiable</a>. Work submitted to Wikipedia can be edited, used, and redistributed—by anyone—subject to <a href="/wiki/Wikipedia:Reusing_Wikipedia_content" title="Wikipedia:Reusing Wikipedia content">certain terms and conditions</a>.</i>
+</p>
+</div><div id="wikiPreview" class="ontop" style="display: none;"><div lang="en" dir="ltr" class="mw-content-ltr"></div></div><form class="mw-editform" id="editform" name="editform" method="post" action="/w/index.php?title=Medieval_Latin&amp;action=submit" enctype="multipart/form-data"><input type="hidden" value="ℳ𝒲♥𝓊𝓃𝒾𝒸ℴ𝒹ℯ" name="wpUnicodeCheck"/><div id="antispam-container" style="display: none;"><label for="wpAntispam">Anti-spam check.
+Do <strong>not</strong> fill this in!</label><input type="text" name="wpAntispam" id="wpAntispam" value="" /></div>
+<input type="hidden" value="940612536" name="baseRevId"/>
+<input type="hidden" value="0" name="altBaseRevId"/>
+<input type="hidden" value="0" name="undidRev"/><input type="hidden" name="editingStatsId" id="editingStatsId" value="242522a2482c6bb4590ded31f5ad21c0" /><input type="hidden" name="wpSection"/><input type="hidden" value="20200227185259" name="wpStarttime"/><input type="hidden" value="20200213160044" name="wpEdittime"/><input type="hidden" value="940612536" name="editRevId"/><input id="wpScrolltop" type="hidden" name="wpScrolltop"/><input type="hidden" value="d41d8cd98f00b204e9800998ecf8427e" name="wpAutoSummary"/><input type="hidden" value="0" name="oldid"/><input type="hidden" value="940612536" name="parentRevId"/><input type="hidden" value="text/x-wiki" name="format"/><input type="hidden" value="wikitext" name="model"/><textarea tabindex="1" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">{{short description|Form of Latin used in the Middle Ages}}
+{{refimprove|date= May 2013}}
+{{Use dmy dates|date= November 2015}}
+{{Infobox language
+|name                 = Medieval Latin
+|nativename           = LINGVA LATINA&lt;br>lingua latina&lt;br>Lingua Latina
+|region               = Most of Europe
+|states               = Numerous small states
+|nation               = ''De facto'' in most Catholic and/or [[Romance languages|Romance]]-speaking states during the Middle Ages
+|script               = [[Latin alphabet]]&amp;nbsp;&lt;!--&amp;nbsp; needed to prevent default link to Latin script-->
+|era                  = Developed from [[Late Latin]] between 4th and 10th centuries; replaced by [[Renaissance Latin]] from the 14th century
+|familycolor          = Indo-European
+|fam2                 = [[Italic languages |Italic]]
+|image                = Carmina Cantabrigiensia Manuscr-C-fol436v.jpg
+|imagesize            = 250px
+|imagecaption         = [[Carmina Cantabrigiensia]], Medieval Latin manuscript
+|map                  = Europe 1000.jpg
+|mapcaption           = Europe, 1000 AD
+|fam3                 = [[Latino-Faliscan languages| Latino-Faliscan]]
+|fam4                 = [[Latin]]
+|ancestor             = [[Old Latin]]
+|ancestor2            = [[Classical Latin]]
+|ancestor3            = [[Late Latin]]
+|iso3                 =
+|isoexception         = historical
+|linglist             = lat-med
+|glotto=none
+}}
+
+'''Medieval Latin''' was the form of [[Latin]] used in [[Roman Catholic Church|Roman Catholic]] [[Western Europe]] during the [[Middle Ages]]. In this region it served as the primary written language, though local languages were also written to varying degrees. Latin functioned as the main medium of scholarly exchange, as the [[liturgical language]] of the [[Roman Catholic Church|Church]], and as the working language of science, literature, law, and administration.
+
+Medieval Latin represented, in essence, a continuation of [[Classical Latin]] and [[Late Latin]], with enhancements for new concepts as well as for the increasing integration of Christianity. Despite some meaningful differences from Classical Latin, Medieval writers did not regard it as a fundamentally different language. There is no real consensus on the exact boundary where [[Late Latin]] ends and Medieval Latin begins. Some scholarly surveys begin with the rise of early [[Ecclesiastical Latin]] in the middle of the 4th century, others around 500,&lt;ref>{{citation|first= Jan M.|last= Ziolkowski|contribution= Towards a History of Medieval Latin Literature|editor-first= F. A. C. |editor-last= Mantello|editor2-first= A. G. |editor2-last= Rigg|editorlink2=A. G. Rigg |title= Medieval Latin: An Introduction and Bibliographical Guide|location= Washington, D.C.|year= 1996|pages= 505-536 (pp. 510-511)}}&lt;/ref> and still others with the replacement of written Late Latin by written [[Romance language]]s starting around the year 900.
+
+The terms ''Medieval Latin'' and ''Ecclesiastical Latin'' are often used synonymously, though some scholars draw distinctions. ''Ecclesiastical Latin'' refers specifically to the form that has been used by the [[Roman Catholic Church]], whereas ''Medieval Latin'' refers more broadly to all of the (written) forms of Latin used in the Middle Ages. The [[Romance languages]] spoken in the Middle Ages were often referred to as ''Latin'', since the Romance languages were all descended from [[Vulgar Latin]] itself.&lt;ref>{{Cite news|url=https://www.britannica.com/topic/Romance-languages|title=Romance languages|work=Encyclopedia Britannica|access-date=2018-11-27|language=en}}&lt;/ref>
+
+==Influences==
+
+===Christian Latin===
+Medieval Latin had an enlarged vocabulary, which freely borrowed from other sources. It was heavily influenced by the language of the [[Vulgate]], which contained many peculiarities alien to Classical Latin that resulted from a more or less direct translation from [[Greek language|Greek]] and [[Hebrew]]; the peculiarities mirrored the original not only in its vocabulary but also in its grammar and syntax. [[Greek language|Greek]] provided much of the technical vocabulary of [[Christianity]]. The various [[Germanic languages]] spoken by the Germanic tribes, who invaded southern Europe, were also major sources of new words. Germanic leaders became the rulers of parts of the Roman Empire that they conquered, and words from their languages were freely imported into the vocabulary of law. Other more ordinary words were replaced by coinages from [[Vulgar Latin]] or Germanic sources because the classical words had fallen into disuse.
+
+[[File:MilanBTCod470BookOfHours2FoliosAnnuncShepherdsDecortatedInit2.jpg|thumb|upright=1.3|left|An [[illuminated manuscript]] of a [[Book of Hours (Milan, Biblioteca Trivulziana, Cod. 470)|Book of Hours]] contains prayers in medieval Latin.]]
+
+Latin was also spread to areas such as [[Ireland]] and [[Germany]], where [[Romance languages]] were not spoken, and which had never known [[Roman Empire|Roman]] rule. Works written in those lands where Latin was a learned language, having no relation to the local vernacular, also influenced the vocabulary and syntax of medieval Latin.
+
+Since subjects like science and philosophy, including [[Argumentation theory]] and [[Ethics]] (pre-law), were communicated in Latin, the Latin vocabulary that developed for them became the source of a great many technical words in modern languages. English words like ''abstract'', ''subject'', ''communicate'', ''matter'', ''probable'' and their [[cognates]] in other European languages generally have the meanings given to them in medieval Latin.&lt;ref>J. Franklin, [http://www.maths.unsw.edu.au/~jim/mental.pdf Mental furniture from the philosophers], ''Et Cetera''  40 (1983), 177-91.&lt;/ref>
+
+===Vulgar Latin===
+The influence of [[Vulgar Latin]] was also apparent in the [[syntax]] of some medieval Latin writers, although Classical Latin continued to be held in high esteem and studied as models for literary compositions. The high point of the development of medieval Latin as a literary language came with the [[Carolingian renaissance]], a rebirth of learning kindled under the patronage of [[Charlemagne]], king of the [[Franks]]. [[Alcuin]] was Charlemagne's Latin secretary and an important writer in his own right; his influence led to a rebirth of Latin literature and learning after the depressed period following the final disintegration of the authority of the Western Roman Empire.
+
+Although it was simultaneously developing into the Romance languages, Latin itself remained very conservative, as it was no longer a native language and there were many ancient and medieval grammar books to give one standard form. On the other hand, strictly speaking there was no single form of "medieval Latin". Every Latin author in the medieval period spoke Latin as a second language, with varying degrees of fluency and syntax. Grammar and vocabulary, however, were often influenced by an author's native language. This was especially true beginning around the 12th century, after which the language became increasingly adulterated: late medieval Latin documents written by French speakers tend to show similarities to medieval French grammar and vocabulary; those written by Germans tend to show similarities to German, etc. For instance, rather than following the classical Latin practice of generally placing the verb at the end, medieval writers would often follow the conventions of their own native language instead. Whereas Latin had no definite or indefinite articles, medieval writers sometimes used forms of ''unus'' as an indefinite article, and forms of ''ille'' (reflecting usage in the Romance languages) as a definite article or even ''quidam'' (meaning "a certain one/thing" in Classical Latin) as something like an article. Unlike classical Latin, where ''esse'' ("to be") was the only auxiliary verb, medieval Latin writers might use ''habere'' ("to have") as an auxiliary, similar to constructions in Germanic and Romance languages. The [[accusative and infinitive]] construction in classical Latin was often replaced by a subordinate clause introduced by ''quod'' or ''quia''. This is almost identical, for example, to the use of ''que'' in similar constructions in French.
+
+In every age from the late 8th century onwards, there were learned writers (especially within the Church) who were familiar enough with classical [[syntax]] to be aware that these forms and usages were "wrong" and resisted their use. Thus the Latin of a theologian like St [[Thomas Aquinas]] or of an erudite clerical historian such as [[William of Tyre]] tends to avoid most of the characteristics described above, showing its period in vocabulary and spelling alone; the features listed are much more prominent in the language of lawyers (e.g. the 11th century English [[Domesday Book]]), physicians, technical writers and secular chroniclers. However the use of ''quod'' to introduce subordinate clauses was especially pervasive and is found at all levels.&lt;ref name=":0" />
+
+==Changes in vocabulary, syntax, and grammar==
+
+Medieval Latin had ceased to be a living language and was instead a scholarly language of the minority of educated men in medieval Europe, used in official documents more than for everyday communication. This resulted in two major features of Medieval Latin compared with Classical Latin, though when it is compared to the other vernacular languages, Medieval Latin developed very few changes.&lt;ref name=":0">{{Cite book|title=Medieval Latin: An Introduction and Bibliographical Guide|last=Mantello, F. A. C.|first=Rigg, A. G.|publisher=The Catholic University of America Press|year=1996|isbn=0813208416|location=United States of America|pages=85}}&lt;/ref> There are many prose constructions written by authors of this period that can be considered "showing off" a knowledge of Classical or Old Latin by the use of rare or archaic forms and sequences. Though they had not existed together historically, it is common that an author would use grammatical ideas of the two periods Republican and archaic, placing them equally in the same sentence. As well, many undistinguished scholars had limited educations of "proper" Latin, or had been influenced in their writings by Vulgar Latin.
+
+*Word order usually tended towards that of the vernacular language of the author, not the artificial and polished word order of Classical Latin. Conversely, an erudite scholar might attempt to "show off" by intentionally constructing a very complicated sentence. Because Latin is an inflected language, it is technically possible to place related words at opposite ends of a paragraph-long sentence, and owing to the complexity of doing so, it was seen by some as a sign of great skill.
+*Typically, prepositions are used much more frequently (as in modern Romance languages) for greater clarity, instead of using the ablative case alone. Further, in Classical Latin the subject of a verb was often left implied, unless it was being stressed: ''videt'' = "he sees". For clarity, Medieval Latin more frequently includes an explicit subject: ''is videt'' = "he sees" without necessarily stressing the subject.
+*Various changes occurred in vocabulary, and certain words were mixed into different declensions or conjugations. Many new compound verbs were formed. Some words retained their original structure but drastically changed in meaning: ''animositas'' specifically means "wrath" in Medieval Latin while in Classical Latin, it generally referred to "high spirits, excited spirits" of any kind.
+*Owing to heavy use of biblical terms, there was a large influx of new words borrowed from Greek and Hebrew and even some grammatical influences. That obviously largely occurred among priests and scholars, not the laity. In general, it is difficult to express abstract concepts in Latin, as many scholars admitted. For example, Plato's abstract concept of "the Truth" had to be expressed in Latin as "what is always true". Medieval scholars and theologians, translating both the Bible and Greek philosophers into Latin out of the Koine and Classical Greek, cobbled together many new abstract concept words in Latin.
+
+===Syntax===
+*Indirect discourse, which in Classical Latin was achieved by using a subject accusative and infinitive, was now often simply replaced by new conjunctions serving the function of English "that" such as ''quod'', ''quia'', or ''quoniam''. There was a high level of overlap between the old and new constructions, even within the same author's work, and it was often a matter of preference. A particularly famous and often cited example is from the [[Venerable Bede]], using both constructions within the same sentence: "''Dico me scire et quod sum ignobilis''" = "I say that I know [accusative and infinitive] and that I am unknown [new construction]". The resulting subordinate clause often used the subjunctive mood instead of the indicative. This new syntax for indirect discourse is among the most prominent features of Medieval Latin, the largest syntactical change.
+*Several substitutions were often used instead of subjunctive clause constructions. They did not break the rules of Classical Latin but were an alternative way to express the same meaning, avoiding the use of a subjunctive clause.
+**The present participle was frequently used adverbially in place of ''qui'' or ''cum'' clauses, such as clauses of time, cause, concession, and purpose. That was loosely similar to the use of the present participle in an ablative absolute phrase, but the participle did not need to be in the ablative case.
+**''Habeo'' (I have [to]) and "Debeo" (I must) would be used to express obligation more often than the gerundive.
+***Given that obligation inherently carries a sense of futurity ("Carthage must be destroyed" at some point in the future), it anticipates how the Romance languages such as French would use "habeo" as the basis for their [[future tense]]s (abandoning the Latin forms of the future tense).  While in Latin "amare habeo" is the indirect discourse "I have to love", in the French equivalent,"aimerai" (habeo > ayyo > ai, aimer+ai), it has become the future tense, "I shall love", losing the sense of obligation. In Medieval Latin, however, it was still indirect discourse and not yet used as simply a future tense.
+**Instead of a clause introduced by ''ut'' or ''ne'', an infinitive was often used with a verb of hoping, fearing, promising, etc.
+*Conversely, some authors might haphazardly switch between the subjunctive and indicative forms of verbs, with no intended difference in meaning.
+*The usage of ''sum'' changed significantly: it was frequently omitted or implied. Further, many medieval authors did not feel that it made sense for the perfect passive construction "''laudatus sum''" to use the present tense of ''esse'' in a past tense construction so they began using ''fui'', the past perfect of ''sum'', interchangeably with ''sum''.
+*Chaos in the usage of demonstrative pronouns. ''Hic'', ''ille'', ''iste'', and even the intensive ''ipse'' are often used virtually interchangeably. In anticipation of Romance languages, ''hic'' and ''ille'' were also frequently used simply to express the definite article "the", which Classical Latin did not possess. ''Unus'' was also used for the indefinite article "a, an".
+*Use of reflexives became much looser. A reflexive pronoun in a subordinate clause might refer to the subject of the main clause. The reflexive possessive ''suus'' might be used in place of a possessive genitive such as ''eius''.
+*Comparison of adjectives changed somewhat. The comparative form was sometimes used with positive or superlative meaning. Also, the adverb "magis" was often used with a positive adjective to indicate a comparative meaning,and ''multum'' and ''nimis'' could be used with a positive form of adjective to give a superlative meaning.
+*Classical Latin used the ablative absolute, but as stated above, in Medieval Latin examples of nominative absolute or accusative absolute may be found. This was a point of difference between the ecclesiastical Latin of the clergy and the "Vulgar Latin" of the laity, which existed alongside it. The educated clergy mostly knew that traditional Latin did not use the nominative or accusative case in such constructions, but only the ablative case. These constructions are observed in the medieval era, but they are changes that developed among the uneducated commoners.
+*Classical Latin does not distinguish progressive action in the present tense, thus ''laudo'' can mean either "I praise" or "I am praising". In imitation of Greek, Medieval Latin could use a present participle with ''sum'' to form a [[periphrastic]] tense equivalent to the English progressive. This "Greek Periphrastic Tense" formation could also be done in the past and future tenses: ''laudans sum'' ("I am praising"), ''laudans eram'' ("I was praising"), ''laudans ero'' ("I shall be praising").
+*Classical Latin verbs had at most two voices, active and passive, but Greek (the original language of the New Testament) had an additional "middle voice" (or reflexive voice). One use was to express when the subject is acting upon itself:  "Achilles put the armor onto himself" or "Jesus clothed himself in the robe" would use the middle voice. Because Latin had no middle voice, Medieval Latin expresses such sentences by putting the verb in the passive voice form, but the conceptual meaning is active (similar to Latin deponent verbs). For example, the Medieval Latin translation of Genesis states literally, "God was moved over the waters" ("spiritus Dei ferebatur super aquas", Genesis 1:2), but it is just expressing a Greek middle-voice verb: "God moved ''[himself]'' over the waters".
+*Overlapping with orthography differences (see below), certain diphthongs were sometimes shortened:  "oe" to "e", and "ae" to "e". Thus, "oecumenicus" becomes the more familiar "ecumenicus" (more familiar in this later form because religious terms such as "ecumenical" were more common in medieval Latin). The "oe" diphthong is not particularly frequent in Latin, but the shift from "ae" to "e" affects many common words, such as "caelum" (heaven) being shortened to "celum"; even "puellae" (girls) was shortened to "puelle".
+*Often, a town would lose its name to that of the tribe which was either accusative or ablative plural; two forms that were then used for all cases, or in other words, considered "indeclinable".&lt;ref name=":1">{{Cite book|title=A Primer of Medieval Latin: an anthology of prose and poetry|last=Beeson|first=Charles Henry|date=|publisher=Catholic University of America Press|others=|year=1986|isbn=0813206359|location=Washington, D.C.|pages=}}&lt;/ref>
+{{clarify |date=October 2019 |reason= meaning unclear}}
+
+==Orthography==
+[[File:Prüfeninger Weiheinschrift. Pic 01.jpg|thumb|upright=1.15|The [[Prüfening dedicatory inscription]] of 1119, composed in medieval Latin.]]
+
+Many striking differences between classical and medieval Latin are found in [[orthography]]. Perhaps the most striking difference is that medieval manuscripts used a wide range of abbreviations by means of superscripts, special characters etc.: for instance the letters "n" and "s" were often omitted and replaced by a diacritical mark above the preceding or following letter. Apart from this, some of the most frequently occurring differences are as follows. Clearly many of these would have been influenced by the spelling, and indeed pronunciation&lt;ref name=":1" />, of the vernacular language, and thus varied between different European countries.
+
+*Following the Carolingian reforms of the 9th century, [[Carolingian minuscule]] was widely adopted, leading to a clear differentiation between capital and lowercase letters.
+*A partial or full differentiation between ''v'' and ''u'', and between ''j'' and ''i''.
+*The diphthong ''ae'' is usually collapsed and simply written as ''e'' (or ''[[e caudata]]'', ''ę''); for example, ''puellae'' might be written ''puelle'' (or ''puellę''). The same happens with the diphthong ''oe'', for example in ''pena'', ''Edipus'', from ''poena'', ''Oedipus''. This feature is already found on coin inscriptions of the 4th century (e.g. ''reipublice'' for ''reipublicae''). Conversely, an original ''e'' in Classical Latin was often represented by ''ae'' or ''oe'' (e.g. ''aecclesia'' and ''coena''), also reflected in English spellings such as ''foetus''.
+*Because of a severe decline in the knowledge of Greek, in loanwords and foreign names from or transmitted through Greek, ''y'' and ''i'' might be used more or less interchangeably: ''Ysidorus'', ''Egiptus'', from ''Isidorus'', ''Aegyptus''. This is also found in pure Latin words: ''ocius'' ("more swiftly") appears as ''ocyus'' and ''silva'' as ''sylva'', this last being a form which survived into the 18th century and so became embedded in modern [[botanical Latin]] (also cf. ''Pennsylvania'').
+*''h'' might be lost, so that ''habere'' becomes ''abere'', or ''mihi'' becomes ''mi'' (the latter also occurred in Classical Latin); or ''mihi'' may be written ''michi'', indicating that the ''h'' had come to be pronounced as ''k'' or perhaps ''kh''. This pronunciation is not found in Classical Latin.
+*The loss of ''h'' in pronunciation also led to the addition of ''h'' in writing where it did not previously belong, especially in the vicinity of ''r'', such as ''chorona'' for ''corona'', a tendency also sometimes seen in Classical Latin.
+*''-ti-'' before a vowel is often written as ''-ci-'' [tsi], so that ''divitiae'' becomes ''diviciae'' (or ''divicie''), ''tertius'' becomes ''tercius'', ''vitium'' ''vicium''.
+*The combination ''mn'' might have another plosive inserted, so that ''alumnus'' becomes ''alumpnus'', ''somnus'' ''sompnus''.
+*Single consonants were often doubled, or vice versa, so that ''tranquillitas'' becomes ''tranquilitas'' and ''Africa'' becomes ''Affrica''.
+*Syncopation became more frequent:  ''vi'', especially in verbs in the perfect tense, might be lost, so that ''novisse'' becomes ''nosse'' (this occurred in Classical Latin as well but was much more frequent in medieval Latin).
+
+These orthographical differences were often due to changes in pronunciation or, as in the previous example, morphology, which authors reflected in their writing. By the 16th century, [[Erasmus]] complained that speakers from different countries were unable to understand each other's form of Latin.&lt;ref>See Desiderius Erasmus, ''De recta Latini Graecique sermonis pronunciatione dialogus'', Basel (Frobenius), 1528.&lt;/ref>
+
+The gradual changes in Latin did not escape the notice of contemporaries. [[Petrarch]], writing in the 14th century, complained about this linguistic "decline", which helped fuel his general dissatisfaction with his own era.
+
+==Medieval Latin literature==
+The corpus of medieval Latin literature encompasses a wide range of texts, including such diverse works as [[sermons]], [[hymns]], [[hagiography|hagiographical]] texts, [[travel literature]], [[Histories (history of the novel)|histories]], [[Epic poetry|epics]], and [[lyric poetry]].
+
+The first half of the 5th century saw the literary activities of the great Christian authors [[Jerome]] (c. 347–420) and [[Augustine of Hippo]] (354–430), whose texts had an enormous influence on theological thought of the Middle Ages, and of the latter's disciple [[Prosper of Aquitaine]] (c. 390-455). Of the later 5th century and early 6th century, [[Sidonius Apollinaris]] (c. 430 – after 489) and [[Magnus Felix Ennodius|Ennodius]] (474–521), both from Gaul, are well known for their poems, as is [[Venantius Fortunatus]] (c. 530–600). This was also a period of transmission: the [[Ancient Rome|Roman]] patrician [[Boethius]] (c. 480–524) translated part of [[Aristotle]]'s [[logical]] corpus, thus preserving it for the [[Latin West]], and wrote the influential literary and philosophical treatise ''[[Consolation of Philosophy|De consolatione Philosophiae]]''; [[Cassiodorus]] (c. 485–585) founded an important library at the monastery of Vivarium near [[Squillace]] where many texts from Antiquity were to be preserved. [[Isidore of Seville]] (c. 560-636) collected all scientific knowledge still available in his time into what might be called the first [[encyclopedia]], the ''[[Etymologiae]]''.
+
+[[Gregory of Tours]] (c. 538–594) wrote a lengthy history of the [[Franks|Frankish]] kings. Gregory came from a Gallo-Roman aristocratic family, and his Latin, which shows many aberrations from the classical forms, testifies to the declining significance of classical education in Gaul. At the same time, good knowledge of Latin and even of [[Greek language|Greek]] was being preserved in [[monastic]] culture in [[Ireland]] and was brought to [[England]] and the European mainland by [[missionaries]] in the course of the 6th and 7th centuries, such as [[Columbanus]] (543–615), who founded the monastery of [[Bobbio]] in Northern Italy. Ireland was also the birthplace of a strange poetic style known as [[Hiberno-Latin|Hisperic Latin]]. Other important Insular authors include the historian [[Gildas]] (c. 500–570) and the poet [[Aldhelm]] (c. 640–709). [[Benedict Biscop]] (c. 628–690) founded the monastery of [[Monkwearmouth-Jarrow Priory|Wearmouth-Jarrow]] and furnished it with books which he had taken home from a journey to [[Rome]] and which were later used by [[Bede]] (c. 672–735) to write his ''[[Historia ecclesiastica gentis Anglorum|Ecclesiastical History of the English People]]''.
+
+Many medieval Latin works have been published in the series [[Patrologia Latina]], [[Corpus Scriptorum Ecclesiasticorum Latinorum]] and [[Corpus Christianorum]].
+
+== Medieval Latin and everyday life ==
+Medieval Latin was separated from [[Classical Latin]] around 800 AD and at this time was no longer considered part of the everyday language. Spoken Latin became a practice used mostly by the educated high class population. Even then it was not frequently used in casual conversation. An example of these men includes the churchmen who could read Latin, but could not effectively speak it. Latin's use in universities was structured in lectures and debates, however, it was highly recommended that students use it in conversation. This practice was only kept up due to rules.&lt;ref name=":0" /> One of Latin's purposes, writing, was still in practice; the main uses being charters for property transactions and to keep track of the pleadings given in court. Even then, those of the church still used Latin more than the rest of the population. At this time, Latin served little purpose to the regular population but was still used regularly in ecclesiastical culture.&lt;ref name=":0" />
+
+== Important medieval Latin authors ==
+
+===4th–5th centuries===
+*[[Egeria (pilgrim)|Aetheria]] ([[floruit|fl.]] 385)
+*[[Jerome]] (c. 347–420)
+*[[Augustine of Hippo|Augustine]] (354-430)
+
+===6th–8th centuries===
+*[[Boëthius]] (c. 480 – 525)
+*[[Cassiodorus]] (c. 485 – c. 585)
+*[[Gildas]] (d. c. 570)
+*[[Corippus|Flavius Cresconius Corippus]] (d. c. 570)
+*[[Venantius Fortunatus]] (c. 530 – c. 600)
+*[[Gregory of Tours]] (c. 538–594)
+*[[Pope Gregory I]] (c. 540 – 604)
+*[[Isidore of Seville]] (c. 560–636)
+*[[Bede]] (c. 672–735)
+*[[St. Boniface]] (c. 672 - 754)
+*[[Chrodegang of Metz]] (d. 766)
+*[[Paul the Deacon]] (720s - c.799)
+*[[Beatus of Liébana]] (c. 730 - 800) 
+*[[Peter of Pisa]] (d. 799)
+*[[Paulinus of Aquileia]] (730s - 802)
+*[[Alcuin]] (c. 735–804)
+
+===9th century===
+*[[Einhard]] (775-840)
+*[[Rabanus Maurus]] (780-856)
+*[[Paschasius Radbertus]] (790-865)
+*[[Rudolf of Fulda]] (d. 865)
+*[[Dhuoda]]
+*[[Lupus of Ferrieres]] (805-862)
+*[[Andreas Agnellus]] (Agnellus of Ravenna) (c. 805-846?)
+*[[Hincmar]] (806-882)
+*[[Walafrid Strabo]] (808-849)
+*[[Florus of Lyon]] (d. 860?)
+*[[Gottschalk (theologian)]] (808-867)
+*[[Sedulius Scottus]] (fl. 840-860)
+*[[Anastasius Bibliothecarius]] (810-878)
+*[[Johannes Scotus Eriugena]] (815-877)
+*[[Asser]] (d. 909)
+*[[Notker Balbulus]] (840-912)
+
+===10th century===
+*[[Ratherius]] (890–974)
+*[[Hrotsvitha of Gandersheim]] (935-973)
+*[[Thietmar of Merseburg]] (975–1018)
+
+===11th century===
+*[[Marianus Scotus]] (1028–1082)
+*[[Adam of Bremen]] (fl. 1060–1080)
+*[[Anselm of Canterbury]] (1033/4-1109)
+*[[Marbodius of Rennes]] (c. 1035-1123)
+
+===12th century===
+*[[Pierre Abélard]] (1079–1142)
+*[[Abbot Suger|Suger of St Denis]] (c. 1081–1151)
+*[[Geoffrey of Monmouth]] (c. 1100 – c. 1155)
+*[[Ailred of Rievaulx]] (1110–1167)
+*[[Otto of Freising]] (c. 1114–1158)
+*[[Archpoet]] (c. 1130 - c. 1165)
+*[[William of Tyre]] (c. 1130-1185)
+*[[Peter of Blois]] (c. 1135 – c. 1203)
+*[[Walter of Châtillon]] (fl. c. 1200)
+*[[Adam of St. Victor]]
+
+===13th century===
+*[[Giraldus Cambrensis]] (c. 1146 – c. 1223)
+*[[Saxo Grammaticus]] (c. 1150 – c. 1220)
+*[[Anonymus (notary of Béla III)|Anonymous]] ({{floruit}} late 12th century – early 13th century)
+*[[Thomas of Celano]] (c. 1200 – c. 1265)
+*[[Albertus Magnus]] (c. 1200–1280)
+*[[Roger Bacon]] (c. 1214–1294)
+*[[Thomas Aquinas|St Thomas Aquinas]] (c. 1225–1274)
+*[[Ramon Llull]] (1232–1315)
+*[[Siger of Brabant]] (c. 1240–1280s)
+*[[Duns Scotus]] (c. 1266–1308)
+
+===14th century===
+{{see also|Renaissance Latin}}
+
+*[[Ranulf Higdon]] (c. 1280 - c. 1363)
+*[[William of Ockham]] (c. 1288 - c. 1347)
+*[[Jean Buridan]] (1300 – 1358)
+*[[Henry Suso]] (c. 1295 - 1366)
+
+== Literary movements ==
+* [[Goliard]]s
+* [[Hiberno-Latin]]
+* [[Medieval Roman Law]]
+* [[Medieval Latin comedy]]
+*[[Anglo-Saxon riddles|Riddle Poems]]
+
+==Works==
+*''[[Carmina Burana]]''  (11th - 12th century)
+*''[[Pange Lingua Gloriosi Corporis Mysterium|Pange Lingua]]''  (ca.1250)
+*''[[Summa Theologica|Summa Theologiae]]'' (ca.1270)
+*''[[Etymologiae]]''  (ca.600)
+*''[[Dies Irae]]''  (ca.1260)
+*''[[Decretum Gratiani]]''  (ca.1150)
+*''[[De Ortu Waluuanii|De Ortu Waluuanii Nepotis Arturi]]''  (ca.1180)
+*''[[Magna Carta]]''  (ca.1215)
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* K.P. Harrington, J. Pucci, and A.G. Elliott, ''Medieval Latin'' (2nd ed.), (Univ. Chicago Press, 1997) {{ISBN|0-226-31712-9}}
+* F.A.C. Mantello and A.G. Rigg, eds., ''Medieval Latin: An Introduction and Bibliographical Guide'' (CUA Press, 1996) {{ISBN|0-8132-0842-4}}
+
+; Dictionaries
+* [[Charles du Fresne, sieur du Cange|Du Cange]] et al., [http://ducange.enc.sorbonne.fr/ Glossarium ad scriptores mediæ et infimæ latinitatis], Niort : L. Favre, 1883–1887, [[Ecole des chartes]].
+* ''[[Thesaurus Linguae Latinae]]''
+{{refend}}
+
+==Further reading==
+*Chavannes-Mazel, Claudine A., and Margaret M. Smith, eds. 1996. ''Medieval Manuscripts of the Latin Classics: Production and Use; Proceedings of the Seminar in the History of the Book to 1500, Leiden, 1993.'' Los Altos Hills, CA: Anderson-Lovelace.
+*Lapidge, Michael. 1993. ''Anglo-Latin Literature 900–1066.'' London and Rio Grande, OH: Hambledon.
+*--. 1996. ''Anglo-Latin Literature 600–899.'' London and Rio Grande, OH: Hambledon.
+*Mann, Nicholas, and Birger Munk Olsen, eds. 1997. ''Medieval and Renaissance Scholarship: Proceedings of the Second European Science Foundation Workshop on the Classical Tradition in the Middle Ages and Renaissance, London: Warburg Institute, 27–28 November, 1992.'' New York: Brill.
+*Mantello, F. A. C., and George Rigg. 1996. ''Medieval Latin: An Introduction and Bibliographical Guide.'' Washington, DC: Catholic University of American Press.
+*Pecere, Oronzo, and Michael D. Reeve. 1995. ''Formative Stages of Classical Traditions: Latin Texts from Antiquity to the Renaissance; Proceedings of a Conference Held at Erice, 16–22 October 1993, as the 6th Course of International School for the Study of Written Records.'' Spoleto, Italy: Centro Italiano di Studi sull’alto Medioevo.
+*Raby, F. J. E. 1957. ''A History of Secular Latin Poetry in the Middle Ages.'' 2 vols. 2nd ed. Oxford: Clarendon.
+*Rigg, A. G. 1992. ''A History of Anglo-Latin Literature A.D. 1066–1422.'' Cambridge, UK: Cambridge University Press.
+*Walde, Christine, ed. 2012. ''Brill’s New Pauly Supplement 5: The Reception of Classical Literature.'' Leiden, The Netherlands, and Boston: Brill.
+*Ziolkowski, Jan M., 1993. ''Talking Animals: Medieval Latin Beast Poetry, 750-1150.'' Philadelphia, PA, University of Pennsylvania Press.
+*Raby, F.J.E., 1959. ''The Oxford Book of Medieval Latin Verse.'' Amen House, London, Oxford University Press.
+*Harrington, Karl Pomeroy, 1942. ''Mediaeval Latin.'' Norwood, MA, USA, Norwood Press.
+*Dronke, Peter, vol. 1, 1965. ''Medieval Latin and the Rise of European Love-Lyric.'' Oxford, UK, Clarendon Press.
+*Bacci, Antonii. ''Varia Latinitatis Scripta II, Inscriptiones Orationes Epistvlae.'' Rome, Italy, Societas Librania Stvdivm.
+*Beeson, Charles H., 1925. ''A Primer of Medieval Latin: An Anthology of Prose and Poetry''. Chicago, United States, Scott, Foresman and Company. 
+*Curtius, Ernst Roberts, 1953. ''European Literature and the Latin Middle Ages.'' New York, New York, United States, Bollingen Foundation Inc.   
+*Auerbach, Erich, 1965. ''Literary Language &amp; Its Public: in Late Latin Antiquity and in the Middle Ages''. New York, NY, USA, Bollingen Foundation.
+
+== External links ==
+{{Library resources box |by=no |onlinebooks=yes |others=yes |about=yes |label=Medieval Latin
+  |viaf= |lccn= |lcheading= |wikititle= }}
+*[http://www.nationalarchives.gov.uk/latin/ In-depth Guides to Learning Latin] at the UK National Archives.
+*[http://medievallatin.utoronto.ca/ The Journal of Medieval Latin]
+*[http://www2.latech.edu/~bmagee/latin/wright/wright_links_to_stories.htm Wright, Thomas, ed. A Selection of Latin Stories, from Manuscripts of the Thirteenth and Founteenth Centuries: A Contribution to the History of Fiction During the Middle Ages.'' (London: The Percy Society. 1842.)]
+* [[Corpus Corporum]] ([http://mlat.uzh.ch/MLS/index.php?lang=0 mlat.uzh.ch])
+* [[Corpus Thomisticum]] ([http://www.corpusthomisticum.org/iopera.html corpusthomisticum.org])
+* [[LacusCurtius]] ([http://penelope.uchicago.edu/Thayer/E/home.html penelope.uchicago.edu])
+
+{{Latin periods}}
+{{Ancient Rome topics |collapsed}}{{Authority control}}
+{{Portal bar|Languages}}
+
+[[Category:Latin language]]
+[[Category:Forms of Latin| 4 Medieval]]
+[[Category:Medieval languages|Latin, Medieval]]
+[[Category:Medieval Latin literature| ]]
+[[Category:Languages attested from the 4th century]]
+[[Category:4th-century establishments]]
+[[Category:Languages extinct in the 15th century]]
+[[Category:15th-century disestablishments in Europe]]
+</textarea><div class='editOptions'>
+<div id='wpSummaryLabel' class='mw-summary oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='wpSummary' class='oo-ui-labelElement-label'><span style="text-align: left;"><a href="/wiki/Help:Edit_summary" title="Help:Edit summary">Edit summary</a> <small>(Briefly describe your changes)</small></span></label></span><div class='oo-ui-fieldLayout-field'><div id='wpSummaryWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","maxLength":500,"name":"wpSummary","inputId":"wpSummary","tabIndex":1,"title":"Enter a short summary","accessKey":"b"}'><input type='text' tabindex='1' aria-disabled='false' title='Enter a short summary [b]' accesskey='b' name='wpSummary' value='' id='wpSummary' maxlength='500' spellcheck='true' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div class='editCheckboxes'><div class='oo-ui-layout oo-ui-horizontalLayout'></div></div>
+<div id="editpage-copywarn">
+<p>By publishing changes, you agree to the <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use" class="extiw" title="wmf:Terms of Use">Terms of Use</a>, and you irrevocably agree to release your contribution under the <a href="/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" title="Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License">CC BY-SA 3.0 License</a> and the <a href="/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License" title="Wikipedia:Text of the GNU Free Documentation License">GFDL</a>. You agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.</p>
+</div><div class='editButtons'>
+<span id='wpSaveWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-flaggedElement-primary oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpSave","inputId":"wpSave","tabIndex":3,"title":"Publish your changes","accessKey":"s","label":"Publish changes","flags":["progressive","primary"]}'><input type='submit' tabindex='3' aria-disabled='false' title='Publish your changes [s]' accesskey='s' name='wpSave' id='wpSave' value='Publish changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpPreviewWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpPreview","inputId":"wpPreview","tabIndex":4,"title":"Preview your changes. Please use this before saving.","accessKey":"p","label":"Show preview"}'><input type='submit' tabindex='4' aria-disabled='false' title='Preview your changes. Please use this before saving. [p]' accesskey='p' name='wpPreview' id='wpPreview' value='Show preview' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+<span id='wpDiffWidget' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","useInputTag":true,"type":"submit","name":"wpDiff","inputId":"wpDiff","tabIndex":5,"title":"Show the changes you made to the text","accessKey":"v","label":"Show changes"}'><input type='submit' tabindex='5' aria-disabled='false' title='Show the changes you made to the text [v]' accesskey='v' name='wpDiff' id='wpDiff' value='Show changes' class='oo-ui-inputWidget-input oo-ui-buttonElement-button' /></span>
+	<span class='cancelLink'><span id='mw-editform-cancel' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-labelElement oo-ui-flaggedElement-destructive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"\/wiki\/Medieval_Latin","rel":["nofollow"],"framed":false,"label":{"html":"Cancel"},"flags":["destructive"]}'><a role='button' tabindex='0' aria-disabled='false' href='/wiki/Medieval_Latin' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-destructive'></span><span class='oo-ui-labelElement-label'>Cancel</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-destructive'></span></a></span></span>
+	<span class='editHelp'><a target="helpwindow" href="/wiki/Help:Cheatsheet">Editing help</a> (opens in new window)</span>
+</div><!-- editButtons -->
+<span id="templatesandbox-editform"><input id="wpTemplateSandboxTemplate" type="hidden" value="Medieval Latin" name="wpTemplateSandboxTemplate"/><input id="wpTemplateSandboxPage" type="hidden" name="wpTemplateSandboxPage"/></span>
+</div><!-- editOptions -->
+
+<input type="hidden" value="+\" name="wpEditToken"/>
+<div class="mw-editTools"><div id="editpage-specialchars" style="margin-top: 15px; border: 1px solid #aaaaaa; padding: 2px;" class="edittools-text">
+<p><b>Copy and paste:</b> – — ° ′ ″ ≈ ≠ ≤ ≥ ± − × ÷ ← → · § &#160;  <b>Cite your sources:</b> &lt;ref&gt;&lt;/ref&gt; 
+</p>
+<hr />
+<p><small>
+{{}} &#160; {{{}}} &#160; | &#160; [] &#160; [[]] &#160; [[Category:]] &#160; #REDIRECT [[]] &#160; &amp;nbsp; &#160; &lt;s&gt;&lt;/s&gt; &#160; &lt;sup&gt;&lt;/sup&gt; &#160; &lt;sub&gt;&lt;/sub&gt; &#160; &lt;code&gt;&lt;/code&gt; &#160; &lt;pre&gt;&lt;/pre&gt; &#160; &lt;blockquote&gt;&lt;/blockquote&gt; &#160; &lt;ref&gt;&lt;/ref&gt; &lt;ref name="" /&gt; &#160; {{Reflist}} &#160; &lt;references /&gt; &#160; &lt;includeonly&gt;&lt;/includeonly&gt; &#160; &lt;noinclude&gt;&lt;/noinclude&gt; &#160; {{DEFAULTSORT:}} &#160; &lt;nowiki&gt;&lt;/nowiki&gt; &#160; &lt;!-- --&gt; &#160; &lt;span class="plainlinks"&gt;&lt;/span&gt; 
+</small>
+</p>
+<hr />
+<p><small>
+<b>Symbols:</b> ~ | ¡ ¿ † ‡ ↔ ↑ ↓ • ¶ &#160; # ∞ &#160; ‘ ’ “ ” ‹› «» &#160; ¤ ₳ ฿ ₵ ¢ ₡ ₢ $ ₫ ₯ € ₠ ₣ ƒ ₴ ₭ ₤ ℳ ₥ ₦ № ₧ ₰ £ ៛ ₨ ₪ ৳ ₮ ₩ ¥ &#160; ♠ ♣ ♥ ♦ &#160; ♭ ♯ ♮ &#160; © ® ™<br />
+<b>Latin:</b> A a Á á À à Â â Ä ä Ǎ ǎ Ă ă Ā ā Ã ã Å å Ą ą Æ æ Ǣ ǣ &#160; B b &#160; C c Ć ć Ċ ċ Ĉ ĉ Č č Ç ç &#160; D d Ď ď Đ đ Ḍ ḍ Ð ð &#160; E e É é È è Ė ė Ê ê Ë ë Ě ě Ĕ ĕ Ē ē Ẽ ẽ Ę ę Ẹ ẹ Ɛ ɛ Ǝ ǝ Ə ə &#160; F f &#160; G g Ġ ġ Ĝ ĝ Ğ ğ Ģ ģ &#160; H h Ĥ ĥ Ħ ħ Ḥ ḥ &#160; I i İ ı Í í Ì ì Î î Ï ï Ǐ ǐ Ĭ ĭ Ī ī Ĩ ĩ Į į Ị ị &#160; J j Ĵ ĵ &#160; K k Ķ ķ &#160; L l Ĺ ĺ Ŀ ŀ Ľ ľ Ļ ļ Ł ł Ḷ ḷ Ḹ ḹ &#160; M m Ṃ ṃ &#160; N n Ń ń Ň ň Ñ ñ Ņ ņ Ṇ ṇ Ŋ ŋ &#160; O o Ó ó Ò ò Ô ô Ö ö Ǒ ǒ Ŏ ŏ Ō ō Õ õ Ǫ ǫ Ọ ọ Ő ő Ø ø Œ œ &#160; Ɔ ɔ &#160; P p &#160; Q q &#160; R r Ŕ ŕ Ř ř Ŗ ŗ Ṛ ṛ Ṝ ṝ &#160; S s Ś ś Ŝ ŝ Š š Ş ş Ș ș Ṣ ṣ ß &#160; T t Ť ť Ţ ţ Ț ț Ṭ ṭ Þ þ &#160; U u Ú ú Ù ù Û û Ü ü Ǔ ǔ Ŭ ŭ Ū ū Ũ ũ Ů ů Ų ų Ụ ụ Ű ű Ǘ ǘ Ǜ ǜ Ǚ ǚ Ǖ ǖ &#160; V v &#160; W w Ŵ ŵ &#160; X x &#160; Y y Ý ý Ŷ ŷ Ÿ ÿ Ỹ ỹ Ȳ ȳ &#160; Z z Ź ź Ż ż Ž ž &#160; ß Ð ð Þ þ Ŋ ŋ Ə ə <br />
+<b>Greek:</b> Ά ά Έ έ Ή ή Ί ί Ό ό Ύ ύ Ώ ώ &#160; Α α Β β Γ γ Δ δ &#160; Ε ε Ζ ζ Η η Θ θ &#160; Ι ι Κ κ Λ λ Μ μ &#160; Ν ν Ξ ξ Ο ο Π π &#160; Ρ ρ Σ σ ς Τ τ Υ υ &#160; Φ φ Χ χ Ψ ψ Ω ω &#160; {{Polytonic|}} <br />
+<b>Cyrillic:</b> А а Б б В в Г г &#160; Ґ ґ Ѓ ѓ Д д Ђ ђ &#160; Е е Ё ё Є є Ж ж &#160; З з Ѕ ѕ И и І і &#160; Ї ї Й й Ј ј К к &#160; Ќ ќ Л л Љ љ М м &#160; Н н Њ њ О о П п &#160; Р р С с Т т Ћ ћ &#160; У у Ў ў Ф ф Х х &#160; Ц ц Ч ч Џ џ Ш ш &#160; Щ щ Ъ ъ Ы ы Ь ь &#160; Э э Ю ю Я я &#160; ́ <br />
+<b>IPA:</b> t̪ d̪ ʈ ɖ ɟ ɡ ɢ ʡ ʔ &#160; ɸ β θ ð ʃ ʒ ɕ ʑ ʂ ʐ ç ʝ ɣ χ ʁ ħ ʕ ʜ ʢ ɦ &#160; ɱ ɳ ɲ ŋ ɴ &#160; ʋ ɹ ɻ ɰ &#160; ʙ ⱱ ʀ ɾ ɽ &#160; ɫ ɬ ɮ ɺ ɭ ʎ ʟ &#160; ɥ ʍ ɧ &#160; ʼ &#160; ɓ ɗ ʄ ɠ ʛ &#160; ʘ ǀ ǃ ǂ ǁ &#160; ɨ ʉ ɯ &#160; ɪ ʏ ʊ &#160; ø ɘ ɵ ɤ &#160; ə ɚ &#160; ɛ œ ɜ ɝ ɞ ʌ ɔ &#160; æ &#160; ɐ ɶ ɑ ɒ &#160; ʰ ʱ ʷ ʲ ˠ ˤ ⁿ ˡ &#160; ˈ ˌ ː ˑ ̪ &#160; {{IPA|}}
+</small>
+</p>
+</div></div><div class="wikibase-entity-usage"><div class="wikibase-entityusage-explanation"><p>Wikidata entities used in this page
+</p></div>
+<ul><li><a class="extiw wb-entity-link external" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1163234">Medieval Latin</a>: Sitelink, Title, Some statements, Other (Statements)</li></ul></div>
+<div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p><span id="templatesused">Pages transcluded onto the current version of this page<span class="posteditwindowhelplinks"> (<a href="/wiki/Wikipedia:Transclusion" title="Wikipedia:Transclusion">help</a>)</span>&#160;:</span>
+</p></div><ul>
+<li><a href="/wiki/Medieval_Latin" title="Medieval Latin">Medieval Latin</a> (<a href="/w/index.php?title=Medieval_Latin&amp;action=edit" title="Medieval Latin">edit</a>) </li><li><a href="/wiki/Template:Abbr" title="Template:Abbr">Template:Abbr</a> (<a href="/w/index.php?title=Template:Abbr&amp;action=edit" title="Template:Abbr">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Allow_wrap" title="Template:Allow wrap">Template:Allow wrap</a> (<a href="/w/index.php?title=Template:Allow_wrap&amp;action=edit" title="Template:Allow wrap">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Ambox" title="Template:Ambox">Template:Ambox</a> (<a href="/w/index.php?title=Template:Ambox&amp;action=edit" title="Template:Ambox">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Ancient_Rome_topics" title="Template:Ancient Rome topics">Template:Ancient Rome topics</a> (<a href="/w/index.php?title=Template:Ancient_Rome_topics&amp;action=edit" title="Template:Ancient Rome topics">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Authority_control" title="Template:Authority control">Template:Authority control</a> (<a href="/w/index.php?title=Template:Authority_control&amp;action=edit" title="Template:Authority control">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Both" title="Template:Both">Template:Both</a> (<a href="/w/index.php?title=Template:Both&amp;action=edit" title="Template:Both">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Catalog_lookup_link" title="Template:Catalog lookup link">Template:Catalog lookup link</a> (<a href="/w/index.php?title=Template:Catalog_lookup_link&amp;action=edit" title="Template:Catalog lookup link">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Category_handler" title="Template:Category handler">Template:Category handler</a> (<a href="/w/index.php?title=Template:Category_handler&amp;action=edit" title="Template:Category handler">view source</a>) (protected)</li><li><a href="/wiki/Template:Chr" class="mw-redirect" title="Template:Chr">Template:Chr</a> (<a href="/w/index.php?title=Template:Chr&amp;action=edit" class="mw-redirect" title="Template:Chr">view source</a>) (protected)</li><li><a href="/wiki/Template:Citation" title="Template:Citation">Template:Citation</a> (<a href="/w/index.php?title=Template:Citation&amp;action=edit" title="Template:Citation">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_book" title="Template:Cite book">Template:Cite book</a> (<a href="/w/index.php?title=Template:Cite_book&amp;action=edit" title="Template:Cite book">view source</a>) (protected)</li><li><a href="/wiki/Template:Cite_news" title="Template:Cite news">Template:Cite news</a> (<a href="/w/index.php?title=Template:Cite_news&amp;action=edit" title="Template:Cite news">view source</a>) (protected)</li><li><a href="/wiki/Template:Clarify" title="Template:Clarify">Template:Clarify</a> (<a href="/w/index.php?title=Template:Clarify&amp;action=edit" title="Template:Clarify">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:DMCA" title="Template:DMCA">Template:DMCA</a> (<a href="/w/index.php?title=Template:DMCA&amp;action=edit" title="Template:DMCA">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Dated_maintenance_category" title="Template:Dated maintenance category">Template:Dated maintenance category</a> (<a href="/w/index.php?title=Template:Dated_maintenance_category&amp;action=edit" title="Template:Dated maintenance category">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Delink" title="Template:Delink">Template:Delink</a> (<a href="/w/index.php?title=Template:Delink&amp;action=edit" title="Template:Delink">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:EditAtWikidata" title="Template:EditAtWikidata">Template:EditAtWikidata</a> (<a href="/w/index.php?title=Template:EditAtWikidata&amp;action=edit" title="Template:EditAtWikidata">view source</a>) (protected)</li><li><a href="/wiki/Template:Error-small" title="Template:Error-small">Template:Error-small</a> (<a href="/w/index.php?title=Template:Error-small&amp;action=edit" title="Template:Error-small">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:FULLROOTPAGENAME" title="Template:FULLROOTPAGENAME">Template:FULLROOTPAGENAME</a> (<a href="/w/index.php?title=Template:FULLROOTPAGENAME&amp;action=edit" title="Template:FULLROOTPAGENAME">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Find_sources_mainspace" title="Template:Find sources mainspace">Template:Find sources mainspace</a> (<a href="/w/index.php?title=Template:Find_sources_mainspace&amp;action=edit" title="Template:Find sources mainspace">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Fix-span" title="Template:Fix-span">Template:Fix-span</a> (<a href="/w/index.php?title=Template:Fix-span&amp;action=edit" title="Template:Fix-span">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Fix/category" title="Template:Fix/category">Template:Fix/category</a> (<a href="/w/index.php?title=Template:Fix/category&amp;action=edit" title="Template:Fix/category">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Floruit" title="Template:Floruit">Template:Floruit</a> (<a href="/w/index.php?title=Template:Floruit&amp;action=edit" title="Template:Floruit">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:ISBN" title="Template:ISBN">Template:ISBN</a> (<a href="/w/index.php?title=Template:ISBN&amp;action=edit" title="Template:ISBN">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:If_empty" title="Template:If empty">Template:If empty</a> (<a href="/w/index.php?title=Template:If_empty&amp;action=edit" title="Template:If empty">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Infobox" title="Template:Infobox">Template:Infobox</a> (<a href="/w/index.php?title=Template:Infobox&amp;action=edit" title="Template:Infobox">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Infobox_language" title="Template:Infobox language">Template:Infobox language</a> (<a href="/w/index.php?title=Template:Infobox_language&amp;action=edit" title="Template:Infobox language">view source</a>) (semi-protected)</li><li><a href="/wiki/Template:Infobox_language/family-color" title="Template:Infobox language/family-color">Template:Infobox language/family-color</a> (<a href="/w/index.php?title=Template:Infobox_language/family-color&amp;action=edit" title="Template:Infobox language/family-color">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Infobox_language/genetic" title="Template:Infobox language/genetic">Template:Infobox language/genetic</a> (<a href="/w/index.php?title=Template:Infobox_language/genetic&amp;action=edit" title="Template:Infobox language/genetic">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Infobox_language/linguistlist" title="Template:Infobox language/linguistlist">Template:Infobox language/linguistlist</a> (<a href="/w/index.php?title=Template:Infobox_language/linguistlist&amp;action=edit" title="Template:Infobox language/linguistlist">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Lang" title="Template:Lang">Template:Lang</a> (<a href="/w/index.php?title=Template:Lang&amp;action=edit" title="Template:Lang">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Latin_periods" title="Template:Latin periods">Template:Latin periods</a> (<a href="/w/index.php?title=Template:Latin_periods&amp;action=edit" title="Template:Latin periods">edit</a>) </li><li><a href="/wiki/Template:Library_link_about" title="Template:Library link about">Template:Library link about</a> (<a href="/w/index.php?title=Template:Library_link_about&amp;action=edit" title="Template:Library link about">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Library_resources_box" title="Template:Library resources box">Template:Library resources box</a> (<a href="/w/index.php?title=Template:Library_resources_box&amp;action=edit" title="Template:Library resources box">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Longitem" title="Template:Longitem">Template:Longitem</a> (<a href="/w/index.php?title=Template:Longitem&amp;action=edit" title="Template:Longitem">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Main_other" title="Template:Main other">Template:Main other</a> (<a href="/w/index.php?title=Template:Main_other&amp;action=edit" title="Template:Main other">view source</a>) (protected)</li><li><a href="/wiki/Template:More_citations_needed" title="Template:More citations needed">Template:More citations needed</a> (<a href="/w/index.php?title=Template:More_citations_needed&amp;action=edit" title="Template:More citations needed">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Navbox" title="Template:Navbox">Template:Navbox</a> (<a href="/w/index.php?title=Template:Navbox&amp;action=edit" title="Template:Navbox">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Navbox_with_columns" title="Template:Navbox with columns">Template:Navbox with columns</a> (<a href="/w/index.php?title=Template:Navbox_with_columns&amp;action=edit" title="Template:Navbox with columns">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Nobold" title="Template:Nobold">Template:Nobold</a> (<a href="/w/index.php?title=Template:Nobold&amp;action=edit" title="Template:Nobold">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Nobold/styles.css" title="Template:Nobold/styles.css">Template:Nobold/styles.css</a> (<a href="/w/index.php?title=Template:Nobold/styles.css&amp;action=edit" title="Template:Nobold/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Nowrap" title="Template:Nowrap">Template:Nowrap</a> (<a href="/w/index.php?title=Template:Nowrap&amp;action=edit" title="Template:Nowrap">view source</a>) (protected)</li><li><a href="/wiki/Template:Ns_has_subpages" title="Template:Ns has subpages">Template:Ns has subpages</a> (<a href="/w/index.php?title=Template:Ns_has_subpages&amp;action=edit" title="Template:Ns has subpages">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Pagetype" title="Template:Pagetype">Template:Pagetype</a> (<a href="/w/index.php?title=Template:Pagetype&amp;action=edit" title="Template:Pagetype">view source</a>) (protected)</li><li><a href="/wiki/Template:Portal_bar" title="Template:Portal bar">Template:Portal bar</a> (<a href="/w/index.php?title=Template:Portal_bar&amp;action=edit" title="Template:Portal bar">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Refbegin" title="Template:Refbegin">Template:Refbegin</a> (<a href="/w/index.php?title=Template:Refbegin&amp;action=edit" title="Template:Refbegin">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Refbegin/styles.css" title="Template:Refbegin/styles.css">Template:Refbegin/styles.css</a> (<a href="/w/index.php?title=Template:Refbegin/styles.css&amp;action=edit" title="Template:Refbegin/styles.css">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Refend" title="Template:Refend">Template:Refend</a> (<a href="/w/index.php?title=Template:Refend&amp;action=edit" title="Template:Refend">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Refimprove" class="mw-redirect" title="Template:Refimprove">Template:Refimprove</a> (<a href="/w/index.php?title=Template:Refimprove&amp;action=edit" class="mw-redirect" title="Template:Refimprove">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Reflist" title="Template:Reflist">Template:Reflist</a> (<a href="/w/index.php?title=Template:Reflist&amp;action=edit" title="Template:Reflist">view source</a>) (protected)</li><li><a href="/wiki/Template:Replace" title="Template:Replace">Template:Replace</a> (<a href="/w/index.php?title=Template:Replace&amp;action=edit" title="Template:Replace">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Resize" title="Template:Resize">Template:Resize</a> (<a href="/w/index.php?title=Template:Resize&amp;action=edit" title="Template:Resize">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:See_also" title="Template:See also">Template:See also</a> (<a href="/w/index.php?title=Template:See_also&amp;action=edit" title="Template:See also">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Short_description" title="Template:Short description">Template:Short description</a> (<a href="/w/index.php?title=Template:Short_description&amp;action=edit" title="Template:Short description">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Small" title="Template:Small">Template:Small</a> (<a href="/w/index.php?title=Template:Small&amp;action=edit" title="Template:Small">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Smaller" title="Template:Smaller">Template:Smaller</a> (<a href="/w/index.php?title=Template:Smaller&amp;action=edit" title="Template:Smaller">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Str_index" title="Template:Str index">Template:Str index</a> (<a href="/w/index.php?title=Template:Str_index&amp;action=edit" title="Template:Str index">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Template_other" title="Template:Template other">Template:Template other</a> (<a href="/w/index.php?title=Template:Template_other&amp;action=edit" title="Template:Template other">view source</a>) (protected)</li><li><a href="/wiki/Template:Tl" title="Template:Tl">Template:Tl</a> (<a href="/w/index.php?title=Template:Tl&amp;action=edit" title="Template:Tl">view source</a>) (protected)</li><li><a href="/wiki/Template:Trim" title="Template:Trim">Template:Trim</a> (<a href="/w/index.php?title=Template:Trim&amp;action=edit" title="Template:Trim">view source</a>) (protected)</li><li><a href="/wiki/Template:Use_dmy_dates" title="Template:Use dmy dates">Template:Use dmy dates</a> (<a href="/w/index.php?title=Template:Use_dmy_dates&amp;action=edit" title="Template:Use dmy dates">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:Yesno" title="Template:Yesno">Template:Yesno</a> (<a href="/w/index.php?title=Template:Yesno&amp;action=edit" title="Template:Yesno">view source</a>) (protected)</li><li><a href="/wiki/Template:Yesno-no" title="Template:Yesno-no">Template:Yesno-no</a> (<a href="/w/index.php?title=Template:Yesno-no&amp;action=edit" title="Template:Yesno-no">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Arguments" title="Module:Arguments">Module:Arguments</a> (<a href="/w/index.php?title=Module:Arguments&amp;action=edit" title="Module:Arguments">view source</a>) (protected)</li><li><a href="/wiki/Module:Authority_control" title="Module:Authority control">Module:Authority control</a> (<a href="/w/index.php?title=Module:Authority_control&amp;action=edit" title="Module:Authority control">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Catalog_lookup_link" title="Module:Catalog lookup link">Module:Catalog lookup link</a> (<a href="/w/index.php?title=Module:Catalog_lookup_link&amp;action=edit" title="Module:Catalog lookup link">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Category_handler" title="Module:Category handler">Module:Category handler</a> (<a href="/w/index.php?title=Module:Category_handler&amp;action=edit" title="Module:Category handler">view source</a>) (protected)</li><li><a href="/wiki/Module:Category_handler/blacklist" title="Module:Category handler/blacklist">Module:Category handler/blacklist</a> (<a href="/w/index.php?title=Module:Category_handler/blacklist&amp;action=edit" title="Module:Category handler/blacklist">view source</a>) (protected)</li><li><a href="/wiki/Module:Category_handler/config" title="Module:Category handler/config">Module:Category handler/config</a> (<a href="/w/index.php?title=Module:Category_handler/config&amp;action=edit" title="Module:Category handler/config">view source</a>) (protected)</li><li><a href="/wiki/Module:Category_handler/data" title="Module:Category handler/data">Module:Category handler/data</a> (<a href="/w/index.php?title=Module:Category_handler/data&amp;action=edit" title="Module:Category handler/data">view source</a>) (protected)</li><li><a href="/wiki/Module:Category_handler/shared" title="Module:Category handler/shared">Module:Category handler/shared</a> (<a href="/w/index.php?title=Module:Category_handler/shared&amp;action=edit" title="Module:Category handler/shared">view source</a>) (protected)</li><li><a href="/wiki/Module:Check_for_unknown_parameters" title="Module:Check for unknown parameters">Module:Check for unknown parameters</a> (<a href="/w/index.php?title=Module:Check_for_unknown_parameters&amp;action=edit" title="Module:Check for unknown parameters">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Check_isxn" title="Module:Check isxn">Module:Check isxn</a> (<a href="/w/index.php?title=Module:Check_isxn&amp;action=edit" title="Module:Check isxn">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Citation/CS1" title="Module:Citation/CS1">Module:Citation/CS1</a> (<a href="/w/index.php?title=Module:Citation/CS1&amp;action=edit" title="Module:Citation/CS1">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/COinS" title="Module:Citation/CS1/COinS">Module:Citation/CS1/COinS</a> (<a href="/w/index.php?title=Module:Citation/CS1/COinS&amp;action=edit" title="Module:Citation/CS1/COinS">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Configuration" title="Module:Citation/CS1/Configuration">Module:Citation/CS1/Configuration</a> (<a href="/w/index.php?title=Module:Citation/CS1/Configuration&amp;action=edit" title="Module:Citation/CS1/Configuration">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Date_validation" title="Module:Citation/CS1/Date validation">Module:Citation/CS1/Date validation</a> (<a href="/w/index.php?title=Module:Citation/CS1/Date_validation&amp;action=edit" title="Module:Citation/CS1/Date validation">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Identifiers" title="Module:Citation/CS1/Identifiers">Module:Citation/CS1/Identifiers</a> (<a href="/w/index.php?title=Module:Citation/CS1/Identifiers&amp;action=edit" title="Module:Citation/CS1/Identifiers">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Utilities" title="Module:Citation/CS1/Utilities">Module:Citation/CS1/Utilities</a> (<a href="/w/index.php?title=Module:Citation/CS1/Utilities&amp;action=edit" title="Module:Citation/CS1/Utilities">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/Whitelist" title="Module:Citation/CS1/Whitelist">Module:Citation/CS1/Whitelist</a> (<a href="/w/index.php?title=Module:Citation/CS1/Whitelist&amp;action=edit" title="Module:Citation/CS1/Whitelist">view source</a>) (protected)</li><li><a href="/wiki/Module:Citation/CS1/styles.css" title="Module:Citation/CS1/styles.css">Module:Citation/CS1/styles.css</a> (<a href="/w/index.php?title=Module:Citation/CS1/styles.css&amp;action=edit" title="Module:Citation/CS1/styles.css">view source</a>) (protected)</li><li><a href="/wiki/Module:Delink" title="Module:Delink">Module:Delink</a> (<a href="/w/index.php?title=Module:Delink&amp;action=edit" title="Module:Delink">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:EditAtWikidata" title="Module:EditAtWikidata">Module:EditAtWikidata</a> (<a href="/w/index.php?title=Module:EditAtWikidata&amp;action=edit" title="Module:EditAtWikidata">view source</a>) (protected)</li><li><a href="/wiki/Module:Error" title="Module:Error">Module:Error</a> (<a href="/w/index.php?title=Module:Error&amp;action=edit" title="Module:Error">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Exponential_search" title="Module:Exponential search">Module:Exponential search</a> (<a href="/w/index.php?title=Module:Exponential_search&amp;action=edit" title="Module:Exponential search">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources" title="Module:Find sources">Module:Find sources</a> (<a href="/w/index.php?title=Module:Find_sources&amp;action=edit" title="Module:Find sources">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/config" title="Module:Find sources/config">Module:Find sources/config</a> (<a href="/w/index.php?title=Module:Find_sources/config&amp;action=edit" title="Module:Find sources/config">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/links/google" title="Module:Find sources/links/google">Module:Find sources/links/google</a> (<a href="/w/index.php?title=Module:Find_sources/links/google&amp;action=edit" title="Module:Find sources/links/google">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/links/google_books" title="Module:Find sources/links/google books">Module:Find sources/links/google books</a> (<a href="/w/index.php?title=Module:Find_sources/links/google_books&amp;action=edit" title="Module:Find sources/links/google books">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/links/google_news" title="Module:Find sources/links/google news">Module:Find sources/links/google news</a> (<a href="/w/index.php?title=Module:Find_sources/links/google_news&amp;action=edit" title="Module:Find sources/links/google news">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/links/google_newspapers" title="Module:Find sources/links/google newspapers">Module:Find sources/links/google newspapers</a> (<a href="/w/index.php?title=Module:Find_sources/links/google_newspapers&amp;action=edit" title="Module:Find sources/links/google newspapers">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/links/google_scholar" title="Module:Find sources/links/google scholar">Module:Find sources/links/google scholar</a> (<a href="/w/index.php?title=Module:Find_sources/links/google_scholar&amp;action=edit" title="Module:Find sources/links/google scholar">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/links/jstor" title="Module:Find sources/links/jstor">Module:Find sources/links/jstor</a> (<a href="/w/index.php?title=Module:Find_sources/links/jstor&amp;action=edit" title="Module:Find sources/links/jstor">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Find_sources/templates/Find_sources_mainspace" title="Module:Find sources/templates/Find sources mainspace">Module:Find sources/templates/Find sources mainspace</a> (<a href="/w/index.php?title=Module:Find_sources/templates/Find_sources_mainspace&amp;action=edit" title="Module:Find sources/templates/Find sources mainspace">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote" title="Module:Hatnote">Module:Hatnote</a> (<a href="/w/index.php?title=Module:Hatnote&amp;action=edit" title="Module:Hatnote">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Hatnote_list" title="Module:Hatnote list">Module:Hatnote list</a> (<a href="/w/index.php?title=Module:Hatnote_list&amp;action=edit" title="Module:Hatnote list">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:If_empty" title="Module:If empty">Module:If empty</a> (<a href="/w/index.php?title=Module:If_empty&amp;action=edit" title="Module:If empty">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Infobox" title="Module:Infobox">Module:Infobox</a> (<a href="/w/index.php?title=Module:Infobox&amp;action=edit" title="Module:Infobox">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:InfoboxImage" title="Module:InfoboxImage">Module:InfoboxImage</a> (<a href="/w/index.php?title=Module:InfoboxImage&amp;action=edit" title="Module:InfoboxImage">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Labelled_list_hatnote" title="Module:Labelled list hatnote">Module:Labelled list hatnote</a> (<a href="/w/index.php?title=Module:Labelled_list_hatnote&amp;action=edit" title="Module:Labelled list hatnote">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang" title="Module:Lang">Module:Lang</a> (<a href="/w/index.php?title=Module:Lang&amp;action=edit" title="Module:Lang">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/ISO_639_synonyms" title="Module:Lang/ISO 639 synonyms">Module:Lang/ISO 639 synonyms</a> (<a href="/w/index.php?title=Module:Lang/ISO_639_synonyms&amp;action=edit" title="Module:Lang/ISO 639 synonyms">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Lang/data" title="Module:Lang/data">Module:Lang/data</a> (<a href="/w/index.php?title=Module:Lang/data&amp;action=edit" title="Module:Lang/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/ISO_639-3" title="Module:Language/data/ISO 639-3">Module:Language/data/ISO 639-3</a> (<a href="/w/index.php?title=Module:Language/data/ISO_639-3&amp;action=edit" title="Module:Language/data/ISO 639-3">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/iana_languages" title="Module:Language/data/iana languages">Module:Language/data/iana languages</a> (<a href="/w/index.php?title=Module:Language/data/iana_languages&amp;action=edit" title="Module:Language/data/iana languages">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/iana_regions" title="Module:Language/data/iana regions">Module:Language/data/iana regions</a> (<a href="/w/index.php?title=Module:Language/data/iana_regions&amp;action=edit" title="Module:Language/data/iana regions">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/iana_scripts" title="Module:Language/data/iana scripts">Module:Language/data/iana scripts</a> (<a href="/w/index.php?title=Module:Language/data/iana_scripts&amp;action=edit" title="Module:Language/data/iana scripts">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/iana_suppressed_scripts" title="Module:Language/data/iana suppressed scripts">Module:Language/data/iana suppressed scripts</a> (<a href="/w/index.php?title=Module:Language/data/iana_suppressed_scripts&amp;action=edit" title="Module:Language/data/iana suppressed scripts">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/iana_variants" title="Module:Language/data/iana variants">Module:Language/data/iana variants</a> (<a href="/w/index.php?title=Module:Language/data/iana_variants&amp;action=edit" title="Module:Language/data/iana variants">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/data/wp_languages" title="Module:Language/data/wp languages">Module:Language/data/wp languages</a> (<a href="/w/index.php?title=Module:Language/data/wp_languages&amp;action=edit" title="Module:Language/data/wp languages">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Language/name/data" title="Module:Language/name/data">Module:Language/name/data</a> (<a href="/w/index.php?title=Module:Language/name/data&amp;action=edit" title="Module:Language/name/data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Message_box" title="Module:Message box">Module:Message box</a> (<a href="/w/index.php?title=Module:Message_box&amp;action=edit" title="Module:Message box">view source</a>) (protected)</li><li><a href="/wiki/Module:Message_box/configuration" title="Module:Message box/configuration">Module:Message box/configuration</a> (<a href="/w/index.php?title=Module:Message_box/configuration&amp;action=edit" title="Module:Message box/configuration">view source</a>) (protected)</li><li><a href="/wiki/Module:Namespace_detect" title="Module:Namespace detect">Module:Namespace detect</a> (<a href="/w/index.php?title=Module:Namespace_detect&amp;action=edit" title="Module:Namespace detect">view source</a>) (protected)</li><li><a href="/wiki/Module:Namespace_detect/config" title="Module:Namespace detect/config">Module:Namespace detect/config</a> (<a href="/w/index.php?title=Module:Namespace_detect/config&amp;action=edit" title="Module:Namespace detect/config">view source</a>) (protected)</li><li><a href="/wiki/Module:Namespace_detect/data" title="Module:Namespace detect/data">Module:Namespace detect/data</a> (<a href="/w/index.php?title=Module:Namespace_detect/data&amp;action=edit" title="Module:Namespace detect/data">view source</a>) (protected)</li><li><a href="/wiki/Module:Navbar" title="Module:Navbar">Module:Navbar</a> (<a href="/w/index.php?title=Module:Navbar&amp;action=edit" title="Module:Navbar">view source</a>) (protected)</li><li><a href="/wiki/Module:Navbox" title="Module:Navbox">Module:Navbox</a> (<a href="/w/index.php?title=Module:Navbox&amp;action=edit" title="Module:Navbox">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:No_globals" title="Module:No globals">Module:No globals</a> (<a href="/w/index.php?title=Module:No_globals&amp;action=edit" title="Module:No globals">view source</a>) (protected)</li><li><a href="/wiki/Module:Ns_has_subpages" title="Module:Ns has subpages">Module:Ns has subpages</a> (<a href="/w/index.php?title=Module:Ns_has_subpages&amp;action=edit" title="Module:Ns has subpages">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Pagetype" title="Module:Pagetype">Module:Pagetype</a> (<a href="/w/index.php?title=Module:Pagetype&amp;action=edit" title="Module:Pagetype">view source</a>) (protected)</li><li><a href="/wiki/Module:Pagetype/config" title="Module:Pagetype/config">Module:Pagetype/config</a> (<a href="/w/index.php?title=Module:Pagetype/config&amp;action=edit" title="Module:Pagetype/config">view source</a>) (protected)</li><li><a href="/wiki/Module:Portal" title="Module:Portal">Module:Portal</a> (<a href="/w/index.php?title=Module:Portal&amp;action=edit" title="Module:Portal">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Portal_bar" title="Module:Portal bar">Module:Portal bar</a> (<a href="/w/index.php?title=Module:Portal_bar&amp;action=edit" title="Module:Portal bar">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Portal/images/l" title="Module:Portal/images/l">Module:Portal/images/l</a> (<a href="/w/index.php?title=Module:Portal/images/l&amp;action=edit" title="Module:Portal/images/l">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:ResolveEntityId" title="Module:ResolveEntityId">Module:ResolveEntityId</a> (<a href="/w/index.php?title=Module:ResolveEntityId&amp;action=edit" title="Module:ResolveEntityId">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Sidebar" title="Module:Sidebar">Module:Sidebar</a> (<a href="/w/index.php?title=Module:Sidebar&amp;action=edit" title="Module:Sidebar">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:String" title="Module:String">Module:String</a> (<a href="/w/index.php?title=Module:String&amp;action=edit" title="Module:String">view source</a>) (protected)</li><li><a href="/wiki/Module:TableTools" title="Module:TableTools">Module:TableTools</a> (<a href="/w/index.php?title=Module:TableTools&amp;action=edit" title="Module:TableTools">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Unicode_data" title="Module:Unicode data">Module:Unicode data</a> (<a href="/w/index.php?title=Module:Unicode_data&amp;action=edit" title="Module:Unicode data">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Unicode_data/scripts" title="Module:Unicode data/scripts">Module:Unicode data/scripts</a> (<a href="/w/index.php?title=Module:Unicode_data/scripts&amp;action=edit" title="Module:Unicode data/scripts">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:Unsubst" title="Module:Unsubst">Module:Unsubst</a> (<a href="/w/index.php?title=Module:Unsubst&amp;action=edit" title="Module:Unsubst">view source</a>) (protected)</li><li><a href="/wiki/Module:Yesno" title="Module:Yesno">Module:Yesno</a> (<a href="/w/index.php?title=Module:Yesno&amp;action=edit" title="Module:Yesno">view source</a>) (protected)</li></ul></div><div class="hiddencats"><div class="mw-hiddenCategoriesExplanation"><p>This page is a member of 11 hidden categories<span class="posteditwindowhelplinks"> (<a href="/wiki/Help:Category#Hiding_categories" title="Help:Category">help</a>)</span>&#160;:
+</p></div><ul>
+<li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">Category:All articles needing additional references</a></li>
+<li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Category:Articles containing Latin-language text</a></li>
+<li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2013" title="Category:Articles needing additional references from May 2013">Category:Articles needing additional references from May 2013</a></li>
+<li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Category:Articles with short description</a></li>
+<li><a href="/wiki/Category:Historical_forms_of_languages_with_ISO_codes" title="Category:Historical forms of languages with ISO codes">Category:Historical forms of languages with ISO codes</a></li>
+<li><a href="/wiki/Category:Language_articles_with_unreferenced_extinction_date" title="Category:Language articles with unreferenced extinction date">Category:Language articles with unreferenced extinction date</a></li>
+<li><a href="/wiki/Category:Languages_without_Glottolog_code" title="Category:Languages without Glottolog code">Category:Languages without Glottolog code</a></li>
+<li><a href="/wiki/Category:Languages_without_ISO_639-3_code_but_with_Linguist_List_code" title="Category:Languages without ISO 639-3 code but with Linguist List code">Category:Languages without ISO 639-3 code but with Linguist List code</a></li>
+<li><a href="/wiki/Category:Use_dmy_dates_from_November_2015" title="Category:Use dmy dates from November 2015">Category:Use dmy dates from November 2015</a></li>
+<li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2019" title="Category:Wikipedia articles needing clarification from October 2019">Category:Wikipedia articles needing clarification from October 2019</a></li>
+<li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Category:Wikipedia articles with NKC identifiers</a></li>
+</ul></div><div class="limitreport"></div><input id="mw-edit-mode" type="hidden" value="text" name="mode"/><input type="hidden" value="1" name="wpUltimateParam"/>
+</form>
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/wiki/Medieval_Latin">https://en.wikipedia.org/wiki/Medieval_Latin</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Medieval+Latin&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Medieval+Latin&amp;returntoquery=action%3Dedit" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Medieval_Latin" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Medieval_Latin" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible"><a href="/wiki/Medieval_Latin">Read</a></li><li id="ca-edit" class="collapsible selected"><a href="/w/index.php?title=Medieval_Latin&amp;action=edit" title="Edit this page">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Medieval_Latin&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Medieval_Latin" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Medieval_Latin" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/w/index.php?title=Medieval_Latin&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1163234" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Medieval_Latin&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":422,"wgHostname":"mw1372"});});</script></body></html>

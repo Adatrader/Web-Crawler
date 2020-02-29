@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipédia:Conventions de plan — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XlniQgpAADoAAGvtNHEAAADS","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipédia:Conventions_de_plan","wgTitle":"Conventions de plan","wgCurRevisionId":160046617,"wgRevisionId":39925147,"wgArticleId":52219,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Modèle d'article"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipédia:Conventions_de_plan","wgRelevantArticleId":
+52219,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["editextendedsemiprotected"],"wgRestrictionMove":["editextendedsemiprotected"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4663958","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready",
+"mediawiki.ui.checkbox":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.ui.button":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.inputBox","ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cmediawiki.ui.button%2Ccheckbox%2Cinput%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_de_plan"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipédia_Conventions_de_plan rootpage-Wikipédia_Conventions_de_plan skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Wikipédia:Conventions de plan</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Une page de Wikipédia, l&#039;encyclopédie libre.</div>
+		<div id="contentSub"><div class="mw-revision warningbox"><div id="mw-revision-info">Ceci est une <span style="font-size:larger; color:red;">version archivée</span> de cette page, en date du 16 avril 2009 à 09:41 et modifiée en dernier par <a href="/wiki/Utilisateur:Lilyu" class="mw-userlink" title="Utilisateur:Lilyu"><bdi>Lilyu</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/Discussion_utilisateur:Lilyu" class="mw-usertoollinks-talk" title="Discussion utilisateur:Lilyu">discuter</a> | <a href="/wiki/Sp%C3%A9cial:Contributions/Lilyu" class="mw-usertoollinks-contribs" title="Spécial:Contributions/Lilyu">contributions</a>)</span>. Elle peut contenir des erreurs, des inexactitudes ou des contenus vandalisés non présents dans <span class="plainlinks"><a class="external text" href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_de_plan">la version actuelle</a></span>.</div><div id="mw-revision-nav">(<a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;diff=prev&amp;oldid=39925147" title="Wikipédia:Conventions de plan">diff</a>) <a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;direction=prev&amp;oldid=39925147" title="Wikipédia:Conventions de plan">← Version précédente</a> | <a href="/wiki/Wikip%C3%A9dia:Conventions_de_plan" title="Wikipédia:Conventions de plan">Voir la version actuelle</a> (<a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;diff=cur&amp;oldid=39925147" title="Wikipédia:Conventions de plan">diff</a>) | <a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;direction=next&amp;oldid=39925147" title="Wikipédia:Conventions de plan">Version suivante →</a> (<a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;diff=next&amp;oldid=39925147" title="Wikipédia:Conventions de plan">diff</a>)</div></div></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="bandeau-simple bandeau-niveau-neutre plainlinks" style="border-left-width:6px; box-sizing: border-box;"><div class="bandeau-cell">
+<center><b>Pour vos tests utilisez le <a href="/wiki/Wikip%C3%A9dia:Bac_%C3%A0_sable" class="mw-redirect" title="Wikipédia:Bac à sable">Bac à sable<b></b></a></b>
+</center></div></div>
+<div class="bandeau-simple bandeau-niveau-information plainlinks" style="margin:0.5em 10%;"><div class="bandeau-cell grosse-icone information">
+<p><b>En résumé&#160;:</b> cette page récapitule, en se calquant sur la <b>structure type d'un article</b>, les principales recommandations à suivre.
+</p><p>Son objectif est double&#160;:
+</p>
+<ul><li>une meilleure qualité rédactionnelle&#160;; un style plus <a href="/wiki/Wikip%C3%A9dia:Conventions_de_style" title="Wikipédia:Conventions de style">encyclopédique</a>&#160;;</li>
+<li>le renforcement de la cohérence entre les articles de Wikipédia.</li></ul>
+<p>On adaptera ces recommandations générales selon les divers sujets traités.
+</p>
+</div></div>
+<center>
+<p>Pour créer un article tapez, après avoir lu cette page, son titre dans la boîte ci-dessous&#160;:
+</p>
+<div class="mw-inputbox-centered" style="background-color: #EEEEFF;"><form name="createbox" class="createbox" action="/w/index.php" method="get"><input type="hidden" value="edit" name="action" /><input type="hidden" value="Modèle:Nouvel article" name="preload" /><input type="hidden" value="Modèle:Introduction à un nouvel article" name="editintro" /><input type="text" name="title" class="mw-inputbox-input mw-ui-input mw-ui-input-inline createboxInput" value="" placeholder="" size="25" dir="ltr" /><br /><input type="submit" name="create" class="mw-ui-button mw-ui-progressive createboxButton" value="Créer une page" /></form></div></center>
+<p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2 id="mw-toc-heading">Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Titre"><span class="tocnumber">1</span> <span class="toctext">Titre</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Introduction"><span class="tocnumber">2</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Développements"><span class="tocnumber">3</span> <span class="toctext">Développements</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes_et_références"><span class="tocnumber">4</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Bibliographie"><span class="tocnumber">5</span> <span class="toctext">Bibliographie</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Annexes"><span class="tocnumber">6</span> <span class="toctext">Annexes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Articles_connexes"><span class="tocnumber">6.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Liens_externes"><span class="tocnumber">6.2</span> <span class="toctext">Liens externes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Métadonnées"><span class="tocnumber">7</span> <span class="toctext">Métadonnées</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Titre">Titre</span></h2>
+<div class="bandeau-section metadata bandeau-niveau-information loupe">&#8194;Article détaillé&#160;: <a href="/wiki/Wikip%C3%A9dia:Conventions_sur_les_titres" title="Wikipédia:Conventions sur les titres">Wikipédia:Conventions sur les titres</a>.</div>
+<ul><li>Le titre doit désigner spécifiquement le sujet traité et ne donner lieu à aucune ambiguïté.</li>
+<li>Il doit être choisi selon le <a href="/wiki/Principe_de_moindre_surprise" title="Principe de moindre surprise">principe de moindre surprise</a>, le terme le plus commun devant être utilisé, rédigé de préférence en français, chaque fois que c'est possible et sans ambiguïté<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>.</li>
+<li>Il ne prend qu'une majuscule initiale, sauf dans le cas des noms propres (voir <a href="/wiki/Wikip%C3%A9dia:Conventions_typographiques" title="Wikipédia:Conventions typographiques">Conventions typographiques</a>).</li>
+<li>Il doit, sauf exception justifiée, être décliné au singulier.</li>
+<li>Il ne comprend pas d'article initial (par exemple, on choisira le nom «&#160;Plante&#160;» et non «&#160;La plante&#160;»), sauf pour les noms propres si cet article fait partie intégrante du nom.</li></ul>
+<h2><span class="mw-headline" id="Introduction">Introduction</span></h2>
+<div class="bandeau-section metadata bandeau-niveau-information loupe">&#8194;Article détaillé&#160;: <a href="/wiki/Wikip%C3%A9dia:R%C3%A9sum%C3%A9_introductif" title="Wikipédia:Résumé introductif">Wikipédia:Résumé introductif</a>.</div>
+<p>Un article devrait, autant que possible selon la nature du sujet traité, commencer par une brève présentation de quelques phrases, comportant&#160;:
+</p>
+<ul><li>une introduction, qui, comme son nom l'indique, doit introduire le lecteur dans un sujet qu'il ne maîtrise peut-être pas du tout. Une erreur fréquente est de commencer l'article sans préciser le contexte qui, s'il est évident pour l'auteur, ne l'est pas forcément pour le lecteur. Si la suite de l'article est très technique, cette introduction devrait contenir un renvoi explicite vers un article de vulgarisation&#160;;</li>
+<li>un bref résumé des aspects importants du sujet, qui annonce éventuellement les développements insérés dans le corps de l'article et qui pourra si nécessaire être retouché quand l'article aura été davantage développé.</li></ul>
+<p>Il est important que cette partie soit le plus accessible possible, et qu'elle soit rédigée en langage clair, sans faire appel à un jargon spécialisé qui pourra être introduit et expliqué par la suite. On ne connaît pas le cheminement qui a conduit le lecteur à cette page et il est préférable de considérer que cela peut être le fruit du hasard.
+</p><p>Cette partie, placée avant le sommaire, devrait se suffire à elle-même et permettre au lecteur pressé d'obtenir les connaissances essentielles, sans qu'il lui soit nécessaire de lire tous les développements. Si le contenu de l'article s'y prête, une <a href="/wiki/Wikip%C3%A9dia:R%C3%A8gles_d%27utilisation_des_images" class="mw-redirect" title="Wikipédia:Règles d&#39;utilisation des images">illustration</a> et/ou un <a href="/wiki/Aide:Les_tableaux_pour_les_novices" class="mw-redirect" title="Aide:Les tableaux pour les novices">tableau de synthèse</a> ou synoptique devrait se placer à la droite du chapitre d'introduction.
+</p>
+<h2><span id="D.C3.A9veloppements"></span><span class="mw-headline" id="Développements">Développements</span></h2>
+<p>Un plan détaillé avec des titres de chapitre et de sous-sections explicites permet de simplifier l'accès à l'information&#160;; cette pratique est donc  vivement encouragée.  Chaque chapitre devrait débuter par une phrase d'introduction.
+</p><p>Il faut éviter d'utiliser plus de deux sous-niveaux de titre pour un même chapitre&#160;:
+</p>
+<pre>=== Une sous-section ===
+==== Niveau maximal de sous-titre ====
+</pre>
+<p>Si un chapitre est trop grand, il peut être déplacé dans un article indépendant. L'article principal devrait alors contenir un résumé de quelques lignes précédé du code <a href="/wiki/Mod%C3%A8le:Article_d%C3%A9taill%C3%A9" title="Modèle:Article détaillé">{{article détaillé|Titre de l'article détaillé}}</a> qui donne&#160;:
+</p>
+<div class="bandeau-section metadata bandeau-niveau-information loupe">&#8194;Article détaillé&#160;: <a href="/w/index.php?title=Titre_de_l%27article_d%C3%A9taill%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Titre de l&#39;article détaillé (page inexistante)">Titre de l'article détaillé</a>.</div>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span></h2>
+<p><code>{{Références}}</code><br />
+</p>
+<div class="bandeau-section metadata bandeau-niveau-information loupe">&#8194;Articles détaillés&#160;: <a href="/wiki/Aide:Note" title="Aide:Note">Aide:Note</a>, <a href="/wiki/Wikip%C3%A9dia:Citez_vos_sources" title="Wikipédia:Citez vos sources">Wikipédia:Citez vos sources</a> et <a href="/wiki/Wikip%C3%A9dia:Conventions_bibliographiques" title="Wikipédia:Conventions bibliographiques">Wikipédia:conventions bibliographiques</a>.</div>
+<p>Toutes les annotations, qu'elles indiquent les sources de l'article ou ajoutent un commentaire, faites avec la balise &lt;ref&gt; sont synthétisées ici avec l'utilisation de la balise &lt;references /&gt; , le modèle <code>{{Références}}</code> ou <code>{{Références|colonnes=2}}</code>.
+</p><p>Exemple&#160;: «&#160;Notes et références&#160;» de cette page de recommandations&#160;:
+</p>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink noprint"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"> Voir cette discussion à propos des <a href="/wiki/Discussion_Projet:Musique_classique#titre:_Cas_particuliers" title="Discussion Projet:Musique classique">œuvres musicales classiques</a> et <a href="/wiki/Wikip%C3%A9dia:Conventions_sur_les_titres#Recommandations_générales" title="Wikipédia:Conventions sur les titres">Wikipédia:Conventions sur les titres#Recommandations générales</a>, point <abbr class="abbr" title="numéro">n<sup>o</sup></abbr>&#160;4</span>
+</li>
+</ol></div>
+<p><br />
+On indique ici aussi les articles de Wikipédia dont serait issue une partie de la page par traduction, utiliser le modèle&#160;: <a href="/wiki/Mod%C3%A8le:Traduction/R%C3%A9f%C3%A9rence" title="Modèle:Traduction/Référence">{{Traduction/Référence}}</a>.<br />
+Dans tous les cas, il faut aussi utiliser le modèle <a href="/wiki/Mod%C3%A8le:Traduit_de" title="Modèle:Traduit de">{{Traduit de}}</a> en complément, dans la page de discussion de l'article, sans quoi les auteurs de l'article original ne voient pas leurs droits respectés (puisque ce modèle ne mentionne pas la <a href="/wiki/Licence_de_documentation_libre_GNU" title="Licence de documentation libre GNU">GFDL</a> et ne cite pas la liste des auteurs).
+</p><p>Les articles de Wikipédia et les indications dont serait issue une partie de la page par scission ou fusion doivent être placées sur la page de discussion de l'article. Des modèles permettent cette présentation&#160;: <a href="/wiki/Mod%C3%A8le:Auteurs_cr%C3%A9dit%C3%A9s_apr%C3%A8s_scission" title="Modèle:Auteurs crédités après scission">{{Auteurs crédités après scission}}</a>, <a href="/wiki/Mod%C3%A8le:Auteurs_cr%C3%A9dit%C3%A9s_apr%C3%A8s_copie" title="Modèle:Auteurs crédités après copie">{{Auteurs crédités après copie}}</a>.
+</p>
+<h2><span class="mw-headline" id="Bibliographie">Bibliographie</span></h2>
+<div class="bandeau-section metadata bandeau-niveau-information loupe">&#8194;Article détaillé&#160;: <a href="/wiki/Wikip%C3%A9dia:Conventions_bibliographiques" title="Wikipédia:Conventions bibliographiques">Wikipédia:Conventions bibliographiques</a>.</div>
+<ul><li>Prénom Nom, <i>Titre</i>, éditeur, lieu d'édition, année d'édition (Pour l'ISBN, merci d'utiliser le modèle <code><a href="/wiki/Mod%C3%A8le:ISBN" title="Modèle:ISBN">{{ISBN}}</a></code>.)</li>
+<li>Prénom Nom, «&#160;Titre de l'article&#160;», dans, <i>Titre de la publication</i>, tome, année, page(s).</li></ul>
+<h2><span class="mw-headline" id="Annexes">Annexes</span></h2>
+<p>Ce chapitre sert à proposer des ressources  pour le lecteur qui souhaite approfondir le sujet. <b>Normalement tout ce qui a servi à rédiger l'article est à placer dans la section «&#160;Notes et références&#160;» ci-dessus</b>, y compris les sources bibliographiques. L'objectif n'est donc pas d'accumuler le plus de références possibles mais de sélectionner ci-dessous celles qui seront le plus utiles au lecteur qui vient de lire l'article.
+</p>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span></h3>
+<p>Ne devraient être répertoriés ici que des articles à la thématique très proche et suffisamment aboutis pour donner des informations complémentaires au lecteur. Il faut éviter les liens vers des articles juste esquissés ou qui renvoient finalement vers l'article en question. La formulation <i>Articles connexes</i> est préférable à celle de <i>Liens internes</i>, car Wikipédia est destinée aussi à être imprimée et dans cette hypothèse <i>Liens internes</i> n'est pas pertinent.
+</p><p>Si la liste d'articles connexes devient importante, il peut être intéressant de les regrouper dans une <a href="/wiki/Wikip%C3%A9dia:Cat%C3%A9gorie" class="mw-redirect" title="Wikipédia:Catégorie">catégorie</a>.
+</p>
+<h3><span class="mw-headline" id="Liens_externes">Liens externes</span></h3>
+<div class="bandeau-section metadata bandeau-niveau-information loupe">&#8194;Article détaillé&#160;: <a href="/wiki/Aide:Liens_externes" title="Aide:Liens externes">Aide:Liens externes</a>.</div>
+<ul><li><abbr class="abbr indicateur-langue" title="Langue&#32;: français">(fr)</abbr> [http:/] résumer le contenu du site ou</li>
+<li><abbr class="abbr indicateur-langue" title="Langue&#32;: anglais">(en)</abbr> [http:/ résumé du contenu du site] <i>dans ce cas site en langue anglaise</i></li></ul>
+<hr />
+<p>Si l'article appartient à un domaine couvert par un portail (voire deux portails), on appose au pied de l'article le lien vers ce ou ces portails. Voir <a href="/w/index.php?title=Wikip%C3%A9dia:Projet,_Charte_graphique/Mod%C3%A8les_de_lien_portail&amp;action=edit&amp;redlink=1" class="new" title="Wikipédia:Projet, Charte graphique/Modèles de lien portail (page inexistante)">Wikipédia:Projet, Charte graphique/Modèles de lien portail</a> pour les modèles disponibles.
+</p>
+<h2><span id="M.C3.A9tadonn.C3.A9es"></span><span class="mw-headline" id="Métadonnées">Métadonnées</span></h2>
+<p>Les métadonnées sont un ensemble d'informations descriptives ajoutées à un article pour mieux le qualifier. Elles ne font pas partie de l'article proprement dit, mais lui sont intimement associées.
+Dans sa version actuelle, le logiciel supporte deux types de métadonnées&#160;:
+</p>
+<ul><li>les <a href="/wiki/Wikip%C3%A9dia:Cat%C3%A9gorie" class="mw-redirect" title="Wikipédia:Catégorie">catégories</a> permettant de classer les articles par sujet(s) ou thème(s)&#160;;</li>
+<li>les <a href="/wiki/Wikip%C3%A9dia:Liens_d%27interlangue" class="mw-redirect" title="Wikipédia:Liens d&#39;interlangue">liens inter-langue</a> permettant de passer d'un article dans une langue donnée à l'article correspondant dans une autre langue.</li></ul>
+<p>Les métadonnées doivent être placées à la fin de l'article.
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20200229040210
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.116 seconds
+Real time usage: 0.152 seconds
+Preprocessor visited node count: 788/1000000
+Post‐expand include size: 8685/2097152 bytes
+Template argument size: 1328/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1281/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.041/10.000 seconds
+Lua memory usage: 1.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.850      1 -total
+ 26.90%   35.743      6 Modèle:Article_détaillé
+ 24.31%   32.296      1 Modèle:Fr
+ 23.50%   31.221      6 Modèle:Méta_bandeau_de_section
+ 22.70%   30.154      2 Modèle:Indication_de_langue
+ 20.95%   27.834      1 Modèle:Relief
+ 20.17%   26.800      2 Modèle:Méta_bandeau
+ 13.97%   18.553      6 Modèle:Multiparamètres-Lien
+  5.83%    7.743      6 Modèle:M
+  2.95%    3.924      1 Modèle:En_résumé
+-->
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Wikipédia:Conventions_de_plan&amp;oldid=39925147">https://fr.wikipedia.org/w/index.php?title=Wikipédia:Conventions_de_plan&amp;oldid=39925147</a>&#160;».</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégorie</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Mod%C3%A8le_d%27article" title="Catégorie:Modèle d&#039;article">Modèle d'article</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Wikip%C3%A9dia%3AConventions+de+plan&amp;returntoquery=oldid%3D39925147" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikip%C3%A9dia%3AConventions+de+plan&amp;returntoquery=oldid%3D39925147" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikip%C3%A9dia:Conventions_de_plan" title="Voir la page du projet [a]" accesskey="a">Page</a></li><li id="ca-talk"><a href="/wiki/Discussion_Wikip%C3%A9dia:Conventions_de_plan" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikip%C3%A9dia:Conventions_de_plan">Lire</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;action=edit&amp;oldid=39925147" title="Cette page est protégée.&#10;Vous pouvez toutefois en visualiser la source. [e]" accesskey="e">Voir le texte source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Wikip%C3%A9dia:Conventions_de_plan" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Wikip%C3%A9dia:Conventions_de_plan" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;oldid=39925147" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4663958" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		Dans d’autres projets
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Commons:Guide_to_layout" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Wikip%C3%A9dia%3AConventions+de+plan">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Wikip%C3%A9dia%3AConventions+de+plan&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Wikipedia:Wat_is_%27n_artikel" title="Wikipedia:Wat is &#039;n artikel — afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D9%88%D8%A8/%D8%AA%D9%86%D8%B8%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A9" title="ويكيبيديا:دليل الأسلوب/تنظيم المقالة — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A7%B1%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE:%E0%A7%B0%E0%A6%9A%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A7%88%E0%A6%B2%E0%A7%80%E0%A7%B0_%E0%A6%B9%E0%A6%BE%E0%A6%A4%E0%A6%AA%E0%A7%81%E0%A6%A5%E0%A6%BF_(%E0%A6%B8%E0%A6%9C%E0%A7%8D%E0%A6%9C%E0%A6%BE)" title="ৱিকিপিডিয়া:ৰচনাশৈলীৰ হাতপুথি (সজ্জা) — assamais" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%8F" title="Уикипедия:Статия — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Estructura_d%27un_article" title="Viquipèdia:Estructura d&#039;un article — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Wikipedie:%C4%8Cl%C3%A1nek" title="Wikipedie:Článek — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Wicipedia:Beth_ydy_erthygl" title="Wicipedia:Beth ydy erthygl — gallois" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Hj%C3%A6lp:Hvad_er_en_artikel" title="Hjælp:Hvad er en artikel — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:Formatvorlage/Musterartikel" title="Wikipedia:Formatvorlage/Musterartikel — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%BA%CE%B9%CF%80%CE%B1%CE%AF%CE%B4%CE%B5%CE%B9%CE%B1:%CE%A4%CE%B9_%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9_%CE%AD%CE%BD%CE%B1_%CE%AC%CF%81%CE%B8%CF%81%CE%BF" title="Βικιπαίδεια:Τι είναι ένα άρθρο — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Wikipedia:What_is_an_article%3F" title="Wikipedia:What is an article? — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Vikipedio:Kio_estas_artikolo" title="Vikipedio:Kio estas artikolo — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Wikipedia:Estructura_de_un_art%C3%ADculo" title="Wikipedia:Estructura de un artículo — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Vikipeedia:Artikkel" title="Vikipeedia:Artikkel — estonien" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Wikipedia:Zer_da_artikulu_bat%3F" title="Wikipedia:Zer da artikulu bat? — basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%88%DB%8C%DA%A9%DB%8C%E2%80%8C%D9%BE%D8%AF%DB%8C%D8%A7:%D9%85%D9%82%D8%A7%D9%84%D9%87_%DA%86%DB%8C%D8%B3%D8%AA%D8%9F" title="ویکی‌پدیا:مقاله چیست؟ — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ohje:Artikkelin_rakenne" title="Ohje:Artikkelin rakenne — finnois" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Wikipedia:Hvat_er_ein_grein" title="Wikipedia:Hvat er ein grein — féroïen" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Wikipedia:Modelo_b%C3%A1sico_de_artigo" title="Wikipedia:Modelo básico de artigo — galicien" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%95%D7%99%D7%A7%D7%99%D7%A4%D7%93%D7%99%D7%94:%D7%A2%D7%A8%D7%99%D7%9B%D7%94_%D7%98%D7%9B%D7%A0%D7%99%D7%AA" title="ויקיפדיה:עריכה טכנית — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Wikip%C3%A9dia:Mi_az_a_sz%C3%B3cikk%3F" title="Wikipédia:Mi az a szócikk? — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Wikipedia:Apa_yang_dinamakan_artikel" title="Wikipedia:Apa yang dinamakan artikel — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aiuto:Voce" title="Aiuto:Voce — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Help:%E8%A8%98%E4%BA%8B%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B" title="Help:記事とは何か — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Wikipedia:Apa_sing_diarani_artikel" title="Wikipedia:Apa sing diarani artikel — javanais" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%ED%8E%B8%EC%A7%91_%EC%A7%80%EC%B9%A8/%EB%AC%B8%EB%8B%A8_%EA%B5%AC%EC%84%B1" title="위키백과:편집 지침/문단 구성 — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Vicipaedia:Structura_paginae" title="Vicipaedia:Structura paginae — latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vikipedija:Bendrasis_straipsnio_planas" title="Vikipedija:Bendrasis straipsnio planas — lituanien" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-min"><a href="https://min.wikipedia.org/wiki/Wikipedia:Padoman_tata_latak" title="Wikipedia:Padoman tata latak — minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B4%BF%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B4%BF%E0%B4%AA%E0%B5%80%E0%B4%A1%E0%B4%BF%E0%B4%AF:%E0%B4%B2%E0%B5%87%E0%B4%96%E0%B4%A8%E0%B4%82" title="വിക്കിപീഡിയ:ലേഖനം — malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Wikipedia:Manual_gaya_penulisan/Reka_letak" title="Wikipedia:Manual gaya penulisan/Reka letak — malais" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/Wikipedia:Layout" title="Wikipedia:Layout — birman" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A4%BF%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE:%E0%A4%B2%E0%A5%87%E0%A4%96%E0%A4%A8_%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80/%E0%A4%B2%E0%A5%87%E0%A4%86%E0%A4%89%E0%A4%9F" title="विकिपिडिया:लेखन शैली/लेआउट — népalais" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wikipedia:Lemma" title="Wikipedia:Lemma — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Wikipedia:Oppsettsveiledning" title="Wikipedia:Oppsettsveiledning — norvégien bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wikipedia:Standardy_artyku%C5%82%C3%B3w/standard_og%C3%B3lny" title="Wikipedia:Standardy artykułów/standard ogólny — polonais" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-rmy"><a href="https://rmy.wikipedia.org/wiki/Vikipidiya:So_si_ek_lekh" title="Vikipidiya:So si ek lekh — Vlax Romani" lang="rmy" hreflang="rmy" class="interlanguage-link-target">Romani čhib</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D1%8F" title="Википедия:Статья — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Wikipedia:What_is_an_article%3F" title="Wikipedia:What is an article? — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Wikip%C3%A9dia:%C4%8Cl%C3%A1nok" title="Wikipédia:Článok — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Wikipedija:Kaj_je_%C4%8Dlanek" title="Wikipedija:Kaj je članek — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Wikipedia:Artikel_t%C3%A9h_naon%3F" title="Wikipedia:Artikel téh naon? — soundanais" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Wikipedia:Vad_%C3%A4r_en_artikel%3F" title="Wikipedia:Vad är en artikel? — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BF%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%80%E0%AE%9F%E0%AE%BF%E0%AE%AF%E0%AE%BE:%E0%AE%AA%E0%AE%95%E0%AF%8D%E0%AE%95_%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81_%E0%AE%95%E0%AF%88%E0%AE%AF%E0%AF%87%E0%AE%9F%E0%AF%81" title="விக்கிப்பீடியா:பக்க வடிவமைப்பு கையேடு — tamoul" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%BF%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B1%80%E0%B0%A1%E0%B0%BF%E0%B0%AF%E0%B0%BE:%E0%B0%B2%E0%B1%87%E0%B0%85%E0%B0%B5%E0%B1%81%E0%B0%9F%E0%B1%8D" title="వికీపీడియా:లేఅవుట్ — télougou" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3" title="วิกิพีเดีย:บทความหมายถึงอะไร — thaï" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikipedia:Ano_ang_isang_artikulo" title="Wikipedia:Ano ang isang artikulo — tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Vikipedi:Madde" title="Vikipedi:Madde — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%A1%D1%82%D0%B8%D0%BB%D1%8C/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96" title="Вікіпедія:Стиль/Структура статті — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Vikipediya:Maqola" title="Vikipediya:Maqola — ouzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Wikipedia:B%C3%A0i_b%C3%A1ch_khoa_l%C3%A0_g%C3%AC%3F" title="Wikipedia:Bài bách khoa là gì? — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E4%BB%80%E4%B9%88%E6%98%AF%E6%9D%A1%E7%9B%AE" title="Wikipedia:什么是条目 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4663958#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-copyright">Vous êtes sur une ancienne version de l’article. <br />Il a depuis été corrigé pour cause d’informations erronées, de vandalisme ou de contenu incompatible avec la <a href="/wiki/Wikip%C3%A9dia:Licence_Creative_Commons_Paternit%C3%A9-Partage_des_Conditions_Initiales_%C3%A0_l%27Identique_3.0_Unported" title="Wikipédia:Licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique 3.0 Unported">licence Creative Commons Paternité-Partage des Conditions Initiales à l'Identique</a>, ou simplement amélioré.<br /></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Conventions_de_plan&amp;oldid=39925147&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.152","ppvisitednodes":{"value":788,"limit":1000000},"postexpandincludesize":{"value":8685,"limit":2097152},"templateargumentsize":{"value":1328,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1281,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  132.850      1 -total"," 26.90%   35.743      6 Modèle:Article_détaillé"," 24.31%   32.296      1 Modèle:Fr"," 23.50%   31.221      6 Modèle:Méta_bandeau_de_section"," 22.70%   30.154      2 Modèle:Indication_de_langue"," 20.95%   27.834      1 Modèle:Relief"," 20.17%   26.800      2 Modèle:Méta_bandeau"," 13.97%   18.553      6 Modèle:Multiparamètres-Lien","  5.83%    7.743      6 Modèle:M","  2.95%    3.924      1 Modèle:En_résumé"]},"scribunto":{"limitreport-timeusage":{"value":"0.041","limit":"10.000"},"limitreport-memusage":{"value":1862391,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20200229040210","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":290,"wgHostname":"mw1263"});});</script></body></html>

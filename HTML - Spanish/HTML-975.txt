@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia - Vikidia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wikipedia","wgTitle":"Wikipedia","wgCurRevisionId":122562,"wgRevisionId":122562,"wgArticleId":492,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgBreakFrames":false,"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","setiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","set","oct","nov","dic"],"wgRelevantPageName":"Wikipedia","wgRelevantArticleId":492,"wgRequestId":"5d417e8be4579e3ca55beb05","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":false},"wgWikiEditorEnabledModules":{"toolbar":true,"preview":true,"publish":false},"wgMFMode":"stable","wgMFLazyLoadImages":false,"wgMFLazyLoadReferences":false,"wgPreferredVariant":"es","wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgNoticeProject":"vikidia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgVisualEditorToolbarScrollOffset":0,"wgEditSubmitButtonLabelPublish":false,"wgMinervaMenuData":{"groups":[[{"name":"home","components":[{"text":"Inicio","href":"/wiki/Vikidia:Portada","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-mf-home ","data-event-name":"home"}]},{"name":"random","components":[{"text":"Aleatorio","href":"/wiki/Especial:Aleatoria/#/random","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-mf-random ","id":"randomButton","data-event-name":"random"}]}],[{"name":"auth","components":[{"text":"Acceder","href":"/w/index.php?title=Especial:Entrar\u0026returnto=Wikipedia\u0026returntoquery=mobileaction%3Dtoggle_view_mobile%26welcome%3Dyes","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-mf-anonymous ","data-event-name":"login"}],"class":"jsonly"}],[{"name":"settings","components":[{"text":"Configuración","href":"/w/index.php?title=Especial:OpcionesParaM%C3%B3vil\u0026returnto=Wikipedia","class":"mw-ui-icon mw-ui-icon-before mw-ui-icon-mf-settings ","data-event-name":"settings"}]}]],"sitelinks":[{"name":"about","components":[{"text":"Acerca de Vikidia","href":"/wiki/Vikidia:Acerca_de","class":""}]},{"name":"disclaimers","components":[{"text":"Exoneraciones","href":"/wiki/Vikidia:Descargo_general","class":""}]}]},"wgMinervaTocEnabled":false,"wgMFDescription":null});mw.loader.state({"user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","skins.minerva.base.reset":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.tablet.styles":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.images":"ready"});mw.loader.implement("user.options@0jtin21",function($,jQuery,require,module){mw.user.options.set({"variant":"es"});});mw.loader.implement("user.tokens@1tmbjqf",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","skins.minerva.scripts.top","skins.minerva.scripts","skins.minerva.watchstar","skins.minerva.editor","skins.minerva.toggling","mobile.site","ext.visualEditor.targetLoader","ext.centralNotice.geoIP","ext.centralNotice.startUp"]);});</script>
+<link rel="stylesheet" href="//download.vikidia.org/es.vikidia.org/load.php?debug=false&amp;lang=es&amp;modules=mediawiki.ui.button%2Cicon%7Cskins.minerva.base.reset%2Cstyles%7Cskins.minerva.content.styles%7Cskins.minerva.icons.images%7Cskins.minerva.tablet.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="//download.vikidia.org/es.vikidia.org/load.php?debug=false&amp;lang=es&amp;modules=startup&amp;only=scripts&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<meta name="generator" content="MediaWiki 1.29.2"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Wikipedia&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Wikipedia&amp;action=edit"/>
+<link rel="shortcut icon" href="//download.vikidia.org/vikidia/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikidia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://es.vikidia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="dns-prefetch" href="//central.vikidia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wikipedia rootpage-Wikipedia stable skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<!--[if lt IE 9]>
+   <script>
+      document.createElement('nav');
+   </script>
+<![endif]-->
+
+	<nav id="mw-mf-page-left" class="navigation-drawer view-border-box">
+		
+	</nav>
+	<div id="mw-mf-page-center">
+		<div class="banner-container">
+			<div id="siteNotice"></div>
+
+		</div>
+		<div class="header-container header-chrome">
+			<form class="header" action="/w/index.php">
+				<div><a title="Abrir el menú principal" href="/wiki/Especial:MobileMenu" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-mainmenu main-menu-button" id="mw-mf-main-menu-button">Abrir el menú principal</a></div>
+				<div class="branding-box">
+					<h1>
+						<span>Vikidia</span>
+						<sup>&beta;</sup>
+					</h1>
+				</div>
+				<div class="search-box">
+					<input class="search" type="search" name="search" id="searchInput"
+					   autocomplete="off" placeholder="Buscar en Vikidia"
+					   value="">
+				</div>
+				<div><a href="/wiki/Especial:Buscar" id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-magnifying-glass"><input type="submit" value="Buscar"/></a></div>
+				
+			</form>
+		</div>
+		<div id="content" class="mw-body">
+			<div class="pre-content heading-holder"><ul id="page-actions" class="hlist "><li id="ca-edit" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-edit-enabled" title="Editar la sección introductoria de esta página."><a href="/w/index.php?title=Wikipedia&amp;action=edit&amp;section=0">Editar</a></li><li id="ca-watch" class="mw-ui-icon mw-ui-icon-element icon-32px watch-this-article"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Wikipedia" title="Añadir esta página a tu lista de seguimiento [w]" accesskey="w"></a></li><li class="mw-ui-icon mw-ui-icon-element mw-ui-icon-language-switcher language-selector" title="Leer en otro idioma"><a href="/wiki/Especial:MobileLanguages/Wikipedia">Leer en otro idioma</a></li></ul><h1 id="section_0">Wikipedia</h1></div><div id="bodyContent" class="content"><div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mf-section-0" id="mf-section-0"><div class="noprint plainlinks infobox infobox-contenido">
+­<div><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commons-emblem-issue.svg/40px-Commons-emblem-issue.svg.png" width="40" height="40" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commons-emblem-issue.svg/60px-Commons-emblem-issue.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commons-emblem-issue.svg/80px-Commons-emblem-issue.svg.png 2x" data-file-width="48" data-file-height="48"></div>
+­<div><div><center><big><b>Artículo sin referencias</b></big><br>Este artículo o sección necesita <b>referencias</b> que aparezcan en una fuente confiable. Puede ser un periódico, revista, página web fidedigna, nota periodística, entre otras. Si conoces sobre este tema, agrega las referencias utilizando las etiquetas <strong><tt>&lt;ref&gt;&lt;/ref&gt;</tt></strong> entre cada enlace.</center></div></div>
+­<div>­</div>
+</div><div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/Archivo:Wikipedia-logo-v2.svg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/200px-Wikipedia-logo-v2.svg.png" width="200" height="183" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/300px-Wikipedia-logo-v2.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/400px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94"></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Wikipedia-logo-v2.svg" class="internal" title="Aumentar"></a></div>Wikipedia, la enciclopedia libre</div></div></div>
+<p><b>Wikipedia</b> es una <a href="/wiki/Enciclopedia" title="Enciclopedia">enciclopedia</a> que está en <a href="/wiki/Internet" title="Internet">Internet</a> y que se puede consultar en 271 <a href="/wiki/Idioma" title="Idioma">idiomas</a> diferentes. Esto significa que no hay una única Wikipedia con todos los idiomas incluidos en ella, sino que hay diferentes Wikipedias para cada idioma.
+</p><p>Wikipedia es especial por tres razones principales:
+</p>
+<ol><li>Cualquier persona puede colaborar con ella escribiendo o modificando los artículos.</li>
+<li>Su consulta es gratis.</li>
+<li>Su contenido puedes usarlo cuando y dónde quieras sin tener que pagar por ello, ni pedir permiso (aunque debes indicar que procede de Wikipedia).</li></ol><p>Wikipedia fue fundada por <a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a> y <a href="/wiki/Larry_Sanger" title="Larry Sanger">Larry Sanger</a>, quienes la hicieron funcionar el <a href="/wiki/15_de_enero" title="15 de enero">15 de enero</a> de <a href="/wiki/2001" title="2001">2001</a>. Pertenece a la <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a>, una organización sin animo de lucro que intenta que el conocimiento llegue al mayor número de personas posible.
+</p><p>Wikipedia tenía en abril de 2008 más de 10 millones de artículos (más de 2 millones son de su versión en inglés) y a finales de febrero de 2006 tenía 1 millón de usuarios registrados.
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(1)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span class="mw-headline" id="Historia">Historia</span><span><a href="/w/index.php?title=Wikipedia&amp;action=edit&amp;section=1" title="Editar sección: Historia" data-section="1" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-edit-enabled edit-page">Editar</a></span></h2><div class="mf-section-1 collapsible-block" id="mf-section-1">
+<p>Antes de Wikipedia, existía <a href="/w/index.php?title=Nupedia&amp;action=edit&amp;redlink=1" class="new" title="Nupedia (la página no existe)">Nupedia</a>, un proyecto fundado por <a href="/wiki/Jimmy_Wales" title="Jimmy Wales">Jimmy Wales</a> que consistía en la participación de eruditos, y además, una revisión de los artículos. El problema era que su avance era demasiado lento, así que se pensó en cambiar el estilo del sitio web. Fue entonces que se creó Wikipedia, gracias a <a href="/wiki/Larry_Sanger" title="Larry Sanger">Larry Sanger</a>, tal como es conocida. Nupedia ya no existe hoy en día.
+</p>
+</div><h2 class="section-heading" onclick="javascript:mfTempOpenSection(2)"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span><a href="/w/index.php?title=Wikipedia&amp;action=edit&amp;section=2" title="Editar sección: Enlaces externos" data-section="2" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-edit-enabled edit-page">Editar</a></span></h2><div class="mf-section-2 collapsible-block" id="mf-section-2">
+<ul><li> <a href="//es.wikipedia.org/wiki/" class="extiw" title="wikipedia:">Página oficial de Wikipedia en español</a>.</li></ul></div><script>(window.RLQ=window.RLQ||[]).push(function(){mw.log.warn("Gadget \"ReferenceTooltips\" styles loaded twice. Migrate to type=general. See \u003Chttps://www.mediawiki.org/wiki/RL/MGU#Gadget_type\u003E.");});</script></div><div class="printfooter">
+Obtenido de «<a dir="ltr" href="https://es.vikidia.org/w/index.php?title=Wikipedia&amp;oldid=122562">https://es.vikidia.org/w/index.php?title=Wikipedia&amp;oldid=122562</a>»</div>
+</div><div class="post-content" id="page-secondary-actions"></div>
+		</div>
+		
+<footer>
+<div class="last-modified-bar view-border-box footer-element">
+	<div class="content">
+		<div class="last-modifier-tagline truncated-text mw-ui-icon mw-ui-icon-before mw-ui-icon-clock-gray ">
+			<div class="mw-ui-icon mw-ui-icon-element mw-ui-icon-arrow-gray mw-ui-icon-small indicator"></div><a href="/wiki/Especial:History/Wikipedia"
+				data-user-name="Rapunzel"
+				data-user-gender="male"
+				data-timestamp="1566191443">
+				&Uacute;ltima modificaci&oacute;n el 19 ago 2019, a las 05:10
+			</a>
+		</div>
+	</div>
+</div>
+<div class="post-content footer-content">
+	<h2>Vikidia</h2>
+	<div class="license">El contenido está disponible bajo la licencia <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, salvo que se indique lo contrario.</div>
+	
+	<ul class="footer-places hlist hlist-separated">
+		
+		<li id="footer-places-privacy"><a href="/wiki/Vikidia:Pol%C3%ADtica_de_privacidad" title="Vikidia:Política de privacidad">Privacidad</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="https://es.vikidia.org/w/index.php?title=Wikipedia&amp;mobileaction=toggle_view_desktop">Escritorio</a></li>
+	</ul>
+	
+</div>
+</footer>
+
+
+	</div>
+</div>
+<!-- v:7 -->
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.016","walltime":"0.247","ppvisitednodes":{"value":41,"limit":1000000},"ppgeneratednodes":{"value":278,"limit":1000000},"postexpandincludesize":{"value":1268,"limit":2097152},"templateargumentsize":{"value":420,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"timingprofile":["100.00%    1.553      1 -total","100.00%    1.553      1 Plantilla:Referencias"," 64.38%    1.000      1 Plantilla:Infobox"]},"cachereport":{"timestamp":"20200228153543","ttl":86400,"transientcontent":false}}});});</script><!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["disableCookies"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u = (("https:" == document.location.protocol) ? "https" : "http") + "://";
+    _paq.push(["setTrackerUrl", u+"stats.vikidia.org/"+"piwik.php"]);
+    _paq.push(["setSiteId", "2"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"download.vikidia.org/piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+
+<!-- Piwik Image Tracker -->
+<noscript><img src="https://stats.vikidia.org/piwik.php?idsite=2&rec=1" style="border:0" alt="" /></noscript>
+<!-- End Piwik --><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":30});});</script>		</body>
+		</html>
+		

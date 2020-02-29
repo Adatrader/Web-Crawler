@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljQcgpAICgAAIfubdsAAACS","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=Z"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"Z","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='Z' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Yabar" title="Especial:Todas">Página anterior (Yabar)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Zarrandecoechea" title="Especial:Todas">Página siguiente (Zarrandecoechea)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/Z" title="Z">Z</a></li>
+<li><a href="/wiki/ZPL" title="ZPL">ZPL</a></li>
+<li><a href="/wiki/Zabal" title="Zabal">Zabal</a></li>
+<li><a href="/wiki/Zabala" title="Zabala">Zabala</a></li>
+<li><a href="/wiki/Zabalaemaldi" title="Zabalaemaldi">Zabalaemaldi</a></li>
+<li><a href="/wiki/Zabalaga" title="Zabalaga">Zabalaga</a></li>
+<li><a href="/wiki/Zabalain" title="Zabalain">Zabalain</a></li>
+<li><a href="/wiki/Zabalainchurreta" title="Zabalainchurreta">Zabalainchurreta</a></li>
+<li><a href="/wiki/Zabalaiturrioz" title="Zabalaiturrioz">Zabalaiturrioz</a></li>
+<li><a href="/wiki/Zabalajauregui" title="Zabalajauregui">Zabalajauregui</a></li>
+<li><a href="/wiki/Zabalalegorraza" title="Zabalalegorraza">Zabalalegorraza</a></li>
+<li><a href="/wiki/Zabalaleta" title="Zabalaleta">Zabalaleta</a></li>
+<li><a href="/wiki/Zabalandicoechea" title="Zabalandicoechea">Zabalandicoechea</a></li>
+<li><a href="/wiki/Zabalarana" title="Zabalarana">Zabalarana</a></li>
+<li><a href="/wiki/Zabalbaitia" title="Zabalbaitia">Zabalbaitia</a></li>
+<li><a href="/wiki/Zabalbarrena" title="Zabalbarrena">Zabalbarrena</a></li>
+<li><a href="/wiki/Zabalbeascoa" title="Zabalbeascoa">Zabalbeascoa</a></li>
+<li><a href="/wiki/Zabalbeiti" title="Zabalbeiti">Zabalbeiti</a></li>
+<li><a href="/wiki/Zabalbeitia" title="Zabalbeitia">Zabalbeitia</a></li>
+<li><a href="/wiki/Zabalbidea" title="Zabalbidea">Zabalbidea</a></li>
+<li><a href="/wiki/Zabalburu" title="Zabalburu">Zabalburu</a></li>
+<li><a href="/wiki/Zabalceta" title="Zabalceta">Zabalceta</a></li>
+<li><a href="/wiki/Zabalchua" title="Zabalchua">Zabalchua</a></li>
+<li><a href="/wiki/Zabaldica" title="Zabaldica">Zabaldica</a></li>
+<li><a href="/wiki/Zabale" title="Zabale">Zabale</a></li>
+<li><a href="/wiki/Zabalecu" title="Zabalecu">Zabalecu</a></li>
+<li><a href="/wiki/Zabalegui" title="Zabalegui">Zabalegui</a></li>
+<li><a href="/wiki/Zabaleguia" title="Zabaleguia">Zabaleguia</a></li>
+<li><a href="/wiki/Zabalena" title="Zabalena">Zabalena</a></li>
+<li><a href="/wiki/Zabalequi" title="Zabalequi">Zabalequi</a></li>
+<li><a href="/wiki/Zabalet" title="Zabalet">Zabalet</a></li>
+<li><a href="/wiki/Zabaleta" title="Zabaleta">Zabaleta</a></li>
+<li><a href="/wiki/Zabalete" title="Zabalete">Zabalete</a></li>
+<li><a href="/wiki/Zabaletta" title="Zabaletta">Zabaletta</a></li>
+<li><a href="/wiki/Zabalgogeascoa" title="Zabalgogeascoa">Zabalgogeascoa</a></li>
+<li><a href="/wiki/Zabalgogeazcoa" title="Zabalgogeazcoa">Zabalgogeazcoa</a></li>
+<li><a href="/wiki/Zabalgoiti" title="Zabalgoiti">Zabalgoiti</a></li>
+<li><a href="/wiki/Zabalgoitia" title="Zabalgoitia">Zabalgoitia</a></li>
+<li><a href="/wiki/Zabalia" title="Zabalia">Zabalia</a></li>
+<li><a href="/wiki/Zabaliauregui" title="Zabaliauregui">Zabaliauregui</a></li>
+<li><a href="/wiki/Zabalinchaurreta" title="Zabalinchaurreta">Zabalinchaurreta</a></li>
+<li><a href="/wiki/Zabaljauregui" title="Zabaljauregui">Zabaljauregui</a></li>
+<li><a href="/wiki/Zaball" title="Zaball">Zaball</a></li>
+<li><a href="/wiki/Zaballa" title="Zaballa">Zaballa</a></li>
+<li><a href="/wiki/Zaballo" title="Zaballo">Zaballo</a></li>
+<li><a href="/wiki/Zabalo" title="Zabalo">Zabalo</a></li>
+<li><a href="/wiki/Zabalondo" title="Zabalondo">Zabalondo</a></li>
+<li><a href="/wiki/Zabalotegui" title="Zabalotegui">Zabalotegui</a></li>
+<li><a href="/wiki/Zabaloy" title="Zabaloy">Zabaloy</a></li>
+<li><a href="/wiki/Zabaltza" title="Zabaltza">Zabaltza</a></li>
+<li><a href="/wiki/Zabaltzagarai" title="Zabaltzagarai">Zabaltzagarai</a></li>
+<li><a href="/wiki/Zabalu" title="Zabalu">Zabalu</a></li>
+<li><a href="/wiki/Zabalua" title="Zabalua">Zabalua</a></li>
+<li><a href="/wiki/Zabalza" title="Zabalza">Zabalza</a></li>
+<li><a href="/wiki/Zabalzagaray" title="Zabalzagaray">Zabalzagaray</a></li>
+<li><a href="/wiki/Zabaneh" title="Zabaneh">Zabaneh</a></li>
+<li><a href="/wiki/Zabarkes" title="Zabarkes">Zabarkes</a></li>
+<li><a href="/wiki/Zabarte" title="Zabarte">Zabarte</a></li>
+<li><a href="/wiki/Zabawa" title="Zabawa">Zabawa</a></li>
+<li><a href="/wiki/Zabbo" title="Zabbo">Zabbo</a></li>
+<li><a href="/wiki/Zabek" title="Zabek">Zabek</a></li>
+<li><a href="/wiki/Zabel" title="Zabel">Zabel</a></li>
+<li><a href="/wiki/Zabenko" title="Zabenko">Zabenko</a></li>
+<li><a href="/wiki/Zabe%C3%B1o" title="Zabeño">Zabeño</a></li>
+<li><a href="/wiki/Zabia" title="Zabia">Zabia</a></li>
+<li><a href="/wiki/Zabiel" title="Zabiel">Zabiel</a></li>
+<li><a href="/wiki/Zabielski" title="Zabielski">Zabielski</a></li>
+<li><a href="/wiki/Zabik" title="Zabik">Zabik</a></li>
+<li><a href="/wiki/Zabilondo" title="Zabilondo">Zabilondo</a></li>
+<li><a href="/wiki/Zabinski" title="Zabinski">Zabinski</a></li>
+<li><a href="/wiki/Zabka" title="Zabka">Zabka</a></li>
+<li><a href="/wiki/Zable" title="Zable">Zable</a></li>
+<li><a href="/wiki/Zablocki" title="Zablocki">Zablocki</a></li>
+<li><a href="/wiki/Zablonski" title="Zablonski">Zablonski</a></li>
+<li><a href="/wiki/Zabloudil" title="Zabloudil">Zabloudil</a></li>
+<li><a href="/wiki/Zaborac" title="Zaborac">Zaborac</a></li>
+<li><a href="/wiki/Zaborowski" title="Zaborowski">Zaborowski</a></li>
+<li><a href="/wiki/Zaborrena" title="Zaborrena">Zaborrena</a></li>
+<li><a href="/wiki/Zaborski" title="Zaborski">Zaborski</a></li>
+<li><a href="/wiki/Zabriskie" title="Zabriskie">Zabriskie</a></li>
+<li><a href="/wiki/Zabrocki" title="Zabrocki">Zabrocki</a></li>
+<li><a href="/wiki/Zabul%C3%B3n" title="Zabulón">Zabulón</a></li>
+<li><a href="/wiki/Zac" title="Zac">Zac</a></li>
+<li><a href="/wiki/Zacarias" title="Zacarias">Zacarias</a></li>
+<li><a href="/wiki/Zacar%C3%ADas" title="Zacarías">Zacarías</a></li>
+<li><a href="/wiki/Zacate" title="Zacate">Zacate</a></li>
+<li><a href="/wiki/Zacatecas" title="Zacatecas">Zacatecas</a></li>
+<li><a href="/wiki/Zacatepec" title="Zacatepec">Zacatepec</a></li>
+<li><a href="/wiki/Zacatlan" title="Zacatlan">Zacatlan</a></li>
+<li><a href="/wiki/Zaccagnini" title="Zaccagnini">Zaccagnini</a></li>
+<li><a href="/wiki/Zaccagnino" title="Zaccagnino">Zaccagnino</a></li>
+<li><a href="/wiki/Zaccaria" title="Zaccaria">Zaccaria</a></li>
+<li><a href="/wiki/Zaccaro" title="Zaccaro">Zaccaro</a></li>
+<li><a href="/wiki/Zaccaroni" title="Zaccaroni">Zaccaroni</a></li>
+<li><a href="/wiki/Zacchini" title="Zacchini">Zacchini</a></li>
+<li><a href="/wiki/Zacek" title="Zacek">Zacek</a></li>
+<li><a href="/wiki/Zacenarro" title="Zacenarro">Zacenarro</a></li>
+<li><a href="/wiki/Zach" title="Zach">Zach</a></li>
+<li><a href="/wiki/Zachar" title="Zachar">Zachar</a></li>
+<li><a href="/wiki/Zacharewicz" title="Zacharewicz">Zacharewicz</a></li>
+<li><a href="/wiki/Zacharia" title="Zacharia">Zacharia</a></li>
+<li><a href="/wiki/Zachariades" title="Zachariades">Zachariades</a></li>
+<li><a href="/wiki/Zachariah" title="Zachariah">Zachariah</a></li>
+<li><a href="/wiki/Zacharias" title="Zacharias">Zacharias</a></li>
+<li><a href="/wiki/Zacharijo_knyga" title="Zacharijo knyga">Zacharijo knyga</a></li>
+<li><a href="/wiki/Zachary" title="Zachary">Zachary</a></li>
+<li><a href="/wiki/Zacher" title="Zacher">Zacher</a></li>
+<li><a href="/wiki/Zacherl" title="Zacherl">Zacherl</a></li>
+<li><a href="/wiki/Zachery" title="Zachery">Zachery</a></li>
+<li><a href="/wiki/Zachman" title="Zachman">Zachman</a></li>
+<li><a href="/wiki/Zachmann" title="Zachmann">Zachmann</a></li>
+<li><a href="/wiki/Zachter" title="Zachter">Zachter</a></li>
+<li><a href="/wiki/Zack" title="Zack">Zack</a></li>
+<li><a href="/wiki/Zackery" title="Zackery">Zackery</a></li>
+<li><a href="/wiki/Zacona" title="Zacona">Zacona</a></li>
+<li><a href="/wiki/Zaconteguy" title="Zaconteguy">Zaconteguy</a></li>
+<li><a href="/wiki/Zacoutegui" title="Zacoutegui">Zacoutegui</a></li>
+<li><a href="/wiki/Zacute" title="Zacute">Zacute</a></li>
+<li><a href="/wiki/Zafilla" title="Zafilla">Zafilla</a></li>
+<li><a href="/wiki/Zafir" title="Zafir">Zafir</a></li>
+<li><a href="/wiki/Zafiro" title="Zafiro">Zafiro</a></li>
+<li><a href="/wiki/Zagal" title="Zagal">Zagal</a></li>
+<li><a href="/wiki/Zagar" title="Zagar">Zagar</a></li>
+<li><a href="/wiki/Zagarra" title="Zagarra">Zagarra</a></li>
+<li><a href="/wiki/Zagarrio" title="Zagarrio">Zagarrio</a></li>
+<li><a href="/wiki/Zagarzazu" title="Zagarzazu">Zagarzazu</a></li>
+<li><a href="/wiki/Zagasti" title="Zagasti">Zagasti</a></li>
+<li><a href="/wiki/Zagreb" title="Zagreb">Zagreb</a></li>
+<li><a href="/wiki/Zaharrea" title="Zaharrea">Zaharrea</a></li>
+<li><a href="/wiki/Zahl" title="Zahl">Zahl</a></li>
+<li><a href="/wiki/Zahle" title="Zahle">Zahle</a></li>
+<li><a href="/wiki/Zahn" title="Zahn">Zahn</a></li>
+<li><a href="/wiki/Zahnpasta" title="Zahnpasta">Zahnpasta</a></li>
+<li><a href="/wiki/Zahnstocher" title="Zahnstocher">Zahnstocher</a></li>
+<li><a href="/wiki/Zaida" title="Zaida">Zaida</a></li>
+<li><a href="/wiki/Zaira" title="Zaira">Zaira</a></li>
+<li><a href="/wiki/Zaire" title="Zaire">Zaire</a></li>
+<li><a href="/wiki/Zaitegui" title="Zaitegui">Zaitegui</a></li>
+<li><a href="/wiki/Zaizar" title="Zaizar">Zaizar</a></li>
+<li><a href="/wiki/Zak" title="Zak">Zak</a></li>
+<li><a href="/wiki/Zala" title="Zala">Zala</a></li>
+<li><a href="/wiki/Zalabarria" title="Zalabarria">Zalabarria</a></li>
+<li><a href="/wiki/Zalaberria" title="Zalaberria">Zalaberria</a></li>
+<li><a href="/wiki/Zalacain" title="Zalacain">Zalacain</a></li>
+<li><a href="/wiki/Zalaca%C3%ADn" title="Zalacaín">Zalacaín</a></li>
+<li><a href="/wiki/Zalarayan" title="Zalarayan">Zalarayan</a></li>
+<li><a href="/wiki/Zalarrayan" title="Zalarrayan">Zalarrayan</a></li>
+<li><a href="/wiki/Zalaya" title="Zalaya">Zalaya</a></li>
+<li><a href="/wiki/Zalazar" title="Zalazar">Zalazar</a></li>
+<li><a href="/wiki/Zalba" title="Zalba">Zalba</a></li>
+<li><a href="/wiki/Zalbide" title="Zalbide">Zalbide</a></li>
+<li><a href="/wiki/Zalbidea" title="Zalbidea">Zalbidea</a></li>
+<li><a href="/wiki/Zalbidegoitia" title="Zalbidegoitia">Zalbidegoitia</a></li>
+<li><a href="/wiki/Zalbo" title="Zalbo">Zalbo</a></li>
+<li><a href="/wiki/Zaldain" title="Zaldain">Zaldain</a></li>
+<li><a href="/wiki/Zaldaiz" title="Zaldaiz">Zaldaiz</a></li>
+<li><a href="/wiki/Zaldarriaga" title="Zaldarriaga">Zaldarriaga</a></li>
+<li><a href="/wiki/Zaldegui" title="Zaldegui">Zaldegui</a></li>
+<li><a href="/wiki/Zaldi" title="Zaldi">Zaldi</a></li>
+<li><a href="/wiki/Zaldia" title="Zaldia">Zaldia</a></li>
+<li><a href="/wiki/Zaldibar" title="Zaldibar">Zaldibar</a></li>
+<li><a href="/wiki/Zaldibia" title="Zaldibia">Zaldibia</a></li>
+<li><a href="/wiki/Zaldivar" title="Zaldivar">Zaldivar</a></li>
+<li><a href="/wiki/Zaldivia" title="Zaldivia">Zaldivia</a></li>
+<li><a href="/wiki/Zaldo" title="Zaldo">Zaldo</a></li>
+<li><a href="/wiki/Zaldu" title="Zaldu">Zaldu</a></li>
+<li><a href="/wiki/Zaldua" title="Zaldua">Zaldua</a></li>
+<li><a href="/wiki/Zalduaechavarria" title="Zalduaechavarria">Zalduaechavarria</a></li>
+<li><a href="/wiki/Zaldubehere" title="Zaldubehere">Zaldubehere</a></li>
+<li><a href="/wiki/Zaldubia" title="Zaldubia">Zaldubia</a></li>
+<li><a href="/wiki/Zalduechevarria" title="Zalduechevarria">Zalduechevarria</a></li>
+<li><a href="/wiki/Zalduegui" title="Zalduegui">Zalduegui</a></li>
+<li><a href="/wiki/Zaldueguiari%C3%B1o" title="Zaldueguiariño">Zaldueguiariño</a></li>
+<li><a href="/wiki/Zalduendo" title="Zalduendo">Zalduendo</a></li>
+<li><a href="/wiki/Zaldugaray" title="Zaldugaray">Zaldugaray</a></li>
+<li><a href="/wiki/Zaldumbide" title="Zaldumbide">Zaldumbide</a></li>
+<li><a href="/wiki/Zalduna" title="Zalduna">Zalduna</a></li>
+<li><a href="/wiki/Zaldunbeherry" title="Zaldunbeherry">Zaldunbeherry</a></li>
+<li><a href="/wiki/Zalduondo" title="Zalduondo">Zalduondo</a></li>
+<li><a href="/wiki/Zald%C3%ADvar" title="Zaldívar">Zaldívar</a></li>
+<li><a href="/wiki/Zalguizuri" title="Zalguizuri">Zalguizuri</a></li>
+<li><a href="/wiki/Zalla" title="Zalla">Zalla</a></li>
+<li><a href="/wiki/Zallaberry" title="Zallaberry">Zallaberry</a></li>
+<li><a href="/wiki/Zallaya" title="Zallaya">Zallaya</a></li>
+<li><a href="/wiki/Zallo" title="Zallo">Zallo</a></li>
+<li><a href="/wiki/Zallo_Echeverria" title="Zallo Echeverria">Zallo Echeverria</a></li>
+<li><a href="/wiki/Zalloechebarria" title="Zalloechebarria">Zalloechebarria</a></li>
+<li><a href="/wiki/Zallorueta" title="Zallorueta">Zallorueta</a></li>
+<li><a href="/wiki/Zaloaga" title="Zaloaga">Zaloaga</a></li>
+<li><a href="/wiki/Zaloina" title="Zaloina">Zaloina</a></li>
+<li><a href="/wiki/Zalo%C3%B1a" title="Zaloña">Zaloña</a></li>
+<li><a href="/wiki/Zalutregui" title="Zalutregui">Zalutregui</a></li>
+<li><a href="/wiki/Zaluztegui" title="Zaluztegui">Zaluztegui</a></li>
+<li><a href="/wiki/Zalva" title="Zalva">Zalva</a></li>
+<li><a href="/wiki/Zalvide" title="Zalvide">Zalvide</a></li>
+<li><a href="/wiki/Zalvidea" title="Zalvidea">Zalvidea</a></li>
+<li><a href="/wiki/Zalvidegoitia" title="Zalvidegoitia">Zalvidegoitia</a></li>
+<li><a href="/wiki/Zama" title="Zama">Zama</a></li>
+<li><a href="/wiki/Zamacois" title="Zamacois">Zamacois</a></li>
+<li><a href="/wiki/Zamacola" title="Zamacola">Zamacola</a></li>
+<li><a href="/wiki/Zamacona" title="Zamacona">Zamacona</a></li>
+<li><a href="/wiki/Zamalbide" title="Zamalbide">Zamalbide</a></li>
+<li><a href="/wiki/Zamalloa" title="Zamalloa">Zamalloa</a></li>
+<li><a href="/wiki/Zamalloaga" title="Zamalloaga">Zamalloaga</a></li>
+<li><a href="/wiki/Zamaloa" title="Zamaloa">Zamaloa</a></li>
+<li><a href="/wiki/Zamalua" title="Zamalua">Zamalua</a></li>
+<li><a href="/wiki/Zamalvide" title="Zamalvide">Zamalvide</a></li>
+<li><a href="/wiki/Zamanillo" title="Zamanillo">Zamanillo</a></li>
+<li><a href="/wiki/Zamara" title="Zamara">Zamara</a></li>
+<li><a href="/wiki/Zamarbide" title="Zamarbide">Zamarbide</a></li>
+<li><a href="/wiki/Zamargilea" title="Zamargilea">Zamargilea</a></li>
+<li><a href="/wiki/Zamarguila" title="Zamarguila">Zamarguila</a></li>
+<li><a href="/wiki/Zamarguilarena" title="Zamarguilarena">Zamarguilarena</a></li>
+<li><a href="/wiki/Zamarguilea" title="Zamarguilea">Zamarguilea</a></li>
+<li><a href="/wiki/Zamarguillarena" title="Zamarguillarena">Zamarguillarena</a></li>
+<li><a href="/wiki/Zamargui%C3%B1ena" title="Zamarguiñena">Zamarguiñena</a></li>
+<li><a href="/wiki/Zamarra" title="Zamarra">Zamarra</a></li>
+<li><a href="/wiki/Zamarraga" title="Zamarraga">Zamarraga</a></li>
+<li><a href="/wiki/Zamarripa" title="Zamarripa">Zamarripa</a></li>
+<li><a href="/wiki/Zamarro" title="Zamarro">Zamarro</a></li>
+<li><a href="/wiki/Zambia" title="Zambia">Zambia</a></li>
+<li><a href="/wiki/Zambie" title="Zambie">Zambie</a></li>
+<li><a href="/wiki/Zambija" title="Zambija">Zambija</a></li>
+<li><a href="/wiki/Zambio" title="Zambio">Zambio</a></li>
+<li><a href="/wiki/Zambion" title="Zambion">Zambion</a></li>
+<li><a href="/wiki/Zambito" title="Zambito">Zambito</a></li>
+<li><a href="/wiki/Zambiya" title="Zambiya">Zambiya</a></li>
+<li><a href="/wiki/Zambi%C3%AB" title="Zambië">Zambië</a></li>
+<li><a href="/wiki/Zamboni" title="Zamboni">Zamboni</a></li>
+<li><a href="/wiki/Zamborain" title="Zamborain">Zamborain</a></li>
+<li><a href="/wiki/Zamboran" title="Zamboran">Zamboran</a></li>
+<li><a href="/wiki/Zambrana" title="Zambrana">Zambrana</a></li>
+<li><a href="/wiki/Zambrano" title="Zambrano">Zambrano</a></li>
+<li><a href="/wiki/Zambudio" title="Zambudio">Zambudio</a></li>
+<li><a href="/wiki/Zamburio" title="Zamburio">Zamburio</a></li>
+<li><a href="/wiki/Zamendi" title="Zamendi">Zamendi</a></li>
+<li><a href="/wiki/Zameza" title="Zameza">Zameza</a></li>
+<li><a href="/wiki/Zamitiz" title="Zamitiz">Zamitiz</a></li>
+<li><a href="/wiki/Zamola" title="Zamola">Zamola</a></li>
+<li><a href="/wiki/Zamora" title="Zamora">Zamora</a></li>
+<li><a href="/wiki/Zamorano" title="Zamorano">Zamorano</a></li>
+<li><a href="/wiki/Zamorategui" title="Zamorategui">Zamorategui</a></li>
+<li><a href="/wiki/Zamoro" title="Zamoro">Zamoro</a></li>
+<li><a href="/wiki/Zamudio" title="Zamudio">Zamudio</a></li>
+<li><a href="/wiki/Zamundio" title="Zamundio">Zamundio</a></li>
+<li><a href="/wiki/Zanalda" title="Zanalda">Zanalda</a></li>
+<li><a href="/wiki/Zanardi" title="Zanardi">Zanardi</a></li>
+<li><a href="/wiki/Zanata" title="Zanata">Zanata</a></li>
+<li><a href="/wiki/Zandategui" title="Zandategui">Zandategui</a></li>
+<li><a href="/wiki/Zandateguigoitia" title="Zandateguigoitia">Zandateguigoitia</a></li>
+<li><a href="/wiki/Zander" title="Zander">Zander</a></li>
+<li><a href="/wiki/Zandio" title="Zandio">Zandio</a></li>
+<li><a href="/wiki/Zandoica" title="Zandoica">Zandoica</a></li>
+<li><a href="/wiki/Zandueta" title="Zandueta">Zandueta</a></li>
+<li><a href="/wiki/Zanga" title="Zanga">Zanga</a></li>
+<li><a href="/wiki/Zangron" title="Zangron">Zangron</a></li>
+<li><a href="/wiki/Zangronis" title="Zangronis">Zangronis</a></li>
+<li><a href="/wiki/Zangroniz" title="Zangroniz">Zangroniz</a></li>
+<li><a href="/wiki/Zanguitu" title="Zanguitu">Zanguitu</a></li>
+<li><a href="/wiki/Zanou" title="Zanou">Zanou</a></li>
+<li><a href="/wiki/Zanqueta" title="Zanqueta">Zanqueta</a></li>
+<li><a href="/wiki/Zantedeschia_elliottiana" title="Zantedeschia elliottiana">Zantedeschia elliottiana</a></li>
+<li><a href="/wiki/Zanz%C3%ADbar" title="Zanzíbar">Zanzíbar</a></li>
+<li><a href="/wiki/Zaparart" title="Zaparart">Zaparart</a></li>
+<li><a href="/wiki/Zapararte" title="Zapararte">Zapararte</a></li>
+<li><a href="/wiki/Zapata" title="Zapata">Zapata</a></li>
+<li><a href="/wiki/Zapataguillarena" title="Zapataguillarena">Zapataguillarena</a></li>
+<li><a href="/wiki/Zapataguindeguia" title="Zapataguindeguia">Zapataguindeguia</a></li>
+<li><a href="/wiki/Zapataria" title="Zapataria">Zapataria</a></li>
+<li><a href="/wiki/Zapatarienea" title="Zapatarienea">Zapatarienea</a></li>
+<li><a href="/wiki/Zapatas" title="Zapatas">Zapatas</a></li>
+<li><a href="/wiki/Zapatero" title="Zapatero">Zapatero</a></li>
+<li><a href="/wiki/Zapato" title="Zapato">Zapato</a></li>
+<li><a href="/wiki/Zapiain" title="Zapiain">Zapiain</a></li>
+<li><a href="/wiki/Zapico" title="Zapico">Zapico</a></li>
+<li><a href="/wiki/Zapiola" title="Zapiola">Zapiola</a></li>
+<li><a href="/wiki/Zapirain" title="Zapirain">Zapirain</a></li>
+<li><a href="/wiki/Zapote" title="Zapote">Zapote</a></li>
+<li><a href="/wiki/Zara" title="Zara">Zara</a></li>
+<li><a href="/wiki/Zarabia" title="Zarabia">Zarabia</a></li>
+<li><a href="/wiki/Zarabozo" title="Zarabozo">Zarabozo</a></li>
+<li><a href="/wiki/Zaracho" title="Zaracho">Zaracho</a></li>
+<li><a href="/wiki/Zaracondegui" title="Zaracondegui">Zaracondegui</a></li>
+<li><a href="/wiki/Zaragoicoechea" title="Zaragoicoechea">Zaragoicoechea</a></li>
+<li><a href="/wiki/Zaragosa" title="Zaragosa">Zaragosa</a></li>
+<li><a href="/wiki/Zaragoza" title="Zaragoza">Zaragoza</a></li>
+<li><a href="/wiki/Zaragozi" title="Zaragozi">Zaragozi</a></li>
+<li><a href="/wiki/Zaragueta" title="Zaragueta">Zaragueta</a></li>
+<li><a href="/wiki/Zarag%C3%BCeta" title="Zaragüeta">Zaragüeta</a></li>
+<li><a href="/wiki/Zarain" title="Zarain">Zarain</a></li>
+<li><a href="/wiki/Zaralegui" title="Zaralegui">Zaralegui</a></li>
+<li><a href="/wiki/Zaraliauregui" title="Zaraliauregui">Zaraliauregui</a></li>
+<li><a href="/wiki/Zarama" title="Zarama">Zarama</a></li>
+<li><a href="/wiki/Zarandia" title="Zarandia">Zarandia</a></li>
+<li><a href="/wiki/Zarandieta" title="Zarandieta">Zarandieta</a></li>
+<li><a href="/wiki/Zarandona" title="Zarandona">Zarandona</a></li>
+<li><a href="/wiki/Zarandonaga" title="Zarandonaga">Zarandonaga</a></li>
+<li><a href="/wiki/Zaranza" title="Zaranza">Zaranza</a></li>
+<li><a href="/wiki/Zaraquieta" title="Zaraquieta">Zaraquieta</a></li>
+<li><a href="/wiki/Zarasaga" title="Zarasaga">Zarasaga</a></li>
+<li><a href="/wiki/Zarasola" title="Zarasola">Zarasola</a></li>
+<li><a href="/wiki/Zaratamo" title="Zaratamo">Zaratamo</a></li>
+<li><a href="/wiki/Zarate" title="Zarate">Zarate</a></li>
+<li><a href="/wiki/Zarategui" title="Zarategui">Zarategui</a></li>
+<li><a href="/wiki/Zarateguy" title="Zarateguy">Zarateguy</a></li>
+<li><a href="/wiki/Zaratiegui" title="Zaratiegui">Zaratiegui</a></li>
+<li><a href="/wiki/Zaratustra" title="Zaratustra">Zaratustra</a></li>
+<li><a href="/wiki/Zarautz" title="Zarautz">Zarautz</a></li>
+<li><a href="/wiki/Zarauz" title="Zarauz">Zarauz</a></li>
+<li><a href="/wiki/Zarauza" title="Zarauza">Zarauza</a></li>
+<li><a href="/wiki/Zaravia" title="Zaravia">Zaravia</a></li>
+<li><a href="/wiki/Zaraza" title="Zaraza">Zaraza</a></li>
+<li><a href="/wiki/Zarazabal" title="Zarazabal">Zarazabal</a></li>
+<li><a href="/wiki/Zarazaga" title="Zarazaga">Zarazaga</a></li>
+<li><a href="/wiki/Zarazola" title="Zarazola">Zarazola</a></li>
+<li><a href="/wiki/Zarazua" title="Zarazua">Zarazua</a></li>
+<li><a href="/wiki/Zaraz%C3%BAa" title="Zarazúa">Zarazúa</a></li>
+<li><a href="/wiki/Zardain" title="Zardain">Zardain</a></li>
+<li><a href="/wiki/Zardoya" title="Zardoya">Zardoya</a></li>
+<li><a href="/wiki/Zarecht" title="Zarecht">Zarecht</a></li>
+<li><a href="/wiki/Zarequieta" title="Zarequieta">Zarequieta</a></li>
+<li><a href="/wiki/Zarga" title="Zarga">Zarga</a></li>
+<li><a href="/wiki/Zariaga" title="Zariaga">Zariaga</a></li>
+<li><a href="/wiki/Zariategui" title="Zariategui">Zariategui</a></li>
+<li><a href="/wiki/Zariquegui" title="Zariquegui">Zariquegui</a></li>
+<li><a href="/wiki/Zariqueta" title="Zariqueta">Zariqueta</a></li>
+<li><a href="/wiki/Zariquete" title="Zariquete">Zariquete</a></li>
+<li><a href="/wiki/Zariquiegui" title="Zariquiegui">Zariquiegui</a></li>
+<li><a href="/wiki/Zarizin" title="Zarizin">Zarizin</a></li>
+<li><a href="/wiki/Zarmendia" title="Zarmendia">Zarmendia</a></li>
+<li><a href="/wiki/Zaro" title="Zaro">Zaro</a></li>
+<li><a href="/wiki/Zarobe" title="Zarobe">Zarobe</a></li>
+<li><a href="/wiki/Zaroquegui" title="Zaroquegui">Zaroquegui</a></li>
+<li><a href="/wiki/Zaroquiegui" title="Zaroquiegui">Zaroquiegui</a></li>
+<li><a href="/wiki/Zaror" title="Zaror">Zaror</a></li>
+<li><a href="/wiki/Zarqa" title="Zarqa">Zarqa</a></li>
+<li><a href="/wiki/Zarra" title="Zarra">Zarra</a></li>
+<li><a href="/wiki/Zarraandicoechea" title="Zarraandicoechea">Zarraandicoechea</a></li>
+<li><a href="/wiki/Zarrabe" title="Zarrabe">Zarrabe</a></li>
+<li><a href="/wiki/Zarrabeitia" title="Zarrabeitia">Zarrabeitia</a></li>
+<li><a href="/wiki/Zarraga" title="Zarraga">Zarraga</a></li>
+<li><a href="/wiki/Zarragoicoechea" title="Zarragoicoechea">Zarragoicoechea</a></li>
+<li><a href="/wiki/Zarragoitia" title="Zarragoitia">Zarragoitia</a></li>
+<li><a href="/wiki/Zarralegui" title="Zarralegui">Zarralegui</a></li>
+<li><a href="/wiki/Zarraluqui" title="Zarraluqui">Zarraluqui</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Yabar" title="Especial:Todas">Página anterior (Yabar)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Zarrandecoechea" title="Especial:Todas">Página siguiente (Zarrandecoechea)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DZ" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DZ" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=Z" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=Z&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=Z&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":314,"wgHostname":"mw1319"});});</script></body></html>

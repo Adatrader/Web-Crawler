@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljIYwpAMNIAAjW8y4gAAABG","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=F"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"F","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='F' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Etchebar" title="Especial:Todas">Página anterior (Etchebar)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Florentine" title="Especial:Todas">Página siguiente (Florentine)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/F" title="F">F</a></li>
+<li><a href="/wiki/FAO" title="FAO">FAO</a></li>
+<li><a href="/wiki/FAT" title="FAT">FAT</a></li>
+<li><a href="/wiki/FBI" title="FBI">FBI</a></li>
+<li><a href="/wiki/FIAT" title="FIAT">FIAT</a></li>
+<li><a href="/wiki/FIFO" title="FIFO">FIFO</a></li>
+<li><a href="/wiki/FIR" title="FIR">FIR</a></li>
+<li><a href="/wiki/FITUR" title="FITUR">FITUR</a></li>
+<li><a href="/wiki/FIV" title="FIV">FIV</a></li>
+<li><a href="/wiki/FLOPS" title="FLOPS">FLOPS</a></li>
+<li><a href="/wiki/FMI" title="FMI">FMI</a></li>
+<li><a href="/wiki/FODA" title="FODA">FODA</a></li>
+<li><a href="/wiki/FQDN" title="FQDN">FQDN</a></li>
+<li><a href="/wiki/FUBAR" title="FUBAR">FUBAR</a></li>
+<li><a href="/wiki/FWIW" title="FWIW">FWIW</a></li>
+<li><a href="/wiki/FYI" title="FYI">FYI</a></li>
+<li><a href="/wiki/FYO" title="FYO">FYO</a></li>
+<li><a href="/wiki/FYUO" title="FYUO">FYUO</a></li>
+<li><a href="/wiki/Fabaceae" title="Fabaceae">Fabaceae</a></li>
+<li><a href="/wiki/Fabbri" title="Fabbri">Fabbri</a></li>
+<li><a href="/wiki/Fabia" title="Fabia">Fabia</a></li>
+<li><a href="/wiki/Fabian" title="Fabian">Fabian</a></li>
+<li><a href="/wiki/Fabiana" title="Fabiana">Fabiana</a></li>
+<li><a href="/wiki/Fabiano" title="Fabiano">Fabiano</a></li>
+<li><a href="/wiki/Fabien" title="Fabien">Fabien</a></li>
+<li><a href="/wiki/Fabienne" title="Fabienne">Fabienne</a></li>
+<li><a href="/wiki/Fabio" title="Fabio">Fabio</a></li>
+<li><a href="/wiki/Fabiola" title="Fabiola">Fabiola</a></li>
+<li><a href="/wiki/Fabi%C3%A1n" title="Fabián">Fabián</a></li>
+<li><a href="/wiki/Fabra" title="Fabra">Fabra</a></li>
+<li><a href="/wiki/Fabregat" title="Fabregat">Fabregat</a></li>
+<li><a href="/wiki/Fabricio" title="Fabricio">Fabricio</a></li>
+<li><a href="/wiki/Facebook" title="Facebook">Facebook</a></li>
+<li><a href="/wiki/Facoaga" title="Facoaga">Facoaga</a></li>
+<li><a href="/wiki/Faconde" title="Faconde">Faconde</a></li>
+<li><a href="/wiki/Facundo" title="Facundo">Facundo</a></li>
+<li><a href="/wiki/Fagaburu" title="Fagaburu">Fagaburu</a></li>
+<li><a href="/wiki/Fagalda" title="Fagalda">Fagalda</a></li>
+<li><a href="/wiki/Fagalde" title="Fagalde">Fagalde</a></li>
+<li><a href="/wiki/Fage" title="Fage">Fage</a></li>
+<li><a href="/wiki/Fagoada" title="Fagoada">Fagoada</a></li>
+<li><a href="/wiki/Fagoaga" title="Fagoaga">Fagoaga</a></li>
+<li><a href="/wiki/Fagoagaz" title="Fagoagaz">Fagoagaz</a></li>
+<li><a href="/wiki/Fagola" title="Fagola">Fagola</a></li>
+<li><a href="/wiki/Fagondo" title="Fagondo">Fagondo</a></li>
+<li><a href="/wiki/Fagott" title="Fagott">Fagott</a></li>
+<li><a href="/wiki/Faguaga" title="Faguaga">Faguaga</a></li>
+<li><a href="/wiki/Fague" title="Fague">Fague</a></li>
+<li><a href="/wiki/Faible" title="Faible">Faible</a></li>
+<li><a href="/wiki/Faillao" title="Faillao">Faillao</a></li>
+<li><a href="/wiki/Fainian" title="Fainian">Fainian</a></li>
+<li><a href="/wiki/Faisalabad" title="Faisalabad">Faisalabad</a></li>
+<li><a href="/wiki/Fajardo" title="Fajardo">Fajardo</a></li>
+<li><a href="/wiki/Fakaofo" title="Fakaofo">Fakaofo</a></li>
+<li><a href="/wiki/Falces" title="Falces">Falces</a></li>
+<li><a href="/wiki/Falconi" title="Falconi">Falconi</a></li>
+<li><a href="/wiki/Falcorena" title="Falcorena">Falcorena</a></li>
+<li><a href="/wiki/Falc%C3%B3" title="Falcó">Falcó</a></li>
+<li><a href="/wiki/Falc%C3%B3n" title="Falcón">Falcón</a></li>
+<li><a href="/wiki/Falgalde" title="Falgalde">Falgalde</a></li>
+<li><a href="/wiki/Faliskies" title="Faliskies">Faliskies</a></li>
+<li><a href="/wiki/Falke" title="Falke">Falke</a></li>
+<li><a href="/wiki/Falklandinseln" title="Falklandinseln">Falklandinseln</a></li>
+<li><a href="/wiki/Fall" title="Fall">Fall</a></li>
+<li><a href="/wiki/Fallschirm" title="Fallschirm">Fallschirm</a></li>
+<li><a href="/wiki/Familie" title="Familie">Familie</a></li>
+<li><a href="/wiki/Familienname" title="Familienname">Familienname</a></li>
+<li><a href="/wiki/Familienstand" title="Familienstand">Familienstand</a></li>
+<li><a href="/wiki/Fanarraga" title="Fanarraga">Fanarraga</a></li>
+<li><a href="/wiki/Fanny" title="Fanny">Fanny</a></li>
+<li><a href="/wiki/Fano" title="Fano">Fano</a></li>
+<li><a href="/wiki/Fanti" title="Fanti">Fanti</a></li>
+<li><a href="/wiki/Fan%C3%BBat%C3%BB" title="Fanûatû">Fanûatû</a></li>
+<li><a href="/wiki/Faraje" title="Faraje">Faraje</a></li>
+<li><a href="/wiki/Farbe" title="Farbe">Farbe</a></li>
+<li><a href="/wiki/Farf%C3%A1n" title="Farfán">Farfán</a></li>
+<li><a href="/wiki/Farf%C3%A1n_de_los_Godos" title="Farfán de los Godos">Farfán de los Godos</a></li>
+<li><a href="/wiki/Farida" title="Farida">Farida</a></li>
+<li><a href="/wiki/Fari%C3%B1a" title="Fariña">Fariña</a></li>
+<li><a href="/wiki/Farri%C3%B1e" title="Farriñe">Farriñe</a></li>
+<li><a href="/wiki/Farr%C3%A9" title="Farré">Farré</a></li>
+<li><a href="/wiki/Far%C3%ADas" title="Farías">Farías</a></li>
+<li><a href="/wiki/Fassade" title="Fassade">Fassade</a></li>
+<li><a href="/wiki/Faticanburg" title="Faticanburg">Faticanburg</a></li>
+<li><a href="/wiki/Fatikaanst%C3%AAd" title="Fatikaanstêd">Fatikaanstêd</a></li>
+<li><a href="/wiki/Fatima" title="Fatima">Fatima</a></li>
+<li><a href="/wiki/Fattori" title="Fattori">Fattori</a></li>
+<li><a href="/wiki/Faulheit" title="Faulheit">Faulheit</a></li>
+<li><a href="/wiki/Faulkner" title="Faulkner">Faulkner</a></li>
+<li><a href="/wiki/Faultier" title="Faultier">Faultier</a></li>
+<li><a href="/wiki/Faul%C3%AD" title="Faulí">Faulí</a></li>
+<li><a href="/wiki/Faunde" title="Faunde">Faunde</a></li>
+<li><a href="/wiki/Faundes" title="Faundes">Faundes</a></li>
+<li><a href="/wiki/Faunes" title="Faunes">Faunes</a></li>
+<li><a href="/wiki/Faust" title="Faust">Faust</a></li>
+<li><a href="/wiki/Fausta" title="Fausta">Fausta</a></li>
+<li><a href="/wiki/Faustina" title="Faustina">Faustina</a></li>
+<li><a href="/wiki/Faustino" title="Faustino">Faustino</a></li>
+<li><a href="/wiki/Fausto" title="Fausto">Fausto</a></li>
+<li><a href="/wiki/Fa%C3%BAndez" title="Faúndez">Faúndez</a></li>
+<li><a href="/wiki/Fe" title="Fe">Fe</a></li>
+<li><a href="/wiki/Febe" title="Febe">Febe</a></li>
+<li><a href="/wiki/Februar" title="Februar">Februar</a></li>
+<li><a href="/wiki/February" title="February">February</a></li>
+<li><a href="/wiki/Feder" title="Feder">Feder</a></li>
+<li><a href="/wiki/Federaci%C3%B3n_de_las_Antillas_Holandesas" title="Federación de las Antillas Holandesas">Federación de las Antillas Holandesas</a></li>
+<li><a href="/wiki/Federer" title="Federer">Federer</a></li>
+<li><a href="/wiki/Federica" title="Federica">Federica</a></li>
+<li><a href="/wiki/Federico" title="Federico">Federico</a></li>
+<li><a href="/wiki/Fefinao" title="Fefinao">Fefinao</a></li>
+<li><a href="/wiki/Fegefeuer" title="Fegefeuer">Fegefeuer</a></li>
+<li><a href="/wiki/Fehler" title="Fehler">Fehler</a></li>
+<li><a href="/wiki/Fehrenberg" title="Fehrenberg">Fehrenberg</a></li>
+<li><a href="/wiki/Fehrman" title="Fehrman">Fehrman</a></li>
+<li><a href="/wiki/Feh%C3%A9roroszorsz%C3%A1g" title="Fehéroroszország">Fehéroroszország</a></li>
+<li><a href="/wiki/Feiertag" title="Feiertag">Feiertag</a></li>
+<li><a href="/wiki/Feigenkaktus" title="Feigenkaktus">Feigenkaktus</a></li>
+<li><a href="/wiki/Feijoo" title="Feijoo">Feijoo</a></li>
+<li><a href="/wiki/Feld" title="Feld">Feld</a></li>
+<li><a href="/wiki/Felge" title="Felge">Felge</a></li>
+<li><a href="/wiki/Felici" title="Felici">Felici</a></li>
+<li><a href="/wiki/Feliciano" title="Feliciano">Feliciano</a></li>
+<li><a href="/wiki/Felicidad" title="Felicidad">Felicidad</a></li>
+<li><a href="/wiki/Felicita" title="Felicita">Felicita</a></li>
+<li><a href="/wiki/Felipa" title="Felipa">Felipa</a></li>
+<li><a href="/wiki/Felipe" title="Felipe">Felipe</a></li>
+<li><a href="/wiki/Felis_silvestris_catus" title="Felis silvestris catus">Felis silvestris catus</a></li>
+<li><a href="/wiki/Felisa" title="Felisa">Felisa</a></li>
+<li><a href="/wiki/Felisario" title="Felisario">Felisario</a></li>
+<li><a href="/wiki/Feliu" title="Feliu">Feliu</a></li>
+<li><a href="/wiki/Felix" title="Felix">Felix</a></li>
+<li><a href="/wiki/Feli%C3%BA" title="Feliú">Feliú</a></li>
+<li><a href="/wiki/Feller" title="Feller">Feller</a></li>
+<li><a href="/wiki/Feloaga" title="Feloaga">Feloaga</a></li>
+<li><a href="/wiki/Femininum" title="Femininum">Femininum</a></li>
+<li><a href="/wiki/Fenchel" title="Fenchel">Fenchel</a></li>
+<li><a href="/wiki/Fenero" title="Fenero">Fenero</a></li>
+<li><a href="/wiki/Fenezu%C3%ABla" title="Fenezuëla">Fenezuëla</a></li>
+<li><a href="/wiki/Fenicia" title="Fenicia">Fenicia</a></li>
+<li><a href="/wiki/Fenster" title="Fenster">Fenster</a></li>
+<li><a href="/wiki/Feola" title="Feola">Feola</a></li>
+<li><a href="/wiki/Ferarios" title="Ferarios">Ferarios</a></li>
+<li><a href="/wiki/Ferdinando" title="Ferdinando">Ferdinando</a></li>
+<li><a href="/wiki/Feres" title="Feres">Feres</a></li>
+<li><a href="/wiki/Fergan%C3%A1" title="Ferganá">Ferganá</a></li>
+<li><a href="/wiki/Feria_de_Abril" title="Feria de Abril">Feria de Abril</a></li>
+<li><a href="/wiki/Ferien" title="Ferien">Ferien</a></li>
+<li><a href="/wiki/Feriene_Arabyske_Emiraten" title="Feriene Arabyske Emiraten">Feriene Arabyske Emiraten</a></li>
+<li><a href="/wiki/Feriene_Steaten" title="Feriene Steaten">Feriene Steaten</a></li>
+<li><a href="/wiki/Fermandois" title="Fermandois">Fermandois</a></li>
+<li><a href="/wiki/Fermina" title="Fermina">Fermina</a></li>
+<li><a href="/wiki/Fermoselle" title="Fermoselle">Fermoselle</a></li>
+<li><a href="/wiki/Ferm%C3%ADn" title="Fermín">Fermín</a></li>
+<li><a href="/wiki/Fernanda" title="Fernanda">Fernanda</a></li>
+<li><a href="/wiki/Fernandez" title="Fernandez">Fernandez</a></li>
+<li><a href="/wiki/Fernandez_Arroyabe" title="Fernandez Arroyabe">Fernandez Arroyabe</a></li>
+<li><a href="/wiki/Fernandez_Iriarte" title="Fernandez Iriarte">Fernandez Iriarte</a></li>
+<li><a href="/wiki/Fernandez_Ithurralt" title="Fernandez Ithurralt">Fernandez Ithurralt</a></li>
+<li><a href="/wiki/Fernandez_Larrauri" title="Fernandez Larrauri">Fernandez Larrauri</a></li>
+<li><a href="/wiki/Fernandez_Marina" title="Fernandez Marina">Fernandez Marina</a></li>
+<li><a href="/wiki/Fernandez_Zubiaurre" title="Fernandez Zubiaurre">Fernandez Zubiaurre</a></li>
+<li><a href="/wiki/Fernandez_Zubieta" title="Fernandez Zubieta">Fernandez Zubieta</a></li>
+<li><a href="/wiki/Fernandez_de_Aberastegui" title="Fernandez de Aberastegui">Fernandez de Aberastegui</a></li>
+<li><a href="/wiki/Fernandez_de_Aguirre" title="Fernandez de Aguirre">Fernandez de Aguirre</a></li>
+<li><a href="/wiki/Fernandez_de_Arcaya" title="Fernandez de Arcaya">Fernandez de Arcaya</a></li>
+<li><a href="/wiki/Fernandez_de_Arroyabe" title="Fernandez de Arroyabe">Fernandez de Arroyabe</a></li>
+<li><a href="/wiki/Fernandez_de_Ascarate" title="Fernandez de Ascarate">Fernandez de Ascarate</a></li>
+<li><a href="/wiki/Fernandez_de_Barrena" title="Fernandez de Barrena">Fernandez de Barrena</a></li>
+<li><a href="/wiki/Fernandez_de_Enea" title="Fernandez de Enea">Fernandez de Enea</a></li>
+<li><a href="/wiki/Fernandez_de_Gamboa" title="Fernandez de Gamboa">Fernandez de Gamboa</a></li>
+<li><a href="/wiki/Fernandez_de_Landa" title="Fernandez de Landa">Fernandez de Landa</a></li>
+<li><a href="/wiki/Fernandez_de_Larrea" title="Fernandez de Larrea">Fernandez de Larrea</a></li>
+<li><a href="/wiki/Fernandez_de_Retana" title="Fernandez de Retana">Fernandez de Retana</a></li>
+<li><a href="/wiki/Fernandez_de_Ullivarri" title="Fernandez de Ullivarri">Fernandez de Ullivarri</a></li>
+<li><a href="/wiki/Fernando" title="Fernando">Fernando</a></li>
+<li><a href="/wiki/Fernandois" title="Fernandois">Fernandois</a></li>
+<li><a href="/wiki/Fernandorena" title="Fernandorena">Fernandorena</a></li>
+<li><a href="/wiki/Fern%C3%A1n" title="Fernán">Fernán</a></li>
+<li><a href="/wiki/Fern%C3%A1ndez" title="Fernández">Fernández</a></li>
+<li><a href="/wiki/Fern%C3%A1ndez_de_Averasturi" title="Fernández de Averasturi">Fernández de Averasturi</a></li>
+<li><a href="/wiki/Fern%C3%A1ndez_de_Lecea" title="Fernández de Lecea">Fernández de Lecea</a></li>
+<li><a href="/wiki/Ferrada" title="Ferrada">Ferrada</a></li>
+<li><a href="/wiki/Ferran" title="Ferran">Ferran</a></li>
+<li><a href="/wiki/Ferrand" title="Ferrand">Ferrand</a></li>
+<li><a href="/wiki/Ferrando" title="Ferrando">Ferrando</a></li>
+<li><a href="/wiki/Ferrara" title="Ferrara">Ferrara</a></li>
+<li><a href="/wiki/Ferrari" title="Ferrari">Ferrari</a></li>
+<li><a href="/wiki/Ferrat" title="Ferrat">Ferrat</a></li>
+<li><a href="/wiki/Ferraz" title="Ferraz">Ferraz</a></li>
+<li><a href="/wiki/Ferraza" title="Ferraza">Ferraza</a></li>
+<li><a href="/wiki/Ferreira" title="Ferreira">Ferreira</a></li>
+<li><a href="/wiki/Ferrer" title="Ferrer">Ferrer</a></li>
+<li><a href="/wiki/Ferrera" title="Ferrera">Ferrera</a></li>
+<li><a href="/wiki/Ferreras" title="Ferreras">Ferreras</a></li>
+<li><a href="/wiki/Ferrero" title="Ferrero">Ferrero</a></li>
+<li><a href="/wiki/Ferreyros" title="Ferreyros">Ferreyros</a></li>
+<li><a href="/wiki/Ferrondo" title="Ferrondo">Ferrondo</a></li>
+<li><a href="/wiki/Ferr%C3%A1n" title="Ferrán">Ferrán</a></li>
+<li><a href="/wiki/Ferr%C3%A1ndez" title="Ferrández">Ferrández</a></li>
+<li><a href="/wiki/Ferr%C3%A1ndiz" title="Ferrándiz">Ferrándiz</a></li>
+<li><a href="/wiki/Ferr%C3%B3n" title="Ferrón">Ferrón</a></li>
+<li><a href="/wiki/Fer%C3%A9s" title="Ferés">Ferés</a></li>
+<li><a href="/wiki/Fesch" title="Fesch">Fesch</a></li>
+<li><a href="/wiki/Festa_della_Repubblica" title="Festa della Repubblica">Festa della Repubblica</a></li>
+<li><a href="/wiki/Festplatte" title="Festplatte">Festplatte</a></li>
+<li><a href="/wiki/Fett" title="Fett">Fett</a></li>
+<li><a href="/wiki/Fettgewebe" title="Fettgewebe">Fettgewebe</a></li>
+<li><a href="/wiki/Feuer" title="Feuer">Feuer</a></li>
+<li><a href="/wiki/Feuerl%C3%B6scher" title="Feuerlöscher">Feuerlöscher</a></li>
+<li><a href="/wiki/Feuerwehr" title="Feuerwehr">Feuerwehr</a></li>
+<li><a href="/wiki/Feydeau" title="Feydeau">Feydeau</a></li>
+<li><a href="/wiki/Fez" title="Fez">Fez</a></li>
+<li><a href="/wiki/Fhrainc" title="Fhrainc">Fhrainc</a></li>
+<li><a href="/wiki/Fica" title="Fica">Fica</a></li>
+<li><a href="/wiki/Fichte" title="Fichte">Fichte</a></li>
+<li><a href="/wiki/Fidel" title="Fidel">Fidel</a></li>
+<li><a href="/wiki/Fidela" title="Fidela">Fidela</a></li>
+<li><a href="/wiki/Fidelia" title="Fidelia">Fidelia</a></li>
+<li><a href="/wiki/Fidelicia" title="Fidelicia">Fidelicia</a></li>
+<li><a href="/wiki/Fidelina" title="Fidelina">Fidelina</a></li>
+<li><a href="/wiki/Fidencio" title="Fidencio">Fidencio</a></li>
+<li><a href="/wiki/Fidzjy" title="Fidzjy">Fidzjy</a></li>
+<li><a href="/wiki/Fid%C5%BCi" title="Fidżi">Fidżi</a></li>
+<li><a href="/wiki/Fiedler" title="Fiedler">Fiedler</a></li>
+<li><a href="/wiki/Fierabr%C3%A1s" title="Fierabrás">Fierabrás</a></li>
+<li><a href="/wiki/Fierro" title="Fierro">Fierro</a></li>
+<li><a href="/wiki/Fiet_Nam" title="Fiet Nam">Fiet Nam</a></li>
+<li><a href="/wiki/Fietnam" title="Fietnam">Fietnam</a></li>
+<li><a href="/wiki/Figaredo" title="Figaredo">Figaredo</a></li>
+<li><a href="/wiki/Figueras" title="Figueras">Figueras</a></li>
+<li><a href="/wiki/Figueroa" title="Figueroa">Figueroa</a></li>
+<li><a href="/wiki/Figuerola" title="Figuerola">Figuerola</a></li>
+<li><a href="/wiki/Fiji" title="Fiji">Fiji</a></li>
+<li><a href="/wiki/Filadelfia" title="Filadelfia">Filadelfia</a></li>
+<li><a href="/wiki/Filamin" title="Filamin">Filamin</a></li>
+<li><a href="/wiki/Filarmendi" title="Filarmendi">Filarmendi</a></li>
+<li><a href="/wiki/Filc%C3%BAn" title="Filcún">Filcún</a></li>
+<li><a href="/wiki/Fildi%C5%9Fi_Sahili" title="Fildişi Sahili">Fildişi Sahili</a></li>
+<li><a href="/wiki/Filemonam" title="Filemonam">Filemonam</a></li>
+<li><a href="/wiki/Filem%C3%B3n" title="Filemón">Filemón</a></li>
+<li><a href="/wiki/Filhuil" title="Filhuil">Filhuil</a></li>
+<li><a href="/wiki/Filiberta" title="Filiberta">Filiberta</a></li>
+<li><a href="/wiki/Filiberto" title="Filiberto">Filiberto</a></li>
+<li><a href="/wiki/Filimil" title="Filimil">Filimil</a></li>
+<li><a href="/wiki/Filipenses" title="Filipenses">Filipenses</a></li>
+<li><a href="/wiki/Filipie%C5%A1iem" title="Filipiešiem">Filipiešiem</a></li>
+<li><a href="/wiki/Filipijnen" title="Filipijnen">Filipijnen</a></li>
+<li><a href="/wiki/Filipina" title="Filipina">Filipina</a></li>
+<li><a href="/wiki/Filipinai" title="Filipinai">Filipinai</a></li>
+<li><a href="/wiki/Filipinak" title="Filipinak">Filipinak</a></li>
+<li><a href="/wiki/Filipinas" title="Filipinas">Filipinas</a></li>
+<li><a href="/wiki/Filipine" title="Filipine">Filipine</a></li>
+<li><a href="/wiki/Filipinen" title="Filipinen">Filipinen</a></li>
+<li><a href="/wiki/Filipines" title="Filipines">Filipines</a></li>
+<li><a href="/wiki/Filipini" title="Filipini">Filipini</a></li>
+<li><a href="/wiki/Filipinler" title="Filipinler">Filipinler</a></li>
+<li><a href="/wiki/Filipinoj" title="Filipinoj">Filipinoj</a></li>
+<li><a href="/wiki/Filipiny" title="Filipiny">Filipiny</a></li>
+<li><a href="/wiki/Filippi" title="Filippi">Filippi</a></li>
+<li><a href="/wiki/Filippiinit" title="Filippiinit">Filippiinit</a></li>
+<li><a href="/wiki/Filippine" title="Filippine">Filippine</a></li>
+<li><a href="/wiki/Filippinene" title="Filippinene">Filippinene</a></li>
+<li><a href="/wiki/Filippinerna" title="Filippinerna">Filippinerna</a></li>
+<li><a href="/wiki/Filippinerne" title="Filippinerne">Filippinerne</a></li>
+<li><a href="/wiki/Filippo" title="Filippo">Filippo</a></li>
+<li><a href="/wiki/Filip%C3%ADny" title="Filipíny">Filipíny</a></li>
+<li><a href="/wiki/Fillon" title="Fillon">Fillon</a></li>
+<li><a href="/wiki/Filmuil" title="Filmuil">Filmuil</a></li>
+<li><a href="/wiki/Filomena" title="Filomena">Filomena</a></li>
+<li><a href="/wiki/Filoza" title="Filoza">Filoza</a></li>
+<li><a href="/wiki/Filuil" title="Filuil">Filuil</a></li>
+<li><a href="/wiki/Filum" title="Filum">Filum</a></li>
+<li><a href="/wiki/Filumil" title="Filumil">Filumil</a></li>
+<li><a href="/wiki/Filumin" title="Filumin">Filumin</a></li>
+<li><a href="/wiki/Filumir" title="Filumir">Filumir</a></li>
+<li><a href="/wiki/Filun" title="Filun">Filun</a></li>
+<li><a href="/wiki/Filunir" title="Filunir">Filunir</a></li>
+<li><a href="/wiki/Filu%C3%B1ir" title="Filuñir">Filuñir</a></li>
+<li><a href="/wiki/Filzlaus" title="Filzlaus">Filzlaus</a></li>
+<li><a href="/wiki/Finaga" title="Finaga">Finaga</a></li>
+<li><a href="/wiki/Finale" title="Finale">Finale</a></li>
+<li><a href="/wiki/Finger" title="Finger">Finger</a></li>
+<li><a href="/wiki/Fingernagel" title="Fingernagel">Fingernagel</a></li>
+<li><a href="/wiki/Fink" title="Fink">Fink</a></li>
+<li><a href="/wiki/Finland" title="Finland">Finland</a></li>
+<li><a href="/wiki/Finlanda" title="Finlanda">Finlanda</a></li>
+<li><a href="/wiki/Finlande" title="Finlande">Finlande</a></li>
+<li><a href="/wiki/Finlandia" title="Finlandia">Finlandia</a></li>
+<li><a href="/wiki/Finlandiya" title="Finlandiya">Finlandiya</a></li>
+<li><a href="/wiki/Finlez" title="Finlez">Finlez</a></li>
+<li><a href="/wiki/Finl%C3%A0ndia" title="Finlàndia">Finlàndia</a></li>
+<li><a href="/wiki/Finl%C3%A2n" title="Finlân">Finlân</a></li>
+<li><a href="/wiki/Finl%C3%A2ndia" title="Finlândia">Finlândia</a></li>
+<li><a href="/wiki/Finne" title="Finne">Finne</a></li>
+<li><a href="/wiki/Finnland" title="Finnland">Finnland</a></li>
+<li><a href="/wiki/Finnlando" title="Finnlando">Finnlando</a></li>
+<li><a href="/wiki/Finnorsz%C3%A1g" title="Finnország">Finnország</a></li>
+<li><a href="/wiki/Finondo" title="Finondo">Finondo</a></li>
+<li><a href="/wiki/Finska" title="Finska">Finska</a></li>
+<li><a href="/wiki/Finsko" title="Finsko">Finsko</a></li>
+<li><a href="/wiki/Fiol" title="Fiol">Fiol</a></li>
+<li><a href="/wiki/Fiona" title="Fiona">Fiona</a></li>
+<li><a href="/wiki/Firmin" title="Firmin">Firmin</a></li>
+<li><a href="/wiki/Firmino" title="Firmino">Firmino</a></li>
+<li><a href="/wiki/Firrintena" title="Firrintena">Firrintena</a></li>
+<li><a href="/wiki/Firumir" title="Firumir">Firumir</a></li>
+<li><a href="/wiki/Fisch" title="Fisch">Fisch</a></li>
+<li><a href="/wiki/Fische" title="Fische">Fische</a></li>
+<li><a href="/wiki/Fischer" title="Fischer">Fischer</a></li>
+<li><a href="/wiki/Fischerei" title="Fischerei">Fischerei</a></li>
+<li><a href="/wiki/Fischmesser" title="Fischmesser">Fischmesser</a></li>
+<li><a href="/wiki/Fisher" title="Fisher">Fisher</a></li>
+<li><a href="/wiki/Fito" title="Fito">Fito</a></li>
+<li><a href="/wiki/Fiuca" title="Fiuca">Fiuca</a></li>
+<li><a href="/wiki/Fiyi" title="Fiyi">Fiyi</a></li>
+<li><a href="/wiki/Flanagan" title="Flanagan">Flanagan</a></li>
+<li><a href="/wiki/Flandes" title="Flandes">Flandes</a></li>
+<li><a href="/wiki/Flasche" title="Flasche">Flasche</a></li>
+<li><a href="/wiki/Flascheng%C3%A4rung" title="Flaschengärung">Flaschengärung</a></li>
+<li><a href="/wiki/Flavia" title="Flavia">Flavia</a></li>
+<li><a href="/wiki/Flavio" title="Flavio">Flavio</a></li>
+<li><a href="/wiki/Fla%C3%B1o" title="Flaño">Flaño</a></li>
+<li><a href="/wiki/Fledermaus" title="Fledermaus">Fledermaus</a></li>
+<li><a href="/wiki/Fleisch" title="Fleisch">Fleisch</a></li>
+<li><a href="/wiki/Fleischmann" title="Fleischmann">Fleischmann</a></li>
+<li><a href="/wiki/Flei%C3%9F" title="Fleiß">Fleiß</a></li>
+<li><a href="/wiki/Flensburgo" title="Flensburgo">Flensburgo</a></li>
+<li><a href="/wiki/Flesinga" title="Flesinga">Flesinga</a></li>
+<li><a href="/wiki/Fleurette" title="Fleurette">Fleurette</a></li>
+<li><a href="/wiki/Fliege" title="Fliege">Fliege</a></li>
+<li><a href="/wiki/Fliegenpilz" title="Fliegenpilz">Fliegenpilz</a></li>
+<li><a href="/wiki/Fliese" title="Fliese">Fliese</a></li>
+<li><a href="/wiki/Flint" title="Flint">Flint</a></li>
+<li><a href="/wiki/Floh" title="Floh">Floh</a></li>
+<li><a href="/wiki/Flood" title="Flood">Flood</a></li>
+<li><a href="/wiki/Floody" title="Floody">Floody</a></li>
+<li><a href="/wiki/Flor" title="Flor">Flor</a></li>
+<li><a href="/wiki/Flora" title="Flora">Flora</a></li>
+<li><a href="/wiki/Floreal" title="Floreal">Floreal</a></li>
+<li><a href="/wiki/Florencia" title="Florencia">Florencia</a></li>
+<li><a href="/wiki/Florenciano" title="Florenciano">Florenciano</a></li>
+<li><a href="/wiki/Florencio" title="Florencio">Florencio</a></li>
+<li><a href="/wiki/Florencio_Varela" title="Florencio Varela">Florencio Varela</a></li>
+<li><a href="/wiki/Florent" title="Florent">Florent</a></li>
+<li><a href="/wiki/Florentina" title="Florentina">Florentina</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Etchebar" title="Especial:Todas">Página anterior (Etchebar)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Florentine" title="Especial:Todas">Página siguiente (Florentine)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DF" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DF" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=F" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=F&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=F&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":323,"wgHostname":"mw1368"});});</script></body></html>

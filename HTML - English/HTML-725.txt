@@ -1,0 +1,898 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Latin - Wikiversity</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlfsZApAMNIAAZil-VgAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Latin","wgTitle":"Latin","wgCurRevisionId":2058664,"wgRevisionId":2058664,"wgArticleId":34146,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Latin"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Latin","wgRelevantArticleId":34146,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikiversity","wgWikibaseItemId":"Q397","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgSiteNoticeId":"2.90"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage"
+:"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["mediawiki.page.gallery","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/10/CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Latin&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Latin&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikiversity.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikiversity (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikiversity.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikiversity Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikiversity.org/wiki/Latin"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Latin rootpage-Latin skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Edismiss\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003Cdiv class=\"center\" style=\"\"\u003E\n\u003Cbig\u003E\u003Ca href=\"/wiki/Wikiversity:Why_create_an_account%3F\" class=\"mw-redirect\" title=\"Wikiversity:Why create an account?\"\u003EWhy create a Wikiversity account?\u003C/a\u003E\u003C/big\u003E\u003C/div\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Latin</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikiversity</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><hr />
+<ul class="gallery mw-gallery-packed">
+		<li class="gallerybox" style="width: 93.333333333333px"><div style="width: 93.333333333333px">
+			<div class="thumb" style="width: 91.333333333333px;"><div style="margin:0px auto;"><a href="/wiki/File:Ancient_Times,_Roman._-_017_-_Costumes_of_All_Nations_(1882).JPG" class="image"><img alt="Ancient Times, Roman. - 017 - Costumes of All Nations (1882).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ancient_Times%2C_Roman._-_017_-_Costumes_of_All_Nations_%281882%29.JPG/137px-Ancient_Times%2C_Roman._-_017_-_Costumes_of_All_Nations_%281882%29.JPG" decoding="async" width="92" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ancient_Times%2C_Roman._-_017_-_Costumes_of_All_Nations_%281882%29.JPG/206px-Ancient_Times%2C_Roman._-_017_-_Costumes_of_All_Nations_%281882%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ancient_Times%2C_Roman._-_017_-_Costumes_of_All_Nations_%281882%29.JPG/274px-Ancient_Times%2C_Roman._-_017_-_Costumes_of_All_Nations_%281882%29.JPG 2x" data-file-width="1893" data-file-height="2485" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 232.66666666667px"><div style="width: 232.66666666667px">
+			<div class="thumb" style="width: 230.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:Spqrstone.jpg" class="image"><img alt="Spqrstone.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Spqrstone.jpg/346px-Spqrstone.jpg" decoding="async" width="231" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Spqrstone.jpg/519px-Spqrstone.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Spqrstone.jpg/691px-Spqrstone.jpg 2x" data-file-width="1000" data-file-height="521" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 122.66666666667px"><div style="width: 122.66666666667px">
+			<div class="thumb" style="width: 120.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:Romolo_e_remo.jpg" class="image"><img alt="Romolo e remo.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Romolo_e_remo.jpg/181px-Romolo_e_remo.jpg" decoding="async" width="121" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Romolo_e_remo.jpg/272px-Romolo_e_remo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Romolo_e_remo.jpg/363px-Romolo_e_remo.jpg 2x" data-file-width="499" data-file-height="495" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 194px"><div style="width: 194px">
+			<div class="thumb" style="width: 192px;"><div style="margin:0px auto;"><a href="/wiki/File:Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg" class="image"><img alt="Karl Theodor von Piloty Murder of Caesar 1865.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg/288px-Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg" decoding="async" width="192" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg/432px-Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg/576px-Karl_Theodor_von_Piloty_Murder_of_Caesar_1865.jpg 2x" data-file-width="1848" data-file-height="1156" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 82px"><div style="width: 82px">
+			<div class="thumb" style="width: 80px;"><div style="margin:0px auto;"><a href="/wiki/File:Bust_of_Cicero_(1st-cent._BC)_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg" class="image"><img alt="Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/120px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg" decoding="async" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/180px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/240px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg 2x" data-file-width="3456" data-file-height="5184" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+</ul>
+<hr />
+<div class="noprint">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:20em;"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a class="mw-selflink selflink">Latin</a></th></tr><tr><td style="padding:0 0.1em 0.4em;text-align:left;">
+<dl><dd><ul><li><a href="/wiki/Latin/Pronunciation" title="Latin/Pronunciation">Pronunciation</a></li>
+<li><a href="/wiki/Latin/Basics_Lesson_1" title="Latin/Basics Lesson 1">Basics</a></li>
+<li><a href="/wiki/Latin/Basics_2_Lesson_1" title="Latin/Basics 2 Lesson 1">Basics 2</a></li>
+<li><a href="/wiki/Latin/Common_Phrases" title="Latin/Common Phrases">Common Phrases</a></li>
+<li><a href="/wiki/Latin/1st_Declension_Lesson_1" title="Latin/1st Declension Lesson 1">1st Declension</a></li>
+<li><a href="/wiki/Latin/2nd_Declension_Lesson_1" title="Latin/2nd Declension Lesson 1">2nd Declension</a></li>
+<li><a href="/wiki/Latin/3rd_Declension_Lesson_1" title="Latin/3rd Declension Lesson 1">3rd Declension</a></li>
+<li><a href="/wiki/Latin/Food_Lesson_1" title="Latin/Food Lesson 1">Food</a></li>
+<li><a href="/wiki/Latin/Animals_Lesson_1" title="Latin/Animals Lesson 1">Animals</a></li>
+<li><a href="/wiki/Latin/Family_Lesson_1" title="Latin/Family Lesson 1">Family</a></li>
+<li><a href="/wiki/Latin/Adjectives_Lesson_1" title="Latin/Adjectives Lesson 1">Adjectives</a></li>
+<li><a href="/wiki/Latin/Verbs_Present_Tense_Lesson_1" title="Latin/Verbs Present Tense Lesson 1">Verbs Present Tense</a></li>
+<li><a href="/wiki/Latin/Personal_Pronouns_Lesson_1" title="Latin/Personal Pronouns Lesson 1">Personal Pronouns</a></li>
+<li><a href="/wiki/Latin/Christmas_Carols" title="Latin/Christmas Carols">Christmas Carols</a></li>
+<li><a href="/wiki/Latin/Colors" title="Latin/Colors">Colors</a></li>
+<li><a href="/wiki/Latin/Clothing_Lesson_1" title="Latin/Clothing Lesson 1">Clothing</a></li>
+<li><a href="/wiki/Latin/4th_Declension" title="Latin/4th Declension">4th Declension</a></li>
+<li><a href="/wiki/Latin/5th_Declension" title="Latin/5th Declension">5th Declension</a></li>
+<li><a href="/wiki/Latin/Questions" title="Latin/Questions">Questions</a></li>
+<li><a href="/wiki/Latin/Household_Lesson_1" title="Latin/Household Lesson 1">Household</a></li>
+<li><a href="/wiki/Latin/Conjunctions" title="Latin/Conjunctions">Conjunctions</a></li>
+<li><a href="/wiki/Latin/Prepositions" title="Latin/Prepositions">Prepositions</a></li>
+<li><a href="/wiki/Latin/Time_Lesson_1" title="Latin/Time Lesson 1">Time</a></li>
+<li><a href="/wiki/Latin/Numbers" title="Latin/Numbers">Numbers</a></li>
+<li><a href="/wiki/Latin/Verbs_Present_2_Lesson_1" title="Latin/Verbs Present 2 Lesson 1">Verbs Present 2</a></li>
+<li><a href="/wiki/Latin/Adverbs_Lesson_1" title="Latin/Adverbs Lesson 1">Adverbs</a></li>
+<li><a href="/wiki/Latin/Demonstratives_Lesson_1" title="Latin/Demonstratives Lesson 1">Demonstratives</a></li>
+<li><a href="/wiki/Latin/Occupation_Lesson_1" title="Latin/Occupation Lesson 1">Occupation</a></li>
+<li><a href="/wiki/Latin/Objects_Lesson_1" title="Latin/Objects Lesson 1">Objects</a></li>
+<li><a href="/wiki/Latin/Verbs_Present_3_Lesson_1" title="Latin/Verbs Present 3 Lesson 1">Verbs Present 3</a></li>
+<li><a href="/wiki/Latin/Infinitives_Lesson_1" title="Latin/Infinitives Lesson 1">Infinitives</a></li>
+<li><a href="/wiki/Latin/Imperatives_Lesson_1" title="Latin/Imperatives Lesson 1">Imperatives</a></li>
+<li><a href="/wiki/Latin/Imperfect_Tense_Lesson_1" title="Latin/Imperfect Tense Lesson 1">Imperfect Tense</a></li>
+<li><a href="/wiki/Latin/Future_Tense_Lesson_1" title="Latin/Future Tense Lesson 1">Future Tense</a></li>
+<li><a href="/wiki/Latin/Corpus_Humanum_Lesson_1" title="Latin/Corpus Humanum Lesson 1">Corpus Humanum</a></li>
+<li><a href="/wiki/Latin/Perfect_Tense_Lesson_1" title="Latin/Perfect Tense Lesson 1">Perfect Tense</a></li>
+<li><a href="/wiki/Latin/Relative_and_Indefinite_Pronouns_Lesson_1" title="Latin/Relative and Indefinite Pronouns Lesson 1">Relative and Indefinite Pronouns</a></li>
+<li><a href="/wiki/Latin/Adjectives_2_Lesson_1" title="Latin/Adjectives 2 Lesson 1">Adjectives 2</a></li>
+<li><a href="/wiki/Latin/Pluperfect_Tense_Lesson_1" title="Latin/Pluperfect Tense Lesson 1">Pluperfect Tense</a></li>
+<li><a href="/wiki/Latin/Future_Perfect_Tense" title="Latin/Future Perfect Tense">Future Perfect Tense</a></li>
+<li><a href="/wiki/Latin/Passive_Voice_Lesson_1" title="Latin/Passive Voice Lesson 1">Passive Voice</a></li>
+<li><a href="/wiki/Latin/Locative_and_Geography" title="Latin/Locative and Geography">Locative and Geography</a></li>
+<li><a href="/wiki/Latin/Participles_Lesson_1" title="Latin/Participles Lesson 1">Participles</a></li></ul></dd></dl>
+<hr />
+<dl><dd><ul><li><a href="/wiki/Latin/Classified_Vocabulary_List" title="Latin/Classified Vocabulary List">Classified Vocabulary List</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.memrise.com/course/748509/latin-for-duolingo/">Memrise:Latin Vocabulary</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.memrise.com/course/906792/carpelanams-duolingo-latin-sentences/">Memrise: Latin Sentences</a></li>
+<li><a href="/wiki/Latin/More_Latin_resources" title="Latin/More Latin resources">More learning resources</a></li></ul></dd></dl></td>
+</tr></tbody></table></div>
+<table cellspacing="0" cellpadding="0" style="clear:left; margin-bottom: .5em; float: left; padding: .5em 1.4em .8em 0; background: none; width: auto;">
+<tbody><tr>
+<td><div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Who_this_course_is_for"><span class="tocnumber">1</span> <span class="toctext">Who this course is for</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#How_to_use_the_course"><span class="tocnumber">2</span> <span class="toctext">How to use the course</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Time_needed_to_complete_the_course"><span class="tocnumber">2.1</span> <span class="toctext">Time needed to complete the course</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Getting_help"><span class="tocnumber">2.2</span> <span class="toctext">Getting help</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Errors"><span class="tocnumber">2.3</span> <span class="toctext">Errors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Supporting_materials"><span class="tocnumber">3</span> <span class="toctext">Supporting materials</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Other_free_resources"><span class="tocnumber">3.1</span> <span class="toctext">Other free resources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Supplementing_your_study"><span class="tocnumber">4</span> <span class="toctext">Supplementing your study</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Other_uses_for_the_course"><span class="tocnumber">5</span> <span class="toctext">Other uses for the course</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Home_schooling"><span class="tocnumber">5.1</span> <span class="toctext">Home schooling</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Using_the_course_for_a_class"><span class="tocnumber">5.2</span> <span class="toctext">Using the course for a class</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Course_lessons"><span class="tocnumber">6</span> <span class="toctext">Course lessons</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Get_involved_in_developing_the_course"><span class="tocnumber">7</span> <span class="toctext">Get involved in developing the course</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Contribute_audio"><span class="tocnumber">7.1</span> <span class="toctext">Contribute audio</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Course_credit"><span class="tocnumber">8</span> <span class="toctext">Course credit</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Other_materials"><span class="tocnumber">9</span> <span class="toctext">Other materials</span></a></li>
+</ul>
+</div>
+
+</td></tr></tbody></table>
+<p>Salvēte omnēs!
+</p><p>Latin is a beautiful, complex and ancient language, and there is a consistent desire for online learning resources. It is an <a href="https://en.wikipedia.org/wiki/Indo-European_languages" class="extiw" title="wikipedia:Indo-European languages">Indo-European language</a> which was spoken in Ancient Rome and eventually evolved into the <a href="https://en.wikipedia.org/wiki/Romance_languages" class="extiw" title="w:Romance languages">Romance languages</a> spoken today. It was widely used for academic and scientific discourse well into the nineteenth century and forms an essential part of the specialized terminology in the fields of law and medicine. It is still used in some ecclesiastical contexts.
+</p><p>These beginners Wikiversity lessons form a non-traditional, informal course aimed at speaking and writing as well as reading. The lessons are supported by practice in words and sentences available on Memrise.
+</p>
+<h2><span class="mw-headline" id="Who_this_course_is_for">Who this course is for</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=1" title="Edit section: Who this course is for">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This is a beginners' course, covering what most people learn in the first two or three years of Latin classes. It is a gently paced but thorough course, and requires no specialized knowledge of grammar to begin. From the first lesson you will learn simple sentences in Latin, with just enough grammar explanation to cover the concepts taught in each lesson. It is suitable for independent learners as young as 10, with good English reading skills.
+</p><p>The sample sentences are the key part of this course. This is a very natural way of learning, replicating how we all learned language as children, but this course is not like most traditional Latin textbooks. Sentences provide context and make memorization easier, and all the sentences in each lesson have enough in common to highlight the concepts taught in that lesson. If you are just starting out, and don't feel comfortable with a grammar based, reading only approach to learning, this could be a good course for you.
+</p><p>If you've been struggling learning paradigms, or have begun to feel overwhelmed by dozens of different conjugations and declensions which you know in theory but can't always remember in practice, then this could be a good course for you. Formal vocabulary listings and grammar paradigms are available in the lessons where sentences using those vocabulary words and grammar concepts are first taught, so if you like the traditional approach, that is available to you as well.
+</p><p>The course steps cover all the main points of Latin grammar. The content is aimed at everyday use as well as common words in literature, enabling you to use Latin as a spoken as well as written language. It is also a good way to practice writing basic Latin.
+</p><p>By the end of the course, you will have covered most major Latin grammar concepts and know 750-1000 vocabulary words. The subjunctive mood and several sentence types that include more advanced syntax are still remaining to be taught but we hope to add at least some of them in coming months. After that point, Latin courses traditionally shift to emphasize reading literature in Latin. Caesar's <i><a href="https://en.wikipedia.org/wiki/Commentarii_de_Bello_Gallico" class="extiw" title="wikipedia:Commentarii de Bello Gallico">Commentāriī dē Bellō Gallicō</a></i>, Cicero's orations, and Vergil's Aeneid are, in increasing order of difficulty, common works studied in such courses.
+</p>
+<h2><span class="mw-headline" id="How_to_use_the_course">How to use the course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=2" title="Edit section: How to use the course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg/220px-CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg" decoding="async" width="220" height="162" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg/330px-CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg/440px-CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg 2x" data-file-width="925" data-file-height="680" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg" class="internal" title="Enlarge"></a></div>Cicero writing his letters</div></div></div>
+<p>You should first read the lesson, and then use the lesson practices on Memrise to reinforce what you have learnt. If you are an absolute beginner, you should:
+</p>
+<blockquote>
+<ol><li>Read the lesson;</li>
+<li>Practice the "words" course on Memrise for the lesson you've read; then</li>
+<li>Practice with the "sentence" course on Memrise for the lesson you've read</li></ol>
+</blockquote>
+<p>This is a very powerful and thorough way of learning. You first get the background information, then you learn the vocabulary and then practice the grammar. If you stick with it, you will be able to learn Latin much more thoroughly and effectively than with most courses, since you are actually using the language.
+</p><p>Once you get past the first third or half of the course, you will probably want to practice your Latin using other content and tools, to make your learning experience more enjoyable and interesting.
+</p><p><i><b>Important</b>: reading the lessons but not practising writing and memorising the sentences is unlikely to work. Languages take practice and usage to learn, so please don't expect to just read the Wikiversity lessons and magically understand Latin!</i>
+</p>
+<h3><span class="mw-headline" id="Time_needed_to_complete_the_course">Time needed to complete the course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=3" title="Edit section: Time needed to complete the course">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The sentence practice course takes 46 hours to complete. This is active learning time, so would take around 135 days to complete at 20 minutes a day. If you need the vocabulary learning as well, this is 27 hours of practice, or around 75 days at 20 minutes daily.
+</p><p>The course can be comfortably completed by an average student in around a year or 18 months, assuming a small amount is done daily. 
+</p><p>Note that it is perfectly possible to reduce the sentence practice if you want. You can simply use the 'ignore' function in Memrise, for instance by viewing the level and selecting sentences or words to ignore.
+</p>
+<h3><span class="mw-headline" id="Getting_help">Getting help</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=4" title="Edit section: Getting help">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>At the moment, the best place to ask for help is on the talk (discussion) pages of each exercise. However we will consider finding another more conversational medium, for instance a sub Reddit. There is also a <a rel="nofollow" class="external text" href="https://community.memrise.com/t/course-forum-carpelanams-duolingo-latin-sentences-by-zsocipuszmak/2512">discussion page</a> on Memrise for the sentence course.
+</p>
+<h3><span class="mw-headline" id="Errors">Errors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=5" title="Edit section: Errors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Because the content of lessons has only just been moved from their original home as posts by CarpeLanam on Duolingo's forums, you may find small tyographical errors and changes in voice. Please let us know on the talk pages if you spot anything. Links to the original lessons can be found on the <a href="/wiki/Talk:Latin" title="Talk:Latin">discussion page</a> here.
+</p><p><i><b>We have just completed a first pass at adding macrons. If you spot missing macrons, please feel free to edit and add as necessary, or leave a comment on a talk page if you prefer.</b></i>
+</p>
+<h2><span class="mw-headline" id="Supporting_materials">Supporting materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=6" title="Edit section: Supporting materials">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These Memrise courses can be ported to Open Source tools. For now, though, you can find them here:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://www.memrise.com/course/748509/latin-for-duolingo/">Memrise course for vocabulary</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.memrise.com/course/906792/carpelanams-duolingo-latin-sentences/">Memrise course with sentences</a></li></ul>
+<p>Please note that the sentence course can sometimes trip up, especially with word order variations which are correct but it does not recognise. Most combinations are there, but sometimes you may find correct answers being thrown out as wrong. Our advice is to just roll with it! If you have any problems, you can let the course creator know <a rel="nofollow" class="external text" href="https://community.memrise.com/t/course-forum-carpelanams-duolingo-latin-sentences-by-zsocipuszmak/2512">here</a>.
+</p>
+<h3><span class="mw-headline" id="Other_free_resources">Other free resources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=7" title="Edit section: Other free resources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There is a nearly complete <a href="https://en.wikibooks.org/wiki/Latin" class="extiw" title="wikibooks:Latin">formal course</a> on Wikibooks which could provide a useful second way of looking at Latin grammar and gaining practice. It contains exercises as well as explanations.
+</p>
+<h2><span class="mw-headline" id="Supplementing_your_study">Supplementing your study</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=8" title="Edit section: Supplementing your study">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Latin/Supplementary_Latin_study" class="mw-redirect" title="Latin/Supplementary Latin study">Latin/Supplementary Latin study</a></div>
+<p>When you learn any language, you should try different ways of using and practising the language. Typically, this will include a lot of reading, suitable to your current level. There is also audio and video available at different levels of Latin which you can use to practice. You can also try conversational Latin, either in person, via Skype chats, or through chatrooms.
+</p>
+<h2><span class="mw-headline" id="Other_uses_for_the_course">Other uses for the course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=9" title="Edit section: Other uses for the course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Home_schooling">Home schooling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=10" title="Edit section: Home schooling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The course content is not specifically written with children in mind and may not be the kind of learning that they would naturally enjoy. However, it may be useful to adapt some of the stages for revision or practice around specific skills. The original author of this course learned Latin mostly independently and taught it to children ages 11-15. She values the energy of independent learners of all ages and educational backgrounds, and is very happy if they are helped by this course.
+</p>
+<h3><span class="mw-headline" id="Using_the_course_for_a_class">Using the course for a class</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=11" title="Edit section: Using the course for a class">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It may be possible to use the content in classroom based lessons, especially if these have a conversational practice element. Lessons could also help learners by presenting more written and listening materials. If you do plan to use the lessons in this way please let us know.
+</p>
+<h2><span class="mw-headline" id="Course_lessons">Course lessons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=12" title="Edit section: Course lessons">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Course lessons on Wikiversity</th>
+<th>Notes
+</th></tr>
+<tr>
+<td><a href="/wiki/Latin/Pronunciation" title="Latin/Pronunciation">Pronunciation</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Pronunciation_Consonants" title="Latin/Pronunciation Consonants">Pronunciation Consonants</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Pronunciation_Stress" title="Latin/Pronunciation Stress">Pronunciation Stress</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Basics_Lesson_1" title="Latin/Basics Lesson 1">Basics Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Basics_Lesson_2" title="Latin/Basics Lesson 2">Basics Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Basics_Lesson_3" title="Latin/Basics Lesson 3">Basics Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Basics_2_Lesson_1" title="Latin/Basics 2 Lesson 1">Basics 2 Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Basics_2_Lesson_2" title="Latin/Basics 2 Lesson 2">Basics 2 Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Basics_2_Lesson_3" title="Latin/Basics 2 Lesson 3">Basics 2 Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Common_Phrases" title="Latin/Common Phrases">Common Phrases</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/1st_Declension_Lesson_1" title="Latin/1st Declension Lesson 1">1st Declension Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/1st_Declension_Lesson_2" title="Latin/1st Declension Lesson 2">1st Declension Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/1st_Declension_Lesson_3" title="Latin/1st Declension Lesson 3">1st Declension Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/1st_Declension_Lesson_4" title="Latin/1st Declension Lesson 4">1st Declension Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/2nd_Declension_Lesson_1" title="Latin/2nd Declension Lesson 1">2nd Declension Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/2nd_Declension_Lesson_2" title="Latin/2nd Declension Lesson 2">2nd Declension Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/2nd_Declension_Lesson_3" title="Latin/2nd Declension Lesson 3">2nd Declension Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/2nd_Declension_Lesson_4" title="Latin/2nd Declension Lesson 4">2nd Declension Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/3rd_Declension_Lesson_1" title="Latin/3rd Declension Lesson 1">3rd Declension Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/3rd_Declension_Lesson_2" title="Latin/3rd Declension Lesson 2">3rd Declension Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/3rd_Declension_Lesson_3" title="Latin/3rd Declension Lesson 3">3rd Declension Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/3rd_Declension_Lesson_4" title="Latin/3rd Declension Lesson 4">3rd Declension Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Food_Lesson_1" title="Latin/Food Lesson 1">Food Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Food_Lesson_2" title="Latin/Food Lesson 2">Food Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Food_Lesson_3" title="Latin/Food Lesson 3">Food Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Food_Lesson_4" title="Latin/Food Lesson 4">Food Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Animals_Lesson_1" title="Latin/Animals Lesson 1">Animals Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Animals_Lesson_2" title="Latin/Animals Lesson 2">Animals Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Animals_Lesson_3" title="Latin/Animals Lesson 3">Animals Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Family_Lesson_1" title="Latin/Family Lesson 1">Family Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Family_Lesson_2" title="Latin/Family Lesson 2">Family Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adjectives_Lesson_1" title="Latin/Adjectives Lesson 1">Adjectives Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adjectives_Lesson_2" title="Latin/Adjectives Lesson 2">Adjectives Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_Tense_Lesson_1" title="Latin/Verbs Present Tense Lesson 1">Verbs Present Tense Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_Tense_Lesson_2" title="Latin/Verbs Present Tense Lesson 2">Verbs Present Tense Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_Tense_Lesson_3" title="Latin/Verbs Present Tense Lesson 3">Verbs Present Tense Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_Tense_Lesson_4" title="Latin/Verbs Present Tense Lesson 4">Verbs Present Tense Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Personal_Pronouns_Lesson_1" title="Latin/Personal Pronouns Lesson 1">Personal Pronouns Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Personal_Pronouns_Lesson_2" title="Latin/Personal Pronouns Lesson 2">Personal Pronouns Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Personal_Pronouns_Lesson_3" title="Latin/Personal Pronouns Lesson 3">Personal Pronouns Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Personal_Pronouns_Lesson_4" title="Latin/Personal Pronouns Lesson 4">Personal Pronouns Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Christmas_Carols" title="Latin/Christmas Carols">Christmas Carols</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Colors" title="Latin/Colors">Colors</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Clothing_Lesson_1" title="Latin/Clothing Lesson 1">Clothing Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Clothing_Lesson_2" title="Latin/Clothing Lesson 2">Clothing Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/4th_Declension" title="Latin/4th Declension">4th Declension</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/5th_Declension" title="Latin/5th Declension">5th Declension</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Questions" title="Latin/Questions">Questions</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Household_Lesson_1" title="Latin/Household Lesson 1">Household Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Household_Lesson_2" title="Latin/Household Lesson 2">Household Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Household_Lesson_3" title="Latin/Household Lesson 3">Household Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Conjunctions" title="Latin/Conjunctions">Conjunctions</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Prepositions" title="Latin/Prepositions">Prepositions</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Time_Lesson_1" title="Latin/Time Lesson 1">Time Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Time_Lesson_2" title="Latin/Time Lesson 2">Time Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Time_Lesson_3" title="Latin/Time Lesson 3">Time Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Numbers" title="Latin/Numbers">Numbers</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_2_Lesson_1" title="Latin/Verbs Present 2 Lesson 1">Verbs Present 2 Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_2_Lesson_2" title="Latin/Verbs Present 2 Lesson 2">Verbs Present 2 Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_2_Lesson_3" title="Latin/Verbs Present 2 Lesson 3">Verbs Present 2 Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_2_Lesson_4" title="Latin/Verbs Present 2 Lesson 4">Verbs Present 2 Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adverbs_Lesson_1" title="Latin/Adverbs Lesson 1">Adverbs Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adverbs_Lesson_2" title="Latin/Adverbs Lesson 2">Adverbs Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Demonstratives_Lesson_1" title="Latin/Demonstratives Lesson 1">Demonstratives Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Demonstratives_Lesson_2" title="Latin/Demonstratives Lesson 2">Demonstratives Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Occupation_Lesson_1" title="Latin/Occupation Lesson 1">Occupation Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Occupation_Lesson_2" title="Latin/Occupation Lesson 2">Occupation Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Occupation_Lesson_3" title="Latin/Occupation Lesson 3">Occupation Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Objects_Lesson_1" title="Latin/Objects Lesson 1">Objects Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Objects_Lesson_2" title="Latin/Objects Lesson 2">Objects Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_3_Lesson_1" title="Latin/Verbs Present 3 Lesson 1">Verbs Present 3 Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_3_Lesson_2" title="Latin/Verbs Present 3 Lesson 2">Verbs Present 3 Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_3_Lesson_3" title="Latin/Verbs Present 3 Lesson 3">Verbs Present 3 Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_3_Lesson_4" title="Latin/Verbs Present 3 Lesson 4">Verbs Present 3 Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Verbs_Present_3_Lesson_5" title="Latin/Verbs Present 3 Lesson 5">Verbs Present 3 Lesson 5</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Infinitives_Lesson_1" title="Latin/Infinitives Lesson 1">Infinitives Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Infinitives_Lesson_2" title="Latin/Infinitives Lesson 2">Infinitives Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Infinitives_Lesson_3" title="Latin/Infinitives Lesson 3">Infinitives Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Imperatives_Lesson_1" title="Latin/Imperatives Lesson 1">Imperatives Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Imperatives_Lesson_2" title="Latin/Imperatives Lesson 2">Imperatives Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Imperatives_Lesson_3" title="Latin/Imperatives Lesson 3">Imperatives Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Imperfect_Tense_Lesson_1" title="Latin/Imperfect Tense Lesson 1">Imperfect Tense Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Imperfect_Tense_Lesson_2" title="Latin/Imperfect Tense Lesson 2">Imperfect Tense Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Imperfect_Tense_Lesson_3" title="Latin/Imperfect Tense Lesson 3">Imperfect Tense Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Future_Tense_Lesson_1" title="Latin/Future Tense Lesson 1">Future Tense Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Future_Tense_Lesson_2" title="Latin/Future Tense Lesson 2">Future Tense Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Future_Tense_Lesson_3" title="Latin/Future Tense Lesson 3">Future Tense Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Corpus_Humanum_Lesson_1" title="Latin/Corpus Humanum Lesson 1">Corpus Humanum Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Corpus_Humanum_Lesson_2" title="Latin/Corpus Humanum Lesson 2">Corpus Humanum Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Perfect_Tense_Lesson_1" title="Latin/Perfect Tense Lesson 1">Perfect Tense Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Perfect_Tense_Lesson_2" title="Latin/Perfect Tense Lesson 2">Perfect Tense Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Perfect_Tense_Lesson_3" title="Latin/Perfect Tense Lesson 3">Perfect Tense Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Perfect_Tense_Lesson_4" title="Latin/Perfect Tense Lesson 4">Perfect Tense Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Relative_and_Indefinite_Pronouns_Lesson_1" title="Latin/Relative and Indefinite Pronouns Lesson 1">Relative and Indefinite Pronouns Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Relative_and_Indefinite_Pronouns_Lesson_2" title="Latin/Relative and Indefinite Pronouns Lesson 2">Relative and Indefinite Pronouns Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Relative_and_Indefinite_Pronouns_Lesson_3" title="Latin/Relative and Indefinite Pronouns Lesson 3">Relative and Indefinite Pronouns Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adjectives_2_Lesson_1" title="Latin/Adjectives 2 Lesson 1">Adjectives 2 Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adjectives_2_Lesson_2" title="Latin/Adjectives 2 Lesson 2">Adjectives 2 Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adjectives_2_Lesson_3" title="Latin/Adjectives 2 Lesson 3">Adjectives 2 Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Adjectives_2_Lesson_4" title="Latin/Adjectives 2 Lesson 4">Adjectives 2 Lesson 4</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Pluperfect_Tense_Lesson_1" title="Latin/Pluperfect Tense Lesson 1">Pluperfect Tense Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Pluperfect_Tense_Lesson_2" title="Latin/Pluperfect Tense Lesson 2">Pluperfect Tense Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Future_Perfect_Tense" title="Latin/Future Perfect Tense">Future Perfect Tense</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Passive_Voice_Lesson_1" title="Latin/Passive Voice Lesson 1">Passive Voice Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Passive_Voice_Lesson_2" title="Latin/Passive Voice Lesson 2">Passive Voice Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Locative_and_Geography" title="Latin/Locative and Geography">Locative and Geography</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Places_and_Geography_2" title="Latin/Places and Geography 2">Places and Geography 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Participles_Lesson_1" title="Latin/Participles Lesson 1">Participles Lesson 1</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Participles_Lesson_2" title="Latin/Participles Lesson 2">Participles Lesson 2</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Participles_Lesson_3" title="Latin/Participles Lesson 3">Participles Lesson 3</a></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Latin/Classified_Vocabulary_List" title="Latin/Classified Vocabulary List">Classified Vocabulary List</a></td>
+<td>
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Get_involved_in_developing_the_course">Get involved in developing the course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=13" title="Edit section: Get involved in developing the course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>We hope the course will be developed further. This will be discussed on the talk page here.
+</p>
+<h3><span class="mw-headline" id="Contribute_audio">Contribute audio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=14" title="Edit section: Contribute audio">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>See <a href="/wiki/Latin/Contribute_Audio" title="Latin/Contribute Audio">Latin/Contribute Audio</a></i>
+We are adding audio, especially as many words are already recorded and available in Wikimedia Commons, and integrating some of the content with Wiktionary. We need help with missing audio for words, and for whole sentences.
+</p><p>We know that adding audio to Wikis can be hard so can do all the hard work if you need, or else can help you upload the material.
+</p>
+<h2><span class="mw-headline" id="Course_credit">Course credit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=15" title="Edit section: Course credit">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The lessons were originally written by CarpeLanam to help beginners who lacked a Latin course on a free online language tool. We are very grateful for her kind permission to reproduce them under a cc-by-sa licence. zsocipuszmak added the sentence course on Memrise.
+</p>
+<h2><span class="mw-headline" id="Other_materials">Other materials</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Latin&amp;action=edit&amp;section=16" title="Edit section: Other materials">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Other materials are available at <a href="/wiki/Portal:Latin" title="Portal:Latin">Portal:Latin</a>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20200217090408
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.104 seconds
+Real time usage: 0.144 seconds
+Preprocessor visited node count: 648/1000000
+Post‐expand include size: 12165/2097152 bytes
+Template argument size: 2776/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4793/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.011/10.000 seconds
+Lua memory usage: 770 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   73.303      1 -total
+ 80.74%   59.184      1 Latin/Sidebar
+ 61.80%   45.302      1 Template:Noprint
+ 56.96%   41.755      1 Template:Sidebar
+ 15.30%   11.213      1 Template:Main
+ 11.80%    8.648      1 Template:CourseCat
+  9.51%    6.971     45 Template:Titleparts
+  3.63%    2.659      1 Template:LeftTOC
+  2.84%    2.085      1 Template:FULLBOOKNAME
+-->
+
+<!-- Saved in parser cache with key enwikiversity:pcache:idhash:34146-0!canonical and timestamp 20200217090408 and revision id 2058664
+ -->
+</div><noscript><img src="//en.wikiversity.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikiversity.org/w/index.php?title=Latin&amp;oldid=2058664">https://en.wikiversity.org/w/index.php?title=Latin&amp;oldid=2058664</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/wiki/Category:Latin" title="Category:Latin">Latin</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Latin" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Latin" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Latin" title="View the content page [c]" accesskey="c">Resource</a></li><li id="ca-talk"><a href="/wiki/Talk:Latin" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discuss</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Latin">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Latin&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Latin&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikiversity" title="Search Wikiversity [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wikiversity:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Navigation"  aria-labelledby="p-Navigation-label">
+	<h3  id="p-Navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-Main-Page"><a href="/wiki/Wikiversity:Main_Page">Main Page</a></li><li id="n-Browse"><a href="/wiki/Wikiversity:Browse">Browse</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Guided-tours"><a href="/wiki/Help:Guides">Guided tours</a></li><li id="n-Random"><a href="/wiki/Special:RandomRootpage">Random</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikiversity.org&amp;uselang=en" title="Support us">Donate</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Community"  aria-labelledby="p-Community-label">
+	<h3  id="p-Community-label">
+		Community
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Wikiversity:Community_Portal" title="About the project, what you can do, where to find things">Portal</a></li><li id="n-Colloquium"><a href="/wiki/Wikiversity:Colloquium">Colloquium</a></li><li id="n-currentevents"><a href="/wiki/Wikiversity:News" title="Find background information on current events">News</a></li><li id="n-Projects"><a href="/wiki/Wikiversity:Community_projects">Projects</a></li><li id="n-Sandbox"><a href="/wiki/Wikiversity:Sandbox">Sandbox</a></li><li id="n-Help-desk"><a href="/wiki/Wikiversity:Help_desk">Help desk</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Latin" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Latin" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Latin&amp;oldid=2058664" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Latin&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q397" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Latin&amp;id=2058664" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikiversity.org/wiki/Latina" title="Latina – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikiversity.org/wiki/Fachbereich_Latinistik" title="Fachbereich Latinistik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikiversity.org/wiki/%CE%A4%CE%BC%CE%AE%CE%BC%CE%B1:%CE%9B%CE%B1%CF%84%CE%B9%CE%BD%CE%B9%CE%BA%CE%AC" title="Τμήμα:Λατινικά – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikiversity.org/wiki/Introducci%C3%B3n_al_lat%C3%ADn" title="Introducción al latín – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikiversity.org/wiki/D%C3%A9partement:Latin" title="Département:Latin – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikiversity.org/wiki/Materia:Grammatica_latina_per_le_superiori_1" title="Materia:Grammatica latina per le superiori 1 – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_L%C3%ADngua_Latina" title="Introdução à Língua Latina – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikiversity.org/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q397#sitelinks-wikiversity" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Wikimedia projects"  aria-labelledby="p-Wikimedia projects-label">
+	<h3  id="p-Wikimedia projects-label">
+		Wikimedia projects
+	</h3>
+	<div class="body">
+		<ul><li id="n-Commons"><a href="https://commons.wikimedia.org/wiki/Main_Page">Commons</a></li><li id="n-Wikibooks"><a href="https://en.wikibooks.org/wiki/Project:Main_Page">Wikibooks</a></li><li id="n-Wikipedia"><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li><li id="n-Wiktionary"><a href="https://en.wiktionary.org/wiki/Project:Main_Page">Wiktionary</a></li><li id="n-Wikiquote"><a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></li><li id="n-Wikisource"><a href="https://en.wikisource.org/wiki/Main_Page">Wikisource</a></li><li id="n-Wikinews"><a href="https://en.wikinews.org/wiki/Main_Page">Wikinews</a></li><li id="n-Wikispecies"><a href="https://species.wikimedia.org/wiki/Main_Page">Wikispecies</a></li><li id="n-Wikivoyage"><a href="https://en.wikivoyage.org/wiki/Main_Page">Wikivoyage</a></li><li id="n-Meta-Wiki"><a href="https://meta.wikimedia.org/wiki/Main_Page">Meta-Wiki</a></li><li id="n-Outreach"><a href="https://outreach.wikimedia.org/wiki/Main_Page">Outreach</a></li><li id="n-MediaWiki"><a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a></li><li id="n-Wikimania"><a href="https://meta.wikimedia.org/wiki/Wikimania">Wikimania</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		In other projects
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Latin_language" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Latin" hreflang="en">Wikibooks</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://en.wikipedia.org/wiki/Latin" hreflang="en">Wikipedia</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Latin" hreflang="en">Wikiquote</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Latin">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Latin&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Latin&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 15 September 2019, at 22:19.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikiversity:About" class="mw-redirect" title="Wikiversity:About">About Wikiversity</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikiversity:General_disclaimer" title="Wikiversity:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikiversity.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikiversity.org/w/index.php?title=Latin&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.144","ppvisitednodes":{"value":648,"limit":1000000},"postexpandincludesize":{"value":12165,"limit":2097152},"templateargumentsize":{"value":2776,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4793,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   73.303      1 -total"," 80.74%   59.184      1 Latin/Sidebar"," 61.80%   45.302      1 Template:Noprint"," 56.96%   41.755      1 Template:Sidebar"," 15.30%   11.213      1 Template:Main"," 11.80%    8.648      1 Template:CourseCat","  9.51%    6.971     45 Template:Titleparts","  3.63%    2.659      1 Template:LeftTOC","  2.84%    2.085      1 Template:FULLBOOKNAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.011","limit":"10.000"},"limitreport-memusage":{"value":788503,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20200217090408","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Latin","url":"https:\/\/en.wikiversity.org\/wiki\/Latin","sameAs":"http:\/\/www.wikidata.org\/entity\/Q397","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q397","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-08T00:27:16Z","dateModified":"2019-09-15T22:19:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/10\/CiceroEpistulaeAdFamiliaresVenice1547page329Detail.jpg","headline":"almost extinct Indo-European language of the Italic family"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":128,"wgHostname":"mw1368"});});</script></body></html>

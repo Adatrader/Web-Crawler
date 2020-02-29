@@ -1,0 +1,807 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Vieux ménage - Wikisource</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"Xlk5hApAMNIAAwbTDA4AAACD","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Vieux_ménage","wgTitle":"Vieux ménage","wgCurRevisionId":7281912,"wgRevisionId":7281912,"wgArticleId":130868,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Éditions sans œuvre liée","Textes validés","XIXe siècle","Théâtre","Bon pour export"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Vieux_ménage","wgRelevantArticleId":130868,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikisource","proofreadpage_source_href":"\u003Ca href=\"/wiki/Livre:Mirbeau_-_Th%C3%A9%C3%A2tre_I.djvu\" title=\"Édition numérisée dont est issu ce texte\"\u003ESource\u003C/a\u003E","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgSiteNoticeId":"2.2"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading"
+,"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.proofreadpage.article","ext.gadget.stockText","ext.gadget.modernisation","ext.gadget.MiseEnPage","ext.gadget.Typo","ext.gadget.Edittools","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Vieux_m%C3%A9nage&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Vieux_m%C3%A9nage&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikisource.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikisource.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikisource" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikisource.org/wiki/Vieux_m%C3%A9nage"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Vieux_ménage rootpage-Vieux_ménage skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Emasquer\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-TextQuality" class="mw-indicator"><span class="ws-noexport" itemscope="" itemtype="http&#58;//schema.org/Article" itemid="https&#58;//fr.wikisource.org/wiki/Vieux_m%C3%A9nage"><span itemscope="" itemprop="http&#58;//wikiba.se/ontology#badge" itemid="http&#58;//www.wikidata.org/entity/Q20748093" title="Texte validé" data-quality-level="Textes validés"><a href="/wiki/Cat%C3%A9gorie:Textes_valid%C3%A9s" title="Catégorie:Textes validés"><img alt="Mozilla.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozilla.svg/10px-Mozilla.svg.png" decoding="async" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozilla.svg/15px-Mozilla.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mozilla.svg/20px-Mozilla.svg.png 2x" data-file-width="46" data-file-height="44" /></a></span></span></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Vieux ménage</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">La bibliothèque libre.</div>
+		<div id="contentSub"><table class="pr_quality noprint" title="30 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:100%;"></td>
+<td class="quality3" style="width:0%;"></td>
+<td class="quality2" style="width:0%;"></td>
+<td class="quality1" style="width:0%;"></td>
+<td class="quality0" style="width:0%;"></td>
+
+</tr>
+</table></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="prp-pages-output">
+<div itemscope="" itemtype="http&#58;//schema.org/Book"><div id="headertemplate" class="ws-noexport"><div class="headertemplate"><div class="headertemplate-author"><span itemprop="author" itemscope="" itemtype="http&#58;//schema.org/Thing" itemid="http&#58;//www.wikidata.org/entity/Q23441"><a href="/wiki/Auteur:Octave_Mirbeau" title="Auteur:Octave Mirbeau"><span itemprop="name">Octave Mirbeau</span></a><link itemprop="mainEntityOfPage" href="https&#58;//fr.wikisource.org/wiki/Auteur:Octave_Mirbeau" /></span></div><div class="headertemplate-title"><span itemprop="name">Vieux ménage</span></div><div class="headertemplate-reference"><span itemprop="volumeNumber">Théâtre I</span><br /><span itemprop="publisher" itemscope="" itemtype="http&#58;//schema.org/Thing"><span itemprop="name">Flammarion</span></span>,&#160;<time datetime="1921" itemprop="datePublished">1921</time>.</div></div></div><div id="subheader" class="ws-noexport" style="margin-bottom:1.5em"></div><link itemprop="mainEntityOfPage" href="https&#58;//fr.wikisource.org/wiki/Vieux_m%C3%A9nage" /><meta itemprop="inLanguage" content="fr" /><meta itemprop="http&#58;//purl.org/library/placeOfPublication" content="Paris" /><span itemprop="associatedMedia" itemscope="" itemtype="http&#58;//schema.org/MediaObject"><link itemprop="mainEntityOfPage" href="https&#58;//fr.wikisource.org/wiki/Fichier:Mirbeau_-_Th%C3%A9%C3%A2tre_I.djvu" /><meta itemprop="width" content="4267" /><meta itemprop="height" content="6464" /><meta itemprop="fileFormat" content="image/vnd.djvu" /></span><div id="ws-data" class="ws-noexport" style="display:none;speak:none"><span class="ws-type">book</span><span class="ws-title"><span itemprop="name">Vieux ménage</span></span><span class="ws-author"><a href="/wiki/Auteur:Octave_Mirbeau" title="Auteur:Octave Mirbeau">Octave Mirbeau</a></span><span class="ws-publisher">Flammarion</span><span class="ws-year">1921</span><span class="ws-place">Paris</span><span class="ws-progress">V</span><span class="ws-volume">Théâtre I</span><span class="ws-scan">Mirbeau - Théâtre I.djvu</span><span class="ws-cover">Mirbeau - Théâtre I.djvu/1</span><span class="ws-pages">5-34</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.place=Paris&amp;rft.spage=5&amp;rft.genre=book&amp;rft.au=Octave+Mirbeau&amp;rft.pub=Flammarion&amp;rft.btitle=%3Cspan+itemprop%3D%22name%22%3EVieux+m%C3%A9nage%3C%2Fspan%3E&amp;rft.epage=34&amp;rft.date=1921&amp;rfr_id=https%3A%2F%2Ffr.wikisource.org%2Fwiki%2FVieux_m%25C3%25A9nage">&#160;</span></div></div><div id="ws-summary">
+<p><span><span class="pagenum ws-pagenum" id="5" title="Page:Mirbeau - Théâtre I.djvu/7"></span></span>
+</p><p><br />
+</p>
+<h2 style="border-bottom: 0 none; text-align: center; font-size: 150%; line-height: 1.5em;" id="VIEUX_MÉNAGE"><span id="VIEUX_M.C3.89NAGE"></span><span class="mw-headline" id="VIEUX_MÉNAGE">VIEUX MÉNAGE</span></h2>
+<p><br />
+</p>
+<div style="text-align:center;clear:both;">COMÉDIE EN UN ACTE</div>
+<p><br />
+</p>
+<div style="text-align:center;clear:both;"><i>Représentée sur le théâtre du Grand-Guignol le 29 octobre 1909.</i></div>&#32;<span><span class="pagenum ws-pagenum" id="6" title="Page:Mirbeau - Théâtre I.djvu/8"></span></span>
+<p><br />
+</p>
+<h3 style="font-weight: normal; text-align: center; line-height: 1.5em;" id="PERSONNAGES"><span class="mw-headline" id="PERSONNAGES">PERSONNAGES</span></h3> 
+<p><br />
+</p>
+<div class="tableItem" style="position:relative;margin:.125em auto;background:#FFF;line-height:normal"><div style="margin-right:140px"><div style="float:left;width:100%"><div style="margin-left:1em;text-indent:-1em"><div style="position:relative;z-index:2;"><span style="background:#FFF">LE MARI, soixante-cinq ans, grand, maigre. Figure sèche et sanguine dans des favoris grisonnants et durs. La tenue et l’allure d’un ancien magistrat&#160;</span></div></div><div class="ws-noexport" style="position:relative;margin-left:2em"><div style="position:absolute;z-index:1;bottom:.3em;width:100%;border-bottom:0.135em dotted"></div></div></div><div class="ws-noexport" style="float:right"><div style="position:absolute;z-index:2;bottom:0;right:0;text-indent:0;text-align:right;white-space:nowrap"><span style="background:#FFF">&#160;M. <span class="sc">Vayre.</span></span></div></div><div style="clear:both"></div></div></div> 
+<div style="padding-bottom: 0.5em;"> </div>
+<div class="tableItem" style="position:relative;margin:.125em auto;background:#FFF;line-height:normal"><div style="margin-right:140px"><div style="float:left;width:100%"><div style="margin-left:1em;text-indent:-1em"><div style="position:relative;z-index:2;"><span style="background:#FFF">LA FEMME, soixante ans. Infirme, presque paralysée, énorme, les cheveux tout blancs. Visage bouffi de graisse maladive&#160;</span></div></div><div class="ws-noexport" style="position:relative;margin-left:2em"><div style="position:absolute;z-index:1;bottom:.3em;width:100%;border-bottom:0.135em dotted"></div></div></div><div class="ws-noexport" style="float:right"><div style="position:absolute;z-index:2;bottom:0;right:0;text-indent:0;text-align:right;white-space:nowrap"><span style="background:#FFF">&#160;<abbr class="abbr" title="Madame">M<sup style="font-size:70%">me</sup></abbr> <span class="sc">Louise France.</span></span></div></div><div style="clear:both"></div></div></div> 
+<div style="padding-bottom: 0.5em;"> </div>
+<div class="tableItem" style="position:relative;margin:.125em auto;background:#FFF;line-height:normal"><div style="margin-right:140px"><div style="float:left;width:100%"><div style="margin-left:1em;text-indent:-1em"><div style="position:relative;z-index:2;"><span style="background:#FFF">LA FEMME DE CHAMBRE, jeune, jolie, effrontée&#160;</span></div></div><div class="ws-noexport" style="position:relative;margin-left:2em"><div style="position:absolute;z-index:1;bottom:.3em;width:100%;border-bottom:0.135em dotted"></div></div></div><div class="ws-noexport" style="float:right"><div style="position:absolute;z-index:2;bottom:0;right:0;text-indent:0;text-align:right;white-space:nowrap"><span style="background:#FFF">&#160;<abbr class="abbr" title="Mademoiselle">M<sup style="font-size:70%">lle</sup></abbr> <span class="sc">Gallo.</span></span></div></div><div style="clear:both"></div></div></div>&#32;<span><span class="pagenum ws-pagenum" id="7" title="Page:Mirbeau - Théâtre I.djvu/9"></span></span>
+<p><br />
+</p>
+<h2 style="border-bottom: 0 none; text-align: center; font-size: 150%; line-height: 1.5em;" id="VIEUX_MÉNAGE"><span id="VIEUX_M.C3.89NAGE_2"></span><span class="mw-headline" id="VIEUX_MÉNAGE_2">VIEUX MÉNAGE</span></h2> 
+<p><br />
+</p>
+<div class="alineanegatif" style="font-size:85%;">Le théâtre représente la terrasse d’une maison de campagne dans les environs de Paris. Sur la terrasse, une table de jardin, des fauteuils d’osier, des fauteuils américains, chaises et pliants.</div> 
+<div class="alineanegatif" style="font-size:85%;">Au lever du rideau, la femme, conduite et soutenue par sa camériste, descend le perron de la maison et marche, péniblement, en soufflant, en criant, vers la table. Le mari vient derrière qui porte, sur son bras, des couvertures de laine chaude. La femme est tout entière enveloppée d’un manteau. Son visage disparaît sous les plis d’une dentelle blanche. Bien qu’elle soit aidée par la femme de chambre, elle s’appuie, lourdement, à chaque pas qu’elle fait, sur une canne à béquille. De temps en temps, elle s’arrête et se plaint.</div>
+<div class="alineanegatif" style="font-size:85%;">C’est le soir, après le dîner, un soir d’été qui tombe, silencieux, calme et très clair, sur le jardin, dont les massifs, sur le ciel pur, sans nuages, s’assombrissent. Les fenêtres du rez-de-chaussée de la maison sont éclairées par une lumière rouge.</div>
+<p><br />
+</p>
+<div style="text-align: center;"><br />
+<h4><span id="Sc.C3.A8ne_premi.C3.A8re"></span><span class="mw-headline" id="Scène_première"><span style="color:#006699">Scène première</span></span></h4>
+</div> 
+<center>LA FEMME, LE MARI, LA FEMME DE CHAMBRE</center><br /> 
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;à la femme de chambre.</i></div> 
+<p>Pas si vite… pas si fort… Vous me faites mal… Comme vous êtes brusque, mon Dieu&#160;!… Mais faites donc attention… 
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span><i>,&#32;la voix brève.</i></div>
+<p>C’est à peine si je touche Madame… On ne sait jamais, comment faire avec Madame… 
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Vous allez… vous allez… Laissez-moi un peu &#32;<span><span class="pagenum ws-pagenum" id="8" title="Page:Mirbeau - Théâtre I.djvu/10"></span></span>respirer… Et vos mains&#160;!… Ah&#160;! vos mains&#160;!… Mais qu’est-ce que vous avez donc dans les mains&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Il faut pourtant que je tienne Madame avec quelque chose… Je ne puis pourtant pas laisser tomber Madame…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Taisez-vous… Vous avez toujours des raisons… Je vous dis que vous allez trop vite… que vous me serrez le bras… Arrêtez-vous… Oh&#160;! ah&#160;!… Laissez-moi respirer… Je n’en puis plus… <i>(Elle souffle et se plaint.)</i> Qu’est-ce que vous dites&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Je ne dis rien, Madame…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>C’est heureux… Oh&#160;! ce perron… ces marches… c’est atroce… 
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Elle pousse un cri aigu.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Quoi&#160;?… Qu’y a-t-il&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Mes pauvres genoux… mes pauvres genoux&#160;!… C’est comme un fer rouge qui me passe dans les genoux…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Veux-tu que je te soutienne de l’autre côté&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Non… non… Toi aussi tu es trop brusque… Tu me&#32;<span><span class="pagenum ws-pagenum" id="9" title="Page:Mirbeau - Théâtre I.djvu/11"></span></span>fais mal chaque fois que tu me touches… Tu as des mains comme des pierres…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Naturellement… Si tu aimes mieux souffrir… je n’y peux rien…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;d’une voix plus plaintive.</i></div>
+<p>Pourquoi aussi m’obliger à venir, tous les soirs, sur la terrasse&#160;? Tu sais que cela m’est défendu… tu sais que cela ne me vaut rien. L’air humide du soir redouble mes douleurs, et me donne la fièvre… me donne plus de fièvre…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>C’est une idée que tu as… L’air n’a jamais fait de mal à personne… au contraire…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Peut-on dire des choses pareilles&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Tu as une hygiène déplorable… Tu t’entêtes à rester, toute la journée, étendue dans des pièces closes et surchauffées… C’est cela, parbleu, qui te fait du mal… Et, grosse comme tu es, il n’y a rien de plus malsain. Moi qui suis maigre et qui me porte bien, je mourrais de cette immobilité et de cette chaleur… Mais tu ne veux rien entendre et t’acharnes à ne faire que ce qui te plaît… Je te l’ai dit cent fois… il faut te remuer… marcher… te fatiguer même… De l’exercice, voilà…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Mon Dieu&#160;!… mon Dieu&#160;!… Est-il possible de souffrir comme ça&#160;? Qu’ai-je fait au bon Dieu pour souffrir comme ça&#160;! Me remuer… marcher&#160;!… Comme si je le&#32;<span><span class="pagenum ws-pagenum" id="10" title="Page:Mirbeau - Théâtre I.djvu/12"></span></span>pouvais&#160;?… Tu en parles à ton aise… <i>(La femme de chambre aide sa maîtresse à s’asseoir. Celle-ci pousse de petits cris. — À la femme de chambre, d’une voix entrecoupée.)</i> Mais qu’est-ce que vous avez donc dans les mains pour me briser le corps ainsi&#160;?… Oh&#160;! oh&#160;!… mes pauvres reins… mes pauvres jambes… ma pauvre tête&#160;!… Que j’ai chaud&#160;!… que j’ai froid&#160;!… <i>(La femme de chambre prend les couvertures des mains du mari, en enveloppe les genoux, les jambes de sa maîtresse qui, haletante, les coudes sur la table, se tamponne les lèvres de son mouchoir pour ne pas crier.)</i> C’est affreux… c’est à mourir… Avez-vous bientôt fini&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Na&#160;!… Madame est bien maintenant&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Que j’ai chaud&#160;!… Cette terrasse me tuera…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Mais non… mais non… Je parie que tu ne souffres plus.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Madame n’a plus besoin de moi&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Où avez-vous mis mon flacon de sels&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Sur la table, près de Madame.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Donnez-le-moi… <i>(La femme de chambre passe le flacon de sels.)</i> Avez-vous donné à manger aux chats&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Oui, Madame. <i>(À part.)</i> Les sales bêtes&#160;!…&#32;<span><span class="pagenum ws-pagenum" id="11" title="Page:Mirbeau - Théâtre I.djvu/13"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Arrangez mes couvertures… Vous voyez qu’elles glissent… Vous faites toujours les choses à demi.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Elles glissent parce que Madame remue… 
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Elle arrange les couvertures.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Doucement… doucement… donc…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Je puis me retirer&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Comme vous êtes pressée&#160;!… C’est bien… allez… Je vous appellerai… mais ne vous éloignez pas… restez dans le petit salon…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span><i>,&#32;très brève.</i></div>
+<p>Madame sait que je n’ai pas dîné&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;amère.</i></div>
+<p>Ah&#160;! oui&#160;!… vous n’avez pas dîné… Vous n’avez jamais dîné, quand j’ai besoin de vous… Enfin, allez…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme de chambre</span></div>
+<p>Bien, Madame… <i>(Elle sort.)</i>
+</p><p><br />
+</p>
+<div style="text-align: center;"><br />
+<h4><span id="Sc.C3.A8ne_II"></span><span class="mw-headline" id="Scène_II"><span style="color:#006699">Scène II</span></span></h4>
+</div>
+<center><span class="sc">Les Mêmes</span>, moins LA FEMME DE CHAMBRE</center><br />
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Comme elle me traite&#160;!… Comme elle me parle&#160;!… <i>(Silence.)</i> Comme ils me parlent tous&#160;!… <i>(Nouveau silence.)</i>&#32;<span><span class="pagenum ws-pagenum" id="12" title="Page:Mirbeau - Théâtre I.djvu/14"></span></span>Pas dîné… Elle n’a pas dîné… Toujours la même chose… Ah&#160;? ne soyez jamais malade…
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Silence. Elle essuie son front où la sueur coule.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;il s’est assis confortablement dans un fauteuil d’osier, les jambes croisées, la tête vers le ciel.</i></div>
+<p>On est, ma foi, très bien ici…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Ah&#160;! tu trouves&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Mais oui… L’air est doux… pas le moindre vent… pas la moindre humidité. Et vois comme le ciel est beau&#160;!… Il n’y a rien que j’aime autant que ces calmes soirées, sur la terrasse… <i>(Il se balance.)</i> Mon Dieu&#160;! je ne suis pas plus poétique qu’un autre… mais… je ne sais pas… cette pureté… ce vague… ce silence… tout cela me met dans l’âme une plénitude… une douceur… une émotion… ma foi, oui&#160;!… une émotion qui repose et qui berce… 
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Il accentue son balancement.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Tu es heureux, toi&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Et toi… je suis sûr que tu te sens très bien, maintenant&#160;?… Parbleu&#160;! c’est évident… Et si tu m’écoutais&#160;?… Était-ce la peine de tant crier, de tant protester&#160;?… 
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Il allume un cigare.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Ah&#160;! tu fumes&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Certainement, je fume… cela te gêne&#160;?&#32;<span><span class="pagenum ws-pagenum" id="13" title="Page:Mirbeau - Théâtre I.djvu/15"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Voyons… tu le sais bien…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>C’est bon…
+</p>
+<div style="text-align:center;clear:both;"><i>(Il se dirige, en grognant, vers la porte du jardin.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ou vas-tu&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Puisque cela te gêne… je vais fumer ailleurs… je vais fumer dans le jardin…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Reste ici, je t’en prie… Je n’aime pas être seule, le soir, sur la terrasse…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Ma chère, tu avoueras que je suis patient… que je fais tout ce que je peux, que je fais l’impossible même, pour te bien soigner, pour respecter tes manies… tes lubies… J’impose à mes habitudes, à mes goûts, à mes besoins, à toute ma manière de vivre, des sacrifices quotidiens… des sacrifices énormes…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ah&#160;!
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Énormes, oui… et je le répète, quotidiens… Tu le reconnais toi-même, quand tu es raisonnable… Mais enfin, il y a une limite à tout… Et, véritablement, tu abuses de mon dévouement et de ta position…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>André… reviens… Je ne t’ai pas vu de toute la journée… Je n’ai vu personne, de toute la journée… Toute&#32;<span><span class="pagenum ws-pagenum" id="14" title="Page:Mirbeau - Théâtre I.djvu/16"></span></span>la journée, j’ai été seule, seule, comme une pauvre chienne… André&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Est-ce de ma faute&#160;?… Tu ne tiens compte de rien, ni de mes tristesses… ni de ma vie gâchée, de mon intérieur détruit, de mes amitiés perdues… Toutes les bonnes volontés autour de toi, tu les décourages et tu te les aliènes… Et tu te plains&#160;!… Ça n’est pas juste… Je ne te reproche rien… mais enfin, il faut que je te le dise… tu exagères tes souffrances, et tu les rends insupportables… aux autres…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>André&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Aujourd’hui, tu voudrais m’empêcher de fumer… demain, tu me défendras de me balancer sur ce fauteuil… Et ce sera, tous les jours, quelque chose de nouveau… Si je sors, ce sont des pleurs, des scènes irritantes et pénibles… Si je reste près de toi, ce sont des reproches aigres, ou d’éternelles lamentations… Alors, qu’est-ce que tu veux&#160;?… Tes caprices, tes exigences s’attaquent à mes plus impérieux besoins, comme à mes plaisirs les plus innocents… Dans ta chambre, mon Dieu&#160;!… je comprends, à la rigueur, que la fumée du tabac puisse t’incommoder… mais, ici… à l’air… dans le jardin&#160;?… C’est de la persécution…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Eh bien, reste… et fume… Ça, de plus ou de moins, mon Dieu&#160;!
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Ça, quoi&#160;?… Ça, quoi&#160;!… Explique-toi&#160;!… Ma parole, on dirait que je te martyrise…&#32;<span><span class="pagenum ws-pagenum" id="15" title="Page:Mirbeau - Théâtre I.djvu/17"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>André… ne sois pas méchant… Je suis si malade… et je suis si seule, toujours… Ne me parle pas avec cette voix-là… Tu ne peux pas savoir à quel point cela me torture. Je t’en prie, reviens auprès de moi et fume tant que tu voudras…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Merci… Pour que tu me reproches, pendant huit jours, ce méchant cigare… Oh&#160;! je te connais…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Tu n’es pas juste, André… et vraiment, tu devrais avoir un peu pitié de moi…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>J’ai pitié de toi, certainement… mais dans la mesure où je dois avoir pitié d’une malade qui, en somme, n’en est pas une…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Mon Dieu&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Certainement… Tu es malade, oui… Mais tu te crois beaucoup plus malade que tu ne l’es en réalité… Tu t’habitues à te jouer à toi-même la comédie de la maladie incurable et mortelle… et tu en arrives à exploiter ma tendresse, à faire bon marché de mon existence à moi et de l’existence de tous ceux qui te servent et te soignent… Eh bien, non… À la fin, je proteste…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>C’est monstrueux ce que tu dis là…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;haussant les épaules.</i></div>
+<p>Tout cela, pour quelques petits rhumatismes…&#32;<span><span class="pagenum ws-pagenum" id="16" title="Page:Mirbeau - Théâtre I.djvu/18"></span></span>Car, enfin, ce ne sont que des rhumatismes… Mais tout le monde en a, aujourd’hui, des rhumatismes… Mais moi, tout le premier, j’en ai des rhumatismes… Est-ce que je me plains&#160;?… Est-ce que je crie&#160;?… Est-ce que je mets la maison sens dessus dessous&#160;?… Cette nuit, encore, je me suis réveillé avec des douleurs aux reins… Eh bien, voilà tout… Je tâche de les dompter par un régime rationnel, par un exercice approprié… Je fais ce qu’il faut… Mais je ne tyrannise pas tout le monde avec ça….
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Des rhumatismes&#160;!… des rhumatismes&#160;!… Tu appelles des rhumatismes l’état affreux dans lequel je suis depuis dix ans… Des rhumatismes… cette agonie lente… cet abominable supplice… cette torture continue qui me tenaille la chair et me broie les membres… Ah&#160;! comment oses-tu dire une chose pareille&#160;?… Et comment as-tu le cœur, le triste et horrible courage de la penser, seulement&#160;?… Enfin… qu’est-ce que tu veux&#160;?… Fume… fume… Ce sera plus tôt fini…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;il va, vient sur la terrasse, impatient.</i></div>
+<p>Naturellement… Les grands mots… les grandes phrases… le drame — ah&#160;! je l’attendais — au lieu de raisonner et de répondre aux arguments précis que je te donne… Et de tout ainsi… Tiens… c’est comme les lilas… les lis… les rosiers, qui étaient la joie de mon jardin… et que tu as fait arracher… Ils ne fumaient pourtant pas, eux… Non, vraiment, est-ce qu’ils fumaient&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Mais puisque je ne puis en supporter l’odeur… Puisque la moindre odeur me donne des syncopes…&#32;<span><span class="pagenum ws-pagenum" id="17" title="Page:Mirbeau - Théâtre I.djvu/19"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Allons donc&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Tu le sais bien… Ce n’est pas une chose que j’invente… Tu l’as vu par toi-même plus de vingt fois…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Parce que tu te complais dans ton mal… au lieu d’y résister… Parce que tu es pire qu’une enfant, que tu n’as pas la moindre volonté, la moindre énergie… que tu ne veux rien faire… rien faire pour te guérir… Dans ces conditions, ma chère, tu dois comprendre qu’il devient difficile de vivre… qu’il devient impossible de vivre…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>André… ne me dis pas des paroles injustes et méchantes… je t’en supplie&#160;!… Ça n’est pas généreux… Ça n’est pas digne d’un homme comme toi… Il y a des moments où tes yeux m’épouvantent, où tes paroles m’entrent dans le cœur comme des coups de couteau… Et c’est de cela que je meurs, vois-tu, plus que de la mort qui est dans mes veines… Par pitié, André, réfléchis une minute à ce que tu me dis… et tâche qu’il n’y ait plus de haine dans ton regard… Si je souffre, ce n’est pas de ma faute… et il y a tant de choses, autour de moi… tant de choses qui me font du mal… Je suis ennuyeuse… exigeante… fantasque&#160;?… C’est bien possible… il ne faut pas m’en vouloir… Pense à ce que j’étais autrefois… à ce que je suis maintenant… à l’affreuse et pitoyable ruine que je suis maintenant… Tu m’as aimée, rappelle-toi… Nous avons été heureux l’un par l’autre… J’ai eu une bouche avec des baisers… des&#32;<span><span class="pagenum ws-pagenum" id="18" title="Page:Mirbeau - Théâtre I.djvu/20"></span></span>bras avec des étreintes… un cœur avec toutes les tendresses, avec toutes les ivresses de l’amour… Il ne se peut pas que tu l’aies oublié… Et je n’ai plus rien aujourd’hui… Tout le monde m’abandonne… jusques à mes enfants&#160;!… On me laisse mourir comme une bête… <i>(Elle pleure.)</i> comme une bête&#160;!… André… André… <i>(Elle pleure plus fort.)</i> Reviens près de moi… et fume, je t’en prie. Je tâcherai de n’être pas incommodée…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;il paraît gêné.</i></div>
+<p>Ah&#160;! les larmes, maintenant&#160;!… Après les reproches, les larmes… On ne peut pas être tranquille un instant… <i>(Il fait un geste plus violent.)</i> Ça n’est pas une vie… ça n’est pas une vie…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Tu n’en as plus pour longtemps, va&#160;!… De jour en jour, de minute en minute, je sens la mort qui vient plus près de moi… Tu seras bientôt délivré…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Allons… bon&#160;!… Voilà la mort… toujours la mort… On ne peut rien faire… on ne peut rien dire, sans qu’on vous jette tout de suite à la figure… quoi&#160;?… La mort&#160;!… Ah&#160;! non… non… ça n’est pas une vie…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Eh bien… reviens t’asseoir dans ce fauteuil… près de moi… Je ne te dirai plus rien de tout cela… Je ne t’ennuierai plus jamais… de mes plaintes… je te le promets… <i>(Sur un mouvement du mari.)</i> Puisque je te le promets… Allons… viens… Tu as raison, mon ami… mes souffrances ne regardent personne… ne regardent que moi.&#32;<span><span class="pagenum ws-pagenum" id="19" title="Page:Mirbeau - Théâtre I.djvu/21"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Je n’ai pas dit ça… À t’entendre on dirait que je me désintéresse de ta maladie… J’en souffre beaucoup, au contraire…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La femme</span><i>,&#32;continuant.</i></div>
+<p>Jamais plus te ne t’en parlerai… Je ne sais pas où j’avais la tête et ce qui m’a pris, tout à l’heure, de t’en parler… C’est absurde… Et cela me fait du mal à moi-même.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Ah&#160;!… tu vois bien…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Et puis, je voudrais te dire… <i>(Le mari fait un mouvement brusque et prend une expression de méfiance.)</i> Non… non… ne crains rien… c’est fini… Il ne s’agit pas de moi… de mon état… il s’agit de toi… et de choses agréables à quoi j’ai pensé tantôt, toute seule, dans ma chambre… Je voudrais que nous causions en bons amis.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Enfin… te voilà devenue un peu plus raisonnable… Si j’ai eu des paroles brusques, un peu sévères… tu dois comprendre que c’était uniquement dans ton intérêt…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Certainement…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Tu le laisses aller, sans raison, à un découragement que rien ne justifie… Et c’est très mauvais… Tu as besoin d’être remontée de temps à autre… Qui te remonterait, sinon moi&#160;?&#32;<span><span class="pagenum ws-pagenum" id="20" title="Page:Mirbeau - Théâtre I.djvu/22"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;d’une voix légèrement amère.</i></div>
+<p>Mais oui… mais oui… Et je te remercie… <i>(Il revient.)</i> Approche ce fauteuil plus près de moi… encore plus près… comme ça, oui… Je te verrai mieux, maintenant… Oh&#160;! je suis contente… Et ton cigare qui est éteint… Allons, rallume-le, grand bébé…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Enfin… Puisque tu le veux…
+</p>
+<div class="alinea" style="font-size:85%;padding-left:5em;text-indent:-2em;text-align:justify;">(Le mari rallume son cigare, s’assoit dans le fauteuil, et, bien calé des coudes, des reins, des épaules, les jambes allongées, la tête confortablement renversée sur le dossier, il souffle de lents, de longs, de gros jets de fumée, qu’une petite brise pousse vers le visage de la femme. Un silence.)</div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;qui toussote mais n’ose faire un geste. Résignée.</i></div>
+<p>André&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Je t’écoute.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;embarrassée.</i></div>
+<p>Promets-moi de ne pas te fâcher&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Qu’y a-t-il encore&#160;?… Ce n’est donc pas des choses agréables que tu as à me dire&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Si… si… je t’assure… Mais tu vas te fâcher&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Parle toujours… Nous verrons ensuite.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Eh bien… <i>(Un temps.)</i> notre jolie voisine… <i>(Un temps.)</i>&#32;<span><span class="pagenum ws-pagenum" id="21" title="Page:Mirbeau - Théâtre I.djvu/23"></span></span>cette dame si élégante qui met en rumeur tout le pays… tu sais ce que je veux dire&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Oui… Et puis&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Je me suis informée, aujourd’hui…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Ah&#160;!… des potins, maintenant.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Mais non…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Tu es malade… tu ne quittes pas la maison… tu te plains de ne voir personne… et tu trouves, tout de même, le moyen de savoir tout ce qui se passe ici…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Il est très naturel, vraiment, que je désire savoir qui sont les gens qui habitent auprès de nous… Et je ne vois pas que ce soient là des potins…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Eh bien&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Eh bien… je sais qui est… cette belle personne…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;indifférent.</i></div>
+<p>Ah&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>C’est une femme divorcée…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Ça ne m’étonne pas…&#32;<span><span class="pagenum ws-pagenum" id="22" title="Page:Mirbeau - Théâtre I.djvu/24"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>On prétend qu’elle a eu pas mal d’histoires…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Elle en a bien l’air…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Elle s’appelle… Madame Bardin… ou Fardin… ou Cardin… je ne sais pas au juste… Son mari était quelque chose… dans l’armée…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Que veux-tu que cela me fasse&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>On l’a vue, cet après-midi… qui passait à cheval, devant la grille… Elle est tout ce qu’il y a de plus gracieux…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;ironique.</i></div>
+<p>Oh&#160;! alors&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Quand elle est arrivée ici… il paraît qu’elle avait trente-quatre malles.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Fichtre&#160;!
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Pourquoi dis-tu «&#160;fichtre&#160;!&#160;» sur ce ton-là&#160;?… Avec ça qu’elle ne te plaît pas…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Moi, grand Dieu&#160;?… Ah&#160;! par exemple&#160;!… Je m’occupe bien de cette dame… de son cheval… et de ses malles… de ses trente-quatre malles…&#32;<span><span class="pagenum ws-pagenum" id="23" title="Page:Mirbeau - Théâtre I.djvu/25"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Pourquoi te cacher de moi&#160;?… Voyons… tu sais que je ne suis pas jalouse…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Mais c’est fou… Tu perds la tête, en vérité… Il ne s’agit pas que tu sois jalouse ou non… Cette dame… je l’ai rencontrée… comme tout le monde, sur la route… Et elle m’a si peu intéressé que… maintenant… je ne saurais dire si elle est blonde ou brune… grasse ou maigre… laide ou jolie…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Jolie… oui… très… très jolie… et délicieusement blonde…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Eh bien… tant mieux pour elle…
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Un silence.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;après un moment de réflexion.</i></div>
+<p>Écoute, André… Ce n’est pas gai ici… je m’en rends compte… Je comprends parfaitement toute la tristesse de ta vie,… et j’en souffre autant que de l’irréparable douleur de la mienne… Une malade… telle que je suis… ça éloigne les gens, comme un crime… Les amis ont vite fait d’oublier le chemin d’une maison où il y a toujours quelqu’un qui pleure… Tant qu’on peut leur offrir de la joie… du plaisir… ou de la vanité… on en a plus qu’on ne voudrait… Mais dès que le malheur a franchi le seuil de la maison… elle est vite abandonnée… Toi aussi tu es très seul, à cause de moi… Et ce n’est pas juste… Pense que personne n’est venu nous voir, cet été… Pense que nos enfants eux-mêmes trouvent sans cesse à leur absence des excuses et des prétextes, dont&#32;<span><span class="pagenum ws-pagenum" id="24" title="Page:Mirbeau - Théâtre I.djvu/26"></span></span>l’invraisemblance ingénue ne me trompe pas… ni toi, non plus, j’imagine…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Dame&#160;!… Après tout… Ils n’aiment pas la tristesse… ils sont jeunes…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Et sans cœur… Mais je ne veux pas les juger… Du reste, comprends-moi bien… En ce moment… je ne parle pas pour moi, qui ne suis plus guère de ce monde… mais pour toi, si plein de vie et d’activité… qui as gardé toute la force… toutes les ardeurs de la jeunesse… à qui il faut du mouvement… de la distraction… des plaisirs violents… Je sens tout ce que notre situation a pour toi d’anormal et de pénible… <i>(Le mari fait un geste de résignation vague.)</i> Eh bien, pourquoi ne la recevrions-nous pas notre jolie voisine&#160;? Elle apporterait ici un peu de gaîté, un peu de charme… un sourire… je ne sais pas, moi… un petit frou-frou… un petit bruit de chiffon… un petit parfum de vie… <i>(Sur un mouvement du mari.)</i> Je sais qu’elle ne demande pas mieux…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Comment le sais-tu&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;après hésitation.</i></div>
+<p>Elle est venue tantôt déposer sa carte.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Sa carte&#160;?… Elle a déposé sa carte, chez nous&#160;?… Alors, qu’est-ce que tu me chantes&#160;?… Tu connais son nom… Est-ce Bardin… Fardin… Cardin&#160;?…&#32;<span><span class="pagenum ws-pagenum" id="25" title="Page:Mirbeau - Théâtre I.djvu/27"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Bardin… Geneviève Bardin…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Eh bien&#160;! elle ne manque pas de toupet, Madame Geneviève Bardin…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>.
+<p>Une voisine… Elle est polie, voilà tout…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>C’est du propre… Une femme divorcée&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;avec un petit ton mystérieux.</i></div>
+<p>Une femme divorcée… c’est moins difficile…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Je ne comprends rien à ce que tu veux dire…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Et puis… malgré son extérieur élégant, elle ne doit pas être riche…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>En voilà assez… Je ne veux pas recevoir ici, chez moi, dans ma maison, une femme sans mari, dont la position sociale est au moins équivoque… une intrigante… une déclassée, enfin… et peut-être une prostituée… Est-ce clair&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>André&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Comme ancien magistrat… comme catholique…&#32;<span><span class="pagenum ws-pagenum" id="26" title="Page:Mirbeau - Théâtre I.djvu/28"></span></span>comme conseiller général de l’opposition, j’ai des principes avec lesquels je ne veux pas… je ne peux pas transiger… Et je m’étonne que tu les méconnaisses à ce point… Mais c’est incroyable… Je tombe des nues… Il faut que tu sois devenue folle…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Tu es bien sévère, aujourd’hui… Et je ne sens aucune sincérité dans ton indignation… Voyons, André… ne joue donc pas ce jeu avec moi… Elle te plaît… tu en as envie… <i>(Le mari proteste par gestes.)</i> Tes désirs&#160;?… Ah&#160;! je les connais, va&#160;! Et je les vois… je les ai vus, tout à l’heure, à tes yeux, à tes lèvres&#160;; je les ai entendus dans le son de ta voix… Tu as beau faire l’indifférent… ou le dégoûté… ou le moraliste rigide… rien ne m’échappe de tes sentiments cachés… Je sais quand tu es en amour…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;ricanant.</i></div>
+<p>Charmant&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Eh bien, j’aimerais mieux ça… Oui, oui… j’aimerais mieux ça…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;plus brutal.</i></div>
+<p>Tu aimerais mieux… quoi&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>J’aimerais mieux ça…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Mais quoi&#160;?… quoi&#160;?… quoi&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ne fais donc pas l’homme qui ne comprend point…&#32;<span><span class="pagenum ws-pagenum" id="27" title="Page:Mirbeau - Théâtre I.djvu/29"></span></span>je sais ce que je sais… je vois ce que je vois… Et quand elle serait déjà ta maîtresse, cela ne m’étonnerait pas… <i>(Sur un mouvement du mari.)</i> Et puisque je te le permets… puisque je te le demande… puisque j’en serais heureuse&#160;?… Es-tu content de m’avoir forcée à te crier tout haut ce que j’aurais voulu seulement chuchoter… Ah&#160;!… quel homme&#160;!… Et pourquoi trouves-tu tant de plaisir à m’humilier… à me torturer&#160;?… Mais ne me pousse pas à bout avec tes cruautés… ne m’oblige pas à te dire, enfin, tout ce que j’ai sur le cœur… Et j’en ai gros sur le cœur… ça, je te le jure…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;il lève ses yeux au ciel.</i></div>
+<p>Mais c’est confondant… c’est de la folie… Je crois rêver, ma parole&#160;!… Tu as donc perdu toute moralité… toute pudeur&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>La moralité… la pudeur… la vertu… voilà d’étranges paroles dans ta bouche… Invoque-les devant les autres, si tu veux… Mais entre nous&#160;?… Ah&#160;! non… tu devrais t’éviter ce ridicule de les prononcer… Il y a longtemps que tes sales vices les ont abolies en moi… et que tu as refait mon âme à l’image de la tienne…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>C’est trop de honte… 
+</p>
+<div style="text-align:right; margin-right:&#123;&#123;&#123;3&#125;&#125;&#125;em;"><i>(Il veut se lever.)</i></div>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Reste… Puisque nous sommes dans la honte, il faut que tu en entendes plus encore… Et ne te fâche pas… c’est tout à fait inutile… Je ne te demande pas l’impossible, mon Dieu&#160;!… Je sais bien que je ne suis plus une femme, que je ne puis plus être une femme pour toi…&#32;<span><span class="pagenum ws-pagenum" id="28" title="Page:Mirbeau - Théâtre I.djvu/30"></span></span>Je ne suis pas jalouse, non plus… Comment le serais-je&#160;?… Avec ta nature de vieux passionné, j’admets… j’accepte que tu cherches, en dehors de mon lit, des plaisirs que je ne peux plus te donner… Tu vois que je suis raisonnable… que je fais la part de tout… de mes déchéances… et de tes besoins… Mais, prends garde… Tu as des ennemis, d’autant plus redoutables qu’ils masquent leur haine d’un respect hypocrite et d’une fausse soumission. On te craint, soit… Mais on te déteste plus qu’on te craint… On te déteste parce que tu es dur au monde, despotique et tracassier, implacable dans ce que tu appelles tes droits de propriétaire… Et le jour où l’on ne te craindra plus&#160;?… Et s’il t’arrivait… demain… un malheur&#160;?… Y as-tu songé&#160;?… L’on jase, déjà, autour de nous…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Ah&#160;! je voudrais bien savoir qui se permet, ici, de jaser sur mon compte.
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Et puis après&#160;?… Que ferais-tu&#160;?… <i>(Un silence. Ils se regardent avec fixité.)</i> Tu vois que tu n’es pas si tranquille…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;bravant toujours, mais d’une voix moins assurée.</i></div>
+<p>Oh&#160;!
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Viens ici… <i>(Il se lève. Elle lui prend le bras.)</i>… André&#160;! <i>(Plus bas.)</i>… André… Cette gamine de pêcheur que l’on voit rôder à tous les carrefours… mendier à toutes les portes… traîner à toutes les ordures du ruisseau, comme une chienne sans maître… oui, cette petite horreur, avec sa bouche impudente… ses yeux de voleuse… son corps de bête… ose prétendre que ce&#32;<span><span class="pagenum ws-pagenum" id="29" title="Page:Mirbeau - Théâtre I.djvu/31"></span></span>n’est pas vrai&#160;? Mais ça n’est qu’un cri dans le pays…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Parbleu&#160;!… mes ennemis politiques… Ils ne savent quoi inventer pour tenter de me déshonorer…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ce ne sont pas tes ennemis… C’est elle-même qui le raconte, partout, à tout le monde… et qui s’en vante…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Elle ment… On la paie pour mentir…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>On t’a vu…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div> 
+<p>Où&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ici même… dans le kiosque du jardin… plus de dix fois…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Qui m’a vu&#160;?…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Et qu’importe&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Toi, sans doute&#160;?… Toi qui ne quittes jamais ta chambre&#160;?
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>Les malades savent tout, André… Et ce qu’ils ne savent pas, ils le devinent. Et puis, je te connais, va&#160;!…&#32;<span><span class="pagenum ws-pagenum" id="30" title="Page:Mirbeau - Théâtre I.djvu/32"></span></span>J’ai respiré ton âme… l’effrayante odeur de ton âme… Tes regards… ta voix… tes aveux… tes manies… l’exaltation de tes vices… Rappelle-toi… tout cela me revient aujourd’hui et j’ai peur&#160;! Et chaque fois que j’entends sonner à la grille… c’est plus fort que moi… mon cœur ne fait qu’un bond dans ma poitrine… Il me semble que ce sont les gendarmes… Je vis dans l’angoisse… dans la terreur de ce qui peut arriver… Comme si je n’avais pas assez de malheurs sur moi, mon Dieu&#160;!… <i>(Elle essuie quelques larmes.)</i> Mais proteste… dis donc quelque chose… Tu es là maintenant… comme une borne…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Que veux-tu que je dise&#160;?… Contre quoi veux-tu que je proteste&#160;?… Contre toutes ces folies&#160;?… Ah&#160;! ma foi non…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Tu as raison… ne dis rien… tu mentirais…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Si tu veux… <i>(Un silence. Le mari s’éloigne un peu de sa femme et se met à marcher sur la terrasse avec agitation.)</i> C’est charmant… c’est charmant… Une femme faire cause commune avec les ennemis de son mari… Non, vraiment, il ne me manquait plus que cela… Maintenant, c’est complet…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ne me parle pas de tes ennemis… Parle-moi plutôt de mes bonnes…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;s’arrêtant brusquement et regardant sa femme avec une expression ignoble.</i></div>
+<p>De&#160;!&#32;<span><span class="pagenum ws-pagenum" id="31" title="Page:Mirbeau - Théâtre I.djvu/33"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div> 
+<p>De mes bonnes… j’ai bien dit… de mes bonnes… Est-ce clair&#160;?… Car enfin, il paraît que les petites mendiantes mineures ne suffisent pas aux soixante-cinq ans de Monsieur… Il leur faut aussi mes bonnes…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Oh&#160;! mais… c’est agaçant, à la fin… c’est scandaleux… c’est abominable&#160;!… Et quoi encore&#160;?…
+</p><p><i>(Il se remet à marcher avec fureur, passant et repassant devant sa femme.)</i>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Oui, mes bonnes… <i>(S’interrompant.)</i> Je t’en prie, ne marche pas comme ça… assieds-toi… tu me fais mal au cœur, à marcher de la sorte… <i>(Le mari revient s’asseoir dans le fauteuil. Il donne des signes d’irritation violente… déplace les fauteuils, frappe sur la table, affecte de ne pas écouter.)</i> Tu t’imagines que je ne vois rien… que je ne sais rien&#160;?… Parbleu&#160;!… on n’a pas besoin de se gêner avec une malade… Eh bien, tu te trompes… Je vois tout… et je sais tout… D’abord… ça n’est pas digne… Mais la dignité et toi… passons… Ensuite, elles ne me soignent pas… Quand j’ai besoin d’elles, elles font tout de travers… ou elles ne sont jamais là… Elles se moquent de moi… carrément, effrontément… Et si tu savais comme elles me parlent, comme elles me bousculent&#160;?… Rien que de l’insulte dans leurs regards… de la brutalité dans leurs gestes… C’est à mourir de honte&#160;!… Et c’est juste aussi… Je ne suis rien pour elles… qu’un trouble-fête… Elles peuvent me désobéir impunément… me maltraiter… me laisser crever… Elles se sentent protégées… Elles sont les véritables maîtresses dans la maison… Cette Rosalie, tout à l’heure, qui n’avait pas&#32;<span><span class="pagenum ws-pagenum" id="32" title="Page:Mirbeau - Théâtre I.djvu/34"></span></span>dîné&#160;?… Heu&#160;!… Est-ce croyable&#160;?… Et tu n’as rien dit… et tu as trouvé cela très bien… et tu tolères qu’elle me parle comme à un pauvre&#160;?… Qu’est-ce que cela me fait, à moi, qu’elle n’ait pas dîné… quand je souffre… et que j’ai besoin d’elle&#160;?… Non, je t’assure que ça n’est pas tenable, et tu devrais avoir tout de même plus de dignité dans tes passions… <i>(Le mari n’a pas cessé de tambouriner sur la table avec ses doigts. On sent qu’il voudrait parler, répondre, mais il fait de violents efforts pour se taire.)</i> Allons, comprends une bonne fois ce que je te demande… Je ne t’adresse pas de reproches… je ne t’en veux pas… Ça n’est pas de ta faute… Tu as une nature comme ça… Mais, qu’est-ce que cela te ferait de me laisser mes bonnes&#160;? Il y a d’autres femmes que les bonnes et que les souillons de la rue… <i>(Plus lentement, sans aigreur.)</i> Cette jeune femme… notre voisine… elle est vraiment très jolie… Enfin, elle vaut mieux… elle est plus flatteuse pour un homme qu’une domestique… est-ce vrai&#160;? Avec cela, elle doit être très amoureuse… très passionnée… Et puisqu’elle te plaît… puisque j’accepte que tu la reçoives… puisque je t’en prie… puisque cela serait pour moi un repos… un soulagement… du bonheur, presque&#160;!… Tu ne peux pas me refuser cela… Et puis… elle me tiendrait société quelquefois… Voyons, il n’y a rien de déshonorant dans ce que je te propose… Nous connaissons beaucoup de ménages… et des plus respectés… qui vivent de la sorte… Ce qui est mal, c’est de faire ces choses-là… à l’insu l’un de l’autre… Eh bien… fais-les franchement… sans te cacher de moi…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span></div>
+<p>Tu avoueras que j’ai eu de la patience… Je t’ai laissé parler… débiter tes infamies… sans t’interrompre…&#32;<span><span class="pagenum ws-pagenum" id="33" title="Page:Mirbeau - Théâtre I.djvu/35"></span></span>Mais cette patience a des limites… Elle est à bout, maintenant… ma patience…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span></div>
+<p>Ta patience&#160;?… Ah&#160;! oui, ta patience… parlons-en… Quand je me portais bien, tu ne prenais pas des airs hautains avec moi… Tu étais soumis… et tu marchais droit… tu étais un tout petit garçon… C’est depuis que je suis malade… depuis que je ne peux plus bouger de ma chaise longue… que tu oses me parler comme tu le fais, en ce moment… Ah&#160;! cela est brave… De la brutalité… des moqueries… des reproches ignobles… des doutes odieux… de la colère… voilà tout ce que j’ai eu de toi… sans compter le tourment… l’affreux tourment que me donnent tes désirs crapuleux… et toutes les saletés de ta vie… <i>(Le mari fait un geste violent. Énergiquement.)</i> Oui, toutes les saletés de ta vie… homme vertueux&#160;!… Eh bien&#160;! soit… Je ne te demande pas de la tendresse… de la consolation… de la pitié… le respect de ma souffrance… Non… de tels sentiments ne sauraient pénétrer un cœur dur comme le tien… Mais, je veux mes bonnes… je veux mes bonnes… <i>(Avec une énergie croissante.)</i> Je veux que tu me laisses mes bonnes… Elles ne sont pas à toi… Je ne les ai point pour que tu les écartes de leur devoir, pour que tu les débauches… pour que tu leur apprennes à me mépriser… à me détester… à m’abandonner. Je les ai pour moi… entends-tu… pour qu’elles soient toujours avec moi… pour qu’elles me servent… pour qu’elles me soignent… Moi aussi, à la fin, j’en ai assez… Et tu es un misérable… un misérable&#160;!… Va faire tes cochonneries ailleurs&#160;!&#32;<span><span class="pagenum ws-pagenum" id="34" title="Page:Mirbeau - Théâtre I.djvu/36"></span></span>
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">Le mari</span><i>,&#32;très sec, très dur.</i></div>
+<p>C’est bien… <i>(Il se lève.)</i> C’est entendu… <i>(Il fait quelques pas sur la terrasse, s’arrête un instant à peine.)</i> Bonsoir&#160;!…
+</p>
+<div style="line-height:1"><br /></div><div style="text-align:center; break-after: avoid;"><span class="personnage" style="">La Femme</span><i>,&#32;elle le regarde s’éloigner. Tout à coup elle s’amollit et pleure, épuisée par le grand effort qu’elle a fait.</i></div>
+<p>J’ai eu tort de m’emporter… Je te demande pardon, André… mais, je suis si malheureuse&#160;!… Quand on souffre trop, vois-tu, on ne sait plus toujours ce que l’on dit… Il ne faut pas faire plus d’attention aux colères des malades… qu’à celles des petits enfants… <i>(Le mari se dirige lentement vers le jardin sans répondre.)</i> André… où vas-tu&#160;?… André… ne t’en va pas&#160;!… Ne me laisse pas toute seule ici… Je t’en supplie&#160;!… <i>(Il disparaît dans le jardin. Silence.)</i> André&#160;!… André&#160;!… <i>(Elle écoute.)</i> Il est parti… Il ne va pas revenir… Mais non… C’est impossible… <i>(Elle regarde de tous les côtés.)</i> Je suis toute seule… André&#160;!… André&#160;!… Je ne veux pas rester toute seule, le soir, sur cette terrasse… Je veux rentrer… <i>(Elle essaie de se lever, de se redresser, mais la souffrance lui arrache des cris.)</i> Mon Dieu&#160;! mon Dieu&#160;!… Je veux rentrer… je veux rentrer… <i>(Et tout à coup, prise d’épouvante, elle crie.)</i> Rosalie&#160;!… Où êtes-vous&#160;!… Rosalie&#160;!… Rosalie&#160;!… André&#160;!… Ils ne viendront pas… Ils vont me laisser là&#160;!… <i>(Un silence. Ses yeux hagards vont du jardin par où s’en est allé son mari, à la maison dont les fenêtres rougeoient davantage.)</i> Rosalie&#160;!… <i>(Un affreux silence succède à ce cri.)</i> Rosalie&#160;!… <i>(Même silence. Sanglotant, elle allonge ses bras sur la table, mais ses bras retombent, et sa tête s’incline sur son épaule, pend en dehors des coussins, sur le rebord de la chaise longue. — D’une voix chétive et tremblante.)</i> Pourquoi… pourquoi ne suis-je pas morte&#160;?…&#32;
+</p>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20200213221615
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.364 seconds
+Real time usage: 0.503 seconds
+Preprocessor visited node count: 8137/1000000
+Post‐expand include size: 144064/2097152 bytes
+Template argument size: 10839/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 70645/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.021/10.000 seconds
+Lua memory usage: 788 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  434.084      1 -total
+ 21.48%   93.240    168 Modèle:Personnage
+  9.46%   41.073      1 MediaWiki:Proofreadpage_header_template
+  7.87%   34.163     25 Modèle:PersonnageD
+  7.73%   33.569      1 Page:Mirbeau_-_Théâtre_I.djvu/8
+  7.71%   33.474      1 Page:Mirbeau_-_Théâtre_I.djvu/9
+  5.49%   23.827      3 Modèle:Table
+  4.30%   18.651      1 Page:Mirbeau_-_Théâtre_I.djvu/7
+  3.96%   17.168      1 Page:Mirbeau_-_Théâtre_I.djvu/22
+  3.81%   16.545     52 Modèle:Didascalie
+-->
+
+<!-- Saved in parser cache with key frwikisource:pcache:idhash:130868-0!canonical and timestamp 20200213221615 and revision id 7281912
+ -->
+</div><noscript><img src="//fr.wikisource.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Récupérée de «&#160;<a dir="ltr" href="https://fr.wikisource.org/w/index.php?title=Vieux_ménage&amp;oldid=7281912">https://fr.wikisource.org/w/index.php?title=Vieux_ménage&amp;oldid=7281912</a>&#160;»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Textes_valid%C3%A9s" title="Catégorie:Textes validés">Textes validés</a></li><li><a href="/wiki/Cat%C3%A9gorie:XIXe_si%C3%A8cle" title="Catégorie:XIXe siècle">XIXe siècle</a></li><li><a href="/wiki/Cat%C3%A9gorie:Th%C3%A9%C3%A2tre" title="Catégorie:Théâtre">Théâtre</a></li><li><a href="/wiki/Cat%C3%A9gorie:Bon_pour_export" title="Catégorie:Bon pour export">Bon pour export</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégorie cachée : <ul><li><a href="/wiki/Cat%C3%A9gorie:%C3%89ditions_sans_%C5%93uvre_li%C3%A9e" title="Catégorie:Éditions sans œuvre liée">Éditions sans œuvre liée</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Vieux+m%C3%A9nage" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Vieux+m%C3%A9nage" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Vieux_m%C3%A9nage" title="Voir le contenu de la page [c]" accesskey="c">Texte</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Discussion:Vieux_m%C3%A9nage&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion au sujet de cette page de contenu (page inexistante) [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Vieux_m%C3%A9nage">Lire</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Vieux_m%C3%A9nage&amp;action=edit" title="Modifier le wikicode [e]" accesskey="e">Modifier</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Vieux_m%C3%A9nage&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikisource" title="Rechercher dans Wikisource [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikisource:Accueil"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Lire"  aria-labelledby="p-Lire-label">
+	<h3  id="p-Lire-label">
+		Lire
+	</h3>
+	<div class="body">
+		<ul><li id="n-Accueil"><a href="/wiki/Wikisource:Accueil">Accueil</a></li><li id="n-Index des auteurs"><a href="/wiki/Wikisource:Index_des_auteurs">Index des auteurs</a></li><li id="n-Portails thématiques"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-Aide au lecteur"><a href="/wiki/Aide:Aide_au_lecteur">Aide au lecteur</a></li><li id="n-Contacter-Wikisource"><a href="/wiki/Wikisource:Questions">Contacter Wikisource</a></li><li id="n-Texte au hasard"><a href="/wiki/Sp%C3%A9cial:RandomRootpage/NS:0">Texte au hasard</a></li><li id="n-Auteur au hasard"><a href="/wiki/Sp%C3%A9cial:RandomRootpage/Auteur">Auteur au hasard</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Wikisource:Scriptorium" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Scriptorium</a></li><li id="n-Forum-des-nouveaux"><a href="/wiki/Wikisource:Forum_des_nouveaux">Forum des nouveaux</a></li><li id="n-help"><a href="/wiki/Aide:Aide" title="Accès à l’aide">Aide</a></li><li id="n-Communauté"><a href="/wiki/Wikisource:Accueil_de_la_communaut%C3%A9">Communauté</a></li><li id="n-Livre-au-hasard"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard/Livre">Livre au hasard</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikisource.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Vieux+m%C3%A9nage">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Vieux+m%C3%A9nage&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Vieux_m%C3%A9nage&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Vieux_m%C3%A9nage" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Vieux_m%C3%A9nage" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Vieux_m%C3%A9nage&amp;oldid=7281912" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Vieux_m%C3%A9nage&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Vieux_m%C3%A9nage&amp;id=7281912" title="Informations sur la manière de citer cette page">Citer cet article</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-it"><a href="https://it.wikisource.org/wiki/Farse_e_moralit%C3%A0/Vecchio_focolare_domestico" title="Farse e moralità/Vecchio focolare domestico — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=frwikisource&amp;page=Vieux+m%C3%A9nage" title="Ajouter des liens interlangues" class="wbc-editpage">Ajouter des liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 28 mars 2018 à 15:28.</li>
+		<li id="footer-info-copyright">Les textes sont disponibles sous <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ; 
+d’autres conditions peuvent s’appliquer.
+Voyez les <a href="https://foundation.wikimedia.org/wiki/Conditions_d'utilisation">conditions d’utilisation</a> pour plus de détails.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%80_propos_de" class="mw-redirect" title="Wikisource:À propos de">À propos de Wikisource</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Avertissements_g%C3%A9n%C3%A9raux" title="Wikisource:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikisource.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikisource.org/w/index.php?title=Vieux_m%C3%A9nage&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.503","ppvisitednodes":{"value":8137,"limit":1000000},"postexpandincludesize":{"value":144064,"limit":2097152},"templateargumentsize":{"value":10839,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":70645,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  434.084      1 -total"," 21.48%   93.240    168 Modèle:Personnage","  9.46%   41.073      1 MediaWiki:Proofreadpage_header_template","  7.87%   34.163     25 Modèle:PersonnageD","  7.73%   33.569      1 Page:Mirbeau_-_Théâtre_I.djvu/8","  7.71%   33.474      1 Page:Mirbeau_-_Théâtre_I.djvu/9","  5.49%   23.827      3 Modèle:Table","  4.30%   18.651      1 Page:Mirbeau_-_Théâtre_I.djvu/7","  3.96%   17.168      1 Page:Mirbeau_-_Théâtre_I.djvu/22","  3.81%   16.545     52 Modèle:Didascalie"]},"scribunto":{"limitreport-timeusage":{"value":"0.021","limit":"10.000"},"limitreport-memusage":{"value":807362,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20200213221615","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1368"});});</script></body></html>

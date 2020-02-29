@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="bg" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Статистика – Уикицитат</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","януари","февруари","март","април","май","юни","юли","август","септември","октомври","ноември","декември"],"wgMonthNamesShort":["","яну","фев","мар","апр","май","юни","юли","авг","сеп","окт","ное","дек"],"wgRequestId":"Xlj3iwpAMNQAA2lJGDsAAAEM","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Statistics","wgNamespaceNumber":-1,"wgPageName":"Специални:Статистика","wgTitle":"Статистика","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"bg","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Специални:Статистика","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"bg","pageLanguageDir":"ltr","pageVariantFallbacks":"bg"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"български","wgNoticeProject":"wikiquote","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.EditToolbar","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@bphct",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"bg"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=bg&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=bg&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=bg&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/static/favicon/wikiquote.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Уикицитат (bg)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//bg.wikiquote.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Емисия на Atom за Уикицитат" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8&amp;feed=atom"/>
+<link rel="canonical" href="https://bg.wikiquote.org/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Statistics page-Специални_Статистика rootpage-Специални_Статистика skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="bg">Статистика</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Направо към навигацията</a>
+		<a class="mw-jump-link" href="#p-search">Направо към търсенето</a>
+		<div id="mw-content-text"><table class="wikitable mw-statistics-table"><tr><th colspan="2">Статистики за страницата</th></tr><tr class="mw-statistics-articles"><td><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%92%D1%81%D0%B8%D1%87%D0%BA%D0%B8_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8&amp;hideredirects=1" title="Специални:Всички страници">Страници със съдържание</a></td><td class="mw-statistics-numbers">2296</td></tr><tr class="mw-statistics-pages"><td><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%92%D1%81%D0%B8%D1%87%D0%BA%D0%B8_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8" title="Специални:Всички страници">Страници</a><br /><small class="mw-statistic-desc"> (Всички страници в уикито, включително дискусионни, пренасочващи страници и т.н.)</small></td><td class="mw-statistics-numbers">10 910</td></tr><tr class="mw-statistics-files"><td><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:MediaStatistics" title="Специални:MediaStatistics">Качени файлове</a></td><td class="mw-statistics-numbers">5</td></tr><tr><th colspan="2">Статистики за редакциите</th></tr><tr class="mw-statistics-edits"><td>Брой редакции по страници от началото на Уикицитат</td><td class="mw-statistics-numbers">86 613</td></tr><tr class="mw-statistics-edits-average"><td>Среден брой редакции на страница</td><td class="mw-statistics-numbers">7,94</td></tr><tr><th colspan="2">Потребителски статистики</th></tr><tr class="mw-statistics-users"><td>Регистрирани потребители <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">9137</td></tr><tr class="mw-statistics-users-active"><td>Активни потребители <a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8" title="Специални:Активни потребители">(списък на членовете)</a><br /><small class="mw-statistic-desc"> (Потребители, направили редакция през последните 30 дни)</small></td><td class="mw-statistics-numbers">11</td></tr><tr class="statistics-group-bot"><td><a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%91%D0%BE%D1%82%D0%BE%D0%B2%D0%B5" class="mw-redirect" title="Уикицитат:Ботове">Ботове</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=bot" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">10</td></tr><tr class="statistics-group-sysop"><td><a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%90%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8" title="Уикицитат:Администратори">Администратори</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=sysop" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">4</td></tr><tr class="statistics-group-interface-admin"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BD%D0%B8_%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Интерфейсни администратори (страницата не съществува)">Интерфейсни администратори</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=interface-admin" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">1</td></tr><tr class="statistics-group-bureaucrat"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%91%D1%8E%D1%80%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Бюрократи (страницата не съществува)">Бюрократи</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=bureaucrat" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">2</td></tr><tr class="statistics-group-steward statistics-group-zero"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D0%B4%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Стюарди (страницата не съществува)">Стюарди</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=steward" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-accountcreator"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%A1%D1%8A%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%BD%D0%B0_%D1%81%D0%BC%D0%B5%D1%82%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Създатели на сметки (страницата не съществува)">Създатели на сметки</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=accountcreator" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">1</td></tr><tr class="statistics-group-import statistics-group-zero"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%92%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Вносители (страницата не съществува)">Вносители</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=import" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-transwiki statistics-group-zero"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:Transwiki_%D0%B2%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Transwiki вносители (страницата не съществува)">Transwiki вносители</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=transwiki" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-ipblock-exempt"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%98%D0%B7%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D1%82_%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%B0%D0%BD%D0%B5%D1%82%D0%BE_%D0%BF%D0%BE_IP_%D0%B0%D0%B4%D1%80%D0%B5%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Изключения от блокирането по IP адрес (страницата не съществува)">Изключения от блокирането по IP-адрес</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=ipblock-exempt" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">3</td></tr><tr class="statistics-group-oversight statistics-group-zero"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%A0%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Ревизори (страницата не съществува)">Ревизори</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=oversight" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-checkuser statistics-group-zero"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B2%D0%B0%D1%89%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Проверяващи (страницата не съществува)">Проверяващи</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=checkuser" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">0</td></tr><tr class="statistics-group-confirmed"><td><a href="/w/index.php?title=%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%9F%D0%BE%D1%82%D0%B2%D1%8A%D1%80%D0%B4%D0%B5%D0%BD%D0%B8_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уикицитат:Потвърдени потребители (страницата не съществува)">Потвърдени потребители</a> <a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&amp;group=confirmed" title="Специални:Потребители">(списък на членовете)</a></td><td class="mw-statistics-numbers">1</td></tr><tr><th colspan="2">Други статистики</th></tr><tr class="mw-statistics-hook" id="mw-cirrussearch-article-words"><td>Думи във всички страници със съдържание</td><td class="mw-statistics-numbers">1 752 295</td></tr><tr class="mw-statistics-hook" id="mw-massmessage-queued-count"><td><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:MassMessage" title="Специални:MassMessage">Масови съобщения</a> в опашката</td><td class="mw-statistics-numbers">0</td></tr></table><noscript><img src="//bg.wikiquote.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Взето от „<a dir="ltr" href="https://bg.wikiquote.org/wiki/Специални:Статистика">https://bg.wikiquote.org/wiki/Специални:Статистика</a>“.</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Навигация</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Лични инструменти</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Не сте влезли в системата</li>
+		<li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9C%D0%BE%D1%8F%D1%82%D0%B0_%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%B0" title="Дискусия относно редакциите от този адрес [n]" accesskey="n">Беседа</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9C%D0%BE%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B8%D0%BD%D0%BE%D1%81%D0%B8" title="Списък на промените, направени от този IP адрес [y]" accesskey="y">Приноси</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D1%8A%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D1%81%D0%BC%D0%B5%D1%82%D0%BA%D0%B0&amp;returnto=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8%3A%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Насърчаваме Ви да си създадете сметка и да влезете, въпреки че не е задължително.">Създаване на сметка</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A0%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B8%D1%80%D0%B0%D0%BD%D0%B5_%D0%B8%D0%BB%D0%B8_%D0%B2%D0%BB%D0%B8%D0%B7%D0%B0%D0%BD%D0%B5&amp;returnto=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8%3A%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Препоръчваме Ви да влезете, въпреки, че не е задължително. [o]" accesskey="o">Влизане</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Именни пространства</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0" title="Това е специална страница, която не може да бъде редактирана.">Специална страница</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Варианти</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Прегледи</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Още</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Търсене</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Търсене в Уикицитат" title="Претърсване на Уикицитат [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Специални:Търсене" name="title"/>
+			<input type="submit" name="fulltext" value="Търсене" title="Търсене в страниците за този текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Отваряне" title="Отиване на страницата, ако тя съществува с точно това име" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Посещаване на началната страница" class="mw-wiki-logo" href="/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Навигация
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Началната страница [z]" accesskey="z">Начална страница</a></li><li id="n-portal"><a href="/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D0%BD%D0%B0_%D0%BE%D0%B1%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%82%D0%B0" title="Информация за проекта – какво, къде, как">Портал на общността</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D0%BC%D0%B5%D0%BD%D0%B8" title="Списък на последните промени в уикито [r]" accesskey="r">Последни промени</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Зареждане на случайна страница [x]" accesskey="x">Случайна страница</a></li><li id="n-help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" title="Място, където може да се информирате">Помощ</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_bg.wikiquote.org&amp;uselang=bg" title="Подкрепете ни">Дарения</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Инструменти
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=bg" title="Качи файлове [u]" accesskey="u">Качване на файл</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B8" title="Списък на всички специални страници [q]" accesskey="q">Специални страници</a></li><li id="t-print"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;printable=yes" rel="alternate" title="Версия за печат на страницата [p]" accesskey="p">Версия за печат</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		На други езици
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Поверителност</a></li>
+		<li id="footer-places-about"><a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%97%D0%B0_%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82" class="mw-redirect" title="Уикицитат:За Уикицитат">За Уикицитат</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/%D0%A3%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82:%D0%9F%D1%80%D0%B5%D0%B4%D1%83%D0%BF%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Уикицитат:Предупреждение">Предупреждение</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">За разработчици</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/bg.wikiquote.org">Статистика</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Използване на „бисквитки“</a></li>
+		<li id="footer-places-mobileview"><a href="//bg.m.wikiquote.org/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%BD%D0%B8:%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобилен изглед</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1370"});});</script></body></html>

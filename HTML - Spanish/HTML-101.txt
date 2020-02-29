@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljQvApAADwAAHLe5NcAAABB","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=T"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"T","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='T' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Strauch" title="Especial:Todas">Página anterior (Strauch)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Tetzontepec" title="Especial:Todas">Página siguiente (Tetzontepec)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/T" title="T">T</a></li>
+<li><a href="/wiki/T%27aximay" title="T&#039;aximay">T&#039;aximay</a></li>
+<li><a href="/wiki/T-Shirt" title="T-Shirt">T-Shirt</a></li>
+<li><a href="/wiki/T-rex" title="T-rex">T-rex</a></li>
+<li><a href="/wiki/T-shirt" title="T-shirt">T-shirt</a></li>
+<li><a href="/wiki/TACC" title="TACC">TACC</a></li>
+<li><a href="/wiki/TALGO" title="TALGO">TALGO</a></li>
+<li><a href="/wiki/TCP" title="TCP">TCP</a></li>
+<li><a href="/wiki/TDAH" title="TDAH">TDAH</a></li>
+<li><a href="/wiki/TFM" title="TFM">TFM</a></li>
+<li><a href="/wiki/TLDR" title="TLDR">TLDR</a></li>
+<li><a href="/wiki/TLS" title="TLS">TLS</a></li>
+<li><a href="/wiki/TMA" title="TMA">TMA</a></li>
+<li><a href="/wiki/TNT" title="TNT">TNT</a></li>
+<li><a href="/wiki/TOC" title="TOC">TOC</a></li>
+<li><a href="/wiki/TRD" title="TRD">TRD</a></li>
+<li><a href="/wiki/TTL" title="TTL">TTL</a></li>
+<li><a href="/wiki/TWAIN" title="TWAIN">TWAIN</a></li>
+<li><a href="/wiki/Ta" title="Ta">Ta</a></li>
+<li><a href="/wiki/Taani" title="Taani">Taani</a></li>
+<li><a href="/wiki/Tabak" title="Tabak">Tabak</a></li>
+<li><a href="/wiki/Tabali" title="Tabali">Tabali</a></li>
+<li><a href="/wiki/Tabanera" title="Tabanera">Tabanera</a></li>
+<li><a href="/wiki/Tabar" title="Tabar">Tabar</a></li>
+<li><a href="/wiki/Tabasco" title="Tabasco">Tabasco</a></li>
+<li><a href="/wiki/Tabascos" title="Tabascos">Tabascos</a></li>
+<li><a href="/wiki/Tabasku" title="Tabasku">Tabasku</a></li>
+<li><a href="/wiki/Tabera" title="Tabera">Tabera</a></li>
+<li><a href="/wiki/Taberna" title="Taberna">Taberna</a></li>
+<li><a href="/wiki/Tabilo" title="Tabilo">Tabilo</a></li>
+<li><a href="/wiki/Tablada" title="Tablada">Tablada</a></li>
+<li><a href="/wiki/Taboada" title="Taboada">Taboada</a></li>
+<li><a href="/wiki/Tabora" title="Tabora">Tabora</a></li>
+<li><a href="/wiki/Taborda" title="Taborda">Taborda</a></li>
+<li><a href="/wiki/Taborga" title="Taborga">Taborga</a></li>
+<li><a href="/wiki/Tabriz" title="Tabriz">Tabriz</a></li>
+<li><a href="/wiki/Tabuena" title="Tabuena">Tabuena</a></li>
+<li><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></li>
+<li><a href="/wiki/Tacio" title="Tacio">Tacio</a></li>
+<li><a href="/wiki/Tacna" title="Tacna">Tacna</a></li>
+<li><a href="/wiki/Tacuaremb%C3%B3" title="Tacuarembó">Tacuarembó</a></li>
+<li><a href="/wiki/Tacul" title="Tacul">Tacul</a></li>
+<li><a href="/wiki/Tacuman" title="Tacuman">Tacuman</a></li>
+<li><a href="/wiki/Tacumican" title="Tacumican">Tacumican</a></li>
+<li><a href="/wiki/Taday" title="Taday">Taday</a></li>
+<li><a href="/wiki/Tadeo" title="Tadeo">Tadeo</a></li>
+<li><a href="/wiki/Tadmor" title="Tadmor">Tadmor</a></li>
+<li><a href="/wiki/Taejon" title="Taejon">Taejon</a></li>
+<li><a href="/wiki/Tafalla" title="Tafalla">Tafalla</a></li>
+<li><a href="/wiki/Tafilaf" title="Tafilaf">Tafilaf</a></li>
+<li><a href="/wiki/Tafraut" title="Tafraut">Tafraut</a></li>
+<li><a href="/wiki/Tag" title="Tag">Tag</a></li>
+<li><a href="/wiki/Tag_der_Arbeit" title="Tag der Arbeit">Tag der Arbeit</a></li>
+<li><a href="/wiki/Tageszeitung" title="Tageszeitung">Tageszeitung</a></li>
+<li><a href="/wiki/Tagle" title="Tagle">Tagle</a></li>
+<li><a href="/wiki/Taibei" title="Taibei">Taibei</a></li>
+<li><a href="/wiki/Taiguel" title="Taiguel">Taiguel</a></li>
+<li><a href="/wiki/Taihuel" title="Taihuel">Taihuel</a></li>
+<li><a href="/wiki/Tailandia" title="Tailandia">Tailandia</a></li>
+<li><a href="/wiki/Taillade" title="Taillade">Taillade</a></li>
+<li><a href="/wiki/Taillan" title="Taillan">Taillan</a></li>
+<li><a href="/wiki/Taimante" title="Taimante">Taimante</a></li>
+<li><a href="/wiki/Taipei" title="Taipei">Taipei</a></li>
+<li><a href="/wiki/Taipillan" title="Taipillan">Taipillan</a></li>
+<li><a href="/wiki/Taiwan" title="Taiwan">Taiwan</a></li>
+<li><a href="/wiki/Taiw%C3%A1n" title="Taiwán">Taiwán</a></li>
+<li><a href="/wiki/Tajlandia" title="Tajlandia">Tajlandia</a></li>
+<li><a href="/wiki/Tajvan" title="Tajvan">Tajvan</a></li>
+<li><a href="/wiki/Tak%C3%A1cs_de_Sa%C3%A1r" title="Takács de Saár">Takács de Saár</a></li>
+<li><a href="/wiki/Tal" title="Tal">Tal</a></li>
+<li><a href="/wiki/Talarico" title="Talarico">Talarico</a></li>
+<li><a href="/wiki/Talavera" title="Talavera">Talavera</a></li>
+<li><a href="/wiki/Talaverano" title="Talaverano">Talaverano</a></li>
+<li><a href="/wiki/Talca" title="Talca">Talca</a></li>
+<li><a href="/wiki/Talcan" title="Talcan">Talcan</a></li>
+<li><a href="/wiki/Talcao" title="Talcao">Talcao</a></li>
+<li><a href="/wiki/Talia" title="Talia">Talia</a></li>
+<li><a href="/wiki/Taliansko" title="Taliansko">Taliansko</a></li>
+<li><a href="/wiki/Taliban" title="Taliban">Taliban</a></li>
+<li><a href="/wiki/Tallada" title="Tallada">Tallada</a></li>
+<li><a href="/wiki/Tallin" title="Tallin">Tallin</a></li>
+<li><a href="/wiki/Talma" title="Talma">Talma</a></li>
+<li><a href="/wiki/Talmar" title="Talmar">Talmar</a></li>
+<li><a href="/wiki/Talmud" title="Talmud">Talmud</a></li>
+<li><a href="/wiki/Talweg" title="Talweg">Talweg</a></li>
+<li><a href="/wiki/Tal%C3%ADa" title="Talía">Talía</a></li>
+<li><a href="/wiki/Tamale" title="Tamale">Tamale</a></li>
+<li><a href="/wiki/Tamar" title="Tamar">Tamar</a></li>
+<li><a href="/wiki/Tamara" title="Tamara">Tamara</a></li>
+<li><a href="/wiki/Tamarit" title="Tamarit">Tamarit</a></li>
+<li><a href="/wiki/Tamar%C3%ADn" title="Tamarín">Tamarín</a></li>
+<li><a href="/wiki/Tamaulipas" title="Tamaulipas">Tamaulipas</a></li>
+<li><a href="/wiki/Tamayo" title="Tamayo">Tamayo</a></li>
+<li><a href="/wiki/Tamblay" title="Tamblay">Tamblay</a></li>
+<li><a href="/wiki/Tamborena" title="Tamborena">Tamborena</a></li>
+<li><a href="/wiki/Tamborenea" title="Tamborenea">Tamborenea</a></li>
+<li><a href="/wiki/Tamborinarena" title="Tamborinarena">Tamborinarena</a></li>
+<li><a href="/wiki/Tamborindegui" title="Tamborindegui">Tamborindegui</a></li>
+<li><a href="/wiki/Tamborindeguiz" title="Tamborindeguiz">Tamborindeguiz</a></li>
+<li><a href="/wiki/Tamborindeguy" title="Tamborindeguy">Tamborindeguy</a></li>
+<li><a href="/wiki/Tambourindeguy" title="Tambourindeguy">Tambourindeguy</a></li>
+<li><a href="/wiki/Tambutti" title="Tambutti">Tambutti</a></li>
+<li><a href="/wiki/Tamdhiw%C3%B3l" title="Tamdhiwól">Tamdhiwól</a></li>
+<li><a href="/wiki/Tames" title="Tames">Tames</a></li>
+<li><a href="/wiki/Tamez" title="Tamez">Tamez</a></li>
+<li><a href="/wiki/Tampico" title="Tampico">Tampico</a></li>
+<li><a href="/wiki/Tampier" title="Tampier">Tampier</a></li>
+<li><a href="/wiki/Tamtokow" title="Tamtokow">Tamtokow</a></li>
+<li><a href="/wiki/Tanaj" title="Tanaj">Tanaj</a></li>
+<li><a href="/wiki/Tancara" title="Tancara">Tancara</a></li>
+<li><a href="/wiki/Tanc%C3%ADtaro" title="Tancítaro">Tancítaro</a></li>
+<li><a href="/wiki/Tandil" title="Tandil">Tandil</a></li>
+<li><a href="/wiki/Tane%C5%A1tanna" title="Taneštanna">Taneštanna</a></li>
+<li><a href="/wiki/Tang" title="Tang">Tang</a></li>
+<li><a href="/wiki/Tanga" title="Tanga">Tanga</a></li>
+<li><a href="/wiki/Tangol" title="Tangol">Tangol</a></li>
+<li><a href="/wiki/Tangulao" title="Tangulao">Tangulao</a></li>
+<li><a href="/wiki/Tania" title="Tania">Tania</a></li>
+<li><a href="/wiki/Tankstelle" title="Tankstelle">Tankstelle</a></li>
+<li><a href="/wiki/Tanr%C4%B1" title="Tanrı">Tanrı</a></li>
+<li><a href="/wiki/Tanska" title="Tanska">Tanska</a></li>
+<li><a href="/wiki/Tanya" title="Tanya">Tanya</a></li>
+<li><a href="/wiki/Tanzania" title="Tanzania">Tanzania</a></li>
+<li><a href="/wiki/Tapalqu%C3%A9" title="Tapalqué">Tapalqué</a></li>
+<li><a href="/wiki/Tapferkeit" title="Tapferkeit">Tapferkeit</a></li>
+<li><a href="/wiki/Tapia" title="Tapia">Tapia</a></li>
+<li><a href="/wiki/Tapiola" title="Tapiola">Tapiola</a></li>
+<li><a href="/wiki/Tapir" title="Tapir">Tapir</a></li>
+<li><a href="/wiki/Taqna" title="Taqna">Taqna</a></li>
+<li><a href="/wiki/Tar" title="Tar">Tar</a></li>
+<li><a href="/wiki/Taranco" title="Taranco">Taranco</a></li>
+<li><a href="/wiki/Tarascon" title="Tarascon">Tarascon</a></li>
+<li><a href="/wiki/Tardetz" title="Tardetz">Tardetz</a></li>
+<li><a href="/wiki/Tarento" title="Tarento">Tarento</a></li>
+<li><a href="/wiki/Taripi" title="Taripi">Taripi</a></li>
+<li><a href="/wiki/Tarnobrzeg" title="Tarnobrzeg">Tarnobrzeg</a></li>
+<li><a href="/wiki/Taronj%C3%AD" title="Taronjí">Taronjí</a></li>
+<li><a href="/wiki/Tarraco" title="Tarraco">Tarraco</a></li>
+<li><a href="/wiki/Tarragona" title="Tarragona">Tarragona</a></li>
+<li><a href="/wiki/Tarrasa" title="Tarrasa">Tarrasa</a></li>
+<li><a href="/wiki/Tarrupil" title="Tarrupil">Tarrupil</a></li>
+<li><a href="/wiki/Tartaria" title="Tartaria">Tartaria</a></li>
+<li><a href="/wiki/Tartarist%C3%A1n" title="Tartaristán">Tartaristán</a></li>
+<li><a href="/wiki/Tartas" title="Tartas">Tartas</a></li>
+<li><a href="/wiki/Tarud" title="Tarud">Tarud</a></li>
+<li><a href="/wiki/Tarudant" title="Tarudant">Tarudant</a></li>
+<li><a href="/wiki/Tarum%C3%A1n" title="Tarumán">Tarumán</a></li>
+<li><a href="/wiki/Tarupil" title="Tarupil">Tarupil</a></li>
+<li><a href="/wiki/Taryb%C5%B3_S%C4%85junga" title="Tarybų Sąjunga">Tarybų Sąjunga</a></li>
+<li><a href="/wiki/Tasadi" title="Tasadi">Tasadi</a></li>
+<li><a href="/wiki/Taschentuch" title="Taschentuch">Taschentuch</a></li>
+<li><a href="/wiki/Tashkent" title="Tashkent">Tashkent</a></li>
+<li><a href="/wiki/Tasmanischer_Teufel" title="Tasmanischer Teufel">Tasmanischer Teufel</a></li>
+<li><a href="/wiki/Tasse" title="Tasse">Tasse</a></li>
+<li><a href="/wiki/Tastatur" title="Tastatur">Tastatur</a></li>
+<li><a href="/wiki/Tasteninstrument" title="Tasteninstrument">Tasteninstrument</a></li>
+<li><a href="/wiki/Tatiana" title="Tatiana">Tatiana</a></li>
+<li><a href="/wiki/Tatiane" title="Tatiane">Tatiane</a></li>
+<li><a href="/wiki/Tatiegui" title="Tatiegui">Tatiegui</a></li>
+<li><a href="/wiki/Tatochila" title="Tatochila">Tatochila</a></li>
+<li><a href="/wiki/Taube" title="Taube">Taube</a></li>
+<li><a href="/wiki/Taucan" title="Taucan">Taucan</a></li>
+<li><a href="/wiki/Taucare" title="Taucare">Taucare</a></li>
+<li><a href="/wiki/Tauiman" title="Tauiman">Tauiman</a></li>
+<li><a href="/wiki/Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu" title="Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu">Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiwhenuakitanatahu</a></li>
+<li><a href="/wiki/Tauregui" title="Tauregui">Tauregui</a></li>
+<li><a href="/wiki/Taurino" title="Taurino">Taurino</a></li>
+<li><a href="/wiki/Tauro" title="Tauro">Tauro</a></li>
+<li><a href="/wiki/Taurus" title="Taurus">Taurus</a></li>
+<li><a href="/wiki/Tautologie" title="Tautologie">Tautologie</a></li>
+<li><a href="/wiki/Taxco_de_Alarc%C3%B3n" title="Taxco de Alarcón">Taxco de Alarcón</a></li>
+<li><a href="/wiki/Taxi" title="Taxi">Taxi</a></li>
+<li><a href="/wiki/Tayikia" title="Tayikia">Tayikia</a></li>
+<li><a href="/wiki/Tayikist%C3%A1n" title="Tayikistán">Tayikistán</a></li>
+<li><a href="/wiki/Taylor" title="Taylor">Taylor</a></li>
+<li><a href="/wiki/Tayuqueo" title="Tayuqueo">Tayuqueo</a></li>
+<li><a href="/wiki/Ta%C3%ADland" title="Taíland">Taíland</a></li>
+<li><a href="/wiki/Ta%C5%82ia" title="Tałia">Tałia</a></li>
+<li><a href="/wiki/Tbilisi" title="Tbilisi">Tbilisi</a></li>
+<li><a href="/wiki/Tbilissi" title="Tbilissi">Tbilissi</a></li>
+<li><a href="/wiki/Tchad" title="Tchad">Tchad</a></li>
+<li><a href="/wiki/TeV" title="TeV">TeV</a></li>
+<li><a href="/wiki/Te_pito_o_te_henua" title="Te pito o te henua">Te pito o te henua</a></li>
+<li><a href="/wiki/Tea" title="Tea">Tea</a></li>
+<li><a href="/wiki/Tebas" title="Tebas">Tebas</a></li>
+<li><a href="/wiki/Teca" title="Teca">Teca</a></li>
+<li><a href="/wiki/Tecamac" title="Tecamac">Tecamac</a></li>
+<li><a href="/wiki/Tecay" title="Tecay">Tecay</a></li>
+<li><a href="/wiki/Technologie" title="Technologie">Technologie</a></li>
+<li><a href="/wiki/Tee" title="Tee">Tee</a></li>
+<li><a href="/wiki/Teele" title="Teele">Teele</a></li>
+<li><a href="/wiki/Teel%C3%B6ffel" title="Teelöffel">Teelöffel</a></li>
+<li><a href="/wiki/Tegualda" title="Tegualda">Tegualda</a></li>
+<li><a href="/wiki/Tegucigalpa" title="Tegucigalpa">Tegucigalpa</a></li>
+<li><a href="/wiki/Teguel" title="Teguel">Teguel</a></li>
+<li><a href="/wiki/Teguiel" title="Teguiel">Teguiel</a></li>
+<li><a href="/wiki/Teher%C3%A1n" title="Teherán">Teherán</a></li>
+<li><a href="/wiki/Teia" title="Teia">Teia</a></li>
+<li><a href="/wiki/Teigual" title="Teigual">Teigual</a></li>
+<li><a href="/wiki/Teiguel" title="Teiguel">Teiguel</a></li>
+<li><a href="/wiki/Teiguen" title="Teiguen">Teiguen</a></li>
+<li><a href="/wiki/Teihuel" title="Teihuel">Teihuel</a></li>
+<li><a href="/wiki/Teil" title="Teil">Teil</a></li>
+<li><a href="/wiki/Teileche" title="Teileche">Teileche</a></li>
+<li><a href="/wiki/Teiletche" title="Teiletche">Teiletche</a></li>
+<li><a href="/wiki/Teillagorry" title="Teillagorry">Teillagorry</a></li>
+<li><a href="/wiki/Teillaheorry" title="Teillaheorry">Teillaheorry</a></li>
+<li><a href="/wiki/Teillary" title="Teillary">Teillary</a></li>
+<li><a href="/wiki/Teilleri" title="Teilleri">Teilleri</a></li>
+<li><a href="/wiki/Teilleria" title="Teilleria">Teilleria</a></li>
+<li><a href="/wiki/Teillerie" title="Teillerie">Teillerie</a></li>
+<li><a href="/wiki/Teillery" title="Teillery">Teillery</a></li>
+<li><a href="/wiki/Teilletche" title="Teilletche">Teilletche</a></li>
+<li><a href="/wiki/Teilletchea" title="Teilletchea">Teilletchea</a></li>
+<li><a href="/wiki/Teimante" title="Teimante">Teimante</a></li>
+<li><a href="/wiki/Teis%C4%97j%C5%B3_knyga" title="Teisėjų knyga">Teisėjų knyga</a></li>
+<li><a href="/wiki/Tejada" title="Tejada">Tejada</a></li>
+<li><a href="/wiki/Tejadilla" title="Tejadilla">Tejadilla</a></li>
+<li><a href="/wiki/Tejas" title="Tejas">Tejas</a></li>
+<li><a href="/wiki/Tejeda" title="Tejeda">Tejeda</a></li>
+<li><a href="/wiki/Tejedor" title="Tejedor">Tejedor</a></li>
+<li><a href="/wiki/Tejera" title="Tejera">Tejera</a></li>
+<li><a href="/wiki/Tejeria" title="Tejeria">Tejeria</a></li>
+<li><a href="/wiki/Tejero" title="Tejero">Tejero</a></li>
+<li><a href="/wiki/Tejo" title="Tejo">Tejo</a></li>
+<li><a href="/wiki/Tejos" title="Tejos">Tejos</a></li>
+<li><a href="/wiki/Tej%C3%BAt" title="Tejút">Tejút</a></li>
+<li><a href="/wiki/Tekixkiak" title="Tekixkiak">Tekixkiak</a></li>
+<li><a href="/wiki/Tel_Aviv" title="Tel Aviv">Tel Aviv</a></li>
+<li><a href="/wiki/Telacho" title="Telacho">Telacho</a></li>
+<li><a href="/wiki/Telechea" title="Telechea">Telechea</a></li>
+<li><a href="/wiki/Telefon" title="Telefon">Telefon</a></li>
+<li><a href="/wiki/Telescopio" title="Telescopio">Telescopio</a></li>
+<li><a href="/wiki/Telias" title="Telias">Telias</a></li>
+<li><a href="/wiki/Tell_Mardikh" title="Tell Mardikh">Tell Mardikh</a></li>
+<li><a href="/wiki/Tellabide" title="Tellabide">Tellabide</a></li>
+<li><a href="/wiki/Tellaburu" title="Tellaburu">Tellaburu</a></li>
+<li><a href="/wiki/Tellaeche" title="Tellaeche">Tellaeche</a></li>
+<li><a href="/wiki/Tellaechea" title="Tellaechea">Tellaechea</a></li>
+<li><a href="/wiki/Tellaecheondo" title="Tellaecheondo">Tellaecheondo</a></li>
+<li><a href="/wiki/Tellagorry" title="Tellagorry">Tellagorry</a></li>
+<li><a href="/wiki/Tellarena" title="Tellarena">Tellarena</a></li>
+<li><a href="/wiki/Telleche" title="Telleche">Telleche</a></li>
+<li><a href="/wiki/Tellechea" title="Tellechea">Tellechea</a></li>
+<li><a href="/wiki/Teller" title="Teller">Teller</a></li>
+<li><a href="/wiki/Telleria" title="Telleria">Telleria</a></li>
+<li><a href="/wiki/Telleriarte" title="Telleriarte">Telleriarte</a></li>
+<li><a href="/wiki/Teller%C3%ADa" title="Tellería">Tellería</a></li>
+<li><a href="/wiki/Telles" title="Telles">Telles</a></li>
+<li><a href="/wiki/Tellez" title="Tellez">Tellez</a></li>
+<li><a href="/wiki/Tellitegui" title="Tellitegui">Tellitegui</a></li>
+<li><a href="/wiki/Tellitu" title="Tellitu">Tellitu</a></li>
+<li><a href="/wiki/Tello" title="Tello">Tello</a></li>
+<li><a href="/wiki/Tellon" title="Tellon">Tellon</a></li>
+<li><a href="/wiki/Telma" title="Telma">Telma</a></li>
+<li><a href="/wiki/Telmo" title="Telmo">Telmo</a></li>
+<li><a href="/wiki/Tema" title="Tema">Tema</a></li>
+<li><a href="/wiki/Temapachik" title="Temapachik">Temapachik</a></li>
+<li><a href="/wiki/Temaskaltepek" title="Temaskaltepek">Temaskaltepek</a></li>
+<li><a href="/wiki/Temazcalapan" title="Temazcalapan">Temazcalapan</a></li>
+<li><a href="/wiki/Temblador" title="Temblador">Temblador</a></li>
+<li><a href="/wiki/Temilpan" title="Temilpan">Temilpan</a></li>
+<li><a href="/wiki/Temores" title="Temores">Temores</a></li>
+<li><a href="/wiki/Temperini" title="Temperini">Temperini</a></li>
+<li><a href="/wiki/Temperley" title="Temperley">Temperley</a></li>
+<li><a href="/wiki/Temu" title="Temu">Temu</a></li>
+<li><a href="/wiki/Temuco" title="Temuco">Temuco</a></li>
+<li><a href="/wiki/Temun" title="Temun">Temun</a></li>
+<li><a href="/wiki/Tena" title="Tena">Tena</a></li>
+<li><a href="/wiki/Tenderini" title="Tenderini">Tenderini</a></li>
+<li><a href="/wiki/Teneb" title="Teneb">Teneb</a></li>
+<li><a href="/wiki/Tenef" title="Tenef">Tenef</a></li>
+<li><a href="/wiki/Teneo" title="Teneo">Teneo</a></li>
+<li><a href="/wiki/Tene%C3%B1anco" title="Teneñanco">Teneñanco</a></li>
+<li><a href="/wiki/Tengue" title="Tengue">Tengue</a></li>
+<li><a href="/wiki/Teni%C3%B1anco" title="Teniñanco">Teniñanco</a></li>
+<li><a href="/wiki/Tennessee" title="Tennessee">Tennessee</a></li>
+<li><a href="/wiki/Tennis" title="Tennis">Tennis</a></li>
+<li><a href="/wiki/Teno" title="Teno">Teno</a></li>
+<li><a href="/wiki/Tenochtitlan" title="Tenochtitlan">Tenochtitlan</a></li>
+<li><a href="/wiki/Tenochtitl%C3%A1n" title="Tenochtitlán">Tenochtitlán</a></li>
+<li><a href="/wiki/Tenor" title="Tenor">Tenor</a></li>
+<li><a href="/wiki/Tenorio" title="Tenorio">Tenorio</a></li>
+<li><a href="/wiki/Tenosique" title="Tenosique">Tenosique</a></li>
+<li><a href="/wiki/Tenque" title="Tenque">Tenque</a></li>
+<li><a href="/wiki/Tentegui" title="Tentegui">Tentegui</a></li>
+<li><a href="/wiki/Teobaldo" title="Teobaldo">Teobaldo</a></li>
+<li><a href="/wiki/Teocotl" title="Teocotl">Teocotl</a></li>
+<li><a href="/wiki/Teodolinda" title="Teodolinda">Teodolinda</a></li>
+<li><a href="/wiki/Teodora" title="Teodora">Teodora</a></li>
+<li><a href="/wiki/Teodorico" title="Teodorico">Teodorico</a></li>
+<li><a href="/wiki/Teodoro" title="Teodoro">Teodoro</a></li>
+<li><a href="/wiki/Teolinda" title="Teolinda">Teolinda</a></li>
+<li><a href="/wiki/Teotenanco" title="Teotenanco">Teotenanco</a></li>
+<li><a href="/wiki/Teotihuacan" title="Teotihuacan">Teotihuacan</a></li>
+<li><a href="/wiki/Teotihuac%C3%A1n" title="Teotihuacán">Teotihuacán</a></li>
+<li><a href="/wiki/Teotihuahcan" title="Teotihuahcan">Teotihuahcan</a></li>
+<li><a href="/wiki/Teotlalpan" title="Teotlalpan">Teotlalpan</a></li>
+<li><a href="/wiki/Tepalcatepec" title="Tepalcatepec">Tepalcatepec</a></li>
+<li><a href="/wiki/Tepeyac" title="Tepeyac">Tepeyac</a></li>
+<li><a href="/wiki/Tepotzohtlan" title="Tepotzohtlan">Tepotzohtlan</a></li>
+<li><a href="/wiki/Teppich" title="Teppich">Teppich</a></li>
+<li><a href="/wiki/Tequila" title="Tequila">Tequila</a></li>
+<li><a href="/wiki/Tequixquiac" title="Tequixquiac">Tequixquiac</a></li>
+<li><a href="/wiki/Tequixquiapan" title="Tequixquiapan">Tequixquiapan</a></li>
+<li><a href="/wiki/Tercilla" title="Tercilla">Tercilla</a></li>
+<li><a href="/wiki/Terencan" title="Terencan">Terencan</a></li>
+<li><a href="/wiki/Teresa" title="Teresa">Teresa</a></li>
+<li><a href="/wiki/Teresano" title="Teresano">Teresano</a></li>
+<li><a href="/wiki/Teresita" title="Teresita">Teresita</a></li>
+<li><a href="/wiki/Tereuc%C3%A1n" title="Tereucán">Tereucán</a></li>
+<li><a href="/wiki/Terimun" title="Terimun">Terimun</a></li>
+<li><a href="/wiki/Termopil" title="Termopil">Termopil</a></li>
+<li><a href="/wiki/Termopilach" title="Termopilach">Termopilach</a></li>
+<li><a href="/wiki/Termopilami" title="Termopilami">Termopilami</a></li>
+<li><a href="/wiki/Termopile" title="Termopile">Termopile</a></li>
+<li><a href="/wiki/Termopili" title="Termopili">Termopili</a></li>
+<li><a href="/wiki/Termopiloj" title="Termopiloj">Termopiloj</a></li>
+<li><a href="/wiki/Termopilojn" title="Termopilojn">Termopilojn</a></li>
+<li><a href="/wiki/Termopilom" title="Termopilom">Termopilom</a></li>
+<li><a href="/wiki/Terpsichore" title="Terpsichore">Terpsichore</a></li>
+<li><a href="/wiki/Terps%C3%ADcore" title="Terpsícore">Terpsícore</a></li>
+<li><a href="/wiki/Terra" title="Terra">Terra</a></li>
+<li><a href="/wiki/Terrabust" title="Terrabust">Terrabust</a></li>
+<li><a href="/wiki/Terranova_y_Labrador" title="Terranova y Labrador">Terranova y Labrador</a></li>
+<li><a href="/wiki/Terrasse" title="Terrasse">Terrasse</a></li>
+<li><a href="/wiki/Terre" title="Terre">Terre</a></li>
+<li><a href="/wiki/Terrero" title="Terrero">Terrero</a></li>
+<li><a href="/wiki/Territorio_Brit%C3%A1nico_del_Oc%C3%A9ano_%C3%8Dndico" title="Territorio Británico del Océano Índico">Territorio Británico del Océano Índico</a></li>
+<li><a href="/wiki/Territorios_Australes_Franceses" title="Territorios Australes Franceses">Territorios Australes Franceses</a></li>
+<li><a href="/wiki/Terron" title="Terron">Terron</a></li>
+<li><a href="/wiki/Terrorist" title="Terrorist">Terrorist</a></li>
+<li><a href="/wiki/Terr%C3%B3n" title="Terrón">Terrón</a></li>
+<li><a href="/wiki/Tersicore" title="Tersicore">Tersicore</a></li>
+<li><a href="/wiki/Terucan" title="Terucan">Terucan</a></li>
+<li><a href="/wiki/Teruel" title="Teruel">Teruel</a></li>
+<li><a href="/wiki/Terullan" title="Terullan">Terullan</a></li>
+<li><a href="/wiki/Teruman" title="Teruman">Teruman</a></li>
+<li><a href="/wiki/Teruquina" title="Teruquina">Teruquina</a></li>
+<li><a href="/wiki/Terz" title="Terz">Terz</a></li>
+<li><a href="/wiki/Ter%C3%A1n" title="Terán">Terán</a></li>
+<li><a href="/wiki/Tesalonicenses" title="Tesalonicenses">Tesalonicenses</a></li>
+<li><a href="/wiki/Tesaloni%C4%B7ie%C5%A1iem" title="Tesaloniķiešiem">Tesaloniķiešiem</a></li>
+<li><a href="/wiki/Tesif%C3%B3n" title="Tesifón">Tesifón</a></li>
+<li><a href="/wiki/Tetu%C3%A1n" title="Tetuán">Tetuán</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Strauch" title="Especial:Todas">Página anterior (Strauch)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Tetzontepec" title="Especial:Todas">Página siguiente (Tetzontepec)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DT" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DT" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=T" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=T&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=T&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":249,"wgHostname":"mw1265"});});</script></body></html>

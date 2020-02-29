@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipédia, l'encyclopédie libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XlnN9gpAAEYAAFo5XR8AAAAB","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipédia:Accueil_principal","wgTitle":"Accueil principal","wgCurRevisionId":164303621,"wgRevisionId":164303621,"wgArticleId":10635368,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipédia:Accueil_principal","wgRelevantArticleId":10635368,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!1,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,
+"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.icons.images":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","skins.minerva.mainPage.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.centralauth.centralautologin","mobile.site","mobile.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","mw.externalguidance.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%2Cwikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles%7Cskins.minerva.mainPage.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="alternate" type="application/atom+xml" title="Images du jour de Wikipédia" href="/w/api.php?action=featuredfeed&amp;feed=potd&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Flux d’articles en vedette de Wikipédia" href="/w/api.php?action=featuredfeed&amp;feed=featured&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Regards sur l&#039;actualité de la Wikimedia, et d&#039;ailleurs" href="/w/api.php?action=featuredfeed&amp;feed=raw&amp;feedformat=atom"/>
+<link rel="alternate" type="application/atom+xml" title="Wikimag" href="/w/api.php?action=featuredfeed&amp;feed=wikimag&amp;feedformat=atom"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipédia_Accueil_principal rootpage-Wikipédia_Accueil_principal stable page-Main_Page skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button" title="Ouvrir le menu principal" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu toggle-list__toggle mw-ui-icon-flush-left" data-event-name="ui.mainmenu">Ouvrir le menu principal</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Wikip%C3%A9dia:Accueil_principal" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Accueil</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Sp%C3%A9cial:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Au hasard</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Sp%C3%A9cial:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>À proximité</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikip%C3%A9dia%3AAccueil+principal" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Connexion</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Sp%C3%A9cial:MobileOptions&amp;returnto=Wikip%C3%A9dia%3AAccueil+principal" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Configuration</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" class="" data-event-name=""><span>À propos de Wikipédia</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" class="" data-event-name=""><span>Avertissements</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Wikip%C3%A9dia:Accueil_principal">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-fr.svg" width="116" height="18" alt="Wikipédia"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Rechercher sur Wikipédia" aria-label="Rechercher sur Wikipédia"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="Navigation utilisateur">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Rechercher</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0"></h1>
+					<div class="tagline"></div>
+				</div>
+				
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output">
+<div id="accueil_2017_contenu">
+<div class="portail-gauche">
+<div class="accueil_2017_cadre">
+<h2><span id="Article_labellis.C3.A9_du_jour"></span><span class="mw-headline" id="Article_labellisé_du_jour">Article labellisé du jour</span></h2>
+<div class="floatright"><a href="/wiki/Fichier:Blason_ville_%26_fam_fr_Choiseul_(Haute-Marne).svg" class="image" title="Blason de la Maison de Choiseul (D'azur à la croix d'or, cantonnée de dix-huit billettes du même)."><img alt="Blason de la Maison de Choiseul (D'azur à la croix d'or, cantonnée de dix-huit billettes du même)." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blason_ville_%26_fam_fr_Choiseul_%28Haute-Marne%29.svg/120px-Blason_ville_%26_fam_fr_Choiseul_%28Haute-Marne%29.svg.png" decoding="async" width="120" height="132" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blason_ville_%26_fam_fr_Choiseul_%28Haute-Marne%29.svg/180px-Blason_ville_%26_fam_fr_Choiseul_%28Haute-Marne%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Blason_ville_%26_fam_fr_Choiseul_%28Haute-Marne%29.svg/240px-Blason_ville_%26_fam_fr_Choiseul_%28Haute-Marne%29.svg.png 2x" data-file-width="600" data-file-height="660"></a></div>
+<p><b><a href="/wiki/Renard_II_de_Choiseul" title="Renard II de Choiseul">Renard <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr> de Choiseul</a></b>, <b>Raynard <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr> de Choiseul</b> ou <b>Renaud <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr> de Choiseul</b> est le fils de <a href="/wiki/Foulques_II_de_Choiseul" title="Foulques II de Choiseul">Foulques <abbr class="abbr" title="2"><span class="romain" style="text-transform:uppercase">II</span></abbr></a> et d'<a href="/wiki/Alix_de_Vignory" title="Alix de Vignory">Alix de Vignory</a>. Il est seigneur de <a href="/wiki/Choiseul_(Haute-Marne)" title="Choiseul (Haute-Marne)">Choiseul</a>, en <a href="/wiki/Champagne_(province)" title="Champagne (province)">Champagne</a> (dans l'actuel département de la <a href="/wiki/Haute-Marne" title="Haute-Marne">Haute-Marne</a>), à la fin du <abbr class="abbr" title="12ᵉ siècle"><span class="romain">XII</span><sup style="font-size:72%">e</sup></abbr> siècle et au début du <abbr class="abbr" title="13ᵉ siècle"><span class="romain">XIII</span><sup style="font-size:72%">e</sup></abbr> siècle.
+</p><p>Il épouse en premières noces <a href="/wiki/Cl%C3%A9mence_de_Faucogney" title="Clémence de Faucogney">Clémence de Faucogney</a>, héritière de la <a href="/wiki/Liste_des_seigneurs_de_Faucogney" title="Liste des seigneurs de Faucogney">seigneurie de Faucogney</a> dans le <a href="/wiki/Comt%C3%A9_de_Bourgogne" title="Comté de Bourgogne">comté de Bourgogne</a>, qu'ils dirigent tous les deux. Il prend part à la <a href="/wiki/Guerre_de_succession_de_Champagne" title="Guerre de succession de Champagne">guerre de succession de Champagne</a> et soutient les prétentions de son cousin <a href="/wiki/%C3%89rard_de_Brienne-Ramerupt" title="Érard de Brienne-Ramerupt">Érard de Brienne</a> contre la comtesse <a href="/wiki/Blanche_de_Navarre_(1177-1229)" title="Blanche de Navarre (1177-1229)">Blanche de Navarre</a> et son fils, le futur <a href="/wiki/Thibaut_Ier_de_Navarre" title="Thibaut Ier de Navarre">Thibaud IV</a>. Il participe ensuite à la <a href="/wiki/Cinqui%C3%A8me_croisade" title="Cinquième croisade">cinquième croisade</a> où il combat probablement lors du <a href="/wiki/Si%C3%A8ge_de_Damiette_(1218)" title="Siège de Damiette (1218)">siège de Damiette</a> aux côtés d'un autre de ses cousins, <a href="/wiki/Jean_de_Brienne" title="Jean de Brienne">Jean de Brienne</a>, <a href="/wiki/Liste_des_rois_de_J%C3%A9rusalem" title="Liste des rois de Jérusalem">roi de Jérusalem</a>.
+</p><p>Revenu en France, il réalise un mariage prestigieux et épouse en secondes noces <a href="/wiki/Alix_de_Dreux_(fille_de_Robert_II)" title="Alix de Dreux (fille de Robert II)">Alix de Dreux</a>, d'origine <a href="/wiki/Cap%C3%A9tiens" title="Capétiens">capétienne</a> et dame de <a href="/wiki/Traves" title="Traves">Traves</a>. En 1228, il combat aux côtés du <a href="/wiki/Liste_des_comtes_de_Champagne" title="Liste des comtes de Champagne">comte de Champagne</a> <a href="/wiki/Thibaut_Ier_de_Navarre" title="Thibaut Ier de Navarre">Thibaut IV</a> contre une ligue menée par un demi-frère du roi, mécontente de la régence de la <a href="/wiki/Reine_m%C3%A8re" title="Reine mère">reine mère</a> <a href="/wiki/Blanche_de_Castille" title="Blanche de Castille">Blanche de Castille</a>.
+</p><p>Vassal de l'<a href="/wiki/%C3%89v%C3%AAque_de_Langres" class="mw-redirect" title="Évêque de Langres">évêque de Langres</a>, il s'est montré généreux toute sa vie durant avec le clergé et s'est efforcé d'augmenter la puissance de sa maison tout en conservant au maximum son indépendance vis-à-vis de ses puissants voisins, les comtes <a href="/wiki/Liste_des_comtes_palatins_de_Bourgogne" title="Liste des comtes palatins de Bourgogne">de Bourgogne</a>, <a href="/wiki/Liste_des_comtes_de_Champagne" title="Liste des comtes de Champagne">de Champagne</a> et <a href="/wiki/Liste_des_comtes_puis_ducs_de_Bar" title="Liste des comtes puis ducs de Bar">de Bar</a>. Il décède en 1239 et est inhumé en l'<a href="/wiki/Abbaye_de_Morimond" title="Abbaye de Morimond">abbaye de Morimond</a>. Son fils aîné <a href="/wiki/Jean_Ier_de_Choiseul" title="Jean Ier de Choiseul">Jean <abbr class="abbr" title="premier">I<sup>er</sup></abbr> de Choiseul</a> lui succède dans la seigneurie de Choiseul tandis que son plus jeune fils, <a href="/wiki/Robert_de_Choiseul" title="Robert de Choiseul">Robert de Choiseul</a>, hérite de la seigneurie de Traves qui était de l'apanage de son épouse.
+</p>
+<ul><li title="Bon article" class="BA"><i><a href="/wiki/Renard_II_de_Choiseul" title="Renard II de Choiseul">Lire la suite</a></i></li></ul><div class="liste-horizontale accueil_2017_pied">
+<ul><li><b><a href="/wiki/Wikip%C3%A9dia:Contenus_de_qualit%C3%A9" title="Wikipédia:Contenus de qualité">Contenus de qualité</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Bons_contenus" title="Wikipédia:Bons contenus">Bons contenus</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:S%C3%A9lection" title="Wikipédia:Sélection">Sélection</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Lumi%C3%A8re_sur" title="Wikipédia:Lumière sur">Programme</a></b></li></ul></div>
+</div>
+<div class="accueil_2017_cadre">
+<h2><span id="Actualit.C3.A9s"></span><span class="mw-headline" id="Actualités">Actualités</span></h2>
+<div class="floatright"><a href="/wiki/Fichier:Faure_Gnassingb%C3%A9_2014.png" class="image" title="Faure Gnassingbé."><img alt="Faure Gnassingbé." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Faure_Gnassingb%C3%A9_2014.png/110px-Faure_Gnassingb%C3%A9_2014.png" decoding="async" width="110" height="148" data-file-width="457" data-file-height="615"></a></div>
+<ul><li><time class="nowrap date-lien" datetime="2020-02-29" data-sort-value="2020-02-29"><a href="/wiki/29_f%C3%A9vrier" title="29 février">29</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time> : <b><a href="/wiki/%C3%89lections_l%C3%A9gislatives_slovaques_de_2020" title="Élections législatives slovaques de 2020">élections législatives</a></b> en <a href="/wiki/Slovaquie" title="Slovaquie">Slovaquie</a>.</li>
+<li><time class="nowrap date-lien" datetime="2020-02-25" data-sort-value="2020-02-25"><a href="/wiki/25_f%C3%A9vrier" title="25 février">25</a></time> - <time class="nowrap date-lien" datetime="2020-02-27" data-sort-value="2020-02-27"><a href="/wiki/27_f%C3%A9vrier" title="27 février">27</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time> : l'<a href="/wiki/Arm%C3%A9e_syrienne" title="Armée syrienne">armée syrienne</a> prend <a href="/wiki/Kafranbel" title="Kafranbel">Kafranbel</a> tandis que les djihadistes de <a href="/wiki/Hayat_Tahrir_al-Cham" title="Hayat Tahrir al-Cham">Hayat Tahrir al-Cham</a> et les rebelles de l'<a href="/wiki/Arm%C3%A9e_nationale_syrienne" title="Armée nationale syrienne">Armée nationale syrienne</a> soutenus par l'<a href="/wiki/Forces_arm%C3%A9es_turques" title="Forces armées turques">armée turque</a> <b><a href="/wiki/Offensive_de_Maarat_al-Nouman_et_Saraqeb" title="Offensive de Maarat al-Nouman et Saraqeb">reprennent</a></b> <a href="/wiki/Saraqeb" title="Saraqeb">Saraqeb</a>.</li>
+<li><time class="nowrap date-lien" datetime="2020-02-22" data-sort-value="2020-02-22"><a href="/wiki/22_f%C3%A9vrier" title="22 février">22</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time> : le <a href="/wiki/Liste_des_pr%C3%A9sidents_du_Togo" title="Liste des présidents du Togo">président togolais</a> <a href="/wiki/Faure_Gnassingb%C3%A9" title="Faure Gnassingbé">Faure Gnassingbé</a> <i>(photo)</i> <b><a href="/wiki/%C3%89lection_pr%C3%A9sidentielle_togolaise_de_2020" title="Élection présidentielle togolaise de 2020">est réélu</a></b> pour un quatrième mandat.</li>
+<li><time class="nowrap date-lien" datetime="2020-02-21" data-sort-value="2020-02-21"><a href="/wiki/21_f%C3%A9vrier" title="21 février">21</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time> : <b><a href="/wiki/%C3%89lections_l%C3%A9gislatives_iraniennes_de_2020" title="Élections législatives iraniennes de 2020">élections législatives</a></b> en <a href="/wiki/Iran" title="Iran">Iran</a>, remportées par les conservateurs après exclusion de la quasi totalité des candidats réformistes.</li>
+<li><time class="nowrap date-lien" datetime="2020-02-19" data-sort-value="2020-02-19"><a href="/wiki/19_f%C3%A9vrier" title="19 février">19</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time> : <b><a href="/wiki/Fusillades_de_Hanau" class="mw-redirect" title="Fusillades de Hanau">deux fusillades</a></b> terroristes d'extrême droite à <a href="/wiki/Hanau" title="Hanau">Hanau</a>, en <a href="/wiki/Allemagne" title="Allemagne">Allemagne</a>, font au moins <span class="nowrap">11 morts</span>.</li></ul><hr style="margin:0.6em 0; background:#c2dfff;"><p><b><a href="/wiki/Cat%C3%A9gorie:%C3%89v%C3%A9nement_en_cours" title="Catégorie:Événement en cours">Événements en cours</a></b> : <style data-mw-deduplicate="TemplateStyles:r151529978">.mw-parser-output .sep-liste{font-weight:bold}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"><a href="/wiki/%C3%89pid%C3%A9mie_de_maladie_%C3%A0_coronavirus_de_2019-2020" title="Épidémie de maladie à coronavirus de 2019-2020">Épidémie de coronavirus</a> <span class="sep-liste">·</span> <a href="/wiki/Mouvement_social_contre_la_r%C3%A9forme_des_retraites_en_France_de_2019-2020" title="Mouvement social contre la réforme des retraites en France de 2019-2020">Mouvement social contre la réforme des retraites en France</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019-2020_en_Inde_contre_l%27amendement_de_la_loi_sur_la_citoyennet%C3%A9" title="Manifestations de 2019-2020 en Inde contre l'amendement de la loi sur la citoyenneté">Manifestations en Inde contre l'amendement de la loi sur la citoyenneté</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019_en_Colombie" title="Manifestations de 2019 en Colombie">Manifestations en Colombie</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019-2020_en_Iran" title="Manifestations de 2019-2020 en Iran">Manifestations en Iran</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019-2020_au_Liban" title="Manifestations de 2019-2020 au Liban">Manifestations au Liban</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019-2020_au_Chili" title="Manifestations de 2019-2020 au Chili">Manifestations au Chili</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019-2020_en_Irak" title="Manifestations de 2019-2020 en Irak">Manifestations en Irak</a> <span class="sep-liste">·</span> <a href="/wiki/Feux_de_brousse_de_2019-2020_en_Australie" title="Feux de brousse de 2019-2020 en Australie">Feux de brousse en Australie</a> <span class="sep-liste">·</span> <a href="/wiki/Manifestations_de_2019-2020_%C3%A0_Hong_Kong" title="Manifestations de 2019-2020 à Hong Kong">Manifestations à Hong Kong</a> <span class="sep-liste">·</span> <a href="/wiki/Hirak_(Alg%C3%A9rie)" title="Hirak (Algérie)">Hirak (Algérie)</a> <span class="sep-liste">·</span> <a href="/wiki/Crise_pr%C3%A9sidentielle_de_2019-2020_au_Venezuela" title="Crise présidentielle de 2019-2020 au Venezuela">Crise présidentielle au Venezuela</a> <span class="sep-liste">·</span> <a href="/wiki/%C3%89pid%C3%A9mie_de_maladie_%C3%A0_virus_Ebola_au_Kivu" title="Épidémie de maladie à virus Ebola au Kivu">Épidémie de maladie à virus Ebola au Kivu</a> <span class="sep-liste">·</span> <a href="/wiki/Guerre_civile_y%C3%A9m%C3%A9nite" title="Guerre civile yéménite">Guerre civile yéménite</a> <span class="sep-liste">·</span> <a href="/wiki/Guerre_civile_syrienne" title="Guerre civile syrienne">Guerre civile syrienne</a>  <b>–</b>  <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"><a href="/wiki/Tournoi_des_Six_Nations_f%C3%A9minin_2020" title="Tournoi des Six Nations féminin 2020">Tournoi des Six Nations féminin</a> <span class="sep-liste">·</span> <a href="/wiki/Tournoi_des_Six_Nations_2020" title="Tournoi des Six Nations 2020">Tournoi des Six Nations masculin</a> <span class="sep-liste">·</span> <a href="/wiki/Championnats_du_monde_de_la_FIBT_2020" title="Championnats du monde de la FIBT 2020">Championnats du monde de la FIBT</a> <span class="sep-liste">·</span> <a href="/wiki/Championnats_du_monde_de_cyclisme_sur_piste_2020" title="Championnats du monde de cyclisme sur piste 2020">Championnats du monde de cyclisme sur piste</a>
+</p>
+<hr style="margin:0.6em 0; background:#c2dfff;"><p><b><a href="/wiki/Cat%C3%A9gorie:Mort_r%C3%A9cente" title="Catégorie:Mort récente">Nécrologie</a></b> : <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"><a href="/wiki/Burkhard_Driest" title="Burkhard Driest">Burkhard Driest</a>, <a href="/wiki/Freeman_Dyson" title="Freeman Dyson">Freeman Dyson</a> (<time class="nowrap date-lien" datetime="2020-02-28" data-sort-value="2020-02-28"><a href="/wiki/28_f%C3%A9vrier" title="28 février">28</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time>) <span class="sep-liste">·</span> <a href="/wiki/Braian_Toledo" title="Braian Toledo">Braian Toledo</a>, <a href="/wiki/Alki_Zei" title="Alki Zei">Alki Zei</a> (<time class="nowrap date-lien" datetime="2020-02-27" data-sort-value="2020-02-27"><a href="/wiki/27_f%C3%A9vrier" title="27 février">27</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time>) <span class="sep-liste">·</span> <a href="/wiki/Betsy_Byars" title="Betsy Byars">Betsy Byars</a>, <a href="/wiki/Lionel_D" title="Lionel D">Lionel D</a>, <a href="/wiki/Sergue%C3%AF_Dorenski" title="Sergueï Dorenski">Sergueï Dorenski</a>, <a href="/wiki/Muhamed_Filipovi%C4%87" title="Muhamed Filipović">Muhamed Filipović</a>, <a href="/wiki/Isgandar_Hamidov" title="Isgandar Hamidov">Isgandar Hamidov</a>, <a href="/wiki/Kazuhisa_Hashimoto" title="Kazuhisa Hashimoto">Kazuhisa Hashimoto</a>, <a href="/wiki/Nexhmije_Hoxha" title="Nexhmije Hoxha">Nexhmije Hoxha</a>, <a href="/wiki/Michel_Leplay" title="Michel Leplay">Michel Leplay</a>, <a href="/wiki/Fran%C3%A7ois_Tajan" title="François Tajan">François Tajan</a>, <a href="/wiki/K%C3%B3stas_Vouts%C3%A1s" title="Kóstas Voutsás">Kóstas Voutsás</a> (<time class="nowrap date-lien" datetime="2020-02-26" data-sort-value="2020-02-26"><a href="/wiki/26_f%C3%A9vrier" title="26 février">26</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time>) <span class="sep-liste">·</span> <a href="/wiki/Mario_Bunge" title="Mario Bunge">Mario Bunge</a>, <a href="/wiki/Claude_Flagel" title="Claude Flagel">Claude Flagel</a>, <a href="/wiki/Dmitri_Iazov" title="Dmitri Iazov">Dmitri Iazov</a>, <a href="/wiki/Hosni_Moubarak" title="Hosni Moubarak">Hosni Moubarak</a>, <a href="/wiki/Satya_Nandan" title="Satya Nandan">Satya Nandan</a>, <a href="/wiki/Bernard_Pingaud" title="Bernard Pingaud">Bernard Pingaud</a> (<time class="nowrap date-lien" datetime="2020-02-25" data-sort-value="2020-02-25"><a href="/wiki/25_f%C3%A9vrier" title="25 février">25</a> <a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">février</a></time>)
+</p>
+<div class="liste-horizontale accueil_2017_pied">
+<ul><li><b><a href="/wiki/F%C3%A9vrier_2020" title="Février 2020">Février 2020</a></b></li>
+<li><b><a href="https://fr.wikinews.org/wiki/Accueil" class="extiw" title="n:Accueil">Wikinews</a></b></li>
+<li><b><a href="/wiki/Mod%C3%A8le:Accueil_actualit%C3%A9" title="Modèle:Accueil actualité">Modifier</a></b></li></ul></div>
+</div>
+<div class="accueil_2017_cadre">
+<h2><span id="Le_saviez-vous_.3F"></span><span class="mw-headline" id="Le_saviez-vous_?">Le saviez-vous ?</span></h2>
+<ul><li><div class="floatright"><a href="/wiki/Fichier:Vache_bretonne_Froment_(32824166760).jpg" class="image" title="Vache froment du Léon championne du concours général de Paris en 1909."><img alt="Vache froment du Léon championne du concours général de Paris en 1909." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Vache_bretonne_Froment_%2832824166760%29.jpg/117px-Vache_bretonne_Froment_%2832824166760%29.jpg" decoding="async" width="117" height="82" data-file-width="3574" data-file-height="2512"></a></div>Des <a href="/wiki/Liste_de_races_bovines" title="Liste de races bovines">races bovines</a> comme la <a href="/wiki/Bretonne_pie_noir" title="Bretonne pie noir">bretonne pie noir</a> ou la <b><a href="/wiki/Froment_du_L%C3%A9on" title="Froment du Léon">froment du Léon</a></b> <i>(illustration)</i>, dont seulement 48 femelles subsistaient dans les <span class="nowrap">années 1990</span>, ont été sauvées de l’<a href="/wiki/Extinction_des_esp%C3%A8ces" title="Extinction des espèces">extinction</a> grâce à un travail sur le <a href="/wiki/Registre_g%C3%A9n%C3%A9alogique" title="Registre généalogique">registre généalogique</a> permettant de préserver leur <a href="/wiki/Biodiversit%C3%A9" title="Biodiversité">biodiversité</a>.</li>
+<li><b><a href="/wiki/Frank_Hayes_(jockey)" title="Frank Hayes (jockey)">Frank Hayes</a></b> est à ce jour le seul <a href="/wiki/Cavalier_professionnel" title="Cavalier professionnel">jockey</a> à avoir remporté une <a href="/wiki/Sport_hippique" title="Sport hippique">course</a> après son décès.</li>
+<li>Pendant une heure, le <time class="nowrap date-lien" datetime="1942-02-28" data-sort-value="1942-02-28"><a href="/wiki/28_f%C3%A9vrier" title="28 février">28</a> <a href="/wiki/F%C3%A9vrier_1942" title="Février 1942">février</a> <a href="/wiki/1942" title="1942">1942</a></time>, le <a href="/wiki/Destroyer" title="Destroyer">destroyer</a> <a href="/wiki/United_States_Navy" title="United States Navy">américain</a> <b><a href="/wiki/USS_Edsall_(DD-219)" title="USS Edsall (DD-219)">USS <i>Edsall</i></a></b> a évité 1 335 obus de 356 <abbr class="abbr" title="millimètre">mm</abbr> et 203 <abbr class="abbr" title="millimètre">mm</abbr> tirés par deux <a href="/wiki/Croiseur_de_bataille" title="Croiseur de bataille">croiseurs de bataille</a> et deux <a href="/wiki/Croiseur_lourd" title="Croiseur lourd">croiseurs lourds</a> de la <a href="/wiki/Marine_imp%C3%A9riale_japonaise" title="Marine impériale japonaise">Marine impériale japonaise</a>.</li>
+<li><b><a href="/wiki/Adrien_Brody" title="Adrien Brody">Adrien Brody</a></b> est le seul à avoir reçu l’<a href="/wiki/Oscar_du_meilleur_acteur" title="Oscar du meilleur acteur">Oscar</a> et le <a href="/wiki/C%C3%A9sar_du_meilleur_acteur" title="César du meilleur acteur">César du meilleur acteur</a> pour <a href="/wiki/Le_Pianiste" title="Le Pianiste">un même rôle</a>.</li>
+<li>La <b><a href="/wiki/Domestication_du_chien" title="Domestication du chien">domestication du chien</a></b> est associée à une <a href="https://fr.wiktionary.org/wiki/hypersociabilit%C3%A9" class="extiw" title="wikt:hypersociabilité">hypersociabilité</a> dont la <a href="/wiki/Signature_g%C3%A9n%C3%A9tique" title="Signature génétique">signature génétique</a> présente des similarités avec celle du <a href="/wiki/Syndrome_de_Williams" title="Syndrome de Williams">syndrome de Williams</a> humain.</li>
+<li>Premier immeuble français en béton de plus de 100 <abbr class="abbr" title="mètre">m</abbr> de hauteur, la <b><a href="/wiki/Tour_Perret_(Amiens)" title="Tour Perret (Amiens)">tour Perret</a></b> d’<a href="/wiki/Amiens" title="Amiens">Amiens</a> resta presque vide pendant une décennie avant d’être réaménagée par <a href="/wiki/Fran%C3%A7ois_Spoerry" title="François Spoerry">François Spoerry</a>.</li></ul><div class="liste-horizontale accueil_2017_pied">
+<ul><li><b><a href="/wiki/Wikip%C3%A9dia:Le_saviez-vous_%3F/Archives" title="Wikipédia:Le saviez-vous ?/Archives">Archives</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Le_saviez-vous_%3F/Anecdotes_propos%C3%A9es" title="Wikipédia:Le saviez-vous ?/Anecdotes proposées">Propositions</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Le_saviez-vous_%3F/Anecdotes_%C3%A0_publier" title="Wikipédia:Le saviez-vous ?/Anecdotes à publier">Programme</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:Le_saviez-vous_%3F" title="Wikipédia:Le saviez-vous ?">Modifier</a></b></li></ul></div>
+</div>
+</div>
+<div class="portail-droite">
+
+<div class="accueil_2017_cadre">
+<h2><span id=".C3.89ph.C3.A9m.C3.A9ride_du_29_f.C3.A9vrier"></span><span class="mw-headline" id="Éphéméride_du_29_février">Éphéméride du 29 février</span></h2>
+<ul><li><b><a href="/wiki/888" title="888">888</a></b> : <a href="/wiki/Eudes_(roi_des_Francs)" title="Eudes (roi des Francs)">Eudes</a>, comte de <a href="/wiki/Paris" title="Paris">Paris</a>, est élu <a href="/wiki/Liste_des_monarques_de_France" title="Liste des monarques de France">roi</a> par ses pairs, les grands seigneurs de <a href="/wiki/Francie_occidentale" title="Francie occidentale">Francie occidentale</a>. Les <a href="/wiki/Robertiens" title="Robertiens">Robertiens</a> dont il est issu, et les <a href="/wiki/Cap%C3%A9tiens" title="Capétiens">Capétiens</a> issus des Robertiens, règneront sur la France de 888 à <a href="/wiki/1848" title="1848">1848</a>, à part de brèves interruptions.</li>
+<li><b><a href="/wiki/1768" title="1768">1768</a></b> : sous la menace de la <a href="/wiki/Russie" title="Russie">Russie</a>, les patriotes <a href="/wiki/Pologne" title="Pologne">polonais</a> se regroupent dans la <a href="/wiki/Conf%C3%A9d%C3%A9ration_de_Bar" title="Confédération de Bar">confédération de Bar</a>.</li>
+<li><b><a href="/wiki/1940" title="1940">1940</a></b> : aux <a href="/wiki/%C3%89tats-Unis" title="États-Unis">États-Unis</a>, <a href="/wiki/Hattie_McDaniel" title="Hattie McDaniel">Hattie McDaniel</a> devient la première actrice noire à obtenir un <a href="/wiki/Oscars_du_cin%C3%A9ma" title="Oscars du cinéma">Oscar</a>, pour son rôle dans le film <i><a href="/wiki/Autant_en_emporte_le_vent_(film)" title="Autant en emporte le vent (film)">Autant en emporte le vent</a></i>.</li>
+<li><b><a href="/wiki/1956" title="1956">1956</a></b> : au <a href="/wiki/Cambodge" title="Cambodge">Cambodge</a>, <a href="/wiki/Norodom_Sihanouk" title="Norodom Sihanouk">Norodom Sihanouk</a> se proclame <a href="/wiki/Premiers_ministres_du_Cambodge" class="mw-redirect" title="Premiers ministres du Cambodge">Premier ministre</a>.</li>
+<li><b><a href="/wiki/1960" title="1960">1960</a></b> : un <a href="/wiki/S%C3%A9isme_de_1960_%C3%A0_Agadir" title="Séisme de 1960 à Agadir">tremblement de terre</a> ravage <a href="/wiki/Agadir" title="Agadir">Agadir</a>, au sud du <a href="/wiki/Maroc" title="Maroc">Maroc</a>, faisant officiellement plus de 15 000 victimes.</li>
+<li><b><a href="/wiki/2012" title="2012">2012</a></b> : la <a href="/wiki/Liste_des_r%C3%A9solutions_du_Conseil_de_s%C3%A9curit%C3%A9_des_Nations_unies_adopt%C3%A9es_en_2012#R%C3%A9solutions_2033_%C3%A0_2039" title="Liste des résolutions du Conseil de sécurité des Nations unies adoptées en 2012">résolution <abbr class="abbr" title="numéro">n<sup>o</sup></abbr> 2038 du Conseil de sécurité des Nations unies</a> institue deux tribunaux internationaux, pour juger des crimes commis respectivement lors des <a href="/wiki/Guerres_de_Yougoslavie" title="Guerres de Yougoslavie">guerres de Yougoslavie</a> et du <a href="/wiki/G%C3%A9nocide_des_Tutsis_au_Rwanda" class="mw-redirect" title="Génocide des Tutsis au Rwanda">génocide des Tutsis au Rwanda</a>.</li></ul><div class="liste-horizontale accueil_2017_pied">
+<ul><li><b><a href="/wiki/29_f%C3%A9vrier" title="29 février">Éphéméride détaillée du 29 février</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:%C3%89ph%C3%A9m%C3%A9ride" title="Wikipédia:Éphéméride">Archives</a></b></li>
+<li><b><a href="/wiki/Wikip%C3%A9dia:%C3%89ph%C3%A9m%C3%A9ride/29_f%C3%A9vrier" title="Wikipédia:Éphéméride/29 février">Modifier</a></b></li></ul></div>
+</div>
+
+</div>
+</div>
+
+<p><br></p>
+
+
+
+
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Wikipédia:Accueil_principal&amp;oldid=164303621">https://fr.wikipedia.org/w/index.php?title=Wikipédia:Accueil_principal&amp;oldid=164303621</a>&#160;».</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			<a class="language-selector mw-ui-button button" href="/wiki/Sp%C3%A9cial:MobileLanguages/Wikip%C3%A9dia:Accueil_principal">Langue</a>
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-minerva-clock "></span>
+		<a class="last-modified-bar__text" href="/wiki/Sp%C3%A9cial:History/Wikip%C3%A9dia:Accueil_principal"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="">
+				<span>Afficher l’historique des modifications de cette page.</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikipedia-wordmark-fr.svg" width="116" height="18" alt="Wikipédia"/></h2>
+			<div class="license">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> sauf mention contraire.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-terms-use"><a href="//m.wikimediafoundation.org/wiki/Terms_of_Use/fr">Conditions d’utilisation</a></li><li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Confidentialité</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//fr.wikipedia.org/w/index.php?title=Wikip%C3%A9dia:Accueil_principal&amp;mobileaction=toggle_view_desktop">Désactiver la version mobile</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.375","ppvisitednodes":{"value":1218,"limit":1000000},"postexpandincludesize":{"value":67994,"limit":2097152},"templateargumentsize":{"value":5931,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":604,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  264.358      1 -total"," 25.46%   67.313      1 Modèle:Accueil_actualité"," 24.03%   63.538      1 Modèle:Accueil_actualité/Affichage"," 21.99%   58.125      1 Modèle:Lumière_sur/Aujourd'hui"," 20.88%   55.206      1 Wikipédia:Lumière_sur/Février_2020"," 19.60%   51.817      1 Modèle:Lumière_sur/Accueil"," 16.95%   44.796      1 Modèle:Lum"," 15.43%   40.787      1 Wikipédia:Lumière_sur/Renard_II_de_Choiseul"," 14.96%   39.548      1 Modèle:Lang"," 13.98%   36.948     11 Modèle:Date"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":2796217,"limit":52428800}},"cachereport":{"origin":"mw1247","timestamp":"20200229023520","ttl":3600,"transientcontent":true}}});});</script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":199,"wgHostname":"mw1275"});});</script>		</body>
+		</html>
+		

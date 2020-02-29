@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Statistical analysis of Wikimedia Foundation financial reports - Wikiversity</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgZEApAADgAAF6gxKsAAABN","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Statistical_analysis_of_Wikimedia_Foundation_financial_reports","wgTitle":"Statistical analysis of Wikimedia Foundation financial reports","wgCurRevisionId":2093885,"wgRevisionId":2093885,"wgArticleId":229633,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Research projects","Research","Wikimedia research"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Statistical_analysis_of_Wikimedia_Foundation_financial_reports","wgRelevantArticleId":229633,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikiversity","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgSiteNoticeId":"2.90"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png/1200px-%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikiversity.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikiversity (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikiversity.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikiversity Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikiversity.org/wiki/Statistical_analysis_of_Wikimedia_Foundation_financial_reports"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Statistical_analysis_of_Wikimedia_Foundation_financial_reports rootpage-Statistical_analysis_of_Wikimedia_Foundation_financial_reports skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Edismiss\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"en\" dir=\"ltr\"\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003Cdiv class=\"center\" style=\"\"\u003E\n\u003Cbig\u003E\u003Ca href=\"/wiki/Wikiversity:Why_create_an_account%3F\" class=\"mw-redirect\" title=\"Wikiversity:Why create an account?\"\u003EWhy create a Wikiversity account?\u003C/a\u003E\u003C/big\u003E\u003C/div\u003E\u003Cp class=\"mw-empty-elt\"\u003E\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Statistical analysis of Wikimedia Foundation financial reports</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikiversity</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="metadata plainlinks ambox ambox-notice" style="">
+<tbody><tr>
+<td class="mbox-image"><div style="width: 52px;">
+  <a href="/wiki/File:Wikimedia-research-blank.png" class="image"><img alt="Wikimedia-research-blank.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia-research-blank.png/40px-Wikimedia-research-blank.png" decoding="async" width="40" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia-research-blank.png/60px-Wikimedia-research-blank.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wikimedia-research-blank.png/80px-Wikimedia-research-blank.png 2x" data-file-width="599" data-file-height="591" /></a></div></td>
+<td class="mbox-text" style=""> This is a  research project at Wikiversity. </td>
+</tr>
+</tbody></table>
+<p>By <a href="/wiki/User:Lionel_Scheepmans" title="User:Lionel Scheepmans">Lionel Scheepmans</a>
+</p><p>This page is a research providing English charts about Wikimedia foundation finance evolution from 2004 to 2017.
+</p><p>All data used for this analysis came from the <a href="https://foundation.wikimedia.org/wiki/Financial_reports" class="extiw" title="wmf:Financial reports">Wikimedia foundation Web site page named "Financial reports</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> pointing to all financial statements by fiscal year. Since 19 September 2018‎, informations moved to the <a href="https://wikimediafoundation.org/about/financial-reports/" class="extiw" title="foundationsite:about/financial-reports/">new Wikimedia foundation Web site, same title of page</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>.
+</p>
+<div style="clear:both;"></div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Details_sources_for_2004_and_2005"><span class="tocnumber">1</span> <span class="toctext">Details sources for 2004 and 2005</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Financial_statement_by_fiscal_year_(June_30)_from_2004_to_2016_(Audited_by_KPMG)"><span class="tocnumber">2</span> <span class="toctext">Financial statement by fiscal year (June 30) from 2004 to 2016 (Audited by KPMG)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Spreadsheets_and_graphs"><span class="tocnumber">3</span> <span class="toctext">Spreadsheets and graphs</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Rubric_explanation"><span class="tocnumber">4</span> <span class="toctext">Rubric explanation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Awards_and_grants"><span class="tocnumber">4.1</span> <span class="toctext">Awards and grants</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_Operating_Expenses"><span class="tocnumber">4.2</span> <span class="toctext">Other Operating Expenses</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#In-kind_service_expences"><span class="tocnumber">4.3</span> <span class="toctext">In-kind service expences</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Special_Event_Expense"><span class="tocnumber">4.4</span> <span class="toctext">Special Event Expense</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Salaries_and_wages,_Internet_hosting,_Professional_service_expenses,_Depreciation_and_amortization,_Travel_and_conferences,_Donation_processing_expenses"><span class="tocnumber">4.5</span> <span class="toctext">Salaries and wages, Internet hosting, Professional service expenses, Depreciation and amortization, Travel and conferences, Donation processing expenses</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Other_graphs_about_Wikimedia_foundation_finance_available_on_Wikimedia_Commons"><span class="tocnumber">5</span> <span class="toctext">Other graphs about Wikimedia foundation finance available on Wikimedia Commons</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_sources"><span class="tocnumber">6</span> <span class="toctext">Notes and sources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Details_sources_for_2004_and_2005">Details sources for 2004 and 2005</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=1" title="Edit section: Details sources for 2004 and 2005">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2004&#160;: Income<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> - Outcome<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>2005&#160;: Income<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> - Outcome<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span id="Financial_statement_by_fiscal_year_.28June_30.29_from_2004_to_2016_.28Audited_by_KPMG.29"></span><span class="mw-headline" id="Financial_statement_by_fiscal_year_(June_30)_from_2004_to_2016_(Audited_by_KPMG)">Financial statement by fiscal year (June 30) from 2004 to 2016 (Audited by <a href="https://en.wikipedia.org/wiki/KPMG" class="extiw" title="w:KPMG">KPMG</a>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=2" title="Edit section: Financial statement by fiscal year (June 30) from 2004 to 2016 (Audited by KPMG)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2004-2005-2006<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>, 2007<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>, 2008<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>, 2009<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>, 2010<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>, 2011<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>, 2012<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>, 2013<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>, 2014<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>, 2015<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>, 2016<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>, 2017<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>, 2018<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Spreadsheets_and_graphs">Spreadsheets and graphs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=3" title="Edit section: Spreadsheets and graphs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Wikimedia Foundation's liabilities, assets, support, revenue and expenses evolution in US dollars
+</caption>
+<tbody><tr>
+<th>Rubric
+</th>
+<th>2004
+</th>
+<th>2005
+</th>
+<th>2006
+</th>
+<th>2007
+</th>
+<th>2008
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th>
+<th>2012
+</th>
+<th>2013
+</th>
+<th>2014
+</th>
+<th>2015
+</th>
+<th>2016
+</th>
+<th>2017
+</th>
+<th>2018
+</th></tr>
+<tr>
+<td>Total liabilities and net assets
+</td>
+<td>56,666
+</td>
+<td>283,487
+</td>
+<td>1,066,785
+</td>
+<td>1,696,569
+</td>
+<td>5,664,606
+</td>
+<td>8,602,135
+</td>
+<td>15,425,177
+</td>
+<td>26,165,567
+</td>
+<td>37,206,891
+</td>
+<td>48,146,893
+</td>
+<td>60,560,774
+</td>
+<td>82,753,985
+</td>
+<td>97,642,735
+</td>
+<td>120,524,697
+</td>
+<td>145,850,778
+</td></tr>
+<tr>
+<td>Total support and revenue
+</td>
+<td>80,129
+</td>
+<td>379,088
+</td>
+<td>1,508,039
+</td>
+<td>2,734,909
+</td>
+<td>5,032,981
+</td>
+<td>8,658,006
+</td>
+<td>17,979,312
+</td>
+<td>24,785,092
+</td>
+<td>38,479,665
+</td>
+<td>48,635,408
+</td>
+<td>52,804,246
+</td>
+<td>75,797,223
+</td>
+<td>81,862,724
+</td>
+<td>91,242,418
+</td>
+<td>104,505,783
+</td></tr>
+<tr>
+<td>Total expenses
+</td>
+<td>23,463
+</td>
+<td>177,670
+</td>
+<td>791,907
+</td>
+<td>2,077,843
+</td>
+<td>3,540,724
+</td>
+<td>5,617,236
+</td>
+<td>10,266,793
+</td>
+<td>17,889,794
+</td>
+<td>29,260,652
+</td>
+<td>35,704,796
+</td>
+<td>45,900,745
+</td>
+<td>52,596,782
+</td>
+<td>65,947,465
+</td>
+<td>69,136,758
+</td>
+<td>81,442,265
+</td></tr></tbody></table>
+<div class="floatleft"><a href="/wiki/File:Wikimedia_Foundation%27s_liabilities-assets,_support-revenue_and_expenses_evolution.png" class="image" title="Wikimedia Foundation&#39;s liabilities/assets, support/revenue and expenses evolution chart"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/d4/Wikimedia_Foundation%27s_liabilities-assets%2C_support-revenue_and_expenses_evolution.png" decoding="async" width="1441" height="340" data-file-width="1441" data-file-height="340" /></a></div>
+<table class="wikitable sortable">
+<caption>Wikimedia Foundation's allocation of expenses evolution in US dollars
+</caption>
+<tbody><tr>
+<th>Rubric
+</th>
+<th>2004
+</th>
+<th>2005
+</th>
+<th>2006
+</th>
+<th>2007
+</th>
+<th>2008
+</th>
+<th>2009
+</th>
+<th>2010
+</th>
+<th>2011
+</th>
+<th>2012
+</th>
+<th>2013
+</th>
+<th>2014
+</th>
+<th>2015
+</th>
+<th>2016
+</th>
+<th>2017
+</th>
+<th>2018
+</th></tr>
+<tr>
+<td>Programs / Projects
+</td>
+<td>19,892
+</td>
+<td>151,857
+</td>
+<td>569,357
+</td>
+<td>1,599,36
+</td>
+<td>2,239,524
+</td>
+<td>3,614,349
+</td>
+<td>7,850,000
+</td>
+<td>12,121,410
+</td>
+<td>19,838,516
+</td>
+<td>23,739,215
+</td>
+<td>31,472,924
+</td>
+<td>34,604,995
+</td>
+<td>47,863,596
+</td>
+<td>51,386,750
+</td>
+<td>61,019,029
+</td></tr>
+<tr>
+<td>General and administrative
+</td>
+<td>495
+</td>
+<td>13,835
+</td>
+<td>168,638
+</td>
+<td>343,308
+</td>
+<td>1,076,371
+</td>
+<td>846,859
+</td>
+<td>1,064,842
+</td>
+<td>3,626,167
+</td>
+<td>6,271,656
+</td>
+<td>8,158,421
+</td>
+<td>10,410,400
+</td>
+<td>12,469,905
+</td>
+<td>10,464,238
+</td>
+<td>9,651,030
+</td>
+<td>10,674,978
+</td></tr>
+<tr>
+<td>Fundraising
+</td>
+<td>3,076
+</td>
+<td>11,978
+</td>
+<td>53,912
+</td>
+<td>135,170
+</td>
+<td>224,829
+</td>
+<td>1,156,028
+</td>
+<td>1,351,951
+</td>
+<td>2,142,217
+</td>
+<td>3,150,480
+</td>
+<td>3,807,160
+</td>
+<td>4,017,421
+</td>
+<td>5,521,882
+</td>
+<td>7,619,631
+</td>
+<td>8,098,978
+</td>
+<td>9,748,258
+</td></tr>
+<tr>
+<td>Total
+</td>
+<td>23,463
+</td>
+<td>177,670
+</td>
+<td>791,907
+</td>
+<td>2,077,84
+</td>
+<td>3,540,724
+</td>
+<td>5,617,236
+</td>
+<td>10,266,793
+</td>
+<td>17,889,794
+</td>
+<td>29,260,652
+</td>
+<td>35,704,796
+</td>
+<td>45,900,745
+</td>
+<td>52,596,782
+</td>
+<td>65,947,465
+</td>
+<td>69,136,758
+</td>
+<td>81,442,265
+</td></tr></tbody></table>
+<div class="floatleft"><a href="/wiki/File:Wikimedia_Foundation%27s_functional_allocation_of_expenses.png" class="image" title="Wikimedia Foundation&#39;s functional allocation of expenses graph"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wikimedia_Foundation%27s_functional_allocation_of_expenses.png/1432px-Wikimedia_Foundation%27s_functional_allocation_of_expenses.png" decoding="async" width="1432" height="339" srcset="//upload.wikimedia.org/wikipedia/commons/6/6b/Wikimedia_Foundation%27s_functional_allocation_of_expenses.png 1.5x" data-file-width="1438" data-file-height="340" /></a></div>
+<p><br />
+</p>
+<table class="wikitable sortable">
+<caption>
+Wikimedia Foundation's expenses evolution by rubrics in US dollars
+</caption>
+<tbody><tr>
+<th>Rubric</th>
+<th>2004</th>
+<th>2005</th>
+<th>2006</th>
+<th>2007</th>
+<th>2008</th>
+<th>2009</th>
+<th>2010</th>
+<th>2011</th>
+<th>2012</th>
+<th>2013</th>
+<th>2014</th>
+<th>2015</th>
+<th>2016
+</th>
+<th>2017
+</th>
+<th>2018
+</th></tr>
+<tr>
+<td>Salaries and wages</td>
+<td>-
+</td>
+<td>16,930</td>
+<td>107,122</td>
+<td>415,006</td>
+<td>1,147,679</td>
+<td>2,257,621</td>
+<td>3,508,336</td>
+<td>7,312,120</td>
+<td>11,749,500</td>
+<td>15,983,542</td>
+<td>19,979,908</td>
+<td>26,049,224</td>
+<td>31,713,961
+</td>
+<td>33,731,089
+</td>
+<td>38,597,407
+</td></tr>
+<tr>
+<td>Awards and grants</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>208,662</td>
+<td>471,060</td>
+<td>2,106,752</td>
+<td>2,791,378</td>
+<td>5,704,791</td>
+<td>4,522,689</td>
+<td>11,354,612
+</td>
+<td>
+<p>11,214,959
+</p>
+</td>
+<td>13,555,339
+</td></tr>
+<tr>
+<td>Internet hosting</td>
+<td>-
+</td>
+<td>40,273</td>
+<td>189,631</td>
+<td>389,417</td>
+<td>537,204</td>
+<td>822,405</td>
+<td>1,056,703</td>
+<td>1,799,943</td>
+<td>2,486,903</td>
+<td>2,549,992</td>
+<td>2,529,483</td>
+<td>1,997,521</td>
+<td>2,069,572
+</td>
+<td>2,169,861
+</td>
+<td>2,342,130
+</td></tr>
+<tr>
+<td>In-kind service expenses</td>
+<td>8958</td>
+<td>22,493</td>
+<td>114,589</td>
+<td>316,723</td>
+<td>333,125</td>
+<td>578,279</td>
+<td>502,558</td>
+<td>349,516</td>
+<td>296,599</td>
+<td>260,909</td>
+<td>370,602</td>
+<td>235,570</td>
+<td>1,065,523
+</td>
+<td>214,581
+</td>
+<td>2,781,234
+</td></tr>
+<tr>
+<td>Donations processing expenses</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-</td>
+<td>-</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>1,505,654</td>
+<td>2,484,765</td>
+<td>3,604,682
+</td>
+<td>3,809,286
+</td>
+<td>4,512,139
+</td></tr>
+<tr>
+<td>Professional service expenses</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>7,117,519</td>
+<td>7,645,105</td>
+<td>6,033,172
+</td>
+<td>6,972,048
+</td>
+<td>7,059,832
+</td></tr>
+<tr>
+<td>Other operating expenses</td>
+<td>495</td>
+<td>18,067</td>
+<td>47,777</td>
+<td>310,334</td>
+<td>952,019</td>
+<td>1,259,161</td>
+<td>3,846,420</td>
+<td>5,761,273</td>
+<td>9,198,892</td>
+<td>10,017,121</td>
+<td>3,861,708</td>
+<td>4,449,764</td>
+<td>4,777,203
+</td>
+<td>6,307,987
+</td>
+<td>7,033,513
+</td></tr>
+<tr>
+<td>Travel and conferences</td>
+<td>293</td>
+<td>27798</td>
+<td>76,545</td>
+<td>264,361</td>
+<td>307,679</td>
+<td>223,193</td>
+<td>476,663</td>
+<td>1,159,200</td>
+<td>1,533,150</td>
+<td>1,395,013</td>
+<td>1,965,854</td>
+<td>2,289,489</td>
+<td>2,296,592
+</td>
+<td>1,954,772
+</td>
+<td>2,389,279
+</td></tr>
+<tr>
+<td>Depreciation and amortization</td>
+<td>10641</td>
+<td>41018</td>
+<td>143,394</td>
+<td>349,390</td>
+<td>233,314</td>
+<td>419,947</td>
+<td>524,341</td>
+<td>1,000,400</td>
+<td>1,888,856</td>
+<td>2,706,841</td>
+<td>2,722,007</td>
+<td>2,656,103</td>
+<td>2,720,835
+</td>
+<td>2,762,175
+</td>
+<td>2,903,910
+</td></tr>
+<tr>
+<td>Special event expense, net (Wikimania)</td>
+<td>-
+</td>
+<td>-</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>-
+</td>
+<td>70,407</td>
+<td>36,282</td>
+<td>-
+</td>
+<td>-</td>
+<td>143,219</td>
+<td>266,552</td>
+<td>311,313
+</td>
+<td>-
+</td>
+<td>267,482
+</td></tr></tbody></table>
+<p><a href="/wiki/File:Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg" class="image"><img alt="Wikimedia Foundation&#39;s expenses evolution by rubrics in US Dollars.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg/1452px-Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg.png" decoding="async" width="1452" height="683" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg/2178px-Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg/2904px-Wikimedia_Foundation%27s_expenses_evolution_by_rubrics_in_US_Dollars.svg.png 2x" data-file-width="1626" data-file-height="765" /></a></p><div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Rubric_explanation">Rubric explanation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=4" title="Edit section: Rubric explanation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Awards_and_grants">Awards and grants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=5" title="Edit section: Awards and grants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Foundation has a program of awarding grants to support chapters, affiliates, user groups, and individuals in projects that further the mission of the Foundation. Chapters are independent organizations that share the goals of the Foundation and support them within a specified geographical region. In addition to this work, which is reflected above in the awards and grants line, an overwhelming majority of the Foundation’s project activities are carried out by an international network of volunteers, whose activity is not reflected in the table above.
+</p><p>For example (unaudited):
+</p><p>Wikipedia and the other projects operated by the Foundation receive more than 15 billion page views per month, making them one of the most popular Web properties worldwide. Available in more than 290 languages, Wikipedia contains more than 51 million articles contributed by a global volunteer community. For the year ended June 30, 2017, the educational content of the Foundation’s largest project, Wikipedia, grew by approximately 4.8 million articles to approximately 45.4 million articles.
+</p><p>For the year ended June 30, 2017, volunteers added approximately 7.5 million images, movies, and sound files to the Foundation’s multimedia repository, making the total 40.6 million files.
+</p><p>Volunteers also contribute in several ways to the Foundation’s wiki software: volunteer software developers add new functionality to the code base, and volunteer language specialists add to the code base by translating the wiki interface into different languages. During the year ended June 30, 2017, there were 41,742 commits merged, through the efforts of approximately 403 authors/contributors 
+</p><p>During the year ended June 30, 2016, the Foundation entered into an agreement with the Tides Foundation to establish the Wikimedia Endowment as a Collective Action Fund to act as a permanent safekeeping fund to generate income to ensure abase level of support for the Wikimedia projects in perpetuity. The Endowment is independent from the Foundation. The Foundation provided irrevocable grants in the amounts of $5 million on June 29, 2016 and $5 million on June 27, 2017 to the <a href="https://en.wikipedia.org/wiki/Tides_(organization)" class="extiw" title="w:Tides (organization)">Tides Foundation</a> for the purpose of the Wikimedia Endowment.
+</p>
+<h3><span class="mw-headline" id="Other_Operating_Expenses">Other Operating Expenses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=6" title="Edit section: Other Operating Expenses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other operating expenses primarily include facility expenses, funding of the Wikidata project, staff related expenses, insurance and personal property tax expenses, and other general administrative expenses.
+</p>
+<h3><span class="mw-headline" id="In-kind_service_expences">In-kind service expences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=7" title="Edit section: In-kind service expences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In-kind service revenue and expenses recorded on the statements of activities consist of contributed legal services, engineering services, and internet hosting.
+</p>
+<h3><span class="mw-headline" id="Special_Event_Expense">Special Event Expense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=8" title="Edit section: Special Event Expense">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Special event expense, net includes costs for the annual Wikimania Conference, such as venue rental and catering services, net of sponsorship income and registration fees.
+</p>
+<h3><span id="Salaries_and_wages.2C_Internet_hosting.2C_Professional_service_expenses.2C_Depreciation_and_amortization.2C_Travel_and_conferences.2C_Donation_processing_expenses"></span><span class="mw-headline" id="Salaries_and_wages,_Internet_hosting,_Professional_service_expenses,_Depreciation_and_amortization,_Travel_and_conferences,_Donation_processing_expenses">Salaries and wages, Internet hosting, Professional service expenses, Depreciation and amortization, Travel and conferences, Donation processing expenses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=9" title="Edit section: Salaries and wages, Internet hosting, Professional service expenses, Depreciation and amortization, Travel and conferences, Donation processing expenses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These rubrics are not explained on financial statements.
+</p>
+<h2><span class="mw-headline" id="Other_graphs_about_Wikimedia_foundation_finance_available_on_Wikimedia_Commons">Other graphs about Wikimedia foundation finance available on Wikimedia Commons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=10" title="Edit section: Other graphs about Wikimedia foundation finance available on Wikimedia Commons">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Wikimedia_Foundation_financial_development_multilanguage.svg" class="image"><img alt="Wikimedia Foundation financial development multilanguage.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wikimedia_Foundation_financial_development_multilanguage.svg/65px-Wikimedia_Foundation_financial_development_multilanguage.svg.png" decoding="async" width="65" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wikimedia_Foundation_financial_development_multilanguage.svg/98px-Wikimedia_Foundation_financial_development_multilanguage.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Wikimedia_Foundation_financial_development_multilanguage.svg/130px-Wikimedia_Foundation_financial_development_multilanguage.svg.png 2x" data-file-width="512" data-file-height="941" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:32px auto;"><a href="/wiki/File:%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png" class="image"><img alt="Évolution des dépenses de la fondation Wikimédia.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png/120px-%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png" decoding="async" width="120" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png/180px-%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png/240px-%C3%89volution_des_d%C3%A9penses_de_la_fondation_Wikim%C3%A9dia.png 2x" data-file-width="1527" data-file-height="1089" /></a></div></div>
+			<div class="gallerytext">
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Notes_and_sources">Notes and sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit&amp;section=11" title="Edit section: Notes and sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wikimediafoundation.org/wiki/Financial_reports">"Financial reports - Wikimedia Foundation"</a>. <i>wikimediafoundation.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-06-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wikimediafoundation.org&amp;rft.atitle=Financial+reports+-+Wikimedia+Foundation&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fwiki%2FFinancial_reports&amp;rfr_id=info%3Asid%2Fen.wikiversity.org%3AStatistical+analysis+of+Wikimedia+Foundation+financial+reports" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r2122900">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wikimediafoundation.org/about/financial-reports/">"Financial Reports"</a>. <i>Wikimedia Foundation</i>. 2018-06-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-10-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wikimedia+Foundation&amp;rft.atitle=Financial+Reports&amp;rft.date=2018-06-13&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fabout%2Ffinancial-reports%2F&amp;rfr_id=info%3Asid%2Fen.wikiversity.org%3AStatistical+analysis+of+Wikimedia+Foundation+financial+reports" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r2122900"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wikimediafoundation.org/wiki/Fund_drives/2004/Q4">"Fund drives/2004/Q4 - Wikimedia Foundation"</a>. <i>wikimediafoundation.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wikimediafoundation.org&amp;rft.atitle=Fund+drives%2F2004%2FQ4+-+Wikimedia+Foundation&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fwiki%2FFund_drives%2F2004%2FQ4&amp;rfr_id=info%3Asid%2Fen.wikiversity.org%3AStatistical+analysis+of+Wikimedia+Foundation+financial+reports" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r2122900"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Wikimedia_budget/Q4">"Wikimedia budget/Q4 - Meta"</a>. <i>meta.wikimedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=meta.wikimedia.org&amp;rft.atitle=Wikimedia+budget%2FQ4+-+Meta&amp;rft_id=https%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FWikimedia_budget%2FQ4&amp;rfr_id=info%3Asid%2Fen.wikiversity.org%3AStatistical+analysis+of+Wikimedia+Foundation+financial+reports" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r2122900"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wikimediafoundation.org/wiki/Fund_drives/2005">"Fund drives/2005 - Wikimedia Foundation"</a>. <i>wikimediafoundation.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wikimediafoundation.org&amp;rft.atitle=Fund+drives%2F2005+-+Wikimedia+Foundation&amp;rft_id=https%3A%2F%2Fwikimediafoundation.org%2Fwiki%2FFund_drives%2F2005&amp;rfr_id=info%3Asid%2Fen.wikiversity.org%3AStatistical+analysis+of+Wikimedia+Foundation+financial+reports" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r2122900"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://meta.wikimedia.org/wiki/Wikimedia_budget/2005/Q4">"Wikimedia budget/2005/Q4 - Meta"</a>. <i>meta.wikimedia.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=meta.wikimedia.org&amp;rft.atitle=Wikimedia+budget%2F2005%2FQ4+-+Meta&amp;rft_id=https%3A%2F%2Fmeta.wikimedia.org%2Fwiki%2FWikimedia_budget%2F2005%2FQ4&amp;rfr_id=info%3Asid%2Fen.wikiversity.org%3AStatistical+analysis+of+Wikimedia+Foundation+financial+reports" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r2122900"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/2/28/Wikimedia_2006_fs.pdf">https://upload.wikimedia.org/wikipedia/foundation/2/28/Wikimedia_2006_fs.pdf</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/4/49/Wikimedia_2007_fs.pdf">https://upload.wikimedia.org/wikipedia/foundation/4/49/Wikimedia_2007_fs.pdf</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/4/4c/Wikimedia_20072008_fs.pdf">https://upload.wikimedia.org/wikipedia/foundation/4/4c/Wikimedia_20072008_fs.pdf</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/4/4f/FINAL_08_09From_KPMG.pdf">https://upload.wikimedia.org/wikipedia/foundation/4/4f/FINAL_08_09From_KPMG.pdf</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/c/cc/FINAL_09_10From_KPMG.pdf">https://upload.wikimedia.org/wikipedia/foundation/c/cc/FINAL_09_10From_KPMG.pdf</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/a/ac/FINAL_10_11From_KPMG.pdf">https://upload.wikimedia.org/wikipedia/foundation/a/ac/FINAL_10_11From_KPMG.pdf</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/0/09/FINAL_11_12From_KPMG.pdf">https://upload.wikimedia.org/wikipedia/foundation/0/09/FINAL_11_12From_KPMG.pdf</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/6/6e/FINAL_12_13From_KPMG.pdf">https://upload.wikimedia.org/wikipedia/foundation/6/6e/FINAL_12_13From_KPMG.pdf</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/b/bf/Audit_Report_-_FY_13-14_-_Final_v2.pdf">https://upload.wikimedia.org/wikipedia/foundation/b/bf/Audit_Report_-_FY_13-14_-_Final_v2.pdf</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/0/0b/Audit_Report_-_FY_14-15_-_Final.PDF">https://upload.wikimedia.org/wikipedia/foundation/0/0b/Audit_Report_-_FY_14-15_-_Final.PDF</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/4/43/Wikimedia_Foundation_Audit_Report_-_FY15-16.pdf">https://upload.wikimedia.org/wikipedia/foundation/4/43/Wikimedia_Foundation_Audit_Report_-_FY15-16.pdf</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/d/da/Wikimedia_Foundation_Audit_Report_-_FY16-17.pdf">https://upload.wikimedia.org/wikipedia/foundation/d/da/Wikimedia_Foundation_Audit_Report_-_FY16-17.pdf</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a class="external free" href="https://upload.wikimedia.org/wikipedia/foundation/6/60/FY17-18_-_Independent_Auditors%27_Report.pdf">https://upload.wikimedia.org/wikipedia/foundation/6/60/FY17-18_-_Independent_Auditors%27_Report.pdf</a></span>
+</li>
+</ol>
+<!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20200215001041
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.204 seconds
+Real time usage: 0.245 seconds
+Preprocessor visited node count: 595/1000000
+Post‐expand include size: 9535/2097152 bytes
+Template argument size: 280/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15962/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 2.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  216.071      1 -total
+ 58.47%  126.336      6 Template:Cite_web
+ 11.32%   24.459      1 Template:Research_project
+  7.64%   16.518      1 Template:Ambox
+  4.62%    9.972      1 Template:Ambox/core
+  1.71%    3.684      1 Template:Namespace_category
+  1.39%    3.014      2 Template:Clear
+-->
+
+<!-- Saved in parser cache with key enwikiversity:pcache:idhash:229633-0!canonical and timestamp 20200215001041 and revision id 2093885
+ -->
+</div><noscript><img src="//en.wikiversity.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikiversity.org/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;oldid=2093885">https://en.wikiversity.org/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;oldid=2093885</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Research_projects" title="Category:Research projects">Research projects</a></li><li><a href="/wiki/Category:Research" title="Category:Research">Research</a></li><li><a href="/wiki/Category:Wikimedia_research" title="Category:Wikimedia research">Wikimedia research</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Statistical+analysis+of+Wikimedia+Foundation+financial+reports" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Statistical+analysis+of+Wikimedia+Foundation+financial+reports" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Statistical_analysis_of_Wikimedia_Foundation_financial_reports" title="View the content page [c]" accesskey="c">Resource</a></li><li id="ca-talk"><a href="/wiki/Talk:Statistical_analysis_of_Wikimedia_Foundation_financial_reports" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discuss</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Statistical_analysis_of_Wikimedia_Foundation_financial_reports">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikiversity" title="Search Wikiversity [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wikiversity:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Navigation"  aria-labelledby="p-Navigation-label">
+	<h3  id="p-Navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-Main-Page"><a href="/wiki/Wikiversity:Main_Page">Main Page</a></li><li id="n-Browse"><a href="/wiki/Wikiversity:Browse">Browse</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-Guided-tours"><a href="/wiki/Help:Guides">Guided tours</a></li><li id="n-Random"><a href="/wiki/Special:RandomRootpage">Random</a></li><li id="n-help"><a href="/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikiversity.org&amp;uselang=en" title="Support us">Donate</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Community"  aria-labelledby="p-Community-label">
+	<h3  id="p-Community-label">
+		Community
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Wikiversity:Community_Portal" title="About the project, what you can do, where to find things">Portal</a></li><li id="n-Colloquium"><a href="/wiki/Wikiversity:Colloquium">Colloquium</a></li><li id="n-currentevents"><a href="/wiki/Wikiversity:News" title="Find background information on current events">News</a></li><li id="n-Projects"><a href="/wiki/Wikiversity:Community_projects">Projects</a></li><li id="n-Sandbox"><a href="/wiki/Wikiversity:Sandbox">Sandbox</a></li><li id="n-Help-desk"><a href="/wiki/Wikiversity:Help_desk">Help desk</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Statistical_analysis_of_Wikimedia_Foundation_financial_reports" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Statistical_analysis_of_Wikimedia_Foundation_financial_reports" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;oldid=2093885" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;id=2093885" title="Information on how to cite this page">Cite this page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:NewItem?site=enwikiversity&amp;page=Statistical+analysis+of+Wikimedia+Foundation+financial+reports" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Wikimedia projects"  aria-labelledby="p-Wikimedia projects-label">
+	<h3  id="p-Wikimedia projects-label">
+		Wikimedia projects
+	</h3>
+	<div class="body">
+		<ul><li id="n-Commons"><a href="https://commons.wikimedia.org/wiki/Main_Page">Commons</a></li><li id="n-Wikibooks"><a href="https://en.wikibooks.org/wiki/Project:Main_Page">Wikibooks</a></li><li id="n-Wikipedia"><a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a></li><li id="n-Wiktionary"><a href="https://en.wiktionary.org/wiki/Project:Main_Page">Wiktionary</a></li><li id="n-Wikiquote"><a href="https://en.wikiquote.org/wiki/Main_Page">Wikiquote</a></li><li id="n-Wikisource"><a href="https://en.wikisource.org/wiki/Main_Page">Wikisource</a></li><li id="n-Wikinews"><a href="https://en.wikinews.org/wiki/Main_Page">Wikinews</a></li><li id="n-Wikispecies"><a href="https://species.wikimedia.org/wiki/Main_Page">Wikispecies</a></li><li id="n-Wikivoyage"><a href="https://en.wikivoyage.org/wiki/Main_Page">Wikivoyage</a></li><li id="n-Meta-Wiki"><a href="https://meta.wikimedia.org/wiki/Main_Page">Meta-Wiki</a></li><li id="n-Outreach"><a href="https://outreach.wikimedia.org/wiki/Main_Page">Outreach</a></li><li id="n-MediaWiki"><a href="https://www.mediawiki.org/wiki/MediaWiki">MediaWiki</a></li><li id="n-Wikimania"><a href="https://meta.wikimedia.org/wiki/Wikimania">Wikimania</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Statistical+analysis+of+Wikimedia+Foundation+financial+reports">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Statistical+analysis+of+Wikimedia+Foundation+financial+reports&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 17 November 2019, at 21:36.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikiversity:About" class="mw-redirect" title="Wikiversity:About">About Wikiversity</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikiversity:General_disclaimer" title="Wikiversity:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikiversity.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikiversity.org/w/index.php?title=Statistical_analysis_of_Wikimedia_Foundation_financial_reports&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.245","ppvisitednodes":{"value":595,"limit":1000000},"postexpandincludesize":{"value":9535,"limit":2097152},"templateargumentsize":{"value":280,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15962,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  216.071      1 -total"," 58.47%  126.336      6 Template:Cite_web"," 11.32%   24.459      1 Template:Research_project","  7.64%   16.518      1 Template:Ambox","  4.62%    9.972      1 Template:Ambox/core","  1.71%    3.684      1 Template:Namespace_category","  1.39%    3.014      2 Template:Clear"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":2548343,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20200215001041","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":118,"wgHostname":"mw1261"});});</script></body></html>

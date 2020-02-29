@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljPIgpAMNUAA0c0YKgAAAAK","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=y"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"y","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='y' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=xindiki" title="Especial:Todas">Página anterior (xindiki)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=yapuchawi" title="Especial:Todas">Página siguiente (yapuchawi)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/y" title="y">y</a></li>
+<li><a href="/wiki/y%27ad" title="y&#039;ad">y&#039;ad</a></li>
+<li><a href="/wiki/y%27are" title="y&#039;are">y&#039;are</a></li>
+<li><a href="/wiki/y%27ave" title="y&#039;ave">y&#039;ave</a></li>
+<li><a href="/wiki/y%27ere" title="y&#039;ere">y&#039;ere</a></li>
+<li><a href="/wiki/y%27know" title="y&#039;know">y&#039;know</a></li>
+<li class="allpagesredirect"><a href="/wiki/y%27omfo%CC%B1" class="mw-redirect" title="y&#039;omfo̱">y&#039;omfo̱</a></li>
+<li><a href="/wiki/y_a" title="y a">y a</a></li>
+<li><a href="/wiki/y_col." title="y col.">y col.</a></li>
+<li><a href="/wiki/y_compris" title="y compris">y compris</a></li>
+<li><a href="/wiki/y_dale_con_que_va_a_llover" title="y dale con que va a llover">y dale con que va a llover</a></li>
+<li><a href="/wiki/y_la_cacha_de_la_espada" title="y la cacha de la espada">y la cacha de la espada</a></li>
+<li><a href="/wiki/y_pa%27%C5%A9" title="y pa&#039;ũ">y pa&#039;ũ</a></li>
+<li><a href="/wiki/ya" title="ya">ya</a></li>
+<li class="allpagesredirect"><a href="/wiki/ya%27" class="mw-redirect" title="ya&#039;">ya&#039;</a></li>
+<li><a href="/wiki/ya%27ax_k%27oxmal" title="ya&#039;ax k&#039;oxmal">ya&#039;ax k&#039;oxmal</a></li>
+<li><a href="/wiki/ya%27axkach" title="ya&#039;axkach">ya&#039;axkach</a></li>
+<li class="allpagesredirect"><a href="/wiki/ya%27axp%C3%A1ak%27am" class="mw-redirect" title="ya&#039;axpáak&#039;am">ya&#039;axpáak&#039;am</a></li>
+<li><a href="/wiki/ya%27ya" title="ya&#039;ya">ya&#039;ya</a></li>
+<li><a href="/wiki/ya_no_estar_para_esos_trotes" title="ya no estar para esos trotes">ya no estar para esos trotes</a></li>
+<li><a href="/wiki/ya_que" title="ya que">ya que</a></li>
+<li><a href="/wiki/yaa" title="yaa">yaa</a></li>
+<li><a href="/wiki/yaab" title="yaab">yaab</a></li>
+<li><a href="/wiki/yaach%27" title="yaach&#039;">yaach&#039;</a></li>
+<li><a href="/wiki/yaac%C3%B6" title="yaacö">yaacö</a></li>
+<li><a href="/wiki/yaaj" title="yaaj">yaaj</a></li>
+<li><a href="/wiki/yaaj_%C3%B3olal" title="yaaj óolal">yaaj óolal</a></li>
+<li><a href="/wiki/yaak%E2%80%99" title="yaak’">yaak’</a></li>
+<li><a href="/wiki/yaam" title="yaam">yaam</a></li>
+<li><a href="/wiki/yaat_smi%27" title="yaat smi&#039;">yaat smi&#039;</a></li>
+<li><a href="/wiki/yaata" title="yaata">yaata</a></li>
+<li><a href="/wiki/yaau_yuu_jooy" title="yaau yuu jooy">yaau yuu jooy</a></li>
+<li><a href="/wiki/yaay" title="yaay">yaay</a></li>
+<li><a href="/wiki/yaaya" title="yaaya">yaaya</a></li>
+<li><a href="/wiki/yab%27" title="yab&#039;">yab&#039;</a></li>
+<li><a href="/wiki/yab%27il" title="yab&#039;il">yab&#039;il</a></li>
+<li><a href="/wiki/yabi" title="yabi">yabi</a></li>
+<li><a href="/wiki/yabloko" title="yabloko">yabloko</a></li>
+<li><a href="/wiki/yabunas" title="yabunas">yabunas</a></li>
+<li><a href="/wiki/yabu%CC%B1" title="yabu̱">yabu̱</a></li>
+<li><a href="/wiki/yacahcuitlatl" title="yacahcuitlatl">yacahcuitlatl</a></li>
+<li><a href="/wiki/yacahtli" title="yacahtli">yacahtli</a></li>
+<li><a href="/wiki/yacami" title="yacami">yacami</a></li>
+<li><a href="/wiki/yacamis" title="yacamis">yacamis</a></li>
+<li><a href="/wiki/yacam%C3%AD" title="yacamí">yacamí</a></li>
+<li><a href="/wiki/yacam%C3%ADes" title="yacamíes">yacamíes</a></li>
+<li><a href="/wiki/yacam%C3%ADs" title="yacamís">yacamís</a></li>
+<li><a href="/wiki/yacanatli" title="yacanatli">yacanatli</a></li>
+<li><a href="/wiki/yacapatlahuatl" title="yacapatlahuatl">yacapatlahuatl</a></li>
+<li><a href="/wiki/yacapitztli" title="yacapitztli">yacapitztli</a></li>
+<li><a href="/wiki/yacaquiquin" title="yacaquiquin">yacaquiquin</a></li>
+<li><a href="/wiki/yacar%C3%A9" title="yacaré">yacaré</a></li>
+<li><a href="/wiki/yacatl" title="yacatl">yacatl</a></li>
+<li><a href="/wiki/yace" title="yace">yace</a></li>
+<li><a href="/wiki/yaced" title="yaced">yaced</a></li>
+<li><a href="/wiki/yacemos" title="yacemos">yacemos</a></li>
+<li><a href="/wiki/yacen" title="yacen">yacen</a></li>
+<li><a href="/wiki/yacentes" title="yacentes">yacentes</a></li>
+<li><a href="/wiki/yacer" title="yacer">yacer</a></li>
+<li><a href="/wiki/yaceremos" title="yaceremos">yaceremos</a></li>
+<li><a href="/wiki/yacer%C3%A1" title="yacerá">yacerá</a></li>
+<li><a href="/wiki/yacer%C3%A1n" title="yacerán">yacerán</a></li>
+<li><a href="/wiki/yacer%C3%A1s" title="yacerás">yacerás</a></li>
+<li><a href="/wiki/yacer%C3%A9" title="yaceré">yaceré</a></li>
+<li><a href="/wiki/yacer%C3%A9is" title="yaceréis">yaceréis</a></li>
+<li><a href="/wiki/yacer%C3%ADa" title="yacería">yacería</a></li>
+<li><a href="/wiki/yacer%C3%ADais" title="yaceríais">yaceríais</a></li>
+<li><a href="/wiki/yacer%C3%ADamos" title="yaceríamos">yaceríamos</a></li>
+<li><a href="/wiki/yacer%C3%ADan" title="yacerían">yacerían</a></li>
+<li><a href="/wiki/yacer%C3%ADas" title="yacerías">yacerías</a></li>
+<li><a href="/wiki/yaces" title="yaces">yaces</a></li>
+<li><a href="/wiki/yachachiq" title="yachachiq">yachachiq</a></li>
+<li><a href="/wiki/yachakuy" title="yachakuy">yachakuy</a></li>
+<li><a href="/wiki/yachasqa" title="yachasqa">yachasqa</a></li>
+<li><a href="/wiki/yachay" title="yachay">yachay</a></li>
+<li><a href="/wiki/yachay_suntur" title="yachay suntur">yachay suntur</a></li>
+<li><a href="/wiki/yachay_wasi" title="yachay wasi">yachay wasi</a></li>
+<li><a href="/wiki/yachaywasi" title="yachaywasi">yachaywasi</a></li>
+<li><a href="/wiki/yacht" title="yacht">yacht</a></li>
+<li><a href="/wiki/yacida" title="yacida">yacida</a></li>
+<li><a href="/wiki/yacidas" title="yacidas">yacidas</a></li>
+<li><a href="/wiki/yacido" title="yacido">yacido</a></li>
+<li><a href="/wiki/yacidos" title="yacidos">yacidos</a></li>
+<li><a href="/wiki/yaciendo" title="yaciendo">yaciendo</a></li>
+<li><a href="/wiki/yacientes" title="yacientes">yacientes</a></li>
+<li><a href="/wiki/yaciera" title="yaciera">yaciera</a></li>
+<li><a href="/wiki/yacierais" title="yacierais">yacierais</a></li>
+<li><a href="/wiki/yacieran" title="yacieran">yacieran</a></li>
+<li><a href="/wiki/yacieras" title="yacieras">yacieras</a></li>
+<li><a href="/wiki/yaciere" title="yaciere">yaciere</a></li>
+<li><a href="/wiki/yaciereis" title="yaciereis">yaciereis</a></li>
+<li><a href="/wiki/yacieren" title="yacieren">yacieren</a></li>
+<li><a href="/wiki/yacieres" title="yacieres">yacieres</a></li>
+<li><a href="/wiki/yacieron" title="yacieron">yacieron</a></li>
+<li><a href="/wiki/yaciese" title="yaciese">yaciese</a></li>
+<li><a href="/wiki/yacieseis" title="yacieseis">yacieseis</a></li>
+<li><a href="/wiki/yaciesen" title="yaciesen">yaciesen</a></li>
+<li><a href="/wiki/yacieses" title="yacieses">yacieses</a></li>
+<li><a href="/wiki/yacija" title="yacija">yacija</a></li>
+<li><a href="/wiki/yacijas" title="yacijas">yacijas</a></li>
+<li><a href="/wiki/yacimiento" title="yacimiento">yacimiento</a></li>
+<li><a href="/wiki/yacimientos" title="yacimientos">yacimientos</a></li>
+<li><a href="/wiki/yacimos" title="yacimos">yacimos</a></li>
+<li><a href="/wiki/yacios" title="yacios">yacios</a></li>
+<li><a href="/wiki/yaciste" title="yaciste">yaciste</a></li>
+<li><a href="/wiki/yacisteis" title="yacisteis">yacisteis</a></li>
+<li><a href="/wiki/yaci%C3%A9ramos" title="yaciéramos">yaciéramos</a></li>
+<li><a href="/wiki/yaci%C3%A9remos" title="yaciéremos">yaciéremos</a></li>
+<li><a href="/wiki/yaci%C3%A9semos" title="yaciésemos">yaciésemos</a></li>
+<li><a href="/wiki/yaci%C3%B3" title="yació">yació</a></li>
+<li><a href="/wiki/yack" title="yack">yack</a></li>
+<li><a href="/wiki/yacti" title="yacti">yacti</a></li>
+<li><a href="/wiki/yacturas" title="yacturas">yacturas</a></li>
+<li><a href="/wiki/yacu" title="yacu">yacu</a></li>
+<li><a href="/wiki/yac%C3%A9" title="yacé">yacé</a></li>
+<li><a href="/wiki/yac%C3%A9is" title="yacéis">yacéis</a></li>
+<li><a href="/wiki/yac%C3%A9s" title="yacés">yacés</a></li>
+<li><a href="/wiki/yac%C3%AD" title="yací">yací</a></li>
+<li><a href="/wiki/yac%C3%ADa" title="yacía">yacía</a></li>
+<li><a href="/wiki/yac%C3%ADais" title="yacíais">yacíais</a></li>
+<li><a href="/wiki/yac%C3%ADamos" title="yacíamos">yacíamos</a></li>
+<li><a href="/wiki/yac%C3%ADan" title="yacían">yacían</a></li>
+<li><a href="/wiki/yac%C3%ADas" title="yacías">yacías</a></li>
+<li><a href="/wiki/yad" title="yad">yad</a></li>
+<li><a href="/wiki/yadid" title="yadid">yadid</a></li>
+<li><a href="/wiki/yaga" title="yaga">yaga</a></li>
+<li><a href="/wiki/yagamos" title="yagamos">yagamos</a></li>
+<li><a href="/wiki/yagan" title="yagan">yagan</a></li>
+<li><a href="/wiki/yagas" title="yagas">yagas</a></li>
+<li><a href="/wiki/yago" title="yago">yago</a></li>
+<li><a href="/wiki/yagrumo" title="yagrumo">yagrumo</a></li>
+<li><a href="/wiki/yagrumos" title="yagrumos">yagrumos</a></li>
+<li><a href="/wiki/yaguan%C3%A9" title="yaguané">yaguané</a></li>
+<li><a href="/wiki/yaguar" title="yaguar">yaguar</a></li>
+<li><a href="/wiki/yaguaret%C3%A9" title="yaguareté">yaguareté</a></li>
+<li><a href="/wiki/yaguasa" title="yaguasa">yaguasa</a></li>
+<li><a href="/wiki/yaguasas" title="yaguasas">yaguasas</a></li>
+<li><a href="/wiki/yag%C3%A1is" title="yagáis">yagáis</a></li>
+<li><a href="/wiki/yag%C3%A1n" title="yagán">yagán</a></li>
+<li><a href="/wiki/yag%C3%A1s" title="yagás">yagás</a></li>
+<li><a href="/wiki/yaha" title="yaha">yaha</a></li>
+<li><a href="/wiki/yahuitl" title="yahuitl">yahuitl</a></li>
+<li><a href="/wiki/yai" title="yai">yai</a></li>
+<li><a href="/wiki/yaicuajes" title="yaicuajes">yaicuajes</a></li>
+<li><a href="/wiki/yaiij" title="yaiij">yaiij</a></li>
+<li><a href="/wiki/yait_eljama" title="yait eljama">yait eljama</a></li>
+<li><a href="/wiki/yaix" title="yaix">yaix</a></li>
+<li><a href="/wiki/yajan%C3%AFk" title="yajanïk">yajanïk</a></li>
+<li><a href="/wiki/yajati" title="yajati">yajati</a></li>
+<li><a href="/wiki/yak" title="yak">yak</a></li>
+<li><a href="/wiki/yakakol" title="yakakol">yakakol</a></li>
+<li><a href="/wiki/yakakuitlatl" title="yakakuitlatl">yakakuitlatl</a></li>
+<li><a href="/wiki/yakat" title="yakat">yakat</a></li>
+<li><a href="/wiki/yakatsoli" title="yakatsoli">yakatsoli</a></li>
+<li><a href="/wiki/yakatzolli" title="yakatzolli">yakatzolli</a></li>
+<li><a href="/wiki/yakaz%C3%BAl" title="yakazúl">yakazúl</a></li>
+<li><a href="/wiki/yakimono" title="yakimono">yakimono</a></li>
+<li><a href="/wiki/yakimonos" title="yakimonos">yakimonos</a></li>
+<li><a href="/wiki/yaks" title="yaks">yaks</a></li>
+<li><a href="/wiki/yaku" title="yaku">yaku</a></li>
+<li><a href="/wiki/yaku_hurquna" title="yaku hurquna">yaku hurquna</a></li>
+<li><a href="/wiki/yaku_mishi" title="yaku mishi">yaku mishi</a></li>
+<li><a href="/wiki/yaku_puma" title="yaku puma">yaku puma</a></li>
+<li><a href="/wiki/yaku_t%27impuchina" title="yaku t&#039;impuchina">yaku t&#039;impuchina</a></li>
+<li><a href="/wiki/yaku_waka" title="yaku waka">yaku waka</a></li>
+<li><a href="/wiki/yaku_wakra" title="yaku wakra">yaku wakra</a></li>
+<li><a href="/wiki/yakuin" title="yakuin">yakuin</a></li>
+<li><a href="/wiki/yakuza" title="yakuza">yakuza</a></li>
+<li><a href="/wiki/yaku%C3%ACn" title="yakuìn">yakuìn</a></li>
+<li><a href="/wiki/yak%C3%ADri" title="yakíri">yakíri</a></li>
+<li><a href="/wiki/yak%C3%BAm" title="yakúm">yakúm</a></li>
+<li><a href="/wiki/yal" title="yal">yal</a></li>
+<li><a href="/wiki/yal_chan" title="yal chan">yal chan</a></li>
+<li><a href="/wiki/yal_wakax" title="yal wakax">yal wakax</a></li>
+<li><a href="/wiki/yala" title="yala">yala</a></li>
+<li><a href="/wiki/yalan" title="yalan">yalan</a></li>
+<li><a href="/wiki/yalap" title="yalap">yalap</a></li>
+<li><a href="/wiki/yalbanak" title="yalbanak">yalbanak</a></li>
+<li><a href="/wiki/yalhuah" title="yalhuah">yalhuah</a></li>
+<li><a href="/wiki/yaliyaal_io%27" title="yaliyaal io&#039;">yaliyaal io&#039;</a></li>
+<li><a href="/wiki/yall" title="yall">yall</a></li>
+<li><a href="/wiki/yalowa" title="yalowa">yalowa</a></li>
+<li><a href="/wiki/yalu" title="yalu">yalu</a></li>
+<li><a href="/wiki/yalwa" title="yalwa">yalwa</a></li>
+<li><a href="/wiki/yam" title="yam">yam</a></li>
+<li><a href="/wiki/yamanik" title="yamanik">yamanik</a></li>
+<li><a href="/wiki/yamantik" title="yamantik">yamantik</a></li>
+<li><a href="/wiki/yamaos" title="yamaos">yamaos</a></li>
+<li><a href="/wiki/yambo" title="yambo">yambo</a></li>
+<li><a href="/wiki/yambos" title="yambos">yambos</a></li>
+<li><a href="/wiki/yamb%C3%BA" title="yambú">yambú</a></li>
+<li><a href="/wiki/yamin" title="yamin">yamin</a></li>
+<li><a href="/wiki/yam%C4%ABn" title="yamīn">yamīn</a></li>
+<li><a href="/wiki/yana" title="yana">yana</a></li>
+<li><a href="/wiki/yana_runa" title="yana runa">yana runa</a></li>
+<li><a href="/wiki/yana_ukumari" title="yana ukumari">yana ukumari</a></li>
+<li><a href="/wiki/yanacona" title="yanacona">yanacona</a></li>
+<li><a href="/wiki/yanakuy" title="yanakuy">yanakuy</a></li>
+<li><a href="/wiki/yanal" title="yanal">yanal</a></li>
+<li><a href="/wiki/yanapa" title="yanapa">yanapa</a></li>
+<li><a href="/wiki/yanapay" title="yanapay">yanapay</a></li>
+<li><a href="/wiki/yanasu" title="yanasu">yanasu</a></li>
+<li><a href="/wiki/yanba_lu%27um" title="yanba lu&#039;um">yanba lu&#039;um</a></li>
+<li><a href="/wiki/yancuic" title="yancuic">yancuic</a></li>
+<li><a href="/wiki/yancuic_xihuitl" title="yancuic xihuitl">yancuic xihuitl</a></li>
+<li><a href="/wiki/yancu%C4%ABc" title="yancuīc">yancuīc</a></li>
+<li><a href="/wiki/yane" title="yane">yane</a></li>
+<li><a href="/wiki/yaniqueque" title="yaniqueque">yaniqueque</a></li>
+<li><a href="/wiki/yank" title="yank">yank</a></li>
+<li><a href="/wiki/yankee" title="yankee">yankee</a></li>
+<li><a href="/wiki/yankuik" title="yankuik">yankuik</a></li>
+<li><a href="/wiki/yankuik_xiuitl" title="yankuik xiuitl">yankuik xiuitl</a></li>
+<li><a href="/wiki/yankwik" title="yankwik">yankwik</a></li>
+<li><a href="/wiki/yanni%27" title="yanni&#039;">yanni&#039;</a></li>
+<li><a href="/wiki/yannu" title="yannu">yannu</a></li>
+<li><a href="/wiki/yanomami" title="yanomami">yanomami</a></li>
+<li><a href="/wiki/yanomamo" title="yanomamo">yanomamo</a></li>
+<li><a href="/wiki/yanomamos" title="yanomamos">yanomamos</a></li>
+<li><a href="/wiki/yanqa_tumpaq" title="yanqa tumpaq">yanqa tumpaq</a></li>
+<li><a href="/wiki/yanqallan" title="yanqallan">yanqallan</a></li>
+<li><a href="/wiki/yanqan" title="yanqan">yanqan</a></li>
+<li><a href="/wiki/yanqui" title="yanqui">yanqui</a></li>
+<li><a href="/wiki/yanquis" title="yanquis">yanquis</a></li>
+<li><a href="/wiki/yanr%C3%ACn" title="yanrìn">yanrìn</a></li>
+<li><a href="/wiki/yanshuf" title="yanshuf">yanshuf</a></li>
+<li><a href="/wiki/yanta" title="yanta">yanta</a></li>
+<li><a href="/wiki/yantaba" title="yantaba">yantaba</a></li>
+<li><a href="/wiki/yantabais" title="yantabais">yantabais</a></li>
+<li><a href="/wiki/yantaban" title="yantaban">yantaban</a></li>
+<li><a href="/wiki/yantabas" title="yantabas">yantabas</a></li>
+<li><a href="/wiki/yantad" title="yantad">yantad</a></li>
+<li><a href="/wiki/yantada" title="yantada">yantada</a></li>
+<li><a href="/wiki/yantadas" title="yantadas">yantadas</a></li>
+<li><a href="/wiki/yantado" title="yantado">yantado</a></li>
+<li><a href="/wiki/yantados" title="yantados">yantados</a></li>
+<li><a href="/wiki/yantamos" title="yantamos">yantamos</a></li>
+<li><a href="/wiki/yantan" title="yantan">yantan</a></li>
+<li><a href="/wiki/yantando" title="yantando">yantando</a></li>
+<li><a href="/wiki/yantar" title="yantar">yantar</a></li>
+<li><a href="/wiki/yantara" title="yantara">yantara</a></li>
+<li><a href="/wiki/yantarais" title="yantarais">yantarais</a></li>
+<li><a href="/wiki/yantaran" title="yantaran">yantaran</a></li>
+<li><a href="/wiki/yantaras" title="yantaras">yantaras</a></li>
+<li><a href="/wiki/yantare" title="yantare">yantare</a></li>
+<li><a href="/wiki/yantareis" title="yantareis">yantareis</a></li>
+<li><a href="/wiki/yantaremos" title="yantaremos">yantaremos</a></li>
+<li><a href="/wiki/yantaren" title="yantaren">yantaren</a></li>
+<li><a href="/wiki/yantares" title="yantares">yantares</a></li>
+<li><a href="/wiki/yantaron" title="yantaron">yantaron</a></li>
+<li><a href="/wiki/yantar%C3%A1" title="yantará">yantará</a></li>
+<li><a href="/wiki/yantar%C3%A1n" title="yantarán">yantarán</a></li>
+<li><a href="/wiki/yantar%C3%A1s" title="yantarás">yantarás</a></li>
+<li><a href="/wiki/yantar%C3%A9" title="yantaré">yantaré</a></li>
+<li><a href="/wiki/yantar%C3%A9is" title="yantaréis">yantaréis</a></li>
+<li><a href="/wiki/yantar%C3%ADa" title="yantaría">yantaría</a></li>
+<li><a href="/wiki/yantar%C3%ADais" title="yantaríais">yantaríais</a></li>
+<li><a href="/wiki/yantar%C3%ADamos" title="yantaríamos">yantaríamos</a></li>
+<li><a href="/wiki/yantar%C3%ADan" title="yantarían">yantarían</a></li>
+<li><a href="/wiki/yantar%C3%ADas" title="yantarías">yantarías</a></li>
+<li><a href="/wiki/yantas" title="yantas">yantas</a></li>
+<li><a href="/wiki/yantase" title="yantase">yantase</a></li>
+<li><a href="/wiki/yantaseis" title="yantaseis">yantaseis</a></li>
+<li><a href="/wiki/yantasen" title="yantasen">yantasen</a></li>
+<li><a href="/wiki/yantases" title="yantases">yantases</a></li>
+<li><a href="/wiki/yantaste" title="yantaste">yantaste</a></li>
+<li><a href="/wiki/yantasteis" title="yantasteis">yantasteis</a></li>
+<li><a href="/wiki/yante" title="yante">yante</a></li>
+<li><a href="/wiki/yantemos" title="yantemos">yantemos</a></li>
+<li><a href="/wiki/yanten" title="yanten">yanten</a></li>
+<li><a href="/wiki/yantes" title="yantes">yantes</a></li>
+<li><a href="/wiki/yanto" title="yanto">yanto</a></li>
+<li><a href="/wiki/yantra" title="yantra">yantra</a></li>
+<li><a href="/wiki/yant%C3%A1" title="yantá">yantá</a></li>
+<li><a href="/wiki/yant%C3%A1bamos" title="yantábamos">yantábamos</a></li>
+<li><a href="/wiki/yant%C3%A1is" title="yantáis">yantáis</a></li>
+<li><a href="/wiki/yant%C3%A1ramos" title="yantáramos">yantáramos</a></li>
+<li><a href="/wiki/yant%C3%A1remos" title="yantáremos">yantáremos</a></li>
+<li><a href="/wiki/yant%C3%A1s" title="yantás">yantás</a></li>
+<li><a href="/wiki/yant%C3%A1semos" title="yantásemos">yantásemos</a></li>
+<li><a href="/wiki/yant%C3%A9" title="yanté">yanté</a></li>
+<li><a href="/wiki/yant%C3%A9is" title="yantéis">yantéis</a></li>
+<li><a href="/wiki/yant%C3%A9s" title="yantés">yantés</a></li>
+<li><a href="/wiki/yant%C3%B3" title="yantó">yantó</a></li>
+<li><a href="/wiki/yanvar" title="yanvar">yanvar</a></li>
+<li><a href="/wiki/yanyawa" title="yanyawa">yanyawa</a></li>
+<li><a href="/wiki/yaoacalli" title="yaoacalli">yaoacalli</a></li>
+<li><a href="/wiki/yaocalli" title="yaocalli">yaocalli</a></li>
+<li><a href="/wiki/yaomiqui" title="yaomiqui">yaomiqui</a></li>
+<li><a href="/wiki/yaonamiqui" title="yaonamiqui">yaonamiqui</a></li>
+<li><a href="/wiki/yaotecayotl" title="yaotecayotl">yaotecayotl</a></li>
+<li><a href="/wiki/yaotequihuah" title="yaotequihuah">yaotequihuah</a></li>
+<li><a href="/wiki/yaotl" title="yaotl">yaotl</a></li>
+<li><a href="/wiki/yaotlatquitl" title="yaotlatquitl">yaotlatquitl</a></li>
+<li><a href="/wiki/yaourt" title="yaourt">yaourt</a></li>
+<li><a href="/wiki/yaoyotl" title="yaoyotl">yaoyotl</a></li>
+<li><a href="/wiki/yapa" title="yapa">yapa</a></li>
+<li><a href="/wiki/yapaba" title="yapaba">yapaba</a></li>
+<li><a href="/wiki/yapabais" title="yapabais">yapabais</a></li>
+<li><a href="/wiki/yapaban" title="yapaban">yapaban</a></li>
+<li><a href="/wiki/yapabas" title="yapabas">yapabas</a></li>
+<li><a href="/wiki/yapad" title="yapad">yapad</a></li>
+<li><a href="/wiki/yapada" title="yapada">yapada</a></li>
+<li><a href="/wiki/yapadas" title="yapadas">yapadas</a></li>
+<li><a href="/wiki/yapado" title="yapado">yapado</a></li>
+<li><a href="/wiki/yapados" title="yapados">yapados</a></li>
+<li><a href="/wiki/yapalli" title="yapalli">yapalli</a></li>
+<li><a href="/wiki/yapaltik" title="yapaltik">yapaltik</a></li>
+<li><a href="/wiki/yapamos" title="yapamos">yapamos</a></li>
+<li><a href="/wiki/yapan" title="yapan">yapan</a></li>
+<li><a href="/wiki/yapando" title="yapando">yapando</a></li>
+<li><a href="/wiki/yapar" title="yapar">yapar</a></li>
+<li><a href="/wiki/yapara" title="yapara">yapara</a></li>
+<li><a href="/wiki/yaparais" title="yaparais">yaparais</a></li>
+<li><a href="/wiki/yaparan" title="yaparan">yaparan</a></li>
+<li><a href="/wiki/yaparas" title="yaparas">yaparas</a></li>
+<li><a href="/wiki/yapare" title="yapare">yapare</a></li>
+<li><a href="/wiki/yapareis" title="yapareis">yapareis</a></li>
+<li><a href="/wiki/yaparemos" title="yaparemos">yaparemos</a></li>
+<li><a href="/wiki/yaparen" title="yaparen">yaparen</a></li>
+<li><a href="/wiki/yapares" title="yapares">yapares</a></li>
+<li><a href="/wiki/yaparon" title="yaparon">yaparon</a></li>
+<li><a href="/wiki/yapar%C3%A1" title="yapará">yapará</a></li>
+<li><a href="/wiki/yapar%C3%A1n" title="yaparán">yaparán</a></li>
+<li><a href="/wiki/yapar%C3%A1s" title="yaparás">yaparás</a></li>
+<li><a href="/wiki/yapar%C3%A9" title="yaparé">yaparé</a></li>
+<li><a href="/wiki/yapar%C3%A9is" title="yaparéis">yaparéis</a></li>
+<li><a href="/wiki/yapar%C3%ADa" title="yaparía">yaparía</a></li>
+<li><a href="/wiki/yapar%C3%ADais" title="yaparíais">yaparíais</a></li>
+<li><a href="/wiki/yapar%C3%ADamos" title="yaparíamos">yaparíamos</a></li>
+<li><a href="/wiki/yapar%C3%ADan" title="yaparían">yaparían</a></li>
+<li><a href="/wiki/yapar%C3%ADas" title="yaparías">yaparías</a></li>
+<li><a href="/wiki/yapas" title="yapas">yapas</a></li>
+<li><a href="/wiki/yapase" title="yapase">yapase</a></li>
+<li><a href="/wiki/yapaseis" title="yapaseis">yapaseis</a></li>
+<li><a href="/wiki/yapasen" title="yapasen">yapasen</a></li>
+<li><a href="/wiki/yapases" title="yapases">yapases</a></li>
+<li><a href="/wiki/yapaste" title="yapaste">yapaste</a></li>
+<li><a href="/wiki/yapasteis" title="yapasteis">yapasteis</a></li>
+<li><a href="/wiki/yape" title="yape">yape</a></li>
+<li><a href="/wiki/yapemos" title="yapemos">yapemos</a></li>
+<li><a href="/wiki/yapen" title="yapen">yapen</a></li>
+<li><a href="/wiki/yapes" title="yapes">yapes</a></li>
+<li><a href="/wiki/yapj" title="yapj">yapj</a></li>
+<li><a href="/wiki/yapo" title="yapo">yapo</a></li>
+<li><a href="/wiki/yapu" title="yapu">yapu</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=xindiki" title="Especial:Todas">Página anterior (xindiki)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=yapuchawi" title="Especial:Todas">Página siguiente (yapuchawi)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dy" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dy" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=y" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=y&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=y&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":328,"wgHostname":"mw1371"});});</script></body></html>

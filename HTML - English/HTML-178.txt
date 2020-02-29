@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>View source for Module:category tree/langcatboiler - Wiktionary</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgRqgpAMFcAABA3yYgAAABQ","wgCSPNonce":!1,"wgCanonicalNamespace":"Module","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":828,"wgPageName":"Module:category_tree/langcatboiler","wgTitle":"category tree/langcatboiler","wgCurRevisionId":58720351,"wgRevisionId":0,"wgArticleId":4506663,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"en","wgPageContentModel":"Scribunto","wgRelevantPageName":"Module:category_tree/langcatboiler","wgRelevantArticleId":4506663,"wgIsProbablyEditable":!1
+,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["templateeditor"],"wgRestrictionMove":["templateeditor"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgCodeEditorCurrentLanguage":"lua","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.column-hacks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.charinsert.styles":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.codeEditor","ext.scribunto.edit","mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.charinsert","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.charinsert.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.column-hacks&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/Module:category_tree/langcatboiler"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-828 ns-subject page-Module_category_tree_langcatboiler rootpage-Module_category_tree skin-vector action-edit">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">View source for Module:category tree/langcatboiler</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">← <a href="/wiki/Module:category_tree/langcatboiler" title="Module:category tree/langcatboiler">Module:category tree/langcatboiler</a></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text"><p>You do not have permission to edit this page, for the following reason:
+</p>
+<div class="permissions-errors">
+<p>This page has been locked to prevent editing. (You can recommend any additions or changes to this page on <a href="/wiki/Module_talk:category_tree/langcatboiler" title="Module talk:category tree/langcatboiler">its talkpage</a>, if the latter is not similarly locked, or at the <a href="/wiki/Wiktionary:ID" class="mw-redirect" title="Wiktionary:ID">Information Desk</a>.)
+</p>
+</div><hr />
+<p>You can view and copy the source of this page.
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="en" dir="ltr" name="wpTextbox1">local export = {}
+
+local function makeCategoryLink(object)
+	return "[[:Category:" .. object:getCategoryName() .. "|" .. object:getCanonicalName() .. "]]"
+end
+
+local function linkbox(lang, setwiki, setwikt, setsister, entryname)
+	local wiktionarylinks = "''None.''"
+	
+	local canonicalName = lang:getCanonicalName()
+	local wikimediaLanguages = lang:getWikimediaLanguages()
+	local categoryName = lang:getCategoryName()
+	local wikipediaArticle = setwiki or lang:getWikipediaArticle()
+	
+	if setwikt then
+		require "Module:debug".track "langcatboiler/setwikt"
+		if setwikt == "-" then
+			require "Module:debug".track "langcatboiler/setwikt/hyphen"
+		end
+	end
+	
+	if setwikt ~= "-" and wikimediaLanguages and wikimediaLanguages[1] then
+		wiktionarylinks = {}
+		
+		for _, wikimedialang in ipairs(wikimediaLanguages) do
+			table.insert(wiktionarylinks,
+				(wikimedialang:getCanonicalName() ~= canonicalName and "(''" .. wikimedialang:getCanonicalName() .. "'') " or "") ..
+				"'''[[:" .. wikimedialang:getCode() .. ":|" .. wikimedialang:getCode() .. ".wiktionary.org]]'''")
+		end
+		
+		wiktionarylinks = table.concat(wiktionarylinks, "&lt;br/>")
+	end
+	
+	local plural = wikimediaLanguages[2] and "s" or ""
+	
+	return table.concat{
+[=[&lt;div style="clear: right; border: solid #aaa 1px; margin: 1 1 1 1; background: #f9f9f9; width: 270px; padding: 5px; margin: 5px; text-align: left; float: right">
+&lt;div style="text-align: center; margin-bottom: 10px; margin-top: 5px">''']=], categoryName, [=['''&lt;/div>
+
+{| style="font-size: 90%; background: #f9f9f9;"
+|-
+| style="vertical-align: middle; height: 35px; width: 35px;" | [[File:Wiktionary-logo-v2.svg|35px|none|Wiktionary]]
+|| '']=], categoryName, [=[ edition]=], plural, [=[ of Wiktionary''
+|-
+| colspan="2" style="padding-left: 10px; border-bottom: 1px solid lightgray;" | ]=], wiktionarylinks, [=[
+
+|-
+| style="vertical-align: middle; height: 35px" | [[File:Wikipedia-logo.png|35px|none|Wikipedia]]
+|| ''Wikipedia article about ]=], categoryName, [=[''
+|-
+| colspan="2" style="padding-left: 10px; border-bottom: 1px solid lightgray;" | ]=], (setwiki == "-" and "''None.''" or "'''[[w:" .. wikipediaArticle .. "|" .. wikipediaArticle .. "]]'''"), [=[
+
+|-
+| style="vertical-align: middle; height: 35px" | [[File:Wikimedia-logo.svg|35px|none|Wikimedia Commons]]
+|| ''Links related to ]=], categoryName, [=[ in sister projects at Wikimedia Commons''
+|-
+| colspan="2" style="padding-left: 10px; border-bottom: 1px solid lightgray;" | ]=], (setsister == "-" and "''None.''" or "'''[[commons:Category:" .. (setsister or categoryName) .. "|" .. (setsister or categoryName) .. "]]'''"), [=[
+
+|-
+| style="vertical-align: middle; height: 35px" | [[File:Crystal kfind.png|35px|none|Considerations]]
+|| ]=], categoryName, [=[ considerations
+|-
+| colspan="2" style="padding-left: 10px; border-bottom: 1px solid lightgray;" | '''[[Wiktionary:About ]=], canonicalName, [=[]]'''
+|-
+| style="vertical-align: middle; height: 35px" | [[File:Incomplete list.svg|35px|none|Index]]
+|| ]=], categoryName, [=[ index
+|-
+| colspan="2" style="padding-left: 10px; border-bottom: 1px solid lightgray;" | '''[[Index:]=], canonicalName, [=[]]'''
+|-
+| style="vertical-align: middle; height: 35px" | [[File:Open book nae 02.svg|35px|none|Entry]]
+|| ]=], categoryName, [=[ entry
+|-
+| colspan="2" style="padding-left: 10px;" | ''']=], require("Module:links").full_link({lang = require("Module:languages").getByCode("en"), term = entryname or canonicalName}), [=['''
+|}
+&lt;/div>]=]
+}
+end
+
+local function edit_link(title, text)
+	return '&lt;span class="plainlinks">['
+		.. tostring(mw.uri.fullUrl(title, { action = "edit" }))
+		.. ' ' .. text .. ']&lt;/span>'
+end
+
+-- Should perhaps use wiki syntax.
+local function infobox(lang)
+	local ret = {}
+	
+	table.insert(ret, '&lt;table class="wikitable language-category-info"')
+	
+	if type(lang.getRawData) == "function" then
+		local raw_data = lang:getRawData()
+		if raw_data then
+			local replacements = {
+				[1] = "canonical-name",
+				[2] = "wikidata-item",
+				[3] = "family",
+			}
+			local function replacer(letter1, letter2)
+				return letter1:lower() .. "-" .. letter2:lower()
+			end
+			-- For each key in the language data modules, returns a descriptive
+			-- kebab-case version (containing ASCII lowercase words separated
+			-- by hyphens).
+			local function kebab_case(key)
+				key = replacements[key] or key
+				key = key:gsub("(%l)(%u)", replacer):gsub("(%l)_(%l)", replacer)
+				return key
+			end
+			local function html_attribute_encode(str)
+				str = mw.text.jsonEncode(str)
+					:gsub('"', "&amp;quot;")
+					-- &amp; in attributes is automatically escaped.
+					-- :gsub("&amp;", "&amp;amp;")
+					:gsub("&lt;", "&amp;lt;")
+					:gsub(">", "&amp;gt;")
+				return str
+			end
+			pcall(function ()
+				table.insert(ret, ' data-code="' .. lang:getCode() .. '"')
+				for k, v in require("Module:table").sortedPairs(lang:getRawData()) do
+					table.insert(ret, " data-" .. kebab_case(k)
+						.. '="'
+						.. html_attribute_encode(v)
+						.. '"')
+				end
+			end)
+		end
+	end
+	table.insert(ret, '>\n')
+	table.insert(ret, '&lt;tr class="language-category-data">\n&lt;th colspan="2">'
+		.. edit_link("Module:" .. require("Module:languages").getDataModuleName(lang:getCode()),
+			"Edit language data")
+		.. "&lt;/th>\n&lt;/tr>\n")
+	table.insert(ret, "&lt;tr>\n&lt;th>Canonical name&lt;/th>&lt;td>" .. lang:getCanonicalName() .. "&lt;/td>\n&lt;/tr>\n")
+
+	local otherNames = lang:getOtherNames(true)
+	if otherNames then
+		local names = {}
+		
+		for _, name in ipairs(otherNames) do
+			table.insert(names, "&lt;li>" .. name .. "&lt;/li>")
+		end
+		
+		if #names > 0 then
+			table.insert(ret, "&lt;tr>\n&lt;th>Other names&lt;/th>&lt;td>&lt;ul>" .. table.concat(names, "\n") .. "&lt;/ul>&lt;/td>\n&lt;/tr>\n")
+		end
+	end
+	
+	local aliases = lang:getAliases()
+	if aliases then
+		local names = {}
+		
+		for _, name in ipairs(aliases) do
+			table.insert(names, "&lt;li>" .. name .. "&lt;/li>")
+		end
+		
+		if #names > 0 then
+			table.insert(ret, "&lt;tr>\n&lt;th>Aliases&lt;/th>&lt;td>&lt;ul>" .. table.concat(names, "\n") .. "&lt;/ul>&lt;/td>\n&lt;/tr>\n")
+		end
+	end
+
+	local varieties = lang:getVarieties()
+	if varieties then
+		local names = {}
+		
+		for _, name in ipairs(varieties) do
+			if type(name) == "string" then
+				table.insert(names, "&lt;li>" .. name .. "&lt;/li>")
+			else
+				assert(type(name) == "table")
+				local first_var
+				local subvars = {}
+				for i, var in ipairs(name) do
+					if i == 1 then
+						first_var = var
+					else
+						table.insert(subvars, "&lt;li>" .. var .. "&lt;/li>")
+					end
+				end
+				if #subvars > 0 then
+					table.insert(names, "&lt;li>&lt;dl>&lt;dt>" .. first_var .. "&lt;/dt>\n&lt;dd>&lt;ul>" .. table.concat(subvars, "\n") .. "&lt;/ul>&lt;/dd>&lt;/dl>&lt;/li>")
+				elseif first_var then
+					table.insert(names, "&lt;li>" .. first_var .. "&lt;/li>")
+				end
+			end
+		end
+		
+		if #names > 0 then
+			table.insert(ret, "&lt;tr>\n&lt;th>Varieties&lt;/th>&lt;td>&lt;ul>" .. table.concat(names, "\n") .. "&lt;/ul>&lt;/td>\n&lt;/tr>\n")
+		end
+	end
+
+	table.insert(ret, "&lt;tr>\n&lt;th>[[Wiktionary:Languages|Language code]]&lt;/th>&lt;td>&lt;code>" .. lang:getCode() .. "&lt;/code>&lt;/td>\n&lt;/tr>\n")
+	table.insert(ret, "&lt;tr>\n&lt;th>[[Wiktionary:Families|Language family]]&lt;/th>\n")
+	
+	local fam = lang:getFamily()
+	local famCode = fam and fam:getCode()
+	
+	if not fam then
+		table.insert(ret, "&lt;td>unclassified&lt;/td>")
+	elseif famCode == "qfa-iso" then
+		table.insert(ret, "&lt;td>[[:Category:Language isolates|language isolate]]&lt;/td>")
+	elseif famCode == "qfa-mix" then
+		table.insert(ret, "&lt;td>[[:Category:Mixed languages|mixed language]]&lt;/td>")
+	elseif famCode == "sgn" then
+		table.insert(ret, "&lt;td>[[:Category:Sign languages|sign language]]&lt;/td>")
+	elseif famCode == "crp" then
+		table.insert(ret, "&lt;td>[[:Category:Creole or pidgin languages|creole or pidgin]]&lt;/td>")
+	elseif famCode == "art" then
+		table.insert(ret, "&lt;td>[[:Category:Constructed languages|constructed language]]&lt;/td>")
+	else
+		table.insert(ret, "&lt;td>" .. makeCategoryLink(fam) .. "&lt;/td>")
+	end
+	
+	table.insert(ret, "\n&lt;/tr>\n&lt;tr>\n&lt;th>Ancestors&lt;/th>\n")
+	
+	local ancestors, ancestorChain = lang:getAncestors(), lang:getAncestorChain()
+	if ancestors[2] then
+		local ancestorList = {}
+		
+		for i, anc in ipairs(ancestors) do
+			ancestorList[i] = "&lt;li>" .. makeCategoryLink(anc) .. "&lt;/li>"
+		end
+		
+		table.insert(ret, "&lt;td>&lt;ul>\n" .. table.concat(ancestorList, "\n") .. "&lt;/ul>&lt;/td>\n")
+	elseif ancestorChain[1] then
+		table.insert(ret, "&lt;td>&lt;ul>\n")
+		
+		local chain = {}
+		
+		for i, anc in ipairs(ancestorChain) do
+			chain[i] = "&lt;li>" .. makeCategoryLink(anc) .. "&lt;/li>"
+		end
+		
+		table.insert(ret, table.concat(chain, "\n&lt;ul>\n"))
+		
+		for _, _ in ipairs(chain) do
+			table.insert(ret, "&lt;/ul>")
+		end
+		
+		table.insert(ret, "&lt;/td>\n")
+	else
+		table.insert(ret, "&lt;td>unknown&lt;/td>\n")
+	end
+	
+	table.insert(ret, "&lt;/tr>\n")
+	
+	local scripts = lang:getScripts()
+	
+	if scripts[1] then
+		local script_text = {}
+		
+		for _, sc in ipairs(scripts) do
+			local text = {}
+			local code = sc:getCode()
+			if code ~= "Hira" then
+				table.insert(text, "&lt;li>" .. makeCategoryLink(sc))
+			end
+			
+			if code == "Jpan" then
+				local m_scripts = require("Module:scripts")
+				local Hani = m_scripts.getByCode("Hani")
+				local Hira = m_scripts.getByCode("Hira")
+				local Kana = m_scripts.getByCode("Kana")
+				table.insert(text, "&lt;ul>")
+				table.insert(text, "&lt;li>" .. makeCategoryLink(Hani) .. "&lt;/li>")
+				table.insert(text, "&lt;li>" .. makeCategoryLink(Hira) .. "&lt;/li>")
+				table.insert(text, "&lt;li>" .. makeCategoryLink(Kana) .. "&lt;/li>")
+				table.insert(text, "&lt;/ul>")
+			elseif code == "Kore" then
+				local m_scripts = require("Module:scripts")
+				local Hang = m_scripts.getByCode("Hang")
+				local Hani = m_scripts.getByCode("Hani")
+				table.insert(text, "&lt;ul>")
+				table.insert(text, "&lt;li>" .. makeCategoryLink(Hang) .. "&lt;/li>")
+				table.insert(text, "&lt;li>" .. makeCategoryLink(Hani) .. "&lt;/li>")
+				table.insert(text, "&lt;/ul>")
+			end
+			
+			table.insert(text, "&lt;/li>")
+			
+			table.insert(script_text, table.concat(text, "\n"))
+		end
+		
+		table.insert(ret, "&lt;tr>\n&lt;th>[[Wiktionary:Scripts|Scripts]]&lt;/th>\n&lt;td>&lt;ul>\n" .. table.concat(script_text, "\n") .. "&lt;/ul>&lt;/td>\n&lt;/tr>\n")
+	else
+		table.insert(ret, "&lt;tr>\n&lt;th>[[Wiktionary:Scripts|Scripts]]&lt;/th>\n&lt;td>not specified&lt;/td>\n&lt;/tr>\n")
+	end
+	
+	if lang._rawData.translit_module then
+		local translit_module = lang._rawData.translit_module
+		local translit_module_info = {}
+		table.insert(translit_module_info,
+			("[[Module:%s]]"):format(translit_module))
+		
+		if translit_module == "translit-redirect" then
+			local data = mw.loadData("Module:translit-redirect/data")[lang:getCode()]
+			if data then
+				table.insert(translit_module_info, ":")
+				local redirects_to = {}
+				local m_scripts = require "Module:scripts"
+				for script, data in require "Module:table".sortedPairs(data) do
+					-- Skip boolean fields like "debug_mode" and "noError".
+					if type(data) == "table" then
+						table.insert(redirects_to,
+							("\n* &lt;code>%s&lt;/code>: %s"):format(
+								script,
+								data.module and ("[[Module:%s]]"):format(data.module)
+									or "(none)"))
+					end
+				end
+				table.insert(translit_module_info, table.concat(redirects_to))
+			end
+		end
+		
+		table.insert(ret, [=[
+&lt;tr>
+&lt;th>[[Wiktionary:Transliteration and romanization|Transliteration&lt;br>module]]&lt;/th>
+&lt;td>]=] .. table.concat(translit_module_info) .. [=[&lt;/td>
+&lt;/tr>
+]=])
+end
+	local wikidataItem = lang:getWikidataItem()
+	if lang:getWikidataItem() and mw.wikibase then
+		local URL = mw.wikibase.getEntityUrl(wikidataItem)
+		local link
+		if URL then
+			link = '[' .. URL .. ' ' .. wikidataItem .. ']'
+		else
+			link = '&lt;span class="error">Invalid Wikidata item: &lt;code>' .. wikidataItem .. '&lt;/code>&lt;/span>'
+		end
+		table.insert(ret, "&lt;tr>&lt;th>Wikidata&lt;/th>&lt;td>" .. link .. "&lt;/td>&lt;/tr>")
+	end
+	
+	table.insert(ret, "&lt;/table>")
+	
+	return table.concat(ret)
+end
+
+local function NavFrame(content, title)
+	return '&lt;div class="NavFrame">&lt;div class="NavHead">'
+		.. (title or '{{{title}}}') .. '&lt;/div>'
+		.. '&lt;div class="NavContent" style="text-align: left;">'
+		.. content
+		.. '&lt;/div>&lt;/div>'
+end
+
+function export.country_categories(frame)
+	local categories = {}
+	
+	for i, country in ipairs(frame:getParent().args) do
+		if i > 1 then
+			table.insert(categories, "[[Category:Languages of " .. country .. "]]")
+		end
+	end
+	
+	if #categories > 0 then
+		return table.concat(categories)
+	else
+		return "[[Category:Languages not sorted into a country category]]"
+	end
+end
+
+
+-- Category object
+
+local Category = {}
+Category.__index = Category
+
+
+function Category.new(info)
+	for key, val in pairs(info) do
+		if not (key == "code" or key == "entryname" or key == "setsister" or key == "setwiki" or key == "setwikt") then
+			error("The parameter \"" .. key .. "\" was not recognized.")
+		end
+	end
+	
+	local self = setmetatable({}, Category)
+	self._info = info
+	
+	if not self._info.code then
+		error("No language code was specified.")
+	else
+		self._lang = require("Module:languages").getByCode(self._info.code) or error("The language code \"" .. self._info.code .. "\" is not valid.")
+	end
+	
+	return self
+end
+
+export.new = Category.new
+
+
+function Category:getInfo()
+	return self._info
+end
+
+
+function Category:getBreadcrumbName()
+	return self._lang:getCanonicalName()
+end
+
+
+function Category:getDataModule()
+	return "Module:category tree/langcatboiler"
+end
+
+
+function Category:canBeEmpty()
+	return true
+end
+
+
+function Category:isHidden()
+	return false
+end
+
+
+function Category:getCategoryName()
+	return mw.getContentLanguage():ucfirst(self._lang:getCategoryName())
+end
+
+
+function Category:getDescription()
+	if self._lang:getCode() == "und" then
+		return
+			"This is the main category of the '''" .. self._lang:getCategoryName() .. "''', represented in Wiktionary by the [[Wiktionary:Languages|code]] '''" .. self._lang:getCode() .. "'''. " ..
+			"This language contains terms in historical writing, whose meaning has not yet been determined by scholars."
+	end
+	
+	local canonicalName = self._lang:getCanonicalName()
+	
+	local ret = linkbox(self._lang, self._info.setwiki, self._info.setwikt, self._info.setsister, self._info.entryname)
+	
+	ret = ret .. "This is the main category of the '''" .. self._lang:getCategoryName() .. "'''.\n\nInformation about " .. canonicalName .. ":\n\n" .. infobox(self._lang)
+	
+	if self._lang:getType() == "reconstructed" then
+		ret = ret .. "\n\n" ..
+			canonicalName .. " is a reconstructed language. Its words and roots are not directly attested in any written works, but have been reconstructed through the ''comparative method'', " ..
+			"which finds regular similarities between languages that cannot be explained by coincidence or word-borrowing, and extrapolates ancient forms from these similarities.\n\n" ..
+			"According to our [[Wiktionary:Criteria for inclusion|criteria for inclusion]], terms in " .. canonicalName ..
+			" should '''not''' be present in entries in the main namespace, but may be added to the Reconstruction: namespace."
+	elseif self._lang:getType() == "appendix-constructed" then
+		ret = ret .. "\n\n" ..
+			canonicalName .. " is a constructed language that is only in sporadic use. " ..
+			"According to our [[Wiktionary:Criteria for inclusion|criteria for inclusion]], terms in " .. canonicalName ..
+			" should '''not''' be present in entries in the main namespace, but may be added to the Appendix: namespace. " ..
+			"All terms in this language may be available at [[Appendix:" .. canonicalName .. "]]."
+	end
+	
+	local about = mw.title.new("Wiktionary:About " .. canonicalName)
+	
+	if about.exists then
+		ret = ret .. "\n\n" ..
+			"Please see '''[[Wiktionary:About " .. canonicalName .. "]]''' for information and special considerations for creating " .. self._lang:getCategoryName() .. " entries."
+	end
+	
+	local ok, tree_of_descendants = pcall(
+		require("Module:family tree").print_children,
+		self._lang:getCode(), {
+			protolanguage_under_family = true,
+			must_have_descendants = true
+		})
+	
+	if ok then
+		if tree_of_descendants then
+			ret = ret .. NavFrame(
+				tree_of_descendants,
+				"Family tree")
+		else
+			ret = ret .. "\n\n" .. self._lang:getCanonicalName()
+				.. " has no descendants or varieties listed in Wiktionary's language data modules."
+		end
+	else
+		mw.log("error while generating tree: " .. tostring(tree_of_descendants))
+	end
+
+	ret = ret .. " __EXPECTUNUSEDCATEGORY__" -- it's OK if this category is empty
+	return ret
+end
+
+
+function Category:getParents()
+	local canonicalName = self._lang:getCanonicalName()
+	
+	local ret = {{name = "Category:All languages", sort = canonicalName}}
+	
+	local fam = self._lang:getFamily()
+	local famCode = fam and fam:getCode()
+	
+	if not fam then
+		table.insert(ret, {name = "Category:Unclassified languages", sort = canonicalName})
+	elseif famCode == "qfa-iso" then
+		table.insert(ret, {name = "Category:Language isolates", sort = canonicalName})
+	elseif famCode == "qfa-mix" then
+		table.insert(ret, {name = "Category:Mixed languages", sort = canonicalName})
+	elseif famCode == "sgn" then
+		table.insert(ret, {name = "Category:All sign languages", sort = canonicalName})
+	elseif famCode == "crp" then
+		table.insert(ret, {name = "Category:Creole or pidgin languages", sort = canonicalName})
+		
+		for _, anc in ipairs(self._lang:getAncestors()) do
+			table.insert(ret, {name = "Category:" .. anc:getCanonicalName() .. "-based creole or pidgin languages", sort = canonicalName})
+		end
+	elseif famCode == "art" then
+		if self._lang:getType() == "appendix-constructed" then
+			table.insert(ret, {name = "Category:Appendix-only constructed languages", sort = canonicalName})
+		else
+			table.insert(ret, {name = "Category:Constructed languages", sort = canonicalName})
+		end
+		
+		for _, anc in ipairs(self._lang:getAncestors()) do
+			table.insert(ret, {name = "Category:" .. anc:getCanonicalName() .. "-based constructed languages", sort = canonicalName})
+		end
+	else
+		table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(fam:getCategoryName()), sort = canonicalName})
+		
+		if self._lang:getType() == "reconstructed" then
+			table.insert(ret, {name = "Category:Reconstructed languages", sort = (mw.ustring.gsub(canonicalName, "^Proto%-", ""))})
+		end
+	end
+	
+	for _, sc in ipairs(self._lang:getScripts()) do
+		table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(sc:getCategoryName() .. " languages"), sort = canonicalName})
+		
+		if sc:getCode() == "Jpan" then
+			table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(require("Module:scripts").getByCode("Hani"):getCategoryName() .. " languages"), sort = canonicalName})
+			table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(require("Module:scripts").getByCode("Hira"):getCategoryName() .. " languages"), sort = canonicalName})
+			table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(require("Module:scripts").getByCode("Kana"):getCategoryName() .. " languages"), sort = canonicalName})
+		elseif sc:getCode() == "Kore" then
+			table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(require("Module:scripts").getByCode("Hang"):getCategoryName() .. " languages"), sort = canonicalName})
+			table.insert(ret, {name = "Category:" .. mw.getContentLanguage():ucfirst(require("Module:scripts").getByCode("Hani"):getCategoryName() .. " languages"), sort = canonicalName})
+		end
+	end
+	
+	if self._lang:hasTranslit() then
+		table.insert(ret, {name = "Category:Languages with automatic transliteration", sort = canonicalName})
+	end
+	
+	return ret
+end
+
+
+function Category:getChildren()
+	local ret = {}
+	
+	local m_poscatboiler = require("Module:category tree/poscatboiler")
+	
+	for _, label in ipairs({"appendices", "entry maintenance", "lemmas", "names", "phrases", "rhymes", "symbols", "templates", "terms by etymology", "terms by usage", "transliterations"}) do
+		local child = m_poscatboiler.new({code = self._lang:getCode(), label = label})
+		local parents = child:getParents()
+		
+		if parents then
+			-- Find the current category among the child's parents, to find its sort key
+			for _, parent in ipairs(parents) do
+				if type(parent.name) == "string" and parent.name == "Category:" .. self:getCategoryName() then
+					table.insert(ret, {name = child, sort = parent.sort})
+					break
+				end
+			end
+		end
+	end
+	
+	local m_derivcatboiler = require("Module:category tree/derived cat")
+	local child = m_derivcatboiler.new({code = nil, label = self._lang:getCode()})
+	local sortkey = child._info.label
+	local parents = child:getParents()
+	
+	if parents then
+		-- Find the current category among the child's parents, to find its sort key
+		for _, parent in ipairs(parents) do
+			if type(parent.name) == "string" and parent.name == "Category:" .. self:getCategoryName() then
+				sortkey = parent.sort
+				break
+			end
+		end
+	end
+	
+	table.insert(ret, {name = child, sort = sortkey})
+	
+	local m_topic_cat = require("Module:category tree/topic cat")
+	local child = m_topic_cat.new({code = self._lang:getCode(), label = "all topics"})
+	local sortkey = child._info.label
+	local parents = child:getParents()
+	
+	if parents then
+		-- Find the current category among the child's parents, to find its sort key
+		for _, parent in ipairs(parents) do
+			if type(parent.name) == "string" and parent.name == "Category:" .. self:getCategoryName() then
+				sortkey = parent.sort
+				break
+			end
+		end
+	end
+	
+	table.insert(ret, {name = child, sort = sortkey})
+	
+	-- FIXME: This is hacky, but it works as a stopgap measure.
+	-- We should fix this when these categories get their own category tree modules.
+	table.insert(ret, {name = {
+		_lang = self._lang,
+		getCategoryName = function(self) return "Regional " .. self._lang:getCanonicalName() end,
+		getDescription = function(self) return self._lang:getCanonicalName() .. " terms used in specific regions or dialects." end,
+		}, sort = "regional"})
+	
+	table.insert(ret, {name = {
+		_lang = self._lang,
+		getCategoryName = function(self) return "Requests (" .. self._lang:getCanonicalName() .. ")" end,
+		getDescription = function(self) return self._lang:getCanonicalName() .. " entries that need attention of experienced editors." end,
+		}, sort = "requests"})
+	
+	table.insert(ret, {name = {
+		_lang = self._lang,
+		getCategoryName = function(self) return "User " .. self._lang:getCode() end,
+		getDescription = function(self) return "Wiktionary users categorized by fluency levels in " .. self._lang:getCanonicalName() .. "." end,
+		}, sort = "user"})
+	
+	return ret
+end
+
+
+function Category:getUmbrella()
+	return nil
+end
+
+
+return export
+</textarea><div id="mw-scribunto-console"></div><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>Templates used on this page:
+</p></div><ul>
+<li><a href="/wiki/Template:documentation" title="Template:documentation">Template:documentation</a> (<a href="/w/index.php?title=Template:documentation&amp;action=edit" title="Template:documentation">view source</a>) (template editor protected)</li><li><a href="/wiki/Template:temp" title="Template:temp">Template:temp</a> (<a href="/w/index.php?title=Template:temp&amp;action=edit" title="Template:temp">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:array" title="Module:array">Module:array</a> (<a href="/w/index.php?title=Module:array&amp;action=edit" title="Module:array">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:category_tree/langcatboiler/documentation" title="Module:category tree/langcatboiler/documentation">Module:category tree/langcatboiler/documentation</a> (<a href="/w/index.php?title=Module:category_tree/langcatboiler/documentation&amp;action=edit" title="Module:category tree/langcatboiler/documentation">edit</a>) </li><li><a href="/wiki/Module:documentation" title="Module:documentation">Module:documentation</a> (<a href="/w/index.php?title=Module:documentation&amp;action=edit" title="Module:documentation">view source</a>) (semi-protected)</li><li><a href="/wiki/Module:parameters" title="Module:parameters">Module:parameters</a> (<a href="/w/index.php?title=Module:parameters&amp;action=edit" title="Module:parameters">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:string" title="Module:string">Module:string</a> (<a href="/w/index.php?title=Module:string&amp;action=edit" title="Module:string">view source</a>) (semi-protected)</li><li><a href="/wiki/Module:table" title="Module:table">Module:table</a> (<a href="/w/index.php?title=Module:table&amp;action=edit" title="Module:table">view source</a>) (template editor protected)</li><li><a href="/wiki/Module:template_link" title="Module:template link">Module:template link</a> (<a href="/w/index.php?title=Module:template_link&amp;action=edit" title="Module:template link">view source</a>) (semi-protected)</li></ul></div><p id="mw-returnto">Return to <a href="/wiki/Module:category_tree/langcatboiler" title="Module:category tree/langcatboiler">Module:category tree/langcatboiler</a>.</p>
+<noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/wiki/Module:category_tree/langcatboiler">https://en.wiktionary.org/wiki/Module:category_tree/langcatboiler</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Module%3Acategory+tree%2Flangcatboiler&amp;returntoquery=action%3Dedit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Module%3Acategory+tree%2Flangcatboiler&amp;returntoquery=action%3Dedit" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-module" class="selected"><a href="/wiki/Module:category_tree/langcatboiler" title="View the module page [c]" accesskey="c">Module</a></li><li id="ca-talk"><a href="/wiki/Module_talk:category_tree/langcatboiler" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible"><a href="/wiki/Module:category_tree/langcatboiler">Read</a></li><li id="ca-viewsource" class="collapsible selected"><a href="/w/index.php?title=Module:category_tree/langcatboiler&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Module:category_tree/langcatboiler&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Module:category_tree/langcatboiler" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Module:category_tree/langcatboiler" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-info"><a href="/w/index.php?title=Module:category_tree/langcatboiler&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q47546809" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=Module:category_tree/langcatboiler&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1252"});});</script></body></html>

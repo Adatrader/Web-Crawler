@@ -1,0 +1,2392 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>tornado - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"Xlji-QpAMEoAAFw2G98AAABP","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"tornado","wgTitle":"tornado","wgCurRevisionId":4851753,"wgRevisionId":4851753,"wgArticleId":43002,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikcionario:Desambiguación","Español-Afrikáans","Español-Albanés","Español-Alemán","Español-Árabe","Español-Aragonés","Español-Azerí","Español-Bajo alemán","Español-Banjar","Español-Bengalí",
+"Español-Bielorruso","Español-Bosnio","Español-Búlgaro","Español-Calmuco","Español-Birmano","Español-Catalán","Español-Checo","Español-Cheroqui","Español-Cantonés","Español-Chino clásico","Español-Mandarín","Español-Coreano","Español-Criollo haitiano","Español-Croata","Español-Danés","Español-Eslovaco","Español-Esloveno","Español-Esperanto","Español-Estonio","Español-Euskera","Español-Finés","Español-Francés","Español-Gaélico escocés","Español-Galés","Español-Gallego","Español-Georgiano","Español-Griego","Español-Hebreo","Español-Hindi","Español-Húngaro","Español-Indonesio","Español-Inglés","Español-Inuktitut","Español-Islandés","Español-Italiano","Español-Japonés","Español-Kannada","Español-Kazajo","Español-Kurdo","Español-Letón","Español-Lituano","Español-Luxemburgués","Español-Macedonio","Español-Malayalam","Español-Malayo","Español-Min nan","Español-Navajo","Español-Neerlandés","Español-Noruego bokmål",
+"Español-Noruego nynorsk","Español-O'odham","Español-Oromo","Español-Panyabí occidental","Español-Persa","Español-Polaco","Español-Portugués","Español-Quechua cuzqueño","Español-Rumano","Español-Ruso","Español-Serbio","Español-Serbocroata","Español-Siciliano","Español-Sotho norteño","Español-Sueco","Español-Swahili","Español-Tagalo","Español-Tailandés","Español-Tamil","Español-Turco","Español-Ucraniano","Español-Tártaro de Crimea","Español-Võro","Español-Vietnamita","Español-Samareño","Español-Yídish","Wikcionario:AF:Palabras sin transcripción fonética","Wikcionario:AN:Palabras sin transcripción fonética","Wikcionario:AZ:Palabras sin transcripción fonética","Wikcionario:BS:Palabras sin transcripción fonética","Wikcionario:CA:Palabras sin transcripción fonética","Wikcionario:HR:Palabras sin transcripción fonética","Wikcionario:DA:Palabras sin transcripción fonética","Wikcionario:SL:Palabras sin transcripción fonética",
+"Wikcionario:EO:Palabras sin transcripción fonética","Wikcionario:EU:Palabras sin transcripción fonética","Wikcionario:FI:Palabras sin transcripción fonética","Wikcionario:GL:Palabras sin transcripción fonética","Wikcionario:ID:Palabras sin transcripción fonética","Wikcionario:EN:Palabras sin transcripción fonética","EN:Palabras con etimología libre","Wikcionario:IT:Palabras sin transcripción fonética","Wikcionario:NL:Palabras sin transcripción fonética","Wikcionario:NO:Palabras sin transcripción fonética","Wikcionario:NN:Palabras sin transcripción fonética","Wikcionario:OM:Palabras sin transcripción fonética","Wikcionario:PL:Palabras sin transcripción fonética","Wikcionario:PT:Palabras sin transcripción fonética","Wikcionario:SH:Palabras sin transcripción fonética","Wikcionario:SV:Palabras sin transcripción fonética","Español","ES:Palabras de origen inglés","ES:Sustantivos","ES:Sustantivos masculinos","ES:Meteorología","ES:Participios",
+"Afrikáans-Español","AF:Palabras de origen inglés","AF:Sustantivos","Aragonés-Español","AN:Palabras de origen inglés","AN:Sustantivos","Azerí-Español","AZ:Palabras de origen inglés","AZ:Sustantivos","Bosnio-Español","BS:Palabras de origen inglés","BS:Sustantivos","Catalán-Español","CA:Palabras de origen inglés","CA:Sustantivos","CA:Sustantivos masculinos","Croata-Español","HR:Palabras de origen inglés","HR:Sustantivos","HR:Sustantivos masculinos","Danés-Español","DA:Palabras de origen inglés","DA:Sustantivos","DA:Sustantivos comunes","Esloveno-Español","SL:Palabras de origen inglés","SL:Sustantivos","Esperanto-Español","EO:Palabras de origen inglés","EO:Sustantivos","Euskera-Español","EU:Palabras de origen inglés","EU:Sustantivos","EU:Sustantivos inanimados","Finés-Español","FI:Palabras de origen inglés","FI:Sustantivos","Gallego-Español","GL:Palabras de origen inglés","GL:Sustantivos","Indonesio-Español","ID:Palabras de origen inglés","ID:Sustantivos",
+"Inglés-Español","EN:Sustantivos","Italiano-Español","IT:Palabras de origen inglés","IT:Sustantivos","IT:Sustantivos masculinos","Neerlandés-Español","NL:Palabras de origen inglés","NL:Sustantivos","Noruego bokmål-Español","NO:Palabras de origen inglés","NO:Sustantivos","Noruego nynorsk-Español","NN:Palabras de origen inglés","NN:Sustantivos","Oromo-Español","OM:Palabras de origen inglés","OM:Sustantivos","Polaco-Español","PL:Palabras de origen inglés","PL:Sustantivos","Portugués-Español","PT:Palabras de origen inglés","PT:Sustantivos","PT:Sustantivos masculinos","Serbocroata-Español","SH:Palabras de origen inglés","SH:Sustantivos","Sueco-Español","SV:Palabras de origen inglés","SV:Sustantivos"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"tornado","wgRelevantArticleId":43002,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"
+,"ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1a/Dszpics1.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=tornado&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=tornado&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/wiki/tornado"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-tornado rootpage-tornado skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">tornado</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikcionario, el diccionario libre</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div style="padding:2px; border-bottom:0.1em dotted green; text-align:right; padding-right:25px; color:green;"><img alt="icono de desambiguación" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/25px-Disambig.svg.png" decoding="async" title="icono de desambiguación" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/38px-Disambig.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Disambig.svg/50px-Disambig.svg.png 2x" data-file-width="230" data-file-height="183" />&#160;<i>Entradas similares:</i>&#160; <b><a href="/wiki/Tornado" title="Tornado">Tornado</a></b></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2>Sumario</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Español"><span class="tocnumber">1</span> <span class="toctext"><span>Español</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Etimología"><span class="tocnumber">1.1</span> <span class="toctext">Etimología</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Sustantivo_masculino"><span class="tocnumber">1.1.1</span> <span class="toctext">Sustantivo&#160;masculino</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Véase_también"><span class="tocnumber">1.1.2</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Traducciones"><span class="tocnumber">1.1.3</span> <span class="toctext">Traducciones</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Forma_flexiva"><span class="tocnumber">1.2</span> <span class="toctext">Forma flexiva</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Forma_verbal"><span class="tocnumber">1.2.1</span> <span class="toctext">Forma verbal</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Afrikáans"><span class="tocnumber">2</span> <span class="toctext"><span>Afrikáans</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Etimología_2"><span class="tocnumber">2.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Sustantivo"><span class="tocnumber">2.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Aragonés"><span class="tocnumber">3</span> <span class="toctext"><span>Aragonés</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Etimología_3"><span class="tocnumber">3.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Sustantivo_2"><span class="tocnumber">3.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Azerí"><span class="tocnumber">4</span> <span class="toctext"><span>Azerí</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Etimología_4"><span class="tocnumber">4.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Sustantivo_3"><span class="tocnumber">4.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#Bosnio"><span class="tocnumber">5</span> <span class="toctext"><span>Bosnio</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#Etimología_5"><span class="tocnumber">5.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Sustantivo_4"><span class="tocnumber">5.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Catalán"><span class="tocnumber">6</span> <span class="toctext"><span>Catalán</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Etimología_6"><span class="tocnumber">6.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Sustantivo_masculino_2"><span class="tocnumber">6.2</span> <span class="toctext">Sustantivo&#160;masculino</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Croata"><span class="tocnumber">7</span> <span class="toctext"><span>Croata</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#Etimología_7"><span class="tocnumber">7.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Sustantivo_masculino_3"><span class="tocnumber">7.2</span> <span class="toctext">Sustantivo&#160;masculino</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Danés"><span class="tocnumber">8</span> <span class="toctext"><span>Danés</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Etimología_8"><span class="tocnumber">8.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Sustantivo_común"><span class="tocnumber">8.2</span> <span class="toctext">Sustantivo&#160;común</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-29"><a href="#Esloveno"><span class="tocnumber">9</span> <span class="toctext"><span>Esloveno</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-30"><a href="#Etimología_9"><span class="tocnumber">9.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Sustantivo_5"><span class="tocnumber">9.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Esperanto"><span class="tocnumber">10</span> <span class="toctext"><span>Esperanto</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-33"><a href="#Etimología_10"><span class="tocnumber">10.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#Sustantivo_6"><span class="tocnumber">10.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#Euskera"><span class="tocnumber">11</span> <span class="toctext"><span>Euskera</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Etimología_11"><span class="tocnumber">11.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Sustantivo_inanimado"><span class="tocnumber">11.2</span> <span class="toctext">Sustantivo&#160;inanimado</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-38"><a href="#Finés"><span class="tocnumber">12</span> <span class="toctext"><span>Finés</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-39"><a href="#Etimología_12"><span class="tocnumber">12.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#Sustantivo_7"><span class="tocnumber">12.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-41"><a href="#Gallego"><span class="tocnumber">13</span> <span class="toctext"><span>Gallego</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-42"><a href="#Etimología_13"><span class="tocnumber">13.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Sustantivo_8"><span class="tocnumber">13.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-44"><a href="#Indonesio"><span class="tocnumber">14</span> <span class="toctext"><span>Indonesio</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-45"><a href="#Etimología_14"><span class="tocnumber">14.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#Sustantivo_9"><span class="tocnumber">14.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-47"><a href="#Inglés"><span class="tocnumber">15</span> <span class="toctext"><span>Inglés</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-48"><a href="#Etimología_15"><span class="tocnumber">15.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-49"><a href="#Sustantivo_10"><span class="tocnumber">15.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-50"><a href="#Italiano"><span class="tocnumber">16</span> <span class="toctext"><span>Italiano</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-51"><a href="#Etimología_16"><span class="tocnumber">16.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-52"><a href="#Sustantivo_masculino_4"><span class="tocnumber">16.2</span> <span class="toctext">Sustantivo&#160;masculino</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-53"><a href="#Neerlandés"><span class="tocnumber">17</span> <span class="toctext"><span>Neerlandés</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-54"><a href="#Etimología_17"><span class="tocnumber">17.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-55"><a href="#Sustantivo_11"><span class="tocnumber">17.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-56"><a href="#Noruego_bokmål"><span class="tocnumber">18</span> <span class="toctext"><span>Noruego bokmål</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-57"><a href="#Etimología_18"><span class="tocnumber">18.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-58"><a href="#Sustantivo_12"><span class="tocnumber">18.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-59"><a href="#Noruego_nynorsk"><span class="tocnumber">19</span> <span class="toctext"><span>Noruego nynorsk</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-60"><a href="#Etimología_19"><span class="tocnumber">19.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-61"><a href="#Sustantivo_13"><span class="tocnumber">19.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-62"><a href="#Oromo"><span class="tocnumber">20</span> <span class="toctext"><span>Oromo</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-63"><a href="#Etimología_20"><span class="tocnumber">20.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-64"><a href="#Sustantivo_14"><span class="tocnumber">20.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-65"><a href="#Polaco"><span class="tocnumber">21</span> <span class="toctext"><span>Polaco</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-66"><a href="#Etimología_21"><span class="tocnumber">21.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-67"><a href="#Sustantivo_15"><span class="tocnumber">21.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-68"><a href="#Portugués"><span class="tocnumber">22</span> <span class="toctext"><span>Portugués</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-69"><a href="#Etimología_22"><span class="tocnumber">22.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-70"><a href="#Sustantivo_masculino_5"><span class="tocnumber">22.2</span> <span class="toctext">Sustantivo&#160;masculino</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-71"><a href="#Serbocroata"><span class="tocnumber">23</span> <span class="toctext"><span>Serbocroata</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-72"><a href="#Etimología_23"><span class="tocnumber">23.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-73"><a href="#Sustantivo_16"><span class="tocnumber">23.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-74"><a href="#Sueco"><span class="tocnumber">24</span> <span class="toctext"><span>Sueco</span></span></a>
+<ul>
+<li class="toclevel-2 tocsection-75"><a href="#Etimología_24"><span class="tocnumber">24.1</span> <span class="toctext">Etimología</span></a></li>
+<li class="toclevel-2 tocsection-76"><a href="#Sustantivo_17"><span class="tocnumber">24.2</span> <span class="toctext">Sustantivo</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-77"><a href="#Referencias_y_notas"><span class="tocnumber">25</span> <span class="toctext">Referencias y notas</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Espa.C3.B1ol"></span><span class="mw-headline" id="Español"><span id="es" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/ES" title="Wikcionario:Referencia/ES">Español</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=1" title="Editar sección: Español">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top"><a href="/wiki/Wikcionario:Referencia/ES/Pronunciaci%C3%B3n" title="Wikcionario:Referencia/ES/Pronunciación">Pronunciación</a>&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td>[<span style="color:#368BC1">toɾˈna.ðo</span>]
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa"></span><span class="mw-headline" id="Etimología">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=2" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, reinterpretado sobre el modelo de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a> </sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Dszpics1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dszpics1.jpg/220px-Dszpics1.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dszpics1.jpg/330px-Dszpics1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Dszpics1.jpg/440px-Dszpics1.jpg 2x" data-file-width="1024" data-file-height="679" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Dszpics1.jpg" class="internal" title="Aumentar"></a></div>[1]</div></div></div>
+<h4><span class="mw-headline" id="Sustantivo_masculino">Sustantivo&#160;masculino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=3" title="Editar sección: Sustantivo masculino">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="es" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="es" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px"><span lang="es" style="" class=""><a href="/wiki/tornados#Español" title="tornados">tornados</a></span>
+</td></tr></tbody></table>
+<dl><dt>1 Meteorología.</dt>
+<dd><a href="/wiki/violento#Español" title="violento">Violento</a> <span lang="es" style="" class=""><a href="/wiki/torbellino#Español" title="torbellino">torbellino</a></span> de <span lang="es" style="" class=""><a href="/wiki/aire#Español" title="aire">aire</a></span> en forma de <span lang="es" style="" class=""><a href="/wiki/cono#Español" title="cono">cono</a></span> <span lang="es" style="" class=""><a href="/wiki/invertido#Español" title="invertido">invertido</a></span>, que <span lang="es" style="" class=""><a href="/wiki/girar#Español" title="girar">gira</a></span> sobre sí mismo y se extiende desde las <span lang="es" style="" class=""><a href="/wiki/nube#Español" title="nube">nubes</a></span> hasta la <span lang="es" style="" class=""><a href="/wiki/superficie#Español" title="superficie">superficie</a></span> <span lang="es" style="" class=""><a href="/wiki/terrestre#Español" title="terrestre">terrestre</a></span>.</dd></dl>
+<h4><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=4" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><a href="/wiki/Archivo:Wikipedia-logo-v2.svg" class="image" title="Colabora en Wikipedia"><img alt="Colabora en Wikipedia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/15px-Wikipedia-logo-v2.svg.png" decoding="async" width="15" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/23px-Wikipedia-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/30px-Wikipedia-logo-v2.svg.png 2x" data-file-width="103" data-file-height="94" /></a> <a href="https://es.wikipedia.org/wiki/es:Wikipedia:Portada" class="extiw" title="w:es:Wikipedia:Portada">Wikipedia</a>  tiene un artículo sobre <b><a href="https://es.wikipedia.org/wiki/tornado" class="extiw" title="w:tornado">tornado</a></b></li></ul>
+<h4><span class="mw-headline" id="Traducciones">Traducciones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=5" title="Editar sección: Traducciones">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="NavFrame collapsed" style="clear: both; border: 1px solid #aaaaaa; border-collapse: collapse;">
+<div class="NavHead" style="height: 1.6em; font-weight: bold; font-size: 100%; background-color: #efefef;">Traducciones</div>
+<div class="NavContent" style="font-size: 100%;">
+<table style="width:100%; text-align: left;">
+<tbody><tr>
+<td valign="top" width="50%">
+<ul><li><a href="/wiki/afrik%C3%A1ans" title="afrikáans">Afrikáans</a>:&#160;[1]&#160;<span lang="af" style="" class=""><a href="/wiki/tornado#Afrikáans" title="tornado">tornado</a></span><sup> <a href="https://af.wiktionary.org/wiki/tornado" class="extiw" title="af:tornado">(af)</a></sup></li></ul>
+<ul><li><a href="/wiki/alban%C3%A9s" title="albanés">Albanés</a>:&#160;[1]&#160;<span lang="sq" style="" class=""><a href="/w/index.php?title=tornadoja&amp;action=edit&amp;redlink=1" class="new" title="tornadoja (la página no existe)">tornadoja</a></span><sup> <a href="https://sq.wiktionary.org/wiki/tornadoja" class="extiw" title="sq:tornadoja">(sq)</a></sup></li></ul>
+<ul><li><a href="/wiki/alem%C3%A1n" title="alemán">Alemán</a>:&#160;[1]&#160;<span lang="de" style="" class=""><a href="/wiki/Tornado#Alemán" title="Tornado">Tornado</a></span><sup> <a href="https://de.wiktionary.org/wiki/Tornado" class="extiw" title="de:Tornado">(de)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/%C3%A1rabe" title="árabe">Árabe</a>:&#160;[1]&#160;<span lang="ar" style="" class=""><a href="/w/index.php?title=%D8%A7%D8%B9%D8%B5%D8%A7%D8%B1&amp;action=edit&amp;redlink=1" class="new" title="اعصار (la página no existe)">اعصار</a></span><sup> <a href="https://ar.wiktionary.org/wiki/%D8%A7%D8%B9%D8%B5%D8%A7%D8%B1" class="extiw" title="ar:اعصار">(ar)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de اعصار al alfabeto latino">’iʕʂá:r</span>)<span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/aragon%C3%A9s" title="aragonés">Aragonés</a>:&#160;[1]&#160;<span lang="an" style="" class=""><a href="/wiki/tornado#Aragonés" title="tornado">tornado</a></span><sup> <a href="https://an.wiktionary.org/wiki/tornado" class="extiw" title="an:tornado">(an)</a></sup></li></ul>
+<ul><li><a href="/wiki/azer%C3%AD" title="azerí">Azerí</a>:&#160;[1]&#160;<span lang="az" style="" class=""><a href="/wiki/tornado#Azerí" title="tornado">tornado</a></span><sup> <a href="https://az.wiktionary.org/wiki/tornado" class="extiw" title="az:tornado">(az)</a></sup></li></ul>
+<ul><li><a href="/wiki/bajo_alem%C3%A1n" title="bajo alemán">Bajo alemán</a>:&#160;[1]&#160;<span lang="nds" style="" class=""><a href="/w/index.php?title=wervelst%C3%B6rm&amp;action=edit&amp;redlink=1" class="new" title="wervelstörm (la página no existe)">wervelstörm</a></span><sup> <a href="https://nds.wiktionary.org/wiki/wervelst%C3%B6rm" class="extiw" title="nds:wervelstörm">(nds)</a></sup></li></ul>
+<ul><li><a href="/w/index.php?title=banjar&amp;action=edit&amp;redlink=1" class="new" title="banjar (la página no existe)">Banjar</a>:&#160;[1]&#160;<span lang="bjn" style="" class=""><a href="/w/index.php?title=angin_tutus&amp;action=edit&amp;redlink=1" class="new" title="angin tutus (la página no existe)">angin tutus</a></span><sup> <a href="https://bjn.wiktionary.org/wiki/angin_tutus" class="extiw" title="bjn:angin tutus">(bjn)</a></sup></li></ul>
+<ul><li><a href="/wiki/bengal%C3%AD" title="bengalí">Bengalí</a>:&#160;[1]&#160;<span lang="bn" style="" class=""><a href="/w/index.php?title=%E0%A6%9F%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%A1%E0%A7%8B&amp;action=edit&amp;redlink=1" class="new" title="টর্নেডো (la página no existe)">টর্নেডো</a></span><sup> <a href="https://bn.wiktionary.org/wiki/%E0%A6%9F%E0%A6%B0%E0%A7%8D%E0%A6%A8%E0%A7%87%E0%A6%A1%E0%A7%8B" class="extiw" title="bn:টর্নেডো">(bn)</a></sup></li></ul>
+<ul><li><a href="/wiki/bielorruso" title="bielorruso">Bielorruso</a>:&#160;[1]&#160;<span lang="be" style="" class=""><a href="/w/index.php?title=%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="тарнада (la página no existe)">тарнада</a></span><sup> <a href="https://be.wiktionary.org/wiki/%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D0%B4%D0%B0" class="extiw" title="be:тарнада">(be)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de тарнада al alfabeto latino">tarnada</span>)</li></ul>
+<ul><li><a href="/wiki/bosnio" title="bosnio">Bosnio</a>:&#160;[1]&#160;<span lang="bs" style="" class=""><a href="/wiki/tornado#Bosnio" title="tornado">tornado</a></span><sup> <a href="https://bs.wiktionary.org/wiki/tornado" class="extiw" title="bs:tornado">(bs)</a></sup></li></ul>
+<ul><li><a href="/wiki/b%C3%BAlgaro" title="búlgaro">Búlgaro</a>:&#160;[1]&#160;<span lang="bg" style="" class=""><a href="/w/index.php?title=%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="торнадо (la página no existe)">торнадо</a></span><sup> <a href="https://bg.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE" class="extiw" title="bg:торнадо">(bg)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de торнадо al alfabeto latino">tornado</span>)</li></ul>
+<ul><li><a href="/wiki/calmuco" title="calmuco">Calmuco</a>:&#160;[1]&#160;<span lang="xal" style="" class=""><a href="/w/index.php?title=%D1%85%D2%AF&amp;action=edit&amp;redlink=1" class="new" title="хү (la página no existe)">хү</a></span><sup> <a href="https://xal.wiktionary.org/wiki/%D1%85%D2%AF" class="extiw" title="xal:хү">(xal)</a></sup></li></ul>
+<ul><li><a href="/wiki/birmano" title="birmano">Birmano</a>:&#160;[1]&#160;<span lang="my" style="" class=""><a href="/w/index.php?title=%E1%80%9C%E1%80%B1%E1%80%86%E1%80%84%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8&amp;action=edit&amp;redlink=1" class="new" title="လေဆင်နှာမောင်း (la página no existe)">လေဆင်နှာမောင်း</a></span><sup> <a href="https://my.wiktionary.org/wiki/%E1%80%9C%E1%80%B1%E1%80%86%E1%80%84%E1%80%BA%E1%80%94%E1%80%BE%E1%80%AC%E1%80%99%E1%80%B1%E1%80%AC%E1%80%84%E1%80%BA%E1%80%B8" class="extiw" title="my:လေဆင်နှာမောင်း">(my)</a></sup></li></ul>
+<ul><li><a href="/wiki/catal%C3%A1n" title="catalán">Catalán</a>:&#160;[1]&#160;<span lang="ca" style="" class=""><a href="/wiki/tornado#Catalán" title="tornado">tornado</a></span><sup> <a href="https://ca.wiktionary.org/wiki/tornado" class="extiw" title="ca:tornado">(ca)</a></sup></li></ul>
+<ul><li><a href="/wiki/checo" title="checo">Checo</a>:&#160;[1]&#160;<span lang="cs" style="" class=""><a href="/w/index.php?title=torn%C3%A1do&amp;action=edit&amp;redlink=1" class="new" title="tornádo (la página no existe)">tornádo</a></span><sup> <a href="https://cs.wiktionary.org/wiki/torn%C3%A1do" class="extiw" title="cs:tornádo">(cs)</a></sup><span style="font-size: 90%; font-style: italic" title="De género neutro">&#160;<a href="/wiki/neutro" title="neutro">n</a></span></li></ul>
+<ul><li><a href="/wiki/cheroqui" title="cheroqui">Cheroqui</a>:&#160;[1]&#160;<span lang="chr" style="" class=""><a href="/wiki/%E1%8E%A4%E1%8F%83%E1%8E%B4#Cheroqui" title="ᎤᏃᎴ">ᎤᏃᎴ</a></span><sup> <a href="https://chr.wiktionary.org/wiki/%E1%8E%A4%E1%8F%83%E1%8E%B4" class="extiw" title="chr:ᎤᏃᎴ">(chr)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de ᎤᏃᎴ al alfabeto latino">unole</span>),&#160;<span lang="chr" style="" class=""><a href="/w/index.php?title=%E1%8E%A0%E1%8E%A6%E1%8E%B7%E1%8E%A6&amp;action=edit&amp;redlink=1" class="new" title="ᎠᎦᎷᎦ (la página no existe)">ᎠᎦᎷᎦ</a></span><sup> <a href="https://chr.wiktionary.org/wiki/%E1%8E%A0%E1%8E%A6%E1%8E%B7%E1%8E%A6" class="extiw" title="chr:ᎠᎦᎷᎦ">(chr)</a></sup></li></ul>
+<ul><li><a href="/wiki/canton%C3%A9s" title="cantonés">Cantonés</a>:&#160;[1]&#160;<span lang="yue" style="" class=""><a href="/w/index.php?title=%E9%BE%8D%E6%8D%B2%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="龍捲風 (la página no existe)">龍捲風</a></span><sup> <a href="https://yue.wiktionary.org/wiki/%E9%BE%8D%E6%8D%B2%E9%A2%A8" class="extiw" title="yue:龍捲風">(yue)</a></sup></li></ul>
+<ul><li><a href="/w/index.php?title=chino_cl%C3%A1sico&amp;action=edit&amp;redlink=1" class="new" title="chino clásico (la página no existe)">Chino clásico</a>:&#160;[1]&#160;<span lang="zh-classical" style="" class=""><a href="/w/index.php?title=%E9%BE%8D%E6%8D%B2%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="龍捲風 (la página no existe)">龍捲風</a></span><sup> <a href="https://zh-classical.wiktionary.org/wiki/%E9%BE%8D%E6%8D%B2%E9%A2%A8" class="extiw" title="zh-classical:龍捲風">(zh-classical)</a></sup></li></ul>
+<ul><li><a href="/wiki/mandar%C3%ADn" title="mandarín">Mandarín</a>:&#160;[1]&#160;<span lang="cmn" style="" class=""><a href="/w/index.php?title=%E9%BE%8D%E6%8D%B2%E9%A2%A8&amp;action=edit&amp;redlink=1" class="new" title="龍捲風 (la página no existe)">龍捲風</a></span><sup> <a href="https://zh.wiktionary.org/wiki/%E9%BE%8D%E6%8D%B2%E9%A2%A8" class="extiw" title="cmn:龍捲風">(cmn)</a></sup>,&#160;<span lang="cmn" style="" class=""><a href="/w/index.php?title=%E9%BE%99%E5%8D%B7%E9%A3%8E&amp;action=edit&amp;redlink=1" class="new" title="龙卷风 (la página no existe)">龙卷风</a></span><sup> <a href="https://zh.wiktionary.org/wiki/%E9%BE%99%E5%8D%B7%E9%A3%8E" class="extiw" title="cmn:龙卷风">(cmn)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de 龙卷风 al alfabeto latino">lǒngjuǎnfēng</span>)</li></ul>
+<ul><li><a href="/wiki/coreano" title="coreano">Coreano</a>:&#160;[1]&#160;<span lang="ko" style="" class=""><a href="/w/index.php?title=%ED%8F%AD%ED%92%8D&amp;action=edit&amp;redlink=1" class="new" title="폭풍 (la página no existe)">폭풍</a></span><sup> <a href="https://ko.wiktionary.org/wiki/%ED%8F%AD%ED%92%8D" class="extiw" title="ko:폭풍">(ko)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de 폭풍 al alfabeto latino">pokpung</span>),&#160;<span lang="ko" style="" class=""><a href="/w/index.php?title=%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84&amp;action=edit&amp;redlink=1" class="new" title="토네이도 (la página no existe)">토네이도</a></span><sup> <a href="https://ko.wiktionary.org/wiki/%ED%86%A0%EB%84%A4%EC%9D%B4%EB%8F%84" class="extiw" title="ko:토네이도">(ko)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de 토네이도 al alfabeto latino">toneido</span>)</li></ul>
+<ul><li><a href="/wiki/criollo_haitiano" title="criollo haitiano">Criollo haitiano</a>:&#160;[1]&#160;<span lang="ht" style="" class=""><a href="/w/index.php?title=t%C3%B2nad&amp;action=edit&amp;redlink=1" class="new" title="tònad (la página no existe)">tònad</a></span><sup> <a href="https://ht.wiktionary.org/wiki/t%C3%B2nad" class="extiw" title="ht:tònad">(ht)</a></sup></li></ul>
+<ul><li><a href="/wiki/croata" title="croata">Croata</a>:&#160;[1]&#160;<span lang="hr" style="" class=""><a href="/wiki/tornado#Croata" title="tornado">tornado</a></span><sup> <a href="https://hr.wiktionary.org/wiki/tornado" class="extiw" title="hr:tornado">(hr)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/dan%C3%A9s" title="danés">Danés</a>:&#160;[1]&#160;<span lang="da" style="" class=""><a href="/wiki/tornado#Danés" title="tornado">tornado</a></span><sup> <a href="https://da.wiktionary.org/wiki/tornado" class="extiw" title="da:tornado">(da)</a></sup><span style="font-size: 90%; font-style: italic" title="De género común">&#160;<a href="/wiki/com%C3%BAn" title="común">c</a></span></li></ul>
+<ul><li><a href="/wiki/eslovaco" title="eslovaco">Eslovaco</a>:&#160;[1]&#160;<span lang="sk" style="" class=""><a href="/w/index.php?title=torn%C3%A1do&amp;action=edit&amp;redlink=1" class="new" title="tornádo (la página no existe)">tornádo</a></span><sup> <a href="https://sk.wiktionary.org/wiki/torn%C3%A1do" class="extiw" title="sk:tornádo">(sk)</a></sup></li></ul>
+<ul><li><a href="/wiki/esloveno" title="esloveno">Esloveno</a>:&#160;[1]&#160;<span lang="sl" style="" class=""><a href="/wiki/tornado#Esloveno" title="tornado">tornado</a></span><sup> <a href="https://sl.wiktionary.org/wiki/tornado" class="extiw" title="sl:tornado">(sl)</a></sup></li></ul>
+<ul><li><a href="/wiki/esperanto" title="esperanto">Esperanto</a>:&#160;[1]&#160;<span lang="eo" style="" class=""><a href="/wiki/tornado#Esperanto" title="tornado">tornado</a></span><sup> <a href="https://eo.wiktionary.org/wiki/tornado" class="extiw" title="eo:tornado">(eo)</a></sup></li></ul>
+<ul><li><a href="/wiki/estonio" title="estonio">Estonio</a>:&#160;[1]&#160;<span lang="et" style="" class=""><a href="/w/index.php?title=tromb&amp;action=edit&amp;redlink=1" class="new" title="tromb (la página no existe)">tromb</a></span><sup> <a href="https://et.wiktionary.org/wiki/tromb" class="extiw" title="et:tromb">(et)</a></sup></li></ul>
+<ul><li><a href="/wiki/euskera" title="euskera">Euskera</a>:&#160;[1]&#160;<span lang="eu" style="" class=""><a href="/wiki/tornado#Euskera" title="tornado">tornado</a></span><sup> <a href="https://eu.wiktionary.org/wiki/tornado" class="extiw" title="eu:tornado">(eu)</a></sup></li></ul>
+<ul><li><a href="/wiki/fin%C3%A9s" title="finés">Finés</a>:&#160;[1]&#160;<span lang="fi" style="" class=""><a href="/wiki/tornado#Finés" title="tornado">tornado</a></span><sup> <a href="https://fi.wiktionary.org/wiki/tornado" class="extiw" title="fi:tornado">(fi)</a></sup>,&#160;<span lang="fi" style="" class=""><a href="/w/index.php?title=trombi&amp;action=edit&amp;redlink=1" class="new" title="trombi (la página no existe)">trombi</a></span><sup> <a href="https://fi.wiktionary.org/wiki/trombi" class="extiw" title="fi:trombi">(fi)</a></sup></li></ul>
+<ul><li><a href="/wiki/franc%C3%A9s" title="francés">Francés</a>:&#160;[1]&#160;<span lang="fr" style="" class=""><a href="/w/index.php?title=tornade&amp;action=edit&amp;redlink=1" class="new" title="tornade (la página no existe)">tornade</a></span><sup> <a href="https://fr.wiktionary.org/wiki/tornade" class="extiw" title="fr:tornade">(fr)</a></sup><span style="font-size: 90%; font-style: italic" title="De género femenino">&#160;<a href="/wiki/femenino" title="femenino">f</a></span></li></ul>
+<ul><li><a href="/wiki/ga%C3%A9lico_escoc%C3%A9s" title="gaélico escocés">Gaélico escocés</a>:&#160;[1]&#160;<span lang="gd" style="" class=""><a href="/w/index.php?title=cuairt-ghaoth&amp;action=edit&amp;redlink=1" class="new" title="cuairt-ghaoth (la página no existe)">cuairt-ghaoth</a></span><sup> <a href="https://gd.wiktionary.org/wiki/cuairt-ghaoth" class="extiw" title="gd:cuairt-ghaoth">(gd)</a></sup></li></ul>
+<ul><li><a href="/wiki/gal%C3%A9s" title="galés">Galés</a>:&#160;[1]&#160;<span lang="cy" style="" class=""><a href="/w/index.php?title=gyrwynt&amp;action=edit&amp;redlink=1" class="new" title="gyrwynt (la página no existe)">gyrwynt</a></span><sup> <a href="https://cy.wiktionary.org/wiki/gyrwynt" class="extiw" title="cy:gyrwynt">(cy)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/gallego" title="gallego">Gallego</a>:&#160;[1]&#160;<span lang="gl" style="" class=""><a href="/wiki/tornado#Gallego" title="tornado">tornado</a></span><sup> <a href="https://gl.wiktionary.org/wiki/tornado" class="extiw" title="gl:tornado">(gl)</a></sup></li></ul>
+<ul><li><a href="/wiki/georgiano" title="georgiano">Georgiano</a>:&#160;[1]&#160;<span lang="ka" style="" class=""><a href="/w/index.php?title=%E1%83%92%E1%83%A0%E1%83%98%E1%83%90%E1%83%9A%E1%83%98&amp;action=edit&amp;redlink=1" class="new" title="გრიალი (la página no existe)">გრიალი</a></span><sup> <a href="https://ka.wiktionary.org/wiki/%E1%83%92%E1%83%A0%E1%83%98%E1%83%90%E1%83%9A%E1%83%98" class="extiw" title="ka:გრიალი">(ka)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de გრიალი al alfabeto latino">griali</span>)</li></ul>
+<ul><li><a href="/wiki/griego" title="griego">Griego</a>:&#160;[1]&#160;<span lang="el" style="" class=""><a href="/w/index.php?title=%CE%B1%CE%BD%CE%B5%CE%BC%CE%BF%CF%83%CF%84%CF%81%CF%8C%CE%B2%CE%B9%CE%BB%CE%BF%CF%82&amp;action=edit&amp;redlink=1" class="new" title="ανεμοστρόβιλος (la página no existe)">ανεμοστρόβιλος</a></span><sup> <a href="https://el.wiktionary.org/wiki/%CE%B1%CE%BD%CE%B5%CE%BC%CE%BF%CF%83%CF%84%CF%81%CF%8C%CE%B2%CE%B9%CE%BB%CE%BF%CF%82" class="extiw" title="el:ανεμοστρόβιλος">(el)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de ανεμοστρόβιλος al alfabeto latino">anemostróvilos</span>)<span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span>,&#160;<span lang="el" style="" class=""><a href="/wiki/%CE%B8%CF%8D%CE%B5%CE%BB%CE%BB%CE%B1#Griego" title="θύελλα">θύελλα</a></span><sup> <a href="https://el.wiktionary.org/wiki/%CE%B8%CF%8D%CE%B5%CE%BB%CE%BB%CE%B1" class="extiw" title="el:θύελλα">(el)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de θύελλα al alfabeto latino">thýela</span>)<span style="font-size: 90%; font-style: italic" title="De género femenino">&#160;<a href="/wiki/femenino" title="femenino">f</a></span></li></ul>
+<ul><li><a href="/wiki/hebreo" title="hebreo">Hebreo</a>:&#160;[1]&#160;<span lang="he" style="" class=""><a href="/w/index.php?title=%D7%98%D7%95%D7%A8%D7%A0%D7%93%D7%95&amp;action=edit&amp;redlink=1" class="new" title="טורנדו (la página no existe)">טורנדו</a></span><sup> <a href="https://he.wiktionary.org/wiki/%D7%98%D7%95%D7%A8%D7%A0%D7%93%D7%95" class="extiw" title="he:טורנדו">(he)</a></sup></li></ul>
+<ul><li><a href="/wiki/hindi" title="hindi">Hindi</a>:&#160;[1]&#160;<span lang="hi" style="" class=""><a href="/w/index.php?title=%E0%A4%A4%E0%A5%82%E0%A4%AB%E0%A4%BE%E0%A4%A8&amp;action=edit&amp;redlink=1" class="new" title="तूफान (la página no existe)">तूफान</a></span><sup> <a href="https://hi.wiktionary.org/wiki/%E0%A4%A4%E0%A5%82%E0%A4%AB%E0%A4%BE%E0%A4%A8" class="extiw" title="hi:तूफान">(hi)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de तूफान al alfabeto latino">tūphān</span>)</li></ul>
+<ul><li><a href="/wiki/h%C3%BAngaro" title="húngaro">Húngaro</a>:&#160;[1]&#160;<span lang="hu" style="" class=""><a href="/w/index.php?title=torn%C3%A1d%C3%B3&amp;action=edit&amp;redlink=1" class="new" title="tornádó (la página no existe)">tornádó</a></span><sup> <a href="https://hu.wiktionary.org/wiki/torn%C3%A1d%C3%B3" class="extiw" title="hu:tornádó">(hu)</a></sup></li></ul>
+<ul><li><a href="/wiki/indonesio" title="indonesio">Indonesio</a>:&#160;[1]&#160;<span lang="id" style="" class=""><a href="/wiki/tornado#Indonesio" title="tornado">tornado</a></span><sup> <a href="https://id.wiktionary.org/wiki/tornado" class="extiw" title="id:tornado">(id)</a></sup></li></ul>
+<ul><li><a href="/wiki/ingl%C3%A9s" title="inglés">Inglés</a>:&#160;[1]&#160;<span lang="en" style="" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span><sup> <a href="https://en.wiktionary.org/wiki/tornado" class="extiw" title="en:tornado">(en)</a></sup></li></ul>
+<ul><li><a href="/wiki/inuktitut" title="inuktitut">Inuktitut</a>:&#160;[1]&#160;<span lang="iu" style="" class=""><a href="/w/index.php?title=%E1%90%85%E1%93%9A%E1%94%AA%E1%94%AD%E1%96%85&amp;action=edit&amp;redlink=1" class="new" title="ᐅᓚᔪᔭᖅ (la página no existe)">ᐅᓚᔪᔭᖅ</a></span><sup> <a href="https://iu.wiktionary.org/wiki/%E1%90%85%E1%93%9A%E1%94%AA%E1%94%AD%E1%96%85" class="extiw" title="iu:ᐅᓚᔪᔭᖅ">(iu)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de ᐅᓚᔪᔭᖅ al alfabeto latino">ulajujaq</span>)</li></ul>
+</td>
+<td valign="top" width="50%">
+<ul><li><a href="/wiki/island%C3%A9s" title="islandés">Islandés</a>:&#160;[1]&#160;<span lang="is" style="" class=""><a href="/w/index.php?title=sk%C3%BDstrokkur&amp;action=edit&amp;redlink=1" class="new" title="skýstrokkur (la página no existe)">skýstrokkur</a></span><sup> <a href="https://is.wiktionary.org/wiki/sk%C3%BDstrokkur" class="extiw" title="is:skýstrokkur">(is)</a></sup></li></ul>
+<ul><li><a href="/wiki/italiano" title="italiano">Italiano</a>:&#160;[1]&#160;<span lang="it" style="" class=""><a href="/w/index.php?title=ciclone&amp;action=edit&amp;redlink=1" class="new" title="ciclone (la página no existe)">ciclone</a></span><sup> <a href="https://it.wiktionary.org/wiki/ciclone" class="extiw" title="it:ciclone">(it)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span>,&#160;<span lang="it" style="" class=""><a href="/wiki/tornado#Italiano" title="tornado">tornado</a></span><sup> <a href="https://it.wiktionary.org/wiki/tornado" class="extiw" title="it:tornado">(it)</a></sup></li></ul>
+<ul><li><a href="/wiki/japon%C3%A9s" title="japonés">Japonés</a>:&#160;[1]&#160;<span lang="ja" style="" class=""><a href="/w/index.php?title=%E7%AB%9C%E5%B7%BB&amp;action=edit&amp;redlink=1" class="new" title="竜巻 (la página no existe)">竜巻</a></span><sup> <a href="https://ja.wiktionary.org/wiki/%E7%AB%9C%E5%B7%BB" class="extiw" title="ja:竜巻">(ja)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de 竜巻 al alfabeto latino">たつまき, tatsumaki</span>),&#160;<span lang="ja" style="" class=""><a href="/w/index.php?title=%E3%83%88%E3%83%AB%E3%83%8D%E3%83%BC%E3%83%89&amp;action=edit&amp;redlink=1" class="new" title="トルネード (la página no existe)">トルネード</a></span><sup> <a href="https://ja.wiktionary.org/wiki/%E3%83%88%E3%83%AB%E3%83%8D%E3%83%BC%E3%83%89" class="extiw" title="ja:トルネード">(ja)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de トルネード al alfabeto latino">torunedo</span>)</li></ul>
+<ul><li><a href="/w/index.php?title=kannada&amp;action=edit&amp;redlink=1" class="new" title="kannada (la página no existe)">Kannada</a>:&#160;[1]&#160;<span lang="kn" style="" class=""><a href="/w/index.php?title=%E0%B2%A4%E0%B3%81%E0%B2%AB%E0%B2%BE%E0%B2%A8%E0%B3%81&amp;action=edit&amp;redlink=1" class="new" title="ತುಫಾನು (la página no existe)">ತುಫಾನು</a></span><sup> <a href="https://kn.wiktionary.org/wiki/%E0%B2%A4%E0%B3%81%E0%B2%AB%E0%B2%BE%E0%B2%A8%E0%B3%81" class="extiw" title="kn:ತುಫಾನು">(kn)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de ತುಫಾನು al alfabeto latino">tuphānu</span>),&#160;<span lang="kn" style="" class=""><a href="/w/index.php?title=%E0%B2%AC%E0%B2%BF%E0%B2%B0%E0%B3%81%E0%B2%97%E0%B2%BE%E0%B2%B3%E0%B2%BF&amp;action=edit&amp;redlink=1" class="new" title="ಬಿರುಗಾಳಿ (la página no existe)">ಬಿರುಗಾಳಿ</a></span><sup> <a href="https://kn.wiktionary.org/wiki/%E0%B2%AC%E0%B2%BF%E0%B2%B0%E0%B3%81%E0%B2%97%E0%B2%BE%E0%B2%B3%E0%B2%BF" class="extiw" title="kn:ಬಿರುಗಾಳಿ">(kn)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de ಬಿರುಗಾಳಿ al alfabeto latino">birugāḷi</span>),&#160;<span lang="kn" style="" class=""><a href="/w/index.php?title=%E0%B2%B8%E0%B3%81%E0%B2%82%E0%B2%9F%E0%B2%B0%E0%B2%97%E0%B2%BE%E0%B2%B3%E0%B2%BF&amp;action=edit&amp;redlink=1" class="new" title="ಸುಂಟರಗಾಳಿ (la página no existe)">ಸುಂಟರಗಾಳಿ</a></span><sup> <a href="https://kn.wiktionary.org/wiki/%E0%B2%B8%E0%B3%81%E0%B2%82%E0%B2%9F%E0%B2%B0%E0%B2%97%E0%B2%BE%E0%B2%B3%E0%B2%BF" class="extiw" title="kn:ಸುಂಟರಗಾಳಿ">(kn)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de ಸುಂಟರಗಾಳಿ al alfabeto latino">suṇṭaragāḷi</span>)</li></ul>
+<ul><li><a href="/wiki/kazajo" title="kazajo">Kazajo</a>:&#160;[1]&#160;<span lang="kk" style="" class=""><a href="/w/index.php?title=%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="торнадо (la página no existe)">торнадо</a></span><sup> <a href="https://kk.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE" class="extiw" title="kk:торнадо">(kk)</a></sup></li></ul>
+<ul><li><a href="/wiki/kurdo" title="kurdo">Kurdo</a>:&#160;[1]&#160;<span lang="ku" style="" class=""><a href="/w/index.php?title=babl%C3%AEsok&amp;action=edit&amp;redlink=1" class="new" title="bablîsok (la página no existe)">bablîsok</a></span><sup> <a href="https://ku.wiktionary.org/wiki/babl%C3%AEsok" class="extiw" title="ku:bablîsok">(ku)</a></sup></li></ul>
+<ul><li><a href="/wiki/let%C3%B3n" title="letón">Letón</a>:&#160;[1]&#160;<span lang="lv" style="" class=""><a href="/w/index.php?title=virpu%C4%BCviesulis&amp;action=edit&amp;redlink=1" class="new" title="virpuļviesulis (la página no existe)">virpuļviesulis</a></span><sup> <a href="https://lv.wiktionary.org/wiki/virpu%C4%BCviesulis" class="extiw" title="lv:virpuļviesulis">(lv)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/lituano" title="lituano">Lituano</a>:&#160;[1]&#160;<span lang="lt" style="" class=""><a href="/w/index.php?title=viesulas&amp;action=edit&amp;redlink=1" class="new" title="viesulas (la página no existe)">viesulas</a></span><sup> <a href="https://lt.wiktionary.org/wiki/viesulas" class="extiw" title="lt:viesulas">(lt)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span>,&#160;<span lang="lt" style="" class=""><a href="/wiki/tornadas#Lituano" title="tornadas">tornadas</a></span><sup> <a href="https://lt.wiktionary.org/wiki/tornadas" class="extiw" title="lt:tornadas">(lt)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span>,&#160;<span lang="lt" style="" class=""><a href="/wiki/trombas#Lituano" title="trombas">trombas</a></span><sup> <a href="https://lt.wiktionary.org/wiki/trombas" class="extiw" title="lt:trombas">(lt)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/luxemburgu%C3%A9s" title="luxemburgués">Luxemburgués</a>:&#160;[1]&#160;<span lang="lb" style="" class=""><a href="/wiki/Tornado#Luxemburgués" title="Tornado">Tornado</a></span><sup> <a href="https://lb.wiktionary.org/wiki/Tornado" class="extiw" title="lb:Tornado">(lb)</a></sup></li></ul>
+<ul><li><a href="/wiki/macedonio" title="macedonio">Macedonio</a>:&#160;[1]&#160;<span lang="mk" style="" class=""><a href="/w/index.php?title=%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="торнадо (la página no existe)">торнадо</a></span><sup> <a href="https://mk.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE" class="extiw" title="mk:торнадо">(mk)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de торнадо al alfabeto latino">tornado</span>)</li></ul>
+<ul><li><a href="/wiki/malayalam" title="malayalam">Malayalam</a>:&#160;[1]&#160;<span lang="ml" style="" class=""><a href="/w/index.php?title=%E0%B4%9F%E0%B5%8A%E0%B5%BC%E0%B4%A3%E0%B5%87%E0%B4%A1%E0%B5%8B&amp;action=edit&amp;redlink=1" class="new" title="ടൊർണേഡോ (la página no existe)">ടൊർണേഡോ</a></span><sup> <a href="https://ml.wiktionary.org/wiki/%E0%B4%9F%E0%B5%8A%E0%B5%BC%E0%B4%A3%E0%B5%87%E0%B4%A1%E0%B5%8B" class="extiw" title="ml:ടൊർണേഡോ">(ml)</a></sup></li></ul>
+<ul><li><a href="/wiki/malayo" title="malayo">Malayo</a>:&#160;[1]&#160;<span lang="ms" style="" class=""><a href="/w/index.php?title=puting_beliung&amp;action=edit&amp;redlink=1" class="new" title="puting beliung (la página no existe)">puting beliung</a></span><sup> <a href="https://ms.wiktionary.org/wiki/puting_beliung" class="extiw" title="ms:puting beliung">(ms)</a></sup></li></ul>
+<ul><li><a href="/wiki/min_nan" title="min nan">Min nan</a>:&#160;[1]&#160;<span lang="nan" style="" class=""><a href="/w/index.php?title=k%C5%84g-l%C3%AA-%C3%A1-hong&amp;action=edit&amp;redlink=1" class="new" title="kńg-lê-á-hong (la página no existe)">kńg-lê-á-hong</a></span><sup> <a href="https://zh-min-nan.wiktionary.org/wiki/k%C5%84g-l%C3%AA-%C3%A1-hong" class="extiw" title="nan:kńg-lê-á-hong">(nan)</a></sup></li></ul>
+<ul><li><a href="/wiki/navajo" title="navajo">Navajo</a>:&#160;[1]&#160;<span lang="nv" style="" class=""><a href="/w/index.php?title=niyoltsoh&amp;action=edit&amp;redlink=1" class="new" title="niyoltsoh (la página no existe)">niyoltsoh</a></span><sup> <a href="https://nv.wiktionary.org/wiki/niyoltsoh" class="extiw" title="nv:niyoltsoh">(nv)</a></sup></li></ul>
+<ul><li><a href="/wiki/neerland%C3%A9s" title="neerlandés">Neerlandés</a>:&#160;[1]&#160;<span lang="nl" style="" class=""><a href="/wiki/tornado#Neerlandés" title="tornado">tornado</a></span><sup> <a href="https://nl.wiktionary.org/wiki/tornado" class="extiw" title="nl:tornado">(nl)</a></sup></li></ul>
+<ul><li><a href="/wiki/noruego_bokm%C3%A5l" title="noruego bokmål">Noruego bokmål</a>:&#160;[1]&#160;<span lang="no" style="" class=""><a href="/wiki/tornado#Noruego_bokmål" title="tornado">tornado</a></span><sup> <a href="https://no.wiktionary.org/wiki/tornado" class="extiw" title="no:tornado">(no)</a></sup></li></ul>
+<ul><li><a href="/wiki/noruego_nynorsk" title="noruego nynorsk">Noruego nynorsk</a>:&#160;[1]&#160;<span lang="nn" style="" class=""><a href="/wiki/tornado#Noruego_nynorsk" title="tornado">tornado</a></span><sup> <a href="https://nn.wiktionary.org/wiki/tornado" class="extiw" title="nn:tornado">(nn)</a></sup></li></ul>
+<ul><li><a href="/wiki/o%27odham" class="mw-redirect" title="o&#39;odham">O'odham</a>:&#160;[1]&#160;<span lang="ood" style="" class=""><a href="/w/index.php?title=siwulogi&amp;action=edit&amp;redlink=1" class="new" title="siwulogi (la página no existe)">siwulogi</a></span><sup> <a href="/w/index.php?title=ood:siwulogi&amp;action=edit&amp;redlink=1" class="new" title="ood:siwulogi (la página no existe)">(ood)</a></sup></li></ul>
+<ul><li><a href="/w/index.php?title=oromo&amp;action=edit&amp;redlink=1" class="new" title="oromo (la página no existe)">Oromo</a>:&#160;[1]&#160;<span lang="om" style="" class=""><a href="/wiki/tornado#Oromo" title="tornado">tornado</a></span><sup> <a href="https://om.wiktionary.org/wiki/tornado" class="extiw" title="om:tornado">(om)</a></sup></li></ul>
+<ul><li><a href="/w/index.php?title=panyab%C3%AD_occidental&amp;action=edit&amp;redlink=1" class="new" title="panyabí occidental (la página no existe)">Panyabí occidental</a>:&#160;[1]&#160;<span lang="pnb" style="" class=""><a href="/w/index.php?title=%D9%B9%D9%88%D8%B1%D9%86%DB%8C%DA%88%D9%88&amp;action=edit&amp;redlink=1" class="new" title="ٹورنیڈو (la página no existe)">ٹورنیڈو</a></span><sup> <a href="https://pnb.wiktionary.org/wiki/%D9%B9%D9%88%D8%B1%D9%86%DB%8C%DA%88%D9%88" class="extiw" title="pnb:ٹورنیڈو">(pnb)</a></sup></li></ul>
+<ul><li><a href="/wiki/persa" title="persa">Persa</a>:&#160;[1]&#160;<span lang="fa" style="" class=""><a href="/w/index.php?title=%D9%BE%DB%8C%DA%86%D9%86%D8%AF&amp;action=edit&amp;redlink=1" class="new" title="پیچند (la página no existe)">پیچند</a></span><sup> <a href="https://fa.wiktionary.org/wiki/%D9%BE%DB%8C%DA%86%D9%86%D8%AF" class="extiw" title="fa:پیچند">(fa)</a></sup></li></ul>
+<ul><li><a href="/wiki/polaco" title="polaco">Polaco</a>:&#160;[1]&#160;<span lang="pl" style="" class=""><a href="/wiki/tornado#Polaco" title="tornado">tornado</a></span><sup> <a href="https://pl.wiktionary.org/wiki/tornado" class="extiw" title="pl:tornado">(pl)</a></sup></li></ul>
+<ul><li><a href="/wiki/portugu%C3%A9s" title="portugués">Portugués</a>:&#160;[1]&#160;<span lang="pt" style="" class=""><a href="/w/index.php?title=ciclone&amp;action=edit&amp;redlink=1" class="new" title="ciclone (la página no existe)">ciclone</a></span><sup> <a href="https://pt.wiktionary.org/wiki/ciclone" class="extiw" title="pt:ciclone">(pt)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span>,&#160;<span lang="pt" style="" class=""><a href="/wiki/tornado#Portugués" title="tornado">tornado</a></span><sup> <a href="https://pt.wiktionary.org/wiki/tornado" class="extiw" title="pt:tornado">(pt)</a></sup><span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/quechua_cuzque%C3%B1o" title="quechua cuzqueño">Quechua cuzqueño</a>:&#160;[1]&#160;<span lang="quz" style="" class=""><a href="/wiki/sinchi_muyuq_wayra#Quechua_cuzqueño" title="sinchi muyuq wayra">sinchi muyuq wayra</a></span><sup> <a href="/w/index.php?title=quz:sinchi_muyuq_wayra&amp;action=edit&amp;redlink=1" class="new" title="quz:sinchi muyuq wayra (la página no existe)">(quz)</a></sup></li></ul>
+<ul><li><a href="/wiki/rumano" title="rumano">Rumano</a>:&#160;[1]&#160;<span lang="ro" style="" class=""><a href="/w/index.php?title=tornad%C4%83&amp;action=edit&amp;redlink=1" class="new" title="tornadă (la página no existe)">tornadă</a></span><sup> <a href="https://ro.wiktionary.org/wiki/tornad%C4%83" class="extiw" title="ro:tornadă">(ro)</a></sup><span style="font-size: 90%; font-style: italic" title="De género femenino">&#160;<a href="/wiki/femenino" title="femenino">f</a></span></li></ul>
+<ul><li><a href="/wiki/ruso" title="ruso">Ruso</a>:&#160;[1]&#160;<span lang="ru" style="" class=""><a href="/w/index.php?title=%D1%81%D0%BC%D0%B5%D1%80%D1%87&amp;action=edit&amp;redlink=1" class="new" title="смерч (la página no existe)">смерч</a></span><sup> <a href="https://ru.wiktionary.org/wiki/%D1%81%D0%BC%D0%B5%D1%80%D1%87" class="extiw" title="ru:смерч">(ru)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de смерч al alfabeto latino">smerč</span>)<span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span>,&#160;<span lang="ru" style="" class=""><a href="/w/index.php?title=%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="торнадо (la página no existe)">торнадо</a></span><sup> <a href="https://ru.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE" class="extiw" title="ru:торнадо">(ru)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de торнадо al alfabeto latino">tornádo</span>)<span style="font-size: 90%; font-style: italic" title="De género masculino">&#160;<a href="/wiki/masculino" title="masculino">m</a></span></li></ul>
+<ul><li><a href="/wiki/serbio" title="serbio">Serbio</a>:&#160;[1]&#160;<span lang="sr" style="" class=""><a href="/w/index.php?title=%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="торнадо (la página no existe)">торнадо</a></span><sup> <a href="https://sr.wiktionary.org/wiki/%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE" class="extiw" title="sr:торнадо">(sr)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de торнадо al alfabeto latino">tornado</span>)</li></ul>
+<ul><li><a href="/wiki/serbocroata" title="serbocroata">Serbocroata</a>:&#160;[1]&#160;<span lang="sh" style="" class=""><a href="/wiki/tornado#Serbocroata" title="tornado">tornado</a></span><sup> <a href="https://sh.wiktionary.org/wiki/tornado" class="extiw" title="sh:tornado">(sh)</a></sup></li></ul>
+<ul><li><a href="/wiki/siciliano" title="siciliano">Siciliano</a>:&#160;[1]&#160;<span lang="scn" style="" class=""><a href="/w/index.php?title=turnatu&amp;action=edit&amp;redlink=1" class="new" title="turnatu (la página no existe)">turnatu</a></span><sup> <a href="https://scn.wiktionary.org/wiki/turnatu" class="extiw" title="scn:turnatu">(scn)</a></sup></li></ul>
+<ul><li><a href="/wiki/sotho_norte%C3%B1o" title="sotho norteño">Sotho norteño</a>:&#160;[1]&#160;<span lang="nso" style="" class=""><a href="/w/index.php?title=sedukaduka&amp;action=edit&amp;redlink=1" class="new" title="sedukaduka (la página no existe)">sedukaduka</a></span><sup> <a href="https://nso.wiktionary.org/wiki/sedukaduka" class="extiw" title="nso:sedukaduka">(nso)</a></sup></li></ul>
+<ul><li><a href="/wiki/sueco" title="sueco">Sueco</a>:&#160;[1]&#160;<span lang="sv" style="" class=""><a href="/wiki/tornado#Sueco" title="tornado">tornado</a></span><sup> <a href="https://sv.wiktionary.org/wiki/tornado" class="extiw" title="sv:tornado">(sv)</a></sup>,&#160;<span lang="sv" style="" class=""><a href="/w/index.php?title=tromb&amp;action=edit&amp;redlink=1" class="new" title="tromb (la página no existe)">tromb</a></span><sup> <a href="https://sv.wiktionary.org/wiki/tromb" class="extiw" title="sv:tromb">(sv)</a></sup><span style="font-size: 90%; font-style: italic" title="De género común">&#160;<a href="/wiki/com%C3%BAn" title="común">c</a></span></li></ul>
+<ul><li><a href="/wiki/swahili" title="swahili">Swahili</a>:&#160;[1]&#160;<span lang="sw" style="" class=""><a href="/w/index.php?title=tufani&amp;action=edit&amp;redlink=1" class="new" title="tufani (la página no existe)">tufani</a></span><sup> <a href="https://sw.wiktionary.org/wiki/tufani" class="extiw" title="sw:tufani">(sw)</a></sup></li></ul>
+<ul><li><a href="/wiki/tagalo" title="tagalo">Tagalo</a>:&#160;[1]&#160;<span lang="tl" style="" class=""><a href="/w/index.php?title=buhawi&amp;action=edit&amp;redlink=1" class="new" title="buhawi (la página no existe)">buhawi</a></span><sup> <a href="https://tl.wiktionary.org/wiki/buhawi" class="extiw" title="tl:buhawi">(tl)</a></sup></li></ul>
+<ul><li><a href="/wiki/tailand%C3%A9s" title="tailandés">Tailandés</a>:&#160;[1]&#160;<span lang="th" style="" class=""><a href="/w/index.php?title=%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%94&amp;action=edit&amp;redlink=1" class="new" title="ทอร์นาโด (la página no existe)">ทอร์นาโด</a></span><sup> <a href="https://th.wiktionary.org/wiki/%E0%B8%97%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%99%E0%B8%B2%E0%B9%82%E0%B8%94" class="extiw" title="th:ทอร์นาโด">(th)</a></sup></li></ul>
+<ul><li><a href="/wiki/tamil" title="tamil">Tamil</a>:&#160;[1]&#160;<span lang="ta" style="" class=""><a href="/w/index.php?title=%E0%AE%95%E0%AF%81%E0%AE%B4%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81&amp;action=edit&amp;redlink=1" class="new" title="குழல் காற்று (la página no existe)">குழல் காற்று</a></span><sup> <a href="https://ta.wiktionary.org/wiki/%E0%AE%95%E0%AF%81%E0%AE%B4%E0%AE%B2%E0%AF%8D_%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81" class="extiw" title="ta:குழல் காற்று">(ta)</a></sup></li></ul>
+<ul><li><a href="/wiki/turco" title="turco">Turco</a>:&#160;[1]&#160;<span lang="tr" style="" class=""><a href="/w/index.php?title=hortum&amp;action=edit&amp;redlink=1" class="new" title="hortum (la página no existe)">hortum</a></span><sup> <a href="https://tr.wiktionary.org/wiki/hortum" class="extiw" title="tr:hortum">(tr)</a></sup></li></ul>
+<ul><li><a href="/wiki/ucraniano" title="ucraniano">Ucraniano</a>:&#160;[1]&#160;<span lang="uk" style="" class=""><a href="/w/index.php?title=%D1%81%D0%BC%D0%B5%D1%80%D1%87&amp;action=edit&amp;redlink=1" class="new" title="смерч (la página no existe)">смерч</a></span><sup> <a href="https://uk.wiktionary.org/wiki/%D1%81%D0%BC%D0%B5%D1%80%D1%87" class="extiw" title="uk:смерч">(uk)</a></sup></li></ul>
+<ul><li><a href="/wiki/t%C3%A1rtaro_de_Crimea" title="tártaro de Crimea">Tártaro de Crimea</a>:&#160;[1]&#160;<span lang="crh" style="" class=""><a href="/w/index.php?title=%C5%9Feytan_toyu&amp;action=edit&amp;redlink=1" class="new" title="şeytan toyu (la página no existe)">şeytan toyu</a></span><sup> <a href="https://crh.wiktionary.org/wiki/%C5%9Feytan_toyu" class="extiw" title="crh:şeytan toyu">(crh)</a></sup></li></ul>
+<ul><li><a href="/w/index.php?title=v%C3%B5ro&amp;action=edit&amp;redlink=1" class="new" title="võro (la página no existe)">Võro</a>:&#160;[1]&#160;<span lang="fiu-vro" style="" class=""><a href="/w/index.php?title=tuulisp%C3%A4%C3%A4&amp;action=edit&amp;redlink=1" class="new" title="tuulispää (la página no existe)">tuulispää</a></span><sup> <a href="https://fiu-vro.wiktionary.org/wiki/tuulisp%C3%A4%C3%A4" class="extiw" title="fiu-vro:tuulispää">(fiu-vro)</a></sup></li></ul>
+<ul><li><a href="/wiki/vietnamita" title="vietnamita">Vietnamita</a>:&#160;[1]&#160;<span lang="vi" style="" class=""><a href="/w/index.php?title=l%E1%BB%91c_xo%C3%A1y&amp;action=edit&amp;redlink=1" class="new" title="lốc xoáy (la página no existe)">lốc xoáy</a></span><sup> <a href="https://vi.wiktionary.org/wiki/l%E1%BB%91c_xo%C3%A1y" class="extiw" title="vi:lốc xoáy">(vi)</a></sup></li></ul>
+<ul><li><a href="/w/index.php?title=samare%C3%B1o&amp;action=edit&amp;redlink=1" class="new" title="samareño (la página no existe)">Samareño</a>:&#160;[1]&#160;<span lang="war" style="" class=""><a href="/w/index.php?title=buhawi&amp;action=edit&amp;redlink=1" class="new" title="buhawi (la página no existe)">buhawi</a></span><sup> <a href="https://war.wiktionary.org/wiki/buhawi" class="extiw" title="war:buhawi">(war)</a></sup></li></ul>
+<ul><li><a href="/wiki/y%C3%ADdish" title="yídish">Yídish</a>:&#160;[1]&#160;<span lang="yi" style="" class=""><a href="/w/index.php?title=%D7%98%D7%90%D7%A8%D7%A0%D7%90%D7%93%D7%90&amp;action=edit&amp;redlink=1" class="new" title="טארנאדא (la página no existe)">טארנאדא</a></span><sup> <a href="https://yi.wiktionary.org/wiki/%D7%98%D7%90%D7%A8%D7%A0%D7%90%D7%93%D7%90" class="extiw" title="yi:טארנאדא">(yi)</a></sup>&#160;(<span style="font-style: italic;" title="Transliteración de טארנאדא al alfabeto latino">tornado</span>)</li></ul>
+</td></tr></tbody></table>
+</div>
+</div>
+<h3><span class="mw-headline" id="Forma_flexiva">Forma flexiva</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=6" title="Editar sección: Forma flexiva">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Forma_verbal">Forma verbal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=7" title="Editar sección: Forma verbal">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="inflection-table">
+<tbody><tr>
+<th>
+</th>
+<th style="text-align:center;padding-left:5px; padding-right:5px">Singular
+</th>
+<th style="text-align:center;padding-left:5px; padding-right:5px">Plural
+</th></tr>
+<tr>
+<th style="padding-left:5px; padding-right:5px">Masculino
+</th>
+<td dir="ltr" style="padding-left:5px; padding-right:5px">tornado
+</td>
+<td dir="ltr" style="padding-left:5px; padding-right:5px"><span lang="es" style="" class=""><a href="/wiki/tornados#Español" title="tornados">tornados</a></span>
+</td></tr>
+<tr>
+<th style="padding-left:5px; padding-right:5px">Femenino
+</th>
+<td dir="ltr" style="padding-left:5px; padding-right:5px"><span lang="es" style="" class=""><a href="/wiki/tornada#Español" title="tornada">tornada</a></span>
+</td>
+<td dir="ltr" style="padding-left:5px; padding-right:5px"><span lang="es" style="" class=""><a href="/wiki/tornadas#Español" title="tornadas">tornadas</a></span>
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><style data-mw-deduplicate="TemplateStyles:r4756912">.mw-parser-output .definicion-impropia{font-style:italic}</style><span class="definicion-impropia"><a href="/wiki/participio#Español" title="participio">Participio</a>&#160;de&#160;</span><span lang="es" style="" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4756912"/><span class="definicion-impropia">&#160;o de</span>&#160;<a href="/wiki/tornarse" title="tornarse">tornarse</a>.</dd></dl>
+<h2><span id="Afrik.C3.A1ans"></span><span class="mw-headline" id="Afrikáans"><span id="af" class="headline-lang">Afrikáans</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=8" title="Editar sección: Afrikáans">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_2"></span><span class="mw-headline" id="Etimología_2">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=9" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=10" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Aragon.C3.A9s"></span><span class="mw-headline" id="Aragonés"><span id="an" class="headline-lang">Aragonés</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=11" title="Editar sección: Aragonés">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_3"></span><span class="mw-headline" id="Etimología_3">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=12" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_2">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=13" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="an" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="an" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px"><span lang="an" style="" class=""><a href="/wiki/tornados#Aragonés" title="tornados">tornados</a></span>
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Azer.C3.AD"></span><span class="mw-headline" id="Azerí"><span id="az" class="headline-lang">Azerí</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=14" title="Editar sección: Azerí">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_4"></span><span class="mw-headline" id="Etimología_4">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=15" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_3">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=16" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Bosnio"><span id="bs" class="headline-lang">Bosnio</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=17" title="Editar sección: Bosnio">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_5"></span><span class="mw-headline" id="Etimología_5">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=18" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_4">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=19" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Catal.C3.A1n"></span><span class="mw-headline" id="Catalán"><span id="ca" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/CA" title="Wikcionario:Referencia/CA">Catalán</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=20" title="Editar sección: Catalán">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_6"></span><span class="mw-headline" id="Etimología_6">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=21" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_masculino_2">Sustantivo&#160;masculino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=22" title="Editar sección: Sustantivo masculino">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="ca" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="ca" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornados
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Croata"><span id="hr" class="headline-lang">Croata</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=23" title="Editar sección: Croata">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_7"></span><span class="mw-headline" id="Etimología_7">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=24" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_masculino_3">Sustantivo&#160;masculino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=25" title="Editar sección: Sustantivo masculino">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Dan.C3.A9s"></span><span class="mw-headline" id="Danés"><span id="da" class="headline-lang">Danés</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=26" title="Editar sección: Danés">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_8"></span><span class="mw-headline" id="Etimología_8">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=27" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span id="Sustantivo_com.C3.BAn"></span><span class="mw-headline" id="Sustantivo_común">Sustantivo&#160;común</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=28" title="Editar sección: Sustantivo común">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Esloveno"><span id="sl" class="headline-lang">Esloveno</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=29" title="Editar sección: Esloveno">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_9"></span><span class="mw-headline" id="Etimología_9">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=30" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_5">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=31" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Esperanto"><span id="eo" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/EO" title="Wikcionario:Referencia/EO">Esperanto</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=32" title="Editar sección: Esperanto">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top"><a href="/wiki/Wikcionario:Referencia/EO/Pronunciaci%C3%B3n" title="Wikcionario:Referencia/EO/Pronunciación">Pronunciación</a>&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_10"></span><span class="mw-headline" id="Etimología_10">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=33" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_6">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=34" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+<tbody><tr>
+<th width="30%">
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="33%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="33%">Plural
+</th></tr>
+<tr>
+<th><span style="padding-left:4px">Nominativo</span>
+</th>
+<td lang="eo" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="eo" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px"><span lang="eo" style="" class=""><a href="/w/index.php?title=tornadoj&amp;action=edit&amp;redlink=1" class="new" title="tornadoj (la página no existe)">tornadoj</a></span>
+</td></tr>
+<tr>
+<th><span style="padding-left:4px">Acusativo</span>
+</th>
+<td lang="eo" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px"><span lang="eo" style="" class=""><a href="/w/index.php?title=tornadon&amp;action=edit&amp;redlink=1" class="new" title="tornadon (la página no existe)">tornadon</a></span>
+</td>
+<td lang="eo" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px"><span lang="eo" style="" class=""><a href="/w/index.php?title=tornadojn&amp;action=edit&amp;redlink=1" class="new" title="tornadojn (la página no existe)">tornadojn</a></span>
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Euskera"><span id="eu" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/EU" title="Wikcionario:Referencia/EU">Euskera</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=35" title="Editar sección: Euskera">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_11"></span><span class="mw-headline" id="Etimología_11">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=36" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_inanimado">Sustantivo&#160;inanimado</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=37" title="Editar sección: Sustantivo inanimado">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Fin.C3.A9s"></span><span class="mw-headline" id="Finés"><span id="fi" class="headline-lang">Finés</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=38" title="Editar sección: Finés">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_12"></span><span class="mw-headline" id="Etimología_12">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=39" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_7">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=40" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table collapsible collapsed" style="margin-left: 0.5em; float: right;" lang="fi">
+<caption class="normal"><span style="font-size:125%; padding:20px">Flexión de <b>tornado</b></span><br /><i>modelo <span lang="fi" style="" class=""><a href="/wiki/kohtalo#Finés" title="kohtalo">kohtalo</a></span></i>
+</caption>
+<tbody><tr lang="es">
+<th>
+</th>
+<th class="vertical">Singular
+</th>
+<th class="vertical">Plural
+</th></tr>
+<tr>
+<th lang="es"><a href="/wiki/nominativo" title="nominativo">Nominativo</a>
+</th>
+<td>tornado
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadot&amp;action=edit&amp;redlink=1" class="new" title="tornadot (la página no existe)">tornadot</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/genitivo" title="genitivo">Genitivo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadon&amp;action=edit&amp;redlink=1" class="new" title="tornadon (la página no existe)">tornadon</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadojen&amp;action=edit&amp;redlink=1" class="new" title="tornadojen (la página no existe)">tornadojen</a></span><br /><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoiden&amp;action=edit&amp;redlink=1" class="new" title="tornadoiden (la página no existe)">tornadoiden</a></span><br /><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoitten&amp;action=edit&amp;redlink=1" class="new" title="tornadoitten (la página no existe)">tornadoitten</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/partitivo#Español" title="partitivo">Partitivo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoa&amp;action=edit&amp;redlink=1" class="new" title="tornadoa (la página no existe)">tornadoa</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoja&amp;action=edit&amp;redlink=1" class="new" title="tornadoja (la página no existe)">tornadoja</a></span><br /><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoita&amp;action=edit&amp;redlink=1" class="new" title="tornadoita (la página no existe)">tornadoita</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/acusativo" title="acusativo">Acusativo</a>
+</th>
+<td>tornado
+</td>
+<td rowspan="2"><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadot&amp;action=edit&amp;redlink=1" class="new" title="tornadot (la página no existe)">tornadot</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/acusativo" title="acusativo">Acusativo</a> 2
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadon&amp;action=edit&amp;redlink=1" class="new" title="tornadon (la página no existe)">tornadon</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/inesivo#Español" title="inesivo">Inesivo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadossa&amp;action=edit&amp;redlink=1" class="new" title="tornadossa (la página no existe)">tornadossa</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoissa&amp;action=edit&amp;redlink=1" class="new" title="tornadoissa (la página no existe)">tornadoissa</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/elativo#Español" title="elativo">Elativo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadosta&amp;action=edit&amp;redlink=1" class="new" title="tornadosta (la página no existe)">tornadosta</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoista&amp;action=edit&amp;redlink=1" class="new" title="tornadoista (la página no existe)">tornadoista</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/ilativo#Español" title="ilativo">Ilativo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoon&amp;action=edit&amp;redlink=1" class="new" title="tornadoon (la página no existe)">tornadoon</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoihin&amp;action=edit&amp;redlink=1" class="new" title="tornadoihin (la página no existe)">tornadoihin</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/adesivo#Español" title="adesivo">Adesivo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadolla&amp;action=edit&amp;redlink=1" class="new" title="tornadolla (la página no existe)">tornadolla</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoilla&amp;action=edit&amp;redlink=1" class="new" title="tornadoilla (la página no existe)">tornadoilla</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/ablativo#Español" title="ablativo">Ablativo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadolta&amp;action=edit&amp;redlink=1" class="new" title="tornadolta (la página no existe)">tornadolta</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoilta&amp;action=edit&amp;redlink=1" class="new" title="tornadoilta (la página no existe)">tornadoilta</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/alativo#Español" title="alativo">Alativo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadolle&amp;action=edit&amp;redlink=1" class="new" title="tornadolle (la página no existe)">tornadolle</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoille&amp;action=edit&amp;redlink=1" class="new" title="tornadoille (la página no existe)">tornadoille</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/esivo#Español" title="esivo">Esivo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadona&amp;action=edit&amp;redlink=1" class="new" title="tornadona (la página no existe)">tornadona</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoina&amp;action=edit&amp;redlink=1" class="new" title="tornadoina (la página no existe)">tornadoina</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/traslativo#Español" title="traslativo">Traslativo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoksi&amp;action=edit&amp;redlink=1" class="new" title="tornadoksi (la página no existe)">tornadoksi</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoiksi&amp;action=edit&amp;redlink=1" class="new" title="tornadoiksi (la página no existe)">tornadoiksi</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/abesivo#Español" title="abesivo">Abesivo</a>
+</th>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadotta&amp;action=edit&amp;redlink=1" class="new" title="tornadotta (la página no existe)">tornadotta</a></span>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoitta&amp;action=edit&amp;redlink=1" class="new" title="tornadoitta (la página no existe)">tornadoitta</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/instructivo#Español" title="instructivo">Instructivo</a>
+</th>
+<td>
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoin&amp;action=edit&amp;redlink=1" class="new" title="tornadoin (la página no existe)">tornadoin</a></span>
+</td></tr>
+<tr>
+<th lang="es"><a href="/wiki/comitativo#Español" title="comitativo">Comitativo</a>
+</th>
+<td>&#160;
+</td>
+<td><span lang="fi" style="" class=""><a href="/w/index.php?title=tornadoine&amp;action=edit&amp;redlink=1" class="new" title="tornadoine (la página no existe)">tornadoine</a></span><br />(+ sufijo posesivo)
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Gallego"><span id="gl" class="headline-lang">Gallego</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=41" title="Editar sección: Gallego">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_13"></span><span class="mw-headline" id="Etimología_13">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=42" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_8">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=43" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="gl" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="gl" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornados
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Indonesio"><span id="id" class="headline-lang">Indonesio</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=44" title="Editar sección: Indonesio">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_14"></span><span class="mw-headline" id="Etimología_14">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=45" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_9">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=46" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Ingl.C3.A9s"></span><span class="mw-headline" id="Inglés"><span id="en" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/EN" title="Wikcionario:Referencia/EN">Inglés</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=47" title="Editar sección: Inglés">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top"><a href="/wiki/Wikcionario:Referencia/EN/Pronunciaci%C3%B3n" title="Wikcionario:Referencia/EN/Pronunciación">Pronunciación</a>&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_15"></span><span class="mw-headline" id="Etimología_15">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=48" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>,</span> probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_10">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=49" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="en" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="en" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornados
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Italiano"><span id="it" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/IT" title="Wikcionario:Referencia/IT">Italiano</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=50" title="Editar sección: Italiano">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top"><a href="/wiki/Wikcionario:Referencia/IT/Pronunciaci%C3%B3n" title="Wikcionario:Referencia/IT/Pronunciación">Pronunciación</a>&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_16"></span><span class="mw-headline" id="Etimología_16">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=51" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_masculino_4">Sustantivo&#160;masculino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=52" title="Editar sección: Sustantivo masculino">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="it" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="it" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px"><span lang="it" style="" class=""><a href="/w/index.php?title=tornadi&amp;action=edit&amp;redlink=1" class="new" title="tornadi (la página no existe)">tornadi</a></span>
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Neerland.C3.A9s"></span><span class="mw-headline" id="Neerlandés"><span id="nl" class="headline-lang">Neerlandés</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=53" title="Editar sección: Neerlandés">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_17"></span><span class="mw-headline" id="Etimología_17">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=54" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_11">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=55" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Noruego_bokm.C3.A5l"></span><span class="mw-headline" id="Noruego_bokmål"><span id="no" class="headline-lang">Noruego bokmål</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=56" title="Editar sección: Noruego bokmål">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_18"></span><span class="mw-headline" id="Etimología_18">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=57" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_12">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=58" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Noruego_nynorsk"><span id="nn" class="headline-lang">Noruego nynorsk</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=59" title="Editar sección: Noruego nynorsk">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_19"></span><span class="mw-headline" id="Etimología_19">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=60" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_13">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=61" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Oromo"><span id="om" class="headline-lang">Oromo</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=62" title="Editar sección: Oromo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_20"></span><span class="mw-headline" id="Etimología_20">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=63" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_14">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=64" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Polaco"><span id="pl" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/PL" title="Wikcionario:Referencia/PL">Polaco</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=65" title="Editar sección: Polaco">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_21"></span><span class="mw-headline" id="Etimología_21">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=66" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_15">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=67" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span id="Portugu.C3.A9s"></span><span class="mw-headline" id="Portugués"><span id="pt" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/PT" title="Wikcionario:Referencia/PT">Portugués</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=68" title="Editar sección: Portugués">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_22"></span><span class="mw-headline" id="Etimología_22">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=69" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_masculino_5">Sustantivo&#160;masculino</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=70" title="Editar sección: Sustantivo masculino">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="inflection-table">
+
+<tbody><tr>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Singular
+</th>
+<th class="vertical" style="padding-left:4px; padding-right:4px" width="50%">Plural
+</th></tr>
+
+<tr>
+<td lang="pt" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornado
+</td>
+<td lang="pt" dir="ltr" style="text-align:center;padding-left:4px; padding-right:4px">tornados
+</td></tr></tbody></table>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Serbocroata"><span id="sh" class="headline-lang">Serbocroata</span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=71" title="Editar sección: Serbocroata">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_23"></span><span class="mw-headline" id="Etimología_23">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=72" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_16">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=73" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Sueco"><span id="sv" class="headline-lang"><a href="/wiki/Wikcionario:Referencia/SV" title="Wikcionario:Referencia/SV">Sueco</a></span></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=74" title="Editar sección: Sueco">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="toccolours" cellspacing="0.1" style="float: right; clear: right; margin: 0.2em 0 0.2em 1.4em;">
+<tbody><tr>
+<td style="background:#EBEBEB; text-align:left; font-weight:420" colspan="2">&#160;<span style="font-family: Helvetica; font-size: 1.5em;">tornado</span>
+</td></tr>
+
+
+
+
+
+
+<tr>
+<td style="vertical-align:top">Pronunciación&#160;(<a href="/wiki/Alfabeto_Fon%C3%A9tico_Internacional" title="Alfabeto Fonético Internacional">AFI</a>):&#160;
+</td>
+<td><span style="color: green; font-size: 90%; font-style: italic;">Si puedes, <a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">¡incorpórala!</a></span>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<h3><span id="Etimolog.C3.ADa_24"></span><span class="mw-headline" id="Etimología_24">Etimología</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=75" title="Editar sección: Etimología">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><span class="etym-transition-bullet">Del inglés <span lang="en" style="font-style:italic;" class=""><a href="/wiki/tornado#Inglés" title="tornado">tornado</a></span></span>, y este del anterior <span lang="en" style="font-style:italic;" class=""><a href="/w/index.php?title=ternado&amp;action=edit&amp;redlink=1" class="new" title="ternado (la página no existe)">ternado</a></span>, probablemente del español <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tronada#Español" title="tronada">tronada</a></span>, con metátesis por influencia de <span lang="es" style="font-style:italic;" class=""><a href="/wiki/tornar#Español" title="tornar">tornar</a></span>.
+</p>
+<h3><span class="mw-headline" id="Sustantivo_17">Sustantivo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=76" title="Editar sección: Sustantivo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl><dt>1</dt>
+<dd><a href="/wiki/tornado#Español" title="tornado">Tornado</a>.</dd></dl>
+<h2><span class="mw-headline" id="Referencias_y_notas">Referencias y notas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=tornado&amp;action=edit&amp;section=77" title="Editar sección: Referencias y notas">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://dictionary.oed.com/cgi/findword?query_type=word&amp;queryword=tornado">tornado</a>". En: <i>Oxford English Dictionary Online</i> (1989). Oxford: Oxford University Press</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20200210124113
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 2.544 seconds
+Real time usage: 3.118 seconds
+Preprocessor visited node count: 151409/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 347652/2097152 bytes
+Template argument size: 71045/2097152 bytes
+Highest expansion depth: 30/40
+Expensive parser function count: 51/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 961/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.004/10.000 seconds
+Lua memory usage: 516 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 2863.140      1 -total
+ 65.75% 1882.415     84 Plantilla:t+
+ 38.46% 1101.281    260 Plantilla:t+/parte
+ 31.27%  895.273    260 Plantilla:str_number
+ 29.69%  850.009    344 Plantilla:str_number/logic
+ 27.08%  775.326    344 Plantilla:str_index_any
+ 25.55%  731.612    344 Plantilla:str_≥_len
+ 20.97%  600.500    260 Plantilla:str_index/getchar
+ 11.43%  327.188    362 Plantilla:detección_namespace
+  9.09%  260.370     23 Plantilla:etimología
+-->
+
+<!-- Saved in parser cache with key eswiktionary:pcache:idhash:43002-0!canonical and timestamp 20200210124113 and revision id 4851753
+ -->
+</div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/w/index.php?title=tornado&amp;oldid=4851753">https://es.wiktionary.org/w/index.php?title=tornado&amp;oldid=4851753</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol" title="Categoría:Español">Español</a></li><li><a href="/wiki/Categor%C3%ADa:ES:Palabras_de_origen_ingl%C3%A9s" title="Categoría:ES:Palabras de origen inglés">ES:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:ES:Sustantivos" title="Categoría:ES:Sustantivos">ES:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:ES:Sustantivos_masculinos" title="Categoría:ES:Sustantivos masculinos">ES:Sustantivos masculinos</a></li><li><a href="/wiki/Categor%C3%ADa:ES:Meteorolog%C3%ADa" title="Categoría:ES:Meteorología">ES:Meteorología</a></li><li><a href="/wiki/Categor%C3%ADa:ES:Participios" title="Categoría:ES:Participios">ES:Participios</a></li><li><a href="/wiki/Categor%C3%ADa:Afrik%C3%A1ans-Espa%C3%B1ol" title="Categoría:Afrikáans-Español">Afrikáans-Español</a></li><li><a href="/wiki/Categor%C3%ADa:AF:Palabras_de_origen_ingl%C3%A9s" title="Categoría:AF:Palabras de origen inglés">AF:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:AF:Sustantivos" title="Categoría:AF:Sustantivos">AF:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Aragon%C3%A9s-Espa%C3%B1ol" title="Categoría:Aragonés-Español">Aragonés-Español</a></li><li><a href="/wiki/Categor%C3%ADa:AN:Palabras_de_origen_ingl%C3%A9s" title="Categoría:AN:Palabras de origen inglés">AN:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:AN:Sustantivos" title="Categoría:AN:Sustantivos">AN:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Azer%C3%AD-Espa%C3%B1ol" title="Categoría:Azerí-Español">Azerí-Español</a></li><li><a href="/wiki/Categor%C3%ADa:AZ:Palabras_de_origen_ingl%C3%A9s" title="Categoría:AZ:Palabras de origen inglés">AZ:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:AZ:Sustantivos" title="Categoría:AZ:Sustantivos">AZ:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Bosnio-Espa%C3%B1ol" title="Categoría:Bosnio-Español">Bosnio-Español</a></li><li><a href="/wiki/Categor%C3%ADa:BS:Palabras_de_origen_ingl%C3%A9s" title="Categoría:BS:Palabras de origen inglés">BS:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:BS:Sustantivos" title="Categoría:BS:Sustantivos">BS:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Catal%C3%A1n-Espa%C3%B1ol" title="Categoría:Catalán-Español">Catalán-Español</a></li><li><a href="/wiki/Categor%C3%ADa:CA:Palabras_de_origen_ingl%C3%A9s" title="Categoría:CA:Palabras de origen inglés">CA:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:CA:Sustantivos" title="Categoría:CA:Sustantivos">CA:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:CA:Sustantivos_masculinos" title="Categoría:CA:Sustantivos masculinos">CA:Sustantivos masculinos</a></li><li><a href="/wiki/Categor%C3%ADa:Croata-Espa%C3%B1ol" title="Categoría:Croata-Español">Croata-Español</a></li><li><a href="/wiki/Categor%C3%ADa:HR:Palabras_de_origen_ingl%C3%A9s" title="Categoría:HR:Palabras de origen inglés">HR:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:HR:Sustantivos" title="Categoría:HR:Sustantivos">HR:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:HR:Sustantivos_masculinos" title="Categoría:HR:Sustantivos masculinos">HR:Sustantivos masculinos</a></li><li><a href="/wiki/Categor%C3%ADa:Dan%C3%A9s-Espa%C3%B1ol" title="Categoría:Danés-Español">Danés-Español</a></li><li><a href="/wiki/Categor%C3%ADa:DA:Palabras_de_origen_ingl%C3%A9s" title="Categoría:DA:Palabras de origen inglés">DA:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:DA:Sustantivos" title="Categoría:DA:Sustantivos">DA:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:DA:Sustantivos_comunes" title="Categoría:DA:Sustantivos comunes">DA:Sustantivos comunes</a></li><li><a href="/wiki/Categor%C3%ADa:Esloveno-Espa%C3%B1ol" title="Categoría:Esloveno-Español">Esloveno-Español</a></li><li><a href="/wiki/Categor%C3%ADa:SL:Palabras_de_origen_ingl%C3%A9s" title="Categoría:SL:Palabras de origen inglés">SL:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:SL:Sustantivos" title="Categoría:SL:Sustantivos">SL:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Esperanto-Espa%C3%B1ol" title="Categoría:Esperanto-Español">Esperanto-Español</a></li><li><a href="/wiki/Categor%C3%ADa:EO:Palabras_de_origen_ingl%C3%A9s" title="Categoría:EO:Palabras de origen inglés">EO:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:EO:Sustantivos" title="Categoría:EO:Sustantivos">EO:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Euskera-Espa%C3%B1ol" title="Categoría:Euskera-Español">Euskera-Español</a></li><li><a href="/wiki/Categor%C3%ADa:EU:Palabras_de_origen_ingl%C3%A9s" title="Categoría:EU:Palabras de origen inglés">EU:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:EU:Sustantivos" title="Categoría:EU:Sustantivos">EU:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:EU:Sustantivos_inanimados" title="Categoría:EU:Sustantivos inanimados">EU:Sustantivos inanimados</a></li><li><a href="/wiki/Categor%C3%ADa:Fin%C3%A9s-Espa%C3%B1ol" title="Categoría:Finés-Español">Finés-Español</a></li><li><a href="/wiki/Categor%C3%ADa:FI:Palabras_de_origen_ingl%C3%A9s" title="Categoría:FI:Palabras de origen inglés">FI:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:FI:Sustantivos" title="Categoría:FI:Sustantivos">FI:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Gallego-Espa%C3%B1ol" title="Categoría:Gallego-Español">Gallego-Español</a></li><li><a href="/wiki/Categor%C3%ADa:GL:Palabras_de_origen_ingl%C3%A9s" title="Categoría:GL:Palabras de origen inglés">GL:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:GL:Sustantivos" title="Categoría:GL:Sustantivos">GL:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Indonesio-Espa%C3%B1ol" title="Categoría:Indonesio-Español">Indonesio-Español</a></li><li><a href="/wiki/Categor%C3%ADa:ID:Palabras_de_origen_ingl%C3%A9s" title="Categoría:ID:Palabras de origen inglés">ID:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:ID:Sustantivos" title="Categoría:ID:Sustantivos">ID:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Ingl%C3%A9s-Espa%C3%B1ol" title="Categoría:Inglés-Español">Inglés-Español</a></li><li><a href="/wiki/Categor%C3%ADa:EN:Sustantivos" title="Categoría:EN:Sustantivos">EN:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Italiano-Espa%C3%B1ol" title="Categoría:Italiano-Español">Italiano-Español</a></li><li><a href="/wiki/Categor%C3%ADa:IT:Palabras_de_origen_ingl%C3%A9s" title="Categoría:IT:Palabras de origen inglés">IT:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:IT:Sustantivos" title="Categoría:IT:Sustantivos">IT:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:IT:Sustantivos_masculinos" title="Categoría:IT:Sustantivos masculinos">IT:Sustantivos masculinos</a></li><li><a href="/wiki/Categor%C3%ADa:Neerland%C3%A9s-Espa%C3%B1ol" title="Categoría:Neerlandés-Español">Neerlandés-Español</a></li><li><a href="/wiki/Categor%C3%ADa:NL:Palabras_de_origen_ingl%C3%A9s" title="Categoría:NL:Palabras de origen inglés">NL:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:NL:Sustantivos" title="Categoría:NL:Sustantivos">NL:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Noruego_bokm%C3%A5l-Espa%C3%B1ol" title="Categoría:Noruego bokmål-Español">Noruego bokmål-Español</a></li><li><a href="/wiki/Categor%C3%ADa:NO:Palabras_de_origen_ingl%C3%A9s" title="Categoría:NO:Palabras de origen inglés">NO:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:NO:Sustantivos" title="Categoría:NO:Sustantivos">NO:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Noruego_nynorsk-Espa%C3%B1ol" title="Categoría:Noruego nynorsk-Español">Noruego nynorsk-Español</a></li><li><a href="/wiki/Categor%C3%ADa:NN:Palabras_de_origen_ingl%C3%A9s" title="Categoría:NN:Palabras de origen inglés">NN:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:NN:Sustantivos" title="Categoría:NN:Sustantivos">NN:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Oromo-Espa%C3%B1ol" title="Categoría:Oromo-Español">Oromo-Español</a></li><li><a href="/wiki/Categor%C3%ADa:OM:Palabras_de_origen_ingl%C3%A9s" title="Categoría:OM:Palabras de origen inglés">OM:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:OM:Sustantivos" title="Categoría:OM:Sustantivos">OM:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Polaco-Espa%C3%B1ol" title="Categoría:Polaco-Español">Polaco-Español</a></li><li><a href="/wiki/Categor%C3%ADa:PL:Palabras_de_origen_ingl%C3%A9s" title="Categoría:PL:Palabras de origen inglés">PL:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:PL:Sustantivos" title="Categoría:PL:Sustantivos">PL:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Portugu%C3%A9s-Espa%C3%B1ol" title="Categoría:Portugués-Español">Portugués-Español</a></li><li><a href="/wiki/Categor%C3%ADa:PT:Palabras_de_origen_ingl%C3%A9s" title="Categoría:PT:Palabras de origen inglés">PT:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:PT:Sustantivos" title="Categoría:PT:Sustantivos">PT:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:PT:Sustantivos_masculinos" title="Categoría:PT:Sustantivos masculinos">PT:Sustantivos masculinos</a></li><li><a href="/wiki/Categor%C3%ADa:Serbocroata-Espa%C3%B1ol" title="Categoría:Serbocroata-Español">Serbocroata-Español</a></li><li><a href="/wiki/Categor%C3%ADa:SH:Palabras_de_origen_ingl%C3%A9s" title="Categoría:SH:Palabras de origen inglés">SH:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:SH:Sustantivos" title="Categoría:SH:Sustantivos">SH:Sustantivos</a></li><li><a href="/wiki/Categor%C3%ADa:Sueco-Espa%C3%B1ol" title="Categoría:Sueco-Español">Sueco-Español</a></li><li><a href="/wiki/Categor%C3%ADa:SV:Palabras_de_origen_ingl%C3%A9s" title="Categoría:SV:Palabras de origen inglés">SV:Palabras de origen inglés</a></li><li><a href="/wiki/Categor%C3%ADa:SV:Sustantivos" title="Categoría:SV:Sustantivos">SV:Sustantivos</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikcionario:Desambiguaci%C3%B3n" title="Categoría:Wikcionario:Desambiguación">Wikcionario:Desambiguación</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Afrik%C3%A1ans" title="Categoría:Español-Afrikáans">Español-Afrikáans</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Alban%C3%A9s" title="Categoría:Español-Albanés">Español-Albanés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Alem%C3%A1n" title="Categoría:Español-Alemán">Español-Alemán</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-%C3%81rabe" title="Categoría:Español-Árabe">Español-Árabe</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Aragon%C3%A9s" title="Categoría:Español-Aragonés">Español-Aragonés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Azer%C3%AD" title="Categoría:Español-Azerí">Español-Azerí</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Bajo_alem%C3%A1n" title="Categoría:Español-Bajo alemán">Español-Bajo alemán</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Banjar" title="Categoría:Español-Banjar">Español-Banjar</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Bengal%C3%AD" title="Categoría:Español-Bengalí">Español-Bengalí</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Bielorruso" title="Categoría:Español-Bielorruso">Español-Bielorruso</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Bosnio" title="Categoría:Español-Bosnio">Español-Bosnio</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-B%C3%BAlgaro" title="Categoría:Español-Búlgaro">Español-Búlgaro</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Calmuco" title="Categoría:Español-Calmuco">Español-Calmuco</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Birmano" title="Categoría:Español-Birmano">Español-Birmano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Catal%C3%A1n" title="Categoría:Español-Catalán">Español-Catalán</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Checo" title="Categoría:Español-Checo">Español-Checo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Cheroqui" title="Categoría:Español-Cheroqui">Español-Cheroqui</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Canton%C3%A9s" title="Categoría:Español-Cantonés">Español-Cantonés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Chino_cl%C3%A1sico" title="Categoría:Español-Chino clásico">Español-Chino clásico</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Mandar%C3%ADn" title="Categoría:Español-Mandarín">Español-Mandarín</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Coreano" title="Categoría:Español-Coreano">Español-Coreano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Criollo_haitiano" title="Categoría:Español-Criollo haitiano">Español-Criollo haitiano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Croata" title="Categoría:Español-Croata">Español-Croata</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Dan%C3%A9s" title="Categoría:Español-Danés">Español-Danés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Eslovaco" title="Categoría:Español-Eslovaco">Español-Eslovaco</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Esloveno" title="Categoría:Español-Esloveno">Español-Esloveno</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Esperanto" title="Categoría:Español-Esperanto">Español-Esperanto</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Estonio" title="Categoría:Español-Estonio">Español-Estonio</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Euskera" title="Categoría:Español-Euskera">Español-Euskera</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Fin%C3%A9s" title="Categoría:Español-Finés">Español-Finés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Franc%C3%A9s" title="Categoría:Español-Francés">Español-Francés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Ga%C3%A9lico_escoc%C3%A9s" title="Categoría:Español-Gaélico escocés">Español-Gaélico escocés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Gal%C3%A9s" title="Categoría:Español-Galés">Español-Galés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Gallego" title="Categoría:Español-Gallego">Español-Gallego</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Georgiano" title="Categoría:Español-Georgiano">Español-Georgiano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Griego" title="Categoría:Español-Griego">Español-Griego</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Hebreo" title="Categoría:Español-Hebreo">Español-Hebreo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Hindi" title="Categoría:Español-Hindi">Español-Hindi</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-H%C3%BAngaro" title="Categoría:Español-Húngaro">Español-Húngaro</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Indonesio" title="Categoría:Español-Indonesio">Español-Indonesio</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Ingl%C3%A9s" title="Categoría:Español-Inglés">Español-Inglés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Inuktitut" title="Categoría:Español-Inuktitut">Español-Inuktitut</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Island%C3%A9s" title="Categoría:Español-Islandés">Español-Islandés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Italiano" title="Categoría:Español-Italiano">Español-Italiano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Japon%C3%A9s" title="Categoría:Español-Japonés">Español-Japonés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Kannada" title="Categoría:Español-Kannada">Español-Kannada</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Kazajo" title="Categoría:Español-Kazajo">Español-Kazajo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Kurdo" title="Categoría:Español-Kurdo">Español-Kurdo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Let%C3%B3n" title="Categoría:Español-Letón">Español-Letón</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Lituano" title="Categoría:Español-Lituano">Español-Lituano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Luxemburgu%C3%A9s" title="Categoría:Español-Luxemburgués">Español-Luxemburgués</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Macedonio" title="Categoría:Español-Macedonio">Español-Macedonio</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Malayalam" title="Categoría:Español-Malayalam">Español-Malayalam</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Malayo" title="Categoría:Español-Malayo">Español-Malayo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Min_nan" title="Categoría:Español-Min nan">Español-Min nan</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Navajo" title="Categoría:Español-Navajo">Español-Navajo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Neerland%C3%A9s" title="Categoría:Español-Neerlandés">Español-Neerlandés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Noruego_bokm%C3%A5l" title="Categoría:Español-Noruego bokmål">Español-Noruego bokmål</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Noruego_nynorsk" title="Categoría:Español-Noruego nynorsk">Español-Noruego nynorsk</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-O%27odham" title="Categoría:Español-O&#039;odham">Español-O'odham</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Oromo" title="Categoría:Español-Oromo">Español-Oromo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Panyab%C3%AD_occidental" title="Categoría:Español-Panyabí occidental">Español-Panyabí occidental</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Persa" title="Categoría:Español-Persa">Español-Persa</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Polaco" title="Categoría:Español-Polaco">Español-Polaco</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Portugu%C3%A9s" title="Categoría:Español-Portugués">Español-Portugués</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Quechua_cuzque%C3%B1o" title="Categoría:Español-Quechua cuzqueño">Español-Quechua cuzqueño</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Rumano" title="Categoría:Español-Rumano">Español-Rumano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Ruso" title="Categoría:Español-Ruso">Español-Ruso</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Serbio" title="Categoría:Español-Serbio">Español-Serbio</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Serbocroata" title="Categoría:Español-Serbocroata">Español-Serbocroata</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Siciliano" title="Categoría:Español-Siciliano">Español-Siciliano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Sotho_norte%C3%B1o" title="Categoría:Español-Sotho norteño">Español-Sotho norteño</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Sueco" title="Categoría:Español-Sueco">Español-Sueco</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Swahili" title="Categoría:Español-Swahili">Español-Swahili</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Tagalo" title="Categoría:Español-Tagalo">Español-Tagalo</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Tailand%C3%A9s" title="Categoría:Español-Tailandés">Español-Tailandés</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Tamil" title="Categoría:Español-Tamil">Español-Tamil</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Turco" title="Categoría:Español-Turco">Español-Turco</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Ucraniano" title="Categoría:Español-Ucraniano">Español-Ucraniano</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-T%C3%A1rtaro_de_Crimea" title="Categoría:Español-Tártaro de Crimea">Español-Tártaro de Crimea</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-V%C3%B5ro" title="Categoría:Español-Võro">Español-Võro</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Vietnamita" title="Categoría:Español-Vietnamita">Español-Vietnamita</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Samare%C3%B1o" title="Categoría:Español-Samareño">Español-Samareño</a></li><li><a href="/wiki/Categor%C3%ADa:Espa%C3%B1ol-Y%C3%ADdish" title="Categoría:Español-Yídish">Español-Yídish</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:AF:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:AF:Palabras sin transcripción fonética">Wikcionario:AF:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:AN:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:AN:Palabras sin transcripción fonética">Wikcionario:AN:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:AZ:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:AZ:Palabras sin transcripción fonética">Wikcionario:AZ:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:BS:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:BS:Palabras sin transcripción fonética">Wikcionario:BS:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:CA:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:CA:Palabras sin transcripción fonética">Wikcionario:CA:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:HR:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:HR:Palabras sin transcripción fonética">Wikcionario:HR:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:DA:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:DA:Palabras sin transcripción fonética">Wikcionario:DA:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:SL:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:SL:Palabras sin transcripción fonética">Wikcionario:SL:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:EO:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:EO:Palabras sin transcripción fonética">Wikcionario:EO:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:EU:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:EU:Palabras sin transcripción fonética">Wikcionario:EU:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:FI:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:FI:Palabras sin transcripción fonética">Wikcionario:FI:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:GL:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:GL:Palabras sin transcripción fonética">Wikcionario:GL:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:ID:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:ID:Palabras sin transcripción fonética">Wikcionario:ID:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:EN:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:EN:Palabras sin transcripción fonética">Wikcionario:EN:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:EN:Palabras_con_etimolog%C3%ADa_libre" title="Categoría:EN:Palabras con etimología libre">EN:Palabras con etimología libre</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:IT:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:IT:Palabras sin transcripción fonética">Wikcionario:IT:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:NL:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:NL:Palabras sin transcripción fonética">Wikcionario:NL:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:NO:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:NO:Palabras sin transcripción fonética">Wikcionario:NO:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:NN:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:NN:Palabras sin transcripción fonética">Wikcionario:NN:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:OM:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:OM:Palabras sin transcripción fonética">Wikcionario:OM:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:PL:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:PL:Palabras sin transcripción fonética">Wikcionario:PL:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:PT:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:PT:Palabras sin transcripción fonética">Wikcionario:PT:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:SH:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:SH:Palabras sin transcripción fonética">Wikcionario:SH:Palabras sin transcripción fonética</a></li><li><a href="/wiki/Categor%C3%ADa:Wikcionario:SV:Palabras_sin_transcripci%C3%B3n_fon%C3%A9tica" title="Categoría:Wikcionario:SV:Palabras sin transcripción fonética">Wikcionario:SV:Palabras sin transcripción fonética</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=tornado" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=tornado" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/tornado" title="Ver la página de contenido [c]" accesskey="c">Entrada</a></li><li id="ca-talk" class="new"><a href="/w/index.php?title=Discusi%C3%B3n:tornado&amp;action=edit&amp;redlink=1" rel="discussion" title="Discusión acerca de la página (la página no existe) [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/tornado">Leer</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=tornado&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=tornado&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=tornado">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=tornado&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=tornado&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/tornado" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/tornado" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios relacionados</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=tornado&amp;oldid=4851753" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=tornado&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=tornado&amp;id=4851753" title="Información sobre cómo citar esta página">Citar esta página</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wiktionary.org/wiki/tornado" title="tornado (afrikáans)" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wiktionary.org/wiki/tornado" title="tornado (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wiktionary.org/wiki/tornado" title="tornado (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-chr"><a href="https://chr.wiktionary.org/wiki/tornado" title="tornado (cheroqui)" lang="chr" hreflang="chr" class="interlanguage-link-target">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wiktionary.org/wiki/tornado" title="tornado (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wiktionary.org/wiki/tornado" title="tornado (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wiktionary.org/wiki/tornado" title="tornado (griego)" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wiktionary.org/wiki/tornado" title="tornado (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wiktionary.org/wiki/tornado" title="tornado (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wiktionary.org/wiki/tornado" title="tornado (estonio)" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wiktionary.org/wiki/tornado" title="tornado (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wiktionary.org/wiki/tornado" title="tornado (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/tornado" title="tornado (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wiktionary.org/wiki/tornado" title="tornado (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wiktionary.org/wiki/tornado" title="tornado (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wiktionary.org/wiki/tornado" title="tornado (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wiktionary.org/wiki/tornado" title="tornado (ido)" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wiktionary.org/wiki/tornado" title="tornado (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wiktionary.org/wiki/tornado" title="tornado (kazajo)" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wiktionary.org/wiki/tornado" title="tornado (canarés)" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wiktionary.org/wiki/tornado" title="tornado (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wiktionary.org/wiki/tornado" title="tornado (kurdo)" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wiktionary.org/wiki/tornado" title="tornado (malgache)" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wiktionary.org/wiki/tornado" title="tornado (malayalam)" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wiktionary.org/wiki/tornado" title="tornado (birmano)" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wiktionary.org/wiki/tornado" title="tornado (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wiktionary.org/wiki/tornado" title="tornado (noruego)" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wiktionary.org/wiki/tornado" title="tornado (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wiktionary.org/wiki/tornado" title="tornado (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wiktionary.org/wiki/tornado" title="tornado (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wiktionary.org/wiki/tornado" title="tornado (serbocroata)" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wiktionary.org/wiki/tornado" title="tornado (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wiktionary.org/wiki/tornado" title="tornado (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wiktionary.org/wiki/tornado" title="tornado (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wiktionary.org/wiki/tornado" title="tornado (tamil)" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wiktionary.org/wiki/tornado" title="tornado (telugu)" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wiktionary.org/wiki/tornado" title="tornado (tayiko)" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wiktionary.org/wiki/tornado" title="tornado (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/tornado" title="tornado (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wiktionary.org/wiki/tornado" title="tornado (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wiktionary.org/wiki/tornado" title="tornado (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wiktionary.org/wiki/tornado" title="tornado (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wiktionary.org/wiki/tornado" title="tornado (Chinese (Min Nan))" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 25 abr 2019 a las 15:49.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.es">Licencia Creative Commons Atribución-CompartirIgual 3.0</a>;
+pueden aplicarse términos adicionales.
+Véase <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/es">Términos de uso</a> para más detalles.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=tornado&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"2.544","walltime":"3.118","ppvisitednodes":{"value":151409,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":347652,"limit":2097152},"templateargumentsize":{"value":71045,"limit":2097152},"expansiondepth":{"value":30,"limit":40},"expensivefunctioncount":{"value":51,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":961,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 2863.140      1 -total"," 65.75% 1882.415     84 Plantilla:t+"," 38.46% 1101.281    260 Plantilla:t+/parte"," 31.27%  895.273    260 Plantilla:str_number"," 29.69%  850.009    344 Plantilla:str_number/logic"," 27.08%  775.326    344 Plantilla:str_index_any"," 25.55%  731.612    344 Plantilla:str_≥_len"," 20.97%  600.500    260 Plantilla:str_index/getchar"," 11.43%  327.188    362 Plantilla:detección_namespace","  9.09%  260.370     23 Plantilla:etimología"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":528793,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20200210124113","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":174,"wgHostname":"mw1239"});});</script></body></html>

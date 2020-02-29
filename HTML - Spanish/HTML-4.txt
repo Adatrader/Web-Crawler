@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljIXApAMNIAAjW8ybIAAABK","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=G"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"G","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='G' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Firumir" title="Especial:Todas">Página anterior (Firumir)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Garacabe" title="Especial:Todas">Página siguiente (Garacabe)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/G" title="G">G</a></li>
+<li><a href="/wiki/GFDL" title="GFDL">GFDL</a></li>
+<li><a href="/wiki/GG" title="GG">GG</a></li>
+<li><a href="/wiki/GIF" title="GIF">GIF</a></li>
+<li><a href="/wiki/GNOME" title="GNOME">GNOME</a></li>
+<li><a href="/wiki/GNU" title="GNU">GNU</a></li>
+<li><a href="/wiki/GPL" title="GPL">GPL</a></li>
+<li><a href="/wiki/GPS" title="GPS">GPS</a></li>
+<li><a href="/wiki/Ga" title="Ga">Ga</a></li>
+<li><a href="/wiki/Gabaecho" title="Gabaecho">Gabaecho</a></li>
+<li><a href="/wiki/Gabai" title="Gabai">Gabai</a></li>
+<li><a href="/wiki/Gabalda" title="Gabalda">Gabalda</a></li>
+<li><a href="/wiki/Gabald%C3%B3n" title="Gabaldón">Gabaldón</a></li>
+<li><a href="/wiki/Gabancho" title="Gabancho">Gabancho</a></li>
+<li><a href="/wiki/Gabar" title="Gabar">Gabar</a></li>
+<li><a href="/wiki/Gabarain" title="Gabarain">Gabarain</a></li>
+<li><a href="/wiki/Gabari" title="Gabari">Gabari</a></li>
+<li><a href="/wiki/Gabarra" title="Gabarra">Gabarra</a></li>
+<li><a href="/wiki/Gabarrain" title="Gabarrain">Gabarrain</a></li>
+<li><a href="/wiki/Gabarre" title="Gabarre">Gabarre</a></li>
+<li><a href="/wiki/Gabarret" title="Gabarret">Gabarret</a></li>
+<li><a href="/wiki/Gabarri" title="Gabarri">Gabarri</a></li>
+<li><a href="/wiki/Gabarruz" title="Gabarruz">Gabarruz</a></li>
+<li><a href="/wiki/Gabart" title="Gabart">Gabart</a></li>
+<li><a href="/wiki/Gabastondo" title="Gabastondo">Gabastondo</a></li>
+<li><a href="/wiki/Gabastou" title="Gabastou">Gabastou</a></li>
+<li><a href="/wiki/Gabat" title="Gabat">Gabat</a></li>
+<li><a href="/wiki/Gabatica" title="Gabatica">Gabatica</a></li>
+<li><a href="/wiki/Gabay" title="Gabay">Gabay</a></li>
+<li><a href="/wiki/Gabeca" title="Gabeca">Gabeca</a></li>
+<li><a href="/wiki/Gabel" title="Gabel">Gabel</a></li>
+<li><a href="/wiki/Gabia" title="Gabia">Gabia</a></li>
+<li><a href="/wiki/Gabian" title="Gabian">Gabian</a></li>
+<li><a href="/wiki/Gabica-Aldecoa" title="Gabica-Aldecoa">Gabica-Aldecoa</a></li>
+<li><a href="/wiki/Gabica-Echevarria" title="Gabica-Echevarria">Gabica-Echevarria</a></li>
+<li><a href="/wiki/Gabicaaldecoa" title="Gabicaaldecoa">Gabicaaldecoa</a></li>
+<li><a href="/wiki/Gabicaechabarria" title="Gabicaechabarria">Gabicaechabarria</a></li>
+<li><a href="/wiki/Gabicaechebarria" title="Gabicaechebarria">Gabicaechebarria</a></li>
+<li><a href="/wiki/Gabicagogeascoa" title="Gabicagogeascoa">Gabicagogeascoa</a></li>
+<li><a href="/wiki/Gabicagogueascoa" title="Gabicagogueascoa">Gabicagogueascoa</a></li>
+<li><a href="/wiki/Gabicagojeazcoa" title="Gabicagojeazcoa">Gabicagojeazcoa</a></li>
+<li><a href="/wiki/Gabidea" title="Gabidea">Gabidea</a></li>
+<li><a href="/wiki/Gabilante" title="Gabilante">Gabilante</a></li>
+<li><a href="/wiki/Gabillondo" title="Gabillondo">Gabillondo</a></li>
+<li><a href="/wiki/Gabilondo" title="Gabilondo">Gabilondo</a></li>
+<li><a href="/wiki/Gabin" title="Gabin">Gabin</a></li>
+<li><a href="/wiki/Gabina" title="Gabina">Gabina</a></li>
+<li><a href="/wiki/Gabino" title="Gabino">Gabino</a></li>
+<li><a href="/wiki/Gabiola" title="Gabiola">Gabiola</a></li>
+<li><a href="/wiki/Gabira" title="Gabira">Gabira</a></li>
+<li><a href="/wiki/Gabiria" title="Gabiria">Gabiria</a></li>
+<li><a href="/wiki/Gabirondo" title="Gabirondo">Gabirondo</a></li>
+<li><a href="/wiki/Gabi%C3%B1a" title="Gabiña">Gabiña</a></li>
+<li><a href="/wiki/Gabler" title="Gabler">Gabler</a></li>
+<li><a href="/wiki/Gabo" title="Gabo">Gabo</a></li>
+<li><a href="/wiki/Gabon" title="Gabon">Gabon</a></li>
+<li><a href="/wiki/Gabonas" title="Gabonas">Gabonas</a></li>
+<li><a href="/wiki/Gabonia" title="Gabonia">Gabonia</a></li>
+<li><a href="/wiki/Gabono" title="Gabono">Gabono</a></li>
+<li><a href="/wiki/Gaborone" title="Gaborone">Gaborone</a></li>
+<li><a href="/wiki/Gabriel" title="Gabriel">Gabriel</a></li>
+<li><a href="/wiki/Gabriela" title="Gabriela">Gabriela</a></li>
+<li><a href="/wiki/Gabun" title="Gabun">Gabun</a></li>
+<li><a href="/wiki/Gaby" title="Gaby">Gaby</a></li>
+<li><a href="/wiki/Gab%C3%A3o" title="Gabão">Gabão</a></li>
+<li><a href="/wiki/Gab%C3%A9s" title="Gabés">Gabés</a></li>
+<li><a href="/wiki/Gab%C3%B3n" title="Gabón">Gabón</a></li>
+<li><a href="/wiki/Gaceaga" title="Gaceaga">Gaceaga</a></li>
+<li><a href="/wiki/Gacentina" title="Gacentina">Gacentina</a></li>
+<li><a href="/wiki/Gacetabeitia" title="Gacetabeitia">Gacetabeitia</a></li>
+<li><a href="/wiki/Gacetuaga" title="Gacetuaga">Gacetuaga</a></li>
+<li><a href="/wiki/Gacha" title="Gacha">Gacha</a></li>
+<li><a href="/wiki/Gachategui" title="Gachategui">Gachategui</a></li>
+<li><a href="/wiki/Gache" title="Gache">Gache</a></li>
+<li><a href="/wiki/Gachitegui" title="Gachitegui">Gachitegui</a></li>
+<li><a href="/wiki/Gacienea" title="Gacienea">Gacienea</a></li>
+<li><a href="/wiki/Gacitua" title="Gacitua">Gacitua</a></li>
+<li><a href="/wiki/Gacituaga" title="Gacituaga">Gacituaga</a></li>
+<li><a href="/wiki/Gacit%C3%BAa" title="Gacitúa">Gacitúa</a></li>
+<li><a href="/wiki/Gades" title="Gades">Gades</a></li>
+<li><a href="/wiki/Gaeilge" title="Gaeilge">Gaeilge</a></li>
+<li><a href="/wiki/Gaetano" title="Gaetano">Gaetano</a></li>
+<li><a href="/wiki/Gaete" title="Gaete">Gaete</a></li>
+<li><a href="/wiki/Gafsa" title="Gafsa">Gafsa</a></li>
+<li><a href="/wiki/Gagner" title="Gagner">Gagner</a></li>
+<li><a href="/wiki/Gagnier" title="Gagnier">Gagnier</a></li>
+<li><a href="/wiki/Gagniere" title="Gagniere">Gagniere</a></li>
+<li><a href="/wiki/Gago" title="Gago">Gago</a></li>
+<li><a href="/wiki/Gahona" title="Gahona">Gahona</a></li>
+<li><a href="/wiki/Gaia" title="Gaia">Gaia</a></li>
+<li><a href="/wiki/Gaicoa" title="Gaicoa">Gaicoa</a></li>
+<li><a href="/wiki/Gaicoechea" title="Gaicoechea">Gaicoechea</a></li>
+<li><a href="/wiki/Gaimberri" title="Gaimberri">Gaimberri</a></li>
+<li><a href="/wiki/Gain" title="Gain">Gain</a></li>
+<li><a href="/wiki/Gaincerain" title="Gaincerain">Gaincerain</a></li>
+<li><a href="/wiki/Gainchuri" title="Gainchuri">Gainchuri</a></li>
+<li><a href="/wiki/Gainecoetche" title="Gainecoetche">Gainecoetche</a></li>
+<li><a href="/wiki/Gainza" title="Gainza">Gainza</a></li>
+<li><a href="/wiki/Gainzarain" title="Gainzarain">Gainzarain</a></li>
+<li><a href="/wiki/Gainzaran" title="Gainzaran">Gainzaran</a></li>
+<li><a href="/wiki/Gaitan" title="Gaitan">Gaitan</a></li>
+<li><a href="/wiki/Gait%C3%A1n" title="Gaitán">Gaitán</a></li>
+<li><a href="/wiki/Gaizka" title="Gaizka">Gaizka</a></li>
+<li><a href="/wiki/Gajana" title="Gajana">Gajana</a></li>
+<li><a href="/wiki/Gajardo" title="Gajardo">Gajardo</a></li>
+<li><a href="/wiki/Gaj%C4%81na" title="Gajāna">Gajāna</a></li>
+<li><a href="/wiki/Galabideleizabe" title="Galabideleizabe">Galabideleizabe</a></li>
+<li><a href="/wiki/Galaburri" title="Galaburri">Galaburri</a></li>
+<li><a href="/wiki/Galad%C3%AD" title="Galadí">Galadí</a></li>
+<li><a href="/wiki/Galai" title="Galai">Galai</a></li>
+<li><a href="/wiki/Galain" title="Galain">Galain</a></li>
+<li><a href="/wiki/Galainena" title="Galainena">Galainena</a></li>
+<li><a href="/wiki/Galar" title="Galar">Galar</a></li>
+<li><a href="/wiki/Galarbide" title="Galarbide">Galarbide</a></li>
+<li><a href="/wiki/Galarce" title="Galarce">Galarce</a></li>
+<li><a href="/wiki/Galard" title="Galard">Galard</a></li>
+<li><a href="/wiki/Galardi" title="Galardi">Galardi</a></li>
+<li><a href="/wiki/Galarmendi" title="Galarmendi">Galarmendi</a></li>
+<li><a href="/wiki/Galarraga" title="Galarraga">Galarraga</a></li>
+<li><a href="/wiki/Galarran" title="Galarran">Galarran</a></li>
+<li><a href="/wiki/Galarregui" title="Galarregui">Galarregui</a></li>
+<li><a href="/wiki/Galarreta" title="Galarreta">Galarreta</a></li>
+<li><a href="/wiki/Galarza" title="Galarza">Galarza</a></li>
+<li><a href="/wiki/Galarzabarrena" title="Galarzabarrena">Galarzabarrena</a></li>
+<li><a href="/wiki/Galarze" title="Galarze">Galarze</a></li>
+<li><a href="/wiki/Galatians" title="Galatians">Galatians</a></li>
+<li><a href="/wiki/Galatie%C5%A1iem" title="Galatiešiem">Galatiešiem</a></li>
+<li><a href="/wiki/Galatj" title="Galatj">Galatj</a></li>
+<li><a href="/wiki/Galaxie" title="Galaxie">Galaxie</a></li>
+<li><a href="/wiki/Galaz" title="Galaz">Galaz</a></li>
+<li><a href="/wiki/Gala%C3%B1ena" title="Galañena">Galañena</a></li>
+<li><a href="/wiki/Galbarra" title="Galbarra">Galbarra</a></li>
+<li><a href="/wiki/Galbarrena" title="Galbarrena">Galbarrena</a></li>
+<li><a href="/wiki/Galbarriartu" title="Galbarriartu">Galbarriartu</a></li>
+<li><a href="/wiki/Galbarriatu" title="Galbarriatu">Galbarriatu</a></li>
+<li><a href="/wiki/Galbarros" title="Galbarros">Galbarros</a></li>
+<li><a href="/wiki/Galbarsoro" title="Galbarsoro">Galbarsoro</a></li>
+<li><a href="/wiki/Galbay" title="Galbay">Galbay</a></li>
+<li><a href="/wiki/Galbete" title="Galbete">Galbete</a></li>
+<li><a href="/wiki/Galbucan" title="Galbucan">Galbucan</a></li>
+<li><a href="/wiki/Galceran" title="Galceran">Galceran</a></li>
+<li><a href="/wiki/Galdacano" title="Galdacano">Galdacano</a></li>
+<li><a href="/wiki/Galdames" title="Galdames">Galdames</a></li>
+<li><a href="/wiki/Galdamez" title="Galdamez">Galdamez</a></li>
+<li><a href="/wiki/Galdeano" title="Galdeano">Galdeano</a></li>
+<li><a href="/wiki/Galdiano" title="Galdiano">Galdiano</a></li>
+<li><a href="/wiki/Galdiz" title="Galdiz">Galdiz</a></li>
+<li><a href="/wiki/Galdon" title="Galdon">Galdon</a></li>
+<li><a href="/wiki/Galdona" title="Galdona">Galdona</a></li>
+<li><a href="/wiki/Galdos" title="Galdos">Galdos</a></li>
+<li><a href="/wiki/Galdurotz" title="Galdurotz">Galdurotz</a></li>
+<li><a href="/wiki/Galduroz" title="Galduroz">Galduroz</a></li>
+<li><a href="/wiki/Galdurralde" title="Galdurralde">Galdurralde</a></li>
+<li><a href="/wiki/Galduy" title="Galduy">Galduy</a></li>
+<li><a href="/wiki/Gald%C3%B3s" title="Galdós">Galdós</a></li>
+<li><a href="/wiki/Galeano" title="Galeano">Galeano</a></li>
+<li><a href="/wiki/Galech" title="Galech">Galech</a></li>
+<li><a href="/wiki/Galeche" title="Galeche">Galeche</a></li>
+<li><a href="/wiki/Galeere" title="Galeere">Galeere</a></li>
+<li><a href="/wiki/Galegio" title="Galegio">Galegio</a></li>
+<li><a href="/wiki/Galen" title="Galen">Galen</a></li>
+<li><a href="/wiki/Galen_of_Pergamo" title="Galen of Pergamo">Galen of Pergamo</a></li>
+<li><a href="/wiki/Galeno" title="Galeno">Galeno</a></li>
+<li><a href="/wiki/Galeno_de_P%C3%A9rgamo" title="Galeno de Pérgamo">Galeno de Pérgamo</a></li>
+<li><a href="/wiki/Galeno_di_Pergamo" title="Galeno di Pergamo">Galeno di Pergamo</a></li>
+<li><a href="/wiki/Galerreta" title="Galerreta">Galerreta</a></li>
+<li><a href="/wiki/Gales" title="Gales">Gales</a></li>
+<li><a href="/wiki/Galfarsoro" title="Galfarsoro">Galfarsoro</a></li>
+<li><a href="/wiki/Galfulen" title="Galfulen">Galfulen</a></li>
+<li><a href="/wiki/Galharrague" title="Galharrague">Galharrague</a></li>
+<li><a href="/wiki/Galharretborde" title="Galharretborde">Galharretborde</a></li>
+<li><a href="/wiki/Gali" title="Gali">Gali</a></li>
+<li><a href="/wiki/Galia" title="Galia">Galia</a></li>
+<li><a href="/wiki/Galiano" title="Galiano">Galiano</a></li>
+<li><a href="/wiki/Galicia" title="Galicia">Galicia</a></li>
+<li><a href="/wiki/Galilea" title="Galilea">Galilea</a></li>
+<li><a href="/wiki/Galin" title="Galin">Galin</a></li>
+<li><a href="/wiki/Galindez" title="Galindez">Galindez</a></li>
+<li><a href="/wiki/Galindo" title="Galindo">Galindo</a></li>
+<li><a href="/wiki/Galindres" title="Galindres">Galindres</a></li>
+<li><a href="/wiki/Galiza" title="Galiza">Galiza</a></li>
+<li><a href="/wiki/Gallaga" title="Gallaga">Gallaga</a></li>
+<li><a href="/wiki/Gallaistegui" title="Gallaistegui">Gallaistegui</a></li>
+<li><a href="/wiki/Gallaiz" title="Gallaiz">Gallaiz</a></li>
+<li><a href="/wiki/Gallaiztegui" title="Gallaiztegui">Gallaiztegui</a></li>
+<li><a href="/wiki/Gallanda" title="Gallanda">Gallanda</a></li>
+<li><a href="/wiki/Gallandat" title="Gallandat">Gallandat</a></li>
+<li><a href="/wiki/Gallano" title="Gallano">Gallano</a></li>
+<li><a href="/wiki/Gallar" title="Gallar">Gallar</a></li>
+<li><a href="/wiki/Gallardo" title="Gallardo">Gallardo</a></li>
+<li><a href="/wiki/Gallareta" title="Gallareta">Gallareta</a></li>
+<li><a href="/wiki/Gallarraga" title="Gallarraga">Gallarraga</a></li>
+<li><a href="/wiki/Gallarrague" title="Gallarrague">Gallarrague</a></li>
+<li><a href="/wiki/Gallart" title="Gallart">Gallart</a></li>
+<li><a href="/wiki/Gallarta" title="Gallarta">Gallarta</a></li>
+<li><a href="/wiki/Gallartu" title="Gallartu">Gallartu</a></li>
+<li><a href="/wiki/Gallarza" title="Gallarza">Gallarza</a></li>
+<li><a href="/wiki/Gallarzagoitia" title="Gallarzagoitia">Gallarzagoitia</a></li>
+<li><a href="/wiki/Gallastegui" title="Gallastegui">Gallastegui</a></li>
+<li><a href="/wiki/Gallatabeytia" title="Gallatabeytia">Gallatabeytia</a></li>
+<li><a href="/wiki/Gallate" title="Gallate">Gallate</a></li>
+<li><a href="/wiki/Gallatebeitia" title="Gallatebeitia">Gallatebeitia</a></li>
+<li><a href="/wiki/Gallategui" title="Gallategui">Gallategui</a></li>
+<li><a href="/wiki/Gallaztegui" title="Gallaztegui">Gallaztegui</a></li>
+<li><a href="/wiki/Galle" title="Galle">Galle</a></li>
+<li><a href="/wiki/Gallego" title="Gallego">Gallego</a></li>
+<li><a href="/wiki/Gallegos" title="Gallegos">Gallegos</a></li>
+<li><a href="/wiki/Galleguillos" title="Galleguillos">Galleguillos</a></li>
+<li><a href="/wiki/Galletabeitia" title="Galletabeitia">Galletabeitia</a></li>
+<li><a href="/wiki/Galletebeitia" title="Galletebeitia">Galletebeitia</a></li>
+<li><a href="/wiki/Galletebitia" title="Galletebitia">Galletebitia</a></li>
+<li><a href="/wiki/Gallic" title="Gallic">Gallic</a></li>
+<li><a href="/wiki/Gallipoli" title="Gallipoli">Gallipoli</a></li>
+<li><a href="/wiki/Gallitlalpan" title="Gallitlalpan">Gallitlalpan</a></li>
+<li><a href="/wiki/Gallo" title="Gallo">Gallo</a></li>
+<li><a href="/wiki/Gallois" title="Gallois">Gallois</a></li>
+<li><a href="/wiki/Gallurralde" title="Gallurralde">Gallurralde</a></li>
+<li><a href="/wiki/Gallustegui" title="Gallustegui">Gallustegui</a></li>
+<li><a href="/wiki/Galo" title="Galo">Galo</a></li>
+<li><a href="/wiki/Galobardes" title="Galobardes">Galobardes</a></li>
+<li><a href="/wiki/Galparsoro" title="Galparsoro">Galparsoro</a></li>
+<li><a href="/wiki/Galpasoro" title="Galpasoro">Galpasoro</a></li>
+<li><a href="/wiki/Galvarino" title="Galvarino">Galvarino</a></li>
+<li><a href="/wiki/Galvarro" title="Galvarro">Galvarro</a></li>
+<li><a href="/wiki/Galves" title="Galves">Galves</a></li>
+<li><a href="/wiki/Galviz" title="Galviz">Galviz</a></li>
+<li><a href="/wiki/Galv%C3%A1n" title="Galván">Galván</a></li>
+<li><a href="/wiki/Galzagorri" title="Galzagorri">Galzagorri</a></li>
+<li><a href="/wiki/Galzagorta" title="Galzagorta">Galzagorta</a></li>
+<li><a href="/wiki/Galzarra" title="Galzarra">Galzarra</a></li>
+<li><a href="/wiki/Galzusta" title="Galzusta">Galzusta</a></li>
+<li><a href="/wiki/Gal%C3%A1n" title="Galán">Galán</a></li>
+<li><a href="/wiki/Gal%C3%ADndez" title="Galíndez">Galíndez</a></li>
+<li><a href="/wiki/Gamaliel" title="Gamaliel">Gamaliel</a></li>
+<li><a href="/wiki/Gamarra" title="Gamarra">Gamarra</a></li>
+<li><a href="/wiki/Gamarriola" title="Gamarriola">Gamarriola</a></li>
+<li><a href="/wiki/Gamaza" title="Gamaza">Gamaza</a></li>
+<li><a href="/wiki/Gambalena" title="Gambalena">Gambalena</a></li>
+<li><a href="/wiki/Gambara" title="Gambara">Gambara</a></li>
+<li><a href="/wiki/Gambaraberry" title="Gambaraberry">Gambaraberry</a></li>
+<li><a href="/wiki/Gambaraco" title="Gambaraco">Gambaraco</a></li>
+<li><a href="/wiki/Gambarri" title="Gambarri">Gambarri</a></li>
+<li><a href="/wiki/Gambart" title="Gambart">Gambart</a></li>
+<li><a href="/wiki/Gambarte" title="Gambarte">Gambarte</a></li>
+<li><a href="/wiki/Gambartes" title="Gambartes">Gambartes</a></li>
+<li><a href="/wiki/Gambe" title="Gambe">Gambe</a></li>
+<li><a href="/wiki/Gambeleceta" title="Gambeleceta">Gambeleceta</a></li>
+<li><a href="/wiki/Gambia" title="Gambia">Gambia</a></li>
+<li><a href="/wiki/Gambie" title="Gambie">Gambie</a></li>
+<li><a href="/wiki/Gambija" title="Gambija">Gambija</a></li>
+<li><a href="/wiki/Gambio" title="Gambio">Gambio</a></li>
+<li><a href="/wiki/Gambiya" title="Gambiya">Gambiya</a></li>
+<li><a href="/wiki/Gamboa" title="Gamboa">Gamboa</a></li>
+<li><a href="/wiki/Gamboarena" title="Gamboarena">Gamboarena</a></li>
+<li><a href="/wiki/Gambocorta" title="Gambocorta">Gambocorta</a></li>
+<li><a href="/wiki/Gamborena" title="Gamborena">Gamborena</a></li>
+<li><a href="/wiki/Gambya" title="Gambya">Gambya</a></li>
+<li><a href="/wiki/Game" title="Game">Game</a></li>
+<li><a href="/wiki/Gamecho" title="Gamecho">Gamecho</a></li>
+<li><a href="/wiki/Gamechogoicoechea" title="Gamechogoicoechea">Gamechogoicoechea</a></li>
+<li><a href="/wiki/Gameo" title="Gameo">Gameo</a></li>
+<li><a href="/wiki/Games" title="Games">Games</a></li>
+<li><a href="/wiki/Gamez" title="Gamez">Gamez</a></li>
+<li><a href="/wiki/Gami" title="Gami">Gami</a></li>
+<li><a href="/wiki/Gamicea" title="Gamicea">Gamicea</a></li>
+<li><a href="/wiki/Gamieta" title="Gamieta">Gamieta</a></li>
+<li><a href="/wiki/Gamietea" title="Gamietea">Gamietea</a></li>
+<li><a href="/wiki/Gaminao" title="Gaminao">Gaminao</a></li>
+<li><a href="/wiki/Gaminde" title="Gaminde">Gaminde</a></li>
+<li><a href="/wiki/Gamino" title="Gamino">Gamino</a></li>
+<li><a href="/wiki/Gamio" title="Gamio">Gamio</a></li>
+<li><a href="/wiki/Gamio-Lanathoua" title="Gamio-Lanathoua">Gamio-Lanathoua</a></li>
+<li><a href="/wiki/Gamiochipi" title="Gamiochipi">Gamiochipi</a></li>
+<li><a href="/wiki/Gamiotea" title="Gamiotea">Gamiotea</a></li>
+<li><a href="/wiki/Gamirua" title="Gamirua">Gamirua</a></li>
+<li><a href="/wiki/Gamis" title="Gamis">Gamis</a></li>
+<li><a href="/wiki/Gamiz" title="Gamiz">Gamiz</a></li>
+<li><a href="/wiki/Gamma" title="Gamma">Gamma</a></li>
+<li><a href="/wiki/Gamoea" title="Gamoea">Gamoea</a></li>
+<li><a href="/wiki/Gamon" title="Gamon">Gamon</a></li>
+<li><a href="/wiki/Gamonal" title="Gamonal">Gamonal</a></li>
+<li><a href="/wiki/Gamoy" title="Gamoy">Gamoy</a></li>
+<li><a href="/wiki/Gamoya" title="Gamoya">Gamoya</a></li>
+<li><a href="/wiki/Gamun" title="Gamun">Gamun</a></li>
+<li><a href="/wiki/Gam%C3%ADn" title="Gamín">Gamín</a></li>
+<li><a href="/wiki/Gana" title="Gana">Gana</a></li>
+<li><a href="/wiki/Ganaberro" title="Ganaberro">Ganaberro</a></li>
+<li><a href="/wiki/Ganao" title="Ganao">Ganao</a></li>
+<li><a href="/wiki/Ganaverro" title="Ganaverro">Ganaverro</a></li>
+<li><a href="/wiki/Ganbiya" title="Ganbiya">Ganbiya</a></li>
+<li><a href="/wiki/Ganboa" title="Ganboa">Ganboa</a></li>
+<li><a href="/wiki/Ganchadegui" title="Ganchadegui">Ganchadegui</a></li>
+<li><a href="/wiki/Ganchaegui" title="Ganchaegui">Ganchaegui</a></li>
+<li><a href="/wiki/Ganchegui" title="Ganchegui">Ganchegui</a></li>
+<li><a href="/wiki/Ganchuri" title="Ganchuri">Ganchuri</a></li>
+<li><a href="/wiki/Ganciandia" title="Ganciandia">Ganciandia</a></li>
+<li><a href="/wiki/Gandacegui" title="Gandacegui">Gandacegui</a></li>
+<li><a href="/wiki/Gandara" title="Gandara">Gandara</a></li>
+<li><a href="/wiki/Gandarias" title="Gandarias">Gandarias</a></li>
+<li><a href="/wiki/Gandariasbeitia" title="Gandariasbeitia">Gandariasbeitia</a></li>
+<li><a href="/wiki/Gandarillas" title="Gandarillas">Gandarillas</a></li>
+<li><a href="/wiki/Gandasegui" title="Gandasegui">Gandasegui</a></li>
+<li><a href="/wiki/Ganderaiz" title="Ganderaiz">Ganderaiz</a></li>
+<li><a href="/wiki/Ganderantz" title="Ganderantz">Ganderantz</a></li>
+<li><a href="/wiki/Ganderatz" title="Ganderatz">Ganderatz</a></li>
+<li><a href="/wiki/Gandia" title="Gandia">Gandia</a></li>
+<li><a href="/wiki/Gandiaga" title="Gandiaga">Gandiaga</a></li>
+<li><a href="/wiki/Gandiola" title="Gandiola">Gandiola</a></li>
+<li><a href="/wiki/Gandioti" title="Gandioti">Gandioti</a></li>
+<li><a href="/wiki/Gando" title="Gando">Gando</a></li>
+<li><a href="/wiki/Gandolfi" title="Gandolfi">Gandolfi</a></li>
+<li><a href="/wiki/Gandolfo" title="Gandolfo">Gandolfo</a></li>
+<li><a href="/wiki/Gandon" title="Gandon">Gandon</a></li>
+<li><a href="/wiki/Gandos" title="Gandos">Gandos</a></li>
+<li><a href="/wiki/Gandoy" title="Gandoy">Gandoy</a></li>
+<li><a href="/wiki/Gandulfo" title="Gandulfo">Gandulfo</a></li>
+<li><a href="/wiki/Ganena" title="Ganena">Ganena</a></li>
+<li><a href="/wiki/Ganggye" title="Ganggye">Ganggye</a></li>
+<li><a href="/wiki/Gangoiti" title="Gangoiti">Gangoiti</a></li>
+<li><a href="/wiki/Gangoitia" title="Gangoitia">Gangoitia</a></li>
+<li><a href="/wiki/Gangotena" title="Gangotena">Gangotena</a></li>
+<li><a href="/wiki/Ganguti" title="Ganguti">Ganguti</a></li>
+<li><a href="/wiki/Gangutia" title="Gangutia">Gangutia</a></li>
+<li><a href="/wiki/Ganicoche" title="Ganicoche">Ganicoche</a></li>
+<li><a href="/wiki/Gannat" title="Gannat">Gannat</a></li>
+<li><a href="/wiki/Ganoza" title="Ganoza">Ganoza</a></li>
+<li><a href="/wiki/Gans" title="Gans">Gans</a></li>
+<li><a href="/wiki/Gante" title="Gante">Gante</a></li>
+<li><a href="/wiki/Ganuza" title="Ganuza">Ganuza</a></li>
+<li><a href="/wiki/Ganzabal" title="Ganzabal">Ganzabal</a></li>
+<li><a href="/wiki/Ganzaga" title="Ganzaga">Ganzaga</a></li>
+<li><a href="/wiki/Ganzagain" title="Ganzagain">Ganzagain</a></li>
+<li><a href="/wiki/Ganzarain" title="Ganzarain">Ganzarain</a></li>
+<li><a href="/wiki/Ganzhou" title="Ganzhou">Ganzhou</a></li>
+<li><a href="/wiki/Ganzuri" title="Ganzuri">Ganzuri</a></li>
+<li><a href="/wiki/Gaona" title="Gaona">Gaona</a></li>
+<li><a href="/wiki/Gara" title="Gara">Gara</a></li>
+<li><a href="/wiki/Garabal" title="Garabal">Garabal</a></li>
+<li><a href="/wiki/Garabano" title="Garabano">Garabano</a></li>
+<li><a href="/wiki/Garabeitia" title="Garabeitia">Garabeitia</a></li>
+<li><a href="/wiki/Garabia" title="Garabia">Garabia</a></li>
+<li><a href="/wiki/Garabieta" title="Garabieta">Garabieta</a></li>
+<li><a href="/wiki/Garabilla" title="Garabilla">Garabilla</a></li>
+<li><a href="/wiki/Garabiota" title="Garabiota">Garabiota</a></li>
+<li><a href="/wiki/Garabito" title="Garabito">Garabito</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Firumir" title="Especial:Todas">Página anterior (Firumir)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Garacabe" title="Especial:Todas">Página siguiente (Garacabe)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DG" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DG" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=G" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=G&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=G&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":263,"wgHostname":"mw1368"});});</script></body></html>

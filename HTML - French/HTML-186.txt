@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Liste des livres - Wikisource</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XlnsbApAIDEAAHxUag8AAABE","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"IndexPages","wgNamespaceNumber":-1,"wgPageName":"Spécial:IndexPages","wgTitle":"IndexPages","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Spécial:IndexPages","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikisource","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgSiteNoticeId":"2.2"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.dismissableSiteNotice.styles":"ready"};RLPAGEMODULES=["ext.proofreadpage.special.indexpages","mediawiki.htmlform","mediawiki.htmlform.ooui","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.stockText","ext.gadget.modernisation","ext.gadget.MiseEnPage","ext.gadget.Typo","ext.gadget.Edittools","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.centralNotice.geoIP","ext.dismissableSiteNotice"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.dismissableSiteNotice.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/static/favicon/wikisource.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikisource (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikisource.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikisource" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikisource.org/wiki/Sp%C3%A9cial:IndexPages?key=Octave+intitle%3AMirbeau"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-IndexPages page-Spécial_IndexPages rootpage-Spécial_IndexPages skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --><div id="mw-dismissablenotice-anonplace"></div><script>(function(){var node=document.getElementById("mw-dismissablenotice-anonplace");if(node){node.outerHTML="\u003Cdiv class=\"mw-dismissable-notice\"\u003E\u003Cdiv class=\"mw-dismissable-notice-close\"\u003E[\u003Ca tabindex=\"0\" role=\"button\"\u003Emasquer\u003C/a\u003E]\u003C/div\u003E\u003Cdiv class=\"mw-dismissable-notice-body\"\u003E\u003Cdiv id=\"localNotice\" lang=\"fr\" dir=\"ltr\"\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E";}}());</script></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Liste des livres</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text"><p>État d’avancement de la correction des livres en fac-similés&#160;: <span class="quality0">Page sans texte</span>, <span class="quality1">Page non corrigée</span>, <span class="quality2">Page à problème</span>,<span class="quality3">Page corrigée</span>, <span class="quality4">Page validée</span>. Voir <a href="/wiki/Aide:IndexPages" title="Aide:IndexPages">la page d’aide</a> pour plus d’informations.
+</p><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Sp%C3%A9cial:IndexPages' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Rechercher dans les pages d’index</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"key"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Recherche&amp;#160;:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Recherche&#160;:</label></span><div class='oo-ui-fieldLayout-field'><div id='key' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"key","value":"Octave intitle:Mirbeau","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='key' value='Octave intitle:Mirbeau' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLSelectField  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"order"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Trier par&amp;#160;:"},"classes":["mw-htmlform-field-HTMLSelectField","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Trier par&#160;:</label></span><div class='oo-ui-fieldLayout-field'><div id='order' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php' data-ooui='{"_":"OO.ui.DropdownInputWidget","options":[{"data":"quality","label":"\u00c9tat de l\u2019index"},{"data":"size","label":"Nombre de pages"},{"data":"toValidate","label":"Nombre de pages \u00e0 valider"},{"data":"toProofreadOrValidate","label":"Nombre de pages \u00e0 relire ou valid\u00e9es"},{"data":"alpha","label":"Ordre alphab\u00e9tique"}],"$overlay":true,"name":"order","value":"quality","inputId":"ooui-php-2"}'><select tabindex='0' aria-disabled='false' name='order' id='ooui-php-2' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='quality' selected='selected'>État de l’index</option><option value='size'>Nombre de pages</option><option value='toValidate'>Nombre de pages à valider</option><option value='toProofreadOrValidate'>Nombre de pages à relire ou validées</option><option value='alpha'>Ordre alphabétique</option></select></div></div></div></div><div id='ooui-php-6' class='mw-htmlform-field-HTMLCheckField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-inline' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"sortascending"},"align":"inline","helpInline":true,"$overlay":true,"label":{"html":"Tri croissant."},"classes":["mw-htmlform-field-HTMLCheckField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-field'><span id='sortascending' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-checkboxInputWidget' data-ooui='{"_":"OO.ui.CheckboxInputWidget","name":"sortascending","value":"1","inputId":"ooui-php-3"}'><input type='checkbox' tabindex='0' aria-disabled='false' name='sortascending' value='1' id='ooui-php-3' class='oo-ui-inputWidget-input' /><span aria-disabled='false' class='oo-ui-checkboxInputWidget-checkIcon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-check oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget oo-ui-image-invert'></span></span></span><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Tri croissant.</label></span></div></div><input name="limit" type="hidden" value="50"/>
+<div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Rechercher","label":"Rechercher","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Rechercher' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Rechercher</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-spcontent"><p>Afficher ci-dessous jusqu’à <strong>23</strong> résultats du nº&#160;<strong>1</strong> au nº&#160;<strong>23</strong>.
+</p><p>Voir (50 précédentes  |  50 suivantes) (<a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=20&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 20 résultats par page" class="mw-numlink">20</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=50&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 50 résultats par page" class="mw-numlink">50</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=100&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 100 résultats par page" class="mw-numlink">100</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=250&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 250 résultats par page" class="mw-numlink">250</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=500&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 500 résultats par page" class="mw-numlink">500</a>)</p>
+<ol start='1' class='special'>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Le_Journal_d%E2%80%99une_femme_de_chambre.djvu" title="Livre:Mirbeau - Le Journal d’une femme de chambre.djvu">Mirbeau - Le Journal d’une femme de chambre.djvu</a> ‎[530 pages]</span><div><table class="pr_quality" title="519 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:519px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:11px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Ades_-_Josipovici_-_Mirbeau_-_Le_Livre_de_Goha_le_Simple.djvu" title="Livre:Ades - Josipovici - Mirbeau - Le Livre de Goha le Simple.djvu">Ades - Josipovici - Mirbeau - Le Livre de Goha le Simple.djvu</a> ‎[407 pages]</span><div><table class="pr_quality" title="398 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:398px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:9px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_La_Pipe_de_cidre.djvu" title="Livre:Mirbeau - La Pipe de cidre.djvu">Mirbeau - La Pipe de cidre.djvu</a> ‎[287 pages]</span><div><table class="pr_quality" title="286 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:286px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:1px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Th%C3%A9%C3%A2tre_I.djvu" title="Livre:Mirbeau - Théâtre I.djvu">Mirbeau - Théâtre I.djvu</a> ‎[292 pages]</span><div><table class="pr_quality" title="248 pages validées, 39 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:248px;"></td>
+<td class="quality3" style="width:39px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:5px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_La_Vache_tachet%C3%A9e.djvu" title="Livre:Mirbeau - La Vache tachetée.djvu">Mirbeau - La Vache tachetée.djvu</a> ‎[266 pages]</span><div><table class="pr_quality" title="266 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:266px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:0px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Lettres_de_ma_chaumi%C3%A8re.djvu" title="Livre:Mirbeau - Lettres de ma chaumière.djvu">Mirbeau - Lettres de ma chaumière.djvu</a> ‎[450 pages]</span><div><table class="pr_quality" title="39 pages validées, 363 pages seulement corrigées et 2 pages non corrigées">
+<tr>
+<td class="quality4" style="width:39px;"></td>
+<td class="quality3" style="width:363px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:2px;"></td>
+<td class="quality0" style="width:46px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Le_Calvaire.djvu" title="Livre:Mirbeau - Le Calvaire.djvu">Mirbeau - Le Calvaire.djvu</a> ‎[324 pages]</span><div><table class="pr_quality" title="6 pages validées, 316 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:6px;"></td>
+<td class="quality3" style="width:316px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:2px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Le_Jardin_des_supplices.djvu" title="Livre:Mirbeau - Le Jardin des supplices.djvu">Mirbeau - Le Jardin des supplices.djvu</a> ‎[330 pages]</span><div><table class="pr_quality" title="1 page validée, 326 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:1px;"></td>
+<td class="quality3" style="width:326px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:3px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_L%E2%80%99Abb%C3%A9_Jules,_%C3%A9d._22,_Ollendorff.djvu" title="Livre:Mirbeau - L’Abbé Jules, éd. 22, Ollendorff.djvu">Mirbeau - L’Abbé Jules, éd. 22, Ollendorff.djvu</a> ‎[326 pages]</span><div><table class="pr_quality" title="0 page validée, 322 pages seulement corrigées et 2 pages non corrigées">
+<tr>
+<td class="quality4" style="width:0px;"></td>
+<td class="quality3" style="width:322px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:2px;"></td>
+<td class="quality0" style="width:2px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Th%C3%A9%C3%A2tre_III.djvu" title="Livre:Mirbeau - Théâtre III.djvu">Mirbeau - Théâtre III.djvu</a> ‎[296 pages]</span><div><table class="pr_quality" title="0 page validée, 289 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:0px;"></td>
+<td class="quality3" style="width:289px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:7px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Th%C3%A9%C3%A2tre_II.djvu" title="Livre:Mirbeau - Théâtre II.djvu">Mirbeau - Théâtre II.djvu</a> ‎[292 pages]</span><div><table class="pr_quality" title="2 pages validées, 283 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:2px;"></td>
+<td class="quality3" style="width:283px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:7px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Les_%C3%89crivains_(deuxi%C3%A8me_s%C3%A9rie).djvu" title="Livre:Mirbeau - Les Écrivains (deuxième série).djvu">Mirbeau - Les Écrivains (deuxième série).djvu</a> ‎[284 pages]</span><div><table class="pr_quality" title="2 pages validées, 277 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:2px;"></td>
+<td class="quality3" style="width:277px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:4px;"></td>
+<td class="qualitye" style="width:1px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Octave_Mirbeau_Un_gentilhomme_1920.djvu" title="Livre:Octave Mirbeau Un gentilhomme 1920.djvu">Octave Mirbeau Un gentilhomme 1920.djvu</a> ‎[258 pages]</span><div><table class="pr_quality" title="2 pages validées, 245 pages seulement corrigées et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:2px;"></td>
+<td class="quality3" style="width:245px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:11px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Octave_Mirbeau_-_La_628-E8_-_Fasquelle_1907.djvu" title="Livre:Octave Mirbeau - La 628-E8 - Fasquelle 1907.djvu">Octave Mirbeau - La 628-E8 - Fasquelle 1907.djvu</a> ‎[526 pages]</span><div><table class="pr_quality" title="56 pages validées, 55 pages seulement corrigées et 398 pages non corrigées">
+<tr>
+<td class="quality4" style="width:56px;"></td>
+<td class="quality3" style="width:55px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:398px;"></td>
+<td class="quality0" style="width:9px;"></td>
+<td class="qualitye" style="width:8px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_S%C3%A9bastien_Roch,_1890.djvu" title="Livre:Mirbeau - Sébastien Roch, 1890.djvu">Mirbeau - Sébastien Roch, 1890.djvu</a> ‎[368 pages]</span><div><table class="pr_quality" title="4 pages validées, 134 pages seulement corrigées et 223 pages non corrigées">
+<tr>
+<td class="quality4" style="width:4px;"></td>
+<td class="quality3" style="width:134px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:223px;"></td>
+<td class="quality0" style="width:7px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Octave_Mirbeau_Les_M%C3%A9moires_de_mon_ami_1920.djvu" title="Livre:Octave Mirbeau Les Mémoires de mon ami 1920.djvu">Octave Mirbeau Les Mémoires de mon ami 1920.djvu</a> ‎[68 pages]</span><div><table class="pr_quality" title="62 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:62px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:6px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_L%E2%80%99%C3%89pid%C3%A9mie.djvu" title="Livre:Mirbeau - L’Épidémie.djvu">Mirbeau - L’Épidémie.djvu</a> ‎[52 pages]</span><div><table class="pr_quality" title="39 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:39px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:13px;"></td>
+
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Octave_Mirbeau_-_Dingo_-_Fasquelle_1913.djvu" title="Livre:Octave Mirbeau - Dingo - Fasquelle 1913.djvu">Octave Mirbeau - Dingo - Fasquelle 1913.djvu</a> ‎[440 pages]</span><div><table class="pr_quality" title="1 page validée, 61 pages seulement corrigées et 365 pages non corrigées">
+<tr>
+<td class="quality4" style="width:1px;"></td>
+<td class="quality3" style="width:61px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:365px;"></td>
+<td class="quality0" style="width:7px;"></td>
+<td class="qualitye" style="width:6px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Les_Vingt_et_un_Jours_d%E2%80%99un_neurasth%C3%A9nique,_1901.djvu" title="Livre:Mirbeau - Les Vingt et un Jours d’un neurasthénique, 1901.djvu">Mirbeau - Les Vingt et un Jours d’un neurasthénique, 1901.djvu</a> ‎[441 pages]</span><div><table class="pr_quality" title="0 page validée, 53 pages seulement corrigées et 382 pages non corrigées">
+<tr>
+<td class="quality4" style="width:0px;"></td>
+<td class="quality3" style="width:53px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:382px;"></td>
+<td class="quality0" style="width:0px;"></td>
+<td class="qualitye" style="width:6px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Les_%C3%89crivains_(premi%C3%A8re_s%C3%A9rie).djvu" title="Livre:Mirbeau - Les Écrivains (première série).djvu">Mirbeau - Les Écrivains (première série).djvu</a> ‎[283 pages]</span><div><table class="pr_quality" title="1 page validée, 49 pages seulement corrigées et 232 pages non corrigées">
+<tr>
+<td class="quality4" style="width:1px;"></td>
+<td class="quality3" style="width:49px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:232px;"></td>
+<td class="quality0" style="width:0px;"></td>
+<td class="qualitye" style="width:1px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_La_Gr%C3%A8ve_des_%C3%A9lecteurs.djvu" title="Livre:Mirbeau - La Grève des électeurs.djvu">Mirbeau - La Grève des électeurs.djvu</a> ‎[10 pages]</span><div><table class="pr_quality" title="8 pages validées, 0 page seulement corrigée et 0 page non corrigée">
+<tr>
+<td class="quality4" style="width:8px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:0px;"></td>
+<td class="quality0" style="width:1px;"></td>
+<td class="qualitye" style="width:1px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Les_Mauvais_Bergers.djvu" title="Livre:Mirbeau - Les Mauvais Bergers.djvu">Mirbeau - Les Mauvais Bergers.djvu</a> ‎[155 pages]</span><div><table class="pr_quality" title="0 page validée, 2 pages seulement corrigées et 2 pages non corrigées">
+<tr>
+<td class="quality4" style="width:0px;"></td>
+<td class="quality3" style="width:2px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:2px;"></td>
+<td class="quality0" style="width:0px;"></td>
+<td class="qualitye" style="width:151px;"></td>
+</tr>
+</table></div></div></li>
+<li><div class="prp-indexpages-row"><span><a href="/wiki/Livre:Mirbeau_-_Chez_l%E2%80%99Illustre_%C3%A9crivain,_1919.djvu" title="Livre:Mirbeau - Chez l’Illustre écrivain, 1919.djvu">Mirbeau - Chez l’Illustre écrivain, 1919.djvu</a> ‎[279 pages]</span><div><table class="pr_quality" title="0 page validée, 0 page seulement corrigée et 74 pages non corrigées">
+<tr>
+<td class="quality4" style="width:0px;"></td>
+<td class="quality3" style="width:0px;"></td>
+<td class="quality2" style="width:0px;"></td>
+<td class="quality1" style="width:74px;"></td>
+<td class="quality0" style="width:1px;"></td>
+<td class="qualitye" style="width:204px;"></td>
+</tr>
+</table></div></div></li>
+</ol>
+<p>Voir (50 précédentes  |  50 suivantes) (<a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=20&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 20 résultats par page" class="mw-numlink">20</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=50&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 50 résultats par page" class="mw-numlink">50</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=100&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 100 résultats par page" class="mw-numlink">100</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=250&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 250 résultats par page" class="mw-numlink">250</a> | <a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;limit=500&amp;offset=0&amp;key=Octave+intitle%3AMirbeau&amp;order=" title="Afficher 500 résultats par page" class="mw-numlink">500</a>)</p></div><noscript><img src="//fr.wikisource.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Récupérée de «&#160;<a dir="ltr" href="https://fr.wikisource.org/wiki/Spécial:IndexPages">https://fr.wikisource.org/wiki/Spécial:IndexPages</a>&#160;»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Sp%C3%A9cial%3AIndexPages&amp;returntoquery=key%3DOctave%2Bintitle%253AMirbeau" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Sp%C3%A9cial%3AIndexPages&amp;returntoquery=key%3DOctave%2Bintitle%253AMirbeau" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/wiki/Sp%C3%A9cial:IndexPages?key=Octave+intitle%3AMirbeau" title="Ceci est une page spéciale, et elle ne peut pas être modifiée.">Page spéciale</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikisource" title="Rechercher dans Wikisource [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikisource:Accueil"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Lire"  aria-labelledby="p-Lire-label">
+	<h3  id="p-Lire-label">
+		Lire
+	</h3>
+	<div class="body">
+		<ul><li id="n-Accueil"><a href="/wiki/Wikisource:Accueil">Accueil</a></li><li id="n-Index des auteurs"><a href="/wiki/Wikisource:Index_des_auteurs">Index des auteurs</a></li><li id="n-Portails thématiques"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-Aide au lecteur"><a href="/wiki/Aide:Aide_au_lecteur">Aide au lecteur</a></li><li id="n-Contacter-Wikisource"><a href="/wiki/Wikisource:Questions">Contacter Wikisource</a></li><li id="n-Texte au hasard"><a href="/wiki/Sp%C3%A9cial:RandomRootpage/NS:0">Texte au hasard</a></li><li id="n-Auteur au hasard"><a href="/wiki/Sp%C3%A9cial:RandomRootpage/Auteur">Auteur au hasard</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Wikisource:Scriptorium" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Scriptorium</a></li><li id="n-Forum-des-nouveaux"><a href="/wiki/Wikisource:Forum_des_nouveaux">Forum des nouveaux</a></li><li id="n-help"><a href="/wiki/Aide:Aide" title="Accès à l’aide">Aide</a></li><li id="n-Communauté"><a href="/wiki/Wikisource:Accueil_de_la_communaut%C3%A9">Communauté</a></li><li id="n-Livre-au-hasard"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard/Livre">Livre au hasard</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikisource.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-print"><a href="/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;key=Octave+intitle%3AMirbeau&amp;printable=yes" rel="alternate" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — azéri" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — bulgare" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — bengali" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — bosniaque" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — gallois" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — grec" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — espéranto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — estonien" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — finnois" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — féroïen" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — galicien" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — croate" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — arménien" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — indonésien" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — islandais" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — coréen" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — limbourgeois" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — lituanien" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — macédonien" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — norvégien" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — polonais" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — roumain" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — iakoute" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — slovène" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — serbe" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — tamoul" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — télougou" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — thaï" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — turc" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — vénitien" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikisource.org/wiki/Special:IndexPages" title="Special:IndexPages — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikisource:%C3%80_propos_de" class="mw-redirect" title="Wikisource:À propos de">À propos de Wikisource</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikisource:Avertissements_g%C3%A9n%C3%A9raux" title="Wikisource:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikisource.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikisource.org/w/index.php?title=Sp%C3%A9cial:IndexPages&amp;key=Octave+intitle%3AMirbeau&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":214,"wgHostname":"mw1328"});});</script></body></html>

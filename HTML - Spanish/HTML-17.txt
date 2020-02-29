@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljJdQpAMNAAAJkk5pcAAACI","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=N"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"N","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='N' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Motte" title="Especial:Todas">Página anterior (Motte)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Naquil" title="Especial:Todas">Página siguiente (Naquil)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/N" title="N">N</a></li>
+<li><a href="/wiki/N._del_T." title="N. del T.">N. del T.</a></li>
+<li><a href="/wiki/NASA" title="NASA">NASA</a></li>
+<li><a href="/wiki/NAT" title="NAT">NAT</a></li>
+<li><a href="/wiki/NDA" title="NDA">NDA</a></li>
+<li><a href="/wiki/NEMA" title="NEMA">NEMA</a></li>
+<li><a href="/wiki/NN" title="NN">NN</a></li>
+<li><a href="/wiki/NOTAM" title="NOTAM">NOTAM</a></li>
+<li><a href="/wiki/NSDAP" title="NSDAP">NSDAP</a></li>
+<li><a href="/wiki/NTFS" title="NTFS">NTFS</a></li>
+<li><a href="/wiki/Na" title="Na">Na</a></li>
+<li><a href="/wiki/Nabajas" title="Nabajas">Nabajas</a></li>
+<li><a href="/wiki/Nabal" title="Nabal">Nabal</a></li>
+<li><a href="/wiki/Nabarieta" title="Nabarieta">Nabarieta</a></li>
+<li><a href="/wiki/Nabarlats" title="Nabarlats">Nabarlats</a></li>
+<li><a href="/wiki/Nabarlatz" title="Nabarlatz">Nabarlatz</a></li>
+<li><a href="/wiki/Nabarlaz" title="Nabarlaz">Nabarlaz</a></li>
+<li><a href="/wiki/Nabarre" title="Nabarre">Nabarre</a></li>
+<li><a href="/wiki/Nabarrete" title="Nabarrete">Nabarrete</a></li>
+<li><a href="/wiki/Nabarro" title="Nabarro">Nabarro</a></li>
+<li><a href="/wiki/Nabas" title="Nabas">Nabas</a></li>
+<li><a href="/wiki/Nabatiya" title="Nabatiya">Nabatiya</a></li>
+<li><a href="/wiki/Nabaz" title="Nabaz">Nabaz</a></li>
+<li><a href="/wiki/Nabea" title="Nabea">Nabea</a></li>
+<li><a href="/wiki/Nabel" title="Nabel">Nabel</a></li>
+<li><a href="/wiki/Naberan" title="Naberan">Naberan</a></li>
+<li><a href="/wiki/Naberansacona" title="Naberansacona">Naberansacona</a></li>
+<li><a href="/wiki/Nabia" title="Nabia">Nabia</a></li>
+<li><a href="/wiki/Nablus" title="Nablus">Nablus</a></li>
+<li><a href="/wiki/Nabor" title="Nabor">Nabor</a></li>
+<li><a href="/wiki/Nacaburu" title="Nacaburu">Nacaburu</a></li>
+<li><a href="/wiki/Nacajuca" title="Nacajuca">Nacajuca</a></li>
+<li><a href="/wiki/Nach" title="Nach">Nach</a></li>
+<li><a href="/wiki/Nachiondo" title="Nachiondo">Nachiondo</a></li>
+<li><a href="/wiki/Nachitube" title="Nachitube">Nachitube</a></li>
+<li><a href="/wiki/Nachmittag" title="Nachmittag">Nachmittag</a></li>
+<li><a href="/wiki/Nacht" title="Nacht">Nacht</a></li>
+<li><a href="/wiki/Naciente" title="Naciente">Naciente</a></li>
+<li><a href="/wiki/Naciones_Unidas" title="Naciones Unidas">Naciones Unidas</a></li>
+<li><a href="/wiki/Nacktschnecke" title="Nacktschnecke">Nacktschnecke</a></li>
+<li><a href="/wiki/Nacuan" title="Nacuan">Nacuan</a></li>
+<li><a href="/wiki/Nacuante" title="Nacuante">Nacuante</a></li>
+<li><a href="/wiki/Nacucheo" title="Nacucheo">Nacucheo</a></li>
+<li><a href="/wiki/Nacul" title="Nacul">Nacul</a></li>
+<li><a href="/wiki/Naculef" title="Naculef">Naculef</a></li>
+<li><a href="/wiki/Naculhual" title="Naculhual">Naculhual</a></li>
+<li><a href="/wiki/Naculhueque" title="Naculhueque">Naculhueque</a></li>
+<li><a href="/wiki/Naculman" title="Naculman">Naculman</a></li>
+<li><a href="/wiki/Naculpan" title="Naculpan">Naculpan</a></li>
+<li><a href="/wiki/Naculqueo" title="Naculqueo">Naculqueo</a></li>
+<li><a href="/wiki/Nacupil" title="Nacupil">Nacupil</a></li>
+<li><a href="/wiki/Nadal" title="Nadal">Nadal</a></li>
+<li><a href="/wiki/Nadia" title="Nadia">Nadia</a></li>
+<li><a href="/wiki/Nadrenia-Palatynat" title="Nadrenia-Palatynat">Nadrenia-Palatynat</a></li>
+<li><a href="/wiki/Nadrenia_P%C3%B3%C5%82nocna-Westfalia" title="Nadrenia Północna-Westfalia">Nadrenia Północna-Westfalia</a></li>
+<li><a href="/wiki/Nadrenii-Palatynacie" title="Nadrenii-Palatynacie">Nadrenii-Palatynacie</a></li>
+<li><a href="/wiki/Nadrenii-Palatynatowi" title="Nadrenii-Palatynatowi">Nadrenii-Palatynatowi</a></li>
+<li><a href="/wiki/Nadrenii-Palatynatu" title="Nadrenii-Palatynatu">Nadrenii-Palatynatu</a></li>
+<li><a href="/wiki/Nadrenii_P%C3%B3%C5%82nocnej-Westfalii" title="Nadrenii Północnej-Westfalii">Nadrenii Północnej-Westfalii</a></li>
+<li><a href="/wiki/Nadrenio-Palatynacie" title="Nadrenio-Palatynacie">Nadrenio-Palatynacie</a></li>
+<li><a href="/wiki/Nadrenio_P%C3%B3%C5%82nocna-Westfalio" title="Nadrenio Północna-Westfalio">Nadrenio Północna-Westfalio</a></li>
+<li><a href="/wiki/Nadreni%C3%B4-Palatinat" title="Nadreniô-Palatinat">Nadreniô-Palatinat</a></li>
+<li><a href="/wiki/Nadreni%C4%85-Palatynatem" title="Nadrenią-Palatynatem">Nadrenią-Palatynatem</a></li>
+<li><a href="/wiki/Nadreni%C4%85_P%C3%B3%C5%82nocn%C4%85-Westfali%C4%85" title="Nadrenią Północną-Westfalią">Nadrenią Północną-Westfalią</a></li>
+<li><a href="/wiki/Nadreni%C4%99-Palatynat" title="Nadrenię-Palatynat">Nadrenię-Palatynat</a></li>
+<li><a href="/wiki/Nadreni%C4%99_P%C3%B3%C5%82nocn%C4%85-Westfali%C4%99" title="Nadrenię Północną-Westfalię">Nadrenię Północną-Westfalię</a></li>
+<li><a href="/wiki/Nadry%C5%84ijo-Palatynat" title="Nadryńijo-Palatynat">Nadryńijo-Palatynat</a></li>
+<li><a href="/wiki/Naduam" title="Naduam">Naduam</a></li>
+<li><a href="/wiki/Nafarra" title="Nafarra">Nafarra</a></li>
+<li><a href="/wiki/Nafarrasagasti" title="Nafarrasagasti">Nafarrasagasti</a></li>
+<li><a href="/wiki/Nafarrate" title="Nafarrate">Nafarrate</a></li>
+<li><a href="/wiki/Nafarrete" title="Nafarrete">Nafarrete</a></li>
+<li><a href="/wiki/Nafarroa" title="Nafarroa">Nafarroa</a></li>
+<li><a href="/wiki/Nafarroa_Beherea" title="Nafarroa Beherea">Nafarroa Beherea</a></li>
+<li><a href="/wiki/Nafarrola" title="Nafarrola">Nafarrola</a></li>
+<li><a href="/wiki/Nafarrondo" title="Nafarrondo">Nafarrondo</a></li>
+<li><a href="/wiki/Nagasaki" title="Nagasaki">Nagasaki</a></li>
+<li><a href="/wiki/Nagel" title="Nagel">Nagel</a></li>
+<li><a href="/wiki/Nagera" title="Nagera">Nagera</a></li>
+<li><a href="/wiki/Nagore" title="Nagore">Nagore</a></li>
+<li><a href="/wiki/Naguel" title="Naguel">Naguel</a></li>
+<li><a href="/wiki/Naguelguaiqui" title="Naguelguaiqui">Naguelguaiqui</a></li>
+<li><a href="/wiki/Naguelguin" title="Naguelguin">Naguelguin</a></li>
+<li><a href="/wiki/Naguelpani" title="Naguelpani">Naguelpani</a></li>
+<li><a href="/wiki/Naguelpi" title="Naguelpi">Naguelpi</a></li>
+<li><a href="/wiki/Naguelqu%C3%ADn" title="Naguelquín">Naguelquín</a></li>
+<li><a href="/wiki/Nague%C3%B1anco" title="Nagueñanco">Nagueñanco</a></li>
+<li><a href="/wiki/Nagui" title="Nagui">Nagui</a></li>
+<li><a href="/wiki/Naguil" title="Naguil">Naguil</a></li>
+<li><a href="/wiki/Naguile" title="Naguile">Naguile</a></li>
+<li><a href="/wiki/Naguiman" title="Naguiman">Naguiman</a></li>
+<li><a href="/wiki/Naguin" title="Naguin">Naguin</a></li>
+<li><a href="/wiki/Naguiola" title="Naguiola">Naguiola</a></li>
+<li><a href="/wiki/Naguipan" title="Naguipan">Naguipan</a></li>
+<li><a href="/wiki/Naguiturri" title="Naguiturri">Naguiturri</a></li>
+<li><a href="/wiki/Nagui%C3%A1n" title="Naguián">Naguián</a></li>
+<li><a href="/wiki/Nagul" title="Nagul">Nagul</a></li>
+<li><a href="/wiki/Nagusi" title="Nagusi">Nagusi</a></li>
+<li><a href="/wiki/Naharro" title="Naharro">Naharro</a></li>
+<li><a href="/wiki/Nahasdz%C3%A1%C3%A1n" title="Nahasdzáán">Nahasdzáán</a></li>
+<li><a href="/wiki/Nahat%CA%BCe%CA%BCiitsoh_Bik%C3%A9yah" title="Nahatʼeʼiitsoh Bikéyah">Nahatʼeʼiitsoh Bikéyah</a></li>
+<li><a href="/wiki/Nahelcoy" title="Nahelcoy">Nahelcoy</a></li>
+<li><a href="/wiki/Nahelfil" title="Nahelfil">Nahelfil</a></li>
+<li><a href="/wiki/Nahellan" title="Nahellan">Nahellan</a></li>
+<li><a href="/wiki/Nahual" title="Nahual">Nahual</a></li>
+<li><a href="/wiki/Nahualhual" title="Nahualhual">Nahualhual</a></li>
+<li><a href="/wiki/Nahualquen" title="Nahualquen">Nahualquen</a></li>
+<li><a href="/wiki/Nahualquin" title="Nahualquin">Nahualquin</a></li>
+<li><a href="/wiki/Nahuecheo" title="Nahuecheo">Nahuecheo</a></li>
+<li><a href="/wiki/Nahuecoy" title="Nahuecoy">Nahuecoy</a></li>
+<li><a href="/wiki/Nahuecura" title="Nahuecura">Nahuecura</a></li>
+<li><a href="/wiki/Nahuehual" title="Nahuehual">Nahuehual</a></li>
+<li><a href="/wiki/Nahuehuel" title="Nahuehuel">Nahuehuel</a></li>
+<li><a href="/wiki/Nahueipil" title="Nahueipil">Nahueipil</a></li>
+<li><a href="/wiki/Nahuel" title="Nahuel">Nahuel</a></li>
+<li><a href="/wiki/Nahuela" title="Nahuela">Nahuela</a></li>
+<li><a href="/wiki/Nahuelal" title="Nahuelal">Nahuelal</a></li>
+<li><a href="/wiki/Nahuelanca" title="Nahuelanca">Nahuelanca</a></li>
+<li><a href="/wiki/Nahuelante" title="Nahuelante">Nahuelante</a></li>
+<li><a href="/wiki/Nahuelbin" title="Nahuelbin">Nahuelbin</a></li>
+<li><a href="/wiki/Nahuelcan" title="Nahuelcan">Nahuelcan</a></li>
+<li><a href="/wiki/Nahuelcar" title="Nahuelcar">Nahuelcar</a></li>
+<li><a href="/wiki/Nahuelchal" title="Nahuelchal">Nahuelchal</a></li>
+<li><a href="/wiki/Nahuelche" title="Nahuelche">Nahuelche</a></li>
+<li><a href="/wiki/Nahuelchen" title="Nahuelchen">Nahuelchen</a></li>
+<li><a href="/wiki/Nahuelcheo" title="Nahuelcheo">Nahuelcheo</a></li>
+<li><a href="/wiki/Nahuelchi" title="Nahuelchi">Nahuelchi</a></li>
+<li><a href="/wiki/Nahuelchipai" title="Nahuelchipai">Nahuelchipai</a></li>
+<li><a href="/wiki/Nahuelchipay" title="Nahuelchipay">Nahuelchipay</a></li>
+<li><a href="/wiki/Nahuelchual" title="Nahuelchual">Nahuelchual</a></li>
+<li><a href="/wiki/Nahuelco" title="Nahuelco">Nahuelco</a></li>
+<li><a href="/wiki/Nahuelcoi" title="Nahuelcoi">Nahuelcoi</a></li>
+<li><a href="/wiki/Nahuelcon" title="Nahuelcon">Nahuelcon</a></li>
+<li><a href="/wiki/Nahuelcoy" title="Nahuelcoy">Nahuelcoy</a></li>
+<li><a href="/wiki/Nahuelcur" title="Nahuelcur">Nahuelcur</a></li>
+<li><a href="/wiki/Nahuelcura" title="Nahuelcura">Nahuelcura</a></li>
+<li><a href="/wiki/Nahueleo" title="Nahueleo">Nahueleo</a></li>
+<li><a href="/wiki/Nahuelfi" title="Nahuelfi">Nahuelfi</a></li>
+<li><a href="/wiki/Nahuelfil" title="Nahuelfil">Nahuelfil</a></li>
+<li><a href="/wiki/Nahuelfin" title="Nahuelfin">Nahuelfin</a></li>
+<li><a href="/wiki/Nahuelfio" title="Nahuelfio">Nahuelfio</a></li>
+<li><a href="/wiki/Nahuelgual" title="Nahuelgual">Nahuelgual</a></li>
+<li><a href="/wiki/Nahuelheo" title="Nahuelheo">Nahuelheo</a></li>
+<li><a href="/wiki/Nahuelhuaique" title="Nahuelhuaique">Nahuelhuaique</a></li>
+<li><a href="/wiki/Nahuelhual" title="Nahuelhual">Nahuelhual</a></li>
+<li><a href="/wiki/Nahuelhuaque" title="Nahuelhuaque">Nahuelhuaque</a></li>
+<li><a href="/wiki/Nahuelhue" title="Nahuelhue">Nahuelhue</a></li>
+<li><a href="/wiki/Nahuelhueique" title="Nahuelhueique">Nahuelhueique</a></li>
+<li><a href="/wiki/Nahuelhuel" title="Nahuelhuel">Nahuelhuel</a></li>
+<li><a href="/wiki/Nahuelhueque" title="Nahuelhueque">Nahuelhueque</a></li>
+<li><a href="/wiki/Nahuelhuil" title="Nahuelhuil">Nahuelhuil</a></li>
+<li><a href="/wiki/Nahuelhuin" title="Nahuelhuin">Nahuelhuin</a></li>
+<li><a href="/wiki/Nahuelhuique" title="Nahuelhuique">Nahuelhuique</a></li>
+<li><a href="/wiki/Nahuelhu%C3%A1n" title="Nahuelhuán">Nahuelhuán</a></li>
+<li><a href="/wiki/Nahuelhu%C3%A9n" title="Nahuelhuén">Nahuelhuén</a></li>
+<li><a href="/wiki/Nahuelian" title="Nahuelian">Nahuelian</a></li>
+<li><a href="/wiki/Nahuellanca" title="Nahuellanca">Nahuellanca</a></li>
+<li><a href="/wiki/Nahuell%C3%A1n" title="Nahuellán">Nahuellán</a></li>
+<li><a href="/wiki/Nahuelma" title="Nahuelma">Nahuelma</a></li>
+<li><a href="/wiki/Nahuelman" title="Nahuelman">Nahuelman</a></li>
+<li><a href="/wiki/Nahuelmil" title="Nahuelmil">Nahuelmil</a></li>
+<li><a href="/wiki/Nahuelneri" title="Nahuelneri">Nahuelneri</a></li>
+<li><a href="/wiki/Nahuelnir" title="Nahuelnir">Nahuelnir</a></li>
+<li><a href="/wiki/Nahuelpais" title="Nahuelpais">Nahuelpais</a></li>
+<li><a href="/wiki/Nahuelpal" title="Nahuelpal">Nahuelpal</a></li>
+<li><a href="/wiki/Nahuelpa%C3%B1i" title="Nahuelpañi">Nahuelpañi</a></li>
+<li><a href="/wiki/Nahuelpe" title="Nahuelpe">Nahuelpe</a></li>
+<li><a href="/wiki/Nahuelpi" title="Nahuelpi">Nahuelpi</a></li>
+<li><a href="/wiki/Nahuelpichun" title="Nahuelpichun">Nahuelpichun</a></li>
+<li><a href="/wiki/Nahuelpich%C3%BAn" title="Nahuelpichún">Nahuelpichún</a></li>
+<li><a href="/wiki/Nahuelpil" title="Nahuelpil">Nahuelpil</a></li>
+<li><a href="/wiki/Nahuelpuil" title="Nahuelpuil">Nahuelpuil</a></li>
+<li><a href="/wiki/Nahuelp%C3%A1n" title="Nahuelpán">Nahuelpán</a></li>
+<li><a href="/wiki/Nahuelque" title="Nahuelque">Nahuelque</a></li>
+<li><a href="/wiki/Nahuelquen" title="Nahuelquen">Nahuelquen</a></li>
+<li><a href="/wiki/Nahuelqueo" title="Nahuelqueo">Nahuelqueo</a></li>
+<li><a href="/wiki/Nahuelqu%C3%A9n" title="Nahuelquén">Nahuelquén</a></li>
+<li><a href="/wiki/Nahuelqu%C3%ADn" title="Nahuelquín">Nahuelquín</a></li>
+<li><a href="/wiki/Nahueltaro" title="Nahueltaro">Nahueltaro</a></li>
+<li><a href="/wiki/Nahuelti" title="Nahuelti">Nahuelti</a></li>
+<li><a href="/wiki/Nahueltoro" title="Nahueltoro">Nahueltoro</a></li>
+<li><a href="/wiki/Nahueltrin" title="Nahueltrin">Nahueltrin</a></li>
+<li><a href="/wiki/Nahueltripag" title="Nahueltripag">Nahueltripag</a></li>
+<li><a href="/wiki/Nahueltripai" title="Nahueltripai">Nahueltripai</a></li>
+<li><a href="/wiki/Nahueltripay" title="Nahueltripay">Nahueltripay</a></li>
+<li><a href="/wiki/Nahueluin" title="Nahueluin">Nahueluin</a></li>
+<li><a href="/wiki/Nahuelval" title="Nahuelval">Nahuelval</a></li>
+<li><a href="/wiki/Nahuelvil" title="Nahuelvil">Nahuelvil</a></li>
+<li><a href="/wiki/Nahuel%C3%A1n" title="Nahuelán">Nahuelán</a></li>
+<li><a href="/wiki/Nahuel%C3%A9n" title="Nahuelén">Nahuelén</a></li>
+<li><a href="/wiki/Nahuel%C3%B1ir" title="Nahuelñir">Nahuelñir</a></li>
+<li><a href="/wiki/Nahueman" title="Nahueman">Nahueman</a></li>
+<li><a href="/wiki/Nahuenir" title="Nahuenir">Nahuenir</a></li>
+<li><a href="/wiki/Nahuenpan" title="Nahuenpan">Nahuenpan</a></li>
+<li><a href="/wiki/Nahuepan" title="Nahuepan">Nahuepan</a></li>
+<li><a href="/wiki/Nahuepe" title="Nahuepe">Nahuepe</a></li>
+<li><a href="/wiki/Nahuepi" title="Nahuepi">Nahuepi</a></li>
+<li><a href="/wiki/Nahuequeo" title="Nahuequeo">Nahuequeo</a></li>
+<li><a href="/wiki/Nahuevil" title="Nahuevil">Nahuevil</a></li>
+<li><a href="/wiki/Nahue%C3%B1ir" title="Nahueñir">Nahueñir</a></li>
+<li><a href="/wiki/Nahuil" title="Nahuil">Nahuil</a></li>
+<li><a href="/wiki/Nahuili%C3%B1ir" title="Nahuiliñir">Nahuiliñir</a></li>
+<li><a href="/wiki/Nahui%C3%B1ir" title="Nahuiñir">Nahuiñir</a></li>
+<li><a href="/wiki/Nahulcheo" title="Nahulcheo">Nahulcheo</a></li>
+<li><a href="/wiki/Nahulcura" title="Nahulcura">Nahulcura</a></li>
+<li><a href="/wiki/Nahule" title="Nahule">Nahule</a></li>
+<li><a href="/wiki/Nahum" title="Nahum">Nahum</a></li>
+<li><a href="/wiki/Nahuma" title="Nahuma">Nahuma</a></li>
+<li><a href="/wiki/Nahumo_knyga" title="Nahumo knyga">Nahumo knyga</a></li>
+<li><a href="/wiki/Nahupai" title="Nahupai">Nahupai</a></li>
+<li><a href="/wiki/Nahu%C3%ADn" title="Nahuín">Nahuín</a></li>
+<li><a href="/wiki/Nah%C3%BAn" title="Nahún">Nahún</a></li>
+<li><a href="/wiki/Naiara" title="Naiara">Naiara</a></li>
+<li><a href="/wiki/Naichin" title="Naichin">Naichin</a></li>
+<li><a href="/wiki/Naico" title="Naico">Naico</a></li>
+<li><a href="/wiki/Naicuan" title="Naicuan">Naicuan</a></li>
+<li><a href="/wiki/Naicul" title="Naicul">Naicul</a></li>
+<li><a href="/wiki/Naiculeo" title="Naiculeo">Naiculeo</a></li>
+<li><a href="/wiki/Naicumil" title="Naicumil">Naicumil</a></li>
+<li><a href="/wiki/Naigual" title="Naigual">Naigual</a></li>
+<li><a href="/wiki/Naiguan" title="Naiguan">Naiguan</a></li>
+<li><a href="/wiki/Naiguian" title="Naiguian">Naiguian</a></li>
+<li><a href="/wiki/Naiguil" title="Naiguil">Naiguil</a></li>
+<li><a href="/wiki/Naihual" title="Naihual">Naihual</a></li>
+<li><a href="/wiki/Naihuan" title="Naihuan">Naihuan</a></li>
+<li><a href="/wiki/Nail" title="Nail">Nail</a></li>
+<li><a href="/wiki/Nailayan" title="Nailayan">Nailayan</a></li>
+<li><a href="/wiki/Nailef" title="Nailef">Nailef</a></li>
+<li><a href="/wiki/Naillanca" title="Naillanca">Naillanca</a></li>
+<li><a href="/wiki/Naimibia" title="Naimibia">Naimibia</a></li>
+<li><a href="/wiki/Naim%C3%A1n" title="Naimán">Naimán</a></li>
+<li><a href="/wiki/Naipailaf" title="Naipailaf">Naipailaf</a></li>
+<li><a href="/wiki/Naipali" title="Naipali">Naipali</a></li>
+<li><a href="/wiki/Naipallan" title="Naipallan">Naipallan</a></li>
+<li><a href="/wiki/Naipay%C3%A1n" title="Naipayán">Naipayán</a></li>
+<li><a href="/wiki/Naipe" title="Naipe">Naipe</a></li>
+<li><a href="/wiki/Naipi" title="Naipi">Naipi</a></li>
+<li><a href="/wiki/Naipil" title="Naipil">Naipil</a></li>
+<li><a href="/wiki/Naipio" title="Naipio">Naipio</a></li>
+<li><a href="/wiki/Naipul" title="Naipul">Naipul</a></li>
+<li><a href="/wiki/Naip%C3%A1n" title="Naipán">Naipán</a></li>
+<li><a href="/wiki/Naiquel" title="Naiquel">Naiquel</a></li>
+<li><a href="/wiki/Naiqu%C3%A9n" title="Naiquén">Naiquén</a></li>
+<li><a href="/wiki/Nairobi" title="Nairobi">Nairobi</a></li>
+<li><a href="/wiki/Naiztegui" title="Naiztegui">Naiztegui</a></li>
+<li><a href="/wiki/Naja" title="Naja">Naja</a></li>
+<li><a href="/wiki/Najara" title="Najara">Najara</a></li>
+<li><a href="/wiki/Najarro" title="Najarro">Najarro</a></li>
+<li><a href="/wiki/Najera" title="Najera">Najera</a></li>
+<li><a href="/wiki/Najurieta" title="Najurieta">Najurieta</a></li>
+<li><a href="/wiki/Nalda" title="Nalda">Nalda</a></li>
+<li><a href="/wiki/Nalhue" title="Nalhue">Nalhue</a></li>
+<li><a href="/wiki/Namaib" title="Namaib">Namaib</a></li>
+<li><a href="/wiki/Name" title="Name">Name</a></li>
+<li><a href="/wiki/Nameeb" title="Nameeb">Nameeb</a></li>
+<li><a href="/wiki/Namibbia" title="Namibbia">Namibbia</a></li>
+<li><a href="/wiki/Namibhiya" title="Namibhiya">Namibhiya</a></li>
+<li><a href="/wiki/Namibi" title="Namibi">Namibi</a></li>
+<li><a href="/wiki/Namibia" title="Namibia">Namibia</a></li>
+<li><a href="/wiki/Namibie" title="Namibie">Namibie</a></li>
+<li><a href="/wiki/Namibien" title="Namibien">Namibien</a></li>
+<li><a href="/wiki/Namibija" title="Namibija">Namibija</a></li>
+<li><a href="/wiki/Namibijo" title="Namibijo">Namibijo</a></li>
+<li><a href="/wiki/Namibio" title="Namibio">Namibio</a></li>
+<li><a href="/wiki/Namibiya" title="Namibiya">Namibiya</a></li>
+<li><a href="/wiki/Namibiy%C3%A4n" title="Namibiyän">Namibiyän</a></li>
+<li><a href="/wiki/Namibi%C3%AB" title="Namibië">Namibië</a></li>
+<li><a href="/wiki/Namibya" title="Namibya">Namibya</a></li>
+<li><a href="/wiki/Namib%C3%ADa" title="Namibía">Namibía</a></li>
+<li><a href="/wiki/Namib%C4%97j%C4%97" title="Namibėjė">Namibėjė</a></li>
+<li><a href="/wiki/Namiibia" title="Namiibia">Namiibia</a></li>
+<li><a href="/wiki/Namiibiya" title="Namiibiya">Namiibiya</a></li>
+<li><a href="/wiki/Namil" title="Namil">Namil</a></li>
+<li><a href="/wiki/Namillanca" title="Namillanca">Namillanca</a></li>
+<li><a href="/wiki/Naminao" title="Naminao">Naminao</a></li>
+<li><a href="/wiki/Namincura" title="Namincura">Namincura</a></li>
+<li><a href="/wiki/Namiwya" title="Namiwya">Namiwya</a></li>
+<li><a href="/wiki/Namocura" title="Namocura">Namocura</a></li>
+<li><a href="/wiki/Namoncura" title="Namoncura">Namoncura</a></li>
+<li><a href="/wiki/Namulcura" title="Namulcura">Namulcura</a></li>
+<li><a href="/wiki/Namumcura" title="Namumcura">Namumcura</a></li>
+<li><a href="/wiki/Namuncura" title="Namuncura">Namuncura</a></li>
+<li><a href="/wiki/Namunkura" title="Namunkura">Namunkura</a></li>
+<li><a href="/wiki/Namybje" title="Namybje">Namybje</a></li>
+<li><a href="/wiki/Nam%C3%ACbia" title="Namìbia">Namìbia</a></li>
+<li><a href="/wiki/Nam%C3%ADbia" title="Namíbia">Namíbia</a></li>
+<li><a href="/wiki/Nam%C3%AD%C3%ADbya" title="Namííbya">Namííbya</a></li>
+<li><a href="/wiki/Nam%C3%AEbya" title="Namîbya">Namîbya</a></li>
+<li><a href="/wiki/Nam%C4%ABbija" title="Namībija">Namībija</a></li>
+<li><a href="/wiki/Nancabil" title="Nancabil">Nancabil</a></li>
+<li><a href="/wiki/Nancan" title="Nancan">Nancan</a></li>
+<li><a href="/wiki/Nancao" title="Nancao">Nancao</a></li>
+<li><a href="/wiki/Nancavil" title="Nancavil">Nancavil</a></li>
+<li><a href="/wiki/Nanchares" title="Nanchares">Nanchares</a></li>
+<li><a href="/wiki/Nanchucheo" title="Nanchucheo">Nanchucheo</a></li>
+<li><a href="/wiki/Nanclares" title="Nanclares">Nanclares</a></li>
+<li><a href="/wiki/Nanco" title="Nanco">Nanco</a></li>
+<li><a href="/wiki/Nancuante" title="Nancuante">Nancuante</a></li>
+<li><a href="/wiki/Nancuche" title="Nancuche">Nancuche</a></li>
+<li><a href="/wiki/Nancucheo" title="Nancucheo">Nancucheo</a></li>
+<li><a href="/wiki/Nancufil" title="Nancufil">Nancufil</a></li>
+<li><a href="/wiki/Nancul" title="Nancul">Nancul</a></li>
+<li><a href="/wiki/Nanculef" title="Nanculef">Nanculef</a></li>
+<li><a href="/wiki/Nanculeo" title="Nanculeo">Nanculeo</a></li>
+<li><a href="/wiki/Nanculipe" title="Nanculipe">Nanculipe</a></li>
+<li><a href="/wiki/Nanculpi" title="Nanculpi">Nanculpi</a></li>
+<li><a href="/wiki/Nancumil" title="Nancumil">Nancumil</a></li>
+<li><a href="/wiki/Nancum%C3%A1n" title="Nancumán">Nancumán</a></li>
+<li><a href="/wiki/Nancunao" title="Nancunao">Nancunao</a></li>
+<li><a href="/wiki/Nancupan" title="Nancupan">Nancupan</a></li>
+<li><a href="/wiki/Nancupel" title="Nancupel">Nancupel</a></li>
+<li><a href="/wiki/Nancupichun" title="Nancupichun">Nancupichun</a></li>
+<li><a href="/wiki/Nancupil" title="Nancupil">Nancupil</a></li>
+<li><a href="/wiki/Nancupillan" title="Nancupillan">Nancupillan</a></li>
+<li><a href="/wiki/Nancura" title="Nancura">Nancura</a></li>
+<li><a href="/wiki/Nancuvil" title="Nancuvil">Nancuvil</a></li>
+<li><a href="/wiki/Nancuvilu" title="Nancuvilu">Nancuvilu</a></li>
+<li><a href="/wiki/Nancuvil%C3%BA" title="Nancuvilú">Nancuvilú</a></li>
+<li><a href="/wiki/Nancuz" title="Nancuz">Nancuz</a></li>
+<li><a href="/wiki/Nancu%C3%A1n" title="Nancuán">Nancuán</a></li>
+<li><a href="/wiki/Nancu%C3%B1an" title="Nancuñan">Nancuñan</a></li>
+<li><a href="/wiki/Nancy" title="Nancy">Nancy</a></li>
+<li><a href="/wiki/Nanetulpan" title="Nanetulpan">Nanetulpan</a></li>
+<li><a href="/wiki/Nanjing" title="Nanjing">Nanjing</a></li>
+<li><a href="/wiki/Nank%C3%ADn" title="Nankín">Nankín</a></li>
+<li><a href="/wiki/Nanluante" title="Nanluante">Nanluante</a></li>
+<li><a href="/wiki/Nanpulef" title="Nanpulef">Nanpulef</a></li>
+<li><a href="/wiki/Nanquecoy" title="Nanquecoy">Nanquecoy</a></li>
+<li><a href="/wiki/Nanquelaf" title="Nanquelaf">Nanquelaf</a></li>
+<li><a href="/wiki/Nanqui" title="Nanqui">Nanqui</a></li>
+<li><a href="/wiki/Nantepan" title="Nantepan">Nantepan</a></li>
+<li><a href="/wiki/Nanto" title="Nanto">Nanto</a></li>
+<li><a href="/wiki/Nantulpan" title="Nantulpan">Nantulpan</a></li>
+<li><a href="/wiki/Nanuel" title="Nanuel">Nanuel</a></li>
+<li><a href="/wiki/Nanumcura" title="Nanumcura">Nanumcura</a></li>
+<li><a href="/wiki/Nap" title="Nap">Nap</a></li>
+<li><a href="/wiki/Napal" title="Napal">Napal</a></li>
+<li><a href="/wiki/Naples" title="Naples">Naples</a></li>
+<li><a href="/wiki/Naplusa" title="Naplusa">Naplusa</a></li>
+<li><a href="/wiki/Napole%C3%B3n" title="Napoleón">Napoleón</a></li>
+<li><a href="/wiki/Napoli" title="Napoli">Napoli</a></li>
+<li><a href="/wiki/Napolitano" title="Napolitano">Napolitano</a></li>
+<li><a href="/wiki/Napule" title="Napule">Napule</a></li>
+<li><a href="/wiki/Naquel" title="Naquel">Naquel</a></li>
+<li><a href="/wiki/Naquian" title="Naquian">Naquian</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Motte" title="Especial:Todas">Página anterior (Motte)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Naquil" title="Especial:Todas">Página siguiente (Naquil)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DN" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DN" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=N" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=N&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=N&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":341,"wgHostname":"mw1366"});});</script></body></html>

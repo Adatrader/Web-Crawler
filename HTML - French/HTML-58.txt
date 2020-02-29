@@ -1,0 +1,403 @@
+<!doctype html><html prefix="og: http://ogp.me/ns#" lang="fr"><head><meta charset="UTF-8"><meta name="msvalidate.01" content="36879475773792950F4872586A371571" /><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>RT en français &mdash; Actualités internationales</title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" /><link rel="icon" href="/favicon.ico" type="image/x-icon" /><meta name="description" content=""/><meta name="apple-itunes-app" content="app-id=649316948, app-argument=frenchrtnews" /><!-- rev-hash --><link rel="stylesheet" href="/static/css/template.min.css?v=466e7b7gb71fepi12orfe7dasj874320oipopi1h4l67d8xc4wr4w342wrwe4r234wrw3dsadsadsadadsa5sads6dasda123wqswaqwrfdf4fd54fsasdwrerc56yg3"/><!-- end --><meta property="og:site_name" content="RT en Français"><meta property="og:locale" content="fr_FR"><meta property="og:title" content="RT en Français" /><meta property="og:type" content="website" /><meta property="og:url" content="https://francais.rt.com" ><meta property="og:description" content="" /><meta property="og:image" content="https://francais.rt.com/static/blocks/logo/fb.jpg" /><meta property="fb:pages" content="1536715766560953" /><meta name="twitter:site" content="@RTenfrancais" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="" /><script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script><script type="text/javascript" src="//pp.lp4.io/app/59/4b/a9/594ba919e45a1d4b4ab1e468.js" async="async"></script><script>
+                    var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+                        ['mark', 'firstbyte', (new Date()).getTime()]];
+                    (function() {
+                        var s = document.getElementsByTagName('script')[0]
+                            , p = document.createElement('script');
+                        p.async = 'async';
+                        p.src = '//rum-static.pingdom.net/prum.min.js';
+                        s.parentNode.insertBefore(p, s);
+                    })();
+                </script><script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script><!-- Begin comScore Tag --><script>
+                    var _comscore = _comscore || [];
+                    _comscore.push({ c1: "2", c2: "17935924" });
+                    (function() {
+                        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+                        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+                        el.parentNode.insertBefore(s, el);
+                    })();
+                </script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" /></noscript><!-- End comScore Tag --><!--googleAnalitics--><script>
+                /* значение true отключает установку кук для Google Analytics и Yandex Metrika */
+                function hasAnalitics(){
+                    if(localStorage.getItem('rt-cb-analitics') === 'false') return true;
+                    return document.cookie.indexOf('rt-cb-analitics') > -1
+                };
+
+                window['ga-disable-UA-58795326-1'] = hasAnalitics();
+                window['disableYaCounter29473250'] = hasAnalitics();
+
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+                if(window['ga-disable-UA-58795326-1']){
+                    ga('create', 'UA-58795326-1', {
+                        'storage': 'none',
+                        'storeGac': false,
+                    });
+                }else{
+                    ga('create', 'UA-58795326-1', 'auto');
+                }
+
+                                ga('set', 'anonymizeIp', true);
+                ga('send', 'pageview');
+            </script><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script><script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script><script>
+            googletag.cmd.push(function() {
+                var mappingBox = googletag.sizeMapping().
+                addSize([1000, 0], [[250, 250], [300, 250]]).
+                addSize([768, 0], [[250, 250], [300, 250]]).
+                addSize([0, 0], [300, 250]).
+                build();
+
+                googletag.defineSlot('/144751494/FR_RT_ROS', [[250, 250], [300, 250]], 'div-gpt-ad-1474381244838-1').defineSizeMapping(mappingBox).addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+            });
+        </script><script>
+            function isJqueryInit(callback) {
+                if (window.$ && window.jQBrowser) {
+                    callback();
+                } else {
+                    setTimeout(function() {
+                        isJqueryInit(callback)
+                    }, 500);
+                }
+            }
+        </script><style>
+            /*.offers ~ .layout__header .header__notification-icon {*/
+            /*    top: 0;*/
+            /*}*/
+        </style></head><body><script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "url": "https://francais.rt.com",
+            "logo": "https://francais.rt.com/static/img/logo112x112.png",
+            "name": "RT en Français",
+            "legalName": "Organisation autonome à but non lucratif \"TV-Novosti\"",
+            "sameAs": [
+                "https://www.facebook.com/RTFrance/",
+                "https://twitter.com/RTenfrancais",
+                "https://www.youtube.com/user/rtenfrancais",
+                "https://www.instagram.com/rtfrance/",
+                "https://francais.rt.com/rss"
+            ],
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": "https://francais.rt.com/recherche?q={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    </script><div class="layout"><div class="layout__wrapper"><div class="offers" id="offers"></div><div class="layout__header"><div class="header" id="header"><div class="header__section header__section_gray"><div class="header__content header__content_floats"><div class="header__social"><ul class="socials "><li class="socials__item"><a href="https://www.instagram.com/rtfrance/" target="_blank" rel="nofollow" class="socials__link socials__link_instagram " style="background-size: contain;">
+                        Instagram
+                    </a></li><li class="socials__item"><a href="https://www.facebook.com/pages/RT-France/1536715766560953?fref=ts" target="_blank" rel="nofollow" class="socials__link socials__link_facebook " style="background-size: contain;">
+                        Facebook
+                    </a></li><li class="socials__item"><a href="http://www.youtube.com/user/rtenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_youtube " style="background-size: contain;">
+                        Youtube
+                    </a></li><li class="socials__item"><a href="https://twitter.com/RTenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_twitter " style="background-size: contain;">
+                        Twitter
+                    </a></li><li class="socials__item"><a href="/rss" target="_blank" rel="nofollow" class="socials__link socials__link_rss " style="background-size: contain;">
+                        RSS
+                    </a></li></ul></div><div class="header__applications"><a href="/applications" class="link">Applications</a></div><div class="header__langs"><ul class="langs"><li class="langs__item"><a href="//www.rt.com/" title="RT ENG" class="langs__link" target="_blank" ><span class="langs__full">
+                    ENG
+                </span></a></li><li class="langs__item"><a href="//arabic.rt.com/" title="RT العربية" class="langs__link" target="_blank" ><span class="langs__full">
+                    العربية
+                </span></a></li><li class="langs__item"><a href="//actualidad.rt.com/" title="RT ESP" class="langs__link" target="_blank" ><span class="langs__full">
+                    ESP
+                </span></a></li><li class="langs__item"><a href="//russian.rt.com/" title="RT РУС" class="langs__link" target="_blank" ><span class="langs__full">
+                    РУС
+                </span></a></li><li class="langs__item"><a href="//deutsch.rt.com/" title="RT DE" class="langs__link" target="_blank" ><span class="langs__full">
+                    DE
+                </span></a></li></ul></div></div></div><div class="header__section header__section_middle header__section_border-bottom header__section_border-bottom_gray"><div class="header__content header__content_floats header__content_main"><div class="header__logo"><a class="logo logo_head" href="/"><span class="logo__image">RT</span><span class="logo__text">Francias</span></a></div><div class="header__live-btn"><a class="btn btn_red" href="/en-direct">EN DIRECT</a></div></div></div><div class="header__nav" id="header-nav"><div class="header__content"><div class="header__search js-header__search" id="header-search-form"><form method="get" action="/recherche" id="cse" class="search header__search-form"><input type="text" name="q" value="" class="search__input header__search-input" maxlength="100"><input type="submit" title="search" class="search__submit header__search-button"></form><div class="header__date"><span class="date  date_header" id="date_header"><script>
+                                var RT = RT || {};
+                                RT.headerDate =  RT.headerDate || {};
+                                RT.headerDate.time = Date.parse('2020/02/29 04:16:59');
+                            </script></span></div></div><span class="header__notification-icon" id="header-notification"></span><a class="header__search-icon" id="header-search-icon"></a><a class="header__menu-icon" id="header-menu-icon"></a><div class="header__float-block"><a class="logo logo_float" href="/"><span class="logo__image">RT</span><span class="logo__text">Francias</span></a><div class="addthis"><div class="addthis_sharing_toolbox"></div></div></div><div class="header__live-btn_mobile"><a class="btn btn_red" href="/en-direct">EN DIRECT</a></div><div class="nav nav_header-menu header__menu"><a href="/actualite" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Actualité
+            </a><a href="/france" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                France
+            </a><a href="/international" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                International
+            </a><a href="/economie" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Economie
+            </a><a href="/opinions" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Opinions
+            </a><a href="/magazines/interdit-d-interdire" class="nav__link  nav__link_header-menu-link header__menu-link
+                                   interdit-link
+                
+                "><img class="program_interdit" src="/static/img/widget_interdit.png" />
+                
+                Interdit d'interdire
+            </a><a href="/magazines" class="nav__link nav__link_herbal nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Magazines
+            </a><a href="/documentaires" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Documentaires
+            </a><a href="/videos" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Vidéos
+            </a><a href="/360" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                RT360
+            </a><a href="/podcasts" class="nav__link  nav__link_header-menu-link header__menu-link
+               
+                ">
+                
+                Podcasts
+            </a></div></div></div></div></div><div class="layout__actualtrends"></div><div class="layout__breaking"></div><div class="layout__tags"></div><div class="layout__content  layout__content_wide "><div class="layout__grid"><div class="columns"><div class="columns__column en-direct_left-column"><div class="columns__content"><div class="article"><div class="en-direct_header-container"><h1 class="article__heading article__heading_static en-direct-title">RT France en direct</h1></div><div class="article__text en-direct_text"><div class="article__cover"><div class="mediaplayer"><div id="js-mediaplayer"></div><script type="text/javascript">
+            var RT = RT || {};
+            RT.comScore = RT.comScore || {};
+            RT.comScore["js-mediaplayer"] = {
+                id_nsStCi: "1000000"
+            };
+        </script></div><script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "VideoObject",
+        "contentURL": "",
+                "description": "Live",
+                "embedUrl": "",
+        "expires": "2020-02-29T23:59:59+00:00",
+                "name": "Live",
+                        "thumbnailUrl": [
+                "/static/img/live-fr1.jpg",
+                "/static/img/live-fr2.jpg",
+                "/static/img/live-fr3.jpg"
+        ],
+        //"thumbnailUrl": "/static/img/live-fr1.jpg",
+        
+        "uploadDate": "2020-02-29T00:00:01+00:00",
+        "publication": [
+            {
+                "@type": "BroadcastEvent",
+                "isLiveBroadcast": true,
+                "startDate": "2020-02-29T00:00:01+00:00",
+                "endDate": "2020-02-29T23:59:59+00:00"
+            }
+        ]
+    }
+
+</script><script>
+    var RT = RT || {};
+    RT.jwplayer = RT.jwplayer || {};
+    RT.jwplayer["js-mediaplayer"] = {
+
+                    file: "https://rt-france-gd.secure2.footprint.net/1107.m3u8",
+            autostart: false,
+                aspectratio: "16:9",
+        skin: {
+            name: "five",
+            active: "#77bd1e",
+            background: "rgba(0, 0, 0, 0.5)",
+            inactive: "#FFFFFF"
+        },
+        width:       "100%",
+        startparam:  "start",
+        sharing: {},
+        events: {
+            onPlay: function(){
+                if(ga) ga('send', 'event', 'JWPLAYER-GA', 'CLICK PLAY', location.href);
+            },
+            onPause: function(){
+                if(ga) ga('send', 'event', 'JWPLAYER-GA', 'CLICK PAUSE', location.href);
+            },
+            onComplete: function(){
+                if(ga) ga('send', 'event', 'JWPLAYER-GA', 'COMPLETE', location.href);
+            }
+        },
+            };
+
+</script></div><div class="article__socials article__socials_en-direct"><div class="addthis"><div class="addthis_sharing_toolbox"></div></div></div></div><div class="en-direct_schedule"><div class="schedule"><div class="schedule_date" style="display: none">29-02-2020</div><div class="schedule_time" style="display: none">Sat, 29 Feb 2020 04:16:59 +0000</div><div class="schedule_header"><span>A l'antenne</span></div><div class="schedule_live"><div class="schedule_live_block"><span>En ce moment</span></div><div class="schedule_live_title"></div></div><div class="schedule_list"></div></div></div><ul class="banner-rows"><div class="banner-rows__item banner-rows__item_2"><a class="banner-content" href="https://francais.rt.com/en-direct"><div class="media "><div class="media__image  "><img class="media__item " data-src="https://cdni.rt.com/french/images/2019.12/original/5de6267787f3ec2c7e3ecf9d.png" src="/static/img/pixel.gif" alt="Où nous regarder"></div></div></a></div><div class="banner-rows__item banner-rows__item_2"><a class="banner-content" href="https://francais.rt.com/podcasts"><div class="media "><div class="media__image  "><img class="media__item " data-src="https://cdni.rt.com/french/images/2020.01/original/5e31ceaf6f7ccc396343fb6f.png" src="/static/img/pixel.gif" alt="PODCASTS"></div></div></a></div></ul></div></div></div><div class="columns__column en-direct_right-column"><div class="columns__content"><div class="article__heading article__heading_static en-direct-title">A la une</div><div class="en-direct_news"><div class="en-direct-sidebar-news_container"><a href="/international/71689-ankara-neuf-soldats-turcs-tues-attaque-armee-syrienne"><div class="en-direct-sidebar-news top-news" data-post-id="5e582e8e6f7ccc45313dfd41"><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/article/5e583c516f7ccc52877d8687.JPG');"></div><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Syrie : escalade militaire autour d'Idleb, plusieurs dizaines de soldats turcs tués dans des frappes</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    27 févr. 2020, 22:08
+    </time></div></div></div></a></div><div class="en-direct-sidebar-news_container"><a href="/france/71751-paris-incendie-abords-gare-lyon"><div class="en-direct-sidebar-news" data-post-id="5e59476387f3ec21e001947f"><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Paris : heurts en marge du concert du chanteur congolais Fally Ipupa, l'incendie maîtrisé</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    28 févr. 2020, 18:10
+    </time></div></div><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/thumbnail/5e5953ec6f7ccc56832bd031.JPG');"></div></div></a></div><div class="en-direct-sidebar-news_container"><a href="/international/71692-lesbos-grecs-manifestent-contre-afflux-croissant-migrants-provenance-turquie-erdogan"><div class="en-direct-sidebar-news" data-post-id="5e58c65487f3ec098b0f5ae6"><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Lesbos : les Grecs manifestent contre de nouveaux camps de migrants, crainte d'un afflux de Turquie</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    28 févr. 2020, 11:51
+    </time></div></div><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/thumbnail/5e58d71387f3ec672526b025.jpg');"></div></div></a></div><div class="en-direct-sidebar-news_container"><a href="/france/71752-ceremonie-cesar-centaine-manifestants-anti-polanski-rassembles-proximite-pleyel"><div class="en-direct-sidebar-news" data-post-id="5e5956fe6f7ccc52877d86f0"><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Cérémonie des César : une centaine de manifestants anti-Polanski rassemblés à proximité de Pleyel</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    28 févr. 2020, 19:26
+    </time></div></div><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/thumbnail/5e5959606f7ccc56832bd035.jpg');"></div></div></a></div><div class="en-direct-sidebar-news_container"><a href="/international/71727-tensions-syrie-ue-craint-risque-confrontation-militaire-internationale-majeure"><div class="en-direct-sidebar-news" data-post-id="5e59216f87f3ec61c01685e2"><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Tensions en Syrie : l'UE craint un «risque de confrontation militaire internationale majeure»</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    28 févr. 2020, 16:53
+    </time></div></div><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/thumbnail/5e5928756f7ccc2a116bd15b.JPG');"></div></div></a></div><div class="en-direct-sidebar-news_container"><a href="/economie/71551-coronavirus-bourses-plongent-economie-mondiale-panique"><div class="en-direct-sidebar-news" data-post-id="5e53ebd46f7ccc0d1c2e46ae"><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Les bourses plongent, l'économie mondiale panique face à la propagation du coronavirus</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    24 févr. 2020, 18:37
+    </time></div></div><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/thumbnail/5e53f1f987f3ec78b42910bb.jpg');"></div></div></a></div><div class="en-direct-sidebar-news_container"><a href="/opinions/71494-vers-une-americanisation-puritaine-de-la-vie-politique"><div class="en-direct-sidebar-news" data-post-id="5e525cb36f7ccc0d1c2e4634"><div class="en-direct-sidebar-news__left-block"><div class="en-direct-sidebar-news__title"><span>Vers une américanisation puritaine de notre vie politique ?</span></div><div class="en-direct-sidebar-news__date"><time class="date
+                    ">
+    23 févr. 2020, 13:10
+    </time></div></div><div class="en-direct-sidebar-news__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/thumbnail/5e5269d787f3ec3b3643847d.jpg');"></div></div></a></div></div><div class="en-direct_more"><a href="/"><div class="en-direct_more-button"><span>Plus d'articles</span></div></a></div></div></div><div class="columns__content en-direct_wide-column"><div class="en-direct-title en-direct-title_bottom article__heading article__heading_static">Magazines</div><div class="en-direct-listing" data-role="listing"><div class="en-direct-listing__container js-en-direct-listing" data-role="container"><div class="en-direct-listing__content js-en-direct-listing" data-role="content"><div class="en-direct-documentaries_container "><a href="https://francais.rt.com/magazines/interdit-d-interdire"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2019.04/original/5ca3581f488c7bfb268b4567.png');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>INTERDIT D'INTERDIRE</span></div><div class="en-direct-documentaries__summary"><span>Entouré de plusieurs invités, Frédéric Taddeï anime Interdit d’interdire, une émission d'une heure où alterneront débats de société en direct, les lundis et mercredis, et actualité culturelle, les mardis et jeudis.</span></div></div></div></a></div><div class="en-direct-documentaries_container "><a href="https://francais.rt.com/magazines/cest-cash"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2019.04/original/5ca356cf09fac2c2758b4567.png');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>C'EST CASH</span></div><div class="en-direct-documentaries__summary"><span>Olivier Delamarche, cofondateur des éconoclastes et dirigeant de société de gestion, décrypte chaque semaine l’actualité économique et politique. Il donne libre-cours à son franc parler, apporte son éclairage, et répond Cash aux questions twitter.</span></div></div></div></a></div><div class="en-direct-documentaries_container third"><a href="https://francais.rt.com/magazines/la-grande-interview"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2019.04/original/5ca3568809fac2a7758b4567.PNG');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>LA GRANDE INTERVIEW</span></div><div class="en-direct-documentaries__summary"><span>Un entretien en profondeur pour aller plus loin avec un témoin de notre temps. Quelqu’un que l’on n’entend pas partout, avec un point de vue à contre-courant, qui nous ouvre à des idées originales, courageuses et parfois même «dérangeantes».</span></div></div></div></a></div><div class="en-direct-documentaries_container last"><a href="https://francais.rt.com/magazines/polit-mag"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2019.09/original/5d8f7fd36f7ccc2c3468846c.png');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>POLIT' MAG</span></div><div class="en-direct-documentaries__summary"><span>Autour de Magali Forestier, deux contributeurs reviennent sur l’actualité politique française de la semaine. Hommes et femmes politiques, ils confrontent leurs points de vue en toute liberté. La politique vue par ceux qui la font : c’est POLIT’ MAG.</span></div></div></div></a></div></div></div></div><div class="en-direct_more doc-mag-block"><a href="/magazines"><div class="en-direct_more-button"><span>Autres Magazines</span></div></a></div><div class="en-direct-title en-direct-title_bottom article__heading article__heading_static">Documentaires</div><div class="en-direct-listing" data-role="listing"><div class="en-direct-listing__container js-en-direct-listing" data-role="container"><div class="en-direct-listing__content js-en-direct-listing" data-role="content"><div class="en-direct-documentaries_container "><a href="/documentaires/71585-devenir-shaman"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/article/5e58e36687f3ec672526b037.jpg');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>Devenir shaman</span></div><div class="en-direct-documentaries__summary"><span>RT part à la rencontre des chamanes sibériens.</span></div></div></div></a></div><div class="en-direct-documentaries_container "><a href="/documentaires/71641-assange"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/article/5e57a19f6f7ccc592d4b3ce3.jpg');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>Assange</span></div><div class="en-direct-documentaries__summary"><span>Le sort de Julian Assange va être décidé à Londres, où il doit se battre pour sa libération lors d’une audience d’extradition. Grâce aux témoignages de proches, retour sur le destin de l'un des lanceurs d’alerte les plus célèbres de l'Histoire.</span></div></div></div></a></div><div class="en-direct-documentaries_container third"><a href="/documentaires/71587-survivalistes-prets-pour-apocalypse"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/article/5e567a376f7ccc4402386b6e.jpg');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>Survivalistes : prêts pour l'Apocalypse ?</span></div><div class="en-direct-documentaries__summary"><span>Une enquête sur le nouveau rêve américain d'obtenir l'abri de survie le plus chic.</span></div></div></div></a></div><div class="en-direct-documentaries_container last"><a href="/documentaires/71583-les-dechets-espace"><div class="en-direct-documentaries"><div class="en-direct-documentaries__cover" style="background-image: url('https://cdni.rt.com/french/images/2020.02/article/5e5519a76f7ccc45313dfc15.jpg');"></div><div class="en-direct-documentaries__text"><div class="en-direct-documentaries__title"><span>Les déchets de l'espace</span></div><div class="en-direct-documentaries__summary"><span>Avec l'exploration spatiale, de plus en plus de débris forment un anneau de déchets autour de notre planète, pouvant entrer en collision avec les vaisseaux des nouvelles missions.</span></div></div></div></a></div></div></div><div class="st-en-direct-listing__data js-en-direct-listing" data-role="data" data-src="/listing/program.5489b41e9f516e13598b456f/prepare/en-direct-listing-doc" data-size="4"></div></div><div class="en-direct_more doc-mag-block"><a href="/documentaires"><div class="en-direct_more-button"><span>Autres Documentaires</span></div></a></div></div></div></div></div></div><div class="layout__footer"><div class="footer"><div class="footer__control-width"><div class="footer__top"><div class="nav nav_footer-menu"><a href="/actualite" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Actualité
+            </a><a href="/france" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                France
+            </a><a href="/international" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                International
+            </a><a href="/economie" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Economie
+            </a><a href="/opinions" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Opinions
+            </a><a href="/magazines/interdit-d-interdire" class="nav__link  nav__link_footer-menu-link
+                                   interdit-link
+                
+                "><img class="program_interdit" src="/static/img/widget_interdit.png" />
+                
+                Interdit d'interdire
+            </a><a href="/magazines" class="nav__link nav__link_herbal nav__link_footer-menu-link
+               
+                ">
+                
+                Magazines
+            </a><a href="/documentaires" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Documentaires
+            </a><a href="/videos" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Vidéos
+            </a><a href="/360" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                RT360
+            </a><a href="/podcasts" class="nav__link  nav__link_footer-menu-link
+               
+                ">
+                
+                Podcasts
+            </a></div><div class="footer__social"><ul class="socials socials_footer"><li class="socials__item"><a href="https://www.instagram.com/rtfrance/" target="_blank" rel="nofollow" class="socials__link socials__link_instagram " style="background-size: contain;">
+                        Instagram
+                    </a></li><li class="socials__item"><a href="https://www.facebook.com/pages/RT-France/1536715766560953?fref=ts" target="_blank" rel="nofollow" class="socials__link socials__link_facebook " style="background-size: contain;">
+                        Facebook
+                    </a></li><li class="socials__item"><a href="http://www.youtube.com/user/rtenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_youtube " style="background-size: contain;">
+                        Youtube
+                    </a></li><li class="socials__item"><a href="https://twitter.com/RTenfrancais" target="_blank" rel="nofollow" class="socials__link socials__link_twitter " style="background-size: contain;">
+                        Twitter
+                    </a></li><li class="socials__item"><a href="/rss" target="_blank" rel="nofollow" class="socials__link socials__link_rss " style="background-size: contain;">
+                        RSS
+                    </a></li></ul></div></div><div class="footer__content"><div class=" footer__langs"><ul class="langs langs_footer"><li class="langs__item"><a href="//www.rt.com/" title="RT ENG" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    ENG
+                </span></a></li><li class="langs__item"><a href="//arabic.rt.com/" title="RT العربية" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    العربية
+                </span></a></li><li class="langs__item"><a href="//actualidad.rt.com/" title="RT ESP" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    ESP
+                </span></a></li><li class="langs__item"><a href="//russian.rt.com/" title="RT РУС" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    РУС
+                </span></a></li><li class="langs__item"><a href="//deutsch.rt.com/" title="RT DE" class="langs__link langs__link_footer" target="_blank" rel="noindex"><span class="langs__full">
+                    DE
+                </span></a></li></ul><div id="footer-subscribe" class="footer__subscribe"><a class="subscribe-btn">S'abonner</a></div></div><div class="footer__navs"><ul class="footer__nav"><li class="footer__nav-item"><a href="/a-propos-de-rt" class="footer__nav-link">
+                                    A propos de RT
+                                </a></li><li class="footer__nav-item"><a href="/communiques-de-presse" class="footer__nav-link">
+                                    Communiqués de presse
+                                </a></li><li class="footer__nav-item"><a href="/mentions-legales" class="footer__nav-link">
+                                    Mentions légales
+                                </a></li><li class="footer__nav-item"><a href="/conditions-generales-d-utilisation" class="footer__nav-link">
+                                    Conditions générales d'utilisation
+                                </a></li><li class="footer__nav-item"><a href="/politique-de-confidentialite" class="footer__nav-link">
+                                    Politique de confidentialité
+                                </a></li><li class="footer__nav-item"><a href="/conditions-de-moderation" class="footer__nav-link">
+                                    Conditions de modération
+                                </a></li><li class="footer__nav-item"><a href="/contact" class="footer__nav-link">
+                                    Contact
+                                </a></li><li class="footer__nav-item"><a href="/applications" class="footer__nav-link">
+                                    Applications mobiles
+                                </a></li><li class="footer__nav-item"><a href="/recrutement" class="footer__nav-link">
+                                    Offres d'emploi
+                                </a></li></ul></div><div class="footer__navs"><ul class="footer__nav"><li class="footer__nav-item"><a href="//russian.rt.com/inotv" class="footer__nav-link">
+                                    ИНОТВ
+                                </a></li><li class="footer__nav-item"><a href="//rtd.rt.com/" class="footer__nav-link">
+                                    RTД
+                                </a></li><li class="footer__nav-item"><a href="//ruptly.tv/" class="footer__nav-link">
+                                    RUPTLY
+                                </a></li></ul></div></div><div class="footer__copyright"><div class="copyright"><div class="copyright__logo"><a class="logo logo_copyright" href="/"><span class="logo__image">RT</span></a></div><small class="copyright__text">
+            RT France, SAS. 2005&ndash;2020. <br /> Tous droits réservés.
+        </small></div></div></div></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-settings" style = " max-height: calc(100vh - 200px);"><div class ="cookies__banner-settings_description">
+                En cliquant sur chaque option, vous pouvez contrôler l'activation ou la désactivation du dépôt des cookies et de la création des profils : le bandeau de couleur indique si le dépôt de cookies et la création de profils sont autorisés (vert) ou refusés (rouge). Les cookies techniques (cookies de session, d'authentification et de sécurité) sont indispensables au bon fonctionnement de nos services et ne peuvent être désactivés.
+            </div><input type="checkbox" class="cookies__banner-settings_checkbox" id="cookies__checkbox_1"><label class="cookies__banner-settings_checkbox-text" for="cookies__checkbox_1"><div class="cookies__label_inside-wrapper"><div class="checkbox__title">
+                        Mesure d’audience
+                    </div><div class="checkbox__content">
+                        Désactiver cette option nous empêchera de mesurer l’audience, de faire des statistiques et d’améliorer la qualité de nos services.
+                    </div></div></label><input type="checkbox" class="cookies__banner-settings_checkbox" id="cookies__checkbox_2"><label class="cookies__banner-settings_checkbox-text" for="cookies__checkbox_2"><div class="cookies__label_inside-wrapper"><div class="checkbox__title">
+                        Réseaux sociaux
+                    </div><div class="checkbox__content">
+                        Désactiver cette option empêchera les réseaux sociaux de suivre votre navigation sur notre site.
+                    </div></div></label><input type="checkbox" class="cookies__banner-settings_checkbox" id="cookies__checkbox_3"><label class="cookies__banner-settings_checkbox-text" for="cookies__checkbox_3"><div class="cookies__label_inside-wrapper"><div class="checkbox__title">
+                        Publicité ciblée
+                    </div><div class="checkbox__content last_content">
+                        Nous diffusons des publicités afin de pouvoir proposer nos services gratuitement à tous les utilisateurs. Les cookies et les profils permettent de vous proposer des publicités plus pertinentes car adaptées à vos centres d’intérêt, et de mesurer l’efficacité des compagnes publicitaires. Désactiver cette option empêchera de suivre votre navigation et de réaliser des profits, afin de vous proposer des publicités adaptées. Vous ne recevrez pas moins de publicités, mais des publicités ne correspondant pas nécessairement à vos centres d’intérêt.
+                    </div></div></label><span class="settings__button">
+                OK
+            </span></div><div class="cookies__banner-wrapper"><span class="cookies__banner-text"><p>Ce site utilise des cookies.</p><p class="small">En poursuivant votre  navigation, vous acceptez l'utilisation, de la part de RT France et de tiers, de cookies et autres traceurs à des fins de mesure d'audience, partage avec les réseaux sociaux, personnalisation des contenus, profilage et publicité ciblée. <span class="second_sentence">Pour paramétrer l’utilisation des cookies veuillez accéder dans la rubrique <span class="text_decoration settings-cookies-button-1">«Paramétrer vos choix»</span> et pour plus d’informations, nous vous invitons à consulter la rubrique <a class="policy-cookies-button text_decoration" href="https://francais.rt.com/politique-de-confidentialite" target="_blank">«Politique de Confidentialité»</a></span></p></span></div><div class = "cookies-buttons"><span class="cookies-buttons_wrap"><span class="links"><a class="policy-cookies-button" href="https://francais.rt.com/politique-de-confidentialite" target="_blank">Politique de Confidentialité</a><a class="settings-cookies-button-2">Paramétrer vos choix</a></span><span class="cookies__banner-accepter js-cookies-button">Accepter</span></span></div></div></div><script defer="defer" async data-main="/static/js/main.min.js?v=466e7b7gb71feasd034234234qdalas3f4ea110985543456t38asd"  src="/static/js/libs/require.js?v=466e7b7gb71feasd034234234ada234c34ea110985t43456t3asd8"></script><script src="/static/js/pushes/firebase.js?v=15"></script><script src="/static/js/pushes/notification.js?v=58"></script><script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter29473250 = new Ya.Metrika({
+                    id:29473250,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script><noscript><div><img src="//mc.yandex.ru/watch/29473250" style="position:absolute; left:-9999px;" alt="" /></div></noscript></body></html>

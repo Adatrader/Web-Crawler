@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikivoyage, le guide de voyage et de tourisme collaboratif gratuit</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XldHtgpAICAAADa2q-0AAACW","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Accueil","wgTitle":"Accueil","wgCurRevisionId":458086,"wgRevisionId":458086,"wgArticleId":16,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Accueil","wgRelevantArticleId":16,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],
+"wgRestrictionMove":["sysop"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikivoyage","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!1,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,"simplifiedTalk":!0},
+"wgMinervaDownloadNamespaces":[0]};RLSTATE={"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.page.gallery.styles":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.icons.images":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","skins.minerva.mainPage.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.centralauth.centralautologin","mobile.site","mobile.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.page.gallery.styles%7Cmediawiki.ui.button%2Cicon%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%2Cwikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles%7Cskins.minerva.mainPage.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/43/Continents_colour2.png"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="shortcut icon" href="/static/favicon/wikivoyage.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikivoyage (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikivoyage.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fr.wikivoyage.org/wiki/Accueil"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Accueil rootpage-Accueil stable page-Main_Page issues-group-B skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button" title="Ouvrir le menu principal" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu toggle-list__toggle mw-ui-icon-flush-left" data-event-name="ui.mainmenu">Ouvrir le menu principal</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Accueil" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Accueil</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Sp%C3%A9cial:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Au hasard</span></a>
+			</li>
+			<li class="jsonly">
+			    <a href="/wiki/Sp%C3%A9cial:Nearby" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-mapPin nearby" data-event-name="menu.nearby"><span>À proximité</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Accueil" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Connexion</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Sp%C3%A9cial:MobileOptions&amp;returnto=Accueil" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Configuration</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikivoyage:%C3%80_propos_de" class="" data-event-name=""><span>À propos de Wikivoyage</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikivoyage:Avertissements" class="" data-event-name=""><span>Avertissements</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Accueil">
+						<span><img src="/static/images/mobile/copyright/wikivoyage-wordmark-en.svg" width="96" height="18" alt="Wikivoyage"/></span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Rechercher sur Wikivoyage" aria-label="Rechercher sur Wikivoyage"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="Navigation utilisateur">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Rechercher</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0"></h1>
+					<div class="tagline"></div>
+				</div>
+				
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div id="accueil_en-tete">
+<div id="accueil_bandeau">
+<div style="-moz-column-width:30em; -webkit-column-width:30em; column-width:30em; -moz-column-count:2; -webkit-column-count:2; column-count:2; -moz-column-gap:5rem; -webkit-column-gap:5rem; column-gap:5rem; font-family: 'Open Sans', Sans-serif; padding-top:1rem;" class="colonnes">  
+<div style="-moz-break-inside: avoid; -webkit-break-inside: avoid; break-inside: avoid; -moz-column-break-inside: avoid; -webkit-column-break-inside: avoid; column-break-inside: avoid; page-break-inside: avoid;">
+<div id="accueil_bloc-titre">
+<p>Le guide de voyage <a href="/wiki/Wikivoyage:Copyleft" title="Wikivoyage:Copyleft">libre</a> du monde entier que <a href="/wiki/Wikivoyage:Lance-toi" title="Wikivoyage:Lance-toi">chacun peut améliorer</a>. Wikivoyage compte actuellement <a href="/wiki/Sp%C3%A9cial:Statistiques" title="Spécial:Statistiques">7 706</a> articles en français</p></div></div>
+<div style="-moz-break-inside: avoid; -webkit-break-inside: avoid; break-inside: avoid; -moz-column-break-inside: avoid; -webkit-column-break-inside: avoid; column-break-inside: avoid; page-break-inside: avoid;">
+
+<div style="-moz-column-width:10em; -webkit-column-width:10em; column-width:10em; -moz-column-count:4; -webkit-column-count:4; column-count:4; -moz-column-gap:1em; -webkit-column-gap:1em; column-gap:1em; font-size:90%; color:#868686; text-align:center" class="colonnes liste-simple">
+<ul><li><b><a href="/wiki/Destinations" title="Destinations">Destinations</a></b></li>
+<li><b><a href="/wiki/Guides_linguistiques" title="Guides linguistiques">Guides linguistiques</a></b></li>
+<li><b><a href="/wiki/Autour_du_voyage" title="Autour du voyage">Autour du voyage</a></b></li>
+<li><b><a href="/wiki/Voyages_th%C3%A9matiques" title="Voyages thématiques">Voyages thématiques</a></b></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="accueil_contenu">
+<div class="portail-gauche">
+
+<div class="accueil_cadre color1">
+<h2><span id="Article_.C3.A9toil.C3.A9"></span><span class="mw-headline" id="Article_étoilé">Article étoilé</span></h2>
+<table width="100%"><tbody><tr><td><ul class="gallery mw-gallery-packed-hover" style="float:right"><li class="gallerybox" style="width: 308.66666666667px"><div style="width: 308.66666666667px">
+			<div class="thumb" style="width: 306.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:Dinant_JPG01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Dinant_JPG01.jpg/460px-Dinant_JPG01.jpg" decoding="async" width="307" height="230" data-file-width="2272" data-file-height="1704"></a></div></div>
+			<div class="gallerytextwrapper" style="width: 287px"><div class="gallerytext">
+<center><big>La Meuse, la collégiale Notre-Dame et la citadelle</big></center>
+			</div></div>
+		</div></li>
+</ul><p><b><a href="/wiki/Dinant" title="Dinant">Dinant</a></b> est une commune et une ville de la <a href="/wiki/Province_de_Namur" title="Province de Namur">province de Namur</a> en <a href="/wiki/Belgique" title="Belgique">Belgique</a>. De part ses nombreux monuments et attractions naturelles, elle se compte aussi parmi les centres touristiques très importants que ce soit en Belgique ou dans la <a href="/wiki/Vall%C3%A9e_de_la_Meuse" title="Vallée de la Meuse">vallée mosane</a>. Beaucoup d'activités sportives ou plus calmes comme des croisières fluviales sont organisées au départ de la cité. Des événements musicaux en rapport avec le saxophone, son inventeur <a href="https://fr.wikipedia.org/wiki/Adolphe_Sax" class="extiw" title="w:Adolphe Sax">Adolphe Sax</a> est né et a vécu ses vingt-huit premières années à Dinant, sont également mis sur pied par le <a href="/wiki/Dinant#Centre_culturel_r%C3%A9gional_de_Dinant" title="Dinant">centre culturel</a>.
+</p><p>Coincé entre le fleuve et la falaise, le Dinant historique s'est développé tout en longueur sur environ <span class="nowrap">2<abbr title="kilomètre"> km</abbr></span> pour une largeur variant entre 250 et <span class="nowrap">65 mètres</span>, à hauteur de <a href="/wiki/Dinant#Citadelle" title="Dinant">citadelle</a>. La ville est aussi, depuis le <abbr class="abbr" title="11"><span class="romain">XI</span></abbr><sup>e</sup> siècle, un des plus ancien centre de la fabrication de la <a href="/wiki/Dinant#Acheter" title="Dinant">dinanderie</a> dont la tradition s'y perpétue encore de nos jours.
+</p><p><i><a href="/wiki/Dinant" title="Dinant">Lire la suite</a></i>
+</p><p><br>​<i><a href="/wiki/Wikivoyage:Articles_%C3%A9toil%C3%A9s" title="Wikivoyage:Articles étoilés">Les autres articles étoilés</a></i>
+</p>
+</td></tr></tbody></table></div>
+<div class="accueil_cadre color1">
+<h2><span class="mw-headline" id="Collaboration_du_mois">Collaboration du mois</span></h2>
+<ul class="gallery mw-gallery-packed-hover"><li class="gallerycaption"><a href="/wiki/Rijeka" title="Rijeka">Rijeka</a></li>
+		<li class="gallerybox" style="width: 308.66666666667px"><div style="width: 308.66666666667px">
+			<div class="thumb" style="width: 306.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/Fichier:Rijeka-view-2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rijeka-view-2.jpg/460px-Rijeka-view-2.jpg" decoding="async" width="307" height="230" data-file-width="1496" data-file-height="1122"></a></div></div>
+			<div class="gallerytextwrapper" style="width: 287px"><div class="gallerytext">
+<center><big></big></center>
+			</div></div>
+		</div></li>
+</ul><p>une des deux capitales européennes de la culture 2020
+<br><span style="font-size: 0.9em; margin-left:2em; padding-top:3em;"><i><a href="/wiki/Wikivoyage:Collaboration_du_mois" title="Wikivoyage:Collaboration du mois">Programme</a></i></span>
+</p><p><br></p>
+</div>
+
+</div>
+<div class="portail-droite"><div class="accueil_cadre color2">
+<h2><span id=".C3.80_proximit.C3.A9"></span><span class="mw-headline" id="À_proximité">À proximité</span></h2>
+<div class="center"><div class="floatnone"><a href="/wiki/Sp%C3%A9cial:Nearby" title="Destination proche d'ici"><img alt="Destination proche d'ici" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Emojione_1F5FA.svg/100px-Emojione_1F5FA.svg.png" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Emojione_1F5FA.svg/150px-Emojione_1F5FA.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Emojione_1F5FA.svg/200px-Emojione_1F5FA.svg.png 2x" data-file-width="512" data-file-height="512"></a></div></div>
+<center>
+<table class="wikitable centre"><tbody><tr><td style="text-align:center;"><span class="plainlinks"><a class="external text" href="https://fr.wikivoyage.org/w/index.php?title=sp%C3%A9cial:Nearby"><b>Destination proche d'ici</b></a></span>
+</td></tr></tbody></table></center>
+</div>
+<div class="accueil_cadre color2">
+<h2><span class="mw-headline" id="Guides_linguistiques">Guides linguistiques</span></h2>
+<table width="100%" style="background:none;text-align:left;"><tbody><tr><td width="46%" valign="top">
+<ul><li><a href="/wiki/Guide_linguistique_allemand" title="Guide linguistique allemand"><img alt="Drapeau allemand" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/20px-Flag_of_Germany.svg.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600"></a> <a href="/wiki/Guide_linguistique_allemand" title="Guide linguistique allemand">Allemand</a></li>
+<li><a href="/wiki/Guide_linguistique_anglais" title="Guide linguistique anglais"><img alt="Drapeau britannique" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/20px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="20" height="10" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/40px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600"></a> <a href="/wiki/Guide_linguistique_anglais" title="Guide linguistique anglais">Anglais</a></li>
+<li><a href="/wiki/Guide_linguistique_arabe" title="Guide linguistique arabe"><img alt="Drapeau arabe" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/20px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/30px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600"></a> <a href="/wiki/Guide_linguistique_arabe" title="Guide linguistique arabe">Arabe</a></li>
+<li><a href="/wiki/Guide_linguistique_espagnol" title="Guide linguistique espagnol"><img alt="Drapeau espagnol" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/20px-Flag_of_Spain.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/30px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500"></a> <a href="/wiki/Guide_linguistique_espagnol" title="Guide linguistique espagnol">Espagnol</a></li>
+<li><a href="/wiki/Guide_linguistique_grec" title="Guide linguistique grec"><img alt="Drapeau grec" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/20px-Flag_of_Greece.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400"></a> <a href="/wiki/Guide_linguistique_grec" title="Guide linguistique grec">Grec</a></li></ul></td>
+<td width="54%" valign="top">
+<ul><li><a href="/wiki/Guide_linguistique_hindi" title="Guide linguistique hindi"><img alt="Drapeau indien" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/20px-Flag_of_India.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/30px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/40px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900"></a> <a href="/wiki/Guide_linguistique_hindi" title="Guide linguistique hindi">Hindi</a></li>
+<li><a href="/wiki/Guide_linguistique_italien" title="Guide linguistique italien"><img alt="Drapeau italien" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/20px-Flag_of_Italy.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/30px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000"></a> <a href="/wiki/Guide_linguistique_italien" title="Guide linguistique italien">Italien</a></li>
+<li><a href="/wiki/Guide_linguistique_portugais" title="Guide linguistique portugais"><img alt="Drapeau portugais" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/20px-Flag_of_Portugal.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/30px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/40px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400"></a> <a href="/wiki/Guide_linguistique_portugais" title="Guide linguistique portugais">Portugais</a></li>
+<li><a href="/wiki/Guide_linguistique_swahili" title="Guide linguistique swahili"><img alt="Drapeau kényan" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/20px-Flag_of_Kenya.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/30px-Flag_of_Kenya.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/40px-Flag_of_Kenya.svg.png 2x" data-file-width="900" data-file-height="600"></a> <a href="/wiki/Guide_linguistique_swahili" title="Guide linguistique swahili">Swahili</a></li>
+<li><a href="/wiki/Guides_linguistiques" title="Guides linguistiques">plus...</a></li></ul></td></tr></tbody></table></div>
+
+
+</div></div>
+<div class="accueil_cadre color1"><a href="/wiki/Wikivoyage:Avertissements" title="Wikivoyage:Avertissements">Wikivoyage ne garantit pas le contenu mis en ligne</a>.<br><small>La <a href="https://fr.wikipedia.org/wiki/Wikimedia_Foundation" class="extiw" title="w:Wikimedia Foundation">Wikimedia Foundation</a> étant un hébergeur, elle ne saurait être tenue responsable des erreurs éventuelles contenues sur ce site.<br> Chaque rédacteur est responsable de ses contributions.</small>
+</div>
+
+
+
+
+</div><noscript><img src="//fr.wikivoyage.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Récupérée de «&#160;<a dir="ltr" href="https://fr.wikivoyage.org/w/index.php?title=Accueil&amp;oldid=458086">https://fr.wikivoyage.org/w/index.php?title=Accueil&amp;oldid=458086</a>&#160;»</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			<a class="language-selector mw-ui-button button" href="/wiki/Sp%C3%A9cial:MobileLanguages/Accueil">Langue</a>
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-minerva-clock "></span>
+		<a class="last-modified-bar__text" href="/wiki/Sp%C3%A9cial:History/Accueil"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="">
+				<span>Afficher l’historique des modifications de cette page.</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<h2><img src="/static/images/mobile/copyright/wikivoyage-wordmark-en.svg" width="96" height="18" alt="Wikivoyage"/></h2>
+			<div class="license">Le contenu est disponible sous licence <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> sauf mention contraire.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Confidentialité</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//fr.wikivoyage.org/w/index.php?title=Accueil&amp;mobileaction=toggle_view_desktop">Désactiver la version mobile</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.132","walltime":"0.242","ppvisitednodes":{"value":423,"limit":1000000},"postexpandincludesize":{"value":15422,"limit":2097152},"templateargumentsize":{"value":448,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10568,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  142.041      1 -total"," 51.92%   73.747      1 Modèle:Accueil/Article_étoilé"," 32.42%   46.056      1 Wikivoyage:Lumière_sur/Dinant"," 16.10%   22.866      2 Modèle:Rand"," 14.76%   20.969      1 Modèle:S"," 12.77%   18.136      1 Modèle:Accueil/Titre"," 11.93%   16.949      1 Modèle:Accueil/Destinations","  9.78%   13.894      1 Wikivoyage:Collaboration_du_mois","  8.57%   12.171      1 Modèle:Rom","  7.83%   11.119      1 Modèle:Image_au_hazard"]},"cachereport":{"origin":"mw1330","timestamp":"20200227043815","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Accueil","url":"https:\/\/fr.wikivoyage.org\/wiki\/Accueil","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5296","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-11T17:49:58Z","dateModified":"2019-10-07T16:08:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/43\/Continents_colour2.png","headline":"page d'accueil des projets Wiki"}</script><script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":481,"wgHostname":"mw1330"});});</script>		</body>
+		</html>
+		

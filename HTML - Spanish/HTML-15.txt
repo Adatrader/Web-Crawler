@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljJbApAMMEAAZWc7TkAAAAW","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=O"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"O","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='O' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Nicochea" title="Especial:Todas">Página anterior (Nicochea)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Olas" title="Especial:Todas">Página siguiente (Olas)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/O" title="O">O</a></li>
+<li><a href="/wiki/O%27Connor" title="O&#039;Connor">O&#039;Connor</a></li>
+<li><a href="/wiki/O%27Donnell" title="O&#039;Donnell">O&#039;Donnell</a></li>
+<li><a href="/wiki/O%27Higgins" title="O&#039;Higgins">O&#039;Higgins</a></li>
+<li><a href="/wiki/O%27Reilly" title="O&#039;Reilly">O&#039;Reilly</a></li>
+<li><a href="/wiki/O%27Shee" title="O&#039;Shee">O&#039;Shee</a></li>
+<li><a href="/wiki/O:-)" title="O:-)">O:-)</a></li>
+<li><a href="/wiki/OACI" title="OACI">OACI</a></li>
+<li><a href="/wiki/OEA" title="OEA">OEA</a></li>
+<li><a href="/wiki/OEM" title="OEM">OEM</a></li>
+<li><a href="/wiki/OHG" title="OHG">OHG</a></li>
+<li><a href="/wiki/OK" title="OK">OK</a></li>
+<li><a href="/wiki/OLA" title="OLA">OLA</a></li>
+<li><a href="/wiki/OLAP" title="OLAP">OLAP</a></li>
+<li><a href="/wiki/OLTP" title="OLTP">OLTP</a></li>
+<li><a href="/wiki/OMC" title="OMC">OMC</a></li>
+<li><a href="/wiki/OMS" title="OMS">OMS</a></li>
+<li><a href="/wiki/ONG" title="ONG">ONG</a></li>
+<li><a href="/wiki/ONU" title="ONU">ONU</a></li>
+<li><a href="/wiki/OPEP" title="OPEP">OPEP</a></li>
+<li><a href="/wiki/OPEX" title="OPEX">OPEX</a></li>
+<li><a href="/wiki/OTAN" title="OTAN">OTAN</a></li>
+<li><a href="/wiki/OVA" title="OVA">OVA</a></li>
+<li><a href="/wiki/O_Salvador" title="O Salvador">O Salvador</a></li>
+<li><a href="/wiki/Oa" title="Oa">Oa</a></li>
+<li><a href="/wiki/Oar" title="Oar">Oar</a></li>
+<li><a href="/wiki/Oara" title="Oara">Oara</a></li>
+<li><a href="/wiki/Oarabeitia" title="Oarabeitia">Oarabeitia</a></li>
+<li><a href="/wiki/Oararteta" title="Oararteta">Oararteta</a></li>
+<li><a href="/wiki/Oarbeascoa" title="Oarbeascoa">Oarbeascoa</a></li>
+<li><a href="/wiki/Oarechezuria" title="Oarechezuria">Oarechezuria</a></li>
+<li><a href="/wiki/Oarriz" title="Oarriz">Oarriz</a></li>
+<li><a href="/wiki/Oaruriarte" title="Oaruriarte">Oaruriarte</a></li>
+<li><a href="/wiki/Oaxaca" title="Oaxaca">Oaxaca</a></li>
+<li><a href="/wiki/Obaba" title="Obaba">Obaba</a></li>
+<li><a href="/wiki/Obach" title="Obach">Obach</a></li>
+<li><a href="/wiki/Obadiah" title="Obadiah">Obadiah</a></li>
+<li><a href="/wiki/Obadja" title="Obadja">Obadja</a></li>
+<li><a href="/wiki/Obad%C3%ADas" title="Obadías">Obadías</a></li>
+<li><a href="/wiki/Obaldia" title="Obaldia">Obaldia</a></li>
+<li><a href="/wiki/Obando" title="Obando">Obando</a></li>
+<li><a href="/wiki/Obanos" title="Obanos">Obanos</a></li>
+<li><a href="/wiki/Obanosena" title="Obanosena">Obanosena</a></li>
+<li><a href="/wiki/Obanza" title="Obanza">Obanza</a></li>
+<li><a href="/wiki/Obe" title="Obe">Obe</a></li>
+<li><a href="/wiki/Obea" title="Obea">Obea</a></li>
+<li><a href="/wiki/Obeaga" title="Obeaga">Obeaga</a></li>
+<li><a href="/wiki/Obelar" title="Obelar">Obelar</a></li>
+<li><a href="/wiki/Obeonbe" title="Obeonbe">Obeonbe</a></li>
+<li><a href="/wiki/Oberschenkelknochen" title="Oberschenkelknochen">Oberschenkelknochen</a></li>
+<li><a href="/wiki/Obia" title="Obia">Obia</a></li>
+<li><a href="/wiki/Obiaga" title="Obiaga">Obiaga</a></li>
+<li><a href="/wiki/Obide" title="Obide">Obide</a></li>
+<li><a href="/wiki/Obieta" title="Obieta">Obieta</a></li>
+<li><a href="/wiki/Obineta" title="Obineta">Obineta</a></li>
+<li><a href="/wiki/Oblitas" title="Oblitas">Oblitas</a></li>
+<li><a href="/wiki/Oboe" title="Oboe">Oboe</a></li>
+<li><a href="/wiki/Obonaga" title="Obonaga">Obonaga</a></li>
+<li><a href="/wiki/Obreg%C3%B3n" title="Obregón">Obregón</a></li>
+<li><a href="/wiki/Obreque" title="Obreque">Obreque</a></li>
+<li><a href="/wiki/Obst" title="Obst">Obst</a></li>
+<li><a href="/wiki/Oca" title="Oca">Oca</a></li>
+<li><a href="/wiki/Ocamica" title="Ocamica">Ocamica</a></li>
+<li><a href="/wiki/Ocampo" title="Ocampo">Ocampo</a></li>
+<li><a href="/wiki/Ocaranaga" title="Ocaranaga">Ocaranaga</a></li>
+<li><a href="/wiki/Ocarandi" title="Ocarandi">Ocarandi</a></li>
+<li><a href="/wiki/Ocaranza" title="Ocaranza">Ocaranza</a></li>
+<li><a href="/wiki/Ocares" title="Ocares">Ocares</a></li>
+<li><a href="/wiki/Ocariz" title="Ocariz">Ocariz</a></li>
+<li><a href="/wiki/Ocarranza" title="Ocarranza">Ocarranza</a></li>
+<li><a href="/wiki/Ocaso" title="Ocaso">Ocaso</a></li>
+<li><a href="/wiki/Oca%C3%B1a" title="Ocaña">Ocaña</a></li>
+<li><a href="/wiki/Occidente" title="Occidente">Occidente</a></li>
+<li><a href="/wiki/Occitania" title="Occitania">Occitania</a></li>
+<li><a href="/wiki/Occit%C3%A0nia" title="Occitània">Occitània</a></li>
+<li><a href="/wiki/Ocean_Atlantycki" title="Ocean Atlantycki">Ocean Atlantycki</a></li>
+<li><a href="/wiki/Ocean_Indyjski" title="Ocean Indyjski">Ocean Indyjski</a></li>
+<li><a href="/wiki/Oceania" title="Oceania">Oceania</a></li>
+<li><a href="/wiki/Oceanien" title="Oceanien">Oceanien</a></li>
+<li><a href="/wiki/Oceanija" title="Oceanija">Oceanija</a></li>
+<li><a href="/wiki/Oceanio" title="Oceanio">Oceanio</a></li>
+<li><a href="/wiki/Oceanion" title="Oceanion">Oceanion</a></li>
+<li><a href="/wiki/Oceani%C3%AB" title="Oceanië">Oceanië</a></li>
+<li><a href="/wiki/Oceano_Atl%C3%A2ntico" title="Oceano Atlântico">Oceano Atlântico</a></li>
+<li><a href="/wiki/Oceano_%C3%8Dndico" title="Oceano Índico">Oceano Índico</a></li>
+<li><a href="/wiki/Oceanus" title="Oceanus">Oceanus</a></li>
+<li><a href="/wiki/Ocean%C3%ADa" title="Oceanía">Oceanía</a></li>
+<li><a href="/wiki/Ocejo" title="Ocejo">Ocejo</a></li>
+<li><a href="/wiki/Ocerin" title="Ocerin">Ocerin</a></li>
+<li><a href="/wiki/Ocerinjauregui" title="Ocerinjauregui">Ocerinjauregui</a></li>
+<li><a href="/wiki/Ocerinzubiaur" title="Ocerinzubiaur">Ocerinzubiaur</a></li>
+<li><a href="/wiki/Oceta" title="Oceta">Oceta</a></li>
+<li><a href="/wiki/Ocete" title="Ocete">Ocete</a></li>
+<li><a href="/wiki/Oce%C3%A1_%C3%8Dndic" title="Oceá Índic">Oceá Índic</a></li>
+<li><a href="/wiki/Oce%C3%A1nie" title="Oceánie">Oceánie</a></li>
+<li><a href="/wiki/Ochagabia" title="Ochagabia">Ochagabia</a></li>
+<li><a href="/wiki/Ochagavia" title="Ochagavia">Ochagavia</a></li>
+<li><a href="/wiki/Ochagav%C3%ADa" title="Ochagavía">Ochagavía</a></li>
+<li><a href="/wiki/Ochaizpuru" title="Ochaizpuru">Ochaizpuru</a></li>
+<li><a href="/wiki/Ochalde" title="Ochalde">Ochalde</a></li>
+<li><a href="/wiki/Ochambela" title="Ochambela">Ochambela</a></li>
+<li><a href="/wiki/Ochanda" title="Ochanda">Ochanda</a></li>
+<li><a href="/wiki/Ochandarena" title="Ochandarena">Ochandarena</a></li>
+<li><a href="/wiki/Ochandategui" title="Ochandategui">Ochandategui</a></li>
+<li><a href="/wiki/Ochandiano" title="Ochandiano">Ochandiano</a></li>
+<li><a href="/wiki/Ochandio" title="Ochandio">Ochandio</a></li>
+<li><a href="/wiki/Ochanditegui" title="Ochanditegui">Ochanditegui</a></li>
+<li><a href="/wiki/Ochando" title="Ochando">Ochando</a></li>
+<li><a href="/wiki/Ochandorena" title="Ochandorena">Ochandorena</a></li>
+<li><a href="/wiki/Ocharan" title="Ocharan">Ocharan</a></li>
+<li><a href="/wiki/Ocharando" title="Ocharando">Ocharando</a></li>
+<li><a href="/wiki/Ocharcoaga" title="Ocharcoaga">Ocharcoaga</a></li>
+<li><a href="/wiki/Ochart" title="Ochart">Ochart</a></li>
+<li><a href="/wiki/Ochat" title="Ochat">Ochat</a></li>
+<li><a href="/wiki/Ochea" title="Ochea">Ochea</a></li>
+<li><a href="/wiki/Ochoa" title="Ochoa">Ochoa</a></li>
+<li><a href="/wiki/Ochoa_de_Chinchetru" title="Ochoa de Chinchetru">Ochoa de Chinchetru</a></li>
+<li><a href="/wiki/Ochoa_de_Eguileor" title="Ochoa de Eguileor">Ochoa de Eguileor</a></li>
+<li><a href="/wiki/Ochoa_de_Errarte" title="Ochoa de Errarte">Ochoa de Errarte</a></li>
+<li><a href="/wiki/Ochoa_de_Murua" title="Ochoa de Murua">Ochoa de Murua</a></li>
+<li><a href="/wiki/Ochoa_de_Olano" title="Ochoa de Olano">Ochoa de Olano</a></li>
+<li><a href="/wiki/Ochoa_de_Zuazola" title="Ochoa de Zuazola">Ochoa de Zuazola</a></li>
+<li><a href="/wiki/Ochoaerrarte" title="Ochoaerrarte">Ochoaerrarte</a></li>
+<li><a href="/wiki/Ochoaizpuru" title="Ochoaizpuru">Ochoaizpuru</a></li>
+<li><a href="/wiki/Ochoantesana" title="Ochoantesana">Ochoantesana</a></li>
+<li><a href="/wiki/Ochoantezana" title="Ochoantezana">Ochoantezana</a></li>
+<li><a href="/wiki/Ochoarin" title="Ochoarin">Ochoarin</a></li>
+<li><a href="/wiki/Ochoategui" title="Ochoategui">Ochoategui</a></li>
+<li><a href="/wiki/Ochobarrena" title="Ochobarrena">Ochobarrena</a></li>
+<li><a href="/wiki/Ochobi" title="Ochobi">Ochobi</a></li>
+<li><a href="/wiki/Ochoena" title="Ochoena">Ochoena</a></li>
+<li><a href="/wiki/Ochogavia" title="Ochogavia">Ochogavia</a></li>
+<li><a href="/wiki/Ochoteco" title="Ochoteco">Ochoteco</a></li>
+<li><a href="/wiki/Ochotorena" title="Ochotorena">Ochotorena</a></li>
+<li><a href="/wiki/Ochova" title="Ochova">Ochova</a></li>
+<li><a href="/wiki/Ochovi" title="Ochovi">Ochovi</a></li>
+<li><a href="/wiki/Ochua" title="Ochua">Ochua</a></li>
+<li><a href="/wiki/Ocinaga" title="Ocinaga">Ocinaga</a></li>
+<li><a href="/wiki/Ocio" title="Ocio">Ocio</a></li>
+<li><a href="/wiki/Oco" title="Oco">Oco</a></li>
+<li><a href="/wiki/Ocomardia" title="Ocomardia">Ocomardia</a></li>
+<li><a href="/wiki/Ocotepec" title="Ocotepec">Ocotepec</a></li>
+<li><a href="/wiki/Octante" title="Octante">Octante</a></li>
+<li><a href="/wiki/Octavio" title="Octavio">Octavio</a></li>
+<li><a href="/wiki/October" title="October">October</a></li>
+<li><a href="/wiki/Ocuillan" title="Ocuillan">Ocuillan</a></li>
+<li><a href="/wiki/Oc%C3%A9anie" title="Océanie">Océanie</a></li>
+<li><a href="/wiki/Odelaca" title="Odelaca">Odelaca</a></li>
+<li><a href="/wiki/Oder" title="Oder">Oder</a></li>
+<li><a href="/wiki/Oderis" title="Oderis">Oderis</a></li>
+<li><a href="/wiki/Oderiz" title="Oderiz">Oderiz</a></li>
+<li><a href="/wiki/Odesa" title="Odesa">Odesa</a></li>
+<li><a href="/wiki/Odette" title="Odette">Odette</a></li>
+<li><a href="/wiki/Odiaga" title="Odiaga">Odiaga</a></li>
+<li><a href="/wiki/Odiago" title="Odiago">Odiago</a></li>
+<li><a href="/wiki/Odoriz" title="Odoriz">Odoriz</a></li>
+<li><a href="/wiki/Odria" title="Odria">Odria</a></li>
+<li><a href="/wiki/Odriazola" title="Odriazola">Odriazola</a></li>
+<li><a href="/wiki/Odriosola" title="Odriosola">Odriosola</a></li>
+<li><a href="/wiki/Odriozabala" title="Odriozabala">Odriozabala</a></li>
+<li><a href="/wiki/Odriozavala" title="Odriozavala">Odriozavala</a></li>
+<li><a href="/wiki/Odriozola" title="Odriozola">Odriozola</a></li>
+<li><a href="/wiki/Oechabera" title="Oechabera">Oechabera</a></li>
+<li><a href="/wiki/Oeganda" title="Oeganda">Oeganda</a></li>
+<li><a href="/wiki/Oekra%C3%AFne" title="Oekraïne">Oekraïne</a></li>
+<li><a href="/wiki/Oeste" title="Oeste">Oeste</a></li>
+<li><a href="/wiki/Oezbekistan" title="Oezbekistan">Oezbekistan</a></li>
+<li><a href="/wiki/Ofeleo" title="Ofeleo">Ofeleo</a></li>
+<li><a href="/wiki/Ofelia" title="Ofelia">Ofelia</a></li>
+<li><a href="/wiki/Ofen" title="Ofen">Ofen</a></li>
+<li><a href="/wiki/Officialdeguy" title="Officialdeguy">Officialdeguy</a></li>
+<li><a href="/wiki/Oficialdegui" title="Oficialdegui">Oficialdegui</a></li>
+<li><a href="/wiki/Oficina_judicial" title="Oficina judicial">Oficina judicial</a></li>
+<li><a href="/wiki/Ogalde" title="Ogalde">Ogalde</a></li>
+<li><a href="/wiki/Ogando" title="Ogando">Ogando</a></li>
+<li><a href="/wiki/Oganvide" title="Oganvide">Oganvide</a></li>
+<li><a href="/wiki/Ogara" title="Ogara">Ogara</a></li>
+<li><a href="/wiki/Ogarabeitia" title="Ogarabeitia">Ogarabeitia</a></li>
+<li><a href="/wiki/Ogaya" title="Ogaya">Ogaya</a></li>
+<li><a href="/wiki/Ogayar" title="Ogayar">Ogayar</a></li>
+<li><a href="/wiki/Oger" title="Oger">Oger</a></li>
+<li><a href="/wiki/Ogier" title="Ogier">Ogier</a></li>
+<li><a href="/wiki/Ogiza" title="Ogiza">Ogiza</a></li>
+<li><a href="/wiki/Ogombe" title="Ogombe">Ogombe</a></li>
+<li><a href="/wiki/Ogos" title="Ogos">Ogos</a></li>
+<li><a href="/wiki/Oguembarrena" title="Oguembarrena">Oguembarrena</a></li>
+<li><a href="/wiki/Oguena" title="Oguena">Oguena</a></li>
+<li><a href="/wiki/Oguenerreca" title="Oguenerreca">Oguenerreca</a></li>
+<li><a href="/wiki/Ogueta" title="Ogueta">Ogueta</a></li>
+<li><a href="/wiki/Oguica" title="Oguica">Oguica</a></li>
+<li><a href="/wiki/Oguilurreta" title="Oguilurreta">Oguilurreta</a></li>
+<li><a href="/wiki/Oguina" title="Oguina">Oguina</a></li>
+<li><a href="/wiki/Oguinena" title="Oguinena">Oguinena</a></li>
+<li><a href="/wiki/Oguiza" title="Oguiza">Oguiza</a></li>
+<li><a href="/wiki/Ogui%C3%B1a" title="Oguiña">Oguiña</a></li>
+<li><a href="/wiki/Ogullurreta" title="Ogullurreta">Ogullurreta</a></li>
+<li><a href="/wiki/Ohaco" title="Ohaco">Ohaco</a></li>
+<li><a href="/wiki/Ohara" title="Ohara">Ohara</a></li>
+<li><a href="/wiki/Oharriz" title="Oharriz">Oharriz</a></li>
+<li><a href="/wiki/Ohenart" title="Ohenart">Ohenart</a></li>
+<li><a href="/wiki/Oheta" title="Oheta">Oheta</a></li>
+<li><a href="/wiki/Ohets" title="Ohets">Ohets</a></li>
+<li><a href="/wiki/Ohio" title="Ohio">Ohio</a></li>
+<li><a href="/wiki/Ohnmacht" title="Ohnmacht">Ohnmacht</a></li>
+<li><a href="/wiki/Oholeguy" title="Oholeguy">Oholeguy</a></li>
+<li><a href="/wiki/Ohr" title="Ohr">Ohr</a></li>
+<li><a href="/wiki/Ohrring" title="Ohrring">Ohrring</a></li>
+<li><a href="/wiki/Oiarzabal" title="Oiarzabal">Oiarzabal</a></li>
+<li><a href="/wiki/Oiarzun" title="Oiarzun">Oiarzun</a></li>
+<li><a href="/wiki/Oichumilla" title="Oichumilla">Oichumilla</a></li>
+<li><a href="/wiki/Oihane" title="Oihane">Oihane</a></li>
+<li><a href="/wiki/Oilataguerre" title="Oilataguerre">Oilataguerre</a></li>
+<li><a href="/wiki/Oileta" title="Oileta">Oileta</a></li>
+<li><a href="/wiki/Oilhaborda" title="Oilhaborda">Oilhaborda</a></li>
+<li><a href="/wiki/Oillarburu" title="Oillarburu">Oillarburu</a></li>
+<li><a href="/wiki/Oillataguerre" title="Oillataguerre">Oillataguerre</a></li>
+<li><a href="/wiki/Oillataguirre" title="Oillataguirre">Oillataguirre</a></li>
+<li><a href="/wiki/Oiquina" title="Oiquina">Oiquina</a></li>
+<li><a href="/wiki/Oita" title="Oita">Oita</a></li>
+<li><a href="/wiki/Oiz" title="Oiz">Oiz</a></li>
+<li><a href="/wiki/Oiza" title="Oiza">Oiza</a></li>
+<li><a href="/wiki/Ojam" title="Ojam">Ojam</a></li>
+<li><a href="/wiki/Ojambarrena" title="Ojambarrena">Ojambarrena</a></li>
+<li><a href="/wiki/Ojangoiti" title="Ojangoiti">Ojangoiti</a></li>
+<li><a href="/wiki/Ojangoitia" title="Ojangoitia">Ojangoitia</a></li>
+<li><a href="/wiki/Ojangoitimadariaga" title="Ojangoitimadariaga">Ojangoitimadariaga</a></li>
+<li><a href="/wiki/Ojanguren" title="Ojanguren">Ojanguren</a></li>
+<li><a href="/wiki/Ojangurenzar" title="Ojangurenzar">Ojangurenzar</a></li>
+<li><a href="/wiki/Ojarbe" title="Ojarbe">Ojarbe</a></li>
+<li><a href="/wiki/Ojeda" title="Ojeda">Ojeda</a></li>
+<li><a href="/wiki/Ojenola" title="Ojenola">Ojenola</a></li>
+<li><a href="/wiki/Ojer" title="Ojer">Ojer</a></li>
+<li><a href="/wiki/Ojinaga" title="Ojinaga">Ojinaga</a></li>
+<li><a href="/wiki/Ojirondo" title="Ojirondo">Ojirondo</a></li>
+<li><a href="/wiki/Oj%C3%B3s" title="Ojós">Ojós</a></li>
+<li><a href="/wiki/Okeanija" title="Okeanija">Okeanija</a></li>
+<li><a href="/wiki/Okinawa" title="Okinawa">Okinawa</a></li>
+<li><a href="/wiki/Okklusion" title="Okklusion">Okklusion</a></li>
+<li><a href="/wiki/Oklahoma" title="Oklahoma">Oklahoma</a></li>
+<li><a href="/wiki/Okokko" title="Okokko">Okokko</a></li>
+<li><a href="/wiki/Oktober" title="Oktober">Oktober</a></li>
+<li><a href="/wiki/Okyanusya" title="Okyanusya">Okyanusya</a></li>
+<li><a href="/wiki/Ola" title="Ola">Ola</a></li>
+<li><a href="/wiki/Olaba" title="Olaba">Olaba</a></li>
+<li><a href="/wiki/Olabarreita" title="Olabarreita">Olabarreita</a></li>
+<li><a href="/wiki/Olabarri" title="Olabarri">Olabarri</a></li>
+<li><a href="/wiki/Olabarria" title="Olabarria">Olabarria</a></li>
+<li><a href="/wiki/Olabarriaga" title="Olabarriaga">Olabarriaga</a></li>
+<li><a href="/wiki/Olabarrieta" title="Olabarrieta">Olabarrieta</a></li>
+<li><a href="/wiki/Olabarriolazar" title="Olabarriolazar">Olabarriolazar</a></li>
+<li><a href="/wiki/Olabarr%C3%ADa" title="Olabarría">Olabarría</a></li>
+<li><a href="/wiki/Olabarte" title="Olabarte">Olabarte</a></li>
+<li><a href="/wiki/Olabe" title="Olabe">Olabe</a></li>
+<li><a href="/wiki/Olabebeascoechea" title="Olabebeascoechea">Olabebeascoechea</a></li>
+<li><a href="/wiki/Olabebengoa" title="Olabebengoa">Olabebengoa</a></li>
+<li><a href="/wiki/Olabecela" title="Olabecela">Olabecela</a></li>
+<li><a href="/wiki/Olabegogaescoecha" title="Olabegogaescoecha">Olabegogaescoecha</a></li>
+<li><a href="/wiki/Olabegogeascoa" title="Olabegogeascoa">Olabegogeascoa</a></li>
+<li><a href="/wiki/Olabegoya" title="Olabegoya">Olabegoya</a></li>
+<li><a href="/wiki/Olabeibinarriaga" title="Olabeibinarriaga">Olabeibinarriaga</a></li>
+<li><a href="/wiki/Olaberri" title="Olaberri">Olaberri</a></li>
+<li><a href="/wiki/Olaberria" title="Olaberria">Olaberria</a></li>
+<li><a href="/wiki/Olaberriaga" title="Olaberriaga">Olaberriaga</a></li>
+<li><a href="/wiki/Olaberriague" title="Olaberriague">Olaberriague</a></li>
+<li><a href="/wiki/Olaberry" title="Olaberry">Olaberry</a></li>
+<li><a href="/wiki/Olabiaga" title="Olabiaga">Olabiaga</a></li>
+<li><a href="/wiki/Olabide" title="Olabide">Olabide</a></li>
+<li><a href="/wiki/Olabuenaga" title="Olabuenaga">Olabuenaga</a></li>
+<li><a href="/wiki/Olaburua" title="Olaburua">Olaburua</a></li>
+<li><a href="/wiki/Olaburueta" title="Olaburueta">Olaburueta</a></li>
+<li><a href="/wiki/Olace" title="Olace">Olace</a></li>
+<li><a href="/wiki/Olachea" title="Olachea">Olachea</a></li>
+<li><a href="/wiki/Olacho" title="Olacho">Olacho</a></li>
+<li><a href="/wiki/Olachu" title="Olachu">Olachu</a></li>
+<li><a href="/wiki/Olacireghi" title="Olacireghi">Olacireghi</a></li>
+<li><a href="/wiki/Olaciregui" title="Olaciregui">Olaciregui</a></li>
+<li><a href="/wiki/Olacoa" title="Olacoa">Olacoa</a></li>
+<li><a href="/wiki/Olacoechea" title="Olacoechea">Olacoechea</a></li>
+<li><a href="/wiki/Olaeche" title="Olaeche">Olaeche</a></li>
+<li><a href="/wiki/Olaechea" title="Olaechea">Olaechea</a></li>
+<li><a href="/wiki/Olaegui" title="Olaegui">Olaegui</a></li>
+<li><a href="/wiki/Olaeguia" title="Olaeguia">Olaeguia</a></li>
+<li><a href="/wiki/Olaerreta" title="Olaerreta">Olaerreta</a></li>
+<li><a href="/wiki/Olaerrota" title="Olaerrota">Olaerrota</a></li>
+<li><a href="/wiki/Olaeta" title="Olaeta">Olaeta</a></li>
+<li><a href="/wiki/Olagabalo" title="Olagabalo">Olagabalo</a></li>
+<li><a href="/wiki/Olagagaste" title="Olagagaste">Olagagaste</a></li>
+<li><a href="/wiki/Olagarai" title="Olagarai">Olagarai</a></li>
+<li><a href="/wiki/Olagaray" title="Olagaray">Olagaray</a></li>
+<li><a href="/wiki/Olagoitia" title="Olagoitia">Olagoitia</a></li>
+<li><a href="/wiki/Olagorta" title="Olagorta">Olagorta</a></li>
+<li><a href="/wiki/Olague" title="Olague">Olague</a></li>
+<li><a href="/wiki/Olagui" title="Olagui">Olagui</a></li>
+<li><a href="/wiki/Olaguibe" title="Olaguibe">Olaguibe</a></li>
+<li><a href="/wiki/Olaguibel" title="Olaguibel">Olaguibel</a></li>
+<li><a href="/wiki/Olaguivel" title="Olaguivel">Olaguivel</a></li>
+<li><a href="/wiki/Olaguren" title="Olaguren">Olaguren</a></li>
+<li><a href="/wiki/Olag%C3%BCe" title="Olagüe">Olagüe</a></li>
+<li><a href="/wiki/Olag%C3%BCenaga" title="Olagüenaga">Olagüenaga</a></li>
+<li><a href="/wiki/Olais" title="Olais">Olais</a></li>
+<li><a href="/wiki/Olaisola" title="Olaisola">Olaisola</a></li>
+<li><a href="/wiki/Olaita" title="Olaita">Olaita</a></li>
+<li><a href="/wiki/Olaiz" title="Olaiz">Olaiz</a></li>
+<li><a href="/wiki/Olaizaola" title="Olaizaola">Olaizaola</a></li>
+<li><a href="/wiki/Olaizola" title="Olaizola">Olaizola</a></li>
+<li><a href="/wiki/Olajaundeguia" title="Olajaundeguia">Olajaundeguia</a></li>
+<li><a href="/wiki/Olalde" title="Olalde">Olalde</a></li>
+<li><a href="/wiki/Olalde-Bergara" title="Olalde-Bergara">Olalde-Bergara</a></li>
+<li><a href="/wiki/Olaldebecoa" title="Olaldebecoa">Olaldebecoa</a></li>
+<li><a href="/wiki/Olalquiaga" title="Olalquiaga">Olalquiaga</a></li>
+<li><a href="/wiki/Olalquieta" title="Olalquieta">Olalquieta</a></li>
+<li><a href="/wiki/Olamendi" title="Olamendi">Olamendi</a></li>
+<li><a href="/wiki/Olamendieta" title="Olamendieta">Olamendieta</a></li>
+<li><a href="/wiki/Olana" title="Olana">Olana</a></li>
+<li><a href="/wiki/Olanda" title="Olanda">Olanda</a></li>
+<li><a href="/wiki/Olandijos_Antilai" title="Olandijos Antilai">Olandijos Antilai</a></li>
+<li><a href="/wiki/Olaneta" title="Olaneta">Olaneta</a></li>
+<li><a href="/wiki/Olani" title="Olani">Olani</a></li>
+<li><a href="/wiki/Olano" title="Olano">Olano</a></li>
+<li><a href="/wiki/Olanotegui" title="Olanotegui">Olanotegui</a></li>
+<li><a href="/wiki/Olaondo" title="Olaondo">Olaondo</a></li>
+<li><a href="/wiki/Olaoste" title="Olaoste">Olaoste</a></li>
+<li><a href="/wiki/Olara" title="Olara">Olara</a></li>
+<li><a href="/wiki/Olaran" title="Olaran">Olaran</a></li>
+<li><a href="/wiki/Olareaga" title="Olareaga">Olareaga</a></li>
+<li><a href="/wiki/Olariaga" title="Olariaga">Olariaga</a></li>
+<li><a href="/wiki/Olariene" title="Olariene">Olariene</a></li>
+<li><a href="/wiki/Olarieta" title="Olarieta">Olarieta</a></li>
+<li><a href="/wiki/Olarpuiaga" title="Olarpuiaga">Olarpuiaga</a></li>
+<li><a href="/wiki/Olarra" title="Olarra">Olarra</a></li>
+<li><a href="/wiki/Olarraiga" title="Olarraiga">Olarraiga</a></li>
+<li><a href="/wiki/Olarrazabal" title="Olarrazabal">Olarrazabal</a></li>
+<li><a href="/wiki/Olarrea" title="Olarrea">Olarrea</a></li>
+<li><a href="/wiki/Olarreaga" title="Olarreaga">Olarreaga</a></li>
+<li><a href="/wiki/Olarrega" title="Olarrega">Olarrega</a></li>
+<li><a href="/wiki/Olarri" title="Olarri">Olarri</a></li>
+<li><a href="/wiki/Olarria" title="Olarria">Olarria</a></li>
+<li><a href="/wiki/Olarriaga" title="Olarriaga">Olarriaga</a></li>
+<li><a href="/wiki/Olarriagazar" title="Olarriagazar">Olarriagazar</a></li>
+<li><a href="/wiki/Olarrota" title="Olarrota">Olarrota</a></li>
+<li><a href="/wiki/Olarte" title="Olarte">Olarte</a></li>
+<li><a href="/wiki/Olarteacoechea" title="Olarteacoechea">Olarteacoechea</a></li>
+<li><a href="/wiki/Olartecoeche" title="Olartecoeche">Olartecoeche</a></li>
+<li><a href="/wiki/Olartecoechea" title="Olartecoechea">Olartecoechea</a></li>
+<li><a href="/wiki/Olarza" title="Olarza">Olarza</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Nicochea" title="Especial:Todas">Página anterior (Nicochea)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Olas" title="Especial:Todas">Página siguiente (Olas)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DO" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DO" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=O" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=O&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=O&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":315,"wgHostname":"mw1351"});});</script></body></html>

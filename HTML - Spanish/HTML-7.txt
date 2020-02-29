@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljI2gpAMFgAAB7ivvgAAABJ","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=E"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"E","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='E' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Domic" title="Especial:Todas">Página anterior (Domic)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Echeveguren" title="Especial:Todas">Página siguiente (Echeveguren)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/E" title="E">E</a></li>
+<li><a href="/wiki/E-duuri" title="E-duuri">E-duuri</a></li>
+<li class="allpagesredirect"><a href="/wiki/E.E._U.U." class="mw-redirect" title="E.E. U.U.">E.E. U.U.</a></li>
+<li><a href="/wiki/E._coli" title="E. coli">E. coli</a></li>
+<li><a href="/wiki/EAN" title="EAN">EAN</a></li>
+<li><a href="/wiki/ECG" title="ECG">ECG</a></li>
+<li><a href="/wiki/EE._UU." title="EE. UU.">EE. UU.</a></li>
+<li><a href="/wiki/EEI" title="EEI">EEI</a></li>
+<li><a href="/wiki/EEUU" title="EEUU">EEUU</a></li>
+<li><a href="/wiki/EE_UU" title="EE UU">EE UU</a></li>
+<li><a href="/wiki/EJB" title="EJB">EJB</a></li>
+<li><a href="/wiki/EMHO" title="EMHO">EMHO</a></li>
+<li><a href="/wiki/EPL" title="EPL">EPL</a></li>
+<li><a href="/wiki/ERP" title="ERP">ERP</a></li>
+<li><a href="/wiki/ESO" title="ESO">ESO</a></li>
+<li><a href="/wiki/EST" title="EST">EST</a></li>
+<li><a href="/wiki/EUA" title="EUA">EUA</a></li>
+<li><a href="/wiki/Ealo" title="Ealo">Ealo</a></li>
+<li><a href="/wiki/Eaninir" title="Eaninir">Eaninir</a></li>
+<li><a href="/wiki/Earth" title="Earth">Earth</a></li>
+<li><a href="/wiki/Easarret" title="Easarret">Easarret</a></li>
+<li><a href="/wiki/Easo" title="Easo">Easo</a></li>
+<li><a href="/wiki/East_Ham" title="East Ham">East Ham</a></li>
+<li><a href="/wiki/East_Timor" title="East Timor">East Timor</a></li>
+<li><a href="/wiki/Eastenryk" title="Eastenryk">Eastenryk</a></li>
+<li><a href="/wiki/Easter_Monday" title="Easter Monday">Easter Monday</a></li>
+<li><a href="/wiki/Eastman" title="Eastman">Eastman</a></li>
+<li><a href="/wiki/Eastwood" title="Eastwood">Eastwood</a></li>
+<li><a href="/wiki/Ebene" title="Ebene">Ebene</a></li>
+<li><a href="/wiki/Ebenheit" title="Ebenheit">Ebenheit</a></li>
+<li><a href="/wiki/Eberri" title="Eberri">Eberri</a></li>
+<li><a href="/wiki/Ebiaga" title="Ebiaga">Ebiaga</a></li>
+<li><a href="/wiki/Ebla" title="Ebla">Ebla</a></li>
+<li><a href="/wiki/Ebner" title="Ebner">Ebner</a></li>
+<li><a href="/wiki/Ebo" title="Ebo">Ebo</a></li>
+<li><a href="/wiki/Ebrejiem" title="Ebrejiem">Ebrejiem</a></li>
+<li><a href="/wiki/Ebrel" title="Ebrel">Ebrel</a></li>
+<li><a href="/wiki/Ebriolar" title="Ebriolar">Ebriolar</a></li>
+<li><a href="/wiki/Ec." title="Ec.">Ec.</a></li>
+<li><a href="/wiki/Ecai" title="Ecai">Ecai</a></li>
+<li><a href="/wiki/Ecain" title="Ecain">Ecain</a></li>
+<li><a href="/wiki/Ecarambarria" title="Ecarambarria">Ecarambarria</a></li>
+<li><a href="/wiki/Ecarre" title="Ecarre">Ecarre</a></li>
+<li><a href="/wiki/Ecarri" title="Ecarri">Ecarri</a></li>
+<li><a href="/wiki/Ecay" title="Ecay">Ecay</a></li>
+<li><a href="/wiki/Ecclesiastes" title="Ecclesiastes">Ecclesiastes</a></li>
+<li><a href="/wiki/Eceiza" title="Eceiza">Eceiza</a></li>
+<li><a href="/wiki/Eceizabarrena" title="Eceizabarrena">Eceizabarrena</a></li>
+<li><a href="/wiki/Ecenarro" title="Ecenarro">Ecenarro</a></li>
+<li><a href="/wiki/Eceolaza" title="Eceolaza">Eceolaza</a></li>
+<li><a href="/wiki/Eceta" title="Eceta">Eceta</a></li>
+<li><a href="/wiki/Echabal" title="Echabal">Echabal</a></li>
+<li><a href="/wiki/Echabarne" title="Echabarne">Echabarne</a></li>
+<li><a href="/wiki/Echabarren" title="Echabarren">Echabarren</a></li>
+<li><a href="/wiki/Echabarri" title="Echabarri">Echabarri</a></li>
+<li><a href="/wiki/Echabarri-Beurco" title="Echabarri-Beurco">Echabarri-Beurco</a></li>
+<li><a href="/wiki/Echabarria" title="Echabarria">Echabarria</a></li>
+<li><a href="/wiki/Echabarriabatiz" title="Echabarriabatiz">Echabarriabatiz</a></li>
+<li><a href="/wiki/Echabarriabelaochaga" title="Echabarriabelaochaga">Echabarriabelaochaga</a></li>
+<li><a href="/wiki/Echabarriaerrandonea" title="Echabarriaerrandonea">Echabarriaerrandonea</a></li>
+<li><a href="/wiki/Echabarriaoba" title="Echabarriaoba">Echabarriaoba</a></li>
+<li><a href="/wiki/Echabarriaviteriano" title="Echabarriaviteriano">Echabarriaviteriano</a></li>
+<li><a href="/wiki/Echabarrieta" title="Echabarrieta">Echabarrieta</a></li>
+<li><a href="/wiki/Echabarrigoitia" title="Echabarrigoitia">Echabarrigoitia</a></li>
+<li><a href="/wiki/Echabaster" title="Echabaster">Echabaster</a></li>
+<li><a href="/wiki/Echabe" title="Echabe">Echabe</a></li>
+<li><a href="/wiki/Echabe-Garaicoa" title="Echabe-Garaicoa">Echabe-Garaicoa</a></li>
+<li><a href="/wiki/Echabebarrena" title="Echabebarrena">Echabebarrena</a></li>
+<li><a href="/wiki/Echabede" title="Echabede">Echabede</a></li>
+<li><a href="/wiki/Echabegoyen" title="Echabegoyen">Echabegoyen</a></li>
+<li><a href="/wiki/Echabeguren" title="Echabeguren">Echabeguren</a></li>
+<li><a href="/wiki/Echabelar" title="Echabelar">Echabelar</a></li>
+<li><a href="/wiki/Echabere" title="Echabere">Echabere</a></li>
+<li><a href="/wiki/Echaberri" title="Echaberri">Echaberri</a></li>
+<li><a href="/wiki/Echaberria" title="Echaberria">Echaberria</a></li>
+<li><a href="/wiki/Echaberrico" title="Echaberrico">Echaberrico</a></li>
+<li><a href="/wiki/Echabez" title="Echabez">Echabez</a></li>
+<li><a href="/wiki/Echabide" title="Echabide">Echabide</a></li>
+<li><a href="/wiki/Echabuba" title="Echabuba">Echabuba</a></li>
+<li><a href="/wiki/Echaburu" title="Echaburu">Echaburu</a></li>
+<li><a href="/wiki/Echaburua" title="Echaburua">Echaburua</a></li>
+<li><a href="/wiki/Echacartegui" title="Echacartegui">Echacartegui</a></li>
+<li><a href="/wiki/Echachipia" title="Echachipia">Echachipia</a></li>
+<li><a href="/wiki/Echachiquia" title="Echachiquia">Echachiquia</a></li>
+<li><a href="/wiki/Echacou" title="Echacou">Echacou</a></li>
+<li><a href="/wiki/Echagain" title="Echagain">Echagain</a></li>
+<li><a href="/wiki/Echagaray" title="Echagaray">Echagaray</a></li>
+<li><a href="/wiki/Echagoyen" title="Echagoyen">Echagoyen</a></li>
+<li><a href="/wiki/Echague" title="Echague">Echague</a></li>
+<li><a href="/wiki/Echaguen" title="Echaguen">Echaguen</a></li>
+<li><a href="/wiki/Echaguibel" title="Echaguibel">Echaguibel</a></li>
+<li><a href="/wiki/Echaguren" title="Echaguren">Echaguren</a></li>
+<li><a href="/wiki/Echag%C3%BCe" title="Echagüe">Echagüe</a></li>
+<li><a href="/wiki/Echag%C3%BCen" title="Echagüen">Echagüen</a></li>
+<li><a href="/wiki/Echaide" title="Echaide">Echaide</a></li>
+<li><a href="/wiki/Echain" title="Echain">Echain</a></li>
+<li><a href="/wiki/Echaire" title="Echaire">Echaire</a></li>
+<li><a href="/wiki/Echaita" title="Echaita">Echaita</a></li>
+<li><a href="/wiki/Echaitz" title="Echaitz">Echaitz</a></li>
+<li><a href="/wiki/Echaiz" title="Echaiz">Echaiz</a></li>
+<li><a href="/wiki/Echajauna" title="Echajauna">Echajauna</a></li>
+<li><a href="/wiki/Echalar" title="Echalar">Echalar</a></li>
+<li><a href="/wiki/Echalaz" title="Echalaz">Echalaz</a></li>
+<li><a href="/wiki/Echalde" title="Echalde">Echalde</a></li>
+<li><a href="/wiki/Echaldi" title="Echaldi">Echaldi</a></li>
+<li><a href="/wiki/Echalecu" title="Echalecu">Echalecu</a></li>
+<li><a href="/wiki/Echalete" title="Echalete">Echalete</a></li>
+<li><a href="/wiki/Echalto" title="Echalto">Echalto</a></li>
+<li><a href="/wiki/Echaluce" title="Echaluce">Echaluce</a></li>
+<li><a href="/wiki/Echalucea" title="Echalucea">Echalucea</a></li>
+<li><a href="/wiki/Echaluz" title="Echaluz">Echaluz</a></li>
+<li><a href="/wiki/Echamaite" title="Echamaite">Echamaite</a></li>
+<li><a href="/wiki/Echamendi" title="Echamendi">Echamendi</a></li>
+<li><a href="/wiki/Echanagusia" title="Echanagusia">Echanagusia</a></li>
+<li><a href="/wiki/Echanco" title="Echanco">Echanco</a></li>
+<li><a href="/wiki/Echande" title="Echande">Echande</a></li>
+<li><a href="/wiki/Echandi" title="Echandi">Echandi</a></li>
+<li><a href="/wiki/Echandia" title="Echandia">Echandia</a></li>
+<li><a href="/wiki/Echandiz" title="Echandiz">Echandiz</a></li>
+<li><a href="/wiki/Echand%C3%ADa" title="Echandía">Echandía</a></li>
+<li><a href="/wiki/Echanesi" title="Echanesi">Echanesi</a></li>
+<li><a href="/wiki/Echanez" title="Echanez">Echanez</a></li>
+<li><a href="/wiki/Echanique" title="Echanique">Echanique</a></li>
+<li><a href="/wiki/Echanis" title="Echanis">Echanis</a></li>
+<li><a href="/wiki/Echaniz" title="Echaniz">Echaniz</a></li>
+<li><a href="/wiki/Echano" title="Echano">Echano</a></li>
+<li><a href="/wiki/Echanobe" title="Echanobe">Echanobe</a></li>
+<li><a href="/wiki/Echanoeta" title="Echanoeta">Echanoeta</a></li>
+<li><a href="/wiki/Echanojauregui" title="Echanojauregui">Echanojauregui</a></li>
+<li><a href="/wiki/Echante" title="Echante">Echante</a></li>
+<li><a href="/wiki/Echanuri" title="Echanuri">Echanuri</a></li>
+<li><a href="/wiki/Echaondo" title="Echaondo">Echaondo</a></li>
+<li><a href="/wiki/Echaorueta" title="Echaorueta">Echaorueta</a></li>
+<li><a href="/wiki/Echapare" title="Echapare">Echapare</a></li>
+<li><a href="/wiki/Echarainco" title="Echarainco">Echarainco</a></li>
+<li><a href="/wiki/Echarandio" title="Echarandio">Echarandio</a></li>
+<li><a href="/wiki/Echarde" title="Echarde">Echarde</a></li>
+<li><a href="/wiki/Echardi" title="Echardi">Echardi</a></li>
+<li><a href="/wiki/Echarmendy" title="Echarmendy">Echarmendy</a></li>
+<li><a href="/wiki/Echarrain" title="Echarrain">Echarrain</a></li>
+<li><a href="/wiki/Echarran" title="Echarran">Echarran</a></li>
+<li><a href="/wiki/Echarren" title="Echarren">Echarren</a></li>
+<li><a href="/wiki/Echarren_de_Goicoechea" title="Echarren de Goicoechea">Echarren de Goicoechea</a></li>
+<li><a href="/wiki/Echarreta" title="Echarreta">Echarreta</a></li>
+<li><a href="/wiki/Echarri" title="Echarri">Echarri</a></li>
+<li><a href="/wiki/Echarriaranaz" title="Echarriaranaz">Echarriaranaz</a></li>
+<li><a href="/wiki/Echarrin" title="Echarrin">Echarrin</a></li>
+<li><a href="/wiki/Echarriz" title="Echarriz">Echarriz</a></li>
+<li><a href="/wiki/Echarron" title="Echarron">Echarron</a></li>
+<li><a href="/wiki/Echarrondo" title="Echarrondo">Echarrondo</a></li>
+<li><a href="/wiki/Echarry" title="Echarry">Echarry</a></li>
+<li><a href="/wiki/Echart" title="Echart">Echart</a></li>
+<li><a href="/wiki/Echarte" title="Echarte">Echarte</a></li>
+<li><a href="/wiki/Echartea" title="Echartea">Echartea</a></li>
+<li><a href="/wiki/Echasenague" title="Echasenague">Echasenague</a></li>
+<li><a href="/wiki/Echaso" title="Echaso">Echaso</a></li>
+<li><a href="/wiki/Echassandague" title="Echassandague">Echassandague</a></li>
+<li><a href="/wiki/Echasuri" title="Echasuri">Echasuri</a></li>
+<li><a href="/wiki/Echaube" title="Echaube">Echaube</a></li>
+<li><a href="/wiki/Echaudi" title="Echaudi">Echaudi</a></li>
+<li><a href="/wiki/Echaudia" title="Echaudia">Echaudia</a></li>
+<li><a href="/wiki/Echauguirre" title="Echauguirre">Echauguirre</a></li>
+<li><a href="/wiki/Echaun" title="Echaun">Echaun</a></li>
+<li><a href="/wiki/Echauregui" title="Echauregui">Echauregui</a></li>
+<li><a href="/wiki/Echauren" title="Echauren">Echauren</a></li>
+<li><a href="/wiki/Echaures" title="Echaures">Echaures</a></li>
+<li><a href="/wiki/Echauri" title="Echauri">Echauri</a></li>
+<li><a href="/wiki/Echaurre" title="Echaurre">Echaurre</a></li>
+<li><a href="/wiki/Echaurren" title="Echaurren">Echaurren</a></li>
+<li><a href="/wiki/Echaurri" title="Echaurri">Echaurri</a></li>
+<li><a href="/wiki/Echaurrondo" title="Echaurrondo">Echaurrondo</a></li>
+<li><a href="/wiki/Echausta" title="Echausta">Echausta</a></li>
+<li><a href="/wiki/Echautz" title="Echautz">Echautz</a></li>
+<li><a href="/wiki/Echauz" title="Echauz">Echauz</a></li>
+<li><a href="/wiki/Echauzu" title="Echauzu">Echauzu</a></li>
+<li><a href="/wiki/Echava" title="Echava">Echava</a></li>
+<li><a href="/wiki/Echavarne" title="Echavarne">Echavarne</a></li>
+<li><a href="/wiki/Echavarren" title="Echavarren">Echavarren</a></li>
+<li><a href="/wiki/Echavarri" title="Echavarri">Echavarri</a></li>
+<li><a href="/wiki/Echavarria" title="Echavarria">Echavarria</a></li>
+<li><a href="/wiki/Echavarriaarandoy" title="Echavarriaarandoy">Echavarriaarandoy</a></li>
+<li><a href="/wiki/Echavarriarza" title="Echavarriarza">Echavarriarza</a></li>
+<li><a href="/wiki/Echavarrieta" title="Echavarrieta">Echavarrieta</a></li>
+<li><a href="/wiki/Echavarr%C3%ADa" title="Echavarría">Echavarría</a></li>
+<li><a href="/wiki/Echave" title="Echave">Echave</a></li>
+<li><a href="/wiki/Echaveguren" title="Echaveguren">Echaveguren</a></li>
+<li><a href="/wiki/Echaverria" title="Echaverria">Echaverria</a></li>
+<li><a href="/wiki/Echaverry" title="Echaverry">Echaverry</a></li>
+<li><a href="/wiki/Echaverr%C3%ADa" title="Echaverría">Echaverría</a></li>
+<li><a href="/wiki/Echaves" title="Echaves">Echaves</a></li>
+<li><a href="/wiki/Echavez" title="Echavez">Echavez</a></li>
+<li><a href="/wiki/Echavide" title="Echavide">Echavide</a></li>
+<li><a href="/wiki/Echavurua" title="Echavurua">Echavurua</a></li>
+<li><a href="/wiki/Echayde" title="Echayde">Echayde</a></li>
+<li><a href="/wiki/Echayre" title="Echayre">Echayre</a></li>
+<li><a href="/wiki/Echazabal" title="Echazabal">Echazabal</a></li>
+<li><a href="/wiki/Echazarra" title="Echazarra">Echazarra</a></li>
+<li><a href="/wiki/Echazarraga" title="Echazarraga">Echazarraga</a></li>
+<li><a href="/wiki/Echazarreta" title="Echazarreta">Echazarreta</a></li>
+<li><a href="/wiki/Echazo" title="Echazo">Echazo</a></li>
+<li><a href="/wiki/Echazu" title="Echazu">Echazu</a></li>
+<li><a href="/wiki/Eche" title="Eche">Eche</a></li>
+<li><a href="/wiki/Echea" title="Echea">Echea</a></li>
+<li><a href="/wiki/Echeaga" title="Echeaga">Echeaga</a></li>
+<li><a href="/wiki/Echeagasdoy" title="Echeagasdoy">Echeagasdoy</a></li>
+<li><a href="/wiki/Echeandi" title="Echeandi">Echeandi</a></li>
+<li><a href="/wiki/Echeandia" title="Echeandia">Echeandia</a></li>
+<li><a href="/wiki/Echearte" title="Echearte">Echearte</a></li>
+<li><a href="/wiki/Echebaguren" title="Echebaguren">Echebaguren</a></li>
+<li><a href="/wiki/Echebarne" title="Echebarne">Echebarne</a></li>
+<li><a href="/wiki/Echebarren" title="Echebarren">Echebarren</a></li>
+<li><a href="/wiki/Echebarrena" title="Echebarrena">Echebarrena</a></li>
+<li><a href="/wiki/Echebarri" title="Echebarri">Echebarri</a></li>
+<li><a href="/wiki/Echebarria" title="Echebarria">Echebarria</a></li>
+<li><a href="/wiki/Echebarriaatucha" title="Echebarriaatucha">Echebarriaatucha</a></li>
+<li><a href="/wiki/Echebarrieta" title="Echebarrieta">Echebarrieta</a></li>
+<li><a href="/wiki/Echebarrigarai" title="Echebarrigarai">Echebarrigarai</a></li>
+<li><a href="/wiki/Echebarrioste" title="Echebarrioste">Echebarrioste</a></li>
+<li><a href="/wiki/Echebarr%C3%ADa" title="Echebarría">Echebarría</a></li>
+<li><a href="/wiki/Echebaster" title="Echebaster">Echebaster</a></li>
+<li><a href="/wiki/Echebehere" title="Echebehere">Echebehere</a></li>
+<li><a href="/wiki/Echebelc" title="Echebelc">Echebelc</a></li>
+<li><a href="/wiki/Echebelce" title="Echebelce">Echebelce</a></li>
+<li><a href="/wiki/Echebeltz" title="Echebeltz">Echebeltz</a></li>
+<li><a href="/wiki/Echebelz" title="Echebelz">Echebelz</a></li>
+<li><a href="/wiki/Echeberce" title="Echeberce">Echeberce</a></li>
+<li><a href="/wiki/Echebercea" title="Echebercea">Echebercea</a></li>
+<li><a href="/wiki/Echeberea" title="Echeberea">Echeberea</a></li>
+<li><a href="/wiki/Echebernea" title="Echebernea">Echebernea</a></li>
+<li><a href="/wiki/Echeberri" title="Echeberri">Echeberri</a></li>
+<li><a href="/wiki/Echeberria" title="Echeberria">Echeberria</a></li>
+<li><a href="/wiki/Echeberriartaun" title="Echeberriartaun">Echeberriartaun</a></li>
+<li><a href="/wiki/Echeberriarteun" title="Echeberriarteun">Echeberriarteun</a></li>
+<li><a href="/wiki/Echeberrigaray" title="Echeberrigaray">Echeberrigaray</a></li>
+<li><a href="/wiki/Echeberry" title="Echeberry">Echeberry</a></li>
+<li><a href="/wiki/Echebertz" title="Echebertz">Echebertz</a></li>
+<li><a href="/wiki/Echeberz" title="Echeberz">Echeberz</a></li>
+<li><a href="/wiki/Echeber%C3%A7e" title="Echeberçe">Echeberçe</a></li>
+<li><a href="/wiki/Echebest" title="Echebest">Echebest</a></li>
+<li><a href="/wiki/Echebeste" title="Echebeste">Echebeste</a></li>
+<li><a href="/wiki/Echebetea" title="Echebetea">Echebetea</a></li>
+<li><a href="/wiki/Echeburu" title="Echeburu">Echeburu</a></li>
+<li><a href="/wiki/Echeburua" title="Echeburua">Echeburua</a></li>
+<li><a href="/wiki/Echecharry" title="Echecharry">Echecharry</a></li>
+<li><a href="/wiki/Echechipia" title="Echechipia">Echechipia</a></li>
+<li><a href="/wiki/Echechiquea" title="Echechiquea">Echechiquea</a></li>
+<li><a href="/wiki/Echechiqui" title="Echechiqui">Echechiqui</a></li>
+<li><a href="/wiki/Echechiquia" title="Echechiquia">Echechiquia</a></li>
+<li><a href="/wiki/Echechiquin" title="Echechiquin">Echechiquin</a></li>
+<li><a href="/wiki/Echechiquina" title="Echechiquina">Echechiquina</a></li>
+<li><a href="/wiki/Echechuri" title="Echechuri">Echechuri</a></li>
+<li><a href="/wiki/Echechuribehere" title="Echechuribehere">Echechuribehere</a></li>
+<li><a href="/wiki/Echechurre" title="Echechurre">Echechurre</a></li>
+<li><a href="/wiki/Echecoin" title="Echecoin">Echecoin</a></li>
+<li><a href="/wiki/Echecolanea" title="Echecolanea">Echecolanea</a></li>
+<li><a href="/wiki/Echecolena" title="Echecolena">Echecolena</a></li>
+<li><a href="/wiki/Echecolonea" title="Echecolonea">Echecolonea</a></li>
+<li><a href="/wiki/Echecon" title="Echecon">Echecon</a></li>
+<li><a href="/wiki/Echeconanea" title="Echeconanea">Echeconanea</a></li>
+<li><a href="/wiki/Echeconea" title="Echeconea">Echeconea</a></li>
+<li><a href="/wiki/Echecopar" title="Echecopar">Echecopar</a></li>
+<li><a href="/wiki/Echecopare" title="Echecopare">Echecopare</a></li>
+<li><a href="/wiki/Echecorena" title="Echecorena">Echecorena</a></li>
+<li><a href="/wiki/Echegarape" title="Echegarape">Echegarape</a></li>
+<li><a href="/wiki/Echegaray" title="Echegaray">Echegaray</a></li>
+<li><a href="/wiki/Echegardoy" title="Echegardoy">Echegardoy</a></li>
+<li><a href="/wiki/Echegary" title="Echegary">Echegary</a></li>
+<li><a href="/wiki/Echegoien" title="Echegoien">Echegoien</a></li>
+<li><a href="/wiki/Echegoin" title="Echegoin">Echegoin</a></li>
+<li><a href="/wiki/Echegoinberri" title="Echegoinberri">Echegoinberri</a></li>
+<li><a href="/wiki/Echegoinzelay" title="Echegoinzelay">Echegoinzelay</a></li>
+<li><a href="/wiki/Echegonagaray" title="Echegonagaray">Echegonagaray</a></li>
+<li><a href="/wiki/Echegoncelay" title="Echegoncelay">Echegoncelay</a></li>
+<li><a href="/wiki/Echegoren" title="Echegoren">Echegoren</a></li>
+<li><a href="/wiki/Echegorena" title="Echegorena">Echegorena</a></li>
+<li><a href="/wiki/Echegorre" title="Echegorre">Echegorre</a></li>
+<li><a href="/wiki/Echegorri" title="Echegorri">Echegorri</a></li>
+<li><a href="/wiki/Echegorria" title="Echegorria">Echegorria</a></li>
+<li><a href="/wiki/Echegorry" title="Echegorry">Echegorry</a></li>
+<li><a href="/wiki/Echegoy" title="Echegoy">Echegoy</a></li>
+<li><a href="/wiki/Echegoyen" title="Echegoyen">Echegoyen</a></li>
+<li><a href="/wiki/Echegoyenberry" title="Echegoyenberry">Echegoyenberry</a></li>
+<li><a href="/wiki/Echegoyeniberry" title="Echegoyeniberry">Echegoyeniberry</a></li>
+<li><a href="/wiki/Echeguia" title="Echeguia">Echeguia</a></li>
+<li><a href="/wiki/Echeguibel" title="Echeguibel">Echeguibel</a></li>
+<li><a href="/wiki/Echeguiberry" title="Echeguiberry">Echeguiberry</a></li>
+<li><a href="/wiki/Echeguren" title="Echeguren">Echeguren</a></li>
+<li><a href="/wiki/Echeguria" title="Echeguria">Echeguria</a></li>
+<li><a href="/wiki/Echeg%C3%BCena" title="Echegüena">Echegüena</a></li>
+<li><a href="/wiki/Echehandia" title="Echehandia">Echehandia</a></li>
+<li><a href="/wiki/Echeita" title="Echeita">Echeita</a></li>
+<li><a href="/wiki/Echelar" title="Echelar">Echelar</a></li>
+<li><a href="/wiki/Echelecu" title="Echelecu">Echelecu</a></li>
+<li><a href="/wiki/Echeluce" title="Echeluce">Echeluce</a></li>
+<li><a href="/wiki/Echeluz" title="Echeluz">Echeluz</a></li>
+<li><a href="/wiki/Echemaite" title="Echemaite">Echemaite</a></li>
+<li><a href="/wiki/Echemendi" title="Echemendi">Echemendi</a></li>
+<li><a href="/wiki/Echemendigaray" title="Echemendigaray">Echemendigaray</a></li>
+<li><a href="/wiki/Echena" title="Echena">Echena</a></li>
+<li><a href="/wiki/Echenagorria" title="Echenagorria">Echenagorria</a></li>
+<li><a href="/wiki/Echenagucia" title="Echenagucia">Echenagucia</a></li>
+<li><a href="/wiki/Echenagusia" title="Echenagusia">Echenagusia</a></li>
+<li><a href="/wiki/Echenaguzia" title="Echenaguzia">Echenaguzia</a></li>
+<li><a href="/wiki/Echenandia" title="Echenandia">Echenandia</a></li>
+<li><a href="/wiki/Echenasia" title="Echenasia">Echenasia</a></li>
+<li><a href="/wiki/Echenausi" title="Echenausi">Echenausi</a></li>
+<li><a href="/wiki/Echenausia" title="Echenausia">Echenausia</a></li>
+<li><a href="/wiki/Echenengaray" title="Echenengaray">Echenengaray</a></li>
+<li><a href="/wiki/Echeneque" title="Echeneque">Echeneque</a></li>
+<li><a href="/wiki/Echenequi" title="Echenequi">Echenequi</a></li>
+<li><a href="/wiki/Echenique" title="Echenique">Echenique</a></li>
+<li><a href="/wiki/Echeniquez" title="Echeniquez">Echeniquez</a></li>
+<li><a href="/wiki/Echeon" title="Echeon">Echeon</a></li>
+<li><a href="/wiki/Echeondo" title="Echeondo">Echeondo</a></li>
+<li><a href="/wiki/Echepare" title="Echepare">Echepare</a></li>
+<li><a href="/wiki/Echepareborda" title="Echepareborda">Echepareborda</a></li>
+<li><a href="/wiki/Echeparre" title="Echeparre">Echeparre</a></li>
+<li><a href="/wiki/Echepetelecu" title="Echepetelecu">Echepetelecu</a></li>
+<li><a href="/wiki/Echer" title="Echer">Echer</a></li>
+<li><a href="/wiki/Echerrain" title="Echerrain">Echerrain</a></li>
+<li><a href="/wiki/Echerreaga" title="Echerreaga">Echerreaga</a></li>
+<li><a href="/wiki/Echesarreta" title="Echesarreta">Echesarreta</a></li>
+<li><a href="/wiki/Echesortu" title="Echesortu">Echesortu</a></li>
+<li><a href="/wiki/Echeto" title="Echeto">Echeto</a></li>
+<li><a href="/wiki/Echetoa" title="Echetoa">Echetoa</a></li>
+<li><a href="/wiki/Echetorena" title="Echetorena">Echetorena</a></li>
+<li><a href="/wiki/Echetsury" title="Echetsury">Echetsury</a></li>
+<li><a href="/wiki/Echeun" title="Echeun">Echeun</a></li>
+<li><a href="/wiki/Echevarne" title="Echevarne">Echevarne</a></li>
+<li><a href="/wiki/Echevarrearza" title="Echevarrearza">Echevarrearza</a></li>
+<li><a href="/wiki/Echevarren" title="Echevarren">Echevarren</a></li>
+<li><a href="/wiki/Echevarrena" title="Echevarrena">Echevarrena</a></li>
+<li><a href="/wiki/Echevarri" title="Echevarri">Echevarri</a></li>
+<li><a href="/wiki/Echevarria" title="Echevarria">Echevarria</a></li>
+<li><a href="/wiki/Echevarria-Arteun" title="Echevarria-Arteun">Echevarria-Arteun</a></li>
+<li><a href="/wiki/Echevarria-Zarraga" title="Echevarria-Zarraga">Echevarria-Zarraga</a></li>
+<li><a href="/wiki/Echevarriagaray" title="Echevarriagaray">Echevarriagaray</a></li>
+<li><a href="/wiki/Echevarriarteun" title="Echevarriarteun">Echevarriarteun</a></li>
+<li><a href="/wiki/Echevarriazarraga" title="Echevarriazarraga">Echevarriazarraga</a></li>
+<li><a href="/wiki/Echevarrieta" title="Echevarrieta">Echevarrieta</a></li>
+<li><a href="/wiki/Echevarrietaaltaleorraga" title="Echevarrietaaltaleorraga">Echevarrietaaltaleorraga</a></li>
+<li><a href="/wiki/Echevarrioste" title="Echevarrioste">Echevarrioste</a></li>
+<li><a href="/wiki/Echevarr%C3%ADa" title="Echevarría">Echevarría</a></li>
+<li><a href="/wiki/Echevaster" title="Echevaster">Echevaster</a></li>
+<li><a href="/wiki/Echeve" title="Echeve">Echeve</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Domic" title="Especial:Todas">Página anterior (Domic)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Echeveguren" title="Especial:Todas">Página siguiente (Echeveguren)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DE" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DE" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=E" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=E&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=E&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":443,"wgHostname":"mw1253"});});</script></body></html>

@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wiktionary:Feedback - Wiktionary</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"XlgKWwpAIC0AAHin4pIAAACB","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wiktionary:Feedback","wgTitle":"Feedback","wgCurRevisionId":58754355,"wgRevisionId":58754355,"wgArticleId":1654534,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wiktionary pages with shortcuts","unsigned with standard timestamp"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Wiktionary:Feedback","wgRelevantArticleId":1654534,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wiktionary","wgWikibaseItemId":"Q37883652","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.column-hacks":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready"
+,"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","ext.gadget.LegacyScripts","ext.gadget.JavascriptHeadings","ext.gadget.TargetedTranslations","ext.gadget.DocTabs","ext.gadget.BlockInfo","ext.gadget.RevdelInfo","ext.gadget.CodeLinks","ext.gadget.TranslationAdder","ext.gadget.RhymesAdder","ext.gadget.SpecialSearch","ext.gadget.zhDialMap","ext.gadget.catfix","ext.gadget.Edittools","ext.gadget.defaultVisibilityToggles","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.column-hacks&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit"/>
+<link rel="edit" title="Edit" href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary/en.png"/>
+<link rel="shortcut icon" href="/static/favicon/wiktionary/en.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wiktionary (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wiktionary Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wiktionary.org/wiki/Wiktionary:Feedback"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject mw-editable page-Wiktionary_Feedback rootpage-Wiktionary_Feedback skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wiktionary:Feedback</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Definition from Wiktionary, the free dictionary</div>
+		<div id="contentSub"><div class="mw-revision warningbox"><div id="mw-revision-info">Archived revision by <a href="/wiki/User:Chuck_Entz" class="mw-userlink" title="User:Chuck Entz"><bdi>Chuck Entz</bdi></a> <span class="mw-usertoollinks">(<a href="/wiki/User_talk:Chuck_Entz" class="mw-usertoollinks-talk" title="User talk:Chuck Entz">talk</a> | <a href="/wiki/Special:Contributions/Chuck_Entz" class="mw-usertoollinks-contribs" title="Special:Contributions/Chuck Entz">contribs</a>)</span> as of 05:08, 27 February 2020.</div><div id="mw-revision-nav">(<a href="/w/index.php?title=Wiktionary:Feedback&amp;diff=prev&amp;oldid=58754355" title="Wiktionary:Feedback">diff</a>) <a href="/w/index.php?title=Wiktionary:Feedback&amp;direction=prev&amp;oldid=58754355" title="Wiktionary:Feedback">← Older revision</a> | Latest revision (diff) | Newer revision → (diff)</div></div></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="noprint plainlinks shortcut-box"><a href="/wiki/Wiktionary:Shortcut" title="Wiktionary:Shortcut">Shortcuts</a>:<br /><a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary%3AFEED&amp;redirect=no">WT:FEED</a><br /><a class="external text" href="https://en.wiktionary.org/w/index.php?title=Wiktionary%3AFB&amp;redirect=no">WT:FB</a><br /></div>
+<p>This page is for collecting feedback from Wiktionary readers.  It should be cleaned out on a three-month basis, as new comments are constantly being added. Feel free to reply to and discuss comments here, though bear in mind that the people who leave the feedback may never come back to read replies. By convention, the feedback is not archived.
+</p>
+<dl><dd><i>Links:</i> <a href="/wiki/User:Conrad.Irwin/feedback.js" title="User:Conrad.Irwin/feedback.js">Wiki Javascript</a> (for adding to your WMF Wiki.)</dd></dl>
+<table class="mw-collapsible mw-collapsed" style="text-align: left; border: 1px solid silver; margin: 0.1em 0; width:100%;">
+
+<tbody><tr>
+<th style="background-color: #CFC; padding: 0.2em 0.5em">Frequently asked questions
+</th></tr>
+<tr>
+<td style="border: solid 1px silver; padding: 8px; background-color: white;">
+<div style="">
+<div style="text-align: center;">Do you have general questions about the Wiktionary? See <a href="/wiki/Help:FAQ" title="Help:FAQ">Help:FAQ</a>.</div>
+<p><br clear="all" />
+</p>
+<ul><li><b>Q. Why don't you provide audio files giving the pronunciations of all entries?</b></li>
+<li>A. The recording of audio files requires volunteer editors who have the right equipment and software, and who know how to upload these files to the <a class="external text" href="https://commons.wikimedia.org">Wikimedia Commons</a>. All this is somewhat time-consuming, and it seems that at the moment we simply don't have editors who are able to do this for us regularly. We suggest that you learn how to read the <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet" class="extiw" title="w:International Phonetic Alphabet">International Phonetic Alphabet</a> (IPA) transcriptions of pronunciations. For English entries, you can visit <a href="/wiki/Appendix:English_pronunciation" title="Appendix:English pronunciation">Appendix:English pronunciation</a>, which you can also reach by clicking on the "(key)" link next to the word <i>IPA</i> on entry pages.</li></ul>
+<ul><li><b>Q. How do I propose that a Wiktionary for another language be started?</b></li>
+<li>A. See <a href="https://incubator.wikimedia.org/wiki/Help:Manual" class="extiw" title="incubator:Help:Manual">incubator:Help:Manual</a>.</li></ul>
+<p><br clear="all" />
+</p>
+<div style="text-align: center;">For questions about the <a href="/wiki/Wiktionary:Word_of_the_day" title="Wiktionary:Word of the day">Word of the Day</a>, see <a href="/wiki/Wiktionary:Word_of_the_day/FAQ" title="Wiktionary:Word of the day/FAQ">Wiktionary:Word of the day/FAQ</a>.</div>
+</div>
+</td></tr></tbody></table>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#December_2019"><span class="tocnumber">1</span> <span class="toctext">December 2019</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#malarkey"><span class="tocnumber">1.1</span> <span class="toctext">malarkey</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Foreign_word_of_the_day:_سُلَاف"><span class="tocnumber">1.2</span> <span class="toctext">Foreign word of the day: سُلَاف</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Schweinehund"><span class="tocnumber">1.3</span> <span class="toctext">Schweinehund</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Green_Monday"><span class="tocnumber">1.4</span> <span class="toctext">Green Monday</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Foreign_word_of_the_day:_too_much"><span class="tocnumber">1.5</span> <span class="toctext">Foreign word of the day: too much</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#slog"><span class="tocnumber">1.6</span> <span class="toctext">slog</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#gold_star_parent"><span class="tocnumber">1.7</span> <span class="toctext">gold star parent</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#gold_star_parent_2"><span class="tocnumber">1.8</span> <span class="toctext">gold star parent</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Talk:nigger"><span class="tocnumber">1.9</span> <span class="toctext">Talk:nigger</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Reconstruction:Proto-Finnic/kallis"><span class="tocnumber">1.10</span> <span class="toctext">Reconstruction:Proto-Finnic/kallis</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#自首"><span class="tocnumber">1.11</span> <span class="toctext">自首</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Chinese_translation"><span class="tocnumber">1.12</span> <span class="toctext">Chinese translation</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Word_of_the_day:_Brexiteer"><span class="tocnumber">1.13</span> <span class="toctext">Word of the day: Brexiteer</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#причина"><span class="tocnumber">1.14</span> <span class="toctext">причина</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#a"><span class="tocnumber">1.15</span> <span class="toctext">a</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#January_2020"><span class="tocnumber">2</span> <span class="toctext">January 2020</span></a>
+<ul>
+<li class="toclevel-2 tocsection-18"><a href="#mind_like_a_steel_trap"><span class="tocnumber">2.1</span> <span class="toctext">mind like a steel trap</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Wiktionary:Administrators"><span class="tocnumber">2.2</span> <span class="toctext">Wiktionary:Administrators</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#nevermind"><span class="tocnumber">2.3</span> <span class="toctext">nevermind</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Foreign_word_of_the_day:_barabara"><span class="tocnumber">2.4</span> <span class="toctext">Foreign word of the day: barabara</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#сношаться"><span class="tocnumber">2.5</span> <span class="toctext">сношаться</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#divertidos"><span class="tocnumber">2.6</span> <span class="toctext">divertidos</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Wiktionary:Requested_entries_(Middle_High_German)"><span class="tocnumber">2.7</span> <span class="toctext">Wiktionary:Requested entries (Middle High German)</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#cur"><span class="tocnumber">2.8</span> <span class="toctext">cur</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Word_of_the_day:_unobtainium"><span class="tocnumber">2.9</span> <span class="toctext">Word of the day: unobtainium</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#do"><span class="tocnumber">2.10</span> <span class="toctext">do</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Word_of_the_day:_high_crime"><span class="tocnumber">2.11</span> <span class="toctext">Word of the day: high crime</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#I_messed_up_an_edit..."><span class="tocnumber">2.12</span> <span class="toctext">I messed up an edit...</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Special:Search"><span class="tocnumber">2.13</span> <span class="toctext">Special:Search</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Word_of_the_day:_QED"><span class="tocnumber">2.14</span> <span class="toctext">Word of the day: QED</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#نطف"><span class="tocnumber">2.15</span> <span class="toctext">نطف</span></a></li>
+<li class="toclevel-2 tocsection-33"><a href="#Special:Contributions/Quesotiotyo"><span class="tocnumber">2.16</span> <span class="toctext">Special:Contributions/Quesotiotyo</span></a></li>
+<li class="toclevel-2 tocsection-34"><a href="#ὦ_μέγα"><span class="tocnumber">2.17</span> <span class="toctext">ὦ μέγα</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-35"><a href="#February_2020"><span class="tocnumber">3</span> <span class="toctext">February 2020</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Wiktionary:Main_Page"><span class="tocnumber">3.1</span> <span class="toctext">Wiktionary:Main Page</span></a></li>
+<li class="toclevel-2 tocsection-37"><a href="#Special:PermanentLink"><span class="tocnumber">3.2</span> <span class="toctext">Special:PermanentLink</span></a></li>
+<li class="toclevel-2 tocsection-38"><a href="#Foreign_word_of_the_day_(27_February):_ἀργός"><span class="tocnumber">3.3</span> <span class="toctext">Foreign word of the day (27 February): ἀργός</span></a></li>
+<li class="toclevel-2 tocsection-39"><a href="#1_Kings"><span class="tocnumber">3.4</span> <span class="toctext">1 Kings</span></a></li>
+<li class="toclevel-2 tocsection-40"><a href="#spruik"><span class="tocnumber">3.5</span> <span class="toctext">spruik</span></a></li>
+<li class="toclevel-2 tocsection-41"><a href="#duo-"><span class="tocnumber">3.6</span> <span class="toctext">duo-</span></a></li>
+<li class="toclevel-2 tocsection-42"><a href="#U.S._Navy_slang"><span class="tocnumber">3.7</span> <span class="toctext">U.S. Navy slang</span></a></li>
+<li class="toclevel-2 tocsection-43"><a href="#Reconstruction:Old_Median/úštrəh"><span class="tocnumber">3.8</span> <span class="toctext">Reconstruction:Old Median/úštrəh</span></a></li>
+<li class="toclevel-2 tocsection-44"><a href="#Wiktionary:Main_Page_2"><span class="tocnumber">3.9</span> <span class="toctext">Wiktionary:Main Page</span></a></li>
+<li class="toclevel-2 tocsection-45"><a href="#ferinus"><span class="tocnumber">3.10</span> <span class="toctext">ferinus</span></a></li>
+<li class="toclevel-2 tocsection-46"><a href="#lupus_in_fabula"><span class="tocnumber">3.11</span> <span class="toctext">lupus in fabula</span></a></li>
+<li class="toclevel-2 tocsection-47"><a href="#nuga"><span class="tocnumber">3.12</span> <span class="toctext">nuga</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h1><span class="mw-headline" id="December_2019">December 2019</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=1" title="Edit section: December 2019">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="malarkey"><a href="/wiki/malarkey" title="malarkey">malarkey</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=2" title="Edit section: malarkey">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Malarkey" is a fairly well-known expression among Irish-Americans. Just a guess as to its true etymology, there is an old Irish Gaelic word "mualach" which literally means cow-dung.
+</p>
+<dl><dd>I would heve expected an Irish connection, too, but the OED, in research for its June 2000 Third edition update, was unable to find any connection with either an Irish surname or the Irish language. <a href="/wiki/User:Dbfirs" title="User:Dbfirs"><i><font face="verdana"><font color="blue">D</font><font color="#00ccff">b</font><font color="#44ffcc">f</font><font color="66ff66">i</font><font color="44ee44">r</font><font color="44aa44">s</font></font></i></a> 04:36, 14 December 2019 (UTC)</dd></dl>
+<h2><span id="Foreign_word_of_the_day:_.D8.B3.D9.8F.D9.84.D9.8E.D8.A7.D9.81"></span><span class="mw-headline" id="Foreign_word_of_the_day:_سُلَاف">Foreign word of the day: <a href="/w/index.php?title=%D8%B3%D9%8F%D9%84%D9%8E%D8%A7%D9%81&amp;action=edit&amp;redlink=1" class="new" title="سُلَاف (page does not exist)">سُلَاف</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=3" title="Edit section: Foreign word of the day: سُلَاف">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The correct transliteration is sulāf, not sūlaf, as the Word of the Day post has it. The transliteration on the actual Wiktionary page is correct, however.
+</p>
+<dl><dd><a href="/wiki/File:Yes_check.svg" class="image"><img alt="Yes check.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></a>&#160;<b>Fixed</b>, thank you. —<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Μετάknowledge</a><small><sup><i><a href="/wiki/User_talk:Metaknowledge" title="User talk:Metaknowledge">discuss</a>/<a href="/wiki/Special:Contributions/Metaknowledge" title="Special:Contributions/Metaknowledge">deeds</a></i></sup></small> 03:29, 8 December 2019 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Schweinehund"><a href="/wiki/Schweinehund" title="Schweinehund">Schweinehund</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=4" title="Edit section: Schweinehund">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Schweinehund has fallen out of general usage and is most commonly used in the mentioned phrase "innerer Schweinehund," usually in a self-deprecating sense. As an insult it has been almost fully superseded by "Sauhund" q.v. <a rel="nofollow" class="external free" href="https://en.langenscheidt.com/german-english/sauhund">https://en.langenscheidt.com/german-english/sauhund</a> .
+</p>
+<h2><span class="mw-headline" id="Green_Monday"><a href="/wiki/Green_Monday" title="Green Monday">Green Monday</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=5" title="Edit section: Green Monday">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Please see Etymology 2. How is this shopping event environmentally friendly? &#8212;⁠<a href="/wiki/Special:Contributions/173.129.143.98" title="Special:Contributions/173.129.143.98">173.129.143.98</a> 23:51, 8 December 2019 (UTC)
+</p>
+<h2><span class="mw-headline" id="Foreign_word_of_the_day:_too_much">Foreign word of the day: <a href="/wiki/too_much" title="too much">too much</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=6" title="Edit section: Foreign word of the day: too much">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Example: "You're too much girl!" "That's too much, pl'ease!" These are examples of American English Slang. Meaning the exacerbated form of most any emotions, especially being taken-a-back, leads to "gasp", slang language.
+</p>
+<h2><span class="mw-headline" id="slog"><a href="/wiki/slog" title="slog">slog</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=7" title="Edit section: slog">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Not sure why the noun entry 1 states chiefly British or Canada. I grew up in East Texas and have lived on both coasts of the US and slog in this sense is not at all uncommon: "We got through it all right, but what a slog!" Heard that my whole life.
+</p>
+<dl><dd>Maybe some people are careful to add only usage that they know of for sure&#160;:). Adding "Texas" should be done by a Texan.</dd></dl>
+<dl><dd><dl><dd>Not just Britain and Canada. I grew up in New York City and suburbs and have lived in California (where I earned my PhD in linguistics at U Cal Berkeley), Massachusetts, and now in Philadelphia. I've heard and read "slog" used as noun and verb (see note) and never had reason to think of it as uncommon in US English.</dd>
+<dd>Noun only in def 1, "A long, tedious walk, or session of work."</dd>
+<dd>Verb only in defs 1 and 2:
+<ol><li>To walk slowly, encountering resistance.</li>
+<li>(by extension) To work slowly and deliberately at a tedious task.</li></ol></dd>
+<dd>--<a href="/wiki/User:Thnidu" title="User:Thnidu">Thnidu</a> (<a href="/wiki/User_talk:Thnidu" title="User talk:Thnidu">talk</a>) 16:42, 7 February 2020 (UTC)</dd></dl></dd></dl>
+<h2><span class="mw-headline" id="gold_star_parent"><a href="/wiki/gold_star_parent" title="gold star parent">gold star parent</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=8" title="Edit section: gold star parent">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I am the CEO of Gold Star Siblings,
+Could Gold Star Siblings be added? We are brothers and sisters of fallen Soldiers. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/w/index.php?title=User:The_Gold_Star_News&amp;action=edit&amp;redlink=1" class="new" title="User:The Gold Star News (page does not exist)">The Gold Star News</a> (<a href="/w/index.php?title=User_talk:The_Gold_Star_News&amp;action=edit&amp;redlink=1" class="new" title="User talk:The Gold Star News (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/The_Gold_Star_News" title="Special:Contributions/The Gold Star News">contribs</a>).</small>
+</p>
+<dl><dd>The entry that I deleted (created by <a href="/w/index.php?title=User:The_Name_Claim&amp;action=edit&amp;redlink=1" class="new" title="User:The Name Claim (page does not exist)">User:The Name Claim</a>), was "Gold Star Siblings" with the definition:
+<ol><li>"(US Military) the sibling of a U.S. soldier who was killed in action".</li></ol></dd>
+<dd>If that refers to "the sibling", how do you refer to more than one sibling? Why are all the words capitalized? You'll notice that the entry you linked to in your title is "<a href="/wiki/gold_star_parent" title="gold star parent">gold star parent</a>" not "<s>Gold Star Parents</s>". It looks to me like the definition of a common noun, <a href="/w/index.php?title=gold_star_sibling&amp;action=edit&amp;redlink=1" class="new" title="gold star sibling (page does not exist)">gold star sibling</a> was entered by mistake under the name of your organization rather than under its actual spelling.</dd>
+<dd>If you can show that <a href="/w/index.php?title=gold_star_sibling&amp;action=edit&amp;redlink=1" class="new" title="gold star sibling (page does not exist)">gold star sibling</a> is in use according to the standards of our <a href="/wiki/Wiktionary:CFI" class="mw-redirect" title="Wiktionary:CFI">Criteria for inclusion</a>, I won't stop you from creating the entry, though I suspect that it would be deletable as what we call "<a href="/wiki/Wiktionary:SOP" class="mw-redirect" title="Wiktionary:SOP">Sum of Parts</a>" (SOP for short). That is, if you know what <a href="/wiki/gold_star" title="gold star">gold star</a> means, than you could figure out what a gold star sibling is, a gold star grandparent, a gold star child, a gold star aunt, a gold star uncle, a gold star nephew, a gold star niece, etc. I'm not all that fond of our "gold star x" entries, but I wouldn't delete an existing one without having it discussed at <a href="/wiki/Wiktionary:RFDE" class="mw-redirect" title="Wiktionary:RFDE">Requests For Deletion/English</a>. Another admin might have moved it to the correct spelling and fixed it up, then nominated it for deletion, instead of doing what I did- it was a judgment call and I won't object if anyone wants to reverse my action and do something else with the entry (it would take an admin to do the first part). I stand by my decision, however, to not allow an entry at <a href="/w/index.php?title=Gold_Star_Siblings&amp;action=edit&amp;redlink=1" class="new" title="Gold Star Siblings (page does not exist)">Gold Star Siblings</a>. That would only be valid as the name of the organization, and we can't have entries for every organization on the planet.</dd>
+<dd>I should mention that I have nothing against your organization, but this is a dictionary and our entries are about words and phrases <i><b>as words and phrases</b></i>. In other words, our entry for <a href="/wiki/gold_star_parent" title="gold star parent">gold star parent</a> is about the <i>phrase</i> "gold star parent", not about the <i>subject of</i> gold star parents- that might be appropriate for an encyclopedia, but not a dictionary. <a href="/wiki/User:Chuck_Entz" title="User:Chuck Entz">Chuck Entz</a> (<a href="/wiki/User_talk:Chuck_Entz" title="User talk:Chuck Entz">talk</a>) 04:43, 13 December 2019 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="gold_star_parent_2"><a href="/wiki/gold_star_parent" title="gold star parent">gold star parent</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=9" title="Edit section: gold star parent">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<blockquote><p><span class="ib-brac">(</span><span class="ib-content"><a href="https://en.wikipedia.org/wiki/United_States" class="extiw" title="w:United States">US</a>&#32;&#32;<a href="/wiki/military" title="military">military</a></span><span class="ib-brac">)</span> the parent of a U.S. <a href="/wiki/soldier" title="soldier">soldier</a> who was <a href="/wiki/killed_in_action" title="killed in action">killed in action</a></p></blockquote>
+<p>Why does the definition specify a soldier? Are parents of airmen (for example) who were killed in action not considered gold star parents? &#8212;⁠<a href="/wiki/Special:Contributions/184.248.200.93" title="Special:Contributions/184.248.200.93">184.248.200.93</a> 02:32, 14 December 2019 (UTC)
+</p>
+<dl><dd>Probably because the person who created this knows nothing about most of the subjects they create entries in. I changed "U.S. <a href="/wiki/soldier" title="soldier">soldier</a>" to "member of the U.S. <a href="/wiki/armed_forces" title="armed forces">armed forces</a>" in all the "gold star" entries they created. <a href="/wiki/User:Chuck_Entz" title="User:Chuck Entz">Chuck Entz</a> (<a href="/wiki/User_talk:Chuck_Entz" title="User talk:Chuck Entz">talk</a>) 03:16, 14 December 2019 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Talk:nigger"><a href="/wiki/Talk:nigger" title="Talk:nigger">Talk:nigger</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=10" title="Edit section: Talk:nigger">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Around 1954-56 I asked my father what the word 'Nigger' meant and he tossed an old dictionary at me and said, "Look it up." 
+</p><p>So I did and found that their definition was: 
+</p><p>def 1. "...a liar, cheater and/or a thief"
+</p><p>def 2. "...a derogatory name for a negro"
+</p><p>Whenever I hear someone using that term I usually give them that definition adding that it doesn't just describe dark-skinned people, it covers <i>all</i> liars, cheaters and thieves. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/w/index.php?title=User:Bad-Bvr&amp;action=edit&amp;redlink=1" class="new" title="User:Bad-Bvr (page does not exist)">Bad-Bvr</a> (<a href="/w/index.php?title=User_talk:Bad-Bvr&amp;action=edit&amp;redlink=1" class="new" title="User talk:Bad-Bvr (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/Bad-Bvr" title="Special:Contributions/Bad-Bvr">contribs</a>).</small>
+</p>
+<dl><dd><del>Odd that this comes up frequently for you: that says a lot about you. Additionally, words change. Also, even <i>that</i> definition was racist, as it's predicate on black persons being liars, cheaters, or thieves. Please take your "I'm not touching you", gotcha games about racial slurs elsewhere.</del> —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 21:19, 15 December 2019 (UTC)
+<dl><dd>@<a href="/wiki/User:Koavf" title="User:Koavf">Koavf</a> You've misread the intent of the OP's quip, which is as a put-down for those who use the term. <s>←₰-→</s> <a href="/wiki/User:Lingo_Bingo_Dingo" title="User:Lingo Bingo Dingo"><small>Lingo</small> <sup>Bingo</sup> <sub>Dingo</sub></a> (<a href="/wiki/User_talk:Lingo_Bingo_Dingo" title="User talk:Lingo Bingo Dingo">talk</a>)  15:06, 16 December 2019 (UTC)
+<dl><dd>@<a href="/wiki/User:Lingo_Bingo_Dingo" title="User:Lingo Bingo Dingo">Lingo Bingo Dingo</a>:, I think you're right. @<a href="/w/index.php?title=User:Bad-Bvr&amp;action=edit&amp;redlink=1" class="new" title="User:Bad-Bvr (page does not exist)">Bad-Bvr</a>: excuse me for misreading what you wrote: I think I'm a bit too sensitive about this topic. —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 19:42, 16 December 2019 (UTC)</dd></dl></dd></dl></dd></dl>
+<h2><span id="Reconstruction:Proto-Finnic.2Fkallis"></span><span class="mw-headline" id="Reconstruction:Proto-Finnic/kallis"><a href="/wiki/Reconstruction:Proto-Finnic/kallis" title="Reconstruction:Proto-Finnic/kallis">Reconstruction:Proto-Finnic/kallis</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=11" title="Edit section: Reconstruction:Proto-Finnic/kallis">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Plötz (2013) did explicitly exclude a connection with *haldis ‘rather &lt; faster' (and why eastern-nordic????). Instead a connection with *xalthiya- ‘inclined &gt; dear' was proposed. Whoever wrote the wiktionary entry didn't read the article apart from the title or couldn't follow the argumentation.
+</p><p>Best regards. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/wiki/Special:Contributions/81.175.222.35" title="Special:Contributions/81.175.222.35">81.175.222.35</a> (<a href="/w/index.php?title=User_talk:81.175.222.35&amp;action=edit&amp;redlink=1" class="new" title="User talk:81.175.222.35 (page does not exist)">talk</a>)&#x20;at 21:53, 15 December 2019 (UTC).</small>
+</p>
+<h2><span id=".E8.87.AA.E9.A6.96"></span><span class="mw-headline" id="自首"><a href="/wiki/%E8%87%AA%E9%A6%96" title="自首">自首</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=12" title="Edit section: 自首">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wiktionary is perfect to me as it is; I am very happy with it and think nothing should be changed. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/wiki/Special:Contributions/200.231.87.244" title="Special:Contributions/200.231.87.244">200.231.87.244</a> (<a href="/w/index.php?title=User_talk:200.231.87.244&amp;action=edit&amp;redlink=1" class="new" title="User talk:200.231.87.244 (page does not exist)">talk</a>).</small>
+</p>
+<dl><dd>But what if we want to add even more content? 🤔 —<a href="/wiki/User:Suzukaze-c" title="User:Suzukaze-c">Suzukaze-c</a><a href="/wiki/User_talk:Suzukaze-c" title="User talk:Suzukaze-c">◇</a><a href="/wiki/Special:Contributions/Suzukaze-c" title="Special:Contributions/Suzukaze-c">◇</a> 00:52, 25 December 2019 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Chinese_translation">Chinese translation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=13" title="Edit section: Chinese translation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I found that the words "申报" in Chinese has being only translated as Report and declaration, which is very limited. "申报" in Chinese context should also be translated to "apply or application". This use can be found in many scientific writings in Chinese formal documents. I hope that Wiktionary can translate Chinese better suit to all the use.
+</p>
+<dl><dd>Not that I am aware of. Make sure you provide sources to your definitions next time. <a href="/wiki/User:Jamesjiao" title="User:Jamesjiao">Jamesjiao</a> → <sup><small><a href="/wiki/User_talk:Jamesjiao" title="User talk:Jamesjiao">T</a> ◊ <a href="/wiki/Special:Contributions/Jamesjiao" title="Special:Contributions/Jamesjiao">C</a></small></sup> 23:22, 30 January 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Word_of_the_day:_Brexiteer">Word of the day: <a href="/wiki/Brexiteer" title="Brexiteer">Brexiteer</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=14" title="Edit section: Word of the day: Brexiteer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>Discussion moved to </i><b><a href="/wiki/Wiktionary:Beer_parlour/2020/January#Word_of_the_day:_Brexiteer" title="Wiktionary:Beer parlour/2020/January">Wiktionary:Beer_parlour/2020/January#Word_of_the_day%3A_Brexiteer</a></b><i>.</i> <small><s>←₰-→</s> <a href="/wiki/User:Lingo_Bingo_Dingo" title="User:Lingo Bingo Dingo"><small>Lingo</small> <sup>Bingo</sup> <sub>Dingo</sub></a> (<a href="/wiki/User_talk:Lingo_Bingo_Dingo" title="User talk:Lingo Bingo Dingo">talk</a>)  09:07, 15 January 2020 (UTC)</small></dd></dl>
+<h2><span id=".D0.BF.D1.80.D0.B8.D1.87.D0.B8.D0.BD.D0.B0"></span><span class="mw-headline" id="причина"><a href="/wiki/%D0%BF%D1%80%D0%B8%D1%87%D0%B8%D0%BD%D0%B0" title="причина">причина</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=15" title="Edit section: причина">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thanks so much for Wiktionary! Это мне помогает учиться русский язык.
+</p>
+<h2><span class="mw-headline" id="a"><a href="/wiki/a" title="a">a</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=16" title="Edit section: a">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This particular generated web page is very broken - see the LUA out of memory type error messages - see <a class="external free" href="https://en.wiktionary.org/wiki/a#Scottish_Gaelic">https://en.wiktionary.org/wiki/a#Scottish_Gaelic</a>
+</p><p><a href="/wiki/Special:Contributions/2001:8B0:1CE:0:BD53:BD00:C6EF:E225" title="Special:Contributions/2001:8B0:1CE:0:BD53:BD00:C6EF:E225">2001:8B0:1CE:0:BD53:BD00:C6EF:E225</a> 12:12, 29 December 2019 (UTC)
+</p>
+<dl><dd>Thanks for this. Unfortunately, it's a known issue and there is no clear solution. —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 12:14, 29 December 2019 (UTC)</dd></dl>
+<h1><span class="mw-headline" id="January_2020">January 2020</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=17" title="Edit section: January 2020">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="mind_like_a_steel_trap"><a href="/wiki/mind_like_a_steel_trap" title="mind like a steel trap">mind like a steel trap</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=18" title="Edit section: mind like a steel trap">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>thank you
+</p>
+<h2><span class="mw-headline" id="Wiktionary:Administrators"><a href="/wiki/Wiktionary:Administrators" title="Wiktionary:Administrators">Wiktionary:Administrators</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=19" title="Edit section: Wiktionary:Administrators">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some one Changed My Setings Hack my Acount Cant recovered im not a developer im just A user I dont Know Why Doing this Some One Please Changed my Setings defoult I will be Very Thankfull to You <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/w/index.php?title=User:.Nafees791&amp;action=edit&amp;redlink=1" class="new" title="User:.Nafees791 (page does not exist)">.Nafees791</a> (<a href="/w/index.php?title=User_talk:.Nafees791&amp;action=edit&amp;redlink=1" class="new" title="User talk:.Nafees791 (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/.Nafees791" title="Special:Contributions/.Nafees791">contribs</a>).</small>
+</p>
+<dl><dd>@<a href="/w/index.php?title=User:.Nafees791&amp;action=edit&amp;redlink=1" class="new" title="User:.Nafees791 (page does not exist)">.Nafees791</a>: Reset your password, go to <a href="/wiki/Special:Preferences" title="Special:Preferences">Special:Preferences</a>. If you have lost access to your account, this is something that should be resolved on <a href="https://meta.wikimedia.org/wiki/" class="extiw" title="m:">m:</a> rather than here. —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 23:46, 5 January 2020 (UTC)
+<dl><dd><dl><dd>This account was created 1 minute before its first edit and 7 minutes before this was posted. The only other edits were random removal of parts of the entry at <a href="/wiki/borrowing" title="borrowing">borrowing</a>. The abuse log shows that there were two other equally damaging edits that were prevented by an abuse filter. It looks to me like they have no clue what they're doing, what accounts they have, or what website this is. <a href="/wiki/User:Chuck_Entz" title="User:Chuck Entz">Chuck Entz</a> (<a href="/wiki/User_talk:Chuck_Entz" title="User talk:Chuck Entz">talk</a>) 03:10, 6 January 2020 (UTC)</dd></dl></dd></dl></dd></dl>
+<h2><span class="mw-headline" id="nevermind"><a href="/wiki/nevermind" title="nevermind">nevermind</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=20" title="Edit section: nevermind">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thank you for wiktionary, it is a valuable resource for definitions, etimology, and word usage.
+</p><p>I have noticed a trend lately, authors seem to be advertising their own works by inserting quotes from their books as examples of word usage. Initially, this did not seem to be commonplace, but it is now quite pervasive. I'd be curious to see how many articles Wiktionary holds that contain quotes from books released in the last few years, especially by small or independant publishers. I am not certain how to easily address this misappropriation, but modern word usage can easily be attributed to news and mangazine articles instead of newly minted books. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/wiki/Special:Contributions/74.137.224.67" title="Special:Contributions/74.137.224.67">74.137.224.67</a> (<a href="/w/index.php?title=User_talk:74.137.224.67&amp;action=edit&amp;redlink=1" class="new" title="User talk:74.137.224.67 (page does not exist)">talk</a>).</small>
+</p>
+<dl><dd>Do you have examples of this? —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 21:02, 6 January 2020 (UTC)
+<dl><dd>It should be quite easy to find a number. We can fiddle with <code>&#123;&#123;<a href="/wiki/Template:quote-book" title="Template:quote-book">quote-book</a>&#125;&#125;</code> and find out anything published in a certain year. --<a href="/w/index.php?title=User:Yesyesandmaybe&amp;action=edit&amp;redlink=1" class="new" title="User:Yesyesandmaybe (page does not exist)">Yesyesandmaybe</a> (<a href="/w/index.php?title=User_talk:Yesyesandmaybe&amp;action=edit&amp;redlink=1" class="new" title="User talk:Yesyesandmaybe (page does not exist)">talk</a>) 16:07, 11 January 2020 (UTC)</dd></dl></dd></dl>
+<h2><span class="mw-headline" id="Foreign_word_of_the_day:_barabara">Foreign word of the day: <a href="/wiki/barabara" title="barabara">barabara</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=21" title="Edit section: Foreign word of the day: barabara">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Barabara also means a wide road, especially a tarmac road.
+</p>
+<h2><span id=".D1.81.D0.BD.D0.BE.D1.88.D0.B0.D1.82.D1.8C.D1.81.D1.8F"></span><span class="mw-headline" id="сношаться"><a href="/wiki/%D1%81%D0%BD%D0%BE%D1%88%D0%B0%D1%82%D1%8C%D1%81%D1%8F" title="сношаться">сношаться</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=22" title="Edit section: сношаться">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>there is russian and malagasy version of this page
+</p>
+<dl><dd>True. The inter-Wiktionary links can be found on the left-hand side of the page. Thankfully, they are added automatically - in the past we had to manually add them, which created so much work. --<a href="/w/index.php?title=User:Yesyesandmaybe&amp;action=edit&amp;redlink=1" class="new" title="User:Yesyesandmaybe (page does not exist)">Yesyesandmaybe</a> (<a href="/w/index.php?title=User_talk:Yesyesandmaybe&amp;action=edit&amp;redlink=1" class="new" title="User talk:Yesyesandmaybe (page does not exist)">talk</a>) 14:01, 13 January 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="divertidos"><a href="/wiki/divertidos" title="divertidos">divertidos</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=23" title="Edit section: divertidos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>divertidos is actually not a word
+</p>
+<h2><span id="Wiktionary:Requested_entries_.28Middle_High_German.29"></span><span class="mw-headline" id="Wiktionary:Requested_entries_(Middle_High_German)"><a href="/wiki/Wiktionary:Requested_entries_(Middle_High_German)" title="Wiktionary:Requested entries (Middle High German)">Wiktionary:Requested entries (Middle High German)</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=24" title="Edit section: Wiktionary:Requested entries (Middle High German)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I can't figure out how to add this entry, so perhaps if I write it out to you, you can do it. The entry is for the word 
+"Trump" which meant the contrary of "wis" (wise) or "fool" in the Middle LOW German of the mystic Mechthild of Magdeburg (c. 1207 – c. 1282-94). 
+In Mechthild's book "Das fliessende Licht der Gottheit" [The Flowing Light of the Godhead], MS (Books 1-5) 1250-1260, she wrote: 
+"Dú TRUMPheit behaget ir selbe alleine, dú wisheit kan niemer volleleren." 
+which is quoted on page xi of Bernard McGinn, "The Flowering of Mysticism: Men and Women in the New Mysticism—1200-1350," (NY: Crossroad Publishing, 1998), 
+and which McGinn translates as, "FOOLishness is satisfied with itself alone; wisdom can never learn enough." <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/w/index.php?title=User:WREverdell&amp;action=edit&amp;redlink=1" class="new" title="User:WREverdell (page does not exist)">WREverdell</a> (<a href="/w/index.php?title=User_talk:WREverdell&amp;action=edit&amp;redlink=1" class="new" title="User talk:WREverdell (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/WREverdell" title="Special:Contributions/WREverdell">contribs</a>)&#x20;at 20:56, 13 January 2020 (UTC).</small>
+</p>
+<dl><dd>Looks like your word is <i class="Latn mention" lang="gml"><a href="/w/index.php?title=trumpheit&amp;action=edit&amp;redlink=1" class="new" title="trumpheit (page does not exist)">trumpheit</a></i>, rather. Unfortunately, I am not qualified to add it myself. —<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Μετάknowledge</a><small><sup><i><a href="/wiki/User_talk:Metaknowledge" title="User talk:Metaknowledge">discuss</a>/<a href="/wiki/Special:Contributions/Metaknowledge" title="Special:Contributions/Metaknowledge">deeds</a></i></sup></small> 16:50, 14 January 2020 (UTC)</dd>
+<dd>It is a typo for <i>tumpheit</i>, Modern German <i class="Latn mention" lang="de"><a href="/wiki/Dummheit#German" title="Dummheit">Dummheit</a></i>: <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=Cb1bAAAAMAAJ&amp;dq=tumpheit&amp;hl=en">[1]</a>. &#160;--<a href="/wiki/User:Lambiam" title="User:Lambiam">Lambiam</a> 16:00, 17 January 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="cur"><a href="/wiki/cur" title="cur">cur</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=25" title="Edit section: cur">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Could 'Cur' be related to the Irish word 'Cú' (hound)?
+</p>
+<dl><dd>English <i class="Latn mention" lang="en"><a href="/wiki/hound#English" title="hound">hound</a></i> is a cognate of Irish <i class="Latn mention" lang="ga"><a href="/wiki/c%C3%BA#Irish" title="cú">cú</a></i>, both being descendants of Proto-Indo-European <i class="Latinx mention" lang="ine-pro"><a href="/wiki/Reconstruction:Proto-Indo-European/%E1%B8%B1w%E1%B9%93" title="Reconstruction:Proto-Indo-European/ḱwṓ">*ḱwṓ</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span class="mention-gloss-double-quote">“</span><span class="mention-gloss">dog</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren annotation-paren">)</span>, whence also Latin <i class="Latn mention" lang="la"><a href="/wiki/canis#Latin" title="canis">canis</a></i> and Ancient Greek <i class="polytonic mention" lang="grc"><a href="/wiki/%CE%BA%CF%8D%CF%89%CE%BD#Ancient_Greek" title="κύων">κύων</a></i> <span class="mention-gloss-paren annotation-paren">(</span><span lang="grc-Latn" class="mention-tr tr Latn">kúōn</span><span class="mention-gloss-paren annotation-paren">)</span>. The term <i class="Latn mention" lang="enm"><a href="/wiki/curre#Middle_English" title="curre">curre</a></i> is attested in Middle English (see the quotations <a rel="nofollow" class="external text" href="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED9181">here</a>), with the synonym <i>curdogge</i>. The resemblance is almost certainly a coincidence.  The Proto-Indo-European <span class="IPA">/kʲ/</span> already turned into an <span class="IPA">/x/</span> in Proto-Germanic, so the initial <span class="IPA">/k/</span> can only be explained if this is a loan from a non-Germanic language. The final ‹r› is even harder to explain. &#160;--<a href="/wiki/User:Lambiam" title="User:Lambiam">Lambiam</a> 15:45, 17 January 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Word_of_the_day:_unobtainium">Word of the day: <a href="/wiki/unobtainium" title="unobtainium">unobtainium</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=26" title="Edit section: Word of the day: unobtainium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Did you choose this because of my recent contributions to the <a href="/wiki/Category:Na%27vi_language" title="Category:Na&#39;vi language">Na'vi language</a>? --<a href="/wiki/User:Numberguy6" title="User:Numberguy6">Numberguy6</a> (<a href="/wiki/User_talk:Numberguy6" title="User talk:Numberguy6">talk</a>) 20:19, 17 January 2020 (UTC)
+</p>
+<dl><dd>Er, no. It's been on the WOTD nomination page since 2018. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 20:55, 17 January 2020 (UTC)
+<dl><dd>And it's a lot older than that among science fiction fans. (Sorry, got no citations.) --<a href="/wiki/User:Thnidu" title="User:Thnidu">Thnidu</a> (<a href="/wiki/User_talk:Thnidu" title="User talk:Thnidu">talk</a>) 16:31, 7 February 2020 (UTC)</dd></dl></dd></dl>
+<h2><span class="mw-headline" id="do"><a href="/wiki/do" title="do">do</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=27" title="Edit section: do">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are "Lua error: not enough memory" messages all over <a href="/wiki/do" title="do">do</a> from Serbo-Croatian onwards
+</p>
+<h2><span class="mw-headline" id="Word_of_the_day:_high_crime">Word of the day: <a href="/wiki/high_crime" title="high crime">high crime</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=28" title="Edit section: Word of the day: high crime">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<blockquote><p><small>The <a href="/wiki/trial" title="trial">trial</a> of <a href="https://en.wikipedia.org/wiki/Charles_I_of_England" class="extiw" title="w:Charles I of England">Charles I</a> for <a href="/wiki/high_treason" title="high treason">high treason</a> and other high crimes began on this day in 1649.</small></p></blockquote>
+<p>But there's an explanatory note at the very beginning of that Wikipedia article that states, "All dates in this article are given in the <a href="https://en.wikipedia.org/wiki/Julian_calendar" class="extiw" title="w:Julian calendar">Julian calendar</a>..." &#8212;⁠<a href="/wiki/Special:Contributions/173.129.82.73" title="Special:Contributions/173.129.82.73">173.129.82.73</a> 00:31, 20 January 2020 (UTC)
+</p>
+<dl><dd>Oops! Will fix this. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 04:21, 20 January 2020 (UTC)</dd>
+<dd><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pictogram_voting_keep.svg/18px-Pictogram_voting_keep.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pictogram_voting_keep.svg/27px-Pictogram_voting_keep.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pictogram_voting_keep.svg/36px-Pictogram_voting_keep.svg.png 2x" data-file-width="250" data-file-height="250" /> <b>Fixed</b> – moved it to 30 January 2020. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 05:02, 20 January 2020 (UTC)
+<dl><dd>Excellent. Cheers. &#8212;<a href="/wiki/Special:Contributions/173.129.82.73" title="Special:Contributions/173.129.82.73">173.129.82.73</a> 08:04, 20 January 2020 (UTC)</dd>
+<dd>Oh, I guess if the intent was to feature <i>high crime</i> as WotD to nearly coincide with the start of the Senate trial of DJT, or to mark the third anniversary of his inauguration, that's gone awry. &#8212;⁠<a href="/wiki/Special:Contributions/173.129.82.73" title="Special:Contributions/173.129.82.73">173.129.82.73</a> 08:12, 20 January 2020 (UTC)
+<dl><dd>No, actually it wasn't. <i>High crime</i> was set as WOTD on 3 November 2019, and I had no idea at that time when the Senate trial would have taken place. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 14:17, 20 January 2020 (UTC)
+<dl><dd>Seems silly to me to change a live WOTD that has already gone out in the RSS feeds because someone decided to be pedantic, but w/e. <a href="/wiki/User:%D7%A4%D6%BF%D7%99%D7%A0%D7%A6%D7%98%D7%A2%D7%A8%D7%A0%D7%99%D7%A9" title="User:פֿינצטערניש">פֿינצטערניש (Fintsternish), she/her</a> (<a href="/wiki/User_talk:%D7%A4%D6%BF%D7%99%D7%A0%D7%A6%D7%98%D7%A2%D7%A8%D7%A0%D7%99%D7%A9" title="User talk:פֿינצטערניש">talk</a>) 15:30, 20 January 2020 (UTC)
+<dl><dd>Oh well, it was changed five hours after it first went live. We might as well have a correct WOTD for the rest of the day. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 15:45, 20 January 2020 (UTC)</dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+<p>One more thing:
+</p>
+<blockquote><p><small>[H]e was found <a href="/wiki/guilty" title="guilty">guilty</a> and <a href="/wiki/execute" title="execute">executed</a> on 9 February 1649 (30 January).</small></p></blockquote>
+<p>He wasn't executed on the same day that he was found guilty. I suggest adding a comma after <i>guilty</i> and <i>was</i> before <i>executed</i>. &#8212;⁠<a href="/wiki/Special:Contributions/184.248.217.180" title="Special:Contributions/184.248.217.180">184.248.217.180</a> 02:45, 22 January 2020 (UTC)
+</p>
+<dl><dd><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pictogram_voting_keep.svg/18px-Pictogram_voting_keep.svg.png" decoding="async" width="18" height="18" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pictogram_voting_keep.svg/27px-Pictogram_voting_keep.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pictogram_voting_keep.svg/36px-Pictogram_voting_keep.svg.png 2x" data-file-width="250" data-file-height="250" /> <b>Fixed</b>. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 03:19, 22 January 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="I_messed_up_an_edit...">I messed up an edit...</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=29" title="Edit section: I messed up an edit...">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I added a meaning (the plural) to "<a href="/wiki/dast" title="dast">dast</a>" (English) and messed up somehow. The page needs to be fixed, but I have not been able to do so. 
+Please? Sorry! Thanks!
+PS: I think it is some sort of syntax error.
+</p>
+<dl><dd>The templates can be confusing to even long-term editors. I've cleaned it up now, although there is surely a more elegant solution. —<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Μετάknowledge</a><small><sup><i><a href="/wiki/User_talk:Metaknowledge" title="User talk:Metaknowledge">discuss</a>/<a href="/wiki/Special:Contributions/Metaknowledge" title="Special:Contributions/Metaknowledge">deeds</a></i></sup></small> 00:56, 21 January 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Special:Search"><a href="/wiki/Special:Search" title="Special:Search">Special:Search</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=30" title="Edit section: Special:Search">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I looked for the definition of "appertain." Instead of seeing an immediate definition, I had to wade through a sea of conjugation and etymology.
+</p>
+<h2><span class="mw-headline" id="Word_of_the_day:_QED">Word of the day: <a href="/wiki/QED" title="QED">QED</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=31" title="Edit section: Word of the day: QED">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I suggest linking <i>Initialism</i> to <a href="/wiki/initialism" title="initialism">its entry</a> because I imagine it's a word that most readers of English are unfamiliar with. &#8212;⁠<a href="/wiki/Special:Contributions/173.129.163.21" title="Special:Contributions/173.129.163.21">173.129.163.21</a> 14:55, 23 January 2020 (UTC)
+</p>
+<h2><span id=".D9.86.D8.B7.D9.81"></span><span class="mw-headline" id="نطف"><a href="/wiki/%D9%86%D8%B7%D9%81" title="نطف">نطف</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=32" title="Edit section: نطف">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>These verbs need to be conjugated...
+</p>
+<h2><span id="Special:Contributions.2FQuesotiotyo"></span><span class="mw-headline" id="Special:Contributions/Quesotiotyo"><a href="/wiki/Special:Contributions/Quesotiotyo" title="Special:Contributions/Quesotiotyo">Special:Contributions/Quesotiotyo</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=33" title="Edit section: Special:Contributions/Quesotiotyo">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Quesotiotyo - how do you select the groups of words you choose to edit?  Thank you, peabodybidsearly at gmail dot com
+</p>
+<dl><dd>@<a href="/wiki/User:Quesotiotyo" title="User:Quesotiotyo">Quesotiotyo</a>. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 19:00, 1 February 2020 (UTC)</dd></dl>
+<h2><span id=".E1.BD.A6_.CE.BC.CE.AD.CE.B3.CE.B1"></span><span class="mw-headline" id="ὦ_μέγα"><a href="/wiki/%E1%BD%A6_%CE%BC%CE%AD%CE%B3%CE%B1" title="ὦ μέγα">ὦ μέγα</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=34" title="Edit section: ὦ μέγα">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I think the pronunciation of Attic (5th BCE) and Egyptian (1st CE) are here for "omega" erroneously interchanged. Compare the pronunciations of "mega" for the same periods. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/wiki/Special:Contributions/90.187.69.181" title="Special:Contributions/90.187.69.181">90.187.69.181</a> (<a href="/w/index.php?title=User_talk:90.187.69.181&amp;action=edit&amp;redlink=1" class="new" title="User talk:90.187.69.181 (page does not exist)">talk</a>)&#x20;at 16:41, 31 January 2020 (UTC).</small>
+</p>
+<h1><span class="mw-headline" id="February_2020">February 2020</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=35" title="Edit section: February 2020">edit</a><span class="mw-editsection-bracket">]</span></span></h1>
+<h2><span class="mw-headline" id="Wiktionary:Main_Page"><a href="/wiki/Wiktionary:Main_Page" title="Wiktionary:Main Page">Wiktionary:Main Page</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=36" title="Edit section: Wiktionary:Main Page">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I've been wondering if the spelling of the word LIVE, as used in for example: "the TV show is LIVE," couldn't be changed to something less confusing. Such as LYVE, so as not to be confused with live, as in: "I live in Florida." Just a thought. Glynn A.
+</p>
+<dl><dd>We're a descriptive dictionary- we describe usage, we don't dictate it. Until actual speakers use that spelling, we can't include it. Besides which, any living language that's complex enough to use for everything is going to have parts that aren't logical. It's just something you have to allow for. <a href="/wiki/User:Chuck_Entz" title="User:Chuck Entz">Chuck Entz</a> (<a href="/wiki/User_talk:Chuck_Entz" title="User talk:Chuck Entz">talk</a>) 18:00, 1 February 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Special:PermanentLink"><a href="/wiki/Special:PermanentLink" title="Special:PermanentLink">Special:PermanentLink</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=37" title="Edit section: Special:PermanentLink">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I would really like to see a feature similar to Wikipedia's "Reading Lists," where you could save interesting entries for later reference. The current watchlist feature is geared towards watching entries for recent edits, if there have been no edits to the entry in a maximum of 30 days you must go to "edit watchlist" to even access them. <small class="unsigned">—This <a href="/wiki/Help:Signing_your_posts" class="mw-redirect" title="Help:Signing your posts">unsigned</a> comment was added by <a href="/w/index.php?title=User:ColorfulLanguage&amp;action=edit&amp;redlink=1" class="new" title="User:ColorfulLanguage (page does not exist)">ColorfulLanguage</a> (<a href="/w/index.php?title=User_talk:ColorfulLanguage&amp;action=edit&amp;redlink=1" class="new" title="User talk:ColorfulLanguage (page does not exist)">talk</a> • <a href="/wiki/Special:Contributions/ColorfulLanguage" title="Special:Contributions/ColorfulLanguage">contribs</a>)&#x20;at 17:27, 2 February 2020 (UTC).</small>
+</p>
+<dl><dd>Me too. --<a href="/wiki/User:Thnidu" title="User:Thnidu">Thnidu</a> (<a href="/wiki/User_talk:Thnidu" title="User talk:Thnidu">talk</a>) 16:28, 7 February 2020 (UTC)</dd></dl>
+<h2><span id="Foreign_word_of_the_day_.2827_February.29:_.E1.BC.80.CF.81.CE.B3.CF.8C.CF.82"></span><span class="mw-headline" id="Foreign_word_of_the_day_(27_February):_ἀργός">Foreign word of the day (27 February): <a href="/wiki/%E1%BC%80%CF%81%CE%B3%CF%8C%CF%82" title="ἀργός">ἀργός</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=38" title="Edit section: Foreign word of the day (27 February): ἀργός">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<blockquote><p>2. <a href="/wiki/swift" title="swift">swift</a> (<i>of dogs</i>)</p></blockquote>
+<p>Shouldn't <i>(of dogs)</i> go in front of <i>swift</i>? &#8212;<a href="/wiki/Special:Contributions/173.129.80.118" title="Special:Contributions/173.129.80.118">173.129.80.118</a> 11:41, 3 February 2020 (UTC)
+</p><p>Also, it should be <i>(of a dog)</i> because <i>ἀργός</i> is singular. (Pinging <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a>. The entry itself needs to be edited, as well, though.) &#8212;⁠<a href="/wiki/Special:Contributions/173.129.80.118" title="Special:Contributions/173.129.80.118">173.129.80.118</a> 14:24, 4 February 2020 (UTC)
+</p>
+<dl><dd>Pinging @<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Metaknowledge</a> as I only handle the (English) Word of the Day, not the foreign one. — <a href="/wiki/User:Sgconlaw" title="User:Sgconlaw">SGconlaw</a> (<a href="/wiki/User_talk:Sgconlaw" title="User talk:Sgconlaw">talk</a>) 14:29, 4 February 2020 (UTC)</dd></dl>
+<dl><dd><dl><dd>I haven't been running FWOTD for a while now, but it merely matches the formatting in the entry, and this is a case where customs vary in whether this is a context label (placed before a def'n) or a qualifier (placed after a def'n). —<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Μετάknowledge</a><small><sup><i><a href="/wiki/User_talk:Metaknowledge" title="User talk:Metaknowledge">discuss</a>/<a href="/wiki/Special:Contributions/Metaknowledge" title="Special:Contributions/Metaknowledge">deeds</a></i></sup></small> 16:40, 4 February 2020 (UTC)</dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd>@<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Μετάknowledge</a> O.K. What about <i>(of dogs)</i> vs. <i>(of a dog)</i>? &#8212;⁠<a href="/wiki/Special:Contributions/173.129.42.148" title="Special:Contributions/173.129.42.148">173.129.42.148</a> 05:36, 7 February 2020 (UTC)</dd></dl></dd></dl></dd></dl>
+<dl><dd><dl><dd><dl><dd><dl><dd>Also unstandardised and a matter of custom. —<a href="/wiki/User:Metaknowledge" title="User:Metaknowledge">Μετάknowledge</a><small><sup><i><a href="/wiki/User_talk:Metaknowledge" title="User talk:Metaknowledge">discuss</a>/<a href="/wiki/Special:Contributions/Metaknowledge" title="Special:Contributions/Metaknowledge">deeds</a></i></sup></small> 07:23, 7 February 2020 (UTC)</dd></dl></dd></dl></dd></dl></dd></dl>
+<h2><span class="mw-headline" id="1_Kings"><a href="/wiki/1_Kings" title="1 Kings">1 Kings</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=39" title="Edit section: 1 Kings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>HI, AM CYPRAIN. Why are some of the books of the BIBLE taking of?
+</p>
+<dl><dd>Can you reword that? —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 11:37, 7 February 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="spruik"><a href="/wiki/spruik" title="spruik">spruik</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=40" title="Edit section: spruik">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pronunciation is given as /spɹuːk/. 
+</p><p><a rel="nofollow" class="external text" href="https://www.collinsdictionary.com/us/dictionary/english/spruik">Collins</a> says 
+</p>
+<ul><li>spruik in British English<br />(ˈspruːɪk )</li>
+<li>spruik in American English<br />(spruːk)</li></ul>
+<p>I'd like to reflect this difference here in en:wikt, but I'm not sure of the code for it and I haven't time.
+</p><p>--<a href="/wiki/User:Thnidu" title="User:Thnidu">Thnidu</a> (<a href="/wiki/User_talk:Thnidu" title="User talk:Thnidu">talk</a>) 16:27, 7 February 2020 (UTC)
+</p>
+<h2><span class="mw-headline" id="duo-"><a href="/wiki/duo-" title="duo-">duo-</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=41" title="Edit section: duo-">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>you just copied Wikipedia
+</p>
+<dl><dd>Good thing that's allowed. —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 01:30, 11 February 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="U.S._Navy_slang">U.S. Navy slang</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=42" title="Edit section: U.S. Navy slang">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I was raised in the Navy and spent 3 yrs. in the Corps from 1971-74 and O was never a number. It was zero dark thirty.
+</p>
+<h2><span id="Reconstruction:Old_Median.2F.C3.BA.C5.A1tr.C9.99h"></span><span class="mw-headline" id="Reconstruction:Old_Median/úštrəh"><a href="/wiki/Reconstruction:Old_Median/%C3%BA%C5%A1tr%C9%99h" title="Reconstruction:Old Median/úštrəh">Reconstruction:Old Median/úštrəh</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=43" title="Edit section: Reconstruction:Old Median/úštrəh">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>We don't have Middle Median language. We have just few Median loanword from Old Persian.
+</p>
+<dl><dd>We don't have direct evidence, which is why we put a * in front. These are reconstructions based on information from descendant languages. We don't have entries for them in the main dictionary, but we do have a separate Reconstruction namespace. Please don't remove things from entries that you don't understand. <a href="/wiki/User:Chuck_Entz" title="User:Chuck Entz">Chuck Entz</a> (<a href="/wiki/User_talk:Chuck_Entz" title="User talk:Chuck Entz">talk</a>) 17:17, 17 February 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="Wiktionary:Main_Page_2"><a href="/wiki/Wiktionary:Main_Page" title="Wiktionary:Main Page">Wiktionary:Main Page</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=44" title="Edit section: Wiktionary:Main Page">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I wish there was a wiktionary search engine for firefox.
+</p>
+<dl><dd>There is. Just click on the three dot menu in the address bar and add the search engine. —<a href="/wiki/User:Koavf" title="User:Koavf">Justin (<span style="color:grey">ko<b>a</b>vf</span>)</a><span style="color:red">❤<a href="/wiki/User_talk:Koavf" title="User talk:Koavf">T</a>☮<a href="/wiki/Special:Contributions/Koavf" title="Special:Contributions/Koavf">C</a>☺<a href="/wiki/Special:EmailUser/Koavf" title="Special:EmailUser/Koavf">M</a>☯</span> 12:46, 18 February 2020 (UTC)</dd></dl>
+<h2><span class="mw-headline" id="ferinus"><a href="/wiki/ferinus" title="ferinus">ferinus</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=45" title="Edit section: ferinus">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>I have reasons to believe that the correct stress pattern of the Latin adjective "ferinus" is not /ˈfe.ri.nus/, [ˈfɛ.rɪ.n̪ʊs] but
+/fe.'ri:.nus/, [fɛ.'rɪ:.n̪ʊs]. Regards. GS
+</p>
+<h2><span class="mw-headline" id="lupus_in_fabula"><a href="/wiki/lupus_in_fabula" title="lupus in fabula">lupus in fabula</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=46" title="Edit section: lupus in fabula">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hi! Not a change, just a complement.
+</p><p>The equivalent of "lupus in fabula" in Jewish culture is: "we should have mentioned Messaiah!".
+</p><p>In yiddish: "me darf dermonen Meshikhn!". Probably exists in Hebrew, but I don't know.
+</p><p>Regards
+</p><p>Patrick Gordon
+</p>
+<h2><span class="mw-headline" id="nuga"><a href="/wiki/nuga" title="nuga">nuga</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=47" title="Edit section: nuga">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>nuga Latin is not in LSJ.  Only the plural nugae
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1303
+Cached time: 20200227050926
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐user]
+CPU time usage: 0.328 seconds
+Real time usage: 0.453 seconds
+Preprocessor visited node count: 1201/1000000
+Post‐expand include size: 12913/2097152 bytes
+Template argument size: 2653/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.129/10.000 seconds
+Lua memory usage: 6.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.978      1 -total
+ 26.64%   81.509      1 Template:label
+ 16.27%   49.782      2 Template:m
+ 12.58%   38.501      6 Template:m+
+ 12.36%   37.808      1 Template:shortcut
+  9.91%   30.310      9 Template:unsigned
+  8.38%   25.643      3 Template:IPAchar
+  6.57%   20.093      9 Template:user
+  3.73%   11.427      3 Template:Ping
+  1.82%    5.579      1 Template:temp
+-->
+
+<!-- Saved in parser cache with key enwiktionary:pcache:idhash:1654534-0!canonical and timestamp 20200227050926 and revision id 58754355
+ -->
+</div><noscript><img src="//en.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wiktionary.org/w/index.php?title=Wiktionary:Feedback&amp;oldid=58754355">https://en.wiktionary.org/w/index.php?title=Wiktionary:Feedback&amp;oldid=58754355</a>"</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wiktionary_pages_with_shortcuts" title="Category:Wiktionary pages with shortcuts">Wiktionary pages with shortcuts</a></li><li><a href="/wiki/Category:unsigned_with_standard_timestamp" title="Category:unsigned with standard timestamp">unsigned with standard timestamp</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wiktionary%3AFeedback&amp;returntoquery=oldid%3D58754355" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wiktionary%3AFeedback&amp;returntoquery=oldid%3D58754355" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wiktionary:Feedback" title="View the project page [c]" accesskey="c">Project page</a></li><li id="ca-talk"><a href="/wiki/Wiktionary_talk:Feedback" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wiktionary:Feedback">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-addsection" class="collapsible"><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=edit&amp;section=new" title="Start a new section [+]" accesskey="+"> + </a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wiktionary" title="Search Wiktionary [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Wiktionary:Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-text"><a href="/wiki/Wiktionary:Main_Page">Main Page</a></li><li id="n-portal"><a href="/wiki/Wiktionary:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-wiktprefs"><a href="/wiki/Wiktionary:Per-browser_preferences">Preferences</a></li><li id="n-requestedarticles"><a href="/wiki/Wiktionary:Requested_entries">Requested entries</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random page [x]" accesskey="x">Random entry</a></li><li id="n-help"><a href="https://en.wiktionary.org/wiki/Help:Contents" title="The place to find out">Help</a></li><li id="n-Glossary"><a href="/wiki/Appendix:Glossary">Glossary</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wiktionary.org&amp;uselang=en" title="Support us">Donations</a></li><li id="n-contact"><a href="/wiki/Wiktionary:Contact_us">Contact us</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wiktionary:Feedback" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wiktionary:Feedback" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=en" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wiktionary:Feedback&amp;oldid=58754355" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wiktionary:Feedback&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q37883652" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		In other languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wiktionary.org/wiki/%D9%88%D9%8A%D9%83%D8%A7%D9%85%D9%88%D8%B3:%D8%A7%D8%B3%D8%AA%D8%B7%D9%84%D8%A7%D8%B9_%D8%B1%D8%A3%D9%8A" title="ويكاموس:استطلاع رأي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wiktionary.org/wiki/Wiktionnaire:Livre_d%E2%80%99or" title="Wiktionnaire:Livre d’or – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wiktionary.org/wiki/Wiktionary:Feedback" title="Wiktionary:Feedback – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wiktionary.org/wiki/Vikis%C3%B6zl%C3%BCk:Geribildirim" title="Vikisözlük:Geribildirim – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q37883652#sitelinks-wiktionary" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wiktionary%3AFeedback">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wiktionary%3AFeedback&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wiktionary:Feedback&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 27 February 2020, at 05:08.</li>
+		<li id="footer-info-copyright">Text is available under the <a href="//creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy.</a></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wiktionary:About" class="mw-redirect" title="Wiktionary:About">About Wiktionary</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wiktionary:General_disclaimer" title="Wiktionary:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wiktionary.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wiktionary.org/w/index.php?title=Wiktionary:Feedback&amp;oldid=58754355&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.453","ppvisitednodes":{"value":1201,"limit":1000000},"postexpandincludesize":{"value":12913,"limit":2097152},"templateargumentsize":{"value":2653,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  305.978      1 -total"," 26.64%   81.509      1 Template:label"," 16.27%   49.782      2 Template:m"," 12.58%   38.501      6 Template:m+"," 12.36%   37.808      1 Template:shortcut","  9.91%   30.310      9 Template:unsigned","  8.38%   25.643      3 Template:IPAchar","  6.57%   20.093      9 Template:user","  3.73%   11.427      3 Template:Ping","  1.82%    5.579      1 Template:temp"]},"scribunto":{"limitreport-timeusage":{"value":"0.129","limit":"10.000"},"limitreport-memusage":{"value":7133031,"limit":52428800}},"cachereport":{"origin":"mw1303","timestamp":"20200227050926","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1324"});});</script></body></html>

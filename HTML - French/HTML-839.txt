@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Audience d'un site Web — Wikipédia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XlohJQpAMMMAAPzE52MAAAAV","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Audience_d'un_site_Web","wgTitle":"Audience d'un site Web","wgCurRevisionId":164181269,"wgRevisionId":164181269,"wgArticleId":660379,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Article contenant un appel à traduction en anglais","Portail:Internet/Articles liés","Portail:Informatique/Articles liés","Portail:Médias/Articles liés",
+"Analyse du web","Administration réseau","World Wide Web"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext","wgRelevantPageName":"Audience_d'un_site_Web","wgRelevantArticleId":660379,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Mesure_d'audience_sur_Internet","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Audience_d%27un_site_Web","wgWikibaseItemId":"Q11282955","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ArchiveLinks","ext.gadget.MonobookToolbarStandard","ext.gadget.Wdsearch","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/fd/WebTrafficGraph.gif"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipédia (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikipédia" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikipedia.org/wiki/Audience_d%27un_site_Web"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Audience_d_un_site_Web rootpage-Audience_d_un_site_Web skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Audience d'un site Web</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Un article de Wikipédia, l&#039;encyclopédie libre.</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">(Redirigé depuis <a href="/w/index.php?title=Mesure_d%27audience_sur_Internet&amp;redirect=no" class="mw-redirect" title="Mesure d&#039;audience sur Internet">Mesure d&#039;audience sur Internet</a>)</span></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:290px;"><a href="/wiki/Fichier:WebTrafficGraph.gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/fd/WebTrafficGraph.gif" decoding="async" width="288" height="118" class="thumbimage" data-file-width="288" data-file-height="118" /></a>  <div class="thumbcaption">Trafic Web de Wikipédia en décembre 2004</div></div></div>
+<p>L'<b>Audience d'un site web</b> est l'ensemble des personnes qui visitent ce site web.
+Sur internet, il existe plusieurs indicateurs permettant de <b>mesurer l'audience d'un site web</b>, tels que le nombre de visiteurs uniques, le nombre de pages vues, le nombre de visites, la durée moyenne des visites etc. La mesure, la collecte et l'analyse de données provenant d'Internet (ce qu'on appelle en anglais <i><b>Web analytics</b></i>) permettent de comprendre et d’optimiser les usages du web.
+</p><p><br />
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2 id="mw-toc-heading">Sommaire</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Contexte_et_principaux_indicateurs_utilisés"><span class="tocnumber">1</span> <span class="toctext">Contexte et principaux indicateurs utilisés</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#La_mesure_centrée-site_(site-centric)"><span class="tocnumber">2</span> <span class="toctext">La mesure centrée-site (<i>site-centric</i>)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#L&#39;analyse_des_journaux_ou_«_log_files_»"><span class="tocnumber">2.1</span> <span class="toctext">L'analyse des journaux ou «&#160;log files&#160;»</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#La_mesure_de_fréquentation_par_marqueurs_Tag"><span class="tocnumber">2.2</span> <span class="toctext">La mesure de fréquentation par marqueurs Tag</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#La_mesure_centrée-utilisateur_(user-centric)"><span class="tocnumber">3</span> <span class="toctext">La mesure centrée-utilisateur (<i>user-centric</i>)</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Méthodes_mixtes_dites_«_hybrides_»"><span class="tocnumber">4</span> <span class="toctext">Méthodes mixtes dites «&#160;hybrides&#160;»</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Autres_méthodes"><span class="tocnumber">5</span> <span class="toctext">Autres méthodes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#L&#39;argument_financier"><span class="tocnumber">5.1</span> <span class="toctext">L'argument financier</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Définitions_et_vocabulaire"><span class="tocnumber">6</span> <span class="toctext">Définitions et vocabulaire</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Méthodes_liées_aux_web_Analytics"><span class="tocnumber">7</span> <span class="toctext">Méthodes liées aux web Analytics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Les_problèmes_inhérents_aux_cookies"><span class="tocnumber">7.1</span> <span class="toctext">Les problèmes inhérents aux cookies</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Tag_Management_System"><span class="tocnumber">7.2</span> <span class="toctext">Tag Management System</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes_et_références"><span class="tocnumber">8</span> <span class="toctext">Notes et références</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Voir_aussi"><span class="tocnumber">9</span> <span class="toctext">Voir aussi</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Articles_connexes"><span class="tocnumber">9.1</span> <span class="toctext">Articles connexes</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Bibliographie"><span class="tocnumber">9.2</span> <span class="toctext">Bibliographie</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span id="Contexte_et_principaux_indicateurs_utilis.C3.A9s"></span><span class="mw-headline" id="Contexte_et_principaux_indicateurs_utilisés">Contexte et principaux indicateurs utilisés</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Contexte et principaux indicateurs utilisés">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=1" title="Modifier la section : Contexte et principaux indicateurs utilisés">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>L'analyse de l'<a href="/wiki/Audience_(m%C3%A9dia)" title="Audience (média)">audience</a> d'un site web peut notamment être pratiquée dans le cadre de l'<a href="/wiki/Optimisation_pour_les_moteurs_de_recherche" title="Optimisation pour les moteurs de recherche">optimisation pour les moteurs de recherche</a> (SEO)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite_crochet">[</span>1<span class="cite_crochet">]</span></a></sup>. Dans un contexte de vente <a href="/wiki/En_ligne" class="mw-redirect" title="En ligne">en ligne</a>, les mesures d'audience font référence à la <a href="/wiki/Mesure_physique" title="Mesure physique">mesure</a> d'aspects d'un <a href="/wiki/Site_web" title="Site web">site web</a> liés à la <a href="/wiki/Strat%C3%A9gie" title="Stratégie">stratégie</a> commerciale de l'<a href="/wiki/Entreprise" title="Entreprise">entreprise</a> comme quelles sont les <a href="/wiki/Pages_web" class="mw-redirect" title="Pages web">pages web</a> ayant conduit au plus grand nombre d'achats en ligne&#160;?
+</p><p>Dans un contexte de <a href="/wiki/Business_to_business_(Internet)" title="Business to business (Internet)">Business to Business</a>, en plus de la mesure quantitative, il est possible d'avoir une mesure qualitative du trafic grâce à la collecte de informations centrées client (<i>customer-centrics</i>), comme les <a href="/wiki/Adresses_IP" class="mw-redirect" title="Adresses IP">Adresses IP</a>. Pour différencier les solutions standard de <i>Web Analytics</i> celles-ci sont qualifiées de solutions <i>Web Analytics B2B</i>.
+</p><p>Les mesures d'audience et de fréquentation sur Internet se classent en trois grandes familles&#160;:
+</p>
+<ul><li>la mesure centrée-site (<i>site-centric</i>)&#160;;</li>
+<li>la mesure centrée-utilisateur (<i>user-centric</i>)&#160;;</li>
+<li>la mesure centrée-visiteur identifié sous forme de Raison Sociale (<i>customer-centrics</i>).</li></ul>
+<p>Il est possible de mesurer le trafic de différentes façons dont&#160;:
+</p>
+<ul><li>la volumétrie de données&#160;;</li>
+<li>le nombre de visiteurs uniques&#160;;</li>
+<li>le nombre de pages affichées.</li></ul>
+<p>Avec les outils actuels, par exemple <a href="/wiki/Google_Analytics" title="Google Analytics">Google Analytics</a>, Adobe Analytics, <a href="/w/index.php?title=Webtrends&amp;action=edit&amp;redlink=1" class="new" title="Webtrends (page inexistante)">Webtrends</a>&#160;<a href="https://en.wikipedia.org/wiki/Webtrends" class="extiw" title="en:Webtrends"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Webtrends&#32;» dans une autre langue">(en)</span></a> Analytics, <a href="/wiki/Matomo_(logiciel)" title="Matomo (logiciel)">Matomo</a> ou Analyzer NX d'<a href="/wiki/AT_Internet" title="AT Internet">AT Internet</a>, il est possible de rentrer plus en détail dans l'analyse du trafic, entre autres&#160;:
+</p>
+<ul><li>l'origine des visiteurs&#160;;</li>
+<li>le taux de conversion&#160;;</li>
+<li>le temps passé&#160;;</li>
+<li>le taux de rebond&#160;;</li>
+<li>la technologie utilisée sur le poste client&#160;;</li>
+<li>la configuration utilisée par le poste client&#160;;</li>
+<li>le contenu.</li></ul>
+<h2><span id="La_mesure_centr.C3.A9e-site_.28site-centric.29"></span><span class="mw-headline" id="La_mesure_centrée-site_(site-centric)">La mesure centrée-site (<i>site-centric</i>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : La mesure centrée-site (site-centric)">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=2" title="Modifier la section : La mesure centrée-site (site-centric)">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>La mesure <i>site-centric</i> est une mesure basée sur le site Internet. Deux approches technologiques sont aujourd'hui utilisées&#160;:
+</p>
+<ul><li>l'analyse des Logs&#160;;</li>
+<li>la technologie dite des marqueurs TAG.</li></ul>
+<h3><span id="L.27analyse_des_journaux_ou_.C2.AB_log_files_.C2.BB"></span><span class="mw-headline" id="L'analyse_des_journaux_ou_«_log_files_»">L'analyse des journaux ou «&#160;log files&#160;»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : L&#039;analyse des journaux ou « log files »">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=3" title="Modifier la section : L&#039;analyse des journaux ou « log files »">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Un journal (en anglais <i>log file</i> ou plus simplement <i>log</i>), est un fichier texte regroupant l’ensemble des événements survenus sur un serveur web incluant les requêtes et les réponses. Les <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">journaux</a> sont des <a href="/wiki/Fichier_informatique" title="Fichier informatique">fichiers</a> générés par les <a href="/wiki/Serveur_web" title="Serveur web">serveurs web</a> à chacune de leurs <a href="/wiki/Transactions" class="mw-redirect" title="Transactions">transactions</a>. On peut en modifier le format pour les rendre plus compatibles avec les différents outils d'analyse. Le serveur Web (Apache, IIS) qui délivre un site Internet note également dans un fichier (appelé Log) toutes les demandes (<a href="/wiki/Hit_(informatique)" title="Hit (informatique)">Hits</a>) de fichiers qui lui sont faites. Il s'agit donc d'analyser ces fichiers afin d'obtenir les données statistiques de fréquentation d'un site Internet.
+</p>
+<h3><span id="La_mesure_de_fr.C3.A9quentation_par_marqueurs_Tag"></span><span class="mw-headline" id="La_mesure_de_fréquentation_par_marqueurs_Tag">La mesure de fréquentation par marqueurs Tag</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : La mesure de fréquentation par marqueurs Tag">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=4" title="Modifier la section : La mesure de fréquentation par marqueurs Tag">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alternative à l'analyse des fichiers logs serveur, les technologies de marqueurs, appelés en anglais <i>tags</i> (on parle aussi de <a href="/w/index.php?title=Web_beacons&amp;action=edit&amp;redlink=1" class="new" title="Web beacons (page inexistante)">web beacons</a>&#160;<a href="https://en.wikipedia.org/wiki/web_beacons" class="extiw" title="en:web beacons"><span class="indicateur-langue" title="Équivalent de l’article «&#32;web beacons&#32;» dans une autre langue">(en)</span></a> ou de <a href="/w/index.php?title=Web_bugs&amp;action=edit&amp;redlink=1" class="new" title="Web bugs (page inexistante)">web bugs</a>&#160;<a href="https://en.wikipedia.org/wiki/web_bugs" class="extiw" title="en:web bugs"><span class="indicateur-langue" title="Équivalent de l’article «&#32;web bugs&#32;» dans une autre langue">(en)</span></a> qu'on peut traduire par mouchards) permettent aussi une analyse du trafic. Les marqueurs ou <i>tags</i> sont généralement des appels d'images invoqués par <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> dans le code de la <a href="/wiki/Page_web" title="Page web">page web</a>. Ils doivent donc être soigneusement ajoutés dans chaque page à analyser.
+</p><p>La mesure de fréquentation par marqueurs consiste à marquer chaque page d’un site avec un code (javascript généralement). Lorsqu'une page est appelée par un navigateur, le code placé sur la page envoie une requête à un serveur de comptage qui comptabilisera le trafic ainsi généré. L’intérêt du <i>site-centric</i> est d’offrir une mesure exhaustive de la fréquentation d'un site sur les critères des visites et des pages vues. Ce type de mesure permet également une mesure très fine des rubriques/sous-rubriques et une analyse de la fréquentation jour/jour. La mesure <i>site-centric</i> s'adapte aussi bien à la mesure de l'Internet fixe que mobile.
+</p><p>L'<a href="/wiki/OJD" class="mw-redirect" title="OJD">OJD</a>, dont le rôle est de dresser des procès-verbaux d'audience des différents médias et notamment les sites Internet, n'a retenu que la mesure par marqueurs pour la mesure de la fréquentation des sites Internet.
+</p>
+<h2><span id="La_mesure_centr.C3.A9e-utilisateur_.28user-centric.29"></span><span class="mw-headline" id="La_mesure_centrée-utilisateur_(user-centric)">La mesure centrée-utilisateur (<i>user-centric</i>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : La mesure centrée-utilisateur (user-centric)">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=5" title="Modifier la section : La mesure centrée-utilisateur (user-centric)">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En B to C, la mesure centrée utilisateur est une mesure basée sur un panel d’internautes. La mesure par panel repose sur la constitution d’un échantillon d’internautes que l’on équipe d’un logiciel de suivi de l’audience qui enregistrera l’intégralité des usages internet. Pour assurer la représentativité d’un tel panel, il est nécessaire de mener une étude de cadrage qui indiquera la structure que le panel devra avoir. Enfin pour être en mesure de produire des résultats au niveau individuel, l’ensemble des membres des foyers recrutés sont intégrés dans le panel avec un identifiant propre à chacun. 
+</p><p>L'intérêt du centrée utilisateur est d'offrir une base de comparaison cohérente des principaux sites en termes de pénétration en France et sur leur marché, et de connaître le profil des internautes.
+</p><p>En B to B la mesure centrée utilisateur est optimisée en centrée client (<i>customer centrics</i>)&#160;» et est une mesure basée sur la révélation des noms d'Organisations qui visitent un site web. La mesure repose donc sur une analyse de 100&#160;% du trafic et permet d'apporter une vue segmentée du visitorat. Ceci permet de mener des audits de sites web fin au regard des objectifs des Stratégies Digitales B to B. Et de manière plus poussée, cela aide à la mise en place d'objectifs SMART (Spécifique, Mesurable, Ambitieux, délimités dans le Temps) pour les équipes Webmarketing.
+</p><p>Un autre intérêt majeur de la mesure centrée client est la possibilité de mesurer le capital relationnel web des visiteurs de votre site web et de le transformer en avantage concurrentiel pour les équipes de ventes.
+</p>
+<h2><span id="M.C3.A9thodes_mixtes_dites_.C2.AB_hybrides_.C2.BB"></span><span class="mw-headline" id="Méthodes_mixtes_dites_«_hybrides_»">Méthodes mixtes dites «&#160;hybrides&#160;»</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Méthodes mixtes dites « hybrides »">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=6" title="Modifier la section : Méthodes mixtes dites « hybrides »">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Certains outils d'analyse Web utilisent une méthode <a href="/wiki/Hybride" title="Hybride">hybride</a> qui consiste à insérer par <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> les informations correspondant aux marqueurs dans les <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">logs</a>.
+</p><p>De nombreux administrateurs de système utilisent un outil d'analyse des logs conjointement avec un système de marqueurs.
+</p>
+<h2><span id="Autres_m.C3.A9thodes"></span><span class="mw-headline" id="Autres_méthodes">Autres méthodes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Autres méthodes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=7" title="Modifier la section : Autres méthodes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>L'analyse de <a href="/wiki/Trame_(informatique)" title="Trame (informatique)">trames réseau</a> (en anglais <a href="/wiki/Analyseur_de_paquets" title="Analyseur de paquets">packet sniffing</a>), permet d'observer l'activité réseau d'un <a href="/wiki/Serveur_web" title="Serveur web">serveur web</a> et d'en déduire son trafic. À l'instar d'une solution de type <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">logs</a>, on y perd les notions d'événements et d'interactivité.
+</p>
+<h3><span id="L.27argument_financier"></span><span class="mw-headline" id="L'argument_financier">L'argument financier</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Modifier la section : L&#039;argument financier">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=8" title="Modifier la section : L&#039;argument financier">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Les <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">logs</a> sont générés automatiquement par le <a href="/wiki/Serveur_web" title="Serveur web">serveur web</a> mais peuvent, au bout d'un certain temps, représenter une masse de données assez considérable (plusieurs <a href="/wiki/Gigaoctet" class="mw-redirect" title="Gigaoctet">gigaoctets</a>). Il devient préférable de générer des <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">logs</a> par semaine ou par mois de l'année. Ces <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">logs</a> doivent être stockés et pouvoir être aussi accessibles et transférables que possible.
+</p><p>Les méthodes à base de tags stockent leurs informations directement dans une <a href="/wiki/Base_de_donn%C3%A9es" title="Base de données">base de données</a> qui sert par la suite à générer les rapports et/ou à exporter ces données vers différents systèmes d'information.
+</p>
+<h2><span id="D.C3.A9finitions_et_vocabulaire"></span><span class="mw-headline" id="Définitions_et_vocabulaire">Définitions et vocabulaire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Modifier la section : Définitions et vocabulaire">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=9" title="Modifier la section : Définitions et vocabulaire">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Pages vues&#160;: Désigne le nombre de fois où une <a href="/wiki/Page_web" title="Page web">page web</a> est affichée ('rendue') dans un <a href="/wiki/Navigateur_web" title="Navigateur web">navigateur web</a> pour une période donnée (par défaut, on parle de pages vues par mois)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite_crochet">[</span>2<span class="cite_crochet">]</span></a></sup>. On parle aussi d'impressions.</li>
+<li>Visites (ou sessions)&#160;: Une visite est définie comme une série de <a href="/wiki/Pages_web" class="mw-redirect" title="Pages web">pages web</a> consultées de façon consécutive durant un laps de temps défini. On parle aussi de <a href="/wiki/Session_(informatique)" title="Session (informatique)">sessions</a>.</li>
+<li>Visiteur / visiteur unique (ou utilisateur)&#160;: Un visiteur est un <a href="/wiki/Internaute" title="Internaute">internaute</a> qui:
+<ul><li>consulte une série de <a href="/wiki/Pages_web" class="mw-redirect" title="Pages web">pages web</a> consécutives (détectées par les tags)</li>
+<li>effectue une série de requêtes <a href="/wiki/Web" class="mw-redirect" title="Web">Web</a> (enregistrées dans les <a href="/wiki/Historique_(informatique)" title="Historique (informatique)">logs</a>)</li></ul></li></ul>
+<dl><dd>Le caractère unique vient de l'attribution d'un identifiant unique&#160;: numéro de session (<a href="/wiki/Historique_(informatique)" title="Historique (informatique)">log</a>) ou <a href="/wiki/Cookie_(informatique)" title="Cookie (informatique)">cookie</a>.</dd>
+<dd>Le visiteur unique se définit comme le dédoublonnement des visites sur la base d'un cookie. La notion de visiteur unique est liée au temps (visiteur unique sur une journée, une semaine, un mois…). Il y a de grandes discussions sur cette notion puisque les outils <i>site centric</i> mesurent précisément des "navigateurs uniques" et ne savent pas reconnaitre la même personne connectée depuis son travail et depuis son domicile alors que les outils <i>user centric</i> savent reconnaitre la personne mais n'ont en général pas assez de données pour faire une mesure précise.</dd></dl>
+<ul><li>Temps moyen par visite&#160;: c'est la moyenne des temps des visites mesurées sur un site. Cette moyenne ne prend en compte que les visites d'au moins deux pages vues afin d'avoir un temps.</li>
+<li>Taux de rebond (<i>Bounce Rate</i> en anglais)&#160;: indique, en pourcentage, le nombre des visiteurs qui n'ont visité qu'une seule page d'un site web donné par rapport au nombre total de visiteurs de ce site. Un fort taux de rebond n'est pas nécessairement une mauvaise chose pour un site quand il s'agit d'un visiteur voulant une donnée précise, de type: numéro de téléphone, adresse, nombre d'habitants, etc. Tels les annuaires, dictionnaires... Mais, plus généralement, un taux de rebond bas (plus d'1 page consultée ou/et plus d'1 action sur un site donné par un visiteur) traduit un site dynamique.</li>
+<li>Capital Relationnel Web&#160;: c'est la mesure de l'interaction et de l'intérêt d'une organisation pour les messages et informations ramenant sur le site web. Ce sont des informations riches et apportant un avantage concurrentiel clé dès que l'on est à même de les insérer dans un processus d'usage tant marketing que commercial.</li></ul>
+<h2><span id="M.C3.A9thodes_li.C3.A9es_aux_web_Analytics"></span><span class="mw-headline" id="Méthodes_liées_aux_web_Analytics">Méthodes liées aux web Analytics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Modifier la section : Méthodes liées aux web Analytics">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=10" title="Modifier la section : Méthodes liées aux web Analytics">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Les_probl.C3.A8mes_inh.C3.A9rents_aux_cookies"></span><span class="mw-headline" id="Les_problèmes_inhérents_aux_cookies">Les problèmes inhérents aux cookies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Modifier la section : Les problèmes inhérents aux cookies">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=11" title="Modifier la section : Les problèmes inhérents aux cookies">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Deux attributs caractérisent un cookie en termes de Web Analytics&#160;: son domaine et sa date d'expiration. C'est d'ailleurs très souvent la date d'expiration du cookie qui détermine l'unicité d'un visiteur.
+</p><p>Si le domaine est le même que celui du site qui est consulté, on parle de cookie d'origine (en anglais&#160;: first-party cookie). En revanche, si le domaine est différent du site consulté, on parle de cookie tiers (en anglais&#160;: third-party cookie).
+La plupart des cookies tiers sont générés par des sites d'annonceurs publicitaires ou de ciblage d'audience Internet.
+</p><p>Les cookies tiers sont très souvent la cible d'outils ou de filtres anti-spyware ou anti-publicitaires qui bloquent la création de ces cookies. En ajoutant à cela les différents mécanismes d'effacement des cookies, les chiffres concernant les visiteurs uniques peuvent être réduits de 5&#160;% à 40&#160;%. Ce grand écart est une estimation car il est extrêmement difficile d'évaluer avec précision le taux de blocage et/ou d'effacement des cookies. 
+</p><p>De manière générale, les cookies d'origine sont moins sujets au blocage car jugés moins intrusifs que les cookies tiers mais ils demeurent quand même sensibles à l'effacement.
+</p>
+<h3><span class="mw-headline" id="Tag_Management_System">Tag Management System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Modifier la section : Tag Management System">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=12" title="Modifier la section : Tag Management System">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Des <a href="/wiki/Tag_management_system" title="Tag management system">outils de gestion de balises</a> permettent de simplifier le déploiement des systèmes d'analyse de trafic, que cela soit des pixels de conversions ou des scripts JavaScript.
+</p>
+<h2><span id="Notes_et_r.C3.A9f.C3.A9rences"></span><span class="mw-headline" id="Notes_et_références">Notes et références</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Modifier la section : Notes et références">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=13" title="Modifier la section : Notes et références">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Cet article est partiellement ou en totalité issu de l'article intitulé «&#160;<span class="plainlinks"><a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Trafic_d%27un_site_Web&amp;oldid=cur">Trafic d'un site Web</a>&#160;» <small>(voir <span class="plainlinks"><a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Trafic_d%27un_site_Web&amp;oldid=cur&amp;action=history">la liste des auteurs</a></span>)</small></span>.</li></ul>
+<div class="references-small decimal" style=""><div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink noprint"><a href="#cite_ref-1">↑</a> </span><span class="reference-text"><span class="ouvrage" id="BACHELET2011"><span class="ouvrage" id="Rémi_BACHELET2011">Rémi BACHELET, <a rel="nofollow" class="external text" href="http://cours-de-referencement.ec-lille.fr">«&#160;<cite style="font-style: normal;">cours de web analytics, chapitre 4 du module de SEO</cite>&#160;»</a>, <a href="/wiki/%C3%89cole_centrale_de_Lille" title="École centrale de Lille">École centrale de Lille</a>, <time class="nowrap" datetime="2011-02-17" data-sort-value="2011-02-17">17 février 2011</time></span></span>, sous licence <a href="/wiki/Creative_commons" class="mw-redirect" title="Creative commons">Creative commons</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink noprint"><a href="#cite_ref-2">↑</a> </span><span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dicodunet.com/definitions/audience/pages-vues.htm">PVM définie par Dico du net</a></span>
+</li>
+</ol></div>
+</div>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=14" title="Modifier la section : Voir aussi">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Articles_connexes">Articles connexes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Modifier la section : Articles connexes">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=15" title="Modifier la section : Articles connexes">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a></li>
+<li><a href="/wiki/Cookie_(informatique)" title="Cookie (informatique)">Cookies</a></li>
+<li><a href="/wiki/JavaScript" title="JavaScript">JavaScript</a></li></ul>
+<h3><span class="mw-headline" id="Bibliographie">Bibliographie</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Modifier la section : Bibliographie">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit&amp;section=16" title="Modifier la section : Bibliographie">modifier le code</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Brian Clifton (2010) <i>Advanced Web Metrics with Google Analytics</i>, 2e édition, <a href="/wiki/Sybex" title="Sybex">Sybex</a> (Paperback.)</li>
+<li><a href="/wiki/Avinash_Kaushik" title="Avinash Kaushik">Avinash Kaushik</a> (2009) <i>Web Analytics 2.0 - The Art of Online Accountability and Science of Customer Centricity</i>. <a href="/wiki/Sybex" title="Sybex">Sybex</a>, <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">Wiley</a>.</li></ul>
+<p><br />
+</p>
+<div class="navbox-container" style="clear:both;">
+<table class="navbox collapsible noprint autocollapse" data-autocollapse-group="palette" style="">
+<tbody><tr><th class="navbox-title" colspan="2" style=""><div style="float:left; width:6em; text-align:left"><div class="noprint plainlinksneverexpand nowrap tnavbar" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000;"><a href="/wiki/Mod%C3%A8le:Palette_Optimisation_pour_les_moteurs_de_recherche" title="Modèle:Palette Optimisation pour les moteurs de recherche"><abbr class="abbr" title="Voir ce modèle.">v</abbr></a>&#160;· <a class="external text" href="https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Optimisation_pour_les_moteurs_de_recherche&amp;action=edit"><abbr class="abbr" title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">m</abbr></a></div></div><div style="font-size:110%"><a href="/wiki/Optimisation_pour_les_moteurs_de_recherche" title="Optimisation pour les moteurs de recherche">Optimisation pour les moteurs de recherche</a></div></th>
+</tr>  <tr>
+<th class="navbox-group" style="">Exclusion standards</th>
+<td class="navbox-list" style=""><style data-mw-deduplicate="TemplateStyles:r151529978">.mw-parser-output .sep-liste{font-weight:bold}</style><span class="nowrap"><a href="/wiki/Protocole_d%27exclusion_des_robots" title="Protocole d&#39;exclusion des robots">Protocole d'exclusion des robots</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89l%C3%A9ment_meta" title="Élément meta">Élément meta</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Nofollow" title="Nofollow">nofollow</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Search marketing</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Search_engine_marketing" title="Search engine marketing">Search engine marketing</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Social_media_optimization" title="Social media optimization">Social media optimization</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Online_identity_management&amp;action=edit&amp;redlink=1" class="new" title="Online identity management (page inexistante)">Online identity management</a>&#160;<a href="https://en.wikipedia.org/wiki/Online_identity_management" class="extiw" title="en:Online identity management"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Online identity management&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Paid_inclusion&amp;action=edit&amp;redlink=1" class="new" title="Paid inclusion (page inexistante)">Paid inclusion</a>&#160;<a href="https://en.wikipedia.org/wiki/Paid_inclusion" class="extiw" title="en:Paid inclusion"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Paid inclusion&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Co%C3%BBt_par_clic" title="Coût par clic">Coût par clic</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Bombardement_Google" title="Bombardement Google">Bombardement Google</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Spam</th>
+<td class="navbox-list" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Spamdexing" title="Spamdexing">Spamdexing</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Web_scraping" title="Web scraping">Web scraping</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Scraper_site" title="Scraper site">Scraper site</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Ferme_de_liens" title="Ferme de liens">Ferme de liens</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Netlinking" title="Netlinking">Netlinking</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Linking</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Lien_retour" title="Lien retour">Lien retour</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Netlinking" title="Netlinking">Netlinking</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/%C3%89change_de_liens" title="Échange de liens">Échange de liens</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Organic_linking&amp;action=edit&amp;redlink=1" class="new" title="Organic linking (page inexistante)">Organic linking</a>&#160;<a href="https://en.wikipedia.org/wiki/Organic_linking" class="extiw" title="en:Organic linking"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Organic linking&#32;» dans une autre langue">(en)</span></a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Gens</th>
+<td class="navbox-list" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/w/index.php?title=Danny_Sullivan_(technologist)&amp;action=edit&amp;redlink=1" class="new" title="Danny Sullivan (technologist) (page inexistante)">Danny Sullivan</a>&#160;<a href="https://en.wikipedia.org/wiki/Danny_Sullivan_(technologist)" class="extiw" title="en:Danny Sullivan (technologist)"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Danny_Sullivan (technologist)&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Matt_Cutts" title="Matt Cutts">Matt Cutts</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Vanessa_Fox&amp;action=edit&amp;redlink=1" class="new" title="Vanessa Fox (page inexistante)">Vanessa Fox</a>&#160;<a href="https://en.wikipedia.org/wiki/Vanessa_Fox" class="extiw" title="en:Vanessa Fox"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Vanessa Fox&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Barry_Schwartz_(technologist)&amp;action=edit&amp;redlink=1" class="new" title="Barry Schwartz (technologist) (page inexistante)">Barry Schwartz</a>&#160;<a href="https://en.wikipedia.org/wiki/Barry_Schwartz_(technologist)" class="extiw" title="en:Barry Schwartz (technologist)"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Barry Schwartz (technologist)&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Olivier_Andrieu" title="Olivier Andrieu">Olivier Andrieu</a></span></td>
+</tr> <tr>
+<th class="navbox-group" style="">Autre</th>
+<td class="navbox-list navbox-even" style=""><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r151529978"/><span class="nowrap"><a href="/wiki/Ciblage_g%C3%A9ographique" title="Ciblage géographique">Ciblage géographique</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/PageRank" title="PageRank">PageRank</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Mot_vide" title="Mot vide">Mot vide</a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/w/index.php?title=Poison_words&amp;action=edit&amp;redlink=1" class="new" title="Poison words (page inexistante)">Poison words</a>&#160;<a href="https://en.wikipedia.org/wiki/Poison_words" class="extiw" title="en:Poison words"><span class="indicateur-langue" title="Équivalent de l’article «&#32;Poison words&#32;» dans une autre langue">(en)</span></a></span>&#160;<span class="sep-liste">·</span> <span class="nowrap"><a href="/wiki/Ferme_de_contenus" title="Ferme de contenus">Ferme de contenus</a></span></td>
+</tr>                         </tbody></table>
+</div>
+<ul id="bandeau-portail" class="bandeau-portail"><li><span class="bandeau-portail-element"><span class="bandeau-portail-icone"><a href="/wiki/Portail:Internet" title="Portail d’Internet"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Circle-icons-email.svg/24px-Circle-icons-email.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Circle-icons-email.svg/36px-Circle-icons-email.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Circle-icons-email.svg/48px-Circle-icons-email.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> <span class="bandeau-portail-texte"><a href="/wiki/Portail:Internet" title="Portail:Internet">Portail d’Internet</a></span> </span></li>                    </ul>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20200226070216
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.220 seconds
+Real time usage: 0.309 seconds
+Preprocessor visited node count: 2055/1000000
+Post‐expand include size: 54898/2097152 bytes
+Template argument size: 11199/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2271/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.068/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  244.329      1 -total
+ 35.34%   86.350      1 Modèle:Références
+ 32.55%   79.527      1 Modèle:Lien_web
+ 28.02%   68.464      1 Modèle:Palette
+ 25.11%   61.339      1 Modèle:Palette_Optimisation_pour_les_moteurs_de_recherche
+ 23.79%   58.117      1 Modèle:Portail
+ 23.70%   57.908      1 Modèle:Méta_palette_de_navigation
+ 16.59%   40.536     10 Modèle:Lien
+ 15.68%   38.317      6 Modèle:Liste_éléments
+  8.78%   21.440      1 Modèle:Catégorisation_badges
+-->
+
+<!-- Saved in parser cache with key frwiki:pcache:idhash:660379-0!canonical and timestamp 20200226070216 and revision id 164181269
+ -->
+</div><noscript><img src="//fr.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Ce document provient de «&#160;<a dir="ltr" href="https://fr.wikipedia.org/w/index.php?title=Audience_d%27un_site_Web&amp;oldid=164181269">https://fr.wikipedia.org/w/index.php?title=Audience_d%27un_site_Web&amp;oldid=164181269</a>&#160;».</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Cat%C3%A9gorie:Accueil" title="Catégorie:Accueil">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Analyse_du_web" title="Catégorie:Analyse du web">Analyse du web</a></li><li><a href="/wiki/Cat%C3%A9gorie:Administration_r%C3%A9seau" title="Catégorie:Administration réseau">Administration réseau</a></li><li><a href="/wiki/Cat%C3%A9gorie:World_Wide_Web" title="Catégorie:World Wide Web">World Wide Web</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégories cachées : <ul><li><a href="/wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais" title="Catégorie:Article contenant un appel à traduction en anglais">Article contenant un appel à traduction en anglais</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Internet/Articles_li%C3%A9s" title="Catégorie:Portail:Internet/Articles liés">Portail:Internet/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s" title="Catégorie:Portail:Informatique/Articles liés">Portail:Informatique/Articles liés</a></li><li><a href="/wiki/Cat%C3%A9gorie:Portail:M%C3%A9dias/Articles_li%C3%A9s" title="Catégorie:Portail:Médias/Articles liés">Portail:Médias/Articles liés</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Audience+d%27un+site+Web" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Audience+d%27un+site+Web" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Audience_d%27un_site_Web" title="Voir le contenu de la page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Discussion:Audience_d%27un_site_Web" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Audience_d%27un_site_Web">Lire</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=edit" title="Vous pouvez modifier cette page ! [e]" accesskey="e">Modifier le code</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikipédia" title="Rechercher dans Wikipédia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:Accueil_principal"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:Accueil_principal" title="Accueil général [z]" accesskey="z">Accueil</a></li><li id="n-thema"><a href="/wiki/Portail:Accueil">Portails thématiques</a></li><li id="n-randompage"><a href="/wiki/Sp%C3%A9cial:Page_au_hasard" title="Affiche un article au hasard [x]" accesskey="x">Article au hasard</a></li><li id="n-contact"><a href="/wiki/Wikip%C3%A9dia:Contact">Contact</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Contribuer"  aria-labelledby="p-Contribuer-label">
+	<h3  id="p-Contribuer-label">
+		Contribuer
+	</h3>
+	<div class="body">
+		<ul><li id="n-aboutwp"><a href="/wiki/Aide:D%C3%A9buter">Débuter sur Wikipédia</a></li><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9" title="À propos du projet, ce que vous pouvez faire, où trouver les informations">Communauté</a></li><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikipedia.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Audience_d%27un_site_Web" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Audience_d%27un_site_Web" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="/wiki/Aide:Importer_un_fichier" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;oldid=164181269" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11282955" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Audience_d%27un_site_Web&amp;id=164181269" title="Informations sur la manière de citer cette page">Citer cette page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		Dans d’autres projets
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Web_analytics" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Audience+d%27un+site+Web">Créer un livre</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Audience+d%27un+site+Web&amp;action=show-download-screen">Télécharger comme PDF</a></li><li id="t-print"><a href="/w/index.php?title=Audience_d%27un_site_Web&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%88%D9%8A%D8%A8" title="تحليل الويب — arabe" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Veb-analitika" title="Veb-analitika — azéri" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Web_Analytics" title="Web Analytics — bavarois" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Webov%C3%A1_analytika" title="Webová analytika — tchèque" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Webanalyse" title="Webanalyse — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Web_Analytics" title="Web Analytics — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Web_analytics" title="Web analytics — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/An%C3%A1lisis_web" title="Análisis web — espagnol" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%A7%D9%84%DB%8C%D8%B2_%D9%88%D8%A8" title="آنالیز وب — persan" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Tr%C3%A1fico_dun_sitio_web" title="Tráfico dun sitio web — galicien" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%AA%D7%95%D7%97_%D7%AA%D7%A0%D7%95%D7%A2%D7%AA_%D7%92%D7%95%D7%9C%D7%A9%D7%99%D7%9D" title="ניתוח תנועת גולשים — hébreu" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Webanalitika" title="Webanalitika — hongrois" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Web_analytics" title="Web analytics — italien" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E8%A7%A3%E6%9E%90" title="アクセス解析 — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Webanalyse" title="Webanalyse — norvégien bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Web_analytics" title="Web analytics — portugais" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0" title="Веб-аналитика — russe" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Anal%C3%BDza_webu" title="Analýza webu — slovaque" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Webbanalys" title="Webbanalys — suédois" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D1%82%D0%B8%D0%BA%D0%B0" title="Вебаналітика — ukrainien" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11282955#sitelinks-wikipedia" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 4 novembre 2019 à 14:58.</li>
+		<li id="footer-info-copyright"><span style="white-space: normal"><a class="internal" href="/wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia" title="Droit d'auteur">Droit d'auteur</a> : les textes sont disponibles sous <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.fr" title="Licence Creative Commons Attribution - partage dans les mêmes conditions 3.0 non transposé">licence Creative Commons attribution, partage dans les mêmes conditions</a> ; d’autres conditions peuvent s’appliquer. Voyez les <a href="https://wikimediafoundation.org/wiki/Conditions_d%27utilisation" title="Conditions d’utilisation de la Wikimedia Foundation">conditions d’utilisation</a> pour plus de détails, ainsi que les <a class="internal" href="/wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques" title="Droit d'auteur de certaines icônes">crédits graphiques</a>. En cas de réutilisation des textes de cette page, voyez <a class="internal" href="/wiki/Sp%C3%A9cial:Citer/Audience_d%27un_site_Web" title="Citer ou réutiliser cette page">comment citer les auteurs et mentionner la licence</a>.<br />
+Wikipedia® est une marque déposée de la <a href="https://wikimediafoundation.org/" title="Wikimedia Foundation">Wikimedia Foundation, Inc.</a>, organisation de bienfaisance régie par le paragraphe <a class="internal" href="/wiki/501c" title="501c">501(c)(3)</a> du code fiscal des États-Unis.</span><br /></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia" title="Wikipédia:À propos de Wikipédia">À propos de Wikipédia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux" title="Wikipédia:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-contact"><a href="//fr.wikipedia.org/wiki/Wikipédia:Contact">Contact</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikipedia.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikipedia.org/w/index.php?title=Audience_d%27un_site_Web&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.309","ppvisitednodes":{"value":2055,"limit":1000000},"postexpandincludesize":{"value":54898,"limit":2097152},"templateargumentsize":{"value":11199,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2271,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  244.329      1 -total"," 35.34%   86.350      1 Modèle:Références"," 32.55%   79.527      1 Modèle:Lien_web"," 28.02%   68.464      1 Modèle:Palette"," 25.11%   61.339      1 Modèle:Palette_Optimisation_pour_les_moteurs_de_recherche"," 23.79%   58.117      1 Modèle:Portail"," 23.70%   57.908      1 Modèle:Méta_palette_de_navigation"," 16.59%   40.536     10 Modèle:Lien"," 15.68%   38.317      6 Modèle:Liste_éléments","  8.78%   21.440      1 Modèle:Catégorisation_badges"]},"scribunto":{"limitreport-timeusage":{"value":"0.068","limit":"10.000"},"limitreport-memusage":{"value":2924250,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20200226070216","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Audience d'un site Web","url":"https:\/\/fr.wikipedia.org\/wiki\/Audience_d%27un_site_Web","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11282955","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11282955","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-27T14:48:51Z","dateModified":"2019-11-04T13:58:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fd\/WebTrafficGraph.gif"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1353"});});</script></body></html>

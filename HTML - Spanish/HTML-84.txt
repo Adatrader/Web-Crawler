@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljQLApAMFcAALvsCw4AAAAD","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=q"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"q","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='q' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=p%C3%A9rim%C3%A8tre" title="Especial:Todas">Página anterior (périmètre)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=quattorze" title="Especial:Todas">Página siguiente (quattorze)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/q" title="q">q</a></li>
+<li><a href="/wiki/q%27ab%27" title="q&#039;ab&#039;">q&#039;ab&#039;</a></li>
+<li><a href="/wiki/q%27acha" title="q&#039;acha">q&#039;acha</a></li>
+<li><a href="/wiki/q%27achiy" title="q&#039;achiy">q&#039;achiy</a></li>
+<li><a href="/wiki/q%27achu" title="q&#039;achu">q&#039;achu</a></li>
+<li><a href="/wiki/q%27ahji" title="q&#039;ahji">q&#039;ahji</a></li>
+<li><a href="/wiki/q%27ah%C4%8Di" title="q&#039;ahči">q&#039;ahči</a></li>
+<li><a href="/wiki/q%27allpisqa" title="q&#039;allpisqa">q&#039;allpisqa</a></li>
+<li><a href="/wiki/q%27allpiy" title="q&#039;allpiy">q&#039;allpiy</a></li>
+<li><a href="/wiki/q%27alltiy" title="q&#039;alltiy">q&#039;alltiy</a></li>
+<li><a href="/wiki/q%27allu" title="q&#039;allu">q&#039;allu</a></li>
+<li><a href="/wiki/q%27alluchiy" title="q&#039;alluchiy">q&#039;alluchiy</a></li>
+<li><a href="/wiki/q%27alluskuy" title="q&#039;alluskuy">q&#039;alluskuy</a></li>
+<li><a href="/wiki/q%27allusqa" title="q&#039;allusqa">q&#039;allusqa</a></li>
+<li><a href="/wiki/q%27alluy" title="q&#039;alluy">q&#039;alluy</a></li>
+<li><a href="/wiki/q%27anq%27oq%27" title="q&#039;anq&#039;oq&#039;">q&#039;anq&#039;oq&#039;</a></li>
+<li><a href="/wiki/q%27apa" title="q&#039;apa">q&#039;apa</a></li>
+<li><a href="/wiki/q%27apachaqa" title="q&#039;apachaqa">q&#039;apachaqa</a></li>
+<li><a href="/wiki/q%27apacheqa_pukuy" title="q&#039;apacheqa pukuy">q&#039;apacheqa pukuy</a></li>
+<li><a href="/wiki/q%27apax" title="q&#039;apax">q&#039;apax</a></li>
+<li><a href="/wiki/q%27apay" title="q&#039;apay">q&#039;apay</a></li>
+<li><a href="/wiki/q%27api" title="q&#039;api">q&#039;api</a></li>
+<li><a href="/wiki/q%27ara" title="q&#039;ara">q&#039;ara</a></li>
+<li><a href="/wiki/q%27arachupa" title="q&#039;arachupa">q&#039;arachupa</a></li>
+<li><a href="/wiki/q%27ata" title="q&#039;ata">q&#039;ata</a></li>
+<li><a href="/wiki/q%27aunkenn" title="q&#039;aunkenn">q&#039;aunkenn</a></li>
+<li><a href="/wiki/q%27awin%C3%A4q" title="q&#039;awinäq">q&#039;awinäq</a></li>
+<li><a href="/wiki/q%27aytu" title="q&#039;aytu">q&#039;aytu</a></li>
+<li><a href="/wiki/q%27ejin" title="q&#039;ejin">q&#039;ejin</a></li>
+<li><a href="/wiki/q%27icha" title="q&#039;icha">q&#039;icha</a></li>
+<li class="allpagesredirect"><a href="/wiki/q%27ij" class="mw-redirect" title="q&#039;ij">q&#039;ij</a></li>
+<li><a href="/wiki/q%27illa" title="q&#039;illa">q&#039;illa</a></li>
+<li><a href="/wiki/q%27illu" title="q&#039;illu">q&#039;illu</a></li>
+<li><a href="/wiki/q%27inti" title="q&#039;inti">q&#039;inti</a></li>
+<li><a href="/wiki/q%27ipina" title="q&#039;ipina">q&#039;ipina</a></li>
+<li><a href="/wiki/q%27isa" title="q&#039;isa">q&#039;isa</a></li>
+<li><a href="/wiki/q%27oht%27" title="q&#039;oht&#039;">q&#039;oht&#039;</a></li>
+<li><a href="/wiki/q%27ork%27awex" title="q&#039;ork&#039;awex">q&#039;ork&#039;awex</a></li>
+<li><a href="/wiki/q%27o%CA%94" title="q&#039;oʔ">q&#039;oʔ</a></li>
+<li><a href="/wiki/q%27umir" title="q&#039;umir">q&#039;umir</a></li>
+<li><a href="/wiki/q%27umir_umi%C3%B1a" title="q&#039;umir umiña">q&#039;umir umiña</a></li>
+<li><a href="/wiki/q%27umir_wayruru" title="q&#039;umir wayruru">q&#039;umir wayruru</a></li>
+<li><a href="/wiki/q%27uq%27" title="q&#039;uq&#039;">q&#039;uq&#039;</a></li>
+<li><a href="/wiki/q%27urunta" title="q&#039;urunta">q&#039;urunta</a></li>
+<li><a href="/wiki/q%27uruta" title="q&#039;uruta">q&#039;uruta</a></li>
+<li><a href="/wiki/q%27uruta_ch%27uspa" title="q&#039;uruta ch&#039;uspa">q&#039;uruta ch&#039;uspa</a></li>
+<li><a href="/wiki/q%27u%C3%B1i_yaku" title="q&#039;uñi yaku">q&#039;uñi yaku</a></li>
+<li><a href="/wiki/q%27%C3%A0" title="q&#039;à">q&#039;à</a></li>
+<li><a href="/wiki/q%27%C3%A0hr" title="q&#039;àhr">q&#039;àhr</a></li>
+<li><a href="/wiki/q%27%C3%A0n" title="q&#039;àn">q&#039;àn</a></li>
+<li><a href="/wiki/q%27%C3%A0tn" title="q&#039;àtn">q&#039;àtn</a></li>
+<li><a href="/wiki/q%27%C3%A8atrs" title="q&#039;èatrs">q&#039;èatrs</a></li>
+<li><a href="/wiki/q%27%C3%A8hl" title="q&#039;èhl">q&#039;èhl</a></li>
+<li><a href="/wiki/q%27%C3%A8jt%27" title="q&#039;èjt&#039;">q&#039;èjt&#039;</a></li>
+<li><a href="/wiki/q%27%C3%A8l" title="q&#039;èl">q&#039;èl</a></li>
+<li><a href="/wiki/q%27%C3%A8lpl" title="q&#039;èlpl">q&#039;èlpl</a></li>
+<li><a href="/wiki/q%27%C3%A8%C3%B2%C4%8Deln" title="q&#039;èòčeln">q&#039;èòčeln</a></li>
+<li><a href="/wiki/q%27%C3%ABq" title="q&#039;ëq">q&#039;ëq</a></li>
+<li><a href="/wiki/q%27%C3%ABqichaj" title="q&#039;ëqichaj">q&#039;ëqichaj</a></li>
+<li><a href="/wiki/q%27%C3%B2l%C5%9Fqn" title="q&#039;òlşqn">q&#039;òlşqn</a></li>
+<li><a href="/wiki/q%27%C3%B2%CA%94j" title="q&#039;òʔj">q&#039;òʔj</a></li>
+<li><a href="/wiki/q._D._g." title="q. D. g.">q. D. g.</a></li>
+<li><a href="/wiki/q._d._e._p." title="q. d. e. p.">q. d. e. p.</a></li>
+<li><a href="/wiki/q._e._p._d." title="q. e. p. d.">q. e. p. d.</a></li>
+<li><a href="/wiki/qaamuus" title="qaamuus">qaamuus</a></li>
+<li><a href="/wiki/qadam" title="qadam">qadam</a></li>
+<li><a href="/wiki/qadim" title="qadim">qadim</a></li>
+<li><a href="/wiki/qad%C4%ABm" title="qadīm">qadīm</a></li>
+<li><a href="/wiki/qad%C4%B1n" title="qadın">qadın</a></li>
+<li><a href="/wiki/qafa" title="qafa">qafa</a></li>
+<li><a href="/wiki/qaf%C3%AB" title="qafë">qafë</a></li>
+<li><a href="/wiki/qahw%C3%A2" title="qahwâ">qahwâ</a></li>
+<li><a href="/wiki/qajin" title="qajin">qajin</a></li>
+<li><a href="/wiki/qala" title="qala">qala</a></li>
+<li><a href="/wiki/qalac%27%C3%A9we" title="qalac&#039;éwe">qalac&#039;éwe</a></li>
+<li><a href="/wiki/qalam%C3%ADa" title="qalamía">qalamía</a></li>
+<li><a href="/wiki/qalaser%C3%A9rsxar" title="qalaserérsxar">qalaserérsxar</a></li>
+<li><a href="/wiki/qalaywa" title="qalaywa">qalaywa</a></li>
+<li><a href="/wiki/qalb" title="qalb">qalb</a></li>
+<li><a href="/wiki/qalbi" title="qalbi">qalbi</a></li>
+<li><a href="/wiki/qalla" title="qalla">qalla</a></li>
+<li><a href="/wiki/qallu" title="qallu">qallu</a></li>
+<li><a href="/wiki/qallunaatitut" title="qallunaatitut">qallunaatitut</a></li>
+<li><a href="/wiki/qalqaj%C3%A9sqe" title="qalqajésqe">qalqajésqe</a></li>
+<li><a href="/wiki/qal%C3%A9sxar" title="qalésxar">qalésxar</a></li>
+<li><a href="/wiki/qal%C4%ABl" title="qalīl">qalīl</a></li>
+<li><a href="/wiki/qam" title="qam">qam</a></li>
+<li><a href="/wiki/qamadi" title="qamadi">qamadi</a></li>
+<li><a href="/wiki/qamaqi" title="qamaqi">qamaqi</a></li>
+<li><a href="/wiki/qamar" title="qamar">qamar</a></li>
+<li><a href="/wiki/qamkuna" title="qamkuna">qamkuna</a></li>
+<li><a href="/wiki/qamla" title="qamla">qamla</a></li>
+<li><a href="/wiki/qaml%C3%A2" title="qamlâ">qamlâ</a></li>
+<li><a href="/wiki/qam%C4%A7" title="qamħ">qamħ</a></li>
+<li><a href="/wiki/qam%E1%B8%A5" title="qamḥ">qamḥ</a></li>
+<li><a href="/wiki/qan" title="qan">qan</a></li>
+<li><a href="/wiki/qanchis" title="qanchis">qanchis</a></li>
+<li><a href="/wiki/qanpa" title="qanpa">qanpa</a></li>
+<li><a href="/wiki/qanun" title="qanun">qanun</a></li>
+<li><a href="/wiki/qapaq_runa" title="qapaq runa">qapaq runa</a></li>
+<li><a href="/wiki/qapaqyay" title="qapaqyay">qapaqyay</a></li>
+<li><a href="/wiki/qapcha" title="qapcha">qapcha</a></li>
+<li><a href="/wiki/qapya" title="qapya">qapya</a></li>
+<li><a href="/wiki/qaqa" title="qaqa">qaqa</a></li>
+<li><a href="/wiki/qaqchu" title="qaqchu">qaqchu</a></li>
+<li><a href="/wiki/qaqilu" title="qaqilu">qaqilu</a></li>
+<li><a href="/wiki/qaq%C3%A1" title="qaqá">qaqá</a></li>
+<li><a href="/wiki/qar" title="qar">qar</a></li>
+<li><a href="/wiki/qara" title="qara">qara</a></li>
+<li><a href="/wiki/qaran" title="qaran">qaran</a></li>
+<li><a href="/wiki/qarda%C5%9F" title="qardaş">qardaş</a></li>
+<li><a href="/wiki/qarov" title="qarov">qarov</a></li>
+<li><a href="/wiki/qarqap" title="qarqap">qarqap</a></li>
+<li><a href="/wiki/qarq%C3%A1jes" title="qarqájes">qarqájes</a></li>
+<li><a href="/wiki/qarras%C3%A9" title="qarrasé">qarrasé</a></li>
+<li><a href="/wiki/qartana" title="qartana">qartana</a></li>
+<li><a href="/wiki/qartaqay" title="qartaqay">qartaqay</a></li>
+<li><a href="/wiki/qartbaba" title="qartbaba">qartbaba</a></li>
+<li><a href="/wiki/qarwa" title="qarwa">qarwa</a></li>
+<li><a href="/wiki/qary%C3%A2" title="qaryâ">qaryâ</a></li>
+<li><a href="/wiki/qar%C4%ABb" title="qarīb">qarīb</a></li>
+<li><a href="/wiki/qar%E1%B9%AD%C4%81s" title="qarṭās">qarṭās</a></li>
+<li><a href="/wiki/qasa" title="qasa">qasa</a></li>
+<li><a href="/wiki/qasikay" title="qasikay">qasikay</a></li>
+<li><a href="/wiki/qat" title="qat">qat</a></li>
+<li><a href="/wiki/qat-c%E2%80%99aw%C3%A1lc%E2%80%99ok" title="qat-c’awálc’ok">qat-c’awálc’ok</a></li>
+<li><a href="/wiki/qat-jek%C3%A9" title="qat-jeké">qat-jeké</a></li>
+<li><a href="/wiki/qatala" title="qatala">qatala</a></li>
+<li><a href="/wiki/qatan" title="qatan">qatan</a></li>
+<li><a href="/wiki/qatar%C3%AD" title="qatarí">qatarí</a></li>
+<li><a href="/wiki/qatar%C3%ADes" title="qataríes">qataríes</a></li>
+<li><a href="/wiki/qatay" title="qatay">qatay</a></li>
+<li><a href="/wiki/qata%C3%B1a" title="qataña">qataña</a></li>
+<li><a href="/wiki/qatgani" title="qatgani">qatgani</a></li>
+<li><a href="/wiki/qatiy" title="qatiy">qatiy</a></li>
+<li><a href="/wiki/qatq%C3%A1laks" title="qatqálaks">qatqálaks</a></li>
+<li><a href="/wiki/qatra" title="qatra">qatra</a></li>
+<li><a href="/wiki/qatsar" title="qatsar">qatsar</a></li>
+<li><a href="/wiki/qatsats" title="qatsats">qatsats</a></li>
+<li><a href="/wiki/qatsi" title="qatsi">qatsi</a></li>
+<li><a href="/wiki/qattus" title="qattus">qattus</a></li>
+<li><a href="/wiki/qawel" title="qawel">qawel</a></li>
+<li><a href="/wiki/qawelaj%C3%A9mna" title="qawelajémna">qawelajémna</a></li>
+<li><a href="/wiki/qawesp%C3%A9jes" title="qawespéjes">qawespéjes</a></li>
+<li><a href="/wiki/qawra" title="qawra">qawra</a></li>
+<li><a href="/wiki/qaw%C3%A9lai" title="qawélai">qawélai</a></li>
+<li><a href="/wiki/qayits" title="qayits">qayits</a></li>
+<li><a href="/wiki/qayna_tuta" title="qayna tuta">qayna tuta</a></li>
+<li><a href="/wiki/qays%C3%AD" title="qaysí">qaysí</a></li>
+<li><a href="/wiki/qayxtaj" title="qayxtaj">qayxtaj</a></li>
+<li><a href="/wiki/qaz" title="qaz">qaz</a></li>
+<li><a href="/wiki/qa%C3%A7maq" title="qaçmaq">qaçmaq</a></li>
+<li><a href="/wiki/qa%C3%B1awa" title="qañawa">qañawa</a></li>
+<li><a href="/wiki/qa%E1%B9%A3r" title="qaṣr">qaṣr</a></li>
+<li><a href="/wiki/qa%E1%B9%A3%C4%ABr" title="qaṣīr">qaṣīr</a></li>
+<li><a href="/wiki/qa%E1%B9%ADr%C3%A2" title="qaṭrâ">qaṭrâ</a></li>
+<li><a href="/wiki/qehx" title="qehx">qehx</a></li>
+<li><a href="/wiki/qejoj" title="qejoj">qejoj</a></li>
+<li><a href="/wiki/qellu" title="qellu">qellu</a></li>
+<li><a href="/wiki/qelq" title="qelq">qelq</a></li>
+<li><a href="/wiki/qelqi" title="qelqi">qelqi</a></li>
+<li><a href="/wiki/qemaj" title="qemaj">qemaj</a></li>
+<li><a href="/wiki/qens" title="qens">qens</a></li>
+<li><a href="/wiki/qeraj" title="qeraj">qeraj</a></li>
+<li><a href="/wiki/qerpik" title="qerpik">qerpik</a></li>
+<li><a href="/wiki/qerpiku" title="qerpiku">qerpiku</a></li>
+<li><a href="/wiki/qesqa" title="qesqa">qesqa</a></li>
+<li><a href="/wiki/qhachapay" title="qhachapay">qhachapay</a></li>
+<li><a href="/wiki/qhachun" title="qhachun">qhachun</a></li>
+<li><a href="/wiki/qhali" title="qhali">qhali</a></li>
+<li><a href="/wiki/qhallu" title="qhallu">qhallu</a></li>
+<li><a href="/wiki/qhallwa" title="qhallwa">qhallwa</a></li>
+<li><a href="/wiki/qhanqu" title="qhanqu">qhanqu</a></li>
+<li><a href="/wiki/qhapaq" title="qhapaq">qhapaq</a></li>
+<li><a href="/wiki/qhapaq_raymi_killa" title="qhapaq raymi killa">qhapaq raymi killa</a></li>
+<li><a href="/wiki/qhaquy" title="qhaquy">qhaquy</a></li>
+<li><a href="/wiki/qhari" title="qhari">qhari</a></li>
+<li><a href="/wiki/qhari_warma" title="qhari warma">qhari warma</a></li>
+<li><a href="/wiki/qhari_wawa" title="qhari wawa">qhari wawa</a></li>
+<li><a href="/wiki/qhatuna" title="qhatuna">qhatuna</a></li>
+<li><a href="/wiki/qhawana" title="qhawana">qhawana</a></li>
+<li><a href="/wiki/qhawariy" title="qhawariy">qhawariy</a></li>
+<li><a href="/wiki/qhawariychikunatapas" title="qhawariychikunatapas">qhawariychikunatapas</a></li>
+<li><a href="/wiki/qhaway" title="qhaway">qhaway</a></li>
+<li><a href="/wiki/qhaz" title="qhaz">qhaz</a></li>
+<li><a href="/wiki/qhilla" title="qhilla">qhilla</a></li>
+<li><a href="/wiki/qhincha" title="qhincha">qhincha</a></li>
+<li><a href="/wiki/qhipa" title="qhipa">qhipa</a></li>
+<li><a href="/wiki/qhipakuy" title="qhipakuy">qhipakuy</a></li>
+<li><a href="/wiki/qhipay" title="qhipay">qhipay</a></li>
+<li><a href="/wiki/qhirwa" title="qhirwa">qhirwa</a></li>
+<li><a href="/wiki/qhiya" title="qhiya">qhiya</a></li>
+<li><a href="/wiki/qhucha" title="qhucha">qhucha</a></li>
+<li><a href="/wiki/qhuchi" title="qhuchi">qhuchi</a></li>
+<li><a href="/wiki/qhurkuy" title="qhurkuy">qhurkuy</a></li>
+<li><a href="/wiki/qhuruy" title="qhuruy">qhuruy</a></li>
+<li><a href="/wiki/qhusi" title="qhusi">qhusi</a></li>
+<li><a href="/wiki/qhuspay" title="qhuspay">qhuspay</a></li>
+<li><a href="/wiki/qillqa" title="qillqa">qillqa</a></li>
+<li><a href="/wiki/qillqarajjpa" title="qillqarajjpa">qillqarajjpa</a></li>
+<li><a href="/wiki/qillqasqa_panka" title="qillqasqa panka">qillqasqa panka</a></li>
+<li><a href="/wiki/qillu" title="qillu">qillu</a></li>
+<li><a href="/wiki/qilqata" title="qilqata">qilqata</a></li>
+<li><a href="/wiki/qilqay" title="qilqay">qilqay</a></li>
+<li><a href="/wiki/qiman" title="qiman">qiman</a></li>
+<li><a href="/wiki/qimi%C3%B1a" title="qimiña">qimiña</a></li>
+<li><a href="/wiki/qina" title="qina">qina</a></li>
+<li><a href="/wiki/qinaya" title="qinaya">qinaya</a></li>
+<li><a href="/wiki/qino" title="qino">qino</a></li>
+<li><a href="/wiki/qir" title="qir">qir</a></li>
+<li><a href="/wiki/qird" title="qird">qird</a></li>
+<li><a href="/wiki/qiru" title="qiru">qiru</a></li>
+<li><a href="/wiki/qispichiy" title="qispichiy">qispichiy</a></li>
+<li><a href="/wiki/qispinqa" title="qispinqa">qispinqa</a></li>
+<li><a href="/wiki/qitzij" title="qitzij">qitzij</a></li>
+<li><a href="/wiki/qi%C3%BEan" title="qiþan">qiþan</a></li>
+<li><a href="/wiki/qi%C5%A1r" title="qišr">qišr</a></li>
+<li><a href="/wiki/qi%E1%B9%AD%E1%B9%AD" title="qiṭṭ">qiṭṭ</a></li>
+<li><a href="/wiki/qo%27ch" title="qo&#039;ch">qo&#039;ch</a></li>
+<li><a href="/wiki/qobo" title="qobo">qobo</a></li>
+<li><a href="/wiki/qof" title="qof">qof</a></li>
+<li><a href="/wiki/qofeh" title="qofeh">qofeh</a></li>
+<li><a href="/wiki/qol" title="qol">qol</a></li>
+<li><a href="/wiki/qol%C3%A1k" title="qolák">qolák</a></li>
+<li><a href="/wiki/qomer" title="qomer">qomer</a></li>
+<li><a href="/wiki/qongqothwane" title="qongqothwane">qongqothwane</a></li>
+<li><a href="/wiki/qoolleey" title="qoolleey">qoolleey</a></li>
+<li><a href="/wiki/qopqa" title="qopqa">qopqa</a></li>
+<li><a href="/wiki/qoraz" title="qoraz">qoraz</a></li>
+<li><a href="/wiki/qorrax" title="qorrax">qorrax</a></li>
+<li><a href="/wiki/qorxmaq" title="qorxmaq">qorxmaq</a></li>
+<li><a href="/wiki/qoton" title="qoton">qoton</a></li>
+<li><a href="/wiki/qoxqewi" title="qoxqewi">qoxqewi</a></li>
+<li><a href="/wiki/qoy" title="qoy">qoy</a></li>
+<li><a href="/wiki/qoyan" title="qoyan">qoyan</a></li>
+<li><a href="/wiki/qoymaq" title="qoymaq">qoymaq</a></li>
+<li><a href="/wiki/qtec" title="qtec">qtec</a></li>
+<li><a href="/wiki/qu%27elle" title="qu&#039;elle">qu&#039;elle</a></li>
+<li><a href="/wiki/qu%27en" title="qu&#039;en">qu&#039;en</a></li>
+<li><a href="/wiki/qu%27est" title="qu&#039;est">qu&#039;est</a></li>
+<li><a href="/wiki/qu%27est-ce" title="qu&#039;est-ce">qu&#039;est-ce</a></li>
+<li><a href="/wiki/qu%27est-ce_que_c%27est" title="qu&#039;est-ce que c&#039;est">qu&#039;est-ce que c&#039;est</a></li>
+<li><a href="/wiki/qu%27est-ce_qui" title="qu&#039;est-ce qui">qu&#039;est-ce qui</a></li>
+<li><a href="/wiki/qu%27il" title="qu&#039;il">qu&#039;il</a></li>
+<li><a href="/wiki/qu%27on" title="qu&#039;on">qu&#039;on</a></li>
+<li><a href="/wiki/qu%27%C3%A9tait" title="qu&#039;était">qu&#039;était</a></li>
+<li><a href="/wiki/qua" title="qua">qua</a></li>
+<li><a href="/wiki/quacumque" title="quacumque">quacumque</a></li>
+<li><a href="/wiki/quadra" title="quadra">quadra</a></li>
+<li><a href="/wiki/quadraginta" title="quadraginta">quadraginta</a></li>
+<li><a href="/wiki/quadral" title="quadral">quadral</a></li>
+<li><a href="/wiki/quadrangulaire" title="quadrangulaire">quadrangulaire</a></li>
+<li><a href="/wiki/quadrant" title="quadrant">quadrant</a></li>
+<li><a href="/wiki/quadrare" title="quadrare">quadrare</a></li>
+<li><a href="/wiki/quadratisch" title="quadratisch">quadratisch</a></li>
+<li><a href="/wiki/quadringenti" title="quadringenti">quadringenti</a></li>
+<li><a href="/wiki/quadruped" title="quadruped">quadruped</a></li>
+<li><a href="/wiki/quadr%C3%BAplex" title="quadrúplex">quadrúplex</a></li>
+<li><a href="/wiki/quae" title="quae">quae</a></li>
+<li><a href="/wiki/quaecumque" title="quaecumque">quaecumque</a></li>
+<li><a href="/wiki/quaedam" title="quaedam">quaedam</a></li>
+<li><a href="/wiki/quaelibet" title="quaelibet">quaelibet</a></li>
+<li><a href="/wiki/quaepiam" title="quaepiam">quaepiam</a></li>
+<li><a href="/wiki/quaeque" title="quaeque">quaeque</a></li>
+<li><a href="/wiki/quaero" title="quaero">quaero</a></li>
+<li><a href="/wiki/quaestores_paricidii" title="quaestores paricidii">quaestores paricidii</a></li>
+<li><a href="/wiki/quaevis" title="quaevis">quaevis</a></li>
+<li><a href="/wiki/quahuitl" title="quahuitl">quahuitl</a></li>
+<li><a href="/wiki/quai" title="quai">quai</a></li>
+<li><a href="/wiki/quais_as_novas" title="quais as novas">quais as novas</a></li>
+<li><a href="/wiki/quais_as_novidades" title="quais as novidades">quais as novidades</a></li>
+<li><a href="/wiki/quak" title="quak">quak</a></li>
+<li><a href="/wiki/qual" title="qual">qual</a></li>
+<li><a href="/wiki/qual_%C3%A9_a_boa" title="qual é a boa">qual é a boa</a></li>
+<li><a href="/wiki/qualche" title="qualche">qualche</a></li>
+<li><a href="/wiki/qualcosa" title="qualcosa">qualcosa</a></li>
+<li><a href="/wiki/qualidade" title="qualidade">qualidade</a></li>
+<li><a href="/wiki/qualificaci%C3%B3" title="qualificació">qualificació</a></li>
+<li><a href="/wiki/qualificar" title="qualificar">qualificar</a></li>
+<li><a href="/wiki/qualification" title="qualification">qualification</a></li>
+<li><a href="/wiki/qualificazione" title="qualificazione">qualificazione</a></li>
+<li><a href="/wiki/qualifica%C3%A7%C3%A3o" title="qualificação">qualificação</a></li>
+<li><a href="/wiki/qualified" title="qualified">qualified</a></li>
+<li><a href="/wiki/qualitas" title="qualitas">qualitas</a></li>
+<li><a href="/wiki/qualitat" title="qualitat">qualitat</a></li>
+<li><a href="/wiki/qualitative" title="qualitative">qualitative</a></li>
+<li><a href="/wiki/qualitatively" title="qualitatively">qualitatively</a></li>
+<li><a href="/wiki/qualitats" title="qualitats">qualitats</a></li>
+<li><a href="/wiki/quality" title="quality">quality</a></li>
+<li><a href="/wiki/qualit%C3%A0" title="qualità">qualità</a></li>
+<li><a href="/wiki/qualit%C3%A9" title="qualité">qualité</a></li>
+<li><a href="/wiki/qualora" title="qualora">qualora</a></li>
+<li><a href="/wiki/qualquer" title="qualquer">qualquer</a></li>
+<li><a href="/wiki/qualquer_dia_desses" title="qualquer dia desses">qualquer dia desses</a></li>
+<li><a href="/wiki/qualtica" title="qualtica">qualtica</a></li>
+<li><a href="/wiki/qualum" title="qualum">qualum</a></li>
+<li><a href="/wiki/qualus" title="qualus">qualus</a></li>
+<li><a href="/wiki/quam" title="quam">quam</a></li>
+<li><a href="/wiki/quammaytl" title="quammaytl">quammaytl</a></li>
+<li><a href="/wiki/quammiztli" title="quammiztli">quammiztli</a></li>
+<li><a href="/wiki/quamquam" title="quamquam">quamquam</a></li>
+<li><a href="/wiki/quan" title="quan">quan</a></li>
+<li><a href="/wiki/quand" title="quand">quand</a></li>
+<li><a href="/wiki/quand_bien_m%C3%AAme" title="quand bien même">quand bien même</a></li>
+<li><a href="/wiki/quand_m%C3%AAme" title="quand même">quand même</a></li>
+<li><a href="/wiki/quand_on_parle_du_loup,_on_en_voit_la_queue" title="quand on parle du loup, on en voit la queue">quand on parle du loup, on en voit la queue</a></li>
+<li><a href="/wiki/quand_on_veut,_on_peut" title="quand on veut, on peut">quand on veut, on peut</a></li>
+<li><a href="/wiki/quando" title="quando">quando</a></li>
+<li><a href="/wiki/quando_em_Roma,_fa%C3%A7a_como_os_romanos" title="quando em Roma, faça como os romanos">quando em Roma, faça como os romanos</a></li>
+<li><a href="/wiki/quando_menos" title="quando menos">quando menos</a></li>
+<li><a href="/wiki/quanno" title="quanno">quanno</a></li>
+<li><a href="/wiki/quant" title="quant">quant</a></li>
+<li><a href="/wiki/quant_%C3%A0" title="quant à">quant à</a></li>
+<li><a href="/wiki/quantity" title="quantity">quantity</a></li>
+<li><a href="/wiki/quantit%C3%A0" title="quantità">quantità</a></li>
+<li><a href="/wiki/quantit%C3%A9" title="quantité">quantité</a></li>
+<li><a href="/wiki/quantum" title="quantum">quantum</a></li>
+<li><a href="/wiki/quapiam" title="quapiam">quapiam</a></li>
+<li><a href="/wiki/quaq_matuyak" title="quaq matuyak">quaq matuyak</a></li>
+<li><a href="/wiki/quaranta" title="quaranta">quaranta</a></li>
+<li><a href="/wiki/quarante" title="quarante">quarante</a></li>
+<li><a href="/wiki/quarenta" title="quarenta">quarenta</a></li>
+<li><a href="/wiki/quarentenar" title="quarentenar">quarentenar</a></li>
+<li><a href="/wiki/quark" title="quark">quark</a></li>
+<li><a href="/wiki/quarrel" title="quarrel">quarrel</a></li>
+<li><a href="/wiki/quarry" title="quarry">quarry</a></li>
+<li><a href="/wiki/quarta-feira" title="quarta-feira">quarta-feira</a></li>
+<li><a href="/wiki/quarter" title="quarter">quarter</a></li>
+<li><a href="/wiki/quarters" title="quarters">quarters</a></li>
+<li><a href="/wiki/quarter%C3%B3n" title="quarterón">quarterón</a></li>
+<li><a href="/wiki/quartier" title="quartier">quartier</a></li>
+<li><a href="/wiki/quartiere" title="quartiere">quartiere</a></li>
+<li><a href="/wiki/quarto" title="quarto">quarto</a></li>
+<li><a href="/wiki/quartus" title="quartus">quartus</a></li>
+<li><a href="/wiki/quasar" title="quasar">quasar</a></li>
+<li><a href="/wiki/quasich%C3%A9" title="quasiché">quasiché</a></li>
+<li><a href="/wiki/quate" title="quate">quate</a></li>
+<li><a href="/wiki/quate-vints" title="quate-vints">quate-vints</a></li>
+<li><a href="/wiki/quater" title="quater">quater</a></li>
+<li><a href="/wiki/quaterni" title="quaterni">quaterni</a></li>
+<li><a href="/wiki/quatorze" title="quatorze">quatorze</a></li>
+<li><a href="/wiki/quatre" title="quatre">quatre</a></li>
+<li><a href="/wiki/quatre-vingts" title="quatre-vingts">quatre-vingts</a></li>
+<li><a href="/wiki/quatro" title="quatro">quatro</a></li>
+<li><a href="/wiki/quattordici" title="quattordici">quattordici</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=p%C3%A9rim%C3%A8tre" title="Especial:Todas">Página anterior (périmètre)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=quattorze" title="Especial:Todas">Página siguiente (quattorze)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dq" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dq" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=q" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=q&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=q&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":402,"wgHostname":"mw1252"});});</script></body></html>

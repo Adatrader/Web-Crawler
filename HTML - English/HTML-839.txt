@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Boilerplate text - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRequestId":"Xlgp6wpAIDAAALLJQpwAAACM","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Boilerplate_text","wgTitle":"Boilerplate text","wgCurRevisionId":783224754,"wgRevisionId":783224754,"wgArticleId":81951,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with missing files","Inactive project pages","Wikipedia maintenance","Wikipedia how-to","Wikipedia template management","Wikipedia boilerplate text"],"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:Boilerplate_text","wgRelevantArticleId":81951,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["sysop"],"wgRestrictionMove":["sysop"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q15885241","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wikipedia:Boilerplate_text"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikipedia_Boilerplate_text rootpage-Wikipedia_Boilerplate_text skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wikipedia:Boilerplate text</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="plainlinks ombox ombox-notice" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/Wikipedia:HISPAGES" title="Wikipedia:HISPAGES"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Historical.svg/30px-Historical.svg.png" decoding="async" width="30" height="38" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Historical.svg/45px-Historical.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Historical.svg/60px-Historical.svg.png 2x" data-file-width="140" data-file-height="177" /></a></td><td class="mbox-text"><b>This page is currently inactive and is retained for <a href="/wiki/Wikipedia:HISPAGES" class="mw-redirect" title="Wikipedia:HISPAGES">historical</a> reference.</b><br /><span style="font-size: 90%">Either the page is no longer relevant or consensus on its purpose has become unclear. To revive discussion, seek broader input via a forum such as the <a href="/wiki/Wikipedia:Village_pump_(proposals)" title="Wikipedia:Village pump (proposals)">village pump</a>.</span> <span style="font-size: 90%"> </span></td><td class="mbox-imageright"><div role="note" class="shortcutbox noprint" style="float: right; border: 1px solid #aaa; padding: .4em 1em .4em 1em; text-align: center; line-height: 1.4em; font-weight: bold; font-size: smaller; background-color:white;"><span id="WP:BPT"></span><div style="display: inline-block; border-bottom: 1px solid #aaa; line-height: 1.5em; font-weight: normal; margin-bottom: .2em;"><a href="/wiki/Wikipedia:Shortcut" title="Wikipedia:Shortcut">Shortcut</a></div><div class="plainlist"><ul><li><span class="nowrap"><span class="plainlinks"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:BPT&amp;redirect=no">WP:BPT</a></span></span></li></ul></div>
+</div></td></tr></tbody></table>
+<p>This page is designed to provide simple "copy and paste" versions of text which is very commonly used, but where using a <a href="/wiki/Wikipedia:Template_messages" class="mw-redirect" title="Wikipedia:Template messages">Template</a> is unnecessary.
+</p>
+<div role="note" class="hatnote navigation-not-searchable plainlinks">This list is <a href="/wiki/Wikipedia:WikiProject_Lists#Incomplete_lists" title="Wikipedia:WikiProject Lists">incomplete</a>; you can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Boilerplate_text&amp;action=edit">expanding it</a>.</div>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Fair_use_notice_for_text"><span class="tocnumber">1</span> <span class="toctext">Fair use notice for text</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Deletion_notice"><span class="tocnumber">2</span> <span class="toctext">Deletion notice</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Disambiguation"><span class="tocnumber">3</span> <span class="toctext">Disambiguation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Links"><span class="tocnumber">4</span> <span class="toctext">Links</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Redirects"><span class="tocnumber">5</span> <span class="toctext">Redirects</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Table_of_contents"><span class="tocnumber">6</span> <span class="toctext">Table of contents</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Article_sections"><span class="tocnumber">7</span> <span class="toctext">Article sections</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#See_also"><span class="tocnumber">7.1</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#References"><span class="tocnumber">7.2</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#External_links"><span class="tocnumber">7.3</span> <span class="toctext">External links</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#This_image_is_a_Wikipedia_Featured_Image"><span class="tocnumber">8</span> <span class="toctext">This image is a Wikipedia Featured Image</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#This_page_needs_attention"><span class="tocnumber">9</span> <span class="toctext">This page needs attention</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#The_information_in_this_article_is_related_to_a_current_event"><span class="tocnumber">10</span> <span class="toctext">The information in this article is related to a current event</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#This_article_should_be_moved_to_wiktionary_(because_it_is_more_like_a_definition_of_a_word_than_an_encyclopedia_entry)"><span class="tocnumber">11</span> <span class="toctext">This article should be moved to wiktionary (because it is more like a definition of a word than an encyclopedia entry)</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also_2"><span class="tocnumber">12</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#The_neutrality_of_this_article_is_disputed"><span class="tocnumber">13</span> <span class="toctext">The neutrality of this article is disputed</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also_3"><span class="tocnumber">14</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#This_article_lacks_detail_and_needs_to_be_expanded"><span class="tocnumber">15</span> <span class="toctext">This article lacks detail and needs to be expanded</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#This_article_should_be_used_as_a_style_guide_on_Wikipedia"><span class="tocnumber">16</span> <span class="toctext">This article should be used as a style guide on Wikipedia</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#This_article_needs_cleaning_up_to_conform_to_higher_standards"><span class="tocnumber">17</span> <span class="toctext">This article needs cleaning up to conform to higher standards</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#See_also_4"><span class="tocnumber">18</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#It_has_been_suggested_that_this_article_be_merged_to_or_from_the_following:"><span class="tocnumber">19</span> <span class="toctext">It has been suggested that this article be merged to or from the following:</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#See_also_5"><span class="tocnumber">20</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#See_also_6"><span class="tocnumber">21</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#The_subject_of_an_article_is_a_registered_Wikipedia_editor"><span class="tocnumber">22</span> <span class="toctext">The subject of an article is a registered Wikipedia editor</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#See_also_7"><span class="tocnumber">23</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Fair_use_notice_for_text">Fair use notice for text</span></h2>
+<p>Post this text in the footnotes or at the top of the text.
+</p>
+<table style="margin: 0 2em; background: #fee; border: 1px dotted black;">
+
+<tbody><tr>
+<td>
+<p>Used under the [http://www.law.cornell.edu/uscode/html/uscode17/usc_sec_17_00000107----000-.html fair use policy] of the United States copyright law, and under [http://en.wikipedia.org/wiki/Wikipedia:Copyrights#Using_copyrighted_work_from_others Wikipedia fair use policy] See also: [http://www.gigalaw.com/articles/2000-all/gall-2000-12-all.html What is "Fair Use" in Copyright Law?]
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Deletion_notice">Deletion notice</span></h2>
+<p>Post this text at the top of the article, changing the {{PAGENAME}} to the article title.
+</p>
+<dl><dt>From <a href="/wiki/Template:Vfd" class="mw-redirect" title="Template:Vfd">Template:Vfd</a></dt></dl>
+<table style="margin: 0 2em; background: #fee; border: 1px dotted black;">
+
+<tbody><tr>
+<td>&#60;!-- Please do not remove or change this AfD message until the discussion has been closed. --&#62;
+<p>&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;#ifeq:&#123;&#123;&#123;1&#124;a&#125;&#125;&#125;&#124;&#123;&#123;&#123;1&#124;b&#125;&#125;&#125;&#124;&#124;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;#ifexist:Wikipedia:Articles for deletion/&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;PAGENAME&#125;&#125;&#124;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;lessthan&#125;&#125;!-- The nomination page for this article already existed when this tag was added.  If this was because the article had been nominated for deletion before, and you wish to renominate it, please replace &#34;page&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;PAGENAME&#125;&#125;&#34; with &#34;page&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;PAGENAME&#125;&#125; (2nd nomination)&#34; below before proceeding with the nomination.
+--&#62;&#125;&#125;&#125;&#125;&#123;&#123;Article for deletion/dated&#124;page&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;#ifeq:&#123;&#123;&#123;1&#124;a&#125;&#125;&#125;&#124;&#123;&#123;&#123;1&#124;b&#125;&#125;&#125;&#124;&#123;&#123;&#123;1&#125;&#125;&#125;&#124;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;PAGENAME&#125;&#125;&#125;&#125;&#124;timestamp&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;CURRENTTIMESTAMP&#125;&#125;&#124;year&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;CURRENTYEAR&#125;&#125;&#124;month&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;CURRENTMONTHNAMEGEN&#125;&#125;&#124;day&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;CURRENTDAY&#125;&#125;&#124;substed&#61;yes&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;ns:0&#125;&#125;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;#ifeq:&#123;&#123;&#123;help&#124;a&#125;&#125;&#125;&#124;&#123;&#123;&#123;help&#124;b&#125;&#125;&#125;&#124;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;!&#125;&#125;help&#61;&#123;&#123;&#123;help&#125;&#125;&#125;&#125;&#125;&#125;&#125;
+&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;lessthan&#125;&#125;!-- Once discussion is closed, please place on talk page: &#123;&#123;Old AfD multi&#124;page&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;#ifeq:&#123;&#123;&#123;1&#124;a&#125;&#125;&#125;&#124;&#123;&#123;&#123;1&#124;b&#125;&#125;&#125;&#124;&#123;&#123;&#123;1&#125;&#125;&#125;&#124;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;PAGENAME&#125;&#125;&#125;&#125;&#124;date&#61;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;#time:j F Y&#124;&#123;&#123;&#60;includeonly&#62;subst:&#60;/includeonly&#62;CURRENTTIMESTAMP&#125;&#125; &#125;&#125;&#124;result&#61;&#39;&#39;&#39;keep&#39;&#39;&#39;&#125;&#125; --&#62;
+&#60;!-- End of AfD message, feel free to edit beyond this point --&#62;&#60;noinclude&#62;
+&#123;&#123;Documentation&#125;&#125;&#60;!-- Add categories, documentation, and interwiki links to the /doc subpage, not here! --&#62;
+&#60;/noinclude&#62;
+</p>
+</td></tr></tbody></table>
+<p><i>See also</i>: <a href="/wiki/Wikipedia:Deletion_policy" title="Wikipedia:Deletion policy">Wikipedia:Deletion policy</a>
+</p>
+<h2><span class="mw-headline" id="Disambiguation">Disambiguation</span></h2>
+<dl><dd>Use &#123;&#123;<a href="/wiki/Template:Disambig" class="mw-redirect mw-disambig" title="Template:Disambig">disambig</a>&#125;&#125; to add the footer text. A typical disambiguation page might look like this:</dd></dl>
+<pre>'''X''' can refer to:
+* ...
+* ...
+
+{{disambig}}
+</pre>
+<p><br />
+</p>
+<dl><dd>See also <a href="/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">Wikipedia:Disambiguation</a>, and remember to add the link to <a href="/wiki/Wikipedia:Links_to_disambiguating_pages" title="Wikipedia:Links to disambiguating pages">Wikipedia:Links to disambiguating pages</a> or <a href="/wiki/Wikipedia:Multiple-place_names" title="Wikipedia:Multiple-place names">Wikipedia:Multiple-place names</a>.</dd></dl>
+<h2><span class="mw-headline" id="Links">Links</span></h2>
+<ul><li>[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=edit}} edit]</li>
+<li>[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=history}} history]</li>
+<li>[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=watch}} watch]</li>
+<li>[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=unwatch}} unwatch]</li>
+<li>[{{SERVER}}{{localurl:{{NAMESPACE}}:{{PAGENAME}}|action=purge}} purge]</li></ul>
+<h2><span class="mw-headline" id="Redirects">Redirects</span></h2>
+<p>To redirect a page (1) to a different page (2), enter on the top of page 1:
+</p><p><b>#REDIRECT [[NAME OF PAGE 2]]</b>
+</p><p>For example, to redirect the <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Cambridge_University&amp;redirect=no">Cambridge University</a> page to the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a> page, <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Cambridge_University&amp;action=edit">edit</a> the Cambridge University page and enter:
+</p><p><b>#REDIRECT [[University of Cambridge]]</b>
+</p>
+<h2><span class="mw-headline" id="Table_of_contents">Table of contents</span></h2>
+<p><i>For more information, see</i> <a href="/wiki/Wikipedia:Section#Table_of_contents_(TOC)" class="mw-redirect" title="Wikipedia:Section">Wikipedia:Section#Table of contents (TOC)</a>.
+</p>
+<ul><li><b>__NOTOC__</b> - disables the automatic table of contents</li>
+<li><b>__FORCETOC__</b> - a table of contents is added even if the page has fewer than four headings</li>
+<li><b>__TOC__</b> - places a table of contents at the exact spot on the page where this tag is positioned.</li></ul>
+<h2><span class="mw-headline" id="Article_sections">Article sections</span></h2>
+<h3><span class="mw-headline" id="See_also">See also</span></h3>
+<dl><dt>As maintext</dt>
+<dd><i>See also</i>: <a href="/wiki/Wikipedia:Manual_of_Style#See_also_and_Related_topics_styles" title="Wikipedia:Manual of Style">Style</a></dd>
+<dd>''See also'': [[link1]], [[link2]], ...</dd></dl>
+<dl><dt>As header with list of links</dt></dl>
+<pre>== See also ==
+* [[Link 1]]
+* [[Link 2]]
+</pre>
+<h3><span class="mw-headline" id="References">References</span></h3>
+<p>Under a <tt>==Reference==</tt>  or  <tt>==References==</tt> section:
+</p>
+<dl><dt>From the <a href="/wiki/1911_Britannica" class="mw-redirect" title="1911 Britannica">1911 Britannica</a></dt></dl>
+<table style="margin: 0 2em; background: #fee; border: 1px dotted black;">
+
+<tbody><tr>
+<td>
+<p>* &#123;&#123;hide in print&#124;1&#61;
+&#60;!--
+sort out the icon to use
+--&#62;&#123;&#123;#if: &#123;&#123;&#123;noicon&#124;&#123;&#123;&#123;no-icon&#124;&#125;&#125;&#125;&#60;!--noicon--&#62;&#125;&#125;&#125; &#124;&#60;!--eq to empty--&#62;
+&#32;   &#124;&#60;!--then--&#62;&#123;&#123;#ifeq: &#123;&#123;&#123;wstitle&#124;&#125;&#125;&#125; &#124;&#60;!--eq to empty--&#62;
+&#32;                &#124;&#60;!--then--&#62;&#123;&#123;#ifeq: &#123;&#123;&#123;1&#124;&#125;&#125;&#125;&#124;&#60;!--eq to empty--&#62;
+&#32;                             &#124;&#60;!--then--&#62;&#91;&#91;File:PD-icon.svg&#124;12px&#124;alt&#61;Public Domain&#93;&#93;&#38;nbsp&#59;
+&#32;                             &#124;&#60;!--else--&#62;&#91;&#91;File:Wikisource-logo.svg&#124;12px&#124;class&#61;noviewer&#124;alt&#61;Wikisource&#93;&#93;&#38;nbsp&#59;
+&#32;                           &#125;&#125;
+&#32;                &#124;&#60;!--else--&#62;&#91;&#91;File:Wikisource-logo.svg&#124;12px&#124;class&#61;noviewer&#124;link&#61;&#124;alt&#61;&#93;&#93;&#38;nbsp&#59;
+&#32;               &#125;&#125;
+&#32;  &#125;&#125;
+&#125;&#125;&#60;!--Sort out the lead string
+--&#62;&#123;&#123;#ifeq: &#123;&#123;&#123;no-prescript&#124;&#123;&#123;&#123;noprescript&#124;&#125;&#125;&#125;&#60;!----&#62;&#125;&#125;&#125; &#124;&#60;!--eq to empty--&#62;
+&#32;   &#124;&#60;!--then display a prescript--&#62;&#123;&#123;#ifeq: &#123;&#123;&#123;inline&#124;&#123;&#123;&#123;footnote&#124;&#125;&#125;&#125;&#60;!--inline--&#62;&#125;&#125;&#125; &#124;&#60;!--eq to empty--&#62;
+&#32;                                    &#124;&#60;!--then display--&#62;This article
+&#32;                                    &#124;&#60;!--else display--&#62;One or more of the preceding sentences
+&#32;                                   &#125;&#125;&#60;!-- no white space
+&#32; --&#62;&#38;nbsp&#59;incorporates text from a publication now in the &#91;&#91;public domain&#93;&#93;:&#38;nbsp&#59;
+&#32;  &#125;&#125;&#60;!--no white space
+--&#62;&#123;&#123;#invoke:template wrapper&#124;&#123;&#123;#if:&#123;&#123;&#123;_debug&#124;&#125;&#125;&#125;&#124;list&#124;wrap&#125;&#125;&#124;_template&#61;cite EB1911
+&#32;   &#124;_exclude&#61;footnote, inline, noicon, no-icon, noprescript, no-prescript, _debug
+&#10;    &#124; noicon&#61;1
+&#32;   &#124; ref &#61; &#123;&#123;&#123;ref&#124;harv&#125;&#125;&#125;
+&#32;  &#125;&#125;&#60;!-- no white space
+--&#62;&#123;&#123;#ifeq: &#123;&#123;NAMESPACEE&#125;&#125; &#124;&#60;!--is set--&#62;&#124;&#91;&#91;Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica&#93;&#93;&#125;&#125;&#60;!--no white space
+--&#62;&#60;noinclude&#62;
+&#123;&#123;Documentation&#125;&#125;&#60;/noinclude&#62;&#60;!--
+--&#62;&#60;includeonly&#62;&#60;!--DO NOT PUT A BLANK LINE AFTER THIS COMMENT--&#62;
+</p>
+</td></tr></tbody></table>
+<dl><dt>From the <a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">Free On-line Dictionary of Computing</a></dt></dl>
+<table style="margin: 0 2em; background: #fee; border: 1px dotted black;">
+
+<tbody><tr>
+<td>
+<p>* &#60;span class&#61;&#34;citation foldoc&#34;&#62;&#60;small&#62;&#123;&#123;#if:&#123;&#123;&#123;new&#124;&#125;&#125;&#125;&#124;&#123;&#123;#if:&#123;&#123;&#123;1&#124;&#125;&#125;&#125;&#124;&#124;This article references material taken from&#125;&#125;&#124;This article is based on material taken from&#125;&#125; &#123;&#123;#if:&#123;&#123;&#123;1&#124;&#125;&#125;&#125;&#124;&#91;http&#58;//foldoc.org/&#123;&#123;&#123;1&#125;&#125;&#125; &#123;&#123;&#123;2&#124;&#123;&#123;&#123;1&#125;&#125;&#125;&#125;&#125;&#125;&#93; at&#125;&#125; the &#39;&#39;&#91;&#91;Free On-line Dictionary of Computing&#93;&#93;&#39;&#39; &#123;&#123;#if:&#123;&#123;&#123;new&#124;&#125;&#125;&#125;&#124;&#124;&#38;#32&#59;prior to 1 November 2008 and incorporated under the &#34;relicensing&#34; terms of the &#91;&#91;GNU Free Documentation License&#124;GFDL&#93;&#93;, version 1.3 or later&#125;&#125;&#123;&#123;#if:&#123;&#123;&#123;1&#124;&#125;&#125;&#125;&#124;&#123;&#123;#if:&#123;&#123;&#123;new&#124;&#125;&#125;&#125;&#124;&#124;.&#125;&#125;&#124;.&#125;&#125;&#60;/small&#62;&#60;/span&#62;&#60;noinclude&#62;&#123;&#123;Documentation&#125;&#125;&#60;/noinclude&#62;
+</p>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="External_links">External links</span></h3>
+<dl><dt>Titles</dt></dl>
+<p><b>PLEASE</b> add a title to an external link by supplying a text after the URL separated by a space, preferably the official title of the site, or if no official title exists the clearest title you can come up with. 
+</p><p>Most URLs are ugly and uninformative, so it is better to give an external link a meaningful title. For example,
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.esa.int/export/esaCP/index.html">European Space Agency official website</a></li></ul>
+<p>is much more readable than
+</p>
+<ul><li><a rel="nofollow" class="external free" href="http://www.esa.int/export/esaCP/index.html">http://www.esa.int/export/esaCP/index.html</a></li></ul>
+<p>The "printable version" of a page displays all URLs in full, including those given a title, so no information is lost.
+</p>
+<dl><dt>As header</dt>
+<dd><i>See also</i>: <a href="/wiki/Wikipedia:Manual_of_Style#URL_and_World_Wide_Web_style" title="Wikipedia:Manual of Style">Style</a></dd></dl>
+<pre>== External links ==
+* [http://www.urladdress.com Official Website Title]
+</pre>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="This_image_is_a_Wikipedia_Featured_Image">This image is a Wikipedia Featured Image</span></h2>
+<p>&#123;&#123;<a href="/wiki/Template:FeaturedPicture" class="mw-redirect" title="Template:FeaturedPicture">FeaturedPicture</a>&#125;&#125;
+</p>
+<h2><span class="mw-headline" id="This_page_needs_attention">This page needs attention</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Attention" class="mw-redirect" title="Template:Attention">attention</a>&#125;&#125;</dd></dl>
+<table class="Talk-Notice">
+<tbody><tr>
+<td align="center"><b>This article is in need of <a href="/wiki/Category:Pages_needing_attention" title="Category:Pages needing attention">attention</a></b>.<br />You can help Wikipedia by <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Boilerplate_text&amp;action=edit">editing</a></b> it into a <a href="/wiki/Wikipedia:How_to_write_a_great_article" class="mw-redirect" title="Wikipedia:How to write a great article">better article</a>.<br /><small>Please also consider <a href="/wiki/Wikipedia:Cleanup_resources" title="Wikipedia:Cleanup resources">changing this notice to be more specific</a>.</small>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="The_information_in_this_article_is_related_to_a_current_event">The information in this article is related to a current event</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Current" title="Template:Current">current</a>&#125;&#125;</dd></dl>
+<table class="messagebox current" style="width: auto;">
+
+<tbody><tr>
+<td><a href="/wiki/File:Current_event_marker.png" class="image"><img alt="Current event marker.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Current_event_marker.png/50px-Current_event_marker.png" decoding="async" width="50" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Current_event_marker.png/75px-Current_event_marker.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Current_event_marker.png/100px-Current_event_marker.png 2x" data-file-width="764" data-file-height="546" /></a>
+</td>
+<td><b>This article documents a <a href="/wiki/Current_events" class="mw-redirect" title="Current events">current event</a>.</b> <br /> <small>Information may change rapidly as the event progresses.</small>
+</td></tr></tbody></table>
+<h2><span id="This_article_should_be_moved_to_wiktionary_.28because_it_is_more_like_a_definition_of_a_word_than_an_encyclopedia_entry.29"></span><span class="mw-headline" id="This_article_should_be_moved_to_wiktionary_(because_it_is_more_like_a_definition_of_a_word_than_an_encyclopedia_entry)">This article should be moved to wiktionary (because it is more like a definition of a word than an encyclopedia entry)</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Move_to_Wiktionary" class="mw-redirect" title="Template:Move to Wiktionary">Move to Wiktionary</a>&#125;&#125;</dd></dl>
+<div class="messagebox transwiki" style="background-color: #fff7fb;">
+<p><b>This page is a candidate to be <a href="/wiki/Wikipedia:Things_to_be_moved_to_Wiktionary" title="Wikipedia:Things to be moved to Wiktionary">copied</a> to <a href="/wiki/Wiktionary" title="Wiktionary">Wiktionary</a>.</b><br />
+This article appears to be a <a href="/wiki/Dictionary" title="Dictionary">dictionary</a> entry, not an <a href="/wiki/Encyclopedia" title="Encyclopedia">encyclopedia</a> article. <a href="/wiki/Wikipedia:Wikipedia_is_not_a_dictionary" title="Wikipedia:Wikipedia is not a dictionary">Wikipedia is not a dictionary</a>, but <a href="https://en.wiktionary.org/wiki/Main_Page" class="extiw" title="wiktionary:Main Page">Wiktionary</a> is. Please verify that this article meets the <a href="https://en.wiktionary.org/wiki/Wiktionary:Criteria_for_inclusion" class="extiw" title="wiktionary:Wiktionary:Criteria for inclusion">Wiktionary criteria for inclusion</a>.
+If this article can be <a href="/wiki/Help:Editing" title="Help:Editing">modified</a> to be more than a dictionary entry,  please do so and remove this message. 
+</p>
+</div>
+<hr />
+<p>This template will categorise tagged articles into <a href="/wiki/Category:Copy_to_Wiktionary" title="Category:Copy to Wiktionary">Category:Copy to Wiktionary</a>.
+This <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a> is a <a href="/wiki/Wikipedia:Avoid_self-references" class="mw-redirect" title="Wikipedia:Avoid self-references">self-reference</a>.
+This template is not useful for <a href="/wiki/Wikipedia:Subst" class="mw-redirect" title="Wikipedia:Subst">Wikipedia:Subst</a>.
+</p>
+<h2><span class="mw-headline" id="See_also_2">See also</span></h2>
+<ul><li><a href="/wiki/Template:Move_to_Wiktionary" class="mw-redirect" title="Template:Move to Wiktionary">Template:Move to Wiktionary</a></li>
+<li><a href="/wiki/Template:Move_to_Wikiquote" class="mw-redirect" title="Template:Move to Wikiquote">Template:Move to Wikiquote</a></li>
+<li><a href="/wiki/Template:Move_to_Wikisource" class="mw-redirect" title="Template:Move to Wikisource">Template:Move to Wikisource</a></li>
+<li><a href="/wiki/Template:Move_to_Wikibooks" class="mw-redirect" title="Template:Move to Wikibooks">Template:Move to Wikibooks</a></li>
+<li><a href="/wiki/Template:Move_to_Wikibooks_Cookbook" class="mw-redirect" title="Template:Move to Wikibooks Cookbook">Template:Move to Wikibooks Cookbook</a></li>
+<li><a href="/w/index.php?title=Template:Move_to_Wikimedia_Commons&amp;action=edit&amp;redlink=1" class="new" title="Template:Move to Wikimedia Commons (page does not exist)">Template:Move to Wikimedia Commons</a></li>
+<li><a href="/wiki/Template:NowCommons" class="mw-redirect" title="Template:NowCommons">Template:NowCommons</a></li>
+<li><a href="/wiki/Template:NowCommonsThis" class="mw-redirect" title="Template:NowCommonsThis">Template:NowCommonsThis</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages/Cleanup" class="mw-redirect" title="Wikipedia:Template messages/Cleanup">Wikipedia:Template messages/Cleanup</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="The_neutrality_of_this_article_is_disputed">The neutrality of this article is disputed</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:POV" title="Template:POV">POV</a>&#125;&#125;</dd></dl>
+<table class="plainlinks ombox ombox-notice" role="presentation" style="background: AntiqueWhite"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Stop_hand.png" class="image"><img alt="Stop hand.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Stop_hand.png/45px-Stop_hand.png" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/f/ff/Stop_hand.png 1.5x" data-file-width="64" data-file-height="64" /></a></td><td class="mbox-text"><b>The <a href="/wiki/Wikipedia:Neutral_Point_of_View" class="mw-redirect" title="Wikipedia:Neutral Point of View">neutrality</a> of this article is <a href="/wiki/Wikipedia:NPOV_dispute" title="Wikipedia:NPOV dispute">disputed</a>.</b><br />Please see discussion on the <a href="/wiki/Wikipedia_talk:Boilerplate_text" title="Wikipedia talk:Boilerplate text">talk page</a>.</td></tr></tbody></table>
+<p><br />
+</p>
+<hr />
+<p>This template will categorise articles into <a href="/wiki/Category:NPOV_disputes" title="Category:NPOV disputes">Category:NPOV disputes</a> except this template.
+</p><p>This <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a> is a <a href="/wiki/Wikipedia:Avoid_self-references" class="mw-redirect" title="Wikipedia:Avoid self-references">self-reference</a>.
+</p>
+<h2><span class="mw-headline" id="See_also_3">See also</span></h2>
+<ul><li><a href="/wiki/Template:Controversial" title="Template:Controversial">Template:Controversial</a></li>
+<li><a href="/wiki/Template:Disputed" title="Template:Disputed">Template:Disputed</a></li>
+<li><a href="/wiki/Template:POV" title="Template:POV">Template:POV</a></li>
+<li><a href="/wiki/Template:POV-section" class="mw-redirect" title="Template:POV-section">Template:POV-section</a></li>
+<li><a href="/wiki/Template:Tools" title="Template:Tools">Template:Tools</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="This_article_lacks_detail_and_needs_to_be_expanded">This article lacks detail and needs to be expanded</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Expand" class="mw-disambig" title="Template:Expand">expand</a>&#125;&#125;</dd></dl>
+<table width="85%" align="center" class="expansion" style="background: #F8EABA; border: 1px solid #aaa; padding: .2em; margin-bottom: 3px; font-size: 95%;">
+<tbody><tr>
+<td style="padding-right: 4px; padding-left: 4px;"><a href="//en.wikipedia.org/wiki/Special:Upload?wpDestFile=Wiki_letter_w.png" class="new" title="File:Wiki letter w.png">File:Wiki letter w.png</a>
+</td>
+<td><b>It is requested that this article (or a section of this article) be expanded.</b><br />
+<p><small>See the request at <a href="/wiki/Wikipedia:Requests_for_expansion" title="Wikipedia:Requests for expansion">Wikipedia:Requests for expansion</a> or elsewhere on this talk page.</small>
+</p>
+</td></tr></tbody></table>
+<p><a href="/wiki/Category:Articles_to_be_expanded" title="Category:Articles to be expanded">Boilerplate text</a>
+</p>
+<h2><span class="mw-headline" id="This_article_should_be_used_as_a_style_guide_on_Wikipedia">This article should be used as a style guide on Wikipedia</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Guidelines" class="mw-redirect" title="Template:Guidelines">guidelines</a>&#125;&#125;</dd></dl>
+<table class="Talk-Notice">
+
+<tbody><tr>
+<td><b>This page is considered a <a href="/wiki/Wikipedia:Policies_and_guidelines" title="Wikipedia:Policies and guidelines">guideline</a> on Wikipedia.</b> It illustrates standards of conduct, which some or many editors agree with in principle. However, it is not policy. <a href="/wiki/Wikipedia:Be_bold" title="Wikipedia:Be bold">Feel free</a> to update the page as needed, but please use the <a href="/wiki/Wikipedia_talk:Boilerplate_text" title="Wikipedia talk:Boilerplate text">discussion page</a> to propose major changes.
+<p><a href="/wiki/Category:Wikipedia_guidelines" title="Category:Wikipedia guidelines">Boilerplate text</a>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="This_article_needs_cleaning_up_to_conform_to_higher_standards">This article needs cleaning up to conform to higher standards</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Cleanup" title="Template:Cleanup">cleanup</a>&#125;&#125;</dd></dl>
+<div class="notice metadata" id="cleanup" style="text-align: center; background: #efefff; margin: 1em 10%; border: #9F9FFF 1px solid;">This article needs to be <b><a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleaned up</a></b> to conform to a <a href="/wiki/Wikipedia:Style_and_How-to_Directory" title="Wikipedia:Style and How-to Directory">higher standard</a> of quality.<br /><small>See <a href="/wiki/Wikipedia:How_to_edit_a_page" class="mw-redirect" title="Wikipedia:How to edit a page">How to Edit</a> and <a href="/wiki/Wikipedia:Style_and_How-to_Directory" title="Wikipedia:Style and How-to Directory">Style and How-to</a> for help, or this article's <a href="/wiki/Talk:Boilerplate_text" title="Talk:Boilerplate text">talk page</a>. </small></div>
+<hr />
+<p>This template will categorise tagged articles into <a href="/wiki/Category:Wikipedia_cleanup" title="Category:Wikipedia cleanup">Category:Wikipedia cleanup</a>.
+This <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a> is a <a href="/wiki/Wikipedia:Avoid_self-references" class="mw-redirect" title="Wikipedia:Avoid self-references">self-reference</a>.
+This template is not useful for <a href="/wiki/Wikipedia:Subst" class="mw-redirect" title="Wikipedia:Subst">Wikipedia:Subst</a>.
+</p>
+<h2><span class="mw-headline" id="See_also_4">See also</span></h2>
+<ul><li><a href="/wiki/Template:Cleanup" title="Template:Cleanup">Template:Cleanup</a></li>
+<li><a href="/wiki/Template:Cleanup-date" class="mw-redirect" title="Template:Cleanup-date">Template:Cleanup-date</a></li>
+<li><a href="/w/index.php?title=Template:Cleanup-remainder&amp;action=edit&amp;redlink=1" class="new" title="Template:Cleanup-remainder (page does not exist)">Template:Cleanup-remainder</a></li>
+<li><a href="/wiki/Template:Cleanup-section" class="mw-redirect" title="Template:Cleanup-section">Template:Cleanup-section</a></li>
+<li><a href="/wiki/Template:Cleanup-image" class="mw-redirect" title="Template:Cleanup-image">Template:Cleanup-image</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages/Cleanup" class="mw-redirect" title="Wikipedia:Template messages/Cleanup">Wikipedia:Template messages/Cleanup</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="It_has_been_suggested_that_this_article_be_merged_to_or_from_the_following:">It has been suggested that this article be merged to or from the following:</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Mergeto" class="mw-redirect" title="Template:Mergeto">mergeto</a>&#125;&#125;</dd></dl>
+<div class="messagebox merge"> <div class="floatleft"><a href="/wiki/File:Merge-arrow.gif" class="image"><img alt="Merge-arrow.gif" src="//upload.wikimedia.org/wikipedia/commons/6/68/Merge-arrow.gif" decoding="async" width="50" height="20" data-file-width="50" data-file-height="20" /></a></div> It has been suggested that this article or section be <a href="/wiki/Wikipedia:Merging_and_moving_pages" class="mw-redirect" title="Wikipedia:Merging and moving pages">merged</a> into <i><a href="/wiki/Wikipedia:Apple" class="mw-redirect" title="Wikipedia:Apple">Apple</a></i>. (<a href="/wiki/Wikipedia_talk:Apple" class="mw-redirect" title="Wikipedia talk:Apple">Discuss</a>)</div>
+<hr />
+<p>This template will categorise tagged articles into <a href="/wiki/Category:Articles_to_be_merged" title="Category:Articles to be merged">Category:Articles to be merged</a>.
+This <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a> is a <a href="/wiki/Wikipedia:Avoid_self-references" class="mw-redirect" title="Wikipedia:Avoid self-references">self-reference</a>.
+This template is not useful for <a href="/wiki/Wikipedia:Subst" class="mw-redirect" title="Wikipedia:Subst">Wikipedia:Subst</a>.
+</p>
+<h2><span class="mw-headline" id="See_also_5">See also</span></h2>
+<ul><li><a href="/wiki/Template:Split" title="Template:Split">Template:Split</a></li>
+<li><a href="/wiki/Template:Merge" title="Template:Merge">Template:Merge</a></li>
+<li><a href="/wiki/Template:Mergeto" class="mw-redirect" title="Template:Mergeto">Template:Mergeto</a></li>
+<li><a href="/wiki/Template:Mergefrom" class="mw-redirect" title="Template:Mergefrom">Template:Mergefrom</a></li>
+<li><a href="/w/index.php?title=Template:Mergesection&amp;action=edit&amp;redlink=1" class="new" title="Template:Mergesection (page does not exist)">Template:Mergesection</a></li>
+<li><a href="/w/index.php?title=Template:Mergesections&amp;action=edit&amp;redlink=1" class="new" title="Template:Mergesections (page does not exist)">Template:Mergesections</a></li>
+<li><a href="/wiki/Template:Merging" title="Template:Merging">Template:Merging</a></li>
+<li><a href="/wiki/Template:Mergedisputed" class="mw-redirect" title="Template:Mergedisputed">Template:Mergedisputed</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages/Cleanup" class="mw-redirect" title="Wikipedia:Template messages/Cleanup">Wikipedia:Template messages/Cleanup</a></li></ul>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Mergefrom" class="mw-redirect" title="Template:Mergefrom">mergefrom</a>&#125;&#125;</dd></dl>
+<div class="messagebox merge"> <div class="floatleft"><a href="/wiki/File:Mergefrom.gif" class="image"><img alt="Mergefrom.gif" src="//upload.wikimedia.org/wikipedia/commons/a/ae/Mergefrom.gif" decoding="async" width="50" height="20" data-file-width="50" data-file-height="20" /></a></div> It has been suggested that <i><a href="/w/index.php?title=Wikipedia:Oranges&amp;action=edit&amp;redlink=1" class="new" title="Wikipedia:Oranges (page does not exist)">Oranges</a></i> be <a href="/wiki/Wikipedia:Merging_and_moving_pages" class="mw-redirect" title="Wikipedia:Merging and moving pages">merged</a> into this article or section. (<a href="/wiki/Wikipedia_talk:Boilerplate_text" title="Wikipedia talk:Boilerplate text">Discuss</a>)</div>
+<hr />
+<p>This template will categorise tagged articles into <a href="/wiki/Category:Articles_to_be_merged" title="Category:Articles to be merged">Category:Articles to be merged</a>.
+This <a href="/wiki/Wikipedia:Template" class="mw-redirect" title="Wikipedia:Template">template</a> is a <a href="/wiki/Wikipedia:Avoid_self-references" class="mw-redirect" title="Wikipedia:Avoid self-references">self-reference</a>.
+This template is not useful for <a href="/wiki/Wikipedia:Subst" class="mw-redirect" title="Wikipedia:Subst">Wikipedia:Subst</a>.
+</p>
+<h2><span class="mw-headline" id="See_also_6">See also</span></h2>
+<ul><li><a href="/wiki/Template:Split" title="Template:Split">Template:Split</a></li>
+<li><a href="/wiki/Template:Merge" title="Template:Merge">Template:Merge</a></li>
+<li><a href="/wiki/Template:Mergeto" class="mw-redirect" title="Template:Mergeto">Template:Mergeto</a></li>
+<li><a href="/wiki/Template:Mergefrom" class="mw-redirect" title="Template:Mergefrom">Template:Mergefrom</a></li>
+<li><a href="/w/index.php?title=Template:Mergesection&amp;action=edit&amp;redlink=1" class="new" title="Template:Mergesection (page does not exist)">Template:Mergesection</a></li>
+<li><a href="/w/index.php?title=Template:Mergesections&amp;action=edit&amp;redlink=1" class="new" title="Template:Mergesections (page does not exist)">Template:Mergesections</a></li>
+<li><a href="/wiki/Template:Merging" title="Template:Merging">Template:Merging</a></li>
+<li><a href="/wiki/Template:Mergedisputed" class="mw-redirect" title="Template:Mergedisputed">Template:Mergedisputed</a></li>
+<li><a href="/wiki/Wikipedia:Template_messages/Cleanup" class="mw-redirect" title="Wikipedia:Template messages/Cleanup">Wikipedia:Template messages/Cleanup</a></li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="The_subject_of_an_article_is_a_registered_Wikipedia_editor">The subject of an article is a registered Wikipedia editor</span></h2>
+<dl><dd>&#123;&#123;<a href="/wiki/Template:Notable_Wikipedian" class="mw-redirect" title="Template:Notable Wikipedian">Notable Wikipedian</a>&#125;&#125;</dd></dl>
+<table class="Talk-Notice" id="wikipedianarticle">
+
+<tbody><tr>
+<td><a href="/wiki/File:Wikipedia-logo.png" class="image" title="Wikipedian"><img alt="Wikipedian" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/42px-Wikipedia-logo.png" decoding="async" width="42" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/63px-Wikipedia-logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/84px-Wikipedia-logo.png 2x" data-file-width="200" data-file-height="200" /></a>
+</td>
+<td><i>The subject of this article, <b>Boilerplate text</b>, edits Wikipedia as [[User:{{{1}}}]].</i>
+<ul><li><small>(This message should <i>only</i> be placed on talk pages.)</small></li></ul>
+</td></tr></tbody></table>
+<p><b>Note:</b> This template is designed to be placed on the article's talk page.
+</p>
+<h2><span class="mw-headline" id="See_also_7">See also</span></h2>
+<ul><li><a href="/wiki/Wikipedia:Boilerplate_request_for_permission" class="mw-redirect" title="Wikipedia:Boilerplate request for permission">Wikipedia:Boilerplate request for permission</a></li>
+<li><a href="/wiki/Wikipedia:Copyright_problems" title="Wikipedia:Copyright problems">Wikipedia:Copyright problems</a></li>
+<li><a href="/wiki/Wikipedia:Image_markup_gallery" class="mw-redirect" title="Wikipedia:Image markup gallery">Wikipedia:Image markup gallery</a></li>
+<li><a href="/wiki/Wikipedia:Image_use_policy#Markup" title="Wikipedia:Image use policy">Wikipedia:Image use policy#Markup</a></li>
+<li><a href="/wiki/Wikipedia:Standard_user_greeting" class="mw-redirect" title="Wikipedia:Standard user greeting">Wikipedia:Standard user greeting</a></li>
+<li><a href="/wiki/Wikipedia:WikiProject" title="Wikipedia:WikiProject">Wikipedia:WikiProject</a></li>
+<li><a href="/wiki/Help:Template" title="Help:Template">Help:Template</a>: Templates are used to add recurring messages to pages in a consistent way.</li>
+<li><a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">WP:Stub</a> where boilerplate for the creation of stub templates and stub categories is found.</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20200221114356
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.152 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 731/1000000
+Post‐expand include size: 18065/2097152 bytes
+Template argument size: 734/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1026/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.019/10.000 seconds
+Lua memory usage: 1.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  136.019      1 -total
+ 50.61%   68.838      1 Template:Historical
+ 48.83%   66.418      2 Template:Mbox
+ 28.11%   38.230      1 Template:Listdev
+ 21.69%   29.503      1 Template:Hatnote
+ 20.14%   27.390      1 Template:Ombox/shortcut
+ 17.23%   23.439      1 Template:Ubl
+ 16.87%   22.946      1 Template:TDMCA
+ 14.32%   19.478      1 Template:DMCA
+ 11.07%   15.059      1 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:81951-0!canonical and timestamp 20200221114355 and revision id 783224754
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wikipedia:Boilerplate_text&amp;oldid=783224754">https://en.wikipedia.org/w/index.php?title=Wikipedia:Boilerplate_text&amp;oldid=783224754</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Inactive_project_pages" title="Category:Inactive project pages">Inactive project pages</a></li><li><a href="/wiki/Category:Wikipedia_maintenance" title="Category:Wikipedia maintenance">Wikipedia maintenance</a></li><li><a href="/wiki/Category:Wikipedia_how-to" title="Category:Wikipedia how-to">Wikipedia how-to</a></li><li><a href="/wiki/Category:Wikipedia_template_management" title="Category:Wikipedia template management">Wikipedia template management</a></li><li><a href="/wiki/Category:Wikipedia_boilerplate_text" title="Category:Wikipedia boilerplate text">Wikipedia boilerplate text</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_missing_files" title="Category:Pages with missing files">Pages with missing files</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Navigation menu</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Personal tools</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Not logged in</li>
+		<li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wikipedia%3ABoilerplate+text" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wikipedia%3ABoilerplate+text" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Namespaces</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikipedia:Boilerplate_text" title="View the project page [c]" accesskey="c">Project page</a></li><li id="ca-talk"><a href="/wiki/Wikipedia_talk:Boilerplate_text" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Views</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikipedia:Boilerplate_text">Read</a></li><li id="ca-viewsource" class="collapsible"><a href="/w/index.php?title=Wikipedia:Boilerplate_text&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikipedia:Boilerplate_text&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Special:Search" name="title"/>
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-interaction"  aria-labelledby="p-interaction-label">
+	<h3  id="p-interaction-label">
+		Interaction
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Tools
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wikipedia:Boilerplate_text" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wikipedia:Boilerplate_text" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Boilerplate_text&amp;oldid=783224754" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Boilerplate_text&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15885241" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Print/export
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wikipedia%3ABoilerplate+text">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wikipedia%3ABoilerplate+text&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Boilerplate_text&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Languages
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Wikipedia:%E6%A0%B7%E6%9D%BF%E6%96%87%E5%AD%97" title="Wikipedia:样板文字 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15885241#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> This page was last edited on 31 May 2017, at 22:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wikipedia:Boilerplate_text&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.226","ppvisitednodes":{"value":731,"limit":1000000},"postexpandincludesize":{"value":18065,"limit":2097152},"templateargumentsize":{"value":734,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1026,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  136.019      1 -total"," 50.61%   68.838      1 Template:Historical"," 48.83%   66.418      2 Template:Mbox"," 28.11%   38.230      1 Template:Listdev"," 21.69%   29.503      1 Template:Hatnote"," 20.14%   27.390      1 Template:Ombox/shortcut"," 17.23%   23.439      1 Template:Ubl"," 16.87%   22.946      1 Template:TDMCA"," 14.32%   19.478      1 Template:DMCA"," 11.07%   15.059      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.019","limit":"10.000"},"limitreport-memusage":{"value":1108873,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20200221114356","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1327"});});</script></body></html>

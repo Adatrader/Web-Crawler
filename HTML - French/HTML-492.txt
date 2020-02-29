@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fr" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipédia — Wikilivres</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],"wgMonthNamesShort":["","janv.","fév.","mars","avr.","mai","juin","juill.","août","sept.","oct.","nov.","déc."],"wgRequestId":"XloEaApAMEsAAGNDHYQAAAEF","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wikipédia","wgTitle":"Wikipédia","wgCurRevisionId":612873,"wgRevisionId":612873,"wgArticleId":17151,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Catégories Commons avec lien local identique sur Wikidata","Livres avec version imprimée","Wikimedia","Wikipédia (livre)"],"wgPageContentLanguage":"fr","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Wikipédia","wgRelevantArticleId":17151,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"fr","pageLanguageDir":"ltr","pageVariantFallbacks":"fr"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"français","wgNoticeProject":"wikibooks","wgWikibaseItemId":"Q52","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready",
+"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.extlinks","ext.gadget.EditIndex","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1dpod",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fr"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=fr&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=fr&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Modifier" href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit"/>
+<link rel="edit" title="Modifier" href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit"/>
+<link rel="shortcut icon" href="/static/favicon/wikibooks.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikilivres (fr)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fr.wikibooks.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Flux Atom de Wikilivres" href="/w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&amp;feed=atom"/>
+<link rel="canonical" href="https://fr.wikibooks.org/wiki/Wikip%C3%A9dia"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wikipédia rootpage-Wikipédia skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="fr">Wikipédia</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Un livre de Wikilivres.</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Sauter à la navigation</a>
+		<a class="mw-jump-link" href="#p-search">Sauter à la recherche</a>
+		<div id="mw-content-text" lang="fr" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Ce livre est composé de quatre parties&#160;:
+</p>
+<div style="background: white; opacity: 0.9;" class="noprint etiquette etiquettevert">
+<table style="opacity: 1;">
+<tbody><tr>
+<td><img alt="Books-aj.svg aj ashton 01e.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Books-aj.svg_aj_ashton_01e.svg/40px-Books-aj.svg_aj_ashton_01e.svg.png" decoding="async" width="40" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Books-aj.svg_aj_ashton_01e.svg/60px-Books-aj.svg_aj_ashton_01e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Books-aj.svg_aj_ashton_01e.svg/80px-Books-aj.svg_aj_ashton_01e.svg.png 2x" data-file-width="309" data-file-height="274" />
+</td>
+<td>Une <a rel="nofollow" class="external text" href="http://www.pug.fr/produit/1/9782706114953/Wikipedia">version imprimée</a> de Wikipédia est disponible aux éditions PUG. Les auteurs de cette version originale sont Florence Devouard et Guillaume Paumier.
+</td></tr></tbody></table>
+</div>
+<ul><li><a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia" title="Wikipédia/Découvrir Wikipédia">Découvrir Wikipédia</a></li>
+<li><a href="/wiki/Wikip%C3%A9dia/Utiliser_Wikip%C3%A9dia" title="Wikipédia/Utiliser Wikipédia">Utiliser Wikipédia</a></li>
+<li><a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia" title="Wikipédia/Contribuer à Wikipédia">Contribuer à Wikipédia</a></li>
+<li><a href="/wiki/Wikip%C3%A9dia/Wikip%C3%A9dia_dans_la_classe" title="Wikipédia/Wikipédia dans la classe">Wikipédia dans la classe</a></li></ul>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fr" dir="ltr"><h2 id="mw-toc-heading">Sections</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Sommaire"><span class="tocnumber">1</span> <span class="toctext">Sommaire</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Partie_1_:_Découvrir_Wikipédia"><span class="tocnumber">1.1</span> <span class="toctext">Partie 1&#160;: Découvrir Wikipédia</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Partie_2_:_Utiliser_Wikipédia"><span class="tocnumber">1.2</span> <span class="toctext">Partie 2&#160;: Utiliser Wikipédia</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Partie_3_:_Contribuer_à_Wikipédia"><span class="tocnumber">1.3</span> <span class="toctext">Partie 3&#160;: Contribuer à Wikipédia</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Partie_4_:_Wikipédia_dans_la_classe"><span class="tocnumber">1.4</span> <span class="toctext">Partie 4&#160;: Wikipédia dans la classe</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Voir_aussi"><span class="tocnumber">2</span> <span class="toctext">Voir aussi</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Autres_ouvrages_sur_Wikipedia"><span class="tocnumber">3</span> <span class="toctext">Autres ouvrages sur Wikipedia</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Sommaire">Sommaire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Modifier la section : Sommaire">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=1" title="Modifier la section : Sommaire">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Partie_1_:_D.C3.A9couvrir_Wikip.C3.A9dia"></span><span class="mw-headline" id="Partie_1_:_Découvrir_Wikipédia">Partie 1&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia" title="Wikipédia/Découvrir Wikipédia">Découvrir Wikipédia</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Modifier la section : Partie 1 : Découvrir Wikipédia">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=2" title="Modifier la section : Partie 1 : Découvrir Wikipédia">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Bien utiliser et participer à Wikipédia, l’encyclopédie libre, passe par la compréhension de son histoire, des principes fondateurs qui la gouvernent, et des enjeux financiers et juridiques de la société de la connaissance. Cette partie —&#160;qui ne se veut aucunement exhaustive sur la question&#160;— a été rédigée de façon à fournir les éléments indispensables pour appréhender le phénomène.
+</p>
+<ul><li>Chapitre 1&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia/Pr%C3%A9sentation_et_contexte" title="Wikipédia/Découvrir Wikipédia/Présentation et contexte">Présentation et contexte</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 2&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia/Explorer_l%27histoire" title="Wikipédia/Découvrir Wikipédia/Explorer l&#39;histoire">Explorer l'histoire</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 3&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia/Structures_associatives" title="Wikipédia/Découvrir Wikipédia/Structures associatives">Structures associatives</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 4&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia/Principes_fondateurs" title="Wikipédia/Découvrir Wikipédia/Principes fondateurs">Principes fondateurs</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 5&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia/La_notion_de_licence_libre" title="Wikipédia/Découvrir Wikipédia/La notion de licence libre">La notion de licence libre</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 6&#160;: <a href="/wiki/Wikip%C3%A9dia/D%C3%A9couvrir_Wikip%C3%A9dia/Les_projets_associ%C3%A9s_%C3%A0_Wikip%C3%A9dia" title="Wikipédia/Découvrir Wikipédia/Les projets associés à Wikipédia">Les projets associés à Wikipédia</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li></ul>
+<h3><span id="Partie_2_:_Utiliser_Wikip.C3.A9dia"></span><span class="mw-headline" id="Partie_2_:_Utiliser_Wikipédia">Partie 2&#160;: <a href="/wiki/Wikip%C3%A9dia/Utiliser_Wikip%C3%A9dia" title="Wikipédia/Utiliser Wikipédia">Utiliser Wikipédia</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Modifier la section : Partie 2 : Utiliser Wikipédia">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=3" title="Modifier la section : Partie 2 : Utiliser Wikipédia">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>De nombreux visiteurs font une utilisation instantanée de Wikipédia&#160;: ils sont dirigés sur l’encyclopédie par un moteur de recherche, copient une information et ne vont pas plus loin. La nature ouverte de Wikipédia nécessite pourtant de comprendre son fonctionnement afin d’être conscient de ses limites et d’adopter une attitude critique face à l’information. Cette partie est destinée au lecteur occasionnel ou assidu de Wikipédia, qui souhaite optimiser l’utilisation de cet outil.
+</p>
+<ul><li>Chapitre 1&#160;: <a href="/wiki/Wikip%C3%A9dia/Utiliser_Wikip%C3%A9dia/Explorer_Wikip%C3%A9dia" title="Wikipédia/Utiliser Wikipédia/Explorer Wikipédia">Explorer Wikipédia</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 2&#160;: <a href="/wiki/Wikip%C3%A9dia/Utiliser_Wikip%C3%A9dia/Consulter_les_articles" title="Wikipédia/Utiliser Wikipédia/Consulter les articles">Consulter les articles</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li><a href="/wiki/Wikip%C3%A9dia/Utiliser_Wikip%C3%A9dia/Fiches_pratiques" title="Wikipédia/Utiliser Wikipédia/Fiches pratiques">Fiches pratiques</a> <a href="/wiki/Fichier:100_percent.svg" class="image" title="Terminé"><img alt="Terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/9px-100_percent.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/14px-100_percent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/18px-100_percent.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li></ul>
+<h3><span id="Partie_3_:_Contribuer_.C3.A0_Wikip.C3.A9dia"></span><span class="mw-headline" id="Partie_3_:_Contribuer_à_Wikipédia">Partie 3&#160;: <a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia" title="Wikipédia/Contribuer à Wikipédia">Contribuer à Wikipédia</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Modifier la section : Partie 3 : Contribuer à Wikipédia">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=4" title="Modifier la section : Partie 3 : Contribuer à Wikipédia">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Vous consultez régulièrement Wikipédia et vous rencontrez de temps en temps des fautes de français, des imprécisions ou des erreurs. Peut-être avez-vous déjà apporté des corrections mineures. Le maître mot d’un wiki est&#160;: n’hésitez pas&#160;! Un wiki se construit petit à petit avec les contributions de ses visiteurs, qui deviennent auteurs. Laissez-vous tenter par les corrections orthographiques, la mise en page… Puis vous prendrez de l’assurance, rédigerez des paragraphes, des articles… Vous sentirez alors combien il est gratifiant de partager ses connaissances&#160;!
+</p>
+<ul><li>Chapitre 1&#160;: <a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia/Modifier_une_page" title="Wikipédia/Contribuer à Wikipédia/Modifier une page">Modifier une page</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 2&#160;: <a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia/Illustrer_un_article" title="Wikipédia/Contribuer à Wikipédia/Illustrer un article">Illustrer un article</a> <a href="/wiki/Fichier:75%25.svg" class="image" title="Presque terminé"><img alt="Presque terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/9px-75%25.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/14px-75%25.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/75%25.svg/18px-75%25.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 3&#160;: <a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia/Commencer_sans_%C3%AAtre_perdu" title="Wikipédia/Contribuer à Wikipédia/Commencer sans être perdu">Commencer sans être perdu</a> <a href="/wiki/Fichier:100_percent.svg" class="image" title="Terminé"><img alt="Terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/9px-100_percent.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/14px-100_percent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/18px-100_percent.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li>Chapitre 4&#160;: <a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia/Communiquer" title="Wikipédia/Contribuer à Wikipédia/Communiquer">Communiquer</a> <a href="/wiki/Fichier:100_percent.svg" class="image" title="Terminé"><img alt="Terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/9px-100_percent.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/14px-100_percent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/18px-100_percent.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li>
+<li><a href="/wiki/Wikip%C3%A9dia/Contribuer_%C3%A0_Wikip%C3%A9dia/Fiches_pratiques" title="Wikipédia/Contribuer à Wikipédia/Fiches pratiques">Fiches pratiques</a> <a href="/wiki/Fichier:100_percent.svg" class="image" title="Terminé"><img alt="Terminé" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/9px-100_percent.svg.png" decoding="async" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/14px-100_percent.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/100_percent.svg/18px-100_percent.svg.png 2x" data-file-width="9" data-file-height="9" /></a></li></ul>
+<h3><span id="Partie_4_:_Wikip.C3.A9dia_dans_la_classe"></span><span class="mw-headline" id="Partie_4_:_Wikipédia_dans_la_classe">Partie 4&#160;: <a href="/wiki/Wikip%C3%A9dia/Wikip%C3%A9dia_dans_la_classe" title="Wikipédia/Wikipédia dans la classe">Wikipédia dans la classe</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Modifier la section : Partie 4 : Wikipédia dans la classe">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=5" title="Modifier la section : Partie 4 : Wikipédia dans la classe">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="Voir_aussi">Voir aussi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Modifier la section : Voir aussi">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=6" title="Modifier la section : Voir aussi">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint" style="clear:right;float:right;margin:1em;margin-right:0;width:261px;border:solid #AAAAAA 1px;background:#F9F9F9;padding:4px;font-size:90%;text-align:left">
+<p>Consultez également ces pages dans d’<a href="https://foundation.wikimedia.org/wiki/Nos_projets" class="extiw" title="wikimedia:Nos projets">autres&#160;projets&#160;Wikimedia</a>&#160;:
+</p>
+<table rules="none" border="0" cellspacing="0" cellpadding="2" style="border:none;background:transparent">
+
+<tbody><tr>
+<td><div style="position:relative;width:25px;height:34px;z-index:2;overflow:hidden"><img alt="Image logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/25px-Commons-logo.svg.png" decoding="async" width="25" height="34" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/50px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /><div class="nodeco" style="position:absolute;top:0;left:0;padding-top:3px;z-index:3"><a href="https://commons.wikimedia.org/wiki/Category:Wikipedia" class="extiw" title="commons:Category:Wikipedia"><span style="float:left;width:25px;height:34px;font-size:34px;line-height:34px;word-spacing:25px;cursor:pointer">&#160; &#160;</span></a></div></div>
+</td>
+<td><i><b><a href="https://commons.wikimedia.org/wiki/Category:Wikipedia" class="extiw" title="commons:Category:Wikipedia">Ressources multimédia</a></b></i> sur&#160;Commons.
+</td></tr>
+<tr>
+<td><div style="position:relative;width:25px;height:25px;z-index:2;overflow:hidden"><img alt="Image logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wikipedia-logo-en.png/25px-Wikipedia-logo-en.png" decoding="async" width="25" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wikipedia-logo-en.png/38px-Wikipedia-logo-en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wikipedia-logo-en.png/50px-Wikipedia-logo-en.png 2x" data-file-width="135" data-file-height="155" /><div class="nodeco" style="position:absolute;top:0;left:0;padding-top:3px;z-index:3"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia" class="extiw" title="w:Wikipédia"><span style="float:left;width:25px;height:25px;font-size:25px;line-height:25px;word-spacing:25px;cursor:pointer">&#160; &#160;</span></a></div></div>
+</td>
+<td><i><b><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia" class="extiw" title="w:Wikipédia">Article encyclopédique</a></b></i> sur&#160;Wikipédia.
+</td></tr>
+<tr>
+<td><div style="position:relative;width:25px;height:25px;z-index:2;overflow:hidden"><img alt="Image logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/25px-Wiktionary-logo.svg.png" decoding="async" width="25" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/38px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/50px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /><div class="nodeco" style="position:absolute;top:0;left:0;padding-top:3px;z-index:3"><a href="https://fr.wiktionary.org/wiki/Wikip%C3%A9dia" class="extiw" title="wikt:Wikipédia"><span style="float:left;width:25px;height:25px;font-size:25px;line-height:25px;word-spacing:25px;cursor:pointer">&#160; &#160;</span></a></div></div>
+</td>
+<td><i><b><a href="https://fr.wiktionary.org/wiki/Wikip%C3%A9dia" class="extiw" title="wikt:Wikipédia">Définition</a></b></i> sur&#160;Wiktionnaire.
+</td></tr>
+<tr>
+<td><div style="position:relative;width:25px;height:25px;z-index:2;overflow:hidden;"><img alt="Image logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/25px-Wikiversity-logo.svg.png" decoding="async" width="25" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/38px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/50px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /><div class="nodeco" style="position:absolute;top:0;left:0;padding-top:3px;z-index:3;"><a href="https://fr.wikiversity.org/wiki/Participer_%C3%A0_Wikip%C3%A9dia" class="extiw" title="v:Participer à Wikipédia"><span style="float:left;width:25px;height:25px;font-size:25px;line-height:25px;word-spacing:25px;cursor:pointer">&#160; &#160;</span></a></div></div>
+</td>
+<td><i><b><a href="https://fr.wikiversity.org/wiki/Participer_%C3%A0_Wikip%C3%A9dia" class="extiw" title="v:Participer à Wikipédia">Connaissances universitaires</a></b></i> sur&#160;Wikiversité.
+</td></tr>
+<tr>
+<td><div style="position:relative;width:25px;height:30px;z-index:2;overflow:hidden;"><img alt="Image logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/25px-Wikiquote-logo.svg.png" decoding="async" width="25" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/38px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/50px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /><div class="nodeco" style="position:absolute;top:0;left:0;padding-top:3px;z-index:3;"><a href="https://fr.wikiquote.org/wiki/Wikip%C3%A9dia" class="extiw" title="q:Wikipédia"><span style="float:left;width:25px;height:30px;font-size:30px;line-height:30px;word-spacing:25px;cursor:pointer">&#160; &#160;</span></a></div></div>
+</td>
+<td><i><b><a href="https://fr.wikiquote.org/wiki/Wikip%C3%A9dia" class="extiw" title="q:Wikipédia">Citations</a></b></i> sur&#160;Wikiquote.
+</td></tr>
+<tr>
+<td><div style="position:relative;width:25px;height:19px;z-index:2;overflow:hidden;"><img alt="Image logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/25px-Wikinews-logo.svg.png" decoding="async" width="25" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/38px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/50px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415" /><div class="nodeco" style="position:absolute;top:0;left:0;padding-top:3px;z-index:3;"><a href="https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia" class="extiw" title="n:Catégorie:Wikipédia"><span style="float:left;width:25px;height:19px;font-size:19px;line-height:19px;word-spacing:25px;cursor:pointer">&#160; &#160;</span></a></div></div>
+</td>
+<td><i><b><a href="https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia" class="extiw" title="n:Catégorie:Wikipédia">Article d’actualité</a></b></i> sur&#160;Wikinews.
+</td></tr>
+</tbody></table></div>
+<ul><li><a href="/wiki/Wikimedia" title="Wikimedia">Wikimedia</a></li>
+<li><a href="https://fr.wikipedia.org/wiki/Aide:Monobook" class="extiw" title="w:Aide:Monobook">Monobook</a> (comment personnaliser son CSS et JavaScript)</li></ul>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Autres_ouvrages_sur_Wikipedia">Autres ouvrages sur Wikipedia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Modifier la section : Autres ouvrages sur Wikipedia">modifier</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit&amp;section=7" title="Modifier la section : Autres ouvrages sur Wikipedia">modifier le wikicode</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://www.smashwords.com/b/293965">Guide sur Wikipédia</a> (Claude Trudel)</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1337
+Cached time: 20200228204237
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.088 seconds
+Real time usage: 0.114 seconds
+Preprocessor visited node count: 264/1000000
+Post‐expand include size: 8047/2097152 bytes
+Template argument size: 863/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   58.427      1 -total
+ 69.90%   40.840      1 Modèle:Autres_projets
+ 11.85%    6.926      1 Modèle:Version_imprimée
+  6.41%    3.747      1 Modèle:Méta-étiquette
+  5.87%    3.432     10 Modèle:3/4
+  5.45%    3.182      4 Modèle:4/4
+  4.82%    2.816      1 Modèle:Incise
+-->
+
+<!-- Saved in parser cache with key frwikibooks:pcache:idhash:17151-0!canonical and timestamp 20200228204237 and revision id 612873
+ -->
+</div><noscript><img src="//fr.wikibooks.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Récupérée de «&#160;<a dir="ltr" href="https://fr.wikibooks.org/w/index.php?title=Wikipédia&amp;oldid=612873">https://fr.wikibooks.org/w/index.php?title=Wikipédia&amp;oldid=612873</a>&#160;»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Sp%C3%A9cial:Cat%C3%A9gories" title="Spécial:Catégories">Catégories</a> : <ul><li><a href="/wiki/Cat%C3%A9gorie:Livres_avec_version_imprim%C3%A9e" title="Catégorie:Livres avec version imprimée">Livres avec version imprimée</a></li><li><a href="/wiki/Cat%C3%A9gorie:Wikimedia" title="Catégorie:Wikimedia">Wikimedia</a></li><li><a href="/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia_(livre)" title="Catégorie:Wikipédia (livre)">Wikipédia (livre)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Catégorie cachée : <ul><li><a href="/wiki/Cat%C3%A9gorie:Cat%C3%A9gories_Commons_avec_lien_local_identique_sur_Wikidata" title="Catégorie:Catégories Commons avec lien local identique sur Wikidata">Catégories Commons avec lien local identique sur Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menu de navigation</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Outils personnels</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">Non connecté</li>
+		<li id="pt-anontalk"><a href="/wiki/Sp%C3%A9cial:Mes_discussions" title="La page de discussion pour les contributions depuis cette adresse IP [n]" accesskey="n">Discussion</a></li><li id="pt-anoncontribs"><a href="/wiki/Sp%C3%A9cial:Mes_contributions" title="Une liste des modifications effectuées depuis cette adresse IP [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&amp;returnto=Wikip%C3%A9dia" title="Nous vous encourageons à créer un compte utilisateur et vous connecter ; ce n’est cependant pas obligatoire.">Créer un compte</a></li><li id="pt-login"><a href="/w/index.php?title=Sp%C3%A9cial:Connexion&amp;returnto=Wikip%C3%A9dia" title="Nous vous encourageons à vous connecter ; ce n’est cependant pas obligatoire. [o]" accesskey="o">Se connecter</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espaces de noms</h3>
+	<ul >
+		<li id="ca-nstab-main" class="selected"><a href="/wiki/Wikip%C3%A9dia" title="Voir le contenu de la page [c]" accesskey="c">Page</a></li><li id="ca-talk"><a href="/wiki/Discussion:Wikip%C3%A9dia" rel="discussion" title="Discussion au sujet de cette page de contenu [t]" accesskey="t">Discussion</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Affichages</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikip%C3%A9dia">Lire</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=Wikip%C3%A9dia&amp;veaction=edit" title="Modifier cette page [v]" accesskey="v">Modifier</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=edit" title="Modifier le wikicode [e]" accesskey="e">Modifier le wikicode</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=history" title="Historique des versions de cette page [h]" accesskey="h">Voir l’historique</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Plus</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Rechercher</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Rechercher dans Wikilivres" title="Rechercher dans Wikilivres [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Spécial:Recherche" name="title"/>
+			<input type="submit" name="fulltext" value="Rechercher" title="Rechercher les pages comportant ce texte." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Continuer" title="Accédez à une page du même nom si elle existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visiter la page d’accueil" class="mw-wiki-logo" href="/wiki/Accueil"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-Bibliothèque"  aria-labelledby="p-Bibliothèque-label">
+	<h3  id="p-Bibliothèque-label">
+		Bibliothèque
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage"><a href="/wiki/Accueil" title="Visiter la page d’accueil du site [z]" accesskey="z">Accueil</a></li><li id="n-La-vitrine"><a href="/wiki/Wikilivres:Vitrine">La vitrine</a></li><li id="n-Tous-les-livres"><a href="/wiki/Wikilivres:Tous_les_livres">Tous les livres</a></li><li id="n-Rechercher-un-livre"><a href="/wiki/Wikilivres:Rechercher_un_livre">Rechercher un livre</a></li><li id="n-Wikijunior"><a href="/wiki/Wikijunior">Wikijunior</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Navigation"  aria-labelledby="p-Navigation-label">
+	<h3  id="p-Navigation-label">
+		Navigation
+	</h3>
+	<div class="body">
+		<ul><li id="n-recentchanges"><a href="/wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes" title="Liste des modifications récentes sur le wiki [r]" accesskey="r">Modifications récentes</a></li><li id="n-Communauté"><a href="/wiki/Wikilivres:Portail_communautaire">Communauté</a></li><li id="n-Le-Bistro"><a href="/wiki/Wikilivres:Le_Bistro/2020">Le Bistro</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fr.wikibooks.org&amp;uselang=fr" title="Soutenez-nous">Faire un don</a></li><li id="n-Livre-au-hasard"><a href="/wiki/Sp%C3%A9cial:RandomRootpage">Livre au hasard</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Aide"  aria-labelledby="p-Aide-label">
+	<h3  id="p-Aide-label">
+		Aide
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Aide:Accueil" title="Accès à l’aide">Aide</a></li><li id="n-Wikilivre-d&#039;aide"><a href="/wiki/Wikilivres">Wikilivre d'aide</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Outils
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Wikip%C3%A9dia" title="Liste des pages liées qui pointent sur celle-ci [j]" accesskey="j">Pages liées</a></li><li id="t-recentchangeslinked"><a href="/wiki/Sp%C3%A9cial:Suivi_des_liens/Wikip%C3%A9dia" rel="nofollow" title="Liste des modifications récentes des pages appelées par celle-ci [k]" accesskey="k">Suivi des pages liées</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=fr" title="Importer des fichiers [u]" accesskey="u">Téléverser un fichier</a></li><li id="t-specialpages"><a href="/wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales" title="Liste de toutes les pages spéciales [q]" accesskey="q">Pages spéciales</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikip%C3%A9dia&amp;oldid=612873" title="Adresse permanente de cette version de la page">Lien permanent</a></li><li id="t-info"><a href="/w/index.php?title=Wikip%C3%A9dia&amp;action=info" title="Plus d’informations sur cette page">Informations sur la page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q52" title="Lien vers l’élément de référentiel des données connectées [g]" accesskey="g">Élément Wikidata</a></li><li id="t-cite"><a href="/w/index.php?title=Sp%C3%A9cial:Citer&amp;page=Wikip%C3%A9dia&amp;id=612873" title="Informations sur la manière de citer cette page">Citer cette page</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		Dans d’autres langues
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-az"><a href="https://az.wikibooks.org/wiki/Vikipediya" title="Vikipediya — azéri" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikibooks.org/wiki/Viquip%C3%A8dia" title="Viquipèdia — catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikibooks.org/wiki/Wikipedia" title="Wikipedia — danois" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikibooks.org/wiki/Wikipedia-Lehrbuch" title="Wikipedia-Lehrbuch — allemand" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikibooks.org/wiki/Wikimedia/Wikipedia" title="Wikimedia/Wikipedia — anglais" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikibooks.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BF%E0%A4%AA%E0%A5%80%E0%A4%A1%E0%A4%BF%E0%A4%AF%E0%A4%BE" title="विकिपीडिया — hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikibooks.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AD%E3%83%9A%E3%83%87%E3%82%A3%E3%82%A2%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9_%E5%85%A5%E9%96%80%E7%B7%A8" title="ウィキペディアの書き方 入門編 — japonais" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikibooks.org/wiki/Leerboek_Wikipedia" title="Leerboek Wikipedia — néerlandais" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikibooks.org/wiki/Wikipedia" title="Wikipedia — albanais" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikibooks.org/wiki/Wikimedia/Wikipedia" title="Wikimedia/Wikipedia — vietnamien" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikibooks.org/wiki/%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91" title="维基百科 — chinois" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q52#sitelinks-wikibooks" title="Modifier les liens interlangues" class="wbc-editpage">Modifier les liens</a></span></div>
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+	<h3  id="p-wikibase-otherprojects-label">
+		Dans d’autres projets
+	</h3>
+	<div class="body">
+		<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wikipedia" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-meta"><a href="https://meta.wikimedia.org/wiki/Wikipedia" hreflang="en">Méta-Wiki</a></li><li class="wb-otherproject-link wb-otherproject-wikinews"><a href="https://fr.wikinews.org/wiki/Cat%C3%A9gorie:Wikip%C3%A9dia" hreflang="fr">Wikinews</a></li><li class="wb-otherproject-link wb-otherproject-wikipedia"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia" hreflang="fr">Wikipédia</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://fr.wikiquote.org/wiki/Wikip%C3%A9dia" hreflang="fr">Wikiquote</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://fr.wikiversity.org/wiki/Participer_%C3%A0_Wikip%C3%A9dia" hreflang="fr">Wikiversité</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimer / exporter
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Sp%C3%A9cial:Livre&amp;bookcmd=book_creator&amp;referer=Wikip%C3%A9dia">Créer une compilation</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Sp%C3%A9cial:ElectronPdf&amp;page=Wikip%C3%A9dia&amp;action=show-download-screen">Télécharger la compilation au format PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikip%C3%A9dia&amp;printable=yes" title="Version imprimable de cette page [p]" accesskey="p">Version imprimable</a></li></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> La dernière modification de cette page a été faite le 11 mars 2019 à 14:10.</li>
+		<li id="footer-info-copyright">Les textes sont disponibles sous <a href="//creativecommons.org/licenses/by-sa/3.0/">licence Creative Commons attribution partage à l’identique</a> ; d’autres termes peuvent s’appliquer.<br/>
+Voyez les <a href="//wikimediafoundation.org/wiki/Conditions_d'utilisation">termes d’utilisation</a> pour plus de détails.<br/></li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/fr" class="extiw" title="m:Privacy policy/fr">Politique de confidentialité</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikilivres:%C3%80_propos_de" class="mw-redirect" title="Wikilivres:À propos de">À propos de Wikilivres</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikilivres:Avertissements_g%C3%A9n%C3%A9raux" title="Wikilivres:Avertissements généraux">Avertissements</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Développeurs</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/fr.wikibooks.org">Statistiques</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Déclaration sur les témoins (cookies)</a></li>
+		<li id="footer-places-mobileview"><a href="//fr.m.wikibooks.org/w/index.php?title=Wikip%C3%A9dia&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Version mobile</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.088","walltime":"0.114","ppvisitednodes":{"value":264,"limit":1000000},"postexpandincludesize":{"value":8047,"limit":2097152},"templateargumentsize":{"value":863,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   58.427      1 -total"," 69.90%   40.840      1 Modèle:Autres_projets"," 11.85%    6.926      1 Modèle:Version_imprimée","  6.41%    3.747      1 Modèle:Méta-étiquette","  5.87%    3.432     10 Modèle:3/4","  5.45%    3.182      4 Modèle:4/4","  4.82%    2.816      1 Modèle:Incise"]},"cachereport":{"origin":"mw1337","timestamp":"20200228204237","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wikip\u00e9dia","url":"https:\/\/fr.wikibooks.org\/wiki\/Wikip%C3%A9dia","sameAs":"http:\/\/www.wikidata.org\/entity\/Q52","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q52","author":{"@type":"Organization","name":"Contributeurs aux projets de Wikim\u00e9dia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-20T12:37:13Z","dateModified":"2019-03-11T13:10:10Z","headline":"encyclop\u00e9die universelle dont le contenu est distribu\u00e9 en ligne sous licence libre"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1240"});});</script></body></html>

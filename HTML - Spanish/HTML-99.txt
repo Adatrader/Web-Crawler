@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljQsApAMNcAA6PTtDMAAABB","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=V"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"V","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='V' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Urrejolagoitia" title="Especial:Todas">Página anterior (Urrejolagoitia)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Viciola" title="Especial:Todas">Página siguiente (Viciola)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/V" title="V">V</a></li>
+<li><a href="/wiki/VAAC" title="VAAC">VAAC</a></li>
+<li><a href="/wiki/VFR" title="VFR">VFR</a></li>
+<li><a href="/wiki/VIH" title="VIH">VIH</a></li>
+<li><a href="/wiki/VIH%2B" title="VIH+">VIH+</a></li>
+<li><a href="/wiki/VIH-" title="VIH-">VIH-</a></li>
+<li><a href="/wiki/VIP" title="VIP">VIP</a></li>
+<li><a href="/wiki/VOR" title="VOR">VOR</a></li>
+<li><a href="/wiki/VV._AA." title="VV. AA.">VV. AA.</a></li>
+<li><a href="/wiki/Vaca" title="Vaca">Vaca</a></li>
+<li><a href="/wiki/Vacante" title="Vacante">Vacante</a></li>
+<li class="allpagesredirect"><a href="/wiki/Vade_retro,_Satana!" class="mw-redirect" title="Vade retro, Satana!">Vade retro, Satana!</a></li>
+<li><a href="/wiki/Vadiola" title="Vadiola">Vadiola</a></li>
+<li><a href="/wiki/Vaduz" title="Vaduz">Vaduz</a></li>
+<li><a href="/wiki/Vagaza" title="Vagaza">Vagaza</a></li>
+<li><a href="/wiki/Vaifil" title="Vaifil">Vaifil</a></li>
+<li><a href="/wiki/Vaikunta" title="Vaikunta">Vaikunta</a></li>
+<li><a href="/wiki/Vaiquinao" title="Vaiquinao">Vaiquinao</a></li>
+<li><a href="/wiki/Valarrea" title="Valarrea">Valarrea</a></li>
+<li><a href="/wiki/Valasco" title="Valasco">Valasco</a></li>
+<li><a href="/wiki/Valbuena" title="Valbuena">Valbuena</a></li>
+<li><a href="/wiki/Valc%C3%A1rcel" title="Valcárcel">Valcárcel</a></li>
+<li><a href="/wiki/Valda" title="Valda">Valda</a></li>
+<li><a href="/wiki/Valdagoicoa" title="Valdagoicoa">Valdagoicoa</a></li>
+<li><a href="/wiki/Valdeavellano" title="Valdeavellano">Valdeavellano</a></li>
+<li><a href="/wiki/Valdebenito" title="Valdebenito">Valdebenito</a></li>
+<li><a href="/wiki/Valdegoba" title="Valdegoba">Valdegoba</a></li>
+<li><a href="/wiki/Valderrama" title="Valderrama">Valderrama</a></li>
+<li><a href="/wiki/Valderrobres" title="Valderrobres">Valderrobres</a></li>
+<li><a href="/wiki/Valdes" title="Valdes">Valdes</a></li>
+<li><a href="/wiki/Valdespino" title="Valdespino">Valdespino</a></li>
+<li><a href="/wiki/Valdevenito" title="Valdevenito">Valdevenito</a></li>
+<li><a href="/wiki/Valdez" title="Valdez">Valdez</a></li>
+<li><a href="/wiki/Valdivia" title="Valdivia">Valdivia</a></li>
+<li><a href="/wiki/Valdivieso" title="Valdivieso">Valdivieso</a></li>
+<li><a href="/wiki/Valdiviezo" title="Valdiviezo">Valdiviezo</a></li>
+<li><a href="/wiki/Valdovino" title="Valdovino">Valdovino</a></li>
+<li><a href="/wiki/Valdovinos" title="Valdovinos">Valdovinos</a></li>
+<li><a href="/wiki/Vald%C3%A9s" title="Valdés">Valdés</a></li>
+<li><a href="/wiki/Vale" title="Vale">Vale</a></li>
+<li><a href="/wiki/Valencia" title="Valencia">Valencia</a></li>
+<li><a href="/wiki/Valenciaga" title="Valenciaga">Valenciaga</a></li>
+<li><a href="/wiki/Valenciano" title="Valenciano">Valenciano</a></li>
+<li><a href="/wiki/Valensuela" title="Valensuela">Valensuela</a></li>
+<li><a href="/wiki/Valente" title="Valente">Valente</a></li>
+<li><a href="/wiki/Valentina" title="Valentina">Valentina</a></li>
+<li><a href="/wiki/Valentino" title="Valentino">Valentino</a></li>
+<li><a href="/wiki/Valent%C3%ADn" title="Valentín">Valentín</a></li>
+<li><a href="/wiki/Valenzuela" title="Valenzuela">Valenzuela</a></li>
+<li><a href="/wiki/Valera" title="Valera">Valera</a></li>
+<li><a href="/wiki/Valerdi" title="Valerdi">Valerdi</a></li>
+<li><a href="/wiki/Valeri" title="Valeri">Valeri</a></li>
+<li><a href="/wiki/Valeria" title="Valeria">Valeria</a></li>
+<li><a href="/wiki/Valeriano" title="Valeriano">Valeriano</a></li>
+<li><a href="/wiki/Valerie" title="Valerie">Valerie</a></li>
+<li><a href="/wiki/Valerija" title="Valerija">Valerija</a></li>
+<li><a href="/wiki/Valerio" title="Valerio">Valerio</a></li>
+<li><a href="/wiki/Valero" title="Valero">Valero</a></li>
+<li><a href="/wiki/Valeska" title="Valeska">Valeska</a></li>
+<li><a href="/wiki/Valeta" title="Valeta">Valeta</a></li>
+<li><a href="/wiki/Valiente" title="Valiente">Valiente</a></li>
+<li><a href="/wiki/Valko-Ven%C3%A4j%C3%A4" title="Valko-Venäjä">Valko-Venäjä</a></li>
+<li><a href="/wiki/Vall" title="Vall">Vall</a></li>
+<li><a href="/wiki/Valladares" title="Valladares">Valladares</a></li>
+<li><a href="/wiki/Valladolid" title="Valladolid">Valladolid</a></li>
+<li><a href="/wiki/Valladores" title="Valladores">Valladores</a></li>
+<li><a href="/wiki/Vallarta" title="Vallarta">Vallarta</a></li>
+<li><a href="/wiki/Vallas" title="Vallas">Vallas</a></li>
+<li><a href="/wiki/Valle" title="Valle">Valle</a></li>
+<li><a href="/wiki/Valle_de_Ar%C3%A1n" title="Valle de Arán">Valle de Arán</a></li>
+<li><a href="/wiki/Valle_del_Cauca" title="Valle del Cauca">Valle del Cauca</a></li>
+<li><a href="/wiki/Vallecillo" title="Vallecillo">Vallecillo</a></li>
+<li><a href="/wiki/Valledupar" title="Valledupar">Valledupar</a></li>
+<li><a href="/wiki/Vallegos" title="Vallegos">Vallegos</a></li>
+<li><a href="/wiki/Vallejo" title="Vallejo">Vallejo</a></li>
+<li><a href="/wiki/Vallejos" title="Vallejos">Vallejos</a></li>
+<li><a href="/wiki/Vallesp%C3%ADn" title="Vallespín">Vallespín</a></li>
+<li><a href="/wiki/Vallet" title="Vallet">Vallet</a></li>
+<li><a href="/wiki/Vallete" title="Vallete">Vallete</a></li>
+<li><a href="/wiki/Vallotton" title="Vallotton">Vallotton</a></li>
+<li><a href="/wiki/Valls" title="Valls">Valls</a></li>
+<li><a href="/wiki/Vallvidrera" title="Vallvidrera">Vallvidrera</a></li>
+<li><a href="/wiki/Vall%C3%A9s" title="Vallés">Vallés</a></li>
+<li><a href="/wiki/Valmaseda" title="Valmaseda">Valmaseda</a></li>
+<li><a href="/wiki/Valmediano" title="Valmediano">Valmediano</a></li>
+<li><a href="/wiki/Valpara%C3%ADso" title="Valparaíso">Valparaíso</a></li>
+<li><a href="/wiki/Valseca" title="Valseca">Valseca</a></li>
+<li><a href="/wiki/Valtierra" title="Valtierra">Valtierra</a></li>
+<li><a href="/wiki/Valverde" title="Valverde">Valverde</a></li>
+<li><a href="/wiki/Valvil" title="Valvil">Valvil</a></li>
+<li><a href="/wiki/Valvulina" title="Valvulina">Valvulina</a></li>
+<li><a href="/wiki/Val%C3%A1squez" title="Valásquez">Valásquez</a></li>
+<li><a href="/wiki/Val%C3%A8ncia" title="València">València</a></li>
+<li><a href="/wiki/Val%C3%A9rie" title="Valérie">Valérie</a></li>
+<li><a href="/wiki/Val%C3%A9ry" title="Valéry">Valéry</a></li>
+<li><a href="/wiki/Val%C3%A9squez" title="Valésquez">Valésquez</a></li>
+<li><a href="/wiki/Vanadium" title="Vanadium">Vanadium</a></li>
+<li><a href="/wiki/Vanadiums" title="Vanadiums">Vanadiums</a></li>
+<li><a href="/wiki/Vancouver" title="Vancouver">Vancouver</a></li>
+<li><a href="/wiki/Vanegas" title="Vanegas">Vanegas</a></li>
+<li><a href="/wiki/Vanesa" title="Vanesa">Vanesa</a></li>
+<li><a href="/wiki/Vanessa" title="Vanessa">Vanessa</a></li>
+<li><a href="/wiki/Vania" title="Vania">Vania</a></li>
+<li><a href="/wiki/Vanina" title="Vanina">Vanina</a></li>
+<li><a href="/wiki/Vaniu%C3%B1ir" title="Vaniuñir">Vaniuñir</a></li>
+<li><a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a></li>
+<li><a href="/wiki/Vaquero" title="Vaquero">Vaquero</a></li>
+<li><a href="/wiki/Vara" title="Vara">Vara</a></li>
+<li><a href="/wiki/Varain" title="Varain">Varain</a></li>
+<li><a href="/wiki/Varanda" title="Varanda">Varanda</a></li>
+<li><a href="/wiki/Varangot" title="Varangot">Varangot</a></li>
+<li><a href="/wiki/Varas" title="Varas">Varas</a></li>
+<li><a href="/wiki/Varela" title="Varela">Varela</a></li>
+<li><a href="/wiki/Varga" title="Varga">Varga</a></li>
+<li><a href="/wiki/Vargas" title="Vargas">Vargas</a></li>
+<li><a href="/wiki/Variola" title="Variola">Variola</a></li>
+<li><a href="/wiki/Variolaria" title="Variolaria">Variolaria</a></li>
+<li><a href="/wiki/Varna" title="Varna">Varna</a></li>
+<li><a href="/wiki/Varneche" title="Varneche">Varneche</a></li>
+<li><a href="/wiki/Varona" title="Varona">Varona</a></li>
+<li><a href="/wiki/Varrena" title="Varrena">Varrena</a></li>
+<li><a href="/wiki/Varrutia" title="Varrutia">Varrutia</a></li>
+<li><a href="/wiki/Varsavia" title="Varsavia">Varsavia</a></li>
+<li><a href="/wiki/Varsova" title="Varsova">Varsova</a></li>
+<li><a href="/wiki/Varsovia" title="Varsovia">Varsovia</a></li>
+<li><a href="/wiki/Varsovie" title="Varsovie">Varsovie</a></li>
+<li><a href="/wiki/Varsovio" title="Varsovio">Varsovio</a></li>
+<li><a href="/wiki/Varsovion" title="Varsovion">Varsovion</a></li>
+<li><a href="/wiki/Vars%C3%B2via" title="Varsòvia">Varsòvia</a></li>
+<li><a href="/wiki/Vars%C3%B3" title="Varsó">Varsó</a></li>
+<li><a href="/wiki/Vars%C3%B3via" title="Varsóvia">Varsóvia</a></li>
+<li><a href="/wiki/Var%C5%9Fova" title="Varşova">Varşova</a></li>
+<li class="allpagesredirect"><a href="/wiki/Var%C5%9Fovia" class="mw-redirect" title="Varşovia">Varşovia</a></li>
+<li><a href="/wiki/Var%C5%A1ava" title="Varšava">Varšava</a></li>
+<li><a href="/wiki/Var%C5%A1uva" title="Varšuva">Varšuva</a></li>
+<li><a href="/wiki/Var%C8%99ovia" title="Varșovia">Varșovia</a></li>
+<li><a href="/wiki/Vasave" title="Vasave">Vasave</a></li>
+<li><a href="/wiki/Vasozabal" title="Vasozabal">Vasozabal</a></li>
+<li><a href="/wiki/Vasques" title="Vasques">Vasques</a></li>
+<li><a href="/wiki/Vater" title="Vater">Vater</a></li>
+<li><a href="/wiki/Vaticaanstad" title="Vaticaanstad">Vaticaanstad</a></li>
+<li><a href="/wiki/Vatican_City" title="Vatican City">Vatican City</a></li>
+<li><a href="/wiki/Vaticano" title="Vaticano">Vaticano</a></li>
+<li><a href="/wiki/Vatikan" title="Vatikan">Vatikan</a></li>
+<li><a href="/wiki/Vatikano_Hiria" title="Vatikano Hiria">Vatikano Hiria</a></li>
+<li><a href="/wiki/Vatikanstadt" title="Vatikanstadt">Vatikanstadt</a></li>
+<li><a href="/wiki/Vaup%C3%A9s" title="Vaupés">Vaupés</a></li>
+<li><a href="/wiki/Vazon" title="Vazon">Vazon</a></li>
+<li><a href="/wiki/Va%C3%AFsse" title="Vaïsse">Vaïsse</a></li>
+<li><a href="/wiki/Vea" title="Vea">Vea</a></li>
+<li><a href="/wiki/Vea-Murguia" title="Vea-Murguia">Vea-Murguia</a></li>
+<li><a href="/wiki/Vea_Murguia" title="Vea Murguia">Vea Murguia</a></li>
+<li><a href="/wiki/Veamurguia" title="Veamurguia">Veamurguia</a></li>
+<li><a href="/wiki/Veas" title="Veas">Veas</a></li>
+<li><a href="/wiki/Veazcoa" title="Veazcoa">Veazcoa</a></li>
+<li><a href="/wiki/Veci" title="Veci">Veci</a></li>
+<li><a href="/wiki/Vedia" title="Vedia">Vedia</a></li>
+<li><a href="/wiki/Vedialauneta" title="Vedialauneta">Vedialauneta</a></li>
+<li><a href="/wiki/Vega" title="Vega">Vega</a></li>
+<li><a href="/wiki/Vegas" title="Vegas">Vegas</a></li>
+<li><a href="/wiki/Vegonaga" title="Vegonaga">Vegonaga</a></li>
+<li><a href="/wiki/Veguri" title="Veguri">Veguri</a></li>
+<li><a href="/wiki/Veilchen" title="Veilchen">Veilchen</a></li>
+<li><a href="/wiki/Veingoa" title="Veingoa">Veingoa</a></li>
+<li><a href="/wiki/Veinticinco_de_Mayo" title="Veinticinco de Mayo">Veinticinco de Mayo</a></li>
+<li><a href="/wiki/Veitia" title="Veitia">Veitia</a></li>
+<li><a href="/wiki/Veizaga" title="Veizaga">Veizaga</a></li>
+<li><a href="/wiki/Vei%C3%B1a" title="Veiña">Veiña</a></li>
+<li><a href="/wiki/Vejar" title="Vejar">Vejar</a></li>
+<li><a href="/wiki/Vejares" title="Vejares">Vejares</a></li>
+<li><a href="/wiki/Vela" title="Vela">Vela</a></li>
+<li><a href="/wiki/Velacortu" title="Velacortu">Velacortu</a></li>
+<li><a href="/wiki/Velandia" title="Velandia">Velandia</a></li>
+<li><a href="/wiki/Velantegui" title="Velantegui">Velantegui</a></li>
+<li><a href="/wiki/Velar" title="Velar">Velar</a></li>
+<li><a href="/wiki/Velarde" title="Velarde">Velarde</a></li>
+<li><a href="/wiki/Velardes" title="Velardes">Velardes</a></li>
+<li><a href="/wiki/Velardo" title="Velardo">Velardo</a></li>
+<li><a href="/wiki/Velarra" title="Velarra">Velarra</a></li>
+<li><a href="/wiki/Velarrinaga" title="Velarrinaga">Velarrinaga</a></li>
+<li><a href="/wiki/Velarroa" title="Velarroa">Velarroa</a></li>
+<li><a href="/wiki/Velasco" title="Velasco">Velasco</a></li>
+<li><a href="/wiki/Velasques" title="Velasques">Velasques</a></li>
+<li><a href="/wiki/Velasquez" title="Velasquez">Velasquez</a></li>
+<li><a href="/wiki/Velastegui" title="Velastegui">Velastegui</a></li>
+<li><a href="/wiki/Velatequi" title="Velatequi">Velatequi</a></li>
+<li><a href="/wiki/Velaustegui" title="Velaustegui">Velaustegui</a></li>
+<li><a href="/wiki/Velaz" title="Velaz">Velaz</a></li>
+<li><a href="/wiki/Velazco" title="Velazco">Velazco</a></li>
+<li><a href="/wiki/Velazguez" title="Velazguez">Velazguez</a></li>
+<li><a href="/wiki/Velazques" title="Velazques">Velazques</a></li>
+<li><a href="/wiki/Velazquez" title="Velazquez">Velazquez</a></li>
+<li><a href="/wiki/Velendiz" title="Velendiz">Velendiz</a></li>
+<li><a href="/wiki/Veles" title="Veles">Veles</a></li>
+<li><a href="/wiki/Velika_Britanija" title="Velika Britanija">Velika Britanija</a></li>
+<li><a href="/wiki/Velis" title="Velis">Velis</a></li>
+<li><a href="/wiki/Velk%C3%A1_Brit%C3%A1nie" title="Velká Británie">Velká Británie</a></li>
+<li><a href="/wiki/Vellitu" title="Vellitu">Vellitu</a></li>
+<li><a href="/wiki/Velondiz" title="Velondiz">Velondiz</a></li>
+<li><a href="/wiki/Veloqui" title="Veloqui">Veloqui</a></li>
+<li><a href="/wiki/Veloso" title="Veloso">Veloso</a></li>
+<li><a href="/wiki/Velozo" title="Velozo">Velozo</a></li>
+<li><a href="/wiki/Velqu%C3%A9n" title="Velquén">Velquén</a></li>
+<li><a href="/wiki/Velunza" title="Velunza">Velunza</a></li>
+<li><a href="/wiki/Velzunce" title="Velzunce">Velzunce</a></li>
+<li><a href="/wiki/Vel%C3%A1quez" title="Veláquez">Veláquez</a></li>
+<li><a href="/wiki/Vel%C3%A1squez" title="Velásquez">Velásquez</a></li>
+<li><a href="/wiki/Vel%C3%A1zquez" title="Velázquez">Velázquez</a></li>
+<li><a href="/wiki/Vemuguir" title="Vemuguir">Vemuguir</a></li>
+<li><a href="/wiki/Venancia" title="Venancia">Venancia</a></li>
+<li><a href="/wiki/Venancio" title="Venancio">Venancio</a></li>
+<li><a href="/wiki/Vencel" title="Vencel">Vencel</a></li>
+<li><a href="/wiki/Venceslao" title="Venceslao">Venceslao</a></li>
+<li><a href="/wiki/Venditti" title="Venditti">Venditti</a></li>
+<li><a href="/wiki/Vendrell" title="Vendrell">Vendrell</a></li>
+<li><a href="/wiki/Venecia" title="Venecia">Venecia</a></li>
+<li><a href="/wiki/Venega" title="Venega">Venega</a></li>
+<li><a href="/wiki/Venegas" title="Venegas">Venegas</a></li>
+<li><a href="/wiki/Venenciano" title="Venenciano">Venenciano</a></li>
+<li><a href="/wiki/Venera" title="Venera">Venera</a></li>
+<li><a href="/wiki/Venesuela" title="Venesuela">Venesuela</a></li>
+<li><a href="/wiki/Venesu%C3%A9la" title="Venesuéla">Venesuéla</a></li>
+<li><a href="/wiki/Venetiola" title="Venetiola">Venetiola</a></li>
+<li><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></li>
+<li><a href="/wiki/Venezuelo" title="Venezuelo">Venezuelo</a></li>
+<li><a href="/wiki/Venezwela" title="Venezwela">Venezwela</a></li>
+<li><a href="/wiki/Vene%C3%A7uela" title="Veneçuela">Veneçuela</a></li>
+<li><a href="/wiki/Vengoa" title="Vengoa">Vengoa</a></li>
+<li><a href="/wiki/Vengochea" title="Vengochea">Vengochea</a></li>
+<li><a href="/wiki/Vengoechea" title="Vengoechea">Vengoechea</a></li>
+<li><a href="/wiki/Vengrija" title="Vengrija">Vengrija</a></li>
+<li><a href="/wiki/Venicia" title="Venicia">Venicia</a></li>
+<li><a href="/wiki/Venitua" title="Venitua">Venitua</a></li>
+<li><a href="/wiki/Venta" title="Venta">Venta</a></li>
+<li><a href="/wiki/Venteo" title="Venteo">Venteo</a></li>
+<li><a href="/wiki/Ventura" title="Ventura">Ventura</a></li>
+<li><a href="/wiki/Venturelli" title="Venturelli">Venturelli</a></li>
+<li><a href="/wiki/Venus" title="Venus">Venus</a></li>
+<li><a href="/wiki/Ven%C3%A4j%C3%A4" title="Venäjä">Venäjä</a></li>
+<li><a href="/wiki/Veotegui" title="Veotegui">Veotegui</a></li>
+<li><a href="/wiki/Vera" title="Vera">Vera</a></li>
+<li><a href="/wiki/Veracoeche" title="Veracoeche">Veracoeche</a></li>
+<li><a href="/wiki/Veracruz" title="Veracruz">Veracruz</a></li>
+<li><a href="/wiki/Veraga%C3%B1a" title="Veragaña">Veragaña</a></li>
+<li><a href="/wiki/Veraiz" title="Veraiz">Veraiz</a></li>
+<li><a href="/wiki/Veramendi" title="Veramendi">Veramendi</a></li>
+<li><a href="/wiki/Verangoitia" title="Verangoitia">Verangoitia</a></li>
+<li><a href="/wiki/Verano" title="Verano">Verano</a></li>
+<li><a href="/wiki/Veranoaguirre" title="Veranoaguirre">Veranoaguirre</a></li>
+<li><a href="/wiki/Verasain" title="Verasain">Verasain</a></li>
+<li><a href="/wiki/Verasategui" title="Verasategui">Verasategui</a></li>
+<li><a href="/wiki/Verasay" title="Verasay">Verasay</a></li>
+<li><a href="/wiki/Verastegi" title="Verastegi">Verastegi</a></li>
+<li><a href="/wiki/Verastegui" title="Verastegui">Verastegui</a></li>
+<li><a href="/wiki/Verastequi" title="Verastequi">Verastequi</a></li>
+<li><a href="/wiki/Verasturi" title="Verasturi">Verasturi</a></li>
+<li><a href="/wiki/Verategui" title="Verategui">Verategui</a></li>
+<li><a href="/wiki/Veraza" title="Veraza">Veraza</a></li>
+<li><a href="/wiki/Verb" title="Verb">Verb</a></li>
+<li><a href="/wiki/Verbasco" title="Verbasco">Verbasco</a></li>
+<li><a href="/wiki/Verben" title="Verben">Verben</a></li>
+<li><a href="/wiki/Verbo" title="Verbo">Verbo</a></li>
+<li><a href="/wiki/Verbos" title="Verbos">Verbos</a></li>
+<li><a href="/wiki/Verdasco" title="Verdasco">Verdasco</a></li>
+<li><a href="/wiki/Verde" title="Verde">Verde</a></li>
+<li><a href="/wiki/Verdejo" title="Verdejo">Verdejo</a></li>
+<li><a href="/wiki/Verdi" title="Verdi">Verdi</a></li>
+<li><a href="/wiki/Verdugo" title="Verdugo">Verdugo</a></li>
+<li><a href="/wiki/Verdun" title="Verdun">Verdun</a></li>
+<li><a href="/wiki/Verdusco" title="Verdusco">Verdusco</a></li>
+<li><a href="/wiki/Verduzco" title="Verduzco">Verduzco</a></li>
+<li><a href="/wiki/Verd%C3%BA" title="Verdú">Verdú</a></li>
+<li><a href="/wiki/Vereinigte_Arabische_Emirate" title="Vereinigte Arabische Emirate">Vereinigte Arabische Emirate</a></li>
+<li><a href="/wiki/Vereinigte_Staaten" title="Vereinigte Staaten">Vereinigte Staaten</a></li>
+<li><a href="/wiki/Vereinigtes_K%C3%B6nigreich" title="Vereinigtes Königreich">Vereinigtes Königreich</a></li>
+<li><a href="/wiki/Verema" title="Verema">Verema</a></li>
+<li><a href="/wiki/Verenigd_Koninkrijk" title="Verenigd Koninkrijk">Verenigd Koninkrijk</a></li>
+<li><a href="/wiki/Verenigde_Staten" title="Verenigde Staten">Verenigde Staten</a></li>
+<li><a href="/wiki/Verenigde_Staten_van_Amerika" title="Verenigde Staten van Amerika">Verenigde Staten van Amerika</a></li>
+<li><a href="/wiki/Vergangenheit" title="Vergangenheit">Vergangenheit</a></li>
+<li><a href="/wiki/Vergangenheitsbew%C3%A4ltigung" title="Vergangenheitsbewältigung">Vergangenheitsbewältigung</a></li>
+<li><a href="/wiki/Vergara" title="Vergara">Vergara</a></li>
+<li><a href="/wiki/Vergarajauregui" title="Vergarajauregui">Vergarajauregui</a></li>
+<li><a href="/wiki/Vergareche" title="Vergareche">Vergareche</a></li>
+<li><a href="/wiki/Vergarechea" title="Vergarechea">Vergarechea</a></li>
+<li><a href="/wiki/Vergel" title="Vergel">Vergel</a></li>
+<li><a href="/wiki/Vergera" title="Vergera">Vergera</a></li>
+<li><a href="/wiki/Vergissmeinnicht" title="Vergissmeinnicht">Vergissmeinnicht</a></li>
+<li><a href="/wiki/Vergleich" title="Vergleich">Vergleich</a></li>
+<li><a href="/wiki/Vergoin" title="Vergoin">Vergoin</a></li>
+<li><a href="/wiki/Verguyn" title="Verguyn">Verguyn</a></li>
+<li><a href="/wiki/Veriain" title="Veriain">Veriain</a></li>
+<li><a href="/wiki/Vericochea" title="Vericochea">Vericochea</a></li>
+<li><a href="/wiki/Veristain" title="Veristain">Veristain</a></li>
+<li><a href="/wiki/Veristartua" title="Veristartua">Veristartua</a></li>
+<li><a href="/wiki/Verk%C3%A4ufer" title="Verkäufer">Verkäufer</a></li>
+<li><a href="/wiki/Verletzte" title="Verletzte">Verletzte</a></li>
+<li><a href="/wiki/Verlobte" title="Verlobte">Verlobte</a></li>
+<li><a href="/wiki/Verlust" title="Verlust">Verlust</a></li>
+<li><a href="/wiki/Vermendi" title="Vermendi">Vermendi</a></li>
+<li><a href="/wiki/Vermont" title="Vermont">Vermont</a></li>
+<li><a href="/wiki/Vernacotola" title="Vernacotola">Vernacotola</a></li>
+<li><a href="/wiki/Verny" title="Verny">Verny</a></li>
+<li><a href="/wiki/Vero" title="Vero">Vero</a></li>
+<li><a href="/wiki/Veronica" title="Veronica">Veronica</a></li>
+<li><a href="/wiki/Veronika" title="Veronika">Veronika</a></li>
+<li><a href="/wiki/Verovide" title="Verovide">Verovide</a></li>
+<li><a href="/wiki/Verri" title="Verri">Verri</a></li>
+<li><a href="/wiki/Verrio" title="Verrio">Verrio</a></li>
+<li><a href="/wiki/Verriola" title="Verriola">Verriola</a></li>
+<li><a href="/wiki/Verriozabal" title="Verriozabal">Verriozabal</a></li>
+<li><a href="/wiki/Verriozabalgoitia" title="Verriozabalgoitia">Verriozabalgoitia</a></li>
+<li><a href="/wiki/Verrire" title="Verrire">Verrire</a></li>
+<li><a href="/wiki/Verroeta" title="Verroeta">Verroeta</a></li>
+<li><a href="/wiki/Versailles" title="Versailles">Versailles</a></li>
+<li><a href="/wiki/Versalles" title="Versalles">Versalles</a></li>
+<li><a href="/wiki/Vertiz" title="Vertiz">Vertiz</a></li>
+<li><a href="/wiki/Vertrauen" title="Vertrauen">Vertrauen</a></li>
+<li><a href="/wiki/Veruzka" title="Veruzka">Veruzka</a></li>
+<li><a href="/wiki/Verzweiflung" title="Verzweiflung">Verzweiflung</a></li>
+<li><a href="/wiki/Ver%C3%B3nica" title="Verónica">Verónica</a></li>
+<li><a href="/wiki/Vesga" title="Vesga">Vesga</a></li>
+<li><a href="/wiki/Veto%C3%B1u" title="Vetoñu">Vetoñu</a></li>
+<li><a href="/wiki/Vettel" title="Vettel">Vettel</a></li>
+<li><a href="/wiki/Via_L%C3%A1ctea" title="Via Láctea">Via Láctea</a></li>
+<li><a href="/wiki/Viain" title="Viain">Viain</a></li>
+<li><a href="/wiki/Vial" title="Vial">Vial</a></li>
+<li><a href="/wiki/Viana" title="Viana">Viana</a></li>
+<li><a href="/wiki/Vianburo" title="Vianburo">Vianburo</a></li>
+<li><a href="/wiki/Viar" title="Viar">Viar</a></li>
+<li><a href="/wiki/Viarbarrena" title="Viarbarrena">Viarbarrena</a></li>
+<li><a href="/wiki/Viartola" title="Viartola">Viartola</a></li>
+<li><a href="/wiki/Viaux" title="Viaux">Viaux</a></li>
+<li><a href="/wiki/Vicandi" title="Vicandi">Vicandi</a></li>
+<li><a href="/wiki/Vicario" title="Vicario">Vicario</a></li>
+<li><a href="/wiki/Vicarregui" title="Vicarregui">Vicarregui</a></li>
+<li><a href="/wiki/Vicencio" title="Vicencio">Vicencio</a></li>
+<li><a href="/wiki/Vicens" title="Vicens">Vicens</a></li>
+<li><a href="/wiki/Vicente" title="Vicente">Vicente</a></li>
+<li><a href="/wiki/Vicente_L%C3%B3pez" title="Vicente López">Vicente López</a></li>
+<li><a href="/wiki/Vich" title="Vich">Vich</a></li>
+<li><a href="/wiki/Vichada" title="Vichada">Vichada</a></li>
+<li><a href="/wiki/Vicho" title="Vicho">Vicho</a></li>
+<li><a href="/wiki/Vichunante" title="Vichunante">Vichunante</a></li>
+<li><a href="/wiki/Vicinay" title="Vicinay">Vicinay</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=Urrejolagoitia" title="Especial:Todas">Página anterior (Urrejolagoitia)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=Viciola" title="Especial:Todas">Página siguiente (Viciola)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DV" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3DV" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=V" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=V&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=V&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":249,"wgHostname":"mw1373"});});</script></body></html>

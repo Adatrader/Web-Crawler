@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Todas las páginas - Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XljPOgpAMNYAAw0OgasAAAAT","wgCSPNonce":!1,"wgCanonicalNamespace":"Special","wgCanonicalSpecialPageName":"Allpages","wgNamespaceNumber":-1,"wgPageName":"Especial:Todas","wgTitle":"Todas","wgCurRevisionId":0,"wgRevisionId":0,"wgArticleId":0,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Especial:Todas","wgRelevantArticleId":0,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgMediaViewerOnClick":
+!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.MessageBox":"ready","ext.gadget.NavFrame":"ready","ext.gadget.InflectionTable":"ready","ext.gadget.AutonumberTable":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.special":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","mediawiki.htmlform.ooui.styles":"ready","mediawiki.htmlform.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","skins.vector.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.htmlform","mediawiki.htmlform.ooui","mediawiki.widgets","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","ext.gadget.CollapsibleTOC","ext.gadget.CollapsibleCombo","ext.gadget.HideCategories","ext.gadget.Ejemplos","ext.gadget.SisterProjects","ext.gadget.EtymologySectionFragment","ext.gadget.ReferenceTooltips","ext.gadget.SpecialcharsDropdown","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.htmlform.ooui.styles%7Cmediawiki.htmlform.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.special%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.AutonumberTable%2CInflectionTable%2CMessageBox%2CNavFrame&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikcionario" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=v"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns--1 ns-special mw-special-Allpages page-Especial_Todas rootpage-Especial_Todas skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Todas las páginas</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text"><div class="mw-specialpage-summary">
+<p>Esta página lista todas las entradas del Wikcionario en español. La lista está clasificada por orden alfabético. Las redirecciones aparecen en cursiva.
+</p>
+</div><div class='mw-htmlform-ooui-wrapper oo-ui-layout oo-ui-panelLayout oo-ui-panelLayout-padded oo-ui-panelLayout-framed'><form action='/wiki/Especial:Todas' method='get' enctype='application/x-www-form-urlencoded' class='mw-htmlform mw-htmlform-ooui oo-ui-layout oo-ui-formLayout'><fieldset class='oo-ui-layout oo-ui-labelElement oo-ui-fieldsetLayout'><legend class='oo-ui-fieldsetLayout-header'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-labelElement-label'>Todas las páginas</span></legend><div class='oo-ui-fieldsetLayout-group'><div aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled'><div id='ooui-php-4' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsfrom"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas que empiecen por:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-1' class='oo-ui-labelElement-label'>Mostrar páginas que empiecen por:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsfrom' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"from","value":"v","inputId":"ooui-php-1"}'><input type='text' tabindex='0' aria-disabled='false' name='from' value='v' id='ooui-php-1' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div id='ooui-php-5' class='mw-htmlform-field-HTMLTextField  oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"nsto"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Mostrar p\u00e1ginas terminadas con:"},"classes":["mw-htmlform-field-HTMLTextField",""]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-2' class='oo-ui-labelElement-label'>Mostrar páginas terminadas con:</label></span><div class='oo-ui-fieldLayout-field'><div id='nsto' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-textInputWidget oo-ui-textInputWidget-type-text oo-ui-textInputWidget-php' data-ooui='{"_":"OO.ui.TextInputWidget","name":"to","inputId":"ooui-php-2"}'><input type='text' tabindex='0' aria-disabled='false' name='to' value='' id='ooui-php-2' class='oo-ui-inputWidget-input' /><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon'></span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator'></span></div></div></div></div><div data-mw-modules='mediawiki.widgets' id='ooui-php-6' class='mw-htmlform-field-HTMLSelectNamespace  mw-htmlform-field-autoinfuse oo-ui-layout oo-ui-labelElement oo-ui-fieldLayout oo-ui-fieldLayout-align-top' data-ooui='{"_":"mw.htmlform.FieldLayout","fieldWidget":{"tag":"namespace"},"align":"top","helpInline":true,"$overlay":true,"label":{"html":"Espacio de nombres:"},"classes":["mw-htmlform-field-HTMLSelectNamespace","","mw-htmlform-field-autoinfuse"]}'><div class='oo-ui-fieldLayout-body'><span class='oo-ui-fieldLayout-header'><label for='ooui-php-3' class='oo-ui-labelElement-label'>Espacio de nombres:</label></span><div class='oo-ui-fieldLayout-field'><div id='namespace' aria-disabled='false' class='oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-dropdownInputWidget oo-ui-dropdownInputWidget-php mw-widget-namespaceInputWidget' data-ooui='{"_":"mw.widgets.NamespaceInputWidget","includeAllValue":null,"exclude":[],"dropdown":{"$overlay":true},"name":"namespace","value":"0","inputId":"ooui-php-3"}'><select tabindex='0' aria-disabled='false' name='namespace' id='ooui-php-3' class='oo-ui-inputWidget-input oo-ui-indicator-down'><option value='0' selected='selected'>(Principal)</option><option value='1'>Discusión</option><option value='2'>Usuario</option><option value='3'>Usuario discusión</option><option value='4'>Wikcionario</option><option value='5'>Wikcionario discusión</option><option value='6'>Archivo</option><option value='7'>Archivo discusión</option><option value='8'>MediaWiki</option><option value='9'>MediaWiki discusión</option><option value='10'>Plantilla</option><option value='11'>Plantilla discusión</option><option value='12'>Ayuda</option><option value='13'>Ayuda discusión</option><option value='14'>Categoría</option><option value='15'>Categoría discusión</option><option value='100'>Apéndice</option><option value='101'>Apéndice Discusión</option><option value='828'>Módulo</option><option value='829'>Módulo discusión</option><option value='2300'>Accesorio</option><option value='2301'>Accesorio discusión</option><option value='2302'>Accesorio definición</option><option value='2303'>Accesorio definición discusión</option></select></div></div></div></div><div class="mw-htmlform-submit-buttons">
+<span aria-disabled='false' id='ooui-php-7' class='mw-htmlform-submit oo-ui-widget oo-ui-widget-enabled oo-ui-inputWidget oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonInputWidget' data-ooui='{"_":"OO.ui.ButtonInputWidget","type":"submit","value":"Mostrar","label":"Mostrar","flags":["primary","progressive"],"classes":["mw-htmlform-submit"]}'><button type='submit' tabindex='0' aria-disabled='false' value='Mostrar' class='oo-ui-inputWidget-input oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Mostrar</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></button></span></div>
+</div></div></fieldset></form></div><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=utensillo" title="Especial:Todas">Página anterior (utensillo)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=vacuri%C3%B1o" title="Especial:Todas">Página siguiente (vacuriño)</a></div><div class="mw-allpages-body"><ul class="mw-allpages-chunk"><li><a href="/wiki/v" title="v">v</a></li>
+<li><a href="/wiki/v._gr." title="v. gr.">v. gr.</a></li>
+<li><a href="/wiki/v_doble" title="v doble">v doble</a></li>
+<li><a href="/wiki/va" title="va">va</a></li>
+<li><a href="/wiki/va%27ar" title="va&#039;ar">va&#039;ar</a></li>
+<li><a href="/wiki/va%27i_jaha" title="va&#039;i jaha">va&#039;i jaha</a></li>
+<li class="allpagesredirect"><a href="/wiki/va%27ine" class="mw-redirect" title="va&#039;ine">va&#039;ine</a></li>
+<li class="allpagesredirect"><a href="/wiki/va%27u" class="mw-redirect" title="va&#039;u">va&#039;u</a></li>
+<li><a href="/wiki/va_te_faire_foutre" title="va te faire foutre">va te faire foutre</a></li>
+<li><a href="/wiki/vaahtera" title="vaahtera">vaahtera</a></li>
+<li><a href="/wiki/vaajy" title="vaajy">vaajy</a></li>
+<li><a href="/wiki/vaartuig" title="vaartuig">vaartuig</a></li>
+<li><a href="/wiki/vaax" title="vaax">vaax</a></li>
+<li><a href="/wiki/vaca" title="vaca">vaca</a></li>
+<li><a href="/wiki/vaca-Domnului" title="vaca-Domnului">vaca-Domnului</a></li>
+<li><a href="/wiki/vaca_de_San_Ant%C3%B3n" title="vaca de San Antón">vaca de San Antón</a></li>
+<li><a href="/wiki/vaca_domnului" title="vaca domnului">vaca domnului</a></li>
+<li><a href="/wiki/vaca_lechera" title="vaca lechera">vaca lechera</a></li>
+<li><a href="/wiki/vaca_marina" title="vaca marina">vaca marina</a></li>
+<li><a href="/wiki/vacaba" title="vacaba">vacaba</a></li>
+<li><a href="/wiki/vacabais" title="vacabais">vacabais</a></li>
+<li><a href="/wiki/vacaban" title="vacaban">vacaban</a></li>
+<li><a href="/wiki/vacabas" title="vacabas">vacabas</a></li>
+<li><a href="/wiki/vacaciona" title="vacaciona">vacaciona</a></li>
+<li><a href="/wiki/vacacionaba" title="vacacionaba">vacacionaba</a></li>
+<li><a href="/wiki/vacacionabais" title="vacacionabais">vacacionabais</a></li>
+<li><a href="/wiki/vacacionaban" title="vacacionaban">vacacionaban</a></li>
+<li><a href="/wiki/vacacionabas" title="vacacionabas">vacacionabas</a></li>
+<li><a href="/wiki/vacacionad" title="vacacionad">vacacionad</a></li>
+<li><a href="/wiki/vacacionada" title="vacacionada">vacacionada</a></li>
+<li><a href="/wiki/vacacionadas" title="vacacionadas">vacacionadas</a></li>
+<li><a href="/wiki/vacacionado" title="vacacionado">vacacionado</a></li>
+<li><a href="/wiki/vacacionados" title="vacacionados">vacacionados</a></li>
+<li><a href="/wiki/vacacionales" title="vacacionales">vacacionales</a></li>
+<li><a href="/wiki/vacacionamos" title="vacacionamos">vacacionamos</a></li>
+<li><a href="/wiki/vacacionan" title="vacacionan">vacacionan</a></li>
+<li><a href="/wiki/vacacionando" title="vacacionando">vacacionando</a></li>
+<li><a href="/wiki/vacacionar" title="vacacionar">vacacionar</a></li>
+<li><a href="/wiki/vacacionara" title="vacacionara">vacacionara</a></li>
+<li><a href="/wiki/vacacionarais" title="vacacionarais">vacacionarais</a></li>
+<li><a href="/wiki/vacacionaran" title="vacacionaran">vacacionaran</a></li>
+<li><a href="/wiki/vacacionaras" title="vacacionaras">vacacionaras</a></li>
+<li><a href="/wiki/vacacionare" title="vacacionare">vacacionare</a></li>
+<li><a href="/wiki/vacacionareis" title="vacacionareis">vacacionareis</a></li>
+<li><a href="/wiki/vacacionaremos" title="vacacionaremos">vacacionaremos</a></li>
+<li><a href="/wiki/vacacionaren" title="vacacionaren">vacacionaren</a></li>
+<li><a href="/wiki/vacacionares" title="vacacionares">vacacionares</a></li>
+<li><a href="/wiki/vacacionaron" title="vacacionaron">vacacionaron</a></li>
+<li><a href="/wiki/vacacionar%C3%A1" title="vacacionará">vacacionará</a></li>
+<li><a href="/wiki/vacacionar%C3%A1n" title="vacacionarán">vacacionarán</a></li>
+<li><a href="/wiki/vacacionar%C3%A1s" title="vacacionarás">vacacionarás</a></li>
+<li><a href="/wiki/vacacionar%C3%A9" title="vacacionaré">vacacionaré</a></li>
+<li><a href="/wiki/vacacionar%C3%A9is" title="vacacionaréis">vacacionaréis</a></li>
+<li><a href="/wiki/vacacionar%C3%ADa" title="vacacionaría">vacacionaría</a></li>
+<li><a href="/wiki/vacacionar%C3%ADais" title="vacacionaríais">vacacionaríais</a></li>
+<li><a href="/wiki/vacacionar%C3%ADamos" title="vacacionaríamos">vacacionaríamos</a></li>
+<li><a href="/wiki/vacacionar%C3%ADan" title="vacacionarían">vacacionarían</a></li>
+<li><a href="/wiki/vacacionar%C3%ADas" title="vacacionarías">vacacionarías</a></li>
+<li><a href="/wiki/vacacionas" title="vacacionas">vacacionas</a></li>
+<li><a href="/wiki/vacacionase" title="vacacionase">vacacionase</a></li>
+<li><a href="/wiki/vacacionaseis" title="vacacionaseis">vacacionaseis</a></li>
+<li><a href="/wiki/vacacionasen" title="vacacionasen">vacacionasen</a></li>
+<li><a href="/wiki/vacacionases" title="vacacionases">vacacionases</a></li>
+<li><a href="/wiki/vacacionaste" title="vacacionaste">vacacionaste</a></li>
+<li><a href="/wiki/vacacionasteis" title="vacacionasteis">vacacionasteis</a></li>
+<li><a href="/wiki/vacacione" title="vacacione">vacacione</a></li>
+<li><a href="/wiki/vacacionemos" title="vacacionemos">vacacionemos</a></li>
+<li><a href="/wiki/vacacionen" title="vacacionen">vacacionen</a></li>
+<li><a href="/wiki/vacaciones" title="vacaciones">vacaciones</a></li>
+<li><a href="/wiki/vacaciono" title="vacaciono">vacaciono</a></li>
+<li><a href="/wiki/vacacion%C3%A1" title="vacacioná">vacacioná</a></li>
+<li><a href="/wiki/vacacion%C3%A1bamos" title="vacacionábamos">vacacionábamos</a></li>
+<li><a href="/wiki/vacacion%C3%A1is" title="vacacionáis">vacacionáis</a></li>
+<li><a href="/wiki/vacacion%C3%A1ramos" title="vacacionáramos">vacacionáramos</a></li>
+<li><a href="/wiki/vacacion%C3%A1remos" title="vacacionáremos">vacacionáremos</a></li>
+<li><a href="/wiki/vacacion%C3%A1s" title="vacacionás">vacacionás</a></li>
+<li><a href="/wiki/vacacion%C3%A1semos" title="vacacionásemos">vacacionásemos</a></li>
+<li><a href="/wiki/vacacion%C3%A9" title="vacacioné">vacacioné</a></li>
+<li><a href="/wiki/vacacion%C3%A9is" title="vacacionéis">vacacionéis</a></li>
+<li><a href="/wiki/vacacion%C3%A9s" title="vacacionés">vacacionés</a></li>
+<li><a href="/wiki/vacacion%C3%B3" title="vacacionó">vacacionó</a></li>
+<li><a href="/wiki/vacad" title="vacad">vacad</a></li>
+<li><a href="/wiki/vacada" title="vacada">vacada</a></li>
+<li><a href="/wiki/vacadas" title="vacadas">vacadas</a></li>
+<li><a href="/wiki/vacado" title="vacado">vacado</a></li>
+<li><a href="/wiki/vacados" title="vacados">vacados</a></li>
+<li><a href="/wiki/vacamos" title="vacamos">vacamos</a></li>
+<li><a href="/wiki/vacan" title="vacan">vacan</a></li>
+<li><a href="/wiki/vacando" title="vacando">vacando</a></li>
+<li><a href="/wiki/vacante" title="vacante">vacante</a></li>
+<li><a href="/wiki/vacantes" title="vacantes">vacantes</a></li>
+<li><a href="/wiki/vacanze" title="vacanze">vacanze</a></li>
+<li><a href="/wiki/vacar" title="vacar">vacar</a></li>
+<li><a href="/wiki/vacara" title="vacara">vacara</a></li>
+<li><a href="/wiki/vacarais" title="vacarais">vacarais</a></li>
+<li><a href="/wiki/vacaran" title="vacaran">vacaran</a></li>
+<li><a href="/wiki/vacaras" title="vacaras">vacaras</a></li>
+<li><a href="/wiki/vacaray" title="vacaray">vacaray</a></li>
+<li><a href="/wiki/vacare" title="vacare">vacare</a></li>
+<li><a href="/wiki/vacareis" title="vacareis">vacareis</a></li>
+<li><a href="/wiki/vacaremos" title="vacaremos">vacaremos</a></li>
+<li><a href="/wiki/vacaren" title="vacaren">vacaren</a></li>
+<li><a href="/wiki/vacares" title="vacares">vacares</a></li>
+<li><a href="/wiki/vacaron" title="vacaron">vacaron</a></li>
+<li><a href="/wiki/vacar%C3%A1" title="vacará">vacará</a></li>
+<li><a href="/wiki/vacar%C3%A1n" title="vacarán">vacarán</a></li>
+<li><a href="/wiki/vacar%C3%A1s" title="vacarás">vacarás</a></li>
+<li><a href="/wiki/vacar%C3%A9" title="vacaré">vacaré</a></li>
+<li><a href="/wiki/vacar%C3%A9is" title="vacaréis">vacaréis</a></li>
+<li><a href="/wiki/vacar%C3%ADa" title="vacaría">vacaría</a></li>
+<li><a href="/wiki/vacar%C3%ADais" title="vacaríais">vacaríais</a></li>
+<li><a href="/wiki/vacar%C3%ADamos" title="vacaríamos">vacaríamos</a></li>
+<li><a href="/wiki/vacar%C3%ADan" title="vacarían">vacarían</a></li>
+<li><a href="/wiki/vacar%C3%ADas" title="vacarías">vacarías</a></li>
+<li><a href="/wiki/vacas" title="vacas">vacas</a></li>
+<li><a href="/wiki/vacase" title="vacase">vacase</a></li>
+<li><a href="/wiki/vacaseis" title="vacaseis">vacaseis</a></li>
+<li><a href="/wiki/vacasen" title="vacasen">vacasen</a></li>
+<li><a href="/wiki/vacases" title="vacases">vacases</a></li>
+<li><a href="/wiki/vacaste" title="vacaste">vacaste</a></li>
+<li><a href="/wiki/vacasteis" title="vacasteis">vacasteis</a></li>
+<li><a href="/wiki/vacaturas" title="vacaturas">vacaturas</a></li>
+<li><a href="/wiki/vacca" title="vacca">vacca</a></li>
+<li><a href="/wiki/vacceos" title="vacceos">vacceos</a></li>
+<li><a href="/wiki/vaccin" title="vaccin">vaccin</a></li>
+<li><a href="/wiki/vaccinare" title="vaccinare">vaccinare</a></li>
+<li><a href="/wiki/vache" title="vache">vache</a></li>
+<li><a href="/wiki/vaciaba" title="vaciaba">vaciaba</a></li>
+<li><a href="/wiki/vaciabais" title="vaciabais">vaciabais</a></li>
+<li><a href="/wiki/vaciaban" title="vaciaban">vaciaban</a></li>
+<li><a href="/wiki/vaciabas" title="vaciabas">vaciabas</a></li>
+<li><a href="/wiki/vaciad" title="vaciad">vaciad</a></li>
+<li><a href="/wiki/vaciada" title="vaciada">vaciada</a></li>
+<li><a href="/wiki/vaciadas" title="vaciadas">vaciadas</a></li>
+<li><a href="/wiki/vaciaderos" title="vaciaderos">vaciaderos</a></li>
+<li><a href="/wiki/vaciadiza" title="vaciadiza">vaciadiza</a></li>
+<li><a href="/wiki/vaciadizas" title="vaciadizas">vaciadizas</a></li>
+<li><a href="/wiki/vaciadizo" title="vaciadizo">vaciadizo</a></li>
+<li><a href="/wiki/vaciadizos" title="vaciadizos">vaciadizos</a></li>
+<li><a href="/wiki/vaciado" title="vaciado">vaciado</a></li>
+<li><a href="/wiki/vaciados" title="vaciados">vaciados</a></li>
+<li><a href="/wiki/vaciamiento" title="vaciamiento">vaciamiento</a></li>
+<li><a href="/wiki/vaciamientos" title="vaciamientos">vaciamientos</a></li>
+<li><a href="/wiki/vaciamos" title="vaciamos">vaciamos</a></li>
+<li><a href="/wiki/vaciando" title="vaciando">vaciando</a></li>
+<li><a href="/wiki/vaciantes" title="vaciantes">vaciantes</a></li>
+<li><a href="/wiki/vaciaos" title="vaciaos">vaciaos</a></li>
+<li><a href="/wiki/vaciar" title="vaciar">vaciar</a></li>
+<li><a href="/wiki/vaciara" title="vaciara">vaciara</a></li>
+<li><a href="/wiki/vaciarais" title="vaciarais">vaciarais</a></li>
+<li><a href="/wiki/vaciaran" title="vaciaran">vaciaran</a></li>
+<li><a href="/wiki/vaciaras" title="vaciaras">vaciaras</a></li>
+<li><a href="/wiki/vaciare" title="vaciare">vaciare</a></li>
+<li><a href="/wiki/vaciareis" title="vaciareis">vaciareis</a></li>
+<li><a href="/wiki/vaciaremos" title="vaciaremos">vaciaremos</a></li>
+<li><a href="/wiki/vaciaren" title="vaciaren">vaciaren</a></li>
+<li><a href="/wiki/vaciares" title="vaciares">vaciares</a></li>
+<li><a href="/wiki/vaciaron" title="vaciaron">vaciaron</a></li>
+<li><a href="/wiki/vaciarse" title="vaciarse">vaciarse</a></li>
+<li><a href="/wiki/vaciar%C3%A1" title="vaciará">vaciará</a></li>
+<li><a href="/wiki/vaciar%C3%A1n" title="vaciarán">vaciarán</a></li>
+<li><a href="/wiki/vaciar%C3%A1s" title="vaciarás">vaciarás</a></li>
+<li><a href="/wiki/vaciar%C3%A9" title="vaciaré">vaciaré</a></li>
+<li><a href="/wiki/vaciar%C3%A9is" title="vaciaréis">vaciaréis</a></li>
+<li><a href="/wiki/vaciar%C3%ADa" title="vaciaría">vaciaría</a></li>
+<li><a href="/wiki/vaciar%C3%ADais" title="vaciaríais">vaciaríais</a></li>
+<li><a href="/wiki/vaciar%C3%ADamos" title="vaciaríamos">vaciaríamos</a></li>
+<li><a href="/wiki/vaciar%C3%ADan" title="vaciarían">vaciarían</a></li>
+<li><a href="/wiki/vaciar%C3%ADas" title="vaciarías">vaciarías</a></li>
+<li><a href="/wiki/vaciase" title="vaciase">vaciase</a></li>
+<li><a href="/wiki/vaciaseis" title="vaciaseis">vaciaseis</a></li>
+<li><a href="/wiki/vaciasen" title="vaciasen">vaciasen</a></li>
+<li><a href="/wiki/vaciases" title="vaciases">vaciases</a></li>
+<li><a href="/wiki/vaciaste" title="vaciaste">vaciaste</a></li>
+<li><a href="/wiki/vaciasteis" title="vaciasteis">vaciasteis</a></li>
+<li><a href="/wiki/vaciate" title="vaciate">vaciate</a></li>
+<li><a href="/wiki/vaciedades" title="vaciedades">vaciedades</a></li>
+<li><a href="/wiki/vaciemos" title="vaciemos">vaciemos</a></li>
+<li><a href="/wiki/vacieros" title="vacieros">vacieros</a></li>
+<li><a href="/wiki/vacila" title="vacila">vacila</a></li>
+<li><a href="/wiki/vacilaba" title="vacilaba">vacilaba</a></li>
+<li><a href="/wiki/vacilabais" title="vacilabais">vacilabais</a></li>
+<li><a href="/wiki/vacilaban" title="vacilaban">vacilaban</a></li>
+<li><a href="/wiki/vacilabas" title="vacilabas">vacilabas</a></li>
+<li><a href="/wiki/vacilaciones" title="vacilaciones">vacilaciones</a></li>
+<li><a href="/wiki/vacilaci%C3%B3n" title="vacilación">vacilación</a></li>
+<li><a href="/wiki/vacilad" title="vacilad">vacilad</a></li>
+<li><a href="/wiki/vacilada" title="vacilada">vacilada</a></li>
+<li><a href="/wiki/vaciladas" title="vaciladas">vaciladas</a></li>
+<li><a href="/wiki/vacilado" title="vacilado">vacilado</a></li>
+<li><a href="/wiki/vaciladora" title="vaciladora">vaciladora</a></li>
+<li><a href="/wiki/vaciladoras" title="vaciladoras">vaciladoras</a></li>
+<li><a href="/wiki/vaciladores" title="vaciladores">vaciladores</a></li>
+<li><a href="/wiki/vacilados" title="vacilados">vacilados</a></li>
+<li><a href="/wiki/vacilala" title="vacilala">vacilala</a></li>
+<li><a href="/wiki/vacilamos" title="vacilamos">vacilamos</a></li>
+<li><a href="/wiki/vacilan" title="vacilan">vacilan</a></li>
+<li><a href="/wiki/vacilando" title="vacilando">vacilando</a></li>
+<li><a href="/wiki/vacilante" title="vacilante">vacilante</a></li>
+<li><a href="/wiki/vacilantes" title="vacilantes">vacilantes</a></li>
+<li><a href="/wiki/vacilar" title="vacilar">vacilar</a></li>
+<li><a href="/wiki/vacilara" title="vacilara">vacilara</a></li>
+<li><a href="/wiki/vacilarais" title="vacilarais">vacilarais</a></li>
+<li><a href="/wiki/vacilaran" title="vacilaran">vacilaran</a></li>
+<li><a href="/wiki/vacilaras" title="vacilaras">vacilaras</a></li>
+<li><a href="/wiki/vacilare" title="vacilare">vacilare</a></li>
+<li><a href="/wiki/vacilareis" title="vacilareis">vacilareis</a></li>
+<li><a href="/wiki/vacilaremos" title="vacilaremos">vacilaremos</a></li>
+<li><a href="/wiki/vacilaren" title="vacilaren">vacilaren</a></li>
+<li><a href="/wiki/vacilares" title="vacilares">vacilares</a></li>
+<li><a href="/wiki/vacilaron" title="vacilaron">vacilaron</a></li>
+<li><a href="/wiki/vacilar%C3%A1" title="vacilará">vacilará</a></li>
+<li><a href="/wiki/vacilar%C3%A1n" title="vacilarán">vacilarán</a></li>
+<li><a href="/wiki/vacilar%C3%A1s" title="vacilarás">vacilarás</a></li>
+<li><a href="/wiki/vacilar%C3%A9" title="vacilaré">vacilaré</a></li>
+<li><a href="/wiki/vacilar%C3%A9is" title="vacilaréis">vacilaréis</a></li>
+<li><a href="/wiki/vacilar%C3%ADa" title="vacilaría">vacilaría</a></li>
+<li><a href="/wiki/vacilar%C3%ADais" title="vacilaríais">vacilaríais</a></li>
+<li><a href="/wiki/vacilar%C3%ADamos" title="vacilaríamos">vacilaríamos</a></li>
+<li><a href="/wiki/vacilar%C3%ADan" title="vacilarían">vacilarían</a></li>
+<li><a href="/wiki/vacilar%C3%ADas" title="vacilarías">vacilarías</a></li>
+<li><a href="/wiki/vacilas" title="vacilas">vacilas</a></li>
+<li><a href="/wiki/vacilase" title="vacilase">vacilase</a></li>
+<li><a href="/wiki/vacilaseis" title="vacilaseis">vacilaseis</a></li>
+<li><a href="/wiki/vacilasen" title="vacilasen">vacilasen</a></li>
+<li><a href="/wiki/vacilases" title="vacilases">vacilases</a></li>
+<li><a href="/wiki/vacilaste" title="vacilaste">vacilaste</a></li>
+<li><a href="/wiki/vacilasteis" title="vacilasteis">vacilasteis</a></li>
+<li><a href="/wiki/vacila%C3%A7%C3%A3o" title="vacilação">vacilação</a></li>
+<li><a href="/wiki/vacile" title="vacile">vacile</a></li>
+<li><a href="/wiki/vacilemos" title="vacilemos">vacilemos</a></li>
+<li><a href="/wiki/vacilen" title="vacilen">vacilen</a></li>
+<li><a href="/wiki/vaciles" title="vaciles">vaciles</a></li>
+<li><a href="/wiki/vacillare" title="vacillare">vacillare</a></li>
+<li><a href="/wiki/vacillazione" title="vacillazione">vacillazione</a></li>
+<li><a href="/wiki/vacilo" title="vacilo">vacilo</a></li>
+<li><a href="/wiki/vacilona" title="vacilona">vacilona</a></li>
+<li><a href="/wiki/vacilonas" title="vacilonas">vacilonas</a></li>
+<li><a href="/wiki/vacilones" title="vacilones">vacilones</a></li>
+<li><a href="/wiki/vacil%C3%A1" title="vacilá">vacilá</a></li>
+<li><a href="/wiki/vacil%C3%A1bamos" title="vacilábamos">vacilábamos</a></li>
+<li><a href="/wiki/vacil%C3%A1is" title="vaciláis">vaciláis</a></li>
+<li><a href="/wiki/vacil%C3%A1ramos" title="vaciláramos">vaciláramos</a></li>
+<li><a href="/wiki/vacil%C3%A1remos" title="vaciláremos">vaciláremos</a></li>
+<li><a href="/wiki/vacil%C3%A1s" title="vacilás">vacilás</a></li>
+<li><a href="/wiki/vacil%C3%A1semos" title="vacilásemos">vacilásemos</a></li>
+<li><a href="/wiki/vacil%C3%A9" title="vacilé">vacilé</a></li>
+<li><a href="/wiki/vacil%C3%A9is" title="vaciléis">vaciléis</a></li>
+<li><a href="/wiki/vacil%C3%A9s" title="vacilés">vacilés</a></li>
+<li><a href="/wiki/vacil%C3%B3" title="vaciló">vaciló</a></li>
+<li><a href="/wiki/vacina" title="vacina">vacina</a></li>
+<li><a href="/wiki/vacinar" title="vacinar">vacinar</a></li>
+<li><a href="/wiki/vaci%C3%A1" title="vaciá">vaciá</a></li>
+<li><a href="/wiki/vaci%C3%A1bamos" title="vaciábamos">vaciábamos</a></li>
+<li><a href="/wiki/vaci%C3%A1is" title="vaciáis">vaciáis</a></li>
+<li><a href="/wiki/vaci%C3%A1ndose" title="vaciándose">vaciándose</a></li>
+<li><a href="/wiki/vaci%C3%A1ramos" title="vaciáramos">vaciáramos</a></li>
+<li><a href="/wiki/vaci%C3%A1remos" title="vaciáremos">vaciáremos</a></li>
+<li><a href="/wiki/vaci%C3%A1s" title="vaciás">vaciás</a></li>
+<li><a href="/wiki/vaci%C3%A1semos" title="vaciásemos">vaciásemos</a></li>
+<li><a href="/wiki/vaci%C3%A9" title="vacié">vacié</a></li>
+<li><a href="/wiki/vaci%C3%A9is" title="vaciéis">vaciéis</a></li>
+<li><a href="/wiki/vaci%C3%A9s" title="vaciés">vaciés</a></li>
+<li><a href="/wiki/vaci%C3%B3" title="vació">vació</a></li>
+<li><a href="/wiki/vaco" title="vaco">vaco</a></li>
+<li><a href="/wiki/vacos" title="vacos">vacos</a></li>
+<li><a href="/wiki/vacua" title="vacua">vacua</a></li>
+<li><a href="/wiki/vacuas" title="vacuas">vacuas</a></li>
+<li><a href="/wiki/vacuidade" title="vacuidade">vacuidade</a></li>
+<li><a href="/wiki/vacuidades" title="vacuidades">vacuidades</a></li>
+<li><a href="/wiki/vacuior" title="vacuior">vacuior</a></li>
+<li><a href="/wiki/vacuissimus" title="vacuissimus">vacuissimus</a></li>
+<li><a href="/wiki/vacuna" title="vacuna">vacuna</a></li>
+<li><a href="/wiki/vacunaba" title="vacunaba">vacunaba</a></li>
+<li><a href="/wiki/vacunabais" title="vacunabais">vacunabais</a></li>
+<li><a href="/wiki/vacunaban" title="vacunaban">vacunaban</a></li>
+<li><a href="/wiki/vacunabas" title="vacunabas">vacunabas</a></li>
+<li><a href="/wiki/vacunaciones" title="vacunaciones">vacunaciones</a></li>
+<li><a href="/wiki/vacunad" title="vacunad">vacunad</a></li>
+<li><a href="/wiki/vacunada" title="vacunada">vacunada</a></li>
+<li><a href="/wiki/vacunadas" title="vacunadas">vacunadas</a></li>
+<li><a href="/wiki/vacunado" title="vacunado">vacunado</a></li>
+<li><a href="/wiki/vacunador" title="vacunador">vacunador</a></li>
+<li><a href="/wiki/vacunadora" title="vacunadora">vacunadora</a></li>
+<li><a href="/wiki/vacunadoras" title="vacunadoras">vacunadoras</a></li>
+<li><a href="/wiki/vacunadores" title="vacunadores">vacunadores</a></li>
+<li><a href="/wiki/vacunados" title="vacunados">vacunados</a></li>
+<li><a href="/wiki/vacunafobia" title="vacunafobia">vacunafobia</a></li>
+<li><a href="/wiki/vacunamos" title="vacunamos">vacunamos</a></li>
+<li><a href="/wiki/vacunan" title="vacunan">vacunan</a></li>
+<li><a href="/wiki/vacunando" title="vacunando">vacunando</a></li>
+<li><a href="/wiki/vacunaos" title="vacunaos">vacunaos</a></li>
+<li><a href="/wiki/vacunar" title="vacunar">vacunar</a></li>
+<li><a href="/wiki/vacunara" title="vacunara">vacunara</a></li>
+<li><a href="/wiki/vacunarais" title="vacunarais">vacunarais</a></li>
+<li><a href="/wiki/vacunaran" title="vacunaran">vacunaran</a></li>
+<li><a href="/wiki/vacunaras" title="vacunaras">vacunaras</a></li>
+<li><a href="/wiki/vacunare" title="vacunare">vacunare</a></li>
+<li><a href="/wiki/vacunareis" title="vacunareis">vacunareis</a></li>
+<li><a href="/wiki/vacunaremos" title="vacunaremos">vacunaremos</a></li>
+<li><a href="/wiki/vacunaren" title="vacunaren">vacunaren</a></li>
+<li><a href="/wiki/vacunares" title="vacunares">vacunares</a></li>
+<li><a href="/wiki/vacunaron" title="vacunaron">vacunaron</a></li>
+<li><a href="/wiki/vacunarse" title="vacunarse">vacunarse</a></li>
+<li><a href="/wiki/vacunar%C3%A1" title="vacunará">vacunará</a></li>
+<li><a href="/wiki/vacunar%C3%A1n" title="vacunarán">vacunarán</a></li>
+<li><a href="/wiki/vacunar%C3%A1s" title="vacunarás">vacunarás</a></li>
+<li><a href="/wiki/vacunar%C3%A9" title="vacunaré">vacunaré</a></li>
+<li><a href="/wiki/vacunar%C3%A9is" title="vacunaréis">vacunaréis</a></li>
+<li><a href="/wiki/vacunar%C3%ADa" title="vacunaría">vacunaría</a></li>
+<li><a href="/wiki/vacunar%C3%ADais" title="vacunaríais">vacunaríais</a></li>
+<li><a href="/wiki/vacunar%C3%ADamos" title="vacunaríamos">vacunaríamos</a></li>
+<li><a href="/wiki/vacunar%C3%ADan" title="vacunarían">vacunarían</a></li>
+<li><a href="/wiki/vacunar%C3%ADas" title="vacunarías">vacunarías</a></li>
+<li><a href="/wiki/vacunas" title="vacunas">vacunas</a></li>
+<li><a href="/wiki/vacunase" title="vacunase">vacunase</a></li>
+<li><a href="/wiki/vacunaseis" title="vacunaseis">vacunaseis</a></li>
+<li><a href="/wiki/vacunasen" title="vacunasen">vacunasen</a></li>
+<li><a href="/wiki/vacunases" title="vacunases">vacunases</a></li>
+<li><a href="/wiki/vacunaste" title="vacunaste">vacunaste</a></li>
+<li><a href="/wiki/vacunasteis" title="vacunasteis">vacunasteis</a></li>
+<li><a href="/wiki/vacunate" title="vacunate">vacunate</a></li>
+<li><a href="/wiki/vacune" title="vacune">vacune</a></li>
+<li><a href="/wiki/vacunemos" title="vacunemos">vacunemos</a></li>
+<li><a href="/wiki/vacunen" title="vacunen">vacunen</a></li>
+<li><a href="/wiki/vacunes" title="vacunes">vacunes</a></li>
+<li><a href="/wiki/vacuno" title="vacuno">vacuno</a></li>
+<li><a href="/wiki/vacunos" title="vacunos">vacunos</a></li>
+<li><a href="/wiki/vacunoterapias" title="vacunoterapias">vacunoterapias</a></li>
+<li><a href="/wiki/vacun%C3%A1" title="vacuná">vacuná</a></li>
+<li><a href="/wiki/vacun%C3%A1bamos" title="vacunábamos">vacunábamos</a></li>
+<li><a href="/wiki/vacun%C3%A1is" title="vacunáis">vacunáis</a></li>
+<li><a href="/wiki/vacun%C3%A1ndose" title="vacunándose">vacunándose</a></li>
+<li><a href="/wiki/vacun%C3%A1ramos" title="vacunáramos">vacunáramos</a></li>
+<li><a href="/wiki/vacun%C3%A1remos" title="vacunáremos">vacunáremos</a></li>
+<li><a href="/wiki/vacun%C3%A1s" title="vacunás">vacunás</a></li>
+<li><a href="/wiki/vacun%C3%A1semos" title="vacunásemos">vacunásemos</a></li>
+<li><a href="/wiki/vacun%C3%A9" title="vacuné">vacuné</a></li>
+<li><a href="/wiki/vacun%C3%A9is" title="vacunéis">vacunéis</a></li>
+<li><a href="/wiki/vacun%C3%A9s" title="vacunés">vacunés</a></li>
+<li><a href="/wiki/vacun%C3%B3" title="vacunó">vacunó</a></li>
+<li><a href="/wiki/vacuo" title="vacuo">vacuo</a></li>
+<li><a href="/wiki/vacuola" title="vacuola">vacuola</a></li>
+<li><a href="/wiki/vacuolas" title="vacuolas">vacuolas</a></li>
+<li><a href="/wiki/vacuos" title="vacuos">vacuos</a></li>
+</ul></div><hr/><div class="mw-allpages-nav"><a href="/w/index.php?title=Especial:Todas&amp;from=utensillo" title="Especial:Todas">Página anterior (utensillo)</a> | <a href="/w/index.php?title=Especial:Todas&amp;from=vacuri%C3%B1o" title="Especial:Todas">Página siguiente (vacuriño)</a></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/wiki/Especial:Todas">https://es.wiktionary.org/wiki/Especial:Todas</a>»</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dv" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Especial%3ATodas&amp;returntoquery=from%3Dv" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-special" class="selected"><a href="/w/index.php?title=Especial:Todas&amp;from=v" title="Esta es una página especial y no puede editarse">Página especial</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs emptyPortlet" aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikcionario" title="Buscar en Wikcionario [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Buscar este texto en las páginas" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikcionario:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-Portada"><a href="/wiki/Wikcionario:Portada">Portada</a></li><li id="n-Todas-las-páginas"><a href="/wiki/Especial:Todas">Todas las páginas</a></li><li id="n-Consultas"><a href="/wiki/Wikcionario:Consultas">Consultas</a></li><li id="n-Solicitudes"><a href="/wiki/Wikcionario:Solicitudes">Solicitudes</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-Aleatoria-en-otros-idiomas"><a href="/wiki/Wikcionario:Aleatorio_por_idioma">Aleatoria en otros idiomas</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Colaboración"  aria-labelledby="p-Colaboración-label">
+	<h3  id="p-Colaboración-label">
+		Colaboración
+	</h3>
+	<div class="body">
+		<ul><li id="n-portal"><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-Café"><a href="/wiki/Wikcionario:Caf%C3%A9">Café</a></li><li id="n-Páginas-requeridas"><a href="/wiki/Especial:P%C3%A1ginasRequeridas">Páginas requeridas</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-Ayuda"  aria-labelledby="p-Ayuda-label">
+	<h3  id="p-Ayuda-label">
+		Ayuda
+	</h3>
+	<div class="body">
+		<ul><li id="n-help"><a href="/wiki/Wikcionario:Ayuda" title="El lugar para aprender">Ayuda</a></li><li id="n-Tutorial"><a href="/wiki/Ayuda:Tutorial">Tutorial</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wiktionary.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-Embajada---embassy"><a href="/wiki/Wikcionario:Embajada">Embajada - embassy</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-print"><a href="/w/index.php?title=Especial:Todas&amp;from=v&amp;printable=yes" rel="alternate" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul></ul>
+		
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Acerca de Wikcionario</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikcionario:Descargo_general" class="mw-redirect" title="Wikcionario:Descargo general">Aviso legal</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wiktionary.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wiktionary.org/w/index.php?title=Especial:Todas&amp;from=v&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":354,"wgHostname":"mw1372"});});</script></body></html>

@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikipedia:Recursos libres - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XlkK9gpAMMIAANFWLAkAAAAY","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikipedia:Recursos_libres","wgTitle":"Recursos libres","wgCurRevisionId":123419651,"wgRevisionId":123419651,"wgArticleId":1311736,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Fuentes","Wikipedia:Derechos de autor"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikipedia:Recursos_libres",
+"wgRelevantArticleId":1311736,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q14927971","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":
+"ready","mediawiki.toc.styles":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.gadget.imagenesinfobox&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Wikipedia:Recursos_libres"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject mw-editable page-Wikipedia_Recursos_libres rootpage-Wikipedia_Recursos_libres skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="es">Wikipedia:Recursos libres</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"><div class="mw-revision warningbox"><div id="mw-revision-info-current"><div style="background: #FFBDBD; border: 1px solid #BB7979; color: #000000; font-weight: bold; margin: 2em 0 .5em; padding: .5em 1em; vertical-align: middle; clear: both;">Esta es la <span class="plainlinks"><a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Recursos_libres">versión actual</a></span> de esta página, editada a las <span id="mw-revision-date">17:37 9 feb 2020</span> por <span id="mw-revision-name"><a href="/wiki/Especial:Contribuciones/190.164.178.200" class="mw-userlink mw-anonuserlink" title="Especial:Contribuciones/190.164.178.200"><bdi>190.164.178.200</bdi></a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=Usuario_discusi%C3%B3n:190.164.178.200&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="Usuario discusión:190.164.178.200 (aún no redactado)">discusión</a>)</span></span>. La dirección URL es un <a href="/wiki/Ayuda:Enlace_permanente" title="Ayuda:Enlace permanente">enlace permanente</a> a <span class="plainlinks"><a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Recursos_libres">esta versión</a></span>.</div>
+<div id="revision-info-current-plain" style="display: none;">Versión a fecha de 17:37 9 feb 2020, por <a href="/wiki/Especial:Contribuciones/190.164.178.200" class="mw-userlink mw-anonuserlink" title="Especial:Contribuciones/190.164.178.200"><bdi>190.164.178.200</bdi></a> <span class="mw-usertoollinks">(<a href="/w/index.php?title=Usuario_discusi%C3%B3n:190.164.178.200&amp;action=edit&amp;redlink=1" class="new mw-usertoollinks-talk" title="Usuario discusión:190.164.178.200 (aún no redactado)">discusión</a>)</span></div></div><div id="mw-revision-nav">(<a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;diff=prev&amp;oldid=123419651" title="Wikipedia:Recursos libres">difs.</a>) <a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;direction=prev&amp;oldid=123419651" title="Wikipedia:Recursos libres">← Revisión anterior</a> · Ver revisión actual (difs.) · Revisión siguiente → (difs.)</div></div></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#p-search">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22.7em; line-height: 1.4em; text-align:left; padding:.23em;background-color:#F0F8FF;;"><tbody><tr><th colspan="3" class="cabecera libro" style="text-align:center;background-color:transparent;color:black;"><a class="mw-selflink selflink">Recursos libres</a></th></tr><tr><th colspan="3" style="text-align:center;background-color:#ADD8E6;;">Open Data</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Wikipedia:Recursos_libres/Open_Data_Euskadi" title="Wikipedia:Recursos libres/Open Data Euskadi">Open Data Euskadi</a></td></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Wikipedia:Recursos_libres/Irekia" title="Wikipedia:Recursos libres/Irekia">Irekia</a></td></tr><tr><th colspan="3" style="text-align:center;background-color:#ADD8E6;;">Enciclopedias</th></tr><tr><td colspan="3" style="text-align:center;">
+<a href="/wiki/Wikiproyecto:Enciclopedia_Brit%C3%A1nica_1911" title="Wikiproyecto:Enciclopedia Británica 1911">Enciclopedia Britannica de 1911</a></td></tr><tr><th colspan="3" style="text-align:center;background-color:#ADD8E6;;">Diccionarios</th></tr></tbody></table>
+<table style="border: 1px solid #aaa; background: #fff; margin: 0 0 1em 1em; padding: 3px; float: right; width: 67px; font-size: 90%;" class="noprint plainlinks">
+
+<tbody><tr>
+<th id="shortcut" style="text-align:center; vertical-align:top; border: none; background: transparent;"><a href="/wiki/Ayuda:Atajos" title="Ayuda:Atajos">Atajo</a><hr /><span class="sin-enlace" style="display:none">WP:RL</span><a class="external text" href="https://es.wikipedia.org/w/index.php?title=Wikipedia:RL&amp;redirect=no">WP:RL</a>
+</th></tr></tbody></table>
+<p>Esta página contiene numerosos <b>recursos con licencias libres</b> compatibles con los proyectos de la <a href="/wiki/Fundaci%C3%B3n_Wikimedia" title="Fundación Wikimedia">Fundación Wikimedia</a>, bien porque se publicaron desde un primer momento bajo esas licencias, bien porque acabaron cayendo en el <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a> con el paso de los años. Es posible que algunos de los recursos aquí enumerados no sean completamente libres o compatibles con <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>, por lo que debes comprobar la licencia antes de usarlos.
+</p><p>La finalidad primordial de esta página es tener organizados los recursos que pueden utilizarse a priori para mejorar los contenidos de Wikipedia, aunque también puede haber enlaces a repositorios de imágenes libres (como los de la <a href="/wiki/NASA" title="NASA">NASA</a> o el <a href="/wiki/NOAA" class="mw-redirect" title="NOAA">NOAA</a>) o bibliotecas de libros libres (<a href="/wiki/Proyecto_Gutenberg" title="Proyecto Gutenberg">Proyecto Gutenberg</a>), que son materiales que deben ser subidos a otros proyectos (<a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> y <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> respectivamente) pero sí deben ser enlazados desde los artículos pertinentes de Wikipedia.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2>Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Aviso"><span class="tocnumber">1</span> <span class="toctext">Aviso</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Bibliotecas"><span class="tocnumber">2</span> <span class="toctext">Bibliotecas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Proyecto_Gutenberg"><span class="tocnumber">2.1</span> <span class="toctext">Proyecto Gutenberg</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Proyecto_Europeana_Regia"><span class="tocnumber">2.2</span> <span class="toctext">Proyecto Europeana Regia</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Enciclopedia_Católica"><span class="tocnumber">2.3</span> <span class="toctext">Enciclopedia Católica</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Diccionarios"><span class="tocnumber">3</span> <span class="toctext">Diccionarios</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Diccionario_geográfico-estadístico-histórico_de_España"><span class="tocnumber">3.1</span> <span class="toctext">Diccionario geográfico-estadístico-histórico de España</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Otros_diccionarios"><span class="tocnumber">3.2</span> <span class="toctext">Otros diccionarios</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Enciclopedias"><span class="tocnumber">4</span> <span class="toctext">Enciclopedias</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Wikipedias_en_otros_idiomas"><span class="tocnumber">4.1</span> <span class="toctext">Wikipedias en otros idiomas</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Enciclopedia_Libre"><span class="tocnumber">4.2</span> <span class="toctext">Enciclopedia Libre</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Locapedias"><span class="tocnumber">4.3</span> <span class="toctext">Locapedias</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Epistemowikia"><span class="tocnumber">4.4</span> <span class="toctext">Epistemowikia</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Enciclopedia_Britannica_de_1911"><span class="tocnumber">4.5</span> <span class="toctext"><i>Enciclopedia Britannica de 1911</i></span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Enciclopedia_Espasa"><span class="tocnumber">4.6</span> <span class="toctext">Enciclopedia Espasa</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Wikanda"><span class="tocnumber">4.7</span> <span class="toctext">Wikanda</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Otras_enciclopedias_libres"><span class="tocnumber">4.8</span> <span class="toctext">Otras enciclopedias libres</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Imágenes"><span class="tocnumber">5</span> <span class="toctext">Imágenes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Irekia"><span class="tocnumber">5.1</span> <span class="toctext">Irekia</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#public-domain-photos.com"><span class="tocnumber">5.2</span> <span class="toctext">public-domain-photos.com</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#libreshot.com"><span class="tocnumber">5.3</span> <span class="toctext">libreshot.com</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#freejpg.com.ar"><span class="tocnumber">5.4</span> <span class="toctext">freejpg.com.ar</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Medicina"><span class="tocnumber">6</span> <span class="toctext">Medicina</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#Noticias"><span class="tocnumber">7</span> <span class="toctext">Noticias</span></a>
+<ul>
+<li class="toclevel-2 tocsection-25"><a href="#Diario_20_minutos"><span class="tocnumber">7.1</span> <span class="toctext">Diario <i>20 minutos</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Open_data"><span class="tocnumber">8</span> <span class="toctext">Open data</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Open_DatReala_Euskadi"><span class="tocnumber">8.1</span> <span class="toctext">Open DatReala Euskadi</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Recursos_gubernamentales"><span class="tocnumber">9</span> <span class="toctext">Recursos gubernamentales</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#España"><span class="tocnumber">9.1</span> <span class="toctext">España</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Europa"><span class="tocnumber">9.2</span> <span class="toctext">Europa</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Estados_Unidos"><span class="tocnumber">9.3</span> <span class="toctext">Estados Unidos</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#Chile"><span class="tocnumber">9.4</span> <span class="toctext">Chile</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Textos_legales"><span class="tocnumber">10</span> <span class="toctext">Textos legales</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#Textos_religiosos"><span class="tocnumber">11</span> <span class="toctext">Textos religiosos</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#Varios"><span class="tocnumber">12</span> <span class="toctext">Varios</span></a>
+<ul>
+<li class="toclevel-2 tocsection-36"><a href="#Recursos_de_verdadero_dominio_público"><span class="tocnumber">12.1</span> <span class="toctext">Recursos de verdadero dominio público</span></a>
+<ul>
+<li class="toclevel-3 tocsection-37"><a href="#Libros_y_Textos"><span class="tocnumber">12.1.1</span> <span class="toctext">Libros y Textos</span></a></li>
+<li class="toclevel-3 tocsection-38"><a href="#Otros"><span class="tocnumber">12.1.2</span> <span class="toctext">Otros</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-39"><a href="#Otros_recursos_libres_o_gratuitos"><span class="tocnumber">12.2</span> <span class="toctext">Otros recursos <i>libres</i> o <i>gratuitos</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-40"><a href="#Véase_también"><span class="tocnumber">13</span> <span class="toctext">Véase también</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Aviso">Aviso</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=1" title="Editar sección: Aviso">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Los recursos mostrados más abajo son valiosos, pero muchos de ellos son antiguos, están escritos de manera no neutral, contienen sesgos, errores u omisiones, etc, por lo que no los hacen aptos para ser integrados en la enciclopedia directamente.
+</p><p>Por favor, si copias material de estos recursos, tómate tu tiempo para verificar la precisión de la información: edita y actualiza, o haz todo lo necesario para producir un artículo bueno, en vez de copiar y pegar directamente.
+</p>
+<h2><span class="mw-headline" id="Bibliotecas">Bibliotecas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=2" title="Editar sección: Bibliotecas">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Proyecto_Gutenberg">Proyecto Gutenberg</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=3" title="Editar sección: Proyecto Gutenberg">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a rel="nofollow" class="external free" href="http://www.gutenberg.org/">http://www.gutenberg.org/</a>
+</p>
+<h3><span class="mw-headline" id="Proyecto_Europeana_Regia">Proyecto Europeana Regia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=4" title="Editar sección: Proyecto Europeana Regia">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a rel="nofollow" class="external free" href="http://www.europeanaregia.eu/es">http://www.europeanaregia.eu/es</a>
+(incluye más de 1000 manuscritos medievales y renacentistas)
+</p>
+<h3><span id="Enciclopedia_Cat.C3.B3lica"></span><span class="mw-headline" id="Enciclopedia_Católica">Enciclopedia Católica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=5" title="Editar sección: Enciclopedia Católica">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h2><span class="mw-headline" id="Diccionarios">Diccionarios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=6" title="Editar sección: Diccionarios">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><i>Recuerda que <a href="/wiki/Wikipedia:NO" class="mw-redirect" title="Wikipedia:NO">Wikipedia no es un diccionario</a>, por lo que las definiciones deben ir en <a href="https://es.wiktionary.org/wiki/Portada" class="extiw" title="wikt:Portada">Wikcionario</a></i>.</dd></dl>
+<h3><span id="Diccionario_geogr.C3.A1fico-estad.C3.ADstico-hist.C3.B3rico_de_Espa.C3.B1a"></span><span class="mw-headline" id="Diccionario_geográfico-estadístico-histórico_de_España">Diccionario geográfico-estadístico-histórico de España</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=7" title="Editar sección: Diccionario geográfico-estadístico-histórico de España">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Obra monumental de <a href="/wiki/Pascual_Madoz" title="Pascual Madoz">Pascual Madoz</a> publicada en 1847, y por lo tanto en el <a href="/wiki/Dominio_p%C3%BAblico" title="Dominio público">dominio público</a>.
+</p><p>Se encuentra digitalizado (página a página, en formato TIFF) en la Biblioteca Virtual de Andalucía (<a rel="nofollow" class="external text" href="http://www.juntadeandalucia.es/cultura/bibliotecavirtualandalucia/consulta/resultados_autores.cmd?campo=idautor&amp;idValor=468&amp;forma=ficha&amp;posicion=1">aquí</a>). Uno de sus tomos (el VII) está en <a rel="nofollow" class="external text" href="http://books.google.com/books/pdf/Diccionario_geogr__fico_estad__stico_his.pdf?id=pOACAAAAYAAJ&amp;output=pdf&amp;sig=po-imiD8rlmNR67S5yK6DEd873Y">Google Books</a>, en formato PDF completo, pero también en formato imagen (para pasar a texto sería necesario <a href="/wiki/OCR" class="mw-redirect" title="OCR">OCR</a>).
+</p><p>A pesar de encontrarse en el dominio público, su utilización en un artículo precisa citar la autoría. De acuerdo con <a href="/wiki/Wikipedia:EE" class="mw-redirect" title="Wikipedia:EE">WP:EE</a>, hay que incluir un enlace en la sección de Enlaces externos.
+</p>
+<h3><span class="mw-headline" id="Otros_diccionarios">Otros diccionarios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=8" title="Editar sección: Otros diccionarios">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Diccionario_Enciclop%C3%A9dico_Gaspar_y_Roig" title="Diccionario Enciclopédico Gaspar y Roig">Diccionario Enciclopédico Gaspar y Roig</a> de 1870.</li>
+<li><a rel="nofollow" class="external text" href="http://www.catb.org/~esr/jargon/">El nuevo diccionario del hacker</a> - O como lo conocen algunos, <i>the Jargon File</i> (el archivo de la jerga). Obra de <a href="/wiki/Eric_S._Raymond" title="Eric S. Raymond">Eric S. Raymond</a> sobre la cultura del <a href="/wiki/Hacker" title="Hacker">hacker</a> y el lenguaje que emplea</li>
+<li><a href="/wiki/Real_Academia_Espa%C3%B1ola" title="Real Academia Española">Real Academia Española</a>:
+<ul><li><a href="https://es.wikisource.org/wiki/Gram%C3%A1tica_de_la_Lengua_Castellana" class="extiw" title="s:Gramática de la Lengua Castellana">Gramática de la Lengua Castellana</a> (1ª edición 1771)</li>
+<li><a href="https://es.wikisource.org/wiki/Diccionario_de_la_lengua_castellana._Tomo_I" class="extiw" title="s:Diccionario de la lengua castellana. Tomo I">Diccionario de la lengua castellana</a> (1726)</li>
+<li>y otros que aparecen en el artículo sobre la RAE</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://books.google.com/books?q=diccionario&amp;btnG=Search%20Books&amp;as_brr=4">Búsqueda en Google Books del término "diccionario" en la categoría de Dominio Público</a></li></ul>
+<h2><span class="mw-headline" id="Enciclopedias">Enciclopedias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=9" title="Editar sección: Enciclopedias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A semejanza de wikipedia, han surgido numerosos proyectos colaborativos que siguen la filosofía de aquella, especialmente en lo relativo a su elaboración por parte de voluntarios y su licencia, GFDL. Sin embargo, la inclusión de material procedente de dichos proyectos, aunque posible desde el punto de vista de las licencias, no es siempre aconsejable. A cualquier material procedente de dichos proyectos hay que aplicarles las mismas normas que si se tratase de material publicado originalmente en wikipedia, especialmente relevancia (un material relevante en una locapedia, por ejemplo, podría no serlo en wikipecia), que no sea fuente primaria (la republicación de material original o no referenciado en dichos proyectos no hace a su republicación en wikipedia una fuente secundaria) o punto de vista neutral (varios de los proyectos incluyen explícitamente la posibilidad de publicar ensayos o artículos de opinión). La pregunta, en todo caso, siempre será la misma: «si publicase originalmente este material en wikipedia, ¿se atendría a nuestras políticas?». Sólo si la respuesta es positiva, se puede utilizar dicho material.
+</p>
+<h3><span class="mw-headline" id="Wikipedias_en_otros_idiomas">Wikipedias en otros idiomas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=10" title="Editar sección: Wikipedias en otros idiomas">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Plantilla:Traducido_de" title="Plantilla:Traducido de"> Plantilla:Traducido de</a></i></div>
+<p>Un procedimiento habitual para escribir artículos en Wikipedia en Español es la traducción de artículos en otras wikipedias (Wikipedia en Inglés, habitualmente, pero también wikipedias en idiomas cercanos al español, o en cualquier otro idioma; ahí están los wikiproyectos <a href="/wiki/Wikiproyecto:Traducci%C3%B3n_de_art%C3%ADculos_destacados" title="Wikiproyecto:Traducción de artículos destacados">Traducción de artículos destacados</a>, <a href="/wiki/Wikiproyecto:Traducci%C3%B3n_de_la_semana" title="Wikiproyecto:Traducción de la semana">Traducción de la semana</a> o <a href="/wiki/Wikiproyecto:Traducciones_cercanas" title="Wikiproyecto:Traducciones cercanas">Traducciones cercanas</a>).
+</p><p>La licencia de cualquier wikipedia es obviamente compatible con Wikipedia en Español, pero es necesario <b>siempre</b> que se cumplan las condiciones de la licencia GFDL, que exigen la atribución de la autoría (algo que incluso si no lo exigiese la licencia entra dentro de los denominados "derechos morales" y es obligatorio; si no, parecería que el autor de un artículo es su traductor y no sus redactores originales) y el enlace al contenido original (hay que tener en cuenta que una traducción es una obra derivada de la original en otro idioma). En los proyectos de la Fundación Wikimedia, se considera que esto se hace mediante el historial de los artículos, algo que obviamente se pierde si no se cita al hacer la traducción. Eso se traduce en que en el resumen de edición de la primera versión del artículo traducido debe constar <b>siempre</b> el nombre del artículo traducido y la versión que se usa (un enlace interwiki no es válido). Puedes utilizar algo de este tipo:
+</p>
+<dl><dd>Traducción de [[:código_de_idioma:nombre_original_de_artículo]] (versión: URL_de_la_versión_traducida)</dd></dl>
+<p>Por poner algún ejemplo:
+</p>
+<dl><dd>Traducción de [[:ca:Fets del sis d'octubre]] (versión: http://ca.wikipedia.org/w/index.php?title=Fets_del_sis_d%27octubre&amp;oldid=1558187)</dd>
+<dd>Traducción de [[:de:Buenaventura River]] (versión: http://de.wikipedia.org/w/index.php?title=Buenaventura_River&amp;oldid=27554300)</dd></dl>
+<p>Si has olvidado hacerlo, siempre puedes hacer una edición mínima en el artículo en cualquier momento e incluir la autoría, de la forma:
+</p>
+<dl><dd>Este artículo fue creado mediante la traducción de [[:código_de_idioma:nombre_original_de_artículo]] (versión: URL_de_la_versión_traducida)</dd></dl>
+<h3><span class="mw-headline" id="Enciclopedia_Libre">Enciclopedia Libre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=11" title="Editar sección: Enciclopedia Libre">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La <a href="/wiki/Enciclopedia_Libre" class="mw-redirect" title="Enciclopedia Libre">Enciclopedia Libre</a> es una escisión de Wikipedia en Español que tuvo lugar en 2002. De hecho, cuando Wikipedia en Español se reactivó en 2003, un bot copió íntegramente los contenidos de Enciclopedia Libre. Poseen la misma licencia que Wikipedia y sus contenidos son incorporables a Wikipedia en Español sin otra restricción que las marcadas por la licencia GFDL.
+</p><p>No obstante, debido a su evolución separada, aparte de un formato distinto, Enciclopedia Libre funciona también como wikisource y como wikcionario, por lo que no todos sus contenidos son susceptibles de ser utilizados. 
+</p><p>Se utiliza la plantilla <code>{{<a href="/wiki/Plantilla:EL" title="Plantilla:EL">EL</a>}}</code> incluyendo como argumento el nombre del artículo original, usando guiones bajos entre las distintas palabras en lugar de espacios.
+</p>
+<h3><span class="mw-headline" id="Locapedias">Locapedias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=12" title="Editar sección: Locapedias">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Durante 2006 comenzaron a surgir diversas iniciativas en España
+</p>
+<h3><span class="mw-headline" id="Epistemowikia">Epistemowikia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=13" title="Editar sección: Epistemowikia">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="Enciclopedia_Britannica_de_1911"><i>Enciclopedia Britannica de 1911</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=14" title="Editar sección: Enciclopedia Britannica de 1911">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Wikiproyecto:Enciclopedia_Brit%C3%A1nica_1911" title="Wikiproyecto:Enciclopedia Británica 1911"> Wikiproyecto:Enciclopedia Británica 1911</a></i></div>
+<p>La <i><a href="/wiki/Enciclopedia_Britannica_de_1911" class="mw-redirect" title="Enciclopedia Britannica de 1911">Enciclopedia Britannica de 1911</a></i> se encuentra en el dominio público, aunque los contenidos están en inglés. Este wikiproyecto, que contiene los listados de la A a la Z con todos los nombres de los artículos de la enciclopedia, pretende crear los artículos que faltan, traduciéndolos del inglés o creándolos desde cero. Puedes consultar una versión escaneada en PNG en <a class="external free" href="https://en.wikisource.org/wiki/User:Tim_Starling/ScanSet_PNG_demo">http://en.wikisource.org/wiki/User:Tim_Starling/ScanSet_PNG_demo</a>. El progreso de este wikiproyecto se detalla en <code>{{<a href="/wiki/Plantilla:Progreso1911" title="Plantilla:Progreso1911">Progreso1911</a>}}</code>.
+</p><p>Si el texto del artículo que has creado lo has obtenido a través de la traducción del artículo de Britannica, incluye la plantilla <code>{{<a href="/wiki/Plantilla:1911" class="mw-redirect" title="Plantilla:1911">1911</a>}}</code> en el artículo.
+</p>
+<h3><span class="mw-headline" id="Enciclopedia_Espasa">Enciclopedia Espasa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=15" title="Editar sección: Enciclopedia Espasa">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><code>{{<a href="/wiki/Plantilla:Espasa" title="Plantilla:Espasa">Espasa</a>}}</code>
+</p>
+<h3><span class="mw-headline" id="Wikanda">Wikanda</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=16" title="Editar sección: Wikanda">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/w/index.php?title=Wikanda&amp;action=edit&amp;redlink=1" class="new" title="Wikanda (aún no redactado)">Wikanda</a> es un proyecto de la <a href="/wiki/Junta_de_Andaluc%C3%ADa" title="Junta de Andalucía">Junta de Andalucía</a> que absorbió en noviembre de 2007 a otras locapedias ya establecidas como <a href="/w/index.php?title=C%C3%B3rdobapedia&amp;action=edit&amp;redlink=1" class="new" title="Córdobapedia (aún no redactado)">Córdobapedia</a> y <a href="/w/index.php?title=Sevillapedia&amp;action=edit&amp;redlink=1" class="new" title="Sevillapedia (aún no redactado)">Sevillapedia</a>. Al igual que las anteriores, tiene licencia <a href="/wiki/CC-BY-SA" class="mw-redirect" title="CC-BY-SA">CC-BY-SA</a> 2.5 España (desde el 1 de agosto de 2009) y sigue a grandes rasgos las políticas de Wikipedia. No obstante, es preciso tener en cuenta que no se respeta siembre la directriz relativa a las <a href="/wiki/Wikipedia:NFP" class="mw-redirect" title="Wikipedia:NFP">fuentes primarias</a>. De acuerdo con sus <a rel="nofollow" class="external text" href="http://www.wikanda.es/wiki/Wikanda:Fundamentos">fundamentos</a>: 
+</p>
+<style data-mw-deduplicate="TemplateStyles:r119797252">.mw-parser-output .flexquote{display:flex;flex-direction:column;background-color:#F9F9F9;border-left:3px solid #c8ccd1;font-size:90%;margin:1em 4em;padding:.4em .8em}.mw-parser-output .flexquote>.flex{display:flex;flex-direction:row}.mw-parser-output .flexquote>.flex>.quote{width:100%}.mw-parser-output .flexquote>.flex>.separator{border-left:1px solid #c8ccd1;border-top:1px solid #c8ccd1;margin:.4em .8em}.mw-parser-output .flexquote>.cite{text-align:right}@media all and (max-width:600px){.mw-parser-output .flexquote>.flex{flex-direction:column}}</style>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Sin embargo y a diferencia de otros proyectos como la enciclopedia Wikipedia, fomentamos la inclusión de la <a href="/wiki/Intrahistoria" title="Intrahistoria">intrahistoria</a> de la sociedad andaluza. [...] En estos casos y como es lógico, la regla de la inclusión de información que sea una fuente primaria de investigación sí es aceptada. En casi el 100% de las contribuciones intrahistóricas, este conocimiento no habrá sido recogido en ninguna publicación, por lo que mediante advertencia, podrá ser incluido dentro de wikianda.</div>
+ </div>
+</blockquote>
+<p>La publicación en wikianda no hace que su uso en wikipedia no constituya una fuente primaria igualmente, por lo que contenidos de tal tipo no deberán usarse en wikipedia.
+</p>
+<h3><span class="mw-headline" id="Otras_enciclopedias_libres">Otras enciclopedias libres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=17" title="Editar sección: Otras enciclopedias libres">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://wiki.15m.cc/wiki/Portada">15Mpedia</a> (CC-BY-SA 3.0)</li>
+<li><a href="/wiki/Ateneo_de_C%C3%B3rdoba" title="Ateneo de Córdoba">Ateneo de Córdoba</a> <a rel="nofollow" class="external autonumber" href="http://ateneodecordoba.com">[1]</a> (CC-BY-SA 3.0)</li>
+<li><a rel="nofollow" class="external text" href="http://enciclopedia.us.es">Enciclopedia Libre Universal en Español</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.madripedia.es/wiki/Portada">Enciclopedia libre de Madrid</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.uiquipedia.org/">Uiquipèdia, la enciclopèdia libre en valenciano</a> (en valenciano) (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>) actualmente en CC-BY-SA-NC</li>
+<li><a rel="nofollow" class="external text" href="http://www.vila-real.info/index.php?title=Portada">Vilapedia, la enciclopèdia de Vila-real</a> (en valenciano) (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.wikiextremadura.org">Enciclopeda libre de Extremadura</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.wikisalamanca.org">Enciclopeda libre de Salamanca</a> (CC-BY-SA 3.0)</li>
+<li><a rel="nofollow" class="external text" href="http://wikirioja.com/index.php?title=Portada">Enciclopedia libre de La Rioja</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.guanches.org/enciclopedia/index.php?title=Portada">Enciclopedia Guanche</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.solarpedia.es">Solarpedia enciclopedia libre de Energía Solar</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://orchids.wikia.com/wiki/Main_Page">Orchids Wiki</a> (en inglés) (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.ctpedia.es/">ctpedia</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://es.drama.wikia.com/wiki/Portada">Wiki Drama</a> (<a href="/wiki/GFDL" class="mw-redirect" title="GFDL">GFDL</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://es.orthodoxwiki.org/Portada">Orthodoxwiki</a> GFDL y CC-BY-SA 2.5</li>
+<li><a rel="nofollow" class="external text" href="http://malagapedia.wikanda.es/wiki/Portada">Málagapedia</a> (CC-BY-SA 3.0)</li></ul>
+<h2><span id="Im.C3.A1genes"></span><span class="mw-headline" id="Imágenes">Imágenes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=18" title="Editar sección: Imágenes">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Wikipedia:Im%C3%A1genes_de_dominio_p%C3%BAblico" title="Wikipedia:Imágenes de dominio público"> Wikipedia:Imágenes de dominio público</a></i></div>
+<h3><span class="mw-headline" id="Irekia">Irekia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=19" title="Editar sección: Irekia">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Wikipedia:Recursos_libres/Irekia" title="Wikipedia:Recursos libres/Irekia"> Wikipedia:Recursos libres/Irekia</a></i></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg/220px-2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg/330px-2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg/440px-2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg 2x" data-file-width="658" data-file-height="433" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:2010-02-09_El_Lehendakari_Patxi_L%C3%B3pez_participa_en_el_acto_conmemorativo_del_A%C3%B1o_Xacobeo_2010.jpg" class="internal" title="Aumentar"></a></div>Imagen extraída del portal <i>Irekia</i>: el <a href="/wiki/Lehendakari" class="mw-redirect" title="Lehendakari">Lehendakari</a> participa en el acto conmemorativo del <a href="/wiki/A%C3%B1o_Xacobeo_2010" class="mw-redirect" title="Año Xacobeo 2010">Año Xacobeo 2010</a></div></div></div>
+<h3><span class="mw-headline" id="public-domain-photos.com">public-domain-photos.com</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=20" title="Editar sección: public-domain-photos.com">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external free" href="http://www.public-domain-photos.com">http://www.public-domain-photos.com</a> - 5000 public domain photos in hight quality. All for commercial and personal use.</li></ul>
+<h3><span class="mw-headline" id="libreshot.com">libreshot.com</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=21" title="Editar sección: libreshot.com">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external free" href="http://libreshot.com">http://libreshot.com</a> - Cientos de fotos de forma gratuita. Sobre todo fotografías de la naturaleza.</li></ul>
+<h3><span class="mw-headline" id="freejpg.com.ar">freejpg.com.ar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=22" title="Editar sección: freejpg.com.ar">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external free" href="http://www.freejpg.com.ar">http://www.freejpg.com.ar</a> - Miles de imágenes gratuitas para uso académico o comercial.</li></ul>
+<h2><span class="mw-headline" id="Medicina">Medicina</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=23" title="Editar sección: Medicina">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Noticias">Noticias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=24" title="Editar sección: Noticias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Diario_20_minutos">Diario <i>20 minutos</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=25" title="Editar sección: Diario 20 minutos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>El diario español en línea <i><a href="/wiki/20_minutos" class="mw-redirect" title="20 minutos">20 minutos</a></i>  ha cambiado su licencia a "Todos los derechos reservados", excepto en aquellos sitios web sobre los que 20 minutos mantenga una licencia Creative Commons, lo cual se indicará mediante el símbolo correspondiente. Véase el <a rel="nofollow" class="external text" href="http://www.20minutos.es/especial/corporativo/aviso-legal/">aviso legal</a>.
+</p><p>Aquellos artículos cuyo contenido proviene de este periódico usan la plantilla <code>{{<a href="/wiki/Plantilla:20minutos" class="mw-redirect" title="Plantilla:20minutos">20minutos</a>}}</code>.
+</p>
+<h2><span class="mw-headline" id="Open_data">Open data</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=26" title="Editar sección: Open data">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Open_DatReala_Euskadi">Open DatReala Euskadi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=27" title="Editar sección: Open DatReala Euskadi">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Wikipedia:Recursos_libres/Open_Data_Euskadi" title="Wikipedia:Recursos libres/Open Data Euskadi"> Wikipedia:Recursos libres/Open Data Euskadi</a></i></div>
+<p>Según la propia web:
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+</p>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Open Data Euskadi (<a rel="nofollow" class="external text" href="http://opendata.euskadi.net/">web</a>) es el resultado del compromiso del Gobierno Vasco a exponer los datos públicos que obran en su poder de forma reutilizable, con el fin de que terceros puedan crear servicios derivados de los mismos. Como consecuencia, los conjuntos de datos expuestos se ofrecen bajo licencias de propiedad abiertas, que permiten su redistribución, reutilización y aprovechamiento con fines comerciales.</div>
+ </div>
+</blockquote>
+<p>En su catálogo de datos (<a rel="nofollow" class="external text" href="http://opendata.euskadi.net/w79-buscador/es/contenidos/informacion/form_busquedas/es_form/formulario_busqueda.html">consultar</a>) existe material estadístico, geográfico, meteorológico, turístico y administrativo.
+</p><p>A raiz de un hilo en el Café (<a class="external text" href="https://es.wikipedia.org/wiki/Wikipedia:Caf%C3%A9/Portal/Archivo/Noticias/2010/04#Open_Data_Euskadi">ver</a>), se propuso importar los datos útiles para generar nuevos artículos o mejorar los existentes.
+</p>
+<h2><span class="mw-headline" id="Recursos_gubernamentales">Recursos gubernamentales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=28" title="Editar sección: Recursos gubernamentales">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Espa.C3.B1a"></span><span class="mw-headline" id="España">España</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=29" title="Editar sección: España">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/La_Moncloa" class="mw-redirect" title="La Moncloa">La Moncloa</a> www.la-moncloa.es , <a rel="nofollow" class="external free" href="http://www.la-moncloa.es/es_AvisoLegal.htm">http://www.la-moncloa.es/es_AvisoLegal.htm</a> (3 de diciembre de 2012)</li></ul>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Se autoriza la reproducción total o parcial, modificación, distribución y comunicación de la información disponible en este sitio web, con excepción de los contenidos sobre los que existan derechos de propiedad intelectual o industrial por parte de terceros.
+<p>El uso habrá de hacerse son sujeción a los siguiente términos:
+</p>
+<ul><li>No se autoriza la desnaturalización del contenido de la información.</li>
+<li>El usuario debe hacer constar la fuente y la fecha de los documentos utilizados.</li></ul></div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Ministerio_de_Justicia_de_Espa%C3%B1a" class="mw-redirect" title="Ministerio de Justicia de España">Ministerio de Justicia de España</a>: <a rel="nofollow" class="external free" href="http://www.mjusticia.gob.es/cs/Satellite/es/1200666550224/MuestraInformacion.html">http://www.mjusticia.gob.es/cs/Satellite/es/1200666550224/MuestraInformacion.html</a> (2 de diciembre de 2012):</li></ul>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Tanto el diseño del Portal y sus códigos fuente, como los logos, marcas, y demás signos distintivos que aparecen en el mismo, pertenecen al Ministerio de Justicia o entidades colaboradoras y están protegidos por los correspondientes derechos de propiedad intelectual e industrial. Igualmente están protegidos por los correspondientes derechos de propiedad intelectual e industrial las imágenes, etc. contenidos en el servidor del Ministerio de Justicia.
+<p><b>La información disponible en este sitio web, salvo indicación expresa en contrario, es susceptible de reutilización; quedando autorizada su reproducción total o parcial, modificación, distribución y comunicación, para usos comerciales y no comerciales, con sujeción a las siguientes condiciones:</b>
+</p>
+<ul><li>Queda prohibida en cualquier circunstancia la desnaturalización del contenido de la información.</li>
+<li>El usuario queda obligado a citar la fuente de los documentos objeto de la reutilización.</li>
+<li>El usuario queda obligado a mencionar la fecha de la última actualización de los documentos objeto de la reutilización<b>.</b></li></ul></div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Ministerio_de_Hacienda_y_Administraciones_P%C3%BAblicas" title="Ministerio de Hacienda y Administraciones Públicas">Ministerio de Hacienda y Administraciones Públicas</a> www.minhap.gob.es , En <a rel="nofollow" class="external free" href="http://www.minhap.gob.es/es-ES/Paginas/Aviso%20legal.aspx">http://www.minhap.gob.es/es-ES/Paginas/Aviso%20legal.aspx</a> pone: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/></li></ul>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Se autoriza la reproducción total o parcial de los contenidos del Portal, siempre que se cite expresamente su origen.</div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Ministerio_de_la_Presidencia" class="mw-disambig" title="Ministerio de la Presidencia">Ministerio de la Presidencia</a>  <a rel="nofollow" class="external free" href="http://www.mpr.gob.es/es_AvisoLegal.htm">http://www.mpr.gob.es/es_AvisoLegal.htm</a> (3 de diciembre de 2012)</li></ul>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Se autoriza la reproducción total o parcial, modificación, distribución y comunicación de la información disponible en este sitio web, con excepción de los contenidos sobre los que existan derechos de propiedad intelectual o industrial por parte de terceros.
+<p>El uso habrá de hacerse son sujeción a los siguiente términos:
+</p>
+<ul><li>No se autoriza la desnaturalización del contenido de la información.</li>
+<li>El usuario debe hacer constar la fuente y la fecha de los documentos utilizados.</li></ul></div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Ministerio_de_Sanidad,_Servicios_Sociales_e_Igualdad" title="Ministerio de Sanidad, Servicios Sociales e Igualdad">Ministerio de Sanidad, Servicios Sociales e Igualdad</a> <a rel="nofollow" class="external free" href="http://www.msps.es/avisoLegal/home.htm">http://www.msps.es/avisoLegal/home.htm</a> (3 de diciembre de 2012)</li></ul>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">La información disponible en este sitio web, salvo indicación expresa en contrario, es susceptible de reutilización; quedando autorizada su reproducción total o parcial, modificación, distribución y comunicación, para usos comerciales y no comerciales, con sujeción a las siguientes condiciones:
+<ul><li>Queda prohibida en cualquier circunstancia la desnaturalización del contenido de la información.</li>
+<li>El usuario queda obligado a citar la fuente de los documentos objeto de la reutilización.</li>
+<li>El usuario queda obligado a mencionar la fecha de la última actualización de los documentos objeto de la reutilización.</li></ul></div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Ministerio_de_Empleo_y_Seguridad_Social" title="Ministerio de Empleo y Seguridad Social">Ministerio de Empleo y Seguridad Social</a> <a rel="nofollow" class="external free" href="http://www.empleo.gob.es/es/extras/avisolegal.htm">http://www.empleo.gob.es/es/extras/avisolegal.htm</a></li></ul>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Se autoriza la reproducción total o parcial de los contenidos del Portal, siempre que se cite expresamente su origen público.</div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Ministerio_de_Agricultura,_Alimentaci%C3%B3n_y_Medio_Ambiente" title="Ministerio de Agricultura, Alimentación y Medio Ambiente">Ministerio de Agricultura, Alimentación y Medio Ambiente</a> www.magrama.gob.es , <a rel="nofollow" class="external free" href="http://www.magrama.gob.es/es/atencion-al-ciudadano/aviso-legal.aspx">http://www.magrama.gob.es/es/atencion-al-ciudadano/aviso-legal.aspx</a> (consultado 9 de octubre de 2015)</li></ul>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r119797252"/>
+<blockquote class="flexquote">
+ <div class="flex">
+  <div class="quote">Los contenidos, organización y elección de enlaces de las páginas de www.magrama.gob.es han sido seleccionados y coordinados por el Ministerio de Agricultura, Alimentación y Medio Ambiente. Esta información puede ser utilizada en parte o en su integridad, sin necesidad de autorización expresa, siempre que se cite la fuente de los documentos objeto de la reutilización, con excepción de los contenidos sobre los que existan derechos de propiedad intelectual o industrial por parte de terceros.</div>
+ </div>
+</blockquote>
+<ul><li><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">Biblioteca Nacional de España</a>: <a rel="nofollow" class="external free" href="http://www.bne.es">http://www.bne.es</a>: . Parte de su contenido pertenece a autores que han fallecido hace más de 70 años. Es de especial interés la <a rel="nofollow" class="external text" href="http://servicios.bne.es/BDH/index.htm">Biblioteca Digital</a>.</li>
+<li><a href="/wiki/Junta_de_Andaluc%C3%ADa" title="Junta de Andalucía">Junta de Andalucía</a>: <a rel="nofollow" class="external free" href="http://www.juntadeandalucia.es/index.html">http://www.juntadeandalucia.es/index.html</a> (<a rel="nofollow" class="external text" href="http://www.juntadeandalucia.es/informacion/legal.html">Legal</a>) Con licencia CC-BY 3.0</li>
+<li><a href="/wiki/Govern_de_les_Illes_Balears" class="mw-redirect" title="Govern de les Illes Balears">Govern de les Illes Balears</a> <a rel="nofollow" class="external free" href="http://www.caib.es/root/index.do?lang=es">http://www.caib.es/root/index.do?lang=es</a>. Usa una licencia CC-by-sa.</li>
+<li><a href="/wiki/Gobierno_de_Cantabria" title="Gobierno de Cantabria">Gobierno de Cantabria</a> <a rel="nofollow" class="external free" href="http://www.cantabria.es/">http://www.cantabria.es/</a> (CC BY 3.0 ES)</li></ul>
+<h3><span class="mw-headline" id="Europa">Europa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=30" title="Editar sección: Europa">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/w/index.php?title=Biblioteca_Digital_Europea&amp;action=edit&amp;redlink=1" class="new" title="Biblioteca Digital Europea (aún no redactado)">Biblioteca Digital Europea</a>: <a rel="nofollow" class="external free" href="http://www.theeuropeanlibrary.org">http://www.theeuropeanlibrary.org</a>: La Biblioteca Digital Europea cuenta con libros cuyo derecho de propiedad intelectual ha pasado al dominio público. <a rel="nofollow" class="external text" href="http://www.theeuropeanlibrary.org">Biblioteca Digital Europea</a></li>
+<li><a href="/wiki/Consejo_de_la_Uni%C3%B3n_Europea" title="Consejo de la Unión Europea">Consejo de la Unión Europea</a>: El material escrito en la página del <a rel="nofollow" class="external text" href="http://www.consilium.europa.eu/cms3_fo/showPage.asp?lang=ES">Consejo de la Unión Europea</a> tiene derechos de autor en su favor, pero puede ser <a rel="nofollow" class="external text" href="http://www.consilium.europa.eu/cms3_fo/Extra.asp?name=copyright&amp;lang=ES">reproducido, siempre que se cite la fuente, salvo que se indique lo contrario</a></li></ul>
+<h3><span class="mw-headline" id="Estados_Unidos">Estados Unidos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=31" title="Editar sección: Estados Unidos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/w/index.php?title=Organismos_dependientes_del_Gobierno_de_los_Estados_Unidos&amp;action=edit&amp;redlink=1" class="new" title="Organismos dependientes del Gobierno de los Estados Unidos (aún no redactado)">Organismos dependientes del Gobierno de los Estados Unidos</a>: El material escrito y las fotografías preparados por organismos dependientes del Gobierno de los Estados Unidos no poseen derechos reservados pero son propiedad del Gobierno de los Estados Unidos. Pueden ser utilizados en Wikipedia siempre que se deje en claro su procedencia. Por ejemplo:</li></ul>
+<ol><li><a href="/w/index.php?title=Agencia_para_Sustancias_T%C3%B3xicas_y_el_Registro_de_Enfermedades&amp;action=edit&amp;redlink=1" class="new" title="Agencia para Sustancias Tóxicas y el Registro de Enfermedades (aún no redactado)">Agencia para Sustancias Tóxicas y el Registro de Enfermedades</a> <a rel="nofollow" class="external free" href="http://www.atsdr.cdc.gov/es/">http://www.atsdr.cdc.gov/es/</a></li>
+<li><a href="/wiki/Centros_para_el_Control_y_la_Prevenci%C3%B3n_de_Enfermedades" class="mw-redirect" title="Centros para el Control y la Prevención de Enfermedades">Centros para el Control y la Prevención de Enfermedades</a> <a rel="nofollow" class="external free" href="http://www.cdc.gov/spanish/">http://www.cdc.gov/spanish/</a></li>
+<li><a href="/w/index.php?title=Institutos_Nacionales_de_la_Salud_de_Estados_Unidos&amp;action=edit&amp;redlink=1" class="new" title="Institutos Nacionales de la Salud de Estados Unidos (aún no redactado)">Institutos Nacionales de la Salud de Estados Unidos</a>&#160;:<a rel="nofollow" class="external free" href="http://www.nlm.nih.gov/medlineplus/spanish/nihinstitutes.html#NCI">http://www.nlm.nih.gov/medlineplus/spanish/nihinstitutes.html#NCI</a>. Trata muchos temas en español relacionados con la salud.</li>
+<li>National Institutes of Health (NIH):  <a rel="nofollow" class="external free" href="http://salud.nih.gov/">http://salud.nih.gov/</a></li>
+<li>National Digestive Diseases Information Clearinghouse (NDDIC): <a rel="nofollow" class="external free" href="http://digestive.niddk.nih.gov/spanish/index.asp">http://digestive.niddk.nih.gov/spanish/index.asp</a></li>
+<li>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK): <a rel="nofollow" class="external free" href="http://www.niddk.nih.gov/health/spanish.htm">http://www.niddk.nih.gov/health/spanish.htm</a></li>
+<li>National Institute of Mental Health (NIMH): <a rel="nofollow" class="external free" href="http://www.nimh.nih.gov/">http://www.nimh.nih.gov/</a>&#160;;<a rel="nofollow" class="external text" href="http://search2.google.cit.nih.gov/search?q=espa%C3%B1ol&amp;btnG.x=0&amp;btnG.y=0&amp;site=NIMH&amp;client=NIMH_frontend&amp;proxystylesheet=NIMH_frontend&amp;output=xml_no_dtd&amp;filter=0&amp;getfields=*">artículos en español</a></li>
+<li>National Park Service: <a rel="nofollow" class="external free" href="http://www.nps.gov/index.htm">http://www.nps.gov/index.htm</a></li>
+<li>U.S. Forest Service, United States Department of Agriculture (USDA): <a rel="nofollow" class="external free" href="http://www.fs.usda.gov/main/htnf/home">http://www.fs.usda.gov/main/htnf/home</a></li></ol>
+<ul><li><a href="/w/index.php?title=Retratos_en_dominio_p%C3%BAblico_en_el_sitio_de_la_Universidad_de_Texas&amp;action=edit&amp;redlink=1" class="new" title="Retratos en dominio público en el sitio de la Universidad de Texas (aún no redactado)">Retratos en dominio público en el sitio de la Universidad de Texas</a>: <a rel="nofollow" class="external free" href="http://www.lib.utexas.edu/exhibits/portraits/index.html">http://www.lib.utexas.edu/exhibits/portraits/index.html</a> , en base a su <a rel="nofollow" class="external text" href="http://www.lib.utexas.edu/usage_statement.html">autorización de uso</a>.</li></ul>
+<h3><span class="mw-headline" id="Chile">Chile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=32" title="Editar sección: Chile">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Memoria_Chilena" title="Memoria Chilena">Memoria Chilena</a> (<a rel="nofollow" class="external free" href="http://www.memoriachilena.gob.cl/">http://www.memoriachilena.gob.cl/</a>). Señala que <i>"Las investigaciones de Memoria Chilena, Biblioteca Nacional de Chile (Servicio Nacional del Patrimonio) están bajo una Licencia Creative Commons Atribución-Compartir Igual 3.0 Unported, a excepción de sus objetos digitales."</i></li></ul>
+<h2><span class="mw-headline" id="Textos_legales">Textos legales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=33" title="Editar sección: Textos legales">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>En España, por ley, las <b>disposiciones legales o reglamentarias y sus correspondientes proyectos, las resoluciones de los órganos jurisdiccionales y los actos, acuerdos, deliberaciones y dictámenes de los organismos públicos, así como las traducciones oficiales de todos los textos anteriores</b> (ver <a href="/wiki/Wikipedia:Recursos_de_dominio_p%C3%BAblico/Art%C3%ADculo_13_de_la_Ley_de_Propiedad_Intelectual_espa%C3%B1ola" class="mw-redirect" title="Wikipedia:Recursos de dominio público/Artículo 13 de la Ley de Propiedad Intelectual española">Wikipedia:Recursos de dominio público/Artículo 13 de la Ley de Propiedad Intelectual española</a>).Si bien la mayor parte de los textos a los que le es aplicable dicho artículo no son enciclopédicos (el lugar para transcribir leyes es <a href="/wiki/Wikisource" title="Wikisource">wikisource</a>), existen algunos, por ejemplo, las disposiciones de declaración de Bienes de Interés Artístico, cuyas descripciones y anexos son una fuente válida para escribir un artículo.</li></ul>
+<h2><span class="mw-headline" id="Textos_religiosos">Textos religiosos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=34" title="Editar sección: Textos religiosos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://biblia.com/maravillas/index.html">Maravillas de la Naturaleza</a>: Textos publicados bajo dominio público por su autor: Dr. J. Domínguez, M.D.</li></ul>
+<h2><span class="mw-headline" id="Varios">Varios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=35" title="Editar sección: Varios">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Recursos_de_verdadero_dominio_p.C3.BAblico"></span><span class="mw-headline" id="Recursos_de_verdadero_dominio_público">Recursos de verdadero dominio público</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=36" title="Editar sección: Recursos de verdadero dominio público">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Estos recursos están completamente libres de restricciones de copyright, y por lo tanto pueden ser usados y modificados a discreción para cualquier página de Wikipedia. Algunos pueden encontrarse en el dominio público ya sea porque el autor ha renunciado a sus derechos de autor o porque son bastante antiguos y sus derechos de autor han expirado. (Debe tenerse cuidado para mantener tales textos actualizados).
+</p>
+<h4><span class="mw-headline" id="Libros_y_Textos">Libros y Textos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=37" title="Editar sección: Libros y Textos">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><ul><li><a rel="nofollow" class="external text" href="http://www.filosofia.org">Proyecto filosofía en español</a> - Parte de su contenido pertenece a autores muertos hace más de 70 años.</li>
+<li><a rel="nofollow" class="external text" href="http://www.unah.edu.hn/uploaded/content/category/1162453441.pdf">Tierras, mares y cielos</a> - Poemario de <a href="/wiki/Juan_Ram%C3%B3n_Molina" title="Juan Ramón Molina">Juan R. Molina</a>, fallecido hace más de 100 años.</li>
+<li><a rel="nofollow" class="external text" href="http://structio.sourceforge.net/guias/basico_OpenBSD">Uso básico de un sistemas OpenBSD</a></li>
+<li><a rel="nofollow" class="external text" href="http://structio.sourceforge.net/guias/usuario_OpenBSD/">Notas sobre OpenBSD como sistema de escritorio</a></li>
+<li><a rel="nofollow" class="external text" href="http://structio.sourceforge.net/guias/servidor_OpenBSD/">Notas de OpenBSD como servidor y contrafuegos</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.scientiadigital.com">Librería Virtual Bornet</a>, textos científicos con derechos de autor prescritos.</li>
+<li><a rel="nofollow" class="external autonumber" href="http://pares.mcu.es/Catastro/servlets/ServletController">[2]</a>. Catastro de Ensenada. (1750). Incluye datos de la época de todos los pueblos de la Corona de Castilla continental.</li></ul></li></ul>
+<h4><span class="mw-headline" id="Otros">Otros</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=38" title="Editar sección: Otros">editar</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><ul><li><a rel="nofollow" class="external text" href="http://debaser.ath.cx/cgi-bin/wiki/wiki.pl">debaser.ath.cx</a> - Una propuesta para comprender el mundo digital</li>
+<li><a rel="nofollow" class="external text" href="http://structio.sourceforge.net">Proyecto Structio</a> Desarrollo de contenidos de dominio público para educación
+<ul><li><a rel="nofollow" class="external text" href="http://structio.sourceforge.net/dp">Índice de contenidos de dominio público</a></li></ul></li></ul></li></ul>
+<h3><span class="mw-headline" id="Otros_recursos_libres_o_gratuitos">Otros recursos <i>libres</i> o <i>gratuitos</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=39" title="Editar sección: Otros recursos libres o gratuitos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Estos recursos poseen copyright y se encuentran amparados bajo términos de licencias que permiten su libre redistribución de alguna forma. Puede requerirse dar el crédito correspondiente a los autores originales, o pueden existir restricciones respecto a las modificaciones de contenido. Revise la licencia publicada en cada sitio con el propósito de conocer y cumplir con tales términos de uso.
+</p>
+<dl><dt>Siéntase libre de agregar cualquier enlace que pertenezca a esta categoría</dt></dl>
+<ul><li><a rel="nofollow" class="external text" href="http://www.public-domain-photos.com/free-cliparts/">Public Domain Cliparts</a> Over 8000 public domain cliparts - all with no copyright restrictions and svg source..</li>
+<li><a rel="nofollow" class="external free" href="http://www.eha.boj.org">http://www.eha.boj.org</a> Repositorio del grupo <a rel="nofollow" class="external autonumber" href="news:es.humanidades.arte%7Ces.humanidades.arte">[3]</a>. Se nos asegura que los materiales que se encuentran allí son de dominio publico.</li>
+<li><a rel="nofollow" class="external free" href="http://www.recursosgratis.com/dir/documentacion_y_faqs/">http://www.recursosgratis.com/dir/documentacion_y_faqs/</a>: Recursos gratis: Documentación, apuntes y <a href="/wiki/FAQ" class="mw-redirect" title="FAQ">FAQs</a>.</li>
+<li><a rel="nofollow" class="external free" href="http://www.logratis.com/">http://www.logratis.com/</a>: LoGratis, interesan las secciones "Cursos y Manuales" y "Biblioteca Virtual".</li>
+<li><a rel="nofollow" class="external free" href="http://www.frino.com.ar">http://www.frino.com.ar</a>: Electrónica digital, microcontroladores pic, basic, ensamblador. Tutoriales y manuales gratuitos.</li>
+<li><a rel="nofollow" class="external free" href="https://sindominio.net/biblioweb/telematica/">http://sindominio.net/biblioweb/telematica/</a>: Biblioweb de SinDominio</li>
+<li><a rel="nofollow" class="external free" href="http://www.gnutemberg.org/">http://www.gnutemberg.org/</a>: Proyecto italiano de documentación libre.</li>
+<li><a rel="nofollow" class="external free" href="http://www.joseacortes.com/galeriaimag/index.htm">http://www.joseacortes.com/galeriaimag/index.htm</a>&#160;: Galería de Zoología e Histología Animal (respetar el título de crédito que llevan las imágenes).</li>
+<li><a href="https://fr.wikipedia.org/wiki/Utilisateur:Aoineko/Photos" class="extiw" title="fr:Utilisateur:Aoineko/Photos">fr:Utilisateur:Aoineko/Photos</a> fotos de Egipto, Grecia, Japón y Francia bajo GFDL que pertenecen al <a href="https://fr.wikipedia.org/wiki/Utilisateur:Aoineko" class="extiw" title="fr:Utilisateur:Aoineko">usuario Aoineko</a>.</li>
+<li><a rel="nofollow" class="external free" href="http://www.leerescuchando.com">http://www.leerescuchando.com</a> Página con audiolibros y audiocuentos (mp3) de obras de dominio público.</li>
+<li><a rel="nofollow" class="external free" href="http://www.freenaturepictures.com">http://www.freenaturepictures.com</a> Imágenes de temas naturales, bajo una licencia de Creative Commons, de libre uso si enlazamos a su página.</li>
+<li><a rel="nofollow" class="external free" href="http://www.flowerqt.com">http://www.flowerqt.com</a> Imágenes de temas naturales, Creative Commons.</li>
+<li><a rel="nofollow" class="external free" href="http://www.dominiopublico.org.es/:Mirror">http://www.dominiopublico.org.es/:Mirror</a> parcial, sólo con contenido de lectura online, en un hosting gratuito en Mexico de medio Giga y caudal limitado.</li></ul>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit&amp;section=40" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Wikipedia:Im%C3%A1genes_de_dominio_p%C3%BAblico" title="Wikipedia:Imágenes de dominio público">Wikipedia:Imágenes de dominio público</a></li>
+<li><a href="/wiki/Wikipedia:Autorizaciones" title="Wikipedia:Autorizaciones">Wikipedia:Autorizaciones</a> Sitios que autorizaron a Wikipedia a copiar contenido</li>
+<li><a class="external text" href="https://tools.wmflabs.org/copypatrol/es">CopyPatrol, herramienta de detección de plagios</a></li>
+<li><a class="external text" href="https://tools.wmflabs.org/copyvios/">Earwig's Copyvio Detector, herramienta de detección de plagios</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1286
+Cached time: 20200209173801
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.140 seconds
+Real time usage: 0.182 seconds
+Preprocessor visited node count: 881/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16870/2097152 bytes
+Template argument size: 9724/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6423/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.017/10.000 seconds
+Lua memory usage: 773 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  117.864      1 -total
+ 50.96%   60.067      1 Wikipedia:Recursos_libres/Navegación
+ 47.05%   55.455      1 Plantilla:Ficha
+ 22.96%   27.066      9 Plantilla:Cita
+  9.59%   11.308      5 Plantilla:Tl
+  9.25%   10.899      5 Plantilla:AP
+  5.13%    6.050      1 Plantilla:Atajos
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:1311736-0!canonical and timestamp 20200209173801 and revision id 123419651
+ -->
+</div><noscript><img src="//es.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Wikipedia:Recursos_libres&amp;oldid=123419651">https://es.wikipedia.org/w/index.php?title=Wikipedia:Recursos_libres&amp;oldid=123419651</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Fuentes" title="Categoría:Wikipedia:Fuentes">Wikipedia:Fuentes</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Derechos_de_autor" title="Categoría:Wikipedia:Derechos de autor">Wikipedia:Derechos de autor</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Menú de navegación</h2>
+    <div id="mw-head">
+        
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+	<h3 id="p-personal-label">Herramientas personales</h3>
+	<ul >
+		
+		<li id="pt-anonuserpage">No has accedido</li>
+		<li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Wikipedia%3ARecursos+libres&amp;returntoquery=oldid%3D123419651" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Wikipedia%3ARecursos+libres&amp;returntoquery=oldid%3D123419651" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li>
+	</ul>
+</div>
+
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+	<h3 id="p-namespaces-label">Espacios de nombres</h3>
+	<ul >
+		<li id="ca-nstab-project" class="selected"><a href="/wiki/Wikipedia:Recursos_libres" title="Ver la página del proyecto [a]" accesskey="a">Página del proyecto</a></li><li id="ca-talk"><a href="/wiki/Wikipedia_discusi%C3%B3n:Recursos_libres" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li>
+	</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+	<h3 id="p-views-label">Vistas</h3>
+	<ul >
+		<li id="ca-view" class="collapsible selected"><a href="/wiki/Wikipedia:Recursos_libres">Leer</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li>
+	</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<ul class="menu" >
+		
+	</ul>
+</div>
+<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" value="Especial:Buscar" name="title"/>
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+        </div>
+    </div>
+    <div id="mw-panel">
+        <div id="p-logo" role="banner">
+            <a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"></a>
+        </div>
+        
+<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+	<h3  id="p-navigation-label">
+		Navegación
+	</h3>
+	<div class="body">
+		<ul><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+	<h3  id="p-coll-print_export-label">
+		Imprimir/exportar
+	</h3>
+	<div class="body">
+		<ul><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Wikipedia%3ARecursos+libres">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Wikipedia%3ARecursos+libres&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+	<h3  id="p-tb-label">
+		Herramientas
+	</h3>
+	<div class="body">
+		<ul><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Wikipedia:Recursos_libres" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Wikipedia:Recursos_libres" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;oldid=123419651" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Wikipedia:Recursos_libres&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14927971" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li></ul>
+		
+	</div>
+</div>
+
+<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+	<h3  id="p-lang-label">
+		En otros idiomas
+	</h3>
+	<div class="body">
+		<ul><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Recursos_lliures" title="Viquipèdia:Recursos lliures (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wikipedia:Public-Domain-Quellen" title="Wikipedia:Public-Domain-Quellen (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Wikipedia:Public_domain_resources" title="Wikipedia:Public domain resources (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Ressources_libres" title="Wikipédia:Ressources libres (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Wikipedia:Recursos_de_dominio_p%C3%BAblico" title="Wikipedia:Recursos de dominio público (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Aiuto:Risorse_di_pubblico_dominio" title="Aiuto:Risorse di pubblico dominio (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Recursos_livres" title="Wikipédia:Recursos livres (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Wikipedija:Viri_v_javni_lasti" title="Wikipedija:Viri v javni lasti (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14927971#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</div>
+
+    </div>
+</div>
+
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 9 feb 2020 a las 17:37.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Wikipedia:Recursos_libres&amp;oldid=123419651&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.182","ppvisitednodes":{"value":881,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16870,"limit":2097152},"templateargumentsize":{"value":9724,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6423,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  117.864      1 -total"," 50.96%   60.067      1 Wikipedia:Recursos_libres/Navegación"," 47.05%   55.455      1 Plantilla:Ficha"," 22.96%   27.066      9 Plantilla:Cita","  9.59%   11.308      5 Plantilla:Tl","  9.25%   10.899      5 Plantilla:AP","  5.13%    6.050      1 Plantilla:Atajos"]},"scribunto":{"limitreport-timeusage":{"value":"0.017","limit":"10.000"},"limitreport-memusage":{"value":792002,"limit":52428800}},"cachereport":{"origin":"mw1286","timestamp":"20200209173801","ttl":2592000,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1352"});});</script></body></html>

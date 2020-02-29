@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wikcionario</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgMonthNamesShort":["","ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"],"wgRequestId":"XlcdFApAADwAAIuFO3AAAABO","wgCSPNonce":!1,"wgCanonicalNamespace":"Project","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":4,"wgPageName":"Wikcionario:Portada","wgTitle":"Portada","wgCurRevisionId":4697444,"wgRevisionId":4697444,"wgArticleId":700,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Wikcionario:Portada","wgRelevantArticleId":700,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit"
+:["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgIsMainPage":!0,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFMode":"stable","wgMFAmc":!1,"wgMFAmcOutreachActive":!1,"wgMFAmcOutreachUserEligible":!1,"wgMFLazyLoadImages":!0,"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgMFIsPageContentModelEditable":!0,"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wiktionary","wgWikibaseItemId":"Q5296","wgCentralAuthMobileDomain":!0,"wgEditSubmitButtonLabelPublish":!0,"wgMinervaPermissions":{"watch":!1,"talk":!1},"wgMinervaFeatures":{"beta":!1,"mobileOptionsLink":!0,"categories":!1,"pageIssues":!0,"talkAtTop":!1,"historyInPageActions":!1,"overflowSubmenu":!1,"tabsOnSpecials":!1,"personalMenu":!1,"mainMenuExpanded":!1,
+"simplifiedTalk":!0},"wgMinervaDownloadNamespaces":[0]};RLSTATE={"noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.inputBox.styles":"ready","mediawiki.ui.input":"ready","mediawiki.ui.checkbox":"ready","skins.minerva.base.styles":"ready","skins.minerva.content.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","mediawiki.ui.icon":"ready","mediawiki.ui.button":"ready","skins.minerva.icons.wikimedia":"ready","skins.minerva.icons.images":"ready","skins.minerva.mainMenu.icons":"ready","skins.minerva.mainMenu.styles":"ready","skins.minerva.mainPage.styles":"ready","mobile.init.styles":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.page.startup","skins.minerva.options","skins.minerva.scripts","ext.gadget.EtymologySectionFragment","ext.centralauth.centralautologin","mobile.site","mobile.init","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@wq302",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"es"});
+});mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=es&amp;modules=ext.inputBox.styles%7Cext.wikimediaBadges%7Cmediawiki.hlist%7Cmediawiki.ui.button%2Ccheckbox%2Cicon%2Cinput%7Cmobile.init.styles%7Cskins.minerva.base.styles%7Cskins.minerva.content.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons.images%2Cwikimedia%7Cskins.minerva.mainMenu.icons%2Cstyles%7Cskins.minerva.mainPage.styles&amp;only=styles&amp;skin=minerva"/>
+<script async="" src="/w/load.php?lang=es&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva&amp;target=mobile"></script>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.21"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="theme-color" content="#eaecf0"/>
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width"/>
+<link rel="manifest" href="/w/api.php?action=webapp-manifest"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wiktionary.png"/>
+<link rel="shortcut icon" href="/static/favicon/piece.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikcionario (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wiktionary.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://es.wiktionary.org/wiki/Wikcionario:Portada"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-4 ns-subject page-Wikcionario_Portada rootpage-Wikcionario_Portada stable page-Main_Page skin-minerva action-view">
+<div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<form class="header" action="/w/index.php" method="get">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input" class="toggle-list__checkbox" role="button" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button" title="Abrir menú principal" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-minerva-mainmenu toggle-list__toggle mw-ui-icon-flush-left" data-event-name="ui.mainmenu">Abrir menú principal</label>
+					<div id="mw-mf-page-left" class="menu toggle-list__list view-border-box">
+	<ul id="p-navigation">
+			<li class="">
+			    <a href="/wiki/Wikcionario:Portada" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-home" data-event-name="menu.home"><span>Inicio</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Especial:Random#/random" class="mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-die " data-event-name="menu.random"><span>Al azar</span></a>
+			</li>
+	</ul>
+	<ul id="p-personal">
+			<li class="">
+			    <a href="/w/index.php?title=Especial:Entrar&amp;returnto=Wikcionario%3APortada" class="menu__item--login mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-logIn " data-event-name="menu.login"><span>Acceder</span></a>
+			</li>
+	</ul>
+	<ul id="pt-preferences">
+			<li class="jsonly">
+			    <a href="/w/index.php?title=Especial:OpcionesParaM%C3%B3vil&amp;returnto=Wikcionario%3APortada" class="menu__item--settings mw-ui-icon mw-ui-icon-before mw-ui-icon-minerva-settings " data-event-name="menu.settings"><span>Configuración</span></a>
+			</li>
+	</ul>
+	<ul class="hlist">
+			<li class="">
+			    <a href="/wiki/Wikcionario:Acerca_de" class="" data-event-name=""><span>Acerca de Wikcionario</span></a>
+			</li>
+			<li class="">
+			    <a href="/wiki/Wikcionario:Descargo_general" class="" data-event-name=""><span>Aviso legal</span></a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Wikcionario:Portada">
+						<span>Wikcionario</span>
+						
+					</a>
+				</div>
+				<div class="search-box">
+					<input class="search mw-ui-background-icon-search skin-minerva-search-trigger" type="search" name="search" id="searchInput"
+						autocomplete="off" placeholder="Buscar en Wikcionario" aria-label="Buscar en Wikcionario"
+						value="">
+				</div>
+				<nav class="minerva-user-navigation" aria-label="Navegación de usuario">
+					<div><button id="searchIcon" class="mw-ui-icon mw-ui-icon-element mw-ui-icon-wikimedia-search-base20 skin-minerva-search-trigger" type="submit">Buscar</button></div>
+					
+				</nav>
+			</form>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="section_0"></h1>
+					<div class="tagline"></div>
+				</div>
+				
+				
+				
+				<div class="minerva__subtitle"></div>
+			</div>
+			
+			<div id="bodyContent" class="content"><div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><section class="mf-section-0" id="mf-section-0"><div id="inicial" style="float:center; clear:center; width:100%; padding-top:0.1em">
+<div id="RecuadroPortada" style="border:1px solid #ABCDEF; padding:10px; text-align:center; background-color:#EEF9FA;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<table id="superior" width="100%"><tbody><tr><td id="izquierda" width="50%" valign="top" style="padding-bottom:5px">
+<div style="font-size:180%; border:none; margin:0; padding:.1em;"><a href="/wiki/Wikcionario:Bienvenido" class="mw-redirect" title="Wikcionario:Bienvenido">Te damos la bienvenida</a> a <a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Wikcionario</a></div>
+<div style="padding-top:3px; font-size:112%"><a href="/wiki/diccionario" title="diccionario">El diccionario</a> <a href="https://es.wikipedia.org/wiki/Contenido_libre" class="extiw" title="w:Contenido libre">libre</a> que <a href="/wiki/Wikcionario:Ayuda" title="Wikcionario:Ayuda">todos pueden editar</a></div>
+<div style="padding-top:3px; font-size:100%"><a href="/wiki/Especial:Estad%C3%ADsticas" title="Especial:Estadísticas">896 874</a> entradas en español para más de <a href="/wiki/Categor%C3%ADa:Idiomas" title="Categoría:Idiomas">661 idiomas</a></div>
+</td>
+<td id="derecha" valign="top" align="center" style="font-size:100%;"><b>Explorar:</b> <a href="/wiki/Categor%C3%ADa:Campos_sem%C3%A1nticos" title="Categoría:Campos semánticos">por tema</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:Categor%C3%ADas_gramaticales" title="Categoría:Categorías gramaticales">por tipo de palabra</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:Idiomas" title="Categoría:Idiomas">por idioma</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:Palabras_por_origen" title="Categoría:Palabras por origen">por origen</a>
+<dl><dd><a href="/wiki/Categor%C3%ADa:Wikcionario:Ap%C3%A9ndices" title="Categoría:Wikcionario:Apéndices">Apéndices</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:Wikcionario:Wikisauro" title="Categoría:Wikcionario:Wikisauro">Tesauro</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:Fundamental" title="Categoría:Fundamental">Categorías</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Wikcionario:Referencia" title="Wikcionario:Referencia">Referencia</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:S%C3%ADmbolos" title="Categoría:Símbolos">Símbolos</a></dd>
+<dd><a href="/wiki/Ayuda:B%C3%BAsqueda" title="Ayuda:Búsqueda">Cómo buscar</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">    <a href="/wiki/Ayuda:Tutorial" title="Ayuda:Tutorial">Cómo editar</a>    <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Ayuda:C%C3%B3mo_puedo_colaborar" title="Ayuda:Cómo puedo colaborar">Cómo colaborar</a></dd></dl></td></tr><tr><td colspan="2" valign="top" align="center">
+<div style="width:100%">
+<form name="bodySearch0.434200317760" id="bodySearch0.434200317760" class="bodySearch mw-inputbox-inline" action="/wiki/Especial:Buscar"><div class="bodySearchWrap mw-inputbox-inline" style=""><input type="text" name="search" class="mw-ui-input mw-ui-input-inline" size="50" id="bodySearchInput0.434200317760" dir="ltr"> <input type="submit" name="go" value="Buscar" class="mw-ui-button"></div></form></div>
+<p><span style="font-size:90%"><b>Ten en cuenta:</b> <i>A diferencia de Wikipedia, las entradas de Wikcionario distinguen entre mayúscula y minúscula inicial. <br> No es lo mismo</i> «<b><a href="/wiki/victoria" title="victoria">victoria</a></b>» <i>que</i> «<b><a href="/wiki/Victoria" title="Victoria">Victoria</a></b>»<i>, ni </i>«<b><a href="/wiki/eso" title="eso">eso</a></b>» <i>que</i> «<b><a href="/wiki/ESO" title="ESO">ESO</a></b>» <i></i></span>
+</p>
+<div class="plainlinks" style="width:90%; text-align:center; font-size:95%; padding-top: 5px; border-top: 1px #AFEEEE solid"> <a class="external text" href="https://es.wiktionary.org/wiki/Wikcionario:Portada">Acceso seguro</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">  <a class="external text" href="https://es.m.wiktionary.org/">Acceso móvil</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Wikcionario:Caf%C3%A9" title="Wikcionario:Café">Contacto (Café)</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">  <a href="/wiki/Ayuda:Tutorial_(Ten_en_cuenta)" class="mw-redirect" title="Ayuda:Tutorial (Ten en cuenta)">Convivencia</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">  <a href="/wiki/Wikcionario:Acerca_de" title="Wikcionario:Acerca de">Quiénes somos</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="https://meta.wikimedia.org/wiki/List_of_Wiktionaries" class="extiw" title="meta:List of Wiktionaries">Meta-Wiki</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="https://www.mediawiki.org/wiki/MediaWiki/es" class="extiw" title="mw:MediaWiki/es">MediaWiki</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">  <a href="/wiki/Ayuda:Tutorial_(Registro)" class="mw-redirect" title="Ayuda:Tutorial (Registro)">Registrarse</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">  <a href="https://foundation.wikimedia.org/wiki/Donaciones" class="extiw" title="wikimedia:Donaciones">Donaciones</a></div>
+</td></tr></tbody></table></div>
+</div>
+<div style="float:right; clear:right; width:98%; padding-right:6px">
+<div style="background:#B2B2B2; height:1px; margin:0 0px; font-size:0"><a href="/wiki/Archivo:pix.gif" class="image"><img alt="pix.gif" src="//upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif" decoding="async" width="1" height="1" data-file-width="1" data-file-height="1"></a></div>
+<div style="border-left:1px solid #DFDFE0; border-right:1px solid #DFDFE0; background:#C7C7C7; height:1px; margin:0 0px; font-size:0"><a href="/wiki/Archivo:pix.gif" class="image"><img alt="pix.gif" src="//upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif" decoding="async" width="1" height="1" data-file-width="1" data-file-height="1"></a></div>
+<div style="border-left:1px solid #EDEDED; border-right:1px solid #EDEDED; background:#DFDFE0; height:1px; margin:0 1px; font-size:0"><a href="/wiki/Archivo:pix.gif" class="image"><img alt="pix.gif" src="//upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif" decoding="async" width="1" height="1" data-file-width="1" data-file-height="1"></a></div>
+<div style="background:#F2F2F3; height:1px; margin:0 2px; font-size:0"><a href="/wiki/Archivo:pix.gif" class="image"><img alt="pix.gif" src="//upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif" decoding="async" width="1" height="1" data-file-width="1" data-file-height="1"></a></div>
+<div style="background:#FCFCFC; height:1px; margin:0 5px; font-size:0"><a href="/wiki/Archivo:pix.gif" class="image"><img alt="pix.gif" src="//upload.wikimedia.org/wikipedia/commons/e/ed/Pix.gif" decoding="async" width="1" height="1" data-file-width="1" data-file-height="1"></a></div>
+</div>
+<table style="margin:7px 0 0 0; background:none; width:100%" cellspacing="2px;"><tbody><tr><td style="width:48%; border:1px solid #ABCDEF; vertical-align:top; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<table style="width: 100%; vertical-align:top;"><tbody><tr><th colspan="2"><div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/fc/Wiktbar.png" decoding="async" width="100" height="22" data-file-width="100" data-file-height="22"></div><div style="margin:0; background:#B6E6E6; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; padding:0.2em 0.4em; -moz-border-radius:6px; -webkit-border-radius: 6px; border-radius: 6px;"><a href="/wiki/Wikcionario:Bienvenido,_nuevo_visitante" title="Explora"><img alt="Explora" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Beagled.png/20px-Beagled.png" decoding="async" width="20" height="20" style="vertical-align: bottom" data-file-width="128" data-file-height="128"></a> <a href="/wiki/Wikcionario:Bienvenido,_nuevo_visitante" title="Wikcionario:Bienvenido, nuevo visitante">Qué explorar:</a></div>
+</th></tr><tr><td style="font-size:95%; vertical-align:top; padding-left:25px; width:52%" id="explorar">
+<ul><li><a href="/wiki/Ap%C3%A9ndice:Anagramas" title="Apéndice:Anagramas">Anagramas</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Campos_sem%C3%A1nticos" title="Categoría:Campos semánticos">Campos semánticos</a></li>
+<li><a href="/wiki/Ap%C3%A9ndice:Lemario" title="Apéndice:Lemario">Lemario del español</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Lista_Swadesh" title="Categoría:Lista Swadesh">Listas Swadesh</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Wikcionario:Palabras_m%C3%A1s_frecuentes" title="Categoría:Wikcionario:Palabras más frecuentes">Palabras de alta frecuencia</a></li></ul></td>
+<td style="font-size:95%; vertical-align:top" id="explorar">
+<ul><li><a href="/wiki/Categor%C3%ADa:Regionalismos" title="Categoría:Regionalismos">Regionalismos</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Registros_ling%C3%BC%C3%ADsticos" title="Categoría:Registros lingüísticos">Términos coloquiales</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Registros_ling%C3%BC%C3%ADsticos" title="Categoría:Registros lingüísticos">Registros lingüísticos</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Refranes" title="Categoría:Refranes">Refranes</a> – <a href="/wiki/Wikcionario:Sentencias" title="Wikcionario:Sentencias">Sentencias</a></li>
+<li><a href="/wiki/Categor%C3%ADa:Sufijos" title="Categoría:Sufijos">Sufijos</a> – <a href="/wiki/Categor%C3%ADa:Prefijos" title="Categoría:Prefijos">Prefijos</a></li></ul></td></tr><tr><td style="font-size:95%; vertical-align:top; padding-left:10px" id="explorar" colspan="2">
+<p><b>Listados:</b> <a href="/wiki/Ap%C3%A9ndice:Abreviaturas" title="Apéndice:Abreviaturas">Abreviaturas y siglas</a>  •  <a href="/wiki/Ap%C3%A9ndice:Animales" title="Apéndice:Animales">Animales</a>  • <a href="/wiki/Ap%C3%A9ndice:Armamento" title="Apéndice:Armamento">Armamento</a>  • <a href="/wiki/Ap%C3%A9ndice:Colores" title="Apéndice:Colores">Colores</a>  •  <a href="/wiki/Ap%C3%A9ndice:Cronolog%C3%ADas" title="Apéndice:Cronologías">Cronología</a>  •  <a href="/wiki/Ap%C3%A9ndice:Elementos" title="Apéndice:Elementos">Elementos</a>  • <a href="/wiki/Ap%C3%A9ndice:Formas" title="Apéndice:Formas">Formas</a>  •  <a href="/wiki/Ap%C3%A9ndice:Her%C3%A1ldica" title="Apéndice:Heráldica">Heráldica</a>  •  <a href="/wiki/Ap%C3%A9ndice:Libros_de_la_Biblia" title="Apéndice:Libros de la Biblia">Libros de la Biblia</a> • <a href="/wiki/Ap%C3%A9ndice:Lugares" title="Apéndice:Lugares">Lugares</a>  •  <a href="/wiki/Ap%C3%A9ndice:Minerales" title="Apéndice:Minerales">Minerales</a>  •  <a href="/wiki/Ap%C3%A9ndice:N%C3%BAmeros" title="Apéndice:Números">Números</a>  • <a href="/wiki/Ap%C3%A9ndice:Personas" title="Apéndice:Personas">Personas</a>  •  <a href="/wiki/Ap%C3%A9ndice:Plantas" title="Apéndice:Plantas">Plantas</a>  • <a href="/wiki/Ap%C3%A9ndice:Historia" title="Apéndice:Historia">Términos históricos</a>  • <a href="/wiki/Ap%C3%A9ndice:T%C3%A9rminos_marineros" title="Apéndice:Términos marineros">Términos marineros</a>  •  <a href="/wiki/Ap%C3%A9ndice:Veh%C3%ADculos" title="Apéndice:Vehículos">Vehículos</a>
+</p>
+</td></tr></tbody></table></td>
+<td style="padding-top:3px; border:1px solid #ABCDEF; background-color:#f0ffff; vertical-align:top; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<div style="border:none; background-color:#f0ffff; padding:0 10px 0 10px; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<p><span style="float:left;margin-top:-16px;margin-left:-12px;"><a href="/wiki/Archivo:Plume_pen_w.png" class="image"><img alt="Plume pen w.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Plume_pen_w.png/75px-Plume_pen_w.png" decoding="async" width="75" height="55" data-file-width="431" data-file-height="316"></a></span>
+</p>
+<div style="padding-top:8px; font-size:140%; padding-bottom:3px; background:#add8e6;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">  Palabra de la semana</div>
+<div style="font-size:11px; padding:2px 8px 3px 0; text-align:right;">Semana 9 • <a href="/wiki/jueves" title="jueves">jueves</a>, 27 de <a href="/wiki/febrero" title="febrero">febrero</a> de 2020 (<a href="/wiki/Tiempo_Universal_Coordinado" class="mw-redirect" title="Tiempo Universal Coordinado">UTC</a>)</div>
+<table cellspacing="0" style="background-repeat: no-repeat; background-color:#fff; width:100%; color: black; padding:10px; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"><tbody><tr><td>
+<table align="center"><tbody><tr><td><span style="font-size:140%; font-weight:bold;"><a href="/wiki/c%C3%A1mara" title="cámara">cámara</a></span> • <a href="/wiki/sustantivo" title="sustantivo">sustantivo</a> (femenino)
+<ul><li><b>Flexión:</b> cámara — cámaras</li></ul><ul><li><b>Traducción:</b> <a href="/wiki/camera" title="camera">camera</a>; <a href="/wiki/chamber" title="chamber">chamber</a>; <a href="/wiki/room" title="room">room</a>; <a href="/wiki/hall" title="hall">hall</a></li></ul></td>
+<td valign="top" style="padding-left:30px"><div style="width:75px;border: 2px solid #AABBDD;"><a href="/wiki/Archivo:ARRI_16_ST_Stativ,_1.jpg" class="image"><img alt="ARRI 16 ST Stativ, 1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/ARRI_16_ST_Stativ%2C_1.jpg/75px-ARRI_16_ST_Stativ%2C_1.jpg" decoding="async" width="75" height="108" data-file-width="1141" data-file-height="1638"></a></div>
+</td></tr></tbody></table></td></tr></tbody></table><div style="font-size:75%; padding-top:3px; text-align: center"><a href="/wiki/Wikcionario:Palabra_de_la_semana" title="Wikcionario:Palabra de la semana">Sobre la palabra de la semana</a> — <a href="/wiki/Wikcionario:Palabra_de_la_semana/Propuestas" title="Wikcionario:Palabra de la semana/Propuestas">Propuestas</a></div>
+</div>
+</td></tr><tr><td style="border:1px solid #ABCDEF; background:#fff; vertical-align:top; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<table style="padding: 2px; width: 100%; vertical-align:top; background:#fff"><tbody><tr><th colspan="2"><div style="float:right; margin:2px 2px 0px 0px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/fc/Wiktbar.png" decoding="async" width="100" height="22" data-file-width="100" data-file-height="22"></div><div style="margin:0; background:#B6E6E6; font-size:100%; font-weight:bold; border:1px solid #ccc; text-align:left; color:#000; padding:0.2em 0.4em; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"><a href="/wiki/Wikcionario:C%C3%B3mo_puedo_colaborar" title="Participa"><img alt="Participa" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Gnome-unknown.png/20px-Gnome-unknown.png" decoding="async" width="20" height="20" style="vertical-align: bottom" data-file-width="128" data-file-height="128"></a> <a href="/wiki/Wikcionario:C%C3%B3mo_puedo_colaborar" title="Wikcionario:Cómo puedo colaborar">Cómo participar</a></div>
+</th></tr><tr><td style="font-size:95%; vertical-align:top; padding-left:25px; width:52%" id="participar">
+<ul><li><a href="/wiki/Ayuda:Tutorial" title="Ayuda:Tutorial">Tutorial</a></li>
+<li><a href="/wiki/Ayuda:Mapa_de_ayuda" title="Ayuda:Mapa de ayuda">Mapa de ayuda</a></li>
+<li><a href="/wiki/Wikcionario:COMOs" title="Wikcionario:COMOs">¿Cómo...?</a></li>
+<li><a href="/wiki/Wikcionario:Solicitudes" title="Wikcionario:Solicitudes">Solicitud de entradas</a></li>
+<li><a href="/wiki/Wikcionario:Consultas" title="Wikcionario:Consultas">Consultas lingüísticas</a></li>
+<li><a href="/wiki/Wikcionario:Caf%C3%A9" title="Wikcionario:Café">Preguntas (Café)</a></li></ul></td>
+<td style="font-size:95%; vertical-align:top" id="participar">
+<ul><li><a href="/wiki/Wikcionario:Estructura" title="Wikcionario:Estructura">Manual de estilo</a></li>
+<li><a href="/wiki/Ayuda:Categor%C3%ADas" title="Ayuda:Categorías">Categorías wiki</a></li>
+<li><a href="/wiki/Ayuda:Plantillas" title="Ayuda:Plantillas">Plantillas</a></li>
+<li><a href="/wiki/Wikcionario:Pronunciaci%C3%B3n" title="Wikcionario:Pronunciación">Transcripción de pronunciación</a></li>
+<li><a href="/wiki/Wikcionario:Etimolog%C3%ADa" title="Wikcionario:Etimología">Formato de etimologías</a></li>
+<li><a href="/wiki/Wikcionario:Qu%C3%A9_se_espera_de_una_acepci%C3%B3n" title="Wikcionario:Qué se espera de una acepción">Cómo redactar definiciones</a></li></ul></td></tr></tbody></table></td>
+<td rowspan="2" style="border:1px solid #ABCDEF; background-color:#f0ffff; vertical-align:top; color:#000; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<div style="border:none; background-color:#f0ffff; padding:0 10px 0 10px; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<p><span style="float:left;margin-top:-20px;margin-left:-12px;padding-right:5px"><a href="/wiki/Archivo:Wikt_Globe_Bullet.svg" class="image"><img alt="Wikt Globe Bullet.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wikt_Globe_Bullet.svg/60px-Wikt_Globe_Bullet.svg.png" decoding="async" width="60" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wikt_Globe_Bullet.svg/90px-Wikt_Globe_Bullet.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Wikt_Globe_Bullet.svg/120px-Wikt_Globe_Bullet.svg.png 2x" data-file-width="200" data-file-height="200"></a></span>
+</p>
+<div style="padding-top:8px; font-size:140%; padding-bottom:3px; background:#add8e6;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"> Lengua del mes <span style="font-size:16px"> • <a href="/wiki/febrero" title="febrero">febrero</a> </span> </div>
+<table cellspacing="0" style="background:#fff; color: #2f4f4f; border:none; width:100%; padding:10px; margin-top: 4px; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"><tbody><tr><td>
+<p><span style="font-size:140%; font-weight:bold;"><a href="/wiki/azer%C3%AD" title="azerí">azerí</a></span> 
+</p>
+<ul><li><b>Familia:</b>  <a href="https://es.wikipedia.org/wiki/Lenguas_altaicas" class="extiw" title="w:Lenguas altaicas">altaicas</a></li>
+<li><b>Hablada en:</b> <a href="/wiki/Azerbaiy%C3%A1n" title="Azerbaiyán">Azerbaiyán</a>, <a href="/wiki/Armenia" title="Armenia">Armenia</a>, <a href="/wiki/Georgia" title="Georgia">Georgia</a>, <a href="/wiki/Irak" title="Irak">Irak</a>, <a href="/wiki/Ir%C3%A1n" title="Irán">Irán</a>, <a href="/wiki/Kazajist%C3%A1n" title="Kazajistán">Kazajistán</a>, <a href="/wiki/Rusia" title="Rusia">Rusia</a>, <a href="/wiki/Turkmenist%C3%A1n" title="Turkmenistán">Turkmenistán</a>, <a href="/wiki/Turqu%C3%ADa" title="Turquía">Turquía</a>, <a href="/wiki/Ucrania" title="Ucrania">Ucrania</a>, <a href="/wiki/Uzbekist%C3%A1n" title="Uzbekistán">Uzbekistán</a> entre otras.</li></ul><ul><li>Ahora tenemos 195 <a href="/wiki/Categor%C3%ADa:Azer%C3%AD-Espa%C3%B1ol" title="Categoría:Azerí-Español">palabras del azerí</a> en <i>Wikcionario</i>:
+<ul><li>¡<a href="/wiki/Categor%C3%ADa:Azer%C3%AD-Espa%C3%B1ol" title="Categoría:Azerí-Español">explóralas</a> y ayúdanos a aumentar su número!</li>
+<li><a href="/w/index.php?title=Categor%C3%ADa:az:Campos_sem%C3%A1nticos&amp;action=edit&amp;redlink=1" class="new" title="Categoría:az:Campos semánticos (la página no existe)">Campos semánticos del azerí</a></li>
+<li>Contribuye a crear o completar la <b><a href="/w/index.php?title=Wikcionario:Referencia/az&amp;action=edit&amp;redlink=1" class="new" title="Wikcionario:Referencia/az (la página no existe)">Referencia del azerí</a></b> (gramática, pronunciación, etc.)</li></ul></li></ul><ul><li><a href="https://es.wikipedia.org/wiki/Idioma_azer%C3%AD" class="extiw" title="w:Idioma azerí">Explora este idioma en Wikipedia</a></li></ul></td></tr></tbody></table><div style="font-size:85%; padding-top:5px; text-align: center;"><a href="/wiki/Wikcionario:Lengua_del_mes" title="Wikcionario:Lengua del mes">Sobre la lengua del mes</a> — <a href="/wiki/Wikcionario:Lengua_del_mes/Propuestas" title="Wikcionario:Lengua del mes/Propuestas">Propuestas</a></div></div>
+</td></tr><tr><td style="border:1px solid #ABCDEF; background:#fff; vertical-align:top; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<table style="padding: 2px; width: 100%; vertical-align:top; background:#fff"><tbody><tr><th colspan="2"><div style="float:right; margin:2px 2px 0 0"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/fc/Wiktbar.png" decoding="async" width="100" height="22" data-file-width="100" data-file-height="22"></div><div style="margin:0; background:#B6E6E6; font-size:100%; border:1px solid #ccc; text-align:left; padding:0.2em 0.4em; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;"><a href="/wiki/Wikcionario:Mapa_de_ayuda" title="Recursos"><img alt="Recursos" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Gnome-status.png/20px-Gnome-status.png" decoding="async" width="20" height="20" style="vertical-align: bottom" data-file-width="128" data-file-height="128"></a> <a href="/wiki/Wikcionario:Recursos" title="Wikcionario:Recursos">Otros recursos</a></div>
+</th></tr><tr><td style="font-size:95%; vertical-align:top; padding-left:25px; width:52%" id="recursos">
+<ul><li><a href="/wiki/Ayuda:FAQ_General" class="mw-redirect" title="Ayuda:FAQ General">Preguntas frecuentes</a></li>
+<li><a href="/wiki/Wikcionario:Embajada" title="Wikcionario:Embajada">Embajada</a></li>
+<li><a href="/wiki/Wikcionario:Usuarios_por_tipo" title="Wikcionario:Usuarios por tipo">Tipos de usuario</a></li>
+<li><a href="/wiki/Wikcionario:NO" class="mw-redirect" title="Wikcionario:NO">Qué <i>no</i> es <i>Wikcionario</i></a></li></ul></td>
+<td style="font-size:95%; vertical-align:top" id="recursos">
+<ul><li><a href="/wiki/Wikcionario:Recursos" title="Wikcionario:Recursos">Obras de consulta</a></li>
+<li><a href="/wiki/Wikcionario:Fuentes_para_traductores" title="Wikcionario:Fuentes para traductores">Diccionarios</a></li>
+<li><a href="/wiki/Wikcionario:Referencias" title="Wikcionario:Referencias">Cómo citar</a></li>
+<li><a href="/wiki/Wikcionario:C%C3%B3mo_a%C3%B1adir_im%C3%A1genes" title="Wikcionario:Cómo añadir imágenes">Cómo añadir imágenes</a></li></ul></td></tr><tr><td colspan="2" style="vertical-align:top; font-size:95%" id="referencia">
+<ul><li><b><a href="/wiki/Wikcionario:Referencia/ES" title="Wikcionario:Referencia/ES">Referencia del español</a></b>: <a href="/wiki/Wikcionario:Referencia/ES/Ortograf%C3%ADa" title="Wikcionario:Referencia/ES/Ortografía">ortografía</a>, <a href="/wiki/Wikcionario:Referencia/ES/Gram%C3%A1tica" title="Wikcionario:Referencia/ES/Gramática">gramática</a>, <a href="/wiki/Wikcionario:Referencia/ES/Pronunciaci%C3%B3n" title="Wikcionario:Referencia/ES/Pronunciación">pronunciación</a>, <a href="/wiki/Wikcionario:Variantes_regionales_del_espa%C3%B1ol" title="Wikcionario:Variantes regionales del español">variantes regionales</a>, <a href="/wiki/Wikcionario:Referencia/ES/Morfolog%C3%ADa" title="Wikcionario:Referencia/ES/Morfología">morfología</a>, <a href="/wiki/Wikcionario:Referencia/ES/Conjugaci%C3%B3n" title="Wikcionario:Referencia/ES/Conjugación">conjugación</a>, <a href="/wiki/Wikcionario:Referencia/ES/Tesauro" title="Wikcionario:Referencia/ES/Tesauro">tesauro</a></li>
+<li><b><a href="/wiki/Wikcionario:Referencia" title="Wikcionario:Referencia">Referencia de otros idiomas</a></b> en <i>Wikcionario</i></li></ul></td></tr></tbody></table></td></tr></tbody></table><div style="border:1px solid #ABCDEF; background-color:#f0ffff; padding:10px;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<div style="border-bottom: 1px solid #AAAAAA; font-size:130%; padding-bottom:3px; padding-top:5px; background:#B6E6E6;"><span style="float:left;margin-top:-20px;margin-left:-20px;"><a href="/wiki/Especial:Todas" title="Especial:Todas"><img alt="N index.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/N_index.svg/50px-N_index.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/N_index.svg/75px-N_index.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/N_index.svg/100px-N_index.svg.png 2x" data-file-width="44" data-file-height="44"></a></span><span style="padding-left:15px; font-weight:bold"><a href="/wiki/Especial:Todas" title="Especial:Todas">Índice alfabético</a></span></div>
+<div class="plainlinks" style="background:#fff; padding:5px; text-align:center; margin: 8px auto 0px auto; border:1px solid #ABCDEF; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<p><a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=a">a</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=b">b</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=c">c</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=d">d</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=e">e</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=f">f</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=g">g</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=h">h</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=i">i</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=j">j</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=k">k</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=l">l</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=m">m</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=n">n</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%B1">ñ</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=o">o</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=p">p</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=q">q</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=r">r</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=s">s</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=t">t</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=u">u</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=v">v</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=w">w</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=x">x</a> · 
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=y">y</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=z">z</a> <span style="padding:20px">—</span>
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%A1">á</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%A9">é</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%AD">í</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%B3">ó</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%BA">ú</a> 
+</p><p><a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=A">A</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=B">B</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=C">C</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=D">D</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=E">E</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=F">F</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=G">G</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=H">H</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=I">I</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=J">J</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=K">K</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=L">L</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=M">M</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=N">N</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%91">Ñ</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=O">O</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=P">P</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=Q">Q</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=R">R</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=S">S</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=T">T</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=U">U</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=V">V</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=W">W</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=X">X</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=Y">Y</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=Z">Z</a> <span style="padding:16px">—</span>
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%81">Á</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%89">É</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%8D">Í</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%93">Ó</a> ·
+<a class="external text" href="https://es.wiktionary.org/w/wiki.phtml?title=Special:Allpages&amp;from=%C3%9A">Ú</a>
+</p>
+</div>
+<div style="margin-top:5px;text-align:center;font-size:90%"><a href="/wiki/Wikcionario:%C3%8Dndice/Por_idioma" title="Wikcionario:Índice/Por idioma">Índices por idioma</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Especial:Aleatoria" title="Especial:Aleatoria">Entrada al azar</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Especial:P%C3%A1ginasNuevas" title="Especial:PáginasNuevas">Entradas nuevas</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Ap%C3%A9ndice:Lemario" title="Apéndice:Lemario">Lemario del español</a></div>
+</div>
+<div class="plainlinks" style="padding-top:2px">
+<div style="border:1px solid #ABCDEF; background-color:#f0ffff; padding:10px;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<div style="border-bottom: 1px solid #AAAAAA;font-size:130%; padding-bottom:3px; padding-top:5px; background:#B6E6E6;"><span style="float:left;margin-top:-20px;margin-left:-20px;"><a href="http://www.wiktionary.org/"><img alt="Wiktionary-logo-simple.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wiktionary-logo-simple.png/60px-Wiktionary-logo-simple.png" decoding="async" width="60" height="49" data-file-width="155" data-file-height="127"></a></span><span class="plainlinks" style="padding-left:15px; font-weight:bold"><a class="external text" href="https://www.wiktionary.org/">Ediciones de Wikcionario en otros idiomas</a></span></div>
+<div style="background:#fff; padding:5px; text-align:center; margin-top:8px; border:1px solid #ABCDEF; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<p>Estás ahora en la versión de <i>Wikcionario</i> en español, en la que palabras de todos los idiomas se definen en español. Por ejemplo, puedes ver nuestra entrada para la palabra alemana <span lang="de" style="font-style:italic;" class=""><a href="/wiki/W%C3%B6rterbuch#Alem%C3%A1n" title="Wörterbuch">Wörterbuch</a></span>. Para buscar la definición en alemán, visitas la <a href="https://de.wiktionary.org/wiki/W%C3%B6rterbuch" class="extiw" title="de:Wörterbuch">entrada equivalente del <i>Wikcionario</i> en alemán</a> (que se llama <i>Wikiwörterbuch</i>).
+</p><p><b>Quince <i>Wikcionarios</i> con más de 250 000 entradas:</b><br><a href="https://en.wiktionary.org/wiki/" class="extiw" title="en:">English (inglés)</a> • <a href="https://fr.wiktionary.org/wiki/" class="extiw" title="fr:">Français (francés)</a> • <a href="https://zh.wiktionary.org/wiki/" class="extiw" title="zh:">中文 (chino)</a> • <a href="https://mg.wiktionary.org/wiki/" class="extiw" title="mg:">Malagasy (malgache)</a> • <a href="https://lt.wiktionary.org/wiki/" class="extiw" title="lt:">Lietuvių (lituano)</a> • <a href="https://ru.wiktionary.org/wiki/" class="extiw" title="ru:">Русский (ruso)</a> • <a href="https://el.wiktionary.org/wiki/" class="extiw" title="el:">Ελληνικά (griego)</a> • <a href="https://ko.wiktionary.org/wiki/" class="extiw" title="ko:">한국어 (coreano)</a> • <br><a href="https://pl.wiktionary.org/wiki/" class="extiw" title="pl:">Polski (polaco)</a> • <a href="https://sv.wiktionary.org/wiki/" class="extiw" title="sv:">Svenska (sueco)</a> • <a href="https://tr.wiktionary.org/wiki/" class="extiw" title="tr:">Türkçe (turco)</a> • <a href="https://ta.wiktionary.org/wiki/" class="extiw" title="ta:">தமிழ் (támil)</a> • <a href="https://nl.wiktionary.org/wiki/" class="extiw" title="nl:">Nederlands (neerlandés)</a> • <a href="https://de.wiktionary.org/wiki/" class="extiw" title="de:">Deutsch (alemán)</a> • <a href="https://ku.wiktionary.org/wiki/" class="extiw" title="ku:">Kurdî / كوردی (kurdo)</a>
+</p><p><b>De idiomas relacionados con el español:</b><br><a href="https://an.wiktionary.org/wiki/" class="extiw" title="an:">Aragonés</a> • <a href="https://ast.wiktionary.org/wiki/" class="extiw" title="ast:">Asturianu (asturiano)</a> • <a href="https://gn.wiktionary.org/wiki/" class="extiw" title="gn:">Avañe'ẽ (guaraní)</a> • <a href="https://ay.wiktionary.org/wiki/" class="extiw" title="ay:">Aymar (aimara)</a> • <a href="https://ca.wiktionary.org/wiki/" class="extiw" title="ca:">Català (catalán)</a> • <a href="https://eo.wiktionary.org/wiki/" class="extiw" title="eo:">Esperanto</a> • <a href="https://eu.wiktionary.org/wiki/" class="extiw" title="eu:">Euskara (euskera/vasco)</a> • <br><a href="https://gl.wiktionary.org/wiki/" class="extiw" title="gl:">Galego (gallego)</a> • <a href="https://ia.wiktionary.org/wiki/" class="extiw" title="ia:">Interlingua</a> • <a href="https://it.wiktionary.org/wiki/" class="extiw" title="it:">Italiano</a> • <a href="https://la.wiktionary.org/wiki/" class="extiw" title="la:">Latina (latín)</a> • <a href="https://lad.wiktionary.org/wiki/" class="extiw" title="lad:">Ladino</a> • <a href="https://nah.wiktionary.org/wiki/" class="extiw" title="nah:">Nāhuatl (náhuatl)</a> • <a href="https://oc.wiktionary.org/wiki/" class="extiw" title="oc:">Occitan (occitano)</a> • <a href="https://pap.wiktionary.org/wiki/" class="extiw" title="pap:">Papiamentu (papiamento)</a> • <br><a href="https://pt.wiktionary.org/wiki/" class="extiw" title="pt:">Português (portugués)</a> • <a href="https://qu.wiktionary.org/wiki/" class="extiw" title="qu:">Runa Simi (quechua)</a> • <a href="https://ro.wiktionary.org/wiki/" class="extiw" title="ro:">Română (rumano)</a> • <a href="https://tl.wiktionary.org/wiki/" class="extiw" title="tl:">Tagalog (tagalo)</a> • <a href="https://war.wiktionary.org/wiki/" class="extiw" title="war:">Winaray (wáray-wáray)</a>
+</p>
+</div>
+<div style="font-size:90%; padding-top:5px; text-align: center"><a href="https://meta.wikimedia.org/wiki/List_of_Wiktionaries" class="extiw" title="meta:List of Wiktionaries">Lista en Meta-Wiki</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a class="external text" href="https://www.wiktionary.org/">Wiktionary.org</a></div>
+</div></div>
+<div style="padding-top:2px;">
+<div style="border:1px solid #ABCDEF; background-color:#f0ffff; padding:10px;-moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<div style="border-bottom: 1px solid #AAAAAA; font-size:130%; padding-bottom:3px; padding-top:5px; background:#B6E6E6;"><span style="float:left;margin-top:-20px;margin-left:-20px;"><a href="https://foundation.wikimedia.org/wiki/Sobre_Wikimedia" title="foundation:Sobre Wikimedia"><img alt="Wikimedia-logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wikimedia-logo.png/50px-Wikimedia-logo.png" decoding="async" width="50" height="50" data-file-width="1198" data-file-height="1198"></a></span><span style="padding-left:15px; font-weight:bold"><a href="https://foundation.wikimedia.org/wiki/Nuestros_proyectos" class="extiw" title="foundation:Nuestros proyectos">Proyectos hermanos</a></span></div>
+<div style="background:#fff; padding:5px; text-align:center; margin-top:8px; border:1px solid #ABCDEF; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<p><i>Wikcionario</i> es un proyecto de la <a href="https://foundation.wikimedia.org/wiki/" class="extiw" title="foundation:">Fundación Wikimedia</a>, una organización sin ánimo de lucro ubicada en <a href="https://es.wikipedia.org/wiki/Florida" class="extiw" title="w:Florida">La Florida</a>, <a href="https://es.wikipedia.org/wiki/United_States" class="extiw" title="w:United States">EE. UU.</a> <br>Wikimedia administra otros <a href="/wiki/wiki" title="wiki">wiki</a>-proyectos <a href="/wiki/multiling%C3%BCe" title="multilingüe">multilingües</a> de <a href="https://es.wikipedia.org/wiki/Contenido_libre" class="extiw" title="w:Contenido libre">contenido libre</a>:
+</p>
+<table cellpadding="0" cellspacing="0" style="width:98%; background:none; margin-top:10px;"><tbody><tr style="text-align:center; padding:10px;"><td><div class="noresize"><a href="https://es.wikipedia.org/wiki/" title="Wikipedia"><img alt="Wikipedia-logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wikipedia-logo.png/40px-Wikipedia-logo.png" decoding="async" width="40" height="40" data-file-width="200" data-file-height="200"></a></div>
+</td>
+<td><div class="noresize"><a href="https://es.wikibooks.org/wiki/" title="Wikilibros"><img alt="Wikibooks-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/35px-Wikibooks-logo.svg.png" decoding="async" width="35" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/53px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/70px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300"></a></div>
+</td>
+<td><div class="noresize"><a href="https://es.wikiquote.org/wiki/" title="Wikiquote"><img alt="Wikiquote-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/53px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/70px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355"></a></div>
+</td>
+<td><div class="noresize"><a href="https://es.wikisource.org/wiki/" title="Wikisource"><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/35px-Wikisource-logo.svg.png" decoding="async" width="35" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/53px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/70px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430"></a></div>
+</td>
+<td><div class="noresize"><a href="https://species.wikimedia.org/wiki/Portada" title="Wikiespecies"><img alt="Wikispecies-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/35px-Wikispecies-logo.svg.png" decoding="async" width="35" height="41" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/53px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/70px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103"></a></div>
+</td>
+<td><div class="noresize"><a href="https://es.wikinews.org/wiki/Portada" title="Wikinoticias"><img alt="Wikinews-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/55px-Wikinews-logo.svg.png" decoding="async" width="55" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/83px-Wikinews-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wikinews-logo.svg/110px-Wikinews-logo.svg.png 2x" data-file-width="759" data-file-height="415"></a></div>
+</td></tr><tr style="text-align:center; vertical-align:top; font-size:85%;"><td style="padding-bottom:10px;"><a href="https://es.wikipedia.org/wiki/" class="extiw" title="w:"><b>Wikipedia</b></a><br>Enciclopedia libre
+</td>
+<td style="padding-bottom:10px;"><a href="https://es.wikibooks.org/wiki/" class="extiw" title="b:"><b>Wikilibros</b></a><br> Libros de texto y manuales
+</td>
+<td style="padding-bottom:10px;"><a href="https://es.wikiquote.org/wiki/" class="extiw" title="q:"><b>Wikiquote</b></a><br>Colección de citas
+</td>
+<td style="padding-bottom:10px;"><a href="https://es.wikisource.org/wiki/" class="extiw" title="s:"><b>Wikisource</b></a><br>Biblioteca libre
+</td>
+<td style="padding-bottom:10px;"><a href="https://species.wikimedia.org/wiki/Portada" class="extiw" title="wikispecies:Portada"><b>Wikiespecies</b></a><br>Directorio de especies
+</td>
+<td style="padding-bottom:10px;"><a href="https://es.wikinews.org/wiki/" class="extiw" title="n:"><b>Wikinoticias</b></a><br>Noticias libres
+</td></tr><tr style="text-align:center; padding:10px;"><td><div class="noresize"><a href="https://commons.wikimedia.org/wiki/Portada" title="Commons"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/35px-Commons-logo.svg.png" decoding="async" width="35" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/53px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/70px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376"></a></div>
+</td>
+<td><div class="noresize"><a href="https://meta.wikimedia.org/wiki/es/Portada" title="Meta-Wiki"><img alt="Wikimedia Community Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/36px-Wikimedia_Community_Logo.svg.png" decoding="async" width="36" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/54px-Wikimedia_Community_Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Wikimedia_Community_Logo.svg/72px-Wikimedia_Community_Logo.svg.png 2x" data-file-width="900" data-file-height="900"></a></div>
+</td>
+<td><div class="noresize"><a href="https://es.wikiversity.org/wiki/Portada" title="Wikiversidad"><img alt="Wikiversity-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/45px-Wikiversity-logo.svg.png" decoding="async" width="45" height="36" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/68px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/90px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800"></a></div>
+</td>
+<td><div class="noresize"><a href="https://es.wikivoyage.org/wiki/Portada" title="Wikiviajes"><img alt="Wikivoyage-Logo-v3-icon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/31px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="31" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/47px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/62px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193"></a></div>
+</td>
+<td><div class="noresize"><a href="https://www.wikidata.org/wiki/Wikidata:Portada" title="Wikidata"><img alt="Wikidata-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/50px-Wikidata-logo.svg.png" decoding="async" width="50" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/75px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/100px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590"></a></div>
+</td>
+<td><div class="noresize"><a href="https://www.mediawiki.org/wiki/MediaWiki/es" title="MediaWiki"><img alt="Mediawiki-logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mediawiki-logo.png/45px-Mediawiki-logo.png" decoding="async" width="45" height="34" data-file-width="135" data-file-height="102"></a></div>
+</td></tr><tr style="text-align:center; vertical-align:top; font-size:85%;"><td style="padding-bottom:10px;"><a href="https://commons.wikimedia.org/wiki/Portada" class="extiw" title="commons:Portada"><b>Commons</b></a><br>Imágenes y multimedia
+</td>
+<td style="padding-bottom:10px;"><a href="https://meta.wikimedia.org/wiki/Portada/ES" class="extiw" title="m:Portada/ES"><b>Meta-Wiki</b></a><br>Coordinación de proyectos
+</td>
+<td style="padding-bottom:10px;"><a href="https://es.wikiversity.org/wiki/Portada" class="extiw" title="v:Portada"><b>Wikiversidad</b></a><br>Plataforma educativa libre
+</td>
+<td style="padding-bottom:10px;"><a href="https://es.wikivoyage.org/wiki/Portada" class="extiw" title="voy:Portada"><b>Wikiviajes</b></a><br>Guía de viajes
+</td>
+<td style="padding-bottom:10px;"><a href="https://www.wikidata.org/wiki/Wikidata:Portada" class="extiw" title="d:Wikidata:Portada"><b>Wikidata</b></a><br>Base de datos libre
+</td>
+<td style="padding-bottom:10px;"><a href="https://www.mediawiki.org/wiki/MediaWiki/es" class="extiw" title="mw:MediaWiki/es"><b>MediaWiki</b></a><br>Desarrollo de software libre
+</td></tr></tbody></table></div></div></div>
+<div style="margin-top:2px; text-align:center; border:1px solid #B0E0E6; background:#F5FFFF; text-align:center; color:#000; -moz-border-radius:4px; -webkit-border-radius: 4px; border-radius: 4px;">
+<p><a href="https://foundation.wikimedia.org/wiki/Terms_of_Use/es" class="extiw" title="wmf:Terms of Use/es">Términos y condiciones de uso</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="https://meta.wikimedia.org/wiki/List_of_Wiktionaries" class="extiw" title="meta:List of Wiktionaries">Wikcionarios en Meta-Wiki</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Especial:Estad%C3%ADsticas" title="Especial:Estadísticas">Estadísticas</a>   <img alt="·" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bullet-blue.png/5px-Bullet-blue.png" decoding="async" title="·" width="5" height="5" data-file-width="747" data-file-height="747">   <a href="/wiki/Categor%C3%ADa:Wikcionario:Estad%C3%ADsticas" title="Categoría:Wikcionario:Estadísticas">Otras estadísticas</a> (históricas)
+</p>
+</div>
+<p><br></p>
+
+
+
+
+</section></div><noscript><img src="//es.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;mobile=1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">
+Obtenido de «<a dir="ltr" href="https://es.wiktionary.org/w/index.php?title=Wikcionario:Portada&amp;oldid=4697444">https://es.wiktionary.org/w/index.php?title=Wikcionario:Portada&amp;oldid=4697444</a>»</div>
+</div>
+			<div class="post-content" id="page-secondary-actions">
+			<a class="language-selector mw-ui-button button" href="/wiki/Especial:MobileLanguages/Wikcionario:Portada">Idioma</a>
+			</div>
+		</main>
+		<footer class="minerva-footer">
+		<div class="last-modified-bar">
+	<div class="post-content last-modified-bar__content">
+		<span class="last-modified-bar__icon mw-ui-icon mw-ui-icon-mw-ui-icon-small mw-ui-icon-minerva-clock "></span>
+		<a class="last-modified-bar__text" href="/wiki/Especial:History/Wikcionario:Portada"
+				data-user-name=""
+				data-user-gender=""
+				data-timestamp="">
+				<span>Ver el historial de ediciones de esta página.</span>
+		</a>
+		<span class="mw-ui-icon mw-ui-icon-small mw-ui-icon-mf-expand-gray mf-mw-ui-icon-rotate-anti-clockwise indicator"></span>
+	</div>
+</div>
+
+		<div class="post-content footer-content">
+			
+			<h2>Wikcionario</h2>
+			<div class="license">El contenido está disponible bajo la licencia <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, salvo que se indique lo contrario.</div>
+			<ul class="footer-places hlist hlist-separated">
+				<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Privacidad</a></li><li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//es.wiktionary.org/w/index.php?title=Wikcionario:Portada&amp;mobileaction=toggle_view_desktop">Escritorio</a></li>
+			</ul>
+		</div>
+		</footer>
+	</div>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.0 -->
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.124","walltime":"0.182","ppvisitednodes":{"value":370,"limit":1000000},"postexpandincludesize":{"value":28380,"limit":2097152},"templateargumentsize":{"value":4048,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6607,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   94.161      1 -total"," 43.46%   40.924      1 Plantilla:proyectoswikimedia"," 25.71%   24.206      1 Plantilla:Portada:TablaSuperior"," 18.87%   17.764      1 Plantilla:l+"," 15.29%   14.396      1 Plantilla:l"," 11.00%   10.357      1 Plantilla:lengua_del_mes/02"," 10.80%   10.167      1 Plantilla:getlang","  9.24%    8.700      1 Plantilla:palabra_de_la_semana/9","  8.29%    7.804      1 Plantilla:Portada:Encabezado","  8.11%    7.638      1 Plantilla:leng.mes"]},"cachereport":{"origin":"mw1351","timestamp":"20200227010638","ttl":3600,"transientcontent":true}}});});</script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":187,"wgHostname":"mw1265"});});</script>		</body>
+		</html>
+		
