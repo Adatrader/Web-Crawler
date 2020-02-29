@@ -1,12 +1,12 @@
 # Web-Crawler
 CS 4990 Project
 
-Seed database with 1 url per 3 languages
-Set language tag 
-Visits 1000 urls each and parses full html
-Generates frequency of words per page, prints to csv 
-Records number of outlinks per page, prints to csv
+Seed database with 1 url per 3 languages (Set to french, spanish, and english wikipedia home pages)<br />
+Set language tag <br />
+Visits 1000 urls each and parses full html<br />
+Generates frequency of words per page, prints to csv <br />
+Records number of outlinks per page, prints to csv<br />
 
 
-Jsoup dependency required: 
+Jsoup dependency required: <br />
 https://jsoup.org/download
